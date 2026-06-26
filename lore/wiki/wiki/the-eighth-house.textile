@@ -32,6 +32,10 @@ While modern historians often remember the House solely for its necromancy, the 
 
 To House Samhain, death was not an ending but a transition. The duty of the living was not to defeat mortality, but to remember those who had passed and preserve what they had learned.
 
+h3. House Marks
+
+Modern [[Factor | Factors]] bear enchanted house tattoos; [[Adjutant | Adjutants]] wear gold bracelets; visitors receive silver ones for a fixed stay. Under House Samhain, the equivalent mark was typically a neck amulet bearing the house sigil — the obvious choice for necromancers whose hands are often gloved, bandaged, or otherwise occupied. These amulets attested to legitimate service to the Eighth House, not merely guest status in the city.
+
 h3. Architecture
 
 Gothic. This survives only in the non-house affiliated [[Osteomantic Archives | Osteomantic Archives]], and the abandond streets of the [[Quarantine Zone | Quarantine Zone]]

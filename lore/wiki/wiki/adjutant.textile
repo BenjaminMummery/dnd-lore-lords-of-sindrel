@@ -12,4 +12,4 @@ op_gm_only: false
 tags: []
 ---
 
-Any person in recipt of a patronage from one of the great Houses of Sindrel.
+Any person in receipt of a patronage from one of the great Houses of [[Sindrel | Sindrel]]. Adjutants wear a gold bracelet bearing their house's mark.

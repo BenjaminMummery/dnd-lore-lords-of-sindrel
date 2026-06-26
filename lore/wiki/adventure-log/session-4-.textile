@@ -68,12 +68,12 @@ h2. Arrival at Sindrel.
 
 _Afternoon of the 26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
-Arriving at the city, the travellers were shown into an enclosed courtyard lined with guards. They observed with interest that the soldiers accompanying them each presented a golden bracelet as some form of passport. The exception was [[:hielaman | Captain Hielaman]] who showed a glowing symbol on the back of his right hand - the sign of [[House Meness | House Meness]].
+Arriving at the city, the travellers were shown into an enclosed courtyard lined with guards. They observed with interest that the soldiers accompanying them each presented a golden bracelet as some form of passport. The exception was [[:hielaman | Captain Hielaman]], who showed a glowing symbol on the back of his right hand — the enchanted tattoo of [[House Meness | House Meness]].
 
 A bored beaurocrat asked the new arrivals whether they had evidence of a patronage. Upon learning that they did not, and indeed had no idea what he was talking about, he launched into a prepared spiel welcoming them to the city. The salient points of this speech were:
 * [[Sindrel | Sindrel]] is ruled by the seven great houses: [[House Beltus | Beltus]], [[House Goela | Goela]], [[House Grimbolg | Grimbolg]], [[House Lithra | Lithra]], [[House Mabon | Mabon]], [[House Meness | Meness]], and [[House Oestra | Oestra]].
 * Each house specialises in one school of magic.
-* Citizenship of Sindrel requires the patronage of one of the houses - denoted by the gold bracelets worn by the soldiers.
+* Permanent residence requires house patronage. [[Adjutant | Adjutants]] wear gold bracelets; full [[Factor | Factors]] bear enchanted house tattoos.
 * As guests of the city, they may remain for 36 days.
 
 The travellers were each given a silver bracelet. When raised it displayed both a map, and the number of days for which they may remain in the city. Having accepted these, they were permitted to enter the city proper. [[:dulcinia-von-phthasia | Dulcinia]] and [[:pthul | Pthul]] parted company with the group - the former heading directly to the [[Houses of Healing | Houses of Healing]] while the latter made for [[The Pointed Hat | The Pointed Hat]].

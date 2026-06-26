@@ -58,6 +58,8 @@ Being limited in both space and available resources, Sindrel operates tight popu
 
 Individuals in receipt of such patronage are known as _Adjutants_. Where it is necessary to differentiate, full members of the Houses are known as _Factors_, although it is more common simply to speak of such people as being 'of' their house. For example, [[:hielaman | Captain Hielaman]] would be referred to as being a Factor of [[House Meness | House Meness]], but it would be more common to refer to him as " [[:hielaman | Captain Hielaman]] of [[House Meness | House Meness]]."
 
+Patronage is displayed on the person. [[Adjutant | Adjutants]] wear gold bracelets bearing their house's mark. [[Factor | Factors]] bear an enchanted tattoo of their house sigil — often on the hand or forearm, where it can be shown at need. Visitors without patronage receive silver bracelets for the duration of their stay; raised, these display a map and the number of days remaining.
+
 This system has created a de-facto class structure with the Houses in the role of aristocracy and their adjutants as proletariat.
 
 h3. Overview of the Great Houses

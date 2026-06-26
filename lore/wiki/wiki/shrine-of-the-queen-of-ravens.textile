@@ -1,0 +1,38 @@
+---
+op_slug: shrine-of-the-queen-of-ravens
+op_kind: Wiki
+op_type: WikiPage
+name: Shrine of the Queen of Ravens
+title: Shrine of the Queen of Ravens
+op_gm_only: false
+tags:
+- location
+---
+
+A hidden chapel in the outward reaches of the [[Osteomantic Archives | Osteomantic Archives]], devoted to the Queen of Ravens in her aspect as vengeful reaper. The party discovered it during [[Session 8: The Dark Shrine | Session 8]] while lost in the catacombs beyond the chalked routes.
+
+The party entered via a door blocked by tree roots and blood moss. Within they found a massacre around a makeshift shrine — corpses in dark robes, each wearing a neck amulet bearing the sigil of [[The Eighth House | House Samhain]]. Fabric draped from the ceiling suggested wings engulfing the congregation. On the altar stood an idol of obsidian and electrum — wings swept back, taloned hands outstretched. Blood on the wall spelled _AVENGE US._
+
+[[:ayr | Ayr]] took an elaborate buckler from the lead corpse's wrist and could not remove it.
+
+<!-- GM_INFO_START -->
+h3. Location
+
+Deep in the outward catacombs, beyond finished archive masonry. There was once a hidden door; time decayed the mechanism. The door is obvious once the root blockage is cleared, but opening it is hard.
+
+h3. The Devotional Circle
+
+A devotional circle formed within the wider house — Samhain retainers who worshipped the Queen of Ravens in her aspect as vengeful reaper. They stood outside the inner circle politically, which did not protect them when the house fell. Each corpse wears dark robes and the house amulet that marked Samhain service (see [[The Eighth House | The Eighth House]], GM *House Marks*). They died in agony; corpses are scattered across the room.
+
+h3. The Chapel
+
+Small by catacomb standards, but large enough for makeshift pews and an altar to the Queen of Ravens — a god of death. Dark fabric draped from the ceiling suggests a pair of wings reaching out to engulf the congregation.
+
+On the altar stands an idol — the Queen of Ravens in her aspect as the vengeful reaper: wings swept back in a predatory dive, talon-tipped hands outstretched. The idol is obsidian with electrum details. Removing it is blasphemy against the Carrion Queen and will have _consequences_.
+
+h3. The Lead Skeleton
+
+Sprawled at the base of a wall, outstretched hand at the end of a trail of dark stains that spell out _Avenge Us_. Wears the remains of armour including an elaborate buckler on the left wrist.
+
+In the skeleton's hand is a knife — extremely cursed. Anyone picking it up must make a Wisdom saving throw.
+<!-- GM_INFO_END -->

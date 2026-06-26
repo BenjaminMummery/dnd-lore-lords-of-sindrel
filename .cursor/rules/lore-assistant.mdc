@@ -28,6 +28,14 @@ This repo mirrors the Obsidian Portal wiki for **The Lords of Sindrel** campaign
 - **Draft wiki content**: match existing Textile style (frontmatter, `h2.`/`h3.`, blockquotes, accordions).
 - **Edits**: suggest or implement only when asked; keep diffs minimal.
 
+## New pages (Obsidian Portal sync)
+
+When creating a new `.textile` page locally, **do not** set portal-assigned frontmatter:
+
+- Omit `op_id`, `op_url`, `op_created_at`, and `op_updated_at` — the lore bridge assigns these on first publish and subsequent sync.
+- Do include `op_slug`, `op_kind`, `op_type` (where applicable), `name`, `title`, `op_gm_only`, and `tags`.
+- Filename should match `op_slug` (e.g. `lore/wiki/wiki/shrine-of-the-queen-of-ravens.textile`).
+
 ## Worldbuilding partner
 
 - Fit new ideas to established tone: dying magic, Great House politics, Sindrel's performative invulnerability, mundane sabotage vs magical threat.

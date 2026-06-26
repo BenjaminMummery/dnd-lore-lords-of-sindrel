@@ -118,10 +118,17 @@ h4. [[:celebrant-alruna | Celebrant Alruna]]
 h4. Navigation
 
 * Outward paths eventually curve back toward the centre unless the party tracks direction deliberately.
+* The further outward they travel, the less structured the tunnels become — magically shaped stone gives way to natural formations. Smaller alcoves hold the skulls of rats and moles.
+* Necromantic radiation pushes the catacomb pattern outward; sporadic surface openings appear unpredictably in the surrounding landscape (how [[:tama | Tama]] entered). The [[Anathemists | Anathemists]] never found these.
 * [[:tama | Tama]] entered via a distant surface opening and can lead toward an intermittent exit near [[Fallowhurst | Fallowhurst]].
 * Necromantic radiation strengthens inward; Constitution saves per room (half damage on success, escalating).
 * Anathemist chalk trails become easy to follow once recognised.
 * Turning back from deep radiation may reveal the _other_ chalk route toward the [[House Oestra | Oestra]] archive.
+
+h4. Outward Hazards
+
+* *Areas of disrepair* — tree roots breaking through from above, threatening to choke passageways.
+* *Flooded sections* — standing water blocks routes until drained or bypassed.
 
 h4. [[:embren-oestra | The Plague Doctor]]
 
@@ -129,7 +136,7 @@ Like Tama, Embren found a way into the catacombs. Unlike her, he is lost and ang
 
 h4. Shrine of the Queen of Ravens
 
-A hidden cult within the necromancers died here in agony. Removing the idol is blasphemy against the Carrion Queen and will have consequences. The lead skeleton's knife is extremely cursed (Wisdom save on pickup).
+See [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]] (GM section).
 
 h4. Unvisited Halls
 
@@ -143,7 +150,9 @@ The deeper catacombs contain further historical dioramas the party has not yet r
 
 h4. Deeper into the seven-day war exhibit
 
-Some skeletons along the silver path bear symbols inlaid in their skulls. Touching one brings an eerie light to empty eye sockets and broken fragments of speech from the battle — Tellerite cries to retreat, Houd soldiers calling for ranks against late reinforcements. The display recreates the Battle of the Planes of Herrman, roughly 250 years ago.
+The display recreates the Battle of the Planes of Herrman, roughly 250 years ago. The room is laid out as a *reverse timeline* — the party enter where the Tellerite forces are fighting a desperate rearguard action. Passing through, they read the battle backwards: Tellerite reinforcements arriving too late; the Houd defenders defeating the Tellerite expeditionary force; and finally, near the exit, the Battle of Brassmeade Bridge recreated in propagandistic grandeur.
+
+Some skeletons along the silver path bear symbols inlaid in their skulls. Touching one brings an eerie light to empty eye sockets and broken fragments of speech from the battle — Tellerite cries to retreat, Houd soldiers calling for ranks against late reinforcements.
 
 h5. The Battle of Brassmeade Bridge
 

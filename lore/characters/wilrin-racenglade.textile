@@ -22,6 +22,14 @@ h3. Key Items
 <!-- OP_BIO -->
 
 
+<!-- OP_PLAYER_SECRETS_START -->
+h3. The Fallowhurst Sigil
+
+You and [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] were branded with matching sigil scars when your blood-magic attempt at [[Fallowhurst College | Fallowhurst College]] backfired. The binding still has teeth:
+
+Whenever Deathwalker takes damage, you roll a d8. On a 1, she takes half damage and you take the rest.
+<!-- OP_PLAYER_SECRETS_END -->
+
 <!-- GM_INFO_START -->
 The time fuckery of the [[Midsummer Enclave | Midsummer Enclave]] means that wilrin's experiences within it do not have to line up temporally with the rest of the world. He may have returned before he left - his parents can be young, active members of society!
 <!-- GM_INFO_END -->
