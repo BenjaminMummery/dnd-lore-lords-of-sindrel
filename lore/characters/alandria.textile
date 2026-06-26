@@ -23,7 +23,7 @@ Caller Alandria dresses formally in a pristine robe with a starched collar – b
 She carries herself with the easy confidence of someone accustomed to power. Her voice is soft, but authoritative - she expects to be listened to without having to raise it. Despite her authority she is personable, even charming.
 
 <!-- OP_BIO -->
-Alandria is a Factor of [[House Beltus | House Beltus]]. 
+Alandria is a Factor of [[House Beltus | House Beltus]].
 
 *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 

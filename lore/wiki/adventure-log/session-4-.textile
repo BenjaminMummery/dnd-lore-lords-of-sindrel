@@ -17,7 +17,7 @@ post_time: '2026-01-27T11:30:00Z'
 h2. Dramatis Personae
 [accordion]
 
-[accordion-item] [title] [[The Adventurers | The Adventurers]][end-title] 
+[accordion-item] [title] [[The Adventurers | The Adventurers]][end-title]
 [content]
 * [[:amanira | Amanira]], a drow druid.
 * [[:ayr | Ayr]], gnome paladin.
@@ -25,19 +25,19 @@ h2. Dramatis Personae
 * [[:pin | Pin]], a human fighter.
 * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
 * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
-* [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer. 
+* [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
 [end-content] [end-accordion-item]
 
-[accordion-item] [title] Fellow Travellers [end-title] 
-[content] 
+[accordion-item] [title] Fellow Travellers [end-title]
+[content]
 * [[:gillette-quill | Gillette]] and [[:raymond-quill | Raymond Quill]], ruffians (somewhat reformed)
 * [[:dulcinia-von-phthasia | Dulcinia von Phthasia]], a sickly noblewoman
 * [[:pthul | Pthul]], Dulcinia's bodyguard and manservant.
 * A pair of [[:jean-de-dinteville | merc]][[:georges-de-selve | hants]].
  [end-content] [end-accordion-item]
 
-[accordion-item] [title] [[Hexine Circle | The Hexine Circle]] [end-title] 
-[content] 
+[accordion-item] [title] [[Hexine Circle | The Hexine Circle]] [end-title]
+[content]
 * [[:alandria | Alandria]] - [[Factor | Factor]] of [[House Beltus | House Beltus]].
 * [[:hielaman | Captain Hielaman]] - [[Factor | Factor]] of [[House Meness | House Meness]].
 * [[:commander-locke | Prefect Locke]] - [[Factor | Factor]] of [[House Oestra | House Oestra]].
@@ -47,8 +47,8 @@ h2. Dramatis Personae
 * [[:seer-demeletas | Seer Demeletas]] - [[Factor | Factor]] of [[House Goela | House Goela]]
 [end-content] [end-accordion-item]
 
-[accordion-item] [title] The [[Anathemists | Anathemist]] Patrol [end-title] 
-[content] 
+[accordion-item] [title] The [[Anathemists | Anathemist]] Patrol [end-title]
+[content]
 * [[:arise-to-victory-over-the-infidel-hoards | Anathemist Leutenant - Name Unknown]]
 [end-content] [end-accordion-item]
 [end-accordion]
@@ -57,7 +57,7 @@ h2. Sindrel's Guardians
 
 _26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
-bq). A brief shimmer in the air rapidly grows into a warping distortion describing a roughly spherical region of space. There's the sense of motion, of inversion, as if the world had briefly turned inside out. It vanishes along with the distortion, and where it was now stand a squad of soldiers. You recognise the white uniform that [[:sebastian-warwick | Sebastian]] had been wearing, but worn with a lot more discipline and accessorised with gleaming armour and weapons. At the front stands a gruff half-elf with short-cropped hair. 
+bq). A brief shimmer in the air rapidly grows into a warping distortion describing a roughly spherical region of space. There's the sense of motion, of inversion, as if the world had briefly turned inside out. It vanishes along with the distortion, and where it was now stand a squad of soldiers. You recognise the white uniform that [[:sebastian-warwick | Sebastian]] had been wearing, but worn with a lot more discipline and accessorised with gleaming armour and weapons. At the front stands a gruff half-elf with short-cropped hair.
 <br>
 The soldiers are tense, clearly expecting a fight, but as they survey the situation you see them visibly relax.
 
@@ -73,7 +73,7 @@ Arriving at the city, the travellers were shown into an enclosed courtyard lined
 A bored beaurocrat asked the new arrivals whether they had evidence of a patronage. Upon learning that they did not, and indeed had no idea what he was talking about, he launched into a prepared spiel welcoming them to the city. The salient points of this speech were:
 * [[Sindrel | Sindrel]] is ruled by the seven great houses: [[House Beltus | Beltus]], [[House Goela | Goela]], [[House Grimbolg | Grimbolg]], [[House Lithra | Lithra]], [[House Mabon | Mabon]], [[House Meness | Meness]], and [[House Oestra | Oestra]].
 * Each house specialises in one school of magic.
-* Citizenship of Sindrel requires the patronage of one of the houses - denoted by the gold bracelets worn by the soldiers. 
+* Citizenship of Sindrel requires the patronage of one of the houses - denoted by the gold bracelets worn by the soldiers.
 * As guests of the city, they may remain for 36 days.
 
 The travellers were each given a silver bracelet. When raised it displayed both a map, and the number of days for which they may remain in the city. Having accepted these, they were permitted to enter the city proper. [[:dulcinia-von-phthasia | Dulcinia]] and [[:pthul | Pthul]] parted company with the group - the former heading directly to the [[Houses of Healing | Houses of Healing]] while the latter made for [[The Pointed Hat | The Pointed Hat]].
@@ -86,12 +86,12 @@ _28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 h3. [[:amanira | Amanira]]
 
 Having wildshaped into a cat, Amanira sought for signs of other druids. While there were some minimal indications, nothing stood out as recent.
-* Wildshaped into a cat in order to seek out signs of any other druids. There were some minimal indications but nothing particularly recent. 
+* Wildshaped into a cat in order to seek out signs of any other druids. There were some minimal indications but nothing particularly recent.
 * In interacting with the local feline populace, she learned that the best source of food in the city is the headquarters of [[House Grimbolg | House Grimbolg]]. She also learned how to gain access to said headquarters in cat form.
 
 h3. [[:ayr | Ayr]]
 
-In disguise as "Fenton Woofrunner", Ayr infiltrated a soiree of nobles. From talking to other guests, he learned that [[Sindrel | Sindrel's]] primary trading partner is [[Soulwind | Soulwind]]; that there are rumours of a trade deal with the secretive [[The Thaumocracy of Tellerin | Tellerin Empire]]; that [[House Mabon | House Mabon]] are typically the most lucrative House with which to trade; and that [[House Oestra | House Oestra]] were previously a good prospect for trading arms and armour, but have recently withdrawn from most mercantile relationships. 
+In disguise as "Fenton Woofrunner", Ayr infiltrated a soiree of nobles. From talking to other guests, he learned that [[Sindrel | Sindrel's]] primary trading partner is [[Soulwind | Soulwind]]; that there are rumours of a trade deal with the secretive [[The Thaumocracy of Tellerin | Tellerin Empire]]; that [[House Mabon | House Mabon]] are typically the most lucrative House with which to trade; and that [[House Oestra | House Oestra]] were previously a good prospect for trading arms and armour, but have recently withdrawn from most mercantile relationships.
 
 He also made the acquaintance of the host, [[:emissary-halan | Emissary Halan]] of [[House Lithra | House Lithra]].
 
@@ -114,11 +114,11 @@ h3. [[:silrie-aegiskiir | Silrie Aegiskiir]]
 
 Alongside [[:rossin-ros-greyhirst | Ros]], sought out a temple. Temples are mildly uncommon in Sindrel - the city runs on organised magic rather much more than organised religion, and the looming threat of the Anathamists has left people feeling somewhat ambivalent about religion. As a result, faith is typically practiced privately. Nonetheless there are a few, and SIlrie found themself at the [[Temple of the Dawn Father | Temple of the Dawn Father]].
 
-After a period of meditation, they were able to sense something close to the connection they had once enjoyed with their kin and deities. They also sensed the presence of a significant _something_ in the heart of the city. 
+After a period of meditation, they were able to sense something close to the connection they had once enjoyed with their kin and deities. They also sensed the presence of a significant _something_ in the heart of the city.
 
 h3. [[:wilrin-racenglade | Wilrin Ravenglade]]
 
-[[:wilrin-racenglade | Wilrin]] had rather more luck than [[:pin | Pin]] in locating a magical shop.  From a bin of random items he got a a skin bag containing a set of polyhedral dice carved out of bone. In asking the shopkeep about spellcasting foci, he learned that [[The Heptade Academy | The Heptade Academy]] is known to use such things for their more powerful but less controlled students, although entry to such is restricted to [[Adjutant | Adjutants]] and [[Factor | Factors]]. 
+[[:wilrin-racenglade | Wilrin]] had rather more luck than [[:pin | Pin]] in locating a magical shop.  From a bin of random items he got a a skin bag containing a set of polyhedral dice carved out of bone. In asking the shopkeep about spellcasting foci, he learned that [[The Heptade Academy | The Heptade Academy]] is known to use such things for their more powerful but less controlled students, although entry to such is restricted to [[Adjutant | Adjutants]] and [[Factor | Factors]].
 
 h2. The Hexine Circle
 
@@ -146,10 +146,10 @@ bq). Thank you for coming. Allow me to make the introductions. I am [[:emissary-
 <br>
 We understand that you are the brave travellers who not only survived Fallowhurst but brought us an Anathamist Lieutenant, this is no small feat and you have both our admiration and our gratitude. It was the results of Captain Hielaman's preliminary interrogation that brought to light the necessity for this council. Captain?
 
- _Captian Hielaman_: 
+ _Captian Hielaman_:
 bq). Indeed. Amid a slew of invective and hollow defiance, not to mention a number of imaginative speculations as to my ancestry, our prisoner made reference to some highly privileged information. Information that could only be acquired from a high ranking member of one of the houses.
 
- _Halan_: 
+ _Halan_:
 bq). Quite. You see our problem - we have long suspected that anathamist spies have infiltrated the city, but now it appears that they have gained access to highly sensitive individuals and information. We have a pressing need to route out this corruption. And that is where you come in.
 <br>
 We also understand that you have not, as of yet, secured the patronage of one of the houses, and that your time in our great city is therefore limited. You are also clearly capable, resilient, and no friends to the anathamists. As new arrivals you are comparatively unknown and therefore able to go places and gain confidences that our more official agents would find impossible. Our offer to you is this: seek out the spies, bring them to justice, and you may have your pick of patronages. What say you?
@@ -165,7 +165,7 @@ Threads:
 * The local feline population will recognise Amanira. Amazing maurice?
 * Nakoma demonstrated to local criminals that she had a huge amount of cash on hand. they're going to be after her.
 * Ayr made some waves asking around about business opportunities and bragging of his wealth. The local nobles see him as a threat, Halan sees him as an oddity. Both will be watching closely for Woofrunner's next appearance, although Halan recognises Ayr.
-* Hielaman somewhat regrets the nature of his and Pin's interaction, he may try to mend bridges by inviting Pin to a game. 
+* Hielaman somewhat regrets the nature of his and Pin's interaction, he may try to mend bridges by inviting Pin to a game.
 * Silrie was able to sense the presence of the portal. This is going to have some implications.
 
 --------------
@@ -190,7 +190,7 @@ Leads:
 
 h3. To Sindrel
 
-bq). A brief shimmer in the air rapidly grows into a warping distortion describing a roughly spherical region of space. There's the sense of motion, of inversion, as if the world had briefly turned inside out. It vanishes along with the distortion, and where it was now stand a squad of soldiers. You recognise the white uniform that [[:sebastian-warwick | Sebastian]] had been wearing, but worn with a lot more discipline and accessorised with gleaming armour and weapons. At the front stands a gruff half-elf with short-cropped hair. 
+bq). A brief shimmer in the air rapidly grows into a warping distortion describing a roughly spherical region of space. There's the sense of motion, of inversion, as if the world had briefly turned inside out. It vanishes along with the distortion, and where it was now stand a squad of soldiers. You recognise the white uniform that [[:sebastian-warwick | Sebastian]] had been wearing, but worn with a lot more discipline and accessorised with gleaming armour and weapons. At the front stands a gruff half-elf with short-cropped hair.
 <br>
 The soldiers are tense, clearly expecting a fight, but as they survey the situation you see them visibly relax.
 
@@ -206,7 +206,7 @@ Time Skip - a few days pass. The party have settled in and gotten their bearings
 
 Possibility for people to pursue their own character goals:
 # [[:wilrin-racenglade | Wilrin]] has been directed to the [[Houses of Healing | houses of healing]]. These will not be able to help him much, but will suggest that magical training to help control and direct his magic is the key. Unfortunately, access to the [[The Heptade Academy | The Heptade Academy]] is controlled by the houses, so you'll need patronage to get anywhere.
-# [[:nakoma-deathwalker-mor-got-ha | Nakoma]] is seaking out necromancers. It's a taboo subject in the city, the old house HQ is a no-go zone due to magical fallout. The only other major point would be the [[Osteomantic Archives | Osteomantic Archives]], but few people even connect them with the necromancers. 
+# [[:nakoma-deathwalker-mor-got-ha | Nakoma]] is seaking out necromancers. It's a taboo subject in the city, the old house HQ is a no-go zone due to magical fallout. The only other major point would be the [[Osteomantic Archives | Osteomantic Archives]], but few people even connect them with the necromancers.
 # [[:amanira | Amanira]] is seeking answers and knowledge about magic.
 # [[:ayr | Ayr]] ?
 # [[:pin | Pin]] might need someone to look at his sword - the enchanters ([[House Mabon | Mabon]]) would be the best bet. He's also a military lad, might seek out [[House Oestra | Oestra]] or [[House Meness | Meness]]
@@ -249,7 +249,7 @@ They'll ask where they should start:
 bq). Halan: Ah. This is another motiviation for our decision to bring in outside help. The council has failed to reach a consensus on the best approach. I'd advise that you discuss the matter with each of my colleagues at your convenience.
 
 - [[House Meness | Meness]] ([[:hielaman | Hielaman]]) are short on people anyway, and want to deputise the party for Sindrel's defence. There are refugees coming on from nearby settlements, stretching the city's resources. If those settlements can be secured, the strain will ease.
-- [[House Beltus | Beltus]] ([[:commander-locke | Commander Locke]]) have a potential slave rebellion on their hands, something they cannot allow the other houses to discover. 
+- [[House Beltus | Beltus]] ([[:commander-locke | Commander Locke]]) have a potential slave rebellion on their hands, something they cannot allow the other houses to discover.
 - ([[:navinea-senetera | Navinea Senetera]]) Someone has been prying around the Fountainhead where [[House Grimbolg | House Grimbolg]] produce the city's water. They're worried that the anathamists are sabotaging it, and are even more worried that they might have already succeeded. They're also very interested in the [[Fallowhurst College | Fallowhurst College]] orchard, especially if it can help grow more food.
 - [[House Goela | House Goela]] ([[:seer-demeletas | Seer Demeletas]]) can sense that they're important (i.e. [[:farseer-sybera-goela | Farseer Goela]] muttered something cryptic and ominous). They don't know why yet, but they want the where they can see them. In the short term, a delivery of Goelite robes from [[House Mabon | House Mabon]] has come in 3 robes short - they're worried that anathamists might be impersonating them and spreading false guidance, and also concerned that Mabon may have been infiltrated.
 - [[House Oestra | House Oestra]] ([[:commander-locke | Commander Locke]]) want the gun _so badly_. Personally they want vengeance for the death of [[:lacerta-kirrahe | Mercenary Captain - Name Unknown]], a close personal friend.

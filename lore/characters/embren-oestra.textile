@@ -40,15 +40,15 @@ A tall, thin figure in the dark robes and hooked mask of a plague doctor. They c
     <tr><th>STR    </th><th>DEX   </th><th>CON    </th><th>INT   </th><th>WIS   </th><th>CHA   </th></tr>
     <tr><td>13 (+1)</td><td>15 (+2)</td><td>10 (0)</td><td>7 (-2)</td><td>6 (-2)</td><td>15 (+2)</td></tr>
 </table>
-    
+
 <div class="statgradient"></div>
 
 <div><span class="bold">Damage Immunities</span><span> Poison</span></div><div><span class="bold">Condition Immunities</span><span> Charmed, Exhaustion, Poisoned</span></div>
 <div><span class="bold">Senses</span><span> Darkvision 60ft., passive Perception 10</span></div>
 <div><span class="bold">Languages</span><span> Common</span></div>
-<div><span class="bold">Challenge</span><span>1</span></div> 
-<div><span class="bold">Proficiency Bonus</span><span>+2</span></div> 
-    
+<div><span class="bold">Challenge</span><span>1</span></div>
+<div><span class="bold">Proficiency Bonus</span><span>+2</span></div>
+
 <div class="statgradient"></div>
 
 <div class="statactions statred">Actions</div>
@@ -59,7 +59,7 @@ A tall, thin figure in the dark robes and hooked mask of a plague doctor. They c
     <span>+2 to hit, reach 5 ft., one target.</span>
     <span class="statdescription">Hit:</span>
     <span>9 (2d6+2) bludgeoning damage.</span>
-</div>  
+</div>
 <div class="statattack">
     <span class="statattackname">Scalpel.</span>
     <span class="statdescription"> Melee Weapon Attack:</span>

@@ -22,4 +22,3 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481291/fefc0b5fafbd39ba
 
 
 <!-- OP_BIO -->
-

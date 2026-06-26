@@ -19,4 +19,3 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7442634/1000025365.jpg
 
 
 <!-- OP_BIO -->
-

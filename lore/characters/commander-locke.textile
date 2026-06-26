@@ -20,12 +20,12 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7467310/hiidra-studio-ja
 <!-- OP_DESCRIPTION -->
 A half-orc sporting an eyepatch and a neatly trimmed goatee tinged with white.
 
-Even within the city they wear half plate armour and carry a longsword. 
+Even within the city they wear half plate armour and carry a longsword.
 
 They speak rarely and abruptly, preferring to let their sword do the communication. They constantly give the impression of having been dragged away from much more important and rewarding affairs.
 
 <!-- OP_BIO -->
-Locke is a [[Factor | Factor]] of [[House Oestra | House Oestra]]. 
+Locke is a [[Factor | Factor]] of [[House Oestra | House Oestra]].
 
 *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 

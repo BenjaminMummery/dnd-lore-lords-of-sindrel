@@ -23,7 +23,7 @@ tags:
 
 
 <!-- GM_INFO_START -->
-First of Mabon is the ancient head of [[House Mabon | House Mabon]] and one of the surviving [[The Octarion Circle | founders of Sindrel]]. Their symbolic item is [[:the-amulet-of-stars | The Amulet of Stars]]. 
+First of Mabon is the ancient head of [[House Mabon | House Mabon]] and one of the surviving [[The Octarion Circle | founders of Sindrel]]. Their symbolic item is [[:the-amulet-of-stars | The Amulet of Stars]].
 
 Unlike the other [[The Octarion Circle | founders]], First did not eat the [[:peaches-of-immortality | peaches of immortality]]. Instead, they attempted to reproduce the peaches' effects through enchantment. The result was not true bodily immortality, but preservation by artifice. The Amulet of Stars holds First's soul and life force, while their original body has long since decayed.
 

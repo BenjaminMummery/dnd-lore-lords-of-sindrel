@@ -89,7 +89,7 @@ Mabon have a strong master / apprentice culture
 * First
 * Master Craftsman
 * Craftsman
-* Journeyman 
+* Journeyman
 * Crafter
 * Apprentice
 

@@ -17,8 +17,8 @@ post_time: '2026-04-23T13:00:00Z'
 h3. Dramatis Personae
 
 [accordion]
-    [accordion-item] 
-        [title] [[The Adventurers | The Adventurers]][end-title] 
+    [accordion-item]
+        [title] [[The Adventurers | The Adventurers]][end-title]
         [content]
             * [[:amanira | Amanira]], a drow druid.
             * [[:ayr | Ayr]], gnome paladin.
@@ -26,31 +26,31 @@ h3. Dramatis Personae
             * [[:pin | Pin]], a human fighter.
             * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
             * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
-            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer. 
-        [end-content] 
+            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] Associates and Companions [end-title] 
+    [accordion-item]
+        [title] Associates and Companions [end-title]
         [content]
             * [[:razorbeak | Chicken]] - a chicken.
             * [[:hunts-by-night | Cat]] - a cat.
             * [[:kithrak-ii | Kithrak II]] - an undead dragon
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] Inhabitants of the Catacombs [end-title] 
+    [accordion-item]
+        [title] Inhabitants of the Catacombs [end-title]
         [content]
             * [[:zalatan | Zalatan]] - an undead beholder
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] [[House Oestra | House Oestra]] [end-title] 
+    [accordion-item]
+        [title] [[House Oestra | House Oestra]] [end-title]
         [content]
             * [[:commander-locke | Prefect Locke]]
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
 [end-accordion]
@@ -104,14 +104,14 @@ h4. Rooms
 
 h5. Hidden temple to the Queen of Ravens.
 
-There was once a hidden door, but time has caused the mechanism to decay. The door is obvious, but getting it open is hard. A small cult developed within the necromancers. They were not part of Samhain's inner circle, so they died here. Each wears dark robes and an amulet bearing the symbol of house Samhain. They don't have the bracelets. They died in agony, their corpses are scattered around the room. 
- 
+There was once a hidden door, but time has caused the mechanism to decay. The door is obvious, but getting it open is hard. A small cult developed within the necromancers. They were not part of Samhain's inner circle, so they died here. Each wears dark robes and an amulet bearing the symbol of house Samhain. They don't have the bracelets. They died in agony, their corpses are scattered around the room.
+
 The room is small by the scale of the catacombs, but large enough to contain a few makeshift pews and an alter to the Queen of Ravens. - A god of death. Dark fabric has been draped from the ceiling so as to suggest a pair of wings reaching out as if to engulf the congregation. On the alter is an idol - the Queen of Ravens in her aspect as the vengeful reaper - wings swept back in a predatory dive, talon-tipped hands outstretched. The idol is obsidian with electrum details. Removing it is an act of blasphemy against the Carrion Queen, and will have _consequences_.
 
 The lead skeleton is wearing the remains of armour including an elaborate buckler on his left wrist. They are sprawled at the base of a wall, their outstretched hand at the end of a trail of dark stains that spell out Avenge Us.
 
 h5. Halls of history
- 
+
 h6. The Seven Day War
 
 This is the battle of the Planes of Herrman, 250 years ago. Deathwalker was dead for this but will recognise the uniforms of the Mage Lords of Houd and the Thaumocracy of Tellerin. The room has been laid out as a sort of timeline — the party enter where the Tellerite forces are fighting a desperate rearguard action. As they pass through they get the story in reverse: the Tellerite reinforcements arriving too late, the Houd defenders defeating the Tellerite expeditionary force, and finally, near the exit, the Battle of Brassmeade Bridge recreated in epic, propagandistic tones.
@@ -138,7 +138,7 @@ The tableau depicts the founding of the Magedom of Houd. The different materials
 * Caelum
 * Camelopardalis
 * Carcerif
-* *Venatici* 
+* *Venatici*
 * Brutan
 * Pixus
 * *Goatheim*

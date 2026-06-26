@@ -12,5 +12,3 @@ op_gm_only: false
 tags:
 - location
 ---
-
-

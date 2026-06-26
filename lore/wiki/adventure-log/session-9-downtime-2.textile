@@ -17,8 +17,8 @@ post_time: '2026-05-20T12:30:00Z'
 h3. Dramatis Personae
 
 [accordion]
-    [accordion-item] 
-        [title] [[The Adventurers | The Adventurers]][end-title] 
+    [accordion-item]
+        [title] [[The Adventurers | The Adventurers]][end-title]
         [content]
             * [[:amanira | Amanira]], a drow druid.
             * [[:ayr | Ayr]], gnome paladin.
@@ -26,38 +26,38 @@ h3. Dramatis Personae
             * [[:pin | Pin]], a human fighter.
             * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
             * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
-            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer. 
-        [end-content] 
+            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] Associates and Companions [end-title] 
+    [accordion-item]
+        [title] Associates and Companions [end-title]
         [content]
             * [[:razorbeak | Chicken]] - a chicken.
             * [[:hunts-by-night | Cat]] - a cat.
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] [[House Oestra | House Oestra]] [end-title] 
+    [accordion-item]
+        [title] [[House Oestra | House Oestra]] [end-title]
         [content]
             * [[:commander-locke | Prefect Locke]]
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] [[House Mabon | House Mabon]] [end-title] 
+    [accordion-item]
+        [title] [[House Mabon | House Mabon]] [end-title]
         [content]
             * [[:journeyman-galoras | Journeyman Galoras]]
             * [[:kelferria-the-smith | Kelferria the Smith]]
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] [[Radwasp House | Radwasp House]] [end-title] 
+    [accordion-item]
+        [title] [[Radwasp House | Radwasp House]] [end-title]
         [content]
             * [[:cedric | Cedric]] - butler
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
 [end-accordion]
@@ -95,7 +95,7 @@ Silrie sought magical knuckle-dusters, then visited the [[Temple of the Dawn Fat
 
 h4. [[:amanira | Amanira]]
 
-Amanira hunted for books on the city's history, piecing together the official story of seven great mages and the traitor eighth from tomes written by Sindrelians for Sindrelians. 
+Amanira hunted for books on the city's history, piecing together the official story of seven great mages and the traitor eighth from tomes written by Sindrelians for Sindrelians.
 
 One book differed - _The Rise and Fall of Houd_ is a dense historical treatise on the Magedom of Houd, the empire that once united the northern continent. Some of the contemporary documents it quotes make reference to a magical disturbance in the far north, and one refers to a party of investigators being dispatched from the Soulwind Institute.
 

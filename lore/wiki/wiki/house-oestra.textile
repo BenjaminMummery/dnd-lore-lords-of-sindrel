@@ -21,7 +21,7 @@ h3. Known Factors
 * [[:commander-locke | Prefect Locke]] - Member of the [[Hexine Circle | Hexine Circle]] formed to counter [[Anathemists | Anathemist]] infiltration of the city.
 
 
-h3. Fashion 
+h3. Fashion
 
 House Oestra dress is armour first and fashion second.
 
@@ -101,13 +101,13 @@ House Oestra was a noble house of [[Soulwind | Soulwind]] prior to the establish
 
 h3. Organisation
 
-Factors are typically members of one of a few key families: Oestra, Locke, Nautia, Horation, and Tarqus. Not all have a role in the military, but all have a position within the chain of command should they choose to exercise their authority. 
+Factors are typically members of one of a few key families: Oestra, Locke, Nautia, Horation, and Tarqus. Not all have a role in the military, but all have a position within the chain of command should they choose to exercise their authority.
 
 In addition to the core legion, there are a number of specialist branches. These inlcude the Preatorian, Lord Oestra's personal guard, and the Orders Hospitium who serve in the Houses of Healing.
 
 h3. Leadership
 
-House Oestra is ruled by a hereditary lord, with the Oestra family occupying the role of royalty. 
+House Oestra is ruled by a hereditary lord, with the Oestra family occupying the role of royalty.
 
 Each lord has tyically ruled for around 50 years, spending the last decade or so with their successor by their side, learning the art of leadership. The current heir is Silvanus "Silus" Oestra. On his ascension he will don the ceremonial armour of office, its helm cast in the likeness of the first Lord Oestra. As the 22nd Lord Oestra, he will speak with the wisdom and authority of his ancestors, as it is rumoured that the armour retains the knowledge of its wearers and serves as the Lord's closest advisor.
 
@@ -135,7 +135,7 @@ Adjutants:
 * Tesserarius
 * Pedes
 
-Factors are typically expected to work they way up through the ranks, although they typically start at Tribune and their advancement is noticeably faster than that of the Adjutants. 
+Factors are typically expected to work they way up through the ranks, although they typically start at Tribune and their advancement is noticeably faster than that of the Adjutants.
 
 [[File:1572841  | class=media-item-align-none | ChatGPT_Image_Jun_25__2026_at_10_26_05_AM.png]]
 <!-- GM_INFO_END -->

@@ -14,9 +14,9 @@ tags:
 ---
 
 [[File:1547488  | class=media-item-align-right | 300px | bone-house-1r.jpg]]
-Dotted around the city of [[Sindrel | Sindrel]] are The Houses of the Dead. These sprawling ossuaries house the mortal remains of the population in honoured repose for all time. 
+Dotted around the city of [[Sindrel | Sindrel]] are The Houses of the Dead. These sprawling ossuaries house the mortal remains of the population in honoured repose for all time.
 
-The archives are independent of the Houses, and as such lack the resources of many of Sindrel's other facilities. Instead they are maintained by endowments from the wills of the wealthy, the charitable donations of the living, and the voluntary labour of the Curators - those who choose to operate and maintain the structures. 
+The archives are independent of the Houses, and as such lack the resources of many of Sindrel's other facilities. Instead they are maintained by endowments from the wills of the wealthy, the charitable donations of the living, and the voluntary labour of the Curators - those who choose to operate and maintain the structures.
 
 h3. Historical Purpose
 
@@ -44,7 +44,7 @@ h4. Necromantic Contamination
 The deeper regions of the catacombs, specifically those that venture towards the [[Quarantine Zone | Quarantine Zone]], remain contaminated by lingering necromantic energies. The effects are subtle at first. Ancient remains begin to stir. Bones shift when unobserved. The dead become increasingly animate.
 More disturbing still is the effect upon the surrounding landscape. The farther one travels from the structured catacombs, the more the natural caverns begin to imitate them. Pillars, alcoves, galleries, and ossuaries appear where no architect ever worked. Local wildlife begin to solemnly place their dead in the alcoves in a macabre echo of the funerary rites of SIndrel. It is as though the idea of the catacombs is slowly spreading through the earth.
 
-h3. Appearance 
+h3. Appearance
 
 Most of the Houses have a dedicated archive whose external architecture is consistent with their house style (albeit typically rendered in black stone). The rest of the archives around the city follow a uniform template.
 

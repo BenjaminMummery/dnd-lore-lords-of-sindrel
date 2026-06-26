@@ -94,7 +94,7 @@ h3. Organisations / Groups
 
 * [[The Adventurers | The Neighbourhood Wonch]]
 * [[Anathemists | Anathemists]]
-* [[The Vermillion Company | Mercenaries]] 
+* [[The Vermillion Company | Mercenaries]]
 * [[The Octarion Circle | The Octarion Circle]]
 * [[Hexine Circle | The Hexine Circle]]
 
@@ -129,7 +129,7 @@ h2. Story Threads
 - Wilrin is linked to necromantic magic, maybe he could learn?
 - Send people into [[Thanismot | Thanismot]] to see if any necromancers or their affects survived.
 - Investigate any rumours of magic elsewhere in the world.
-* War with the anathemists - 
+* War with the anathemists -
 
 h4. Locations
 
@@ -144,7 +144,7 @@ h4. Organisations / Groups
 
 h2. The Basics
 
-There exists a multiverse of worlds, each governed by a singular Form or Idea. Our point of origin is 'Arcanity', the world governed by Magic. 
+There exists a multiverse of worlds, each governed by a singular Form or Idea. Our point of origin is 'Arcanity', the world governed by Magic.
 
 Sindrel was founded as a magical research station to investigate the dimensional tear. (Soulwind INstitute Dimensional Research and Exploration Laboratory) The original 8 researchers briefly opened the portal to the realm of Vitality. There, seven of them consumed the Peaches of Immortality, extending their lifespans indefinitely. The eighth, Samhain, found her own path to escaping death in the realm of Mortality.
 
@@ -165,8 +165,8 @@ h2. Known Worlds
 
 h2. Potential Desires:
 
-* Reverse the rotation of the wheel, restoring magic to the world 
-* Extractive colonialism - Subjugate and extract resources from new Arcanity in order to maintain Sindrel's supremacy 
+* Reverse the rotation of the wheel, restoring magic to the world
+* Extractive colonialism - Subjugate and extract resources from new Arcanity in order to maintain Sindrel's supremacy
 * Settler Colonialism - move through Sindrel's portal to new Arcanity
 * Destroy Sindrel's portal, ending it's supremacy as well as the Age of Magic.
 
@@ -174,16 +174,16 @@ h2. Ideologies of a Changing World
 
 * Faith: The gods have abandoned us and we must win back their approval or face destruction (assumption: gods caused the death of magic). This leads to a lot of religious extremism, but the most interesting is the [[Anathemists | Anathemists]]
 * Atheism: The gods were never truly divine, only powerful magical creatures (assumption: the death of magic caused the withdrawal of the gods)
-* 
+*
 
 h2. How do Gods work w.r.t. the wheel of worlds?
 
-The nature of a god is that they exist across all possible worlds simultaniously. The form by which they express themselves is mediated by the dominant world form. 
+The nature of a god is that they exist across all possible worlds simultaniously. The form by which they express themselves is mediated by the dominant world form.
 * In Arcanity, faith operates like magic, reflecting D&D's mechanical approach to holy powers.
 * In Mundanity it is expressed in everyday actions - a subtle guidance that shapes events
 * In Divinity they walk upon the earth alongside mortals, tangible and accessible
-* In Profanity, 
-* In Mortality the gods are primarily rulers of the afterlife. 
+* In Profanity,
+* In Mortality the gods are primarily rulers of the afterlife.
 * In Vitality they do something else.
 
 h2. The Real History of Sindrel

@@ -19,4 +19,3 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457462/WhatsApp_Image_2
 
 
 <!-- OP_BIO -->
-

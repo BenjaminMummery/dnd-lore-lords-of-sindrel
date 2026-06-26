@@ -5,3 +5,7 @@ repos:
       - id: mixed-line-ending
         args: [--fix=lf]
         files: \.textile$
+      - id: end-of-file-fixer
+        files: \.textile$
+      - id: trailing-whitespace
+        files: \.textile$

@@ -45,20 +45,20 @@ Her illness has prevented her from any form of travelling or outdoors activities
     <tr><th>STR    </th><th>DEX   </th><th>CON    </th><th>INT   </th><th>WIS   </th><th>CHA   </th></tr>
     <tr><td>8 (-1)</td><td>8 (-1)</td><td>8 (-3)</td><td>8 (-1)</td><td>8 (-1)</td><td>8 (-1)</td></tr>
 </table>
-    
+
 <div class="statgradient"></div>
-    
+
 <div><span class="bold">Senses</span><span> passive Perception 9</span></div>
 <div><span class="bold">Languages</span><span> Common</span></div>
-<div><span class="bold">Challenge</span><span>0</span></div> 
-    
+<div><span class="bold">Challenge</span><span>0</span></div>
+
 <div class="statgradient"></div>
 
 <div class="statactions statred">Actions</div>
-    
+
 <div class="stathr"></div>
- 
-<div class="statattack"><span class="statattackname">Greatclub.</span><span class="description"> Melee Weapon Attack:</span><span>+6 to hit, reach 5 ft., one target.</span><span class="description">Hit:</span><span>13 (2d8+4) bludgeoning damage.</span></div>    
-<div class="statattack"><span class="statattackname">Javelin.</span><span class="description"> Melee or Ranged Weapon Attack:</span><span>+6 to hit, reach 5 ft. or 30ft./120, one target.</span><span class="description">Hit:</span><span>11 (2d6+4) piercing damage.</span></div>    
+
+<div class="statattack"><span class="statattackname">Greatclub.</span><span class="description"> Melee Weapon Attack:</span><span>+6 to hit, reach 5 ft., one target.</span><span class="description">Hit:</span><span>13 (2d8+4) bludgeoning damage.</span></div>
+<div class="statattack"><span class="statattackname">Javelin.</span><span class="description"> Melee or Ranged Weapon Attack:</span><span>+6 to hit, reach 5 ft. or 30ft./120, one target.</span><span class="description">Hit:</span><span>11 (2d6+4) piercing damage.</span></div>
 </div>
 <!-- GM_INFO_END -->

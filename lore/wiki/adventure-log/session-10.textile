@@ -16,8 +16,8 @@ post_time: '2026-05-20T12:30:00Z'
 h3. Dramatis Personae
 
 [accordion]
-    [accordion-item] 
-        [title] [[The Adventurers | The Adventurers]][end-title] 
+    [accordion-item]
+        [title] [[The Adventurers | The Adventurers]][end-title]
         [content]
             * [[:amanira | Amanira]], a drow druid.
             * [[:ayr | Ayr]], gnome paladin.
@@ -25,32 +25,32 @@ h3. Dramatis Personae
             * [[:pin | Pin]], a human fighter.
             * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
             * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
-            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer. 
-        [end-content] 
+            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] Associates and Companions [end-title] 
+    [accordion-item]
+        [title] Associates and Companions [end-title]
         [content]
             * [[:kithrak-ii | Kithrak II]] - an undead dragon
             * [[:cedric | Cedric]] - a butler
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] Sindrel's Cats [end-title] 
+    [accordion-item]
+        [title] Sindrel's Cats [end-title]
         [content]
             * [[:pads-silently | Pads-Silently]]
             * [[:hunts-by-night | Hunts-By-Night]]
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] Merrylane Park [end-title] 
+    [accordion-item]
+        [title] Merrylane Park [end-title]
         [content]
             * [[:tama | A giant stoat]]
             * Assorted [[House Beltus | House Beltus]] demonic constructs
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
 [end-accordion]
@@ -135,7 +135,7 @@ h4. De-escalating the Rage:
 * The party's focus shifted to non-lethally subduing their friend. Silrie attempted non-lethal strikes to pressure points.
 * Wilrin successfully used his action to talk Deathwalker down. One account notes a successful persuasion check, while another specifies he cast Minor Illusion to create a cube displaying a montage of the group's cherished memories. The powerful emotional connection was enough to break the rage and bring Deathwalker back to her senses.
 
-h4. A New Companion: 
+h4. A New Companion:
 
 With the constructs defeated and the immediate crisis averted, Ros used Speak with Animals and offered the disoriented stoat companionship. The stoat, which had entered Sindrel via underground tunnels, accepted. It bonded with Ros, becoming her animal companion and gaining the name 'Stoat'. The session ended with the party recovering from the emotional fallout of the incident.
 

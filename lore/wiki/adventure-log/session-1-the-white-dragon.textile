@@ -78,16 +78,16 @@ Despite the urging of the [[:commander-wake | Anathemist leader]] to remain calm
 
 In defiance of several injuries, the [[:commander-wake | Anathemist leader]] was ultimately able to bring his weapon to bear, and with a single shot he reduced the [[:lacerta-kirrahe | mercenary captain]] to a fine red mist. He'd clearly intended for this to bring the conflict to an end, but the sound startled the horses who bolted, breaking free of the coach but leaving it dangling precipitously over the edge of the cliff.
 
-On this tableau we end: 
-* Within the coach are [[:amanira | Amanira]], the lady [[:dulcinia-von-phthasia | Dulcinia]], [[:pthul | Pthul]], [[:raymond-quill | Raymond]] and [[:gillette-quill | Gillette Quill]], and a number of [[:jean-de-dinteville | merc]][[:georges-de-selve | hants]]. 
-* Clinging to the roof of the cach are [[:pin | Pin]], [[:wilrin-racenglade | Wilrin Ravenglade]]000 and [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]]. 
-* [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] and  are on the road, suddenly without cover as the coach has moved. 
+On this tableau we end:
+* Within the coach are [[:amanira | Amanira]], the lady [[:dulcinia-von-phthasia | Dulcinia]], [[:pthul | Pthul]], [[:raymond-quill | Raymond]] and [[:gillette-quill | Gillette Quill]], and a number of [[:jean-de-dinteville | merc]][[:georges-de-selve | hants]].
+* Clinging to the roof of the cach are [[:pin | Pin]], [[:wilrin-racenglade | Wilrin Ravenglade]]000 and [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]].
+* [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] and  are on the road, suddenly without cover as the coach has moved.
 * Atop the cliff are  [[:silrie-aegiskiir | Silrie Aegiskiir]], [[:ayr | Ayr]], and an increasing number of [[Anathemists | Anathemists]] including their [[:commander-wake | leader]].
 
 <!-- GM_INFO_START -->
 h2. The White Dragon
 
-The common room of [[The White Dragon Coaching Inn | the White Dragon]] is luxuriously and expensively appointed - the proprietors have made the most of their effective monopoly, and their trade is lucrative indeed. The floors are polished wood, and decorative wall hangings dampen echoes and keep out the chill of northern air. However, a character examining the room will quickly find the telltale signs of a more magical past. Over each table hangs a spherical cage of filigreed brass that has been expertly retrofitted to contain a platter of candles rather than a levitating sphere of magical light. The kitchen originally used a flameless magical heat, and the subsequent addition of a chimney has proven insufficient for the new stove, leaving the air of the common room with a slight haze and a perceptible scent of woodsmoke. Marks on the wall, inadequately concealed by some unconvincing attempts at watercolour, suggest the presence of a household shrine - now removed. 
+The common room of [[The White Dragon Coaching Inn | the White Dragon]] is luxuriously and expensively appointed - the proprietors have made the most of their effective monopoly, and their trade is lucrative indeed. The floors are polished wood, and decorative wall hangings dampen echoes and keep out the chill of northern air. However, a character examining the room will quickly find the telltale signs of a more magical past. Over each table hangs a spherical cage of filigreed brass that has been expertly retrofitted to contain a platter of candles rather than a levitating sphere of magical light. The kitchen originally used a flameless magical heat, and the subsequent addition of a chimney has proven insufficient for the new stove, leaving the air of the common room with a slight haze and a perceptible scent of woodsmoke. Marks on the wall, inadequately concealed by some unconvincing attempts at watercolour, suggest the presence of a household shrine - now removed.
 
 Players attempting to listen in on other diners will overhear the [[The Vermillion Company | mercenaries]] discussing the [[Anathemists | Anathemists]]. They can learn that they have been growing bolder, apparently testing [[Sindrel | Sindrel]]'s defences and preying on travellers. At least one coach has been destroyed in the past month, with several more having narrow escapes. The mercenaries have little interest in the motives of the Anathemists, being more concerned with the stories of their supposed martial prowess - although nobody seems to be clear on exactly what they can do.
 
@@ -128,7 +128,7 @@ h4. The Noble
 
 h3. Part 1: The White Dragon
 
-* The players get a chance to introduce themselves and do a little roleplay. 
+* The players get a chance to introduce themselves and do a little roleplay.
 * Conflict comes at the hands of the Quill brothers - the party can either notice and deal with them, or they will attempt to break into the sleeping quarters later in the evening. If conflict breaks out in the common room, the mercenaries will spectate unless it starts to directly affect them - after all they're not being paid to deal with drunks.
 * If anyone approaches Dulcinia they will be blocked by Pthul, but his mistress will intervene. Dulcinia has never had a chance to experience much of life, and yearns to hear of the adventures of others. If they win her trust, a PC will learn that she is deeply afraid of dying without ever having had the chance to live, and views Sindrel as her last hope.
 
@@ -155,7 +155,7 @@ bq). As the convoy approaches the start of the bridge, you hear a thunderous cra
 The ambush is orchestrated by the Anathemists with the joint goals of preventing travellers and resources from entering Sindrel and stealing the large quantities of gold currently in the possession of Dulcinia and the merchants. The following things will happen:
 - Anathemists occupy the ridge above - they have the mercenaries at arrow-point and will quite happily kill any of them who try to make a move.
 - Their leader, Barris, is a cold calculating bastard with the demeanour of a folk hero rogue. He carries a strange weapon none of the characters have seen before.
-- Barris will demand that the various riches be handed over. Pthul will, of course, refuse - without payment they can't heal Dulcinia. 
-- The players can try to negotiate. 
+- Barris will demand that the various riches be handed over. Pthul will, of course, refuse - without payment they can't heal Dulcinia.
+- The players can try to negotiate.
 - One way or another, somebody will make a move and Baris will killt hem with his gun. The sound will startle the horses, who will bolt and rip themselves from the coach, causing the whole thing to go over the side. If Dulcinia is still within the coach, Pthul will pull her out at the last second, probably shoving any player in danger of escaping this event over the side en route.
 <!-- GM_INFO_END -->

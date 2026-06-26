@@ -16,7 +16,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7433932/127682.jpg
 ---
 
 <!-- OP_DESCRIPTION -->
-Pthul is a large, heavily built man. Stern, serious, and stoic to the point of being almost monosyllabic, he is often perceived as standoffish. His habitual dark clothing and ever present sword do little to assuage this appearance. In reality he is simply mentally categorising everything around him by threat level. 
+Pthul is a large, heavily built man. Stern, serious, and stoic to the point of being almost monosyllabic, he is often perceived as standoffish. His habitual dark clothing and ever present sword do little to assuage this appearance. In reality he is simply mentally categorising everything around him by threat level.
 
 Pthul is utterly devoted to his charge, [[:dulcinia-von-phthasia | Dulcinia von Phthasia]].
 
@@ -45,15 +45,15 @@ Pthul is utterly devoted to his charge, [[:dulcinia-von-phthasia | Dulcinia von 
     <tr><th>STR    </th><th>DEX   </th><th>CON    </th><th>INT   </th><th>WIS   </th><th>CHA   </th></tr>
     <tr><td>16 (+3)</td><td>11 (+0)</td><td>14 (+2)</td><td>11 +0)</td><td>11 (+0)</td><td>15 (+2)</td></tr>
 </table>
-    
+
 <div class="statgradient"></div>
 
 <div><span class="bold">Saving Throws</span><span> CON +4, WIS +2</span></div>
 <div><span class="bold">Senses</span><span> passive Perception 10</span></div>
 <div><span class="bold">Languages</span><span> Common</span></div>
-<div><span class="bold">Challenge</span><span>3</span></div> 
-<div><span class="bold">Proficiency Bonus</span><span>+2</span></div> 
-    
+<div><span class="bold">Challenge</span><span>3</span></div>
+<div><span class="bold">Proficiency Bonus</span><span>+2</span></div>
+
 <div class="statgradient"></div>
 
 <div class="statactions statred">Traits</div>
@@ -61,28 +61,28 @@ Pthul is utterly devoted to his charge, [[:dulcinia-von-phthasia | Dulcinia von 
 <div class="statattack">
     <span class="statattackname">Brave.</span>
     <span>Pthul has advantage on saving throws against being frightened.</span>
-</div>    
+</div>
 
 <div class="statactions statred">Actions</div>
 <div class="stathr"></div>
 <div class="statattack">
     <span class="statattackname">Multiattack.</span>
     <span>Pthul makes two melee attacks.</span>
-</div>  
+</div>
 <div class="statattack">
     <span class="statattackname">Greatsword.</span>
     <span class="statdescription"> Melee Weapon Attack:</span>
     <span>+5 to hit, reach 5 ft., one target.</span>
     <span class="statdescription">Hit:</span>
     <span>10 (2d6+3) bludgeoning damage.</span>
-</div>  
+</div>
 <div class="statattack">
     <span class="statattackname">Heavy Crossbow.</span>
     <span class="statdescription"> Ranged Weapon Attack:</span>
     <span>+2 to hit, reach 100/400 ft., one target.</span>
     <span class="statdescription">Hit:</span>
     <span>5 (1d10) piercing damage.</span>
-</div> 
+</div>
 <div class="statattack">
     <span class="statattackname">Leadership (recharges after a Short or Long Rest)</span>
     <span> For 1 minute, Pthul can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand him. A creature can benefit from only one Leadership die at a time. This effect ends if Pthul is incapacitated.</span>

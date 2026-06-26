@@ -20,4 +20,3 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481279/5f82b9bcb958e809
 [[Adjutant | Adjutant]] of [[House Lithra | House Lithra]]
 
 <!-- OP_BIO -->
-

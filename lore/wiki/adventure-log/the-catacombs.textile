@@ -16,8 +16,8 @@ post_time: '2026-03-31T11:00:00Z'
 
 h3. Dramatis Personae
 [accordion]
-    [accordion-item] 
-        [title] [[The Adventurers | The Adventurers]][end-title] 
+    [accordion-item]
+        [title] [[The Adventurers | The Adventurers]][end-title]
         [content]
             * [[:amanira | Amanira]], a drow druid.
             * [[:ayr | Ayr]], gnome paladin.
@@ -25,34 +25,34 @@ h3. Dramatis Personae
             * [[:pin | Pin]], a human fighter.
             * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
             * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
-            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer. 
-        [end-content] 
+            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] Associates and Companions [end-title] 
+    [accordion-item]
+        [title] Associates and Companions [end-title]
         [content]
             * [[:razorbeak | Chicken]] - a chicken.
             * [[:hunts-by-night | Cat]] - a cat.
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] Denizens of [[The Wallarch District | the Wallarch district]] [end-title] 
+    [accordion-item]
+        [title] Denizens of [[The Wallarch District | the Wallarch district]] [end-title]
         [content]
             * [[:emerich-surefoot | Emerich Surefoot]] - a ruffian.
             * [[:micycle-smynth | Micycle Smynth, deceased]] - a corpse.
             * Various mourners
             * A [[:celebrant-alruna | celebrant]] and two underlings who work at the [[Osteomantic Archives | Osteomantic Archives]]
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] Inhabitants of the Catacombs [end-title] 
+    [accordion-item]
+        [title] Inhabitants of the Catacombs [end-title]
         [content]
             * [[:kithrak-ii | Kithrak II]] - an undead dragon
             * [[:zalatan | Zalatan]] - an undead beholder
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
 [end-accordion]
@@ -123,7 +123,7 @@ h3. Close
 
 Each opening leads to a short passageway. One leads to a storage space full of broken furniture, terminating in a walled-off doorway. The others lead inwards and outwards.
 
-Experienced trackers might be able to find a few trails. 
+Experienced trackers might be able to find a few trails.
 
 h3. Outwards
 
@@ -137,8 +137,8 @@ h4. Rooms
 
 h5. Hidden temple to the Queen of Ravens.
 
-There was once a hidden door, but time has caused the mechanism to decay. The door is obvious, but getting it open is hard. A small cult developed within the necromancers. They were not part of Samhain's inner circle, so they died here. Each wears dark robes and an amulet bearing the symbol of house Samhain. They don't have the bracelets. They died in agony, their corpses are scattered around the room. 
- 
+There was once a hidden door, but time has caused the mechanism to decay. The door is obvious, but getting it open is hard. A small cult developed within the necromancers. They were not part of Samhain's inner circle, so they died here. Each wears dark robes and an amulet bearing the symbol of house Samhain. They don't have the bracelets. They died in agony, their corpses are scattered around the room.
+
 The room is small by the scale of the catacombs, but large enough to contain a few makeshift pews and an alter to the Queen of Ravens. - A god of death. Dark fabric has been draped from the ceiling so as to suggest a pair of wings reaching out as if to engulf the congregation. On the alter is an idol - the Queen of Ravens in her aspect as the vengeful reaper - wings swept back in a predatory dive, talon-tipped hands outstretched. The idol is obsidian with electrum details. Removing it is an act of blasphemy against the Carrion Queen, and will have _consequences_.
 
 In the hand of the lead skeleton is a knife, it is extremely cursed. Anyone picking it up will need to make a wisdom saving throw.
@@ -152,7 +152,7 @@ h4. Hazards
 
 h3. Inwards
 
-The catacombs become less travelled, but also more museum-like. Occasional chalk markings show the path of the Anathemists - once the party know what they're looking for it's easy to follow. 
+The catacombs become less travelled, but also more museum-like. Occasional chalk markings show the path of the Anathemists - once the party know what they're looking for it's easy to follow.
 
 The necromantic radiation gets stronger the closer they get to the center. Start doing constitution saves for each room - 1/2 damage on passed saves with a fibonnacci rise in danger.
 
@@ -166,7 +166,7 @@ h5. Hall of Dragons
 
 The skeleton of a colossal black dragon is suspended from the ceiling. Stairs lead up to a gallery offering a better view. The rest of the room is dotted with examples or smaller dragon skeletons, or incomplete ones.  - Skeleton of a miniature black dragon is nesting inside the skull of the big one. They'll hear movement from above, bone grinding on bone.
 
-h5. Hall of aberrations: 
+h5. Hall of aberrations:
 
 * beholder
 * mind flayer

@@ -18,12 +18,12 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469951/tief.jpeg
 ---
 
 <!-- OP_DESCRIPTION -->
-Demeletas is a Tiefling, his purple skin almost the same shade as the robes he wears. Although his eyes are a milky white, he appears to have no issue navigating his surroundings. 
+Demeletas is a Tiefling, his purple skin almost the same shade as the robes he wears. Although his eyes are a milky white, he appears to have no issue navigating his surroundings.
 
 He speaks in declaratives that sound a lot like fortune cookie platitudes. What wisdom they contain is typically only clear in hindsight.
 
 <!-- OP_BIO -->
-Demeletas is a Factor of [[House Goela | House Goela]]. 
+Demeletas is a Factor of [[House Goela | House Goela]].
 
 *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 

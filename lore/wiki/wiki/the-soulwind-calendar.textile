@@ -12,7 +12,7 @@ op_gm_only: false
 tags: []
 ---
 
-Horology system originally devised by the early inhabitants of [[Soulwind | Soulwind]] before being widely adopted across [[Arcan | Arcan]]. 
+Horology system originally devised by the early inhabitants of [[Soulwind | Soulwind]] before being widely adopted across [[Arcan | Arcan]].
 
 Like Earth, Arcan has a 365-day year. The Soulwind calendar divides this into 10 months of 36 days, plus a 5-day festival at midwinter. The year begins on the winter solstice.
 

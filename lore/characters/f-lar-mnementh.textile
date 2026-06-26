@@ -24,7 +24,7 @@ Poisoned by the anathamist spies - his cheese was laced with halucinigens.
 [[Factor | Factor]] of [[House Goela | House Goela]].
 
 <!-- GM_INFO_START -->
-Poisoned by the anathamist spies - his cheese was laced with halucinigens. 
+Poisoned by the anathamist spies - his cheese was laced with halucinigens.
 
 Technically of Oracle rank due to hie specialty.
 <!-- GM_INFO_END -->

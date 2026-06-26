@@ -17,8 +17,8 @@ post_time: '2026-06-01T17:00:00Z'
 h3. Dramatis Personae
 
 [accordion]
-    [accordion-item] 
-        [title] [[The Adventurers | The Adventurers]][end-title] 
+    [accordion-item]
+        [title] [[The Adventurers | The Adventurers]][end-title]
         [content]
             * [[:amanira | Amanira]], a drow druid.
             * [[:ayr | Ayr]], gnome paladin.
@@ -26,41 +26,41 @@ h3. Dramatis Personae
             * [[:pin | Pin]], a human fighter.
             * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
             * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
-            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer. 
-        [end-content] 
+            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] Associates and Companions [end-title] 
+    [accordion-item]
+        [title] Associates and Companions [end-title]
         [content]
             * [[:kithrak-ii | Kithrak II]] - an undead dragon
             * [[:tama | A Stoat]]
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] House Meness Guards [end-title] 
+    [accordion-item]
+        [title] House Meness Guards [end-title]
         [content]
             * [[:corporal-brokkr-stegg | Corporal Brokkr Stegg]]
             * [[:serjeant-eirik-tryke | Serjeant Eirik Tryke]]
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] Hexine Circle Members [end-title] 
+    [accordion-item]
+        [title] Hexine Circle Members [end-title]
         [content]
             * [[:alandria | Caller Alandria]]
             * [[:navinea-senetera | Navinea Senetera]]
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] Fulcrum Servants [end-title] 
+    [accordion-item]
+        [title] Fulcrum Servants [end-title]
         [content]
             * [[:nort | Nort]]
             * [[:chuggaz | Chugan "Chuggaz" Velm]]
             * [[:nans | Nanthelia "Nans" Surn]]
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
 [end-accordion]
@@ -77,7 +77,7 @@ The battle had turned ugly when ensorcelled fire had raised old terror within he
 
 For now, they had a [[:tama | stoat]], a city [[The Investigation | investigation]], and a morning already far too eventful for people who had not yet had breakfast.
 
-Pushing back through the managed woodland, with [[:kithrak-ii | Kithrak II]] bouncing at their heels and Ros's newly bonded [[:tama | stoat]] skittish but intact, the party emerged into the cold air at the edge of the park. 
+Pushing back through the managed woodland, with [[:kithrak-ii | Kithrak II]] bouncing at their heels and Ros's newly bonded [[:tama | stoat]] skittish but intact, the party emerged into the cold air at the edge of the park.
 
 bq). You step out from the foliage into the weak light of a desultory and ungenial morning. Winter is closing in around the city, and without the insulation of the trees above you the air bites at your cheeks. As your eyes adjust, you find yourselves regarding a highly decorated palanquin that stands on the edge of the park adjacent to the street. Erected next to it is a canopy of embroided gold and jet, and seated at a portable table beneath it is Caller Alandria being served a steaming cup of tea by a pair of bulky, amber-cloaked servants.
 
@@ -97,7 +97,7 @@ h3. The Fulcrum
 
 bq). The Fulcrum stands at the center of Sindrel in the way that a needle stands at the center of a lepidopterist's prize butterfly. Its existence is an obvious necessity - a council made up of all seven jealous and powerful houses must have a space from which to rule. By the same token, those matters of city life that must be administered need a place for the paperwork to get filed. And, most pressingly for the populace at large, when the city needs to put on a celebration or show of unity, there must be a suitable gathering place.
 <br>
-The _form_ that the structure takes, however, is anything but a utilitarian necessity. Despite being only a few dozen feet wide, it rises for from its octagonal base for over a mile into the sky, piercing through the strata of Sindrel's ever more rarified classes, and ultimately through several distinct weather systems. Clouds arrive halfway up, take one look at the upper stories, and apparently decide they live there now. On every side it is enclosed by the latticework of bridges and walkways that link the myriad spires of Sindrel, yet not a single one dares touch the pristine white marble of its skin. 
+The _form_ that the structure takes, however, is anything but a utilitarian necessity. Despite being only a few dozen feet wide, it rises for from its octagonal base for over a mile into the sky, piercing through the strata of Sindrel's ever more rarified classes, and ultimately through several distinct weather systems. Clouds arrive halfway up, take one look at the upper stories, and apparently decide they live there now. On every side it is enclosed by the latticework of bridges and walkways that link the myriad spires of Sindrel, yet not a single one dares touch the pristine white marble of its skin.
 <br>
 Architecture is an art, and art, by its nature, contains messages. This is the Fulcrum's first message - "We are might," it seems to say "and regardless of how mighty you might think yourself to be you will descend to walk upon the earth, to gaze up at our power, before you may enter."
 <br>
@@ -147,7 +147,7 @@ h3. The Servants' Door
 
 The gunpowder had not been brought in through the main cart route. Traces led instead to a concealed side door used by servants, cooks, cleaners, and other staff attached to the [[The Fulcrum | Fulcrum]]. The saboteurs had come not as invaders, but as workers. The next trail led to the servants' quarters.
 
-The building that houses the Fulcrum's staff is functional rather than grand: not squalid, not comfortable, simply necessary. It is a place for the people who make the city's performances possible and are not intended to be noticed once the performance began. Civilisation, like theatre, depends on a large number of people dressed in black moving things around while everyone else looks at the chandelier. Inside, the party found rosters and duty lists. 
+The building that houses the Fulcrum's staff is functional rather than grand: not squalid, not comfortable, simply necessary. It is a place for the people who make the city's performances possible and are not intended to be noticed once the performance began. Civilisation, like theatre, depends on a large number of people dressed in black moving things around while everyone else looks at the chandelier. Inside, the party found rosters and duty lists.
 
 The administrative office was locked. This delayed them only briefly. [[:silrie-aegiskiir | Silrie]] peered through the keyhole, saw the spare key hanging conveniently within, and used magic to enter the room and open the way for the others. While the others rummaged through the office with the serene discretion of an avalanche, [[:silrie-aegiskiir | Silrie]] kept watch at the door, attempting to determine whether the locals had reached the stage of alarm, outrage, or simply resignation. The ledgers revealed no obvious false name, no glaring infiltrator, no single servant who appeared from nowhere and vanished again. Instead, the clue lay in the chaos.
 
@@ -173,7 +173,7 @@ bq).  On the opposite side of the city to [[The Wallarch District | Wallarch]], 
 <br>
 The estate once aspired to grandeur. A fine manor house built in the column-heavy style of [[House Oestra | House Oestra]] stood amid sweeping landscaped gardens, laid out according to principles of beauty, symmetry, and the belief that somebody else will be doing the weeding. Those days are gone. The gardens now grow food wherever food can be persuaded to grow, and the house has been augmented with long sheds packed with supplies. A rose garden may delight the soul, but a warehouse full of copper is considerably more useful when the city plumbing explodes.
 <br>
-Day and night, carts rattle through the gates in a steady procession. They arrive burdened with the city's rubbish: broken furniture, worn tools, discarded crockery, bent nails, mysterious lumps of unidentified material, and all the other things people throw away while firmly believing they will never need them again. The contents are sorted, catalogued, dismantled, melted down, transmuted, and sent back out into Sindrel as something new. Because even wizards, who can rearrange the fundamental nature of reality with a word, know it is far easier to start with something than with nothing. 
+Day and night, carts rattle through the gates in a steady procession. They arrive burdened with the city's rubbish: broken furniture, worn tools, discarded crockery, bent nails, mysterious lumps of unidentified material, and all the other things people throw away while firmly believing they will never need them again. The contents are sorted, catalogued, dismantled, melted down, transmuted, and sent back out into Sindrel as something new. Because even wizards, who can rearrange the fundamental nature of reality with a word, know it is far easier to start with something than with nothing.
 
 The party, or rather [[:rossin-ros-greyhirst | Ros]] and whoever she chose to acompany her, had a standing invitation from [[:navinea-senetera | Navinea Senetera]], who was eager to continue discussing Ros's thoughts on natural systems. Even without this they would not have struggled to gain entry - The Cornucopia is far less guarded than the Leageur or the [[The Fulcrum | Fulcrum]]. People come and go constantly. Work matters more than ceremony here, and ceremony has wisely chosen to stay out of the way.
 

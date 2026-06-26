@@ -12,7 +12,7 @@ op_gm_only: true
 tags: []
 ---
 
-bq). The Canted Terrace is one of Sindrel's upper districts, although the people who lived in the really upper districts are careful to describe it as “practically middle-city,” usually while looking away. It occupies a high spur of stone and old civic compromise, built at an angle to almost everything else. 
+bq). The Canted Terrace is one of Sindrel's upper districts, although the people who lived in the really upper districts are careful to describe it as “practically middle-city,” usually while looking away. It occupies a high spur of stone and old civic compromise, built at an angle to almost everything else.
 <br>
 The Terrace is respectable. It has polished steps, iron lamps, ceremonial gutters, and enough carved stonework to convince visitors that money had once passed through the area at speed. But it is not fashionable. Fashionable districts have views. The Canted Terrace has walls. Very nice walls, admittedly, and very expensive ones, but walls all the same.
 <br>

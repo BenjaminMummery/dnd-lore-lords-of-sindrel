@@ -20,4 +20,3 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7492296/emerich.jpg
 
 
 <!-- OP_BIO -->
-

@@ -15,12 +15,12 @@ tags:
 ---
 
 [[File:1542890  | class=media-item-align-right | c069e69ae70908cc120920bf1b1f0d7e.jpg]]
-The triffid ranges from between 7 and 10 feet in height, has between 3 and 6 sticks surrounding its base and when unsecured is capable of self-locomotion. 
+The triffid ranges from between 7 and 10 feet in height, has between 3 and 6 sticks surrounding its base and when unsecured is capable of self-locomotion.
 
 Triffid precursors, typically 4 to 8 inches in height, can be found across [[Arcan | Arcan]]. Larger, more agressive varieties were cultivated in the greenhouses of [[Fallowhurst College | Fallowhurst College]].
 
 <!-- GM_INFO_START -->
-, aggressive Triffids encountered were cultivated in the scholars of  for the healing properties of its oil. Given its extreme tenacity and adaptability, further work was done to try and enhance these properties with the hope of breeding a crop that could grow well in the icy soils of the Arcay mountain range. Unfortunately, these experiments produced a highly aggressive strain capable of hunting and killing people. 
+, aggressive Triffids encountered were cultivated in the scholars of  for the healing properties of its oil. Given its extreme tenacity and adaptability, further work was done to try and enhance these properties with the hope of breeding a crop that could grow well in the icy soils of the Arcay mountain range. Unfortunately, these experiments produced a highly aggressive strain capable of hunting and killing people.
 
 
 <div contenteditable="true"  style="width:310px; font-family:Arial,Helvetica,sans-serif;font-size:11px;">
@@ -42,7 +42,7 @@ Triffid precursors, typically 4 to 8 inches in height, can be found across [[Arc
     <tr><th>STR    </th><th>DEX   </th><th>CON    </th><th>INT   </th><th>WIS   </th><th>CHA   </th></tr>
     <tr><td>15 (+2)</td><td>8 (-1)</td><td>19 (+4)</td><td>3 (-4)</td><td>10 (+0)</td><td>1 (-5)</td></tr>
 </table>
-    
+
 <div class="statgradient"></div>
 
 <div><span class="bold">Skills</span><span> Perception +2</span></div>
@@ -51,17 +51,17 @@ Triffid precursors, typically 4 to 8 inches in height, can be found across [[Arc
 <div><span class="bold">Condition Immunities</span><span> blinded, charmed, deafened, frightened, poisoned</span></div>
 <div><span class="bold">Senses</span><span> tremorsense 30 ft. (blind and deaf beyond this radius), passive Perception 12</span></div>
 <div><span class="bold">Languages</span><span> --</span></div>
-<div><span class="bold">Challenge</span><span>2</span></div> 
-    
+<div><span class="bold">Challenge</span><span>2</span></div>
+
 <div class="statgradient"></div>
-<div><span class="bold">Rattle.</span><span> When a triffid detects an enemy, it rattles the sticks around its base, alerting all other triffids within 500 feet.</span></div> 
+<div><span class="bold">Rattle.</span><span> When a triffid detects an enemy, it rattles the sticks around its base, alerting all other triffids within 500 feet.</span></div>
 
 <div class="statactions statred">Actions</div>
 <div class="stathr"></div>
 <div class="statattack">
     <span class="statattackname">Lash.</span>
     <span> Melee Weapon Attack: +4 to hit, reach 30 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage plus 10 (3d6) poison damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or be stunned until the end of the triffid's next turn.</span>
-</div>  
+</div>
 
 
 <div contenteditable="true"  style="width:310px; font-family:Arial,Helvetica,sans-serif;font-size:11px;">
@@ -83,7 +83,7 @@ Triffid precursors, typically 4 to 8 inches in height, can be found across [[Arc
     <tr><th>STR    </th><th>DEX   </th><th>CON    </th><th>INT   </th><th>WIS   </th><th>CHA   </th></tr>
     <tr><td>15 (+2)</td><td>8 (-1)</td><td>19 (+4)</td><td>3 (-4)</td><td>10 (+0)</td><td>1 (-5)</td></tr>
 </table>
-    
+
 <div class="statgradient"></div>
 
 <div><span class="bold">Skills</span><span> Perception +2</span></div>
@@ -92,10 +92,10 @@ Triffid precursors, typically 4 to 8 inches in height, can be found across [[Arc
 <div><span class="bold">Condition Immunities</span><span> blinded, charmed, deafened, frightened, poisoned</span></div>
 <div><span class="bold">Senses</span><span> tremorsense 30 ft. (blind and deaf beyond this radius), passive Perception 12</span></div>
 <div><span class="bold">Languages</span><span> --</span></div>
-<div><span class="bold">Challenge</span><span>1</span></div> 
-    
+<div><span class="bold">Challenge</span><span>1</span></div>
+
 <div class="statgradient"></div>
-<div><span class="bold">Rattle.</span><span> When a triffid detects an enemy, it rattles the sticks around its base, alerting all other triffids within 500 feet.</span></div> 
+<div><span class="bold">Rattle.</span><span> When a triffid detects an enemy, it rattles the sticks around its base, alerting all other triffids within 500 feet.</span></div>
 
 <div class="statactions statred">Actions</div>
 <div class="stathr"></div>

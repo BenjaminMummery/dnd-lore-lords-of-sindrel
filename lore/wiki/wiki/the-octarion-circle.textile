@@ -42,7 +42,7 @@ Membership:
         <tr>
             <td>[[:hytham-grimbolg | Hytham Grimbolg]] (he/they)</td>
             <td>Transmutation</td>
-            <td>A half-orc in sturdy craftsman's clothes and a leather apron. He is stoic, pragmatic, and utterly disinterested in people. His hands are clad in what appear to be gauntlets made of stone.</td> 
+            <td>A half-orc in sturdy craftsman's clothes and a leather apron. He is stoic, pragmatic, and utterly disinterested in people. His hands are clad in what appear to be gauntlets made of stone.</td>
             <td>The Shaper's Hands</td>
             <td>Green</td>
             <td>Hytham's joy is in art and creation. Having to produce food and water on civic scale has robbed him of the love of his craft. He can no longer imagine beauty, and even when he tries to create art it emerges utilitarian and soulless.</td>

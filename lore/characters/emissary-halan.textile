@@ -18,9 +18,8 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469963/dwarf.jpg
 ---
 
 <!-- OP_DESCRIPTION -->
-Halan is an educated, dignified young dwarfess of [[House Lithra | House Lithra]]. She is a consumate diplomat, shifting between sparkling wit and incisive detail orientation at a moment's notice. 
+Halan is an educated, dignified young dwarfess of [[House Lithra | House Lithra]]. She is a consumate diplomat, shifting between sparkling wit and incisive detail orientation at a moment's notice.
 
 She is inariably elegantly dressed, favouring flowing gowns of silver-grey. Her dark hair is typically styled into an elegant halo of decorative, flowing curls.
 
 <!-- OP_BIO -->
-

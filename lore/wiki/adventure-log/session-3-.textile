@@ -17,7 +17,7 @@ post_time: '2026-01-21T18:00:00Z'
 h2. Dramatis Personae
 [accordion]
 
-[accordion-item] [title] The Adventurers[end-title] 
+[accordion-item] [title] The Adventurers[end-title]
 [content]
 * [[:amanira | Amanira]], a drow druid.
 * [[:ayr | Ayr]], gnome paladin.
@@ -25,11 +25,11 @@ h2. Dramatis Personae
 * [[:pin | Pin]], a human fighter.
 * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
 * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
-* [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer. 
+* [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
 [end-content] [end-accordion-item]
 
-[accordion-item] [title] Fellow Travellers [end-title] 
-[content] 
+[accordion-item] [title] Fellow Travellers [end-title]
+[content]
 * [[:gillette-quill | Gillette]] and [[:raymond-quill | Raymond Quill]], ruffians (somewhat reformed)
 * [[:dulcinia-von-phthasia | Dulcinia von Phthasia]], a sickly noblewoman
 * [[:pthul | Pthul]], Dulcinia's bodyguard and manservant.
@@ -43,14 +43,14 @@ h2. Dramatis Personae
 * Unknown cloaked skeletal figures.
  [end-content] [end-accordion-item]
 
-[accordion-item] [title] Denizens of Fallowhurst Outpost [end-title] 
-[content] 
+[accordion-item] [title] Denizens of Fallowhurst Outpost [end-title]
+[content]
 * [[:sebastian-warwick | Sebastian Warwick]] - [[House Meness | House Meness]] Adjutant.
 * [[:myrath | Myrath]] - [[House Lithra | House Lithra]] Adjutant.
 [end-content] [end-accordion-item]
 
-[accordion-item] [title] The Anathemist Patrol [end-title] 
-[content] 
+[accordion-item] [title] The Anathemist Patrol [end-title]
+[content]
 * Five Unknown Anathemist soldiers on horseback.
 [end-content] [end-accordion-item]
 [end-accordion]
@@ -115,7 +115,7 @@ _26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 bq). Those of you who have walked in this world for some time have a pretty clear idea of what cities look like. For centuries, large conurbations have tended to shrink as the political, economic, and ecological systems that supported their population density die out with the loss of magic. "City", therefore, conjures images of crumbling civic centres nestled in shells of abandoned suburbs, or even of the corpses of towns being cannibalised for building materials for the smaller, more self-contained communities that are beginning to develop. None of this is true for Sindrel.
 <br>
-Sindrel sits on a high promontory jutting far out over the Norward Sea. Even the city's _location_ is impossible - the barren, mountainous ground supports no farmland that could feed it, nor is there anything resembling a source of fresh water here. But that is not what captures your eye nor fires your imagination. Banners bearing the device of an eight pointed star hang from high white walls, above which rise a majestic profusion of spires and plazas. The city is clearly, ostentatiously magical. In a world where the smallest illusion can be the talk of the town, Sindrel's use of magical power is breathtakingly profligate. Above the walls, rising spires become lost in the structures that hang _down_ from above - buildings that float impossibly in the air, constructed to mirror themselves vertically in a way that defies any idea of terrestrial construction. Between and above them pass airships, great vessels with gilded prows and shimmering sails that glide effortlessly through open air with no visible means of support. 
+Sindrel sits on a high promontory jutting far out over the Norward Sea. Even the city's _location_ is impossible - the barren, mountainous ground supports no farmland that could feed it, nor is there anything resembling a source of fresh water here. But that is not what captures your eye nor fires your imagination. Banners bearing the device of an eight pointed star hang from high white walls, above which rise a majestic profusion of spires and plazas. The city is clearly, ostentatiously magical. In a world where the smallest illusion can be the talk of the town, Sindrel's use of magical power is breathtakingly profligate. Above the walls, rising spires become lost in the structures that hang _down_ from above - buildings that float impossibly in the air, constructed to mirror themselves vertically in a way that defies any idea of terrestrial construction. Between and above them pass airships, great vessels with gilded prows and shimmering sails that glide effortlessly through open air with no visible means of support.
 
 Figures appeared on the road ahead: five soldiers on horseback. [[Anathemists | Anathemists]], almost certainly. When they spotted the party their course changed at once. One consulted a scrolled paper, looked at the group, looked at the paper again, looked at a companion, looked at the paper once more, and then that companion took the paper and galloped back toward the bridge.
 
@@ -161,7 +161,7 @@ What have the rest been doing?
 
 h2. Leaving Fallowhurst
 
-On leaving fallowhurst and the valley, they encounter a guard post - a dull posting existing entirely of making sure people from the city don't wonder into the valley. It's crewed by *Sebastian Warwick*, an [[Sindrel | adjutant]] of [[House Meness | House Meness]], and *Myrath* of [[House Lithra | House Lithra]]. 
+On leaving fallowhurst and the valley, they encounter a guard post - a dull posting existing entirely of making sure people from the city don't wonder into the valley. It's crewed by *Sebastian Warwick*, an [[Sindrel | adjutant]] of [[House Meness | House Meness]], and *Myrath* of [[House Lithra | House Lithra]].
 
 Warwick is well aware that this posting is functionally a punishment for embarrassing a superior officer. Myrath, aware that this is a hard posting to fill, volunteered in an attempt to earn some positive recognition from her bosses.
 
@@ -173,7 +173,7 @@ This allows us to set up:
 
 The guards can summon transport or support from Sindrel if necessary. Long rest at the guardpost?
 
-Potential encounters en route 
+Potential encounters en route
 - The remaining Mercenaries
 - The Anathemists
 - A House Meness patrol redirected from Sindrel

@@ -12,9 +12,9 @@ op_gm_only: false
 tags: []
 ---
 
-For the vast majority of world history, magic has been the dominant form of power. The world has been shaped around it, with magical strength becoming the primary shaping force of politics. Over the last few centuries, however, it has become undeniable that magic is dying out. As the previously iron-clad power structures sought to shore up their suddenly crumbling positions, wars and revolutions become increasingly common. 
+For the vast majority of world history, magic has been the dominant form of power. The world has been shaped around it, with magical strength becoming the primary shaping force of politics. Over the last few centuries, however, it has become undeniable that magic is dying out. As the previously iron-clad power structures sought to shore up their suddenly crumbling positions, wars and revolutions become increasingly common.
 
-The northern regions of the continent of Artresh are a patchwork of city states and petty kingdoms, the fractured remains of the once semi-unified [[The Magedom of Houd | Magedom of Houd]]. Following the Seven-Day War with the [[The Thaumocracy of Tellerin | Tellerites]], the Mage Lord Council governing the Magedom, never the most cohesive group at the best of times, fractured. The resulting states are embroiled in an ever-shifting network of alliance, feud, political marriage, and, occasionally, actual war. [[Soulwind | Soulwind]], on the northern coast, is the largest of these states by area, although its territory consists mostly of inhospitable mountainous land with little in the way of resources. 
+The northern regions of the continent of Artresh are a patchwork of city states and petty kingdoms, the fractured remains of the once semi-unified [[The Magedom of Houd | Magedom of Houd]]. Following the Seven-Day War with the [[The Thaumocracy of Tellerin | Tellerites]], the Mage Lord Council governing the Magedom, never the most cohesive group at the best of times, fractured. The resulting states are embroiled in an ever-shifting network of alliance, feud, political marriage, and, occasionally, actual war. [[Soulwind | Soulwind]], on the northern coast, is the largest of these states by area, although its territory consists mostly of inhospitable mountainous land with little in the way of resources.
 
 To the south is the mysterious [[The Thaumocracy of Tellerin | Thaumocracy of Tellerin]], a once-great and expansionist empire. After their unsuccessful attempt to invade Houd, the empire retreated, closing its borders to outsiders.
 
@@ -23,41 +23,41 @@ h3. *Historical Events*
 _Dates are estimated according to the [[The Soulwind Calendar | Soulwind calendar (SC)]].._
 
 [accordion]
-    [accordion-item] 
-        [title] 3200s (_~1000 years ago_) - The Founding of [[Sindrel | Sindrel]] [end-title] 
-        [content]  
-            * Eight great mages found the city of [[Sindrel | Sindrel]]. 
+    [accordion-item]
+        [title] 3200s (_~1000 years ago_) - The Founding of [[Sindrel | Sindrel]] [end-title]
+        [content]
+            * Eight great mages found the city of [[Sindrel | Sindrel]].
             * One of their number ultimately betrays the rest and threatens the destruction of the world. The remaining seven are forced to band together to defeat this threat.
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] 3850s (~350 years ago_) [end-title] 
-        [content]  
+    [accordion-item]
+        [title] 3850s (~350 years ago_) [end-title]
+        [content]
             * The first stirrings of the death of magic are felt.
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] 3900s (_~300 years ago_) [end-title] 
-        [content]  
+    [accordion-item]
+        [title] 3900s (_~300 years ago_) [end-title]
+        [content]
             * [[Soulwind | Soulwind's]] population begins to diminish. Once a seat of magical learning, it falls on hard times as magic users drift towards [[Sindrel | Sindrel]].
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] Year 3953 (_roughly 250 years ago_) - The Seven Day War [end-title] 
-        [content]  
-            * Fought between [[The Magedom of Houd | The Magedom of Houd]] and [[The Thaumocracy of Tellerin | The Thaumocracy of Tellerin]]. The Tellerites are generally remembered as the aggressors, while the defending Houdis were ultimately victorious. 
-        [end-content] 
+    [accordion-item]
+        [title] Year 3953 (_roughly 250 years ago_) - The Seven Day War [end-title]
+        [content]
+            * Fought between [[The Magedom of Houd | The Magedom of Houd]] and [[The Thaumocracy of Tellerin | The Thaumocracy of Tellerin]]. The Tellerites are generally remembered as the aggressors, while the defending Houdis were ultimately victorious.
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] 4000s to 4200s [end-title] 
-        [content]  
+    [accordion-item]
+        [title] 4000s to 4200s [end-title]
+        [content]
             * [[The Thaumocracy of Tellerin | The Thaumocracy of Tellerin]] retreats within its borders and breaks off communication with the wider world
             * Drained by the Seven Day War and the slow death of magic, [[The Magedom of Houd | The Magedom of Houd]] gradually disintegrates into a patchwork of city states.
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 [end-accordion]
 
@@ -65,23 +65,23 @@ _Dates are estimated according to the [[The Soulwind Calendar | Soulwind calenda
 h3. *Campaign Timeline* - Year 4218 (_current year_)
 
 [accordion]
-    [accordion-item] 
-        [title] Trian (_3rd month_) [end-title] 
-        [content]  
+    [accordion-item]
+        [title] Trian (_3rd month_) [end-title]
+        [content]
             * The ruffians [[:raymond-quill | Raymond]] and [[:gillette-quill | Gillette Quill]] begin a series of minor felonies along [[The Mage Road | The Mage Road]].
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] Eptan (_7th Month_) [end-title] 
-        [content]  
+    [accordion-item]
+        [title] Eptan (_7th Month_) [end-title]
+        [content]
             * [[:sebastian-warwick | Private Sebastian Warwick]] accidentally poisons his commanding officer's dog. He is posted to the [[Fallowhurst Outpost | Fallowhurst Outpost]] as a form of non-official punishment.
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] Ostory (_8th Month_) [end-title] 
-        [content]  
+    [accordion-item]
+        [title] Ostory (_8th Month_) [end-title]
+        [content]
             *6th Ostory*
             * The control rod of one of [[House Grimbolg | House Grimbolg]]'s water generators is inverted, causing a water storage tank to overflow. This results in the drowning of one of their [[Factor | factors]], [[:dogara | Hydromancer D'gara]], as well as significant losses from the adjacent storage silos.
 
@@ -95,21 +95,21 @@ h3. *Campaign Timeline* - Year 4218 (_current year_)
             * The punch ladle at a diplomatic function being hosted by [[House Lithra | House Lithra]] is exchanged with one that has been enchanted with a geis of truth speaking. This results in three major diplomatic incidents, the end of two mariages, and a very awkward proposal. House [[Factor | factor]] [[:emissary-isius | Emissary Isius]] has to withdraw from public life.
 
             *25th Ostory*
-            * Night of the [[Ditchquer | Ditchquer]] tournament closing ceremony. 
+            * Night of the [[Ditchquer | Ditchquer]] tournament closing ceremony.
             * A series of explosive devices are found in the sewers below [[The Fulcrum | The Fulcrum]] where the ceremony is being held. One detonates early, causing some minor structural damage. The others are discovered and diffused. High ranking [[Factor | Factors]] of each house are in attendance, any or all of whom may have been the intended target. Reinforcements from [[House Oestra | House Oestra]] are called in to support the [[House Meness | House Meness]] guards already in place.
 
             *34th Ostory*
             * [[:f-lar-mnementh | Tyromancer Pterath]], [[Factor | factor]] of [[House Goela | House Goela]], is poisoned. Investigators determine that a large dosage of hallucinogens had been added to his cheese. Pterath survives, but will be unwilling to attempt any further acts of divination.
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 
-    [accordion-item] 
-        [title] Enean (_9th Month_) [end-title] 
-        [content]  
+    [accordion-item]
+        [title] Enean (_9th Month_) [end-title]
+        [content]
             * In response to increasing [[Anathemists | Anathemist]] attacks, [[The Vermillion Company | The Vermillion Company]] under the command of [[:lacerta-kirrahe | Captain Kirrahe]] are hired to protect the [[:sindrel-coach | Sindrel Coach]].
 
             *8th Enean*
-            * [[:craftsman-shegrim | Craftsman Shegrim]], a high-level [[Factor | factor]] of [[House Mabon | House Mabon]], is commissioned anonymously to place a spell of reflection on an amulet. The amulet has _already_ been enchanted with a spell of reflection, causing the enchantment to rebound. In a city where magic is everywhere, he becomes a walking danger to everyone around him. 
+            * [[:craftsman-shegrim | Craftsman Shegrim]], a high-level [[Factor | factor]] of [[House Mabon | House Mabon]], is commissioned anonymously to place a spell of reflection on an amulet. The amulet has _already_ been enchanted with a spell of reflection, causing the enchantment to rebound. In a city where magic is everywhere, he becomes a walking danger to everyone around him.
 
             *10th Enean*
             * [[:dulcinia-von-phthasia | Dulcinia von Phthasia]] and her bodyguard [[:pthul | Pthul]] depart [[Soulwind | Soulwind]].
@@ -148,7 +148,7 @@ h3. *Campaign Timeline* - Year 4218 (_current year_)
             * The [[Hexine Circle | Hexine Circle]] requests the aid of [[The Adventurers | The Adventurers]] in rooting out Anathemist Spies.
             * [[:emerich-surefoot | Emerich Surefoot]], spotting [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] returning to [[The Wallarch District | Wallarch]], attempts to gather additional [[The Black Cats | Black Cats]] to ambush her. He is intercepted by [[The Adventurers | The Adventurers]] and interrogated. Under questioning he gives up his contact in the organisation.
             * [[The Adventurers | The Adventurers]] enter the [[The Wallarch District | Wallarch]] [[Osteomantic Archives | Osteomantic Archive]] during the funeral of Micycle Smynth.
-        [end-content] 
+        [end-content]
     [end-accordion-item]
 [end-accordion]
 
@@ -159,7 +159,7 @@ Dates are estimated according to the [[The Soulwind Calendar | Soulwind calendar
 
 h3. *3200s SC* (roughly 1000 years ago)
 
-* _Researchers from the Soulwind Institute discover a dimensional tear in the far north of the continent. The Soulwind Institute Dimensional Research and Exploration Laboratory (SInDREL) is established to study it._ 
+* _Researchers from the Soulwind Institute discover a dimensional tear in the far north of the continent. The Soulwind Institute Dimensional Research and Exploration Laboratory (SInDREL) is established to study it._
 * _The researchers find their way to Vitality and consume the Peaches of Immortality._
 * _Forseeing the profitability of Sindrel and growing tired of travelling between Soulwind and Sindrel, [[:lord-ablas-oestra | Lord Ablas Oestra]] establishes the Oestra estate at [[Fallowhurst | Fallowhurst]]._
 * _The researchers harvest resources and riches from the other worlds, establishing Sindrel as an economic hub._
@@ -169,7 +169,7 @@ h3. *3200s SC* (roughly 1000 years ago)
 
 *3700s SC* (roughly 500 years ago)
 * _Having harvested sufficient power from the conduit, the Lords of Sindrel pour massive amounts of energy into the tear in order to stabilise it._
-* _Now able to control which worlds they travel too, they bias towards Kosmios for extractive purposes. The compounding magical intrusion causes the Wheel of Forms to destabilise._ 
+* _Now able to control which worlds they travel too, they bias towards Kosmios for extractive purposes. The compounding magical intrusion causes the Wheel of Forms to destabilise._
 * _[[:lord-ablas-oestra | Lord Oestra]] moves the seat of his family to Sindrel, turning the [[Fallowhurst | Fallowhurst]] estate over to his son [[:embren-oestra | Embren]]_
 
 *3702 SC* (491 years ago)
@@ -185,7 +185,7 @@ h3. *3200s SC* (roughly 1000 years ago)
 * The first stirrings of the death of magic are felt.
 
 *circa 3900 SC* (roughly 300 years ago)
-* _With magic becoming rarer in [[Arcan | Arcan]] and beginning to appear naturally in Kosmios, Sindrel seeks to lock the rift permanently to Kosmios and begin harvesting magical resources as well as the more mundane offerings to bolster their diminishing powers._ 
+* _With magic becoming rarer in [[Arcan | Arcan]] and beginning to appear naturally in Kosmios, Sindrel seeks to lock the rift permanently to Kosmios and begin harvesting magical resources as well as the more mundane offerings to bolster their diminishing powers._
 * Soulwind's population begins to diminish as magic users drift towards Sindrel.
 * [[The Fall of the Eighth House | The Fall of the Eighth House]] - [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]] becomes disaffected with Sindrel's colonial ambitions and prepares to move against the circle. They imprison her in Thanismot.
 
