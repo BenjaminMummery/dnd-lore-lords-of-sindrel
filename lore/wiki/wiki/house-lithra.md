@@ -1,0 +1,111 @@
+---
+op_id: 02e749ad465941d782f2882a4148cf89
+op_slug: house-lithra
+op_type: WikiPage
+name: House Lithra
+title: House Lithra
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/house-lithra
+op_created_at: '2026-01-21T14:04:48Z'
+op_updated_at: '2026-06-25T12:20:41Z'
+op_gm_only: false
+tags:
+- House of Sindrel
+---
+
+[[File:1546935  | class=media-item-align-right | 300px | Lithra.png]]
+_The Ambassadors of Illusion_
+
+Possibly the most versatile of the Houses, charged with [[Sindrel | Sindrel]]'s image both internally and abroad. Most visible in the city's entertainers and diplomats, they also produce propaganda and manage the communication systems. They are Sindrel's ambassadors, diplomats, entertainers, and message couriers.
+
+h3. Known [[Factor | Factors]]
+
+* [[:emissary-halan | Emissary Halan]] - Member of the [[Hexine Circle | Hexine Circle]] formed to counter [[Anathemists | Anathemist]] infiltration of the city.
+* [[:emissary-isius | Emissary Isius]] - Hosted a soiree which was targeted by [[Anathemists | Anathemist]] saboteurs. Has since withdrawn from public life.
+
+h3. Known [[Adjutant | Adjutants]]
+
+* [[:myrath | Agent Myrath]] - Stationed at [[Fallowhurst Outpost | Fallowhurst Outpost]]
+
+h3. Fashion and Attire
+
+House Lithra clothing is as adaptable as the House itself, and is intended to be a cohesive part of whatever performance the wearer is putting on.
+
+The dominant colours are grey and silver: ash, smoke, pearl, slate, charcoal, pewter, onyx, and moonlit white. Occasional pale blue, bone-white, or muted gold may appear as an accent, but never enough to dominate. Lithra does not dress to dazzle. It dresses to control the room's assumptions. A Lithran emissary should seem elegant, composed, expensive, and difficult to accuse of vanity.
+
+In formal settings, a representative of Lithra will wear a distinctive usekh - crescent pectorals, beaded gorgets, silver throat-pieces, and geometric shoulder frames are used to draw attention to the face, voice, and controlled expression of the wearer. A Lithran collar is never merely decorative. It may indicate rank, diplomatic authority, House allegiance, magical discipline, or the particular office under which the wearer speaks. Some collars are also illusion foci, cipher devices, message-carriers, or subtle defensive charms. Operating primarily indoors where the chill of Sindrel's northern climate is less biting, the House style tends towards more exposed and theatrical silhouettes: bare shoulders, open necklines, décolletage, side-slit dresses, sheer grey mantles, pleated silver drapery, and fine gauze layered over skin. The effect is elegant rather than gaudy. The body itself is part of the performance of confidence, poise, and control, and to the illusionists of Lithra it is just as easy to restyle as any other garment.
+
+For those who travel, the clothing is slightly more restrained. In these settings, Lithrans favour long vertical lines, wrapped layers, narrow mantles, high collars, pleated panels, and carefully arranged shawls. The House's identity remains visible in geometric borders, kohl-dark eye motifs, scarab clasps, linen-like layering, formal headcloths, and jewellery that frames the face and throat. Sindrel's colder climate has made these garments heavier and more layered than their desert antecedents: fine wool, silver-threaded linen, grey velvet, ash-coloured silk, insulated wraps, hidden fur linings, and gloves thin enough for coded gestures.
+
+For field agents, messengers, and spies, the same visual language becomes darker and more adaptable. The grand usekh may shrink into a clasped gorget, a coded necklace, a scarf-pin, or an embroidered shape beneath a hood. Reversible cloaks, layered veils, soft boots, hidden pockets, detachable ornaments, and garments that change silhouette under shifting light are common. The intent is never theatrical secrecy. A Lithran operative does not want to look like a spy. They want to look as though they belong exactly where they are. Those deployed to other city states will typically adapt their clothing to the styles of the region, although they'll typically maintain the monochrome colours of their House.
+
+The House symbol is worn with restraint. It may appear as a silver eye-clasp at the throat, a black glyph embroidered into a lining, a signet on a glove, a veil-pin, or a pattern worked into a hem where only another Lithran would notice. More formal representatives may wear the eye openly, but even then it is more warning than boast.
+In House Lithra, every ornament has a purpose, every veil changes the conversation, and every collar tells the room who is permitted to speak.
+
+h3. Architecture
+
+House Lithra is the most flexible of the Great Houses, and its architecture reflects this. It does not have one public face. It has as many as are useful.
+
+The buildings Lithra uses to receive foreign dignitaries, ambassadors, merchants, artists, and other important visitors are deliberately familiar. These embassies, reception courts, guest palaces, and negotiation halls follow fairly conventional Soulwind patterns: tall façades, arched windows, formal courtyards, high-roofed halls - all are rendered in the characteristically seamless Sindrelite stonework, and enough grandeur to reassure a visitor that they are dealing with a civilised power. Their Lithran identity is present, but restrained. Warm grey stone, smoke-coloured upholstery, black granite floors, gold inlay, lapis lazuli panels, silver fittings, and discreet eye motifs provide the House signature without making guests feel they have entered foreign or hostile territory.
+
+These buildings are diplomatic instruments. Their purpose is to make outsiders comfortable enough to speak, impressed enough to defer, and disoriented enough not to notice which doors they never passed through. Within these public-facing structures, every room is arranged to manage perception. Waiting chambers are handsome but slightly too quiet. Corridors bend just enough to soften a visitor's sense of direction. Screens, galleries, mirrors, and clerestories allow observers to watch without appearing to intrude. 
+
+The buildings Lithra designs for Sindrel's own citizens are much less conventional. Theatres, circi, public debating houses, pageant courts, illusion halls, and civic entertainment complexes lean heavily into the House's ancient desert influence. These structures favour pylons, obelisks, battered walls, hypostyle halls, highly decorated columns, lotus and papyrus capitals, stepped terraces, processional avenues, and roofs that often tend toward pyramidal or truncated-pyramidal forms. In Sindrel's cold climate, these old forms have become enclosed, insulated, and magically heated. Open courts are roofed with glass, crystal, or enchanted stone. Colonnades are wind-screened. Pools and reflecting basins are warmed from below so that they steam gently beneath grey winter light.
+
+This second style is not meant to reassure. It is meant to perform. Marble cladding, grey limestone, black granite, electrum, silver, gold, lapis, dark glass, and polished basalt are used with theatrical confidence. Columns are carved with histories that may be allegory, prophecy, propaganda, or all three. Stairways are broad enough for civic processions. Stage fronts resemble temple façades. Seating tiers are arranged so that the audience can watch the performance, each other, and themselves being watched.
+
+Lithran architecture is full of eyes, but rarely in crude repetition. The House symbol appears as a balcony grille, a floor mosaic, a theatre oculus, a window shape, a curtain clasp. The best Lithran buildings make people feel seen without letting them identify the watcher. Magical development has made Lithran architecture especially fluid. Walls may carry illusion-layers that change ornament according to guest, season, performance, or political need. Columns may conceal listening shafts. Floors may remember footsteps. Curtains may obscure more space than they physically cover. A theatre may become a tribunal with a change of light; a gallery may become an embassy; a ceremonial stair may become a stage.
+
+The guiding principle is not deception for its own sake, but controlled meaning. Lithra builds places where people reveal themselves, where every sightline is chosen, and where the difference between hospitality, theatre, diplomacy, and surveillance is mostly a matter of invitation.
+
+h3. Anathemist Sabotage
+
+House Lithra was struck not by fire, flood, or poison, but by scandal.
+
+On 21st Ostory, the punch ladle at a diplomatic function hosted by House Lithra was exchanged with one enchanted with a geis of truth-speaking. The result was immediate and spectacular: three major diplomatic incidents, the end of two marriages, and a very awkward proposal. House Factor [[:emissary-isius | Emissary Isius]], the host of the event in question, has since withdrawn from public life.
+
+The incident appears ridiculous at first glance, but its consequences were serious. House Lithra's authority depends heavily on poise, secrecy, negotiation, and the careful management of what is said aloud. An enchantment forcing truth in the middle of a diplomatic function was therefore a direct attack on the House's reputation and methods.
+
+<!-- GM_INFO_START -->
+h3. Overview
+
+* Architecture reference: Egyptian
+* Philosophy: Meaning — Events possess no inherent significance. Civilization depends upon understanding, interpreting, and communicating what matters. 
+
+h3. Philosophy
+
+House Lithra concerns itself not merely with information, but with _meaning_.
+
+Its ambassadors, entertainers, archivists, and messengers all share a common purpose: shaping how events are understood. Lithrans believe that facts alone possess little value. History must be interpreted, knowledge must be communicated, and events must be placed within a narrative before they can influence society. As a result, House Lithra concerns itself with diplomacy, public perception, education, and propaganda in equal measure. To its critics, the House manipulates the truth. To its defenders, it simply ensures that truth remains meaningful.
+
+h3. Leader
+
+[[:ambassador-thrawne-lithra | Ambassador Thrawne Lithra]]
+
+h3. Ranks
+Lithra doesn't have a strict rank structure, titles are dependent on what a person does. However there is a rough hierarchy
+
+* Ambassador - can represent the city as a whole in international discourse
+* Consul
+* Envoy
+* Emissary
+* Delegate
+* Agent
+
+h3. Headquarters - The Eidolon
+
+bq). The Eidolon floats a hundred feet above the streets of Sindrel. Admittedly that in and of itself is not a notable achievement in a city where gravity is generally regarded as an old-fashioned custom. What is notable is that the design of the colossal structure somehow makes the viewer intensely aware of the sheer weight of such an edifice, and the immense achievement of its suspension. The real trick of the Eidolon is that in a city of floating buildings it somehow manages to float _impressively_.
+From below, the stalagmite-like vaults of beneath the structure reach downwards as if to offer a helping hand. These famously house House Lithra's extensive stores of alchohol. There is a well known saying among the illusionists of House Lithra - "Art should elevate the spirit.". There is an equally well known joke among the other houses that the architects had taken this literally.
+The structure is visible from almost every corner of Sindrel. This is no accident. Nothing House Lithra ever does is accidental, except perhaps honesty.
+Its outer walls are formed from smooth grey stone polished until they reflected the sky. Not the actual sky, naturally, but a somewhat improved version featuring more dramatic clouds and better lighting. Gold traces every edge and contour, catching the sun in dazzling flashes. Inlays of deep blue stone form geometric patterns that drew the eye upward toward immense towers crowned with stylised eyes staring serenely across the city.
+Officially , the Eye of house Lithra represents wisdom.
+
+bq). The main entrance is a processional avenue lined by towering statues seated upon massive stone thrones. You recognise the seven founders of Sindrel, their eyes, carved from polished lapis lazuli, glitter in the sunlight. Or rather, six of them, two groups of three facing each other across the avenue. The seventh, the founder of House Lithra, is nowhere to be seen. Their absence may be construed as an act of humility, or perhaps it is intended to invite an unflattering comparison between the six statues and the colossal structure of the Eidolon itself - House Lithra made manifest.
+Above the great entrance arch floats an arrangement of golden curves forming the shape of an open eye, unsupported by any visible structure. You find yourselves unable to meet its gaze, mostly because it perfectly frames the sun. It occurs to you that the entire structure must rotate throughout the day in order to achieve this.
+
+bq). On the other side of the arch, the amphitheatre opens into a vast bowl of ascending seats and impossible perspectives. Golden reflections dance across every surface. The stage appears larger and clearer than it should be at this distance. Everything about the amphitheatre celebrates spectacle. Floating braziers burn with smokeless flames whose colours shift to accentuate and emphasise the emotions on stage. Great stone obelisks drift lazily through the air around the structure like obedient moons. Colossal banners float unsupported above the audience. You observe that while these nominally indicate seating for the factors and adjutants of each house, there are no clearly delineated sections. The audience of the Eidolon are intended to mingle, and the ambassadors of House Lithra are able to move freely among them creating connections, relationships, and opportunities in their wake.
+On the stage, a city is dying. Towers collapse in clouds of dust. Armies clash beneath storm-darkened skies. Heroes shout defiance in eloquent pentameter from crumbling battlements. The scent of smoke and iron drifts through the air. But below it is another scent, green shoots and fresh earth - the promise of new life and rebirth growing stronger as the tides of pantomimed battle turn and seven familiar figures step to centre stage and usher the familiar white towers of Sindrel into glimmering existence.
+Ten thousand faces gaze downward in rapt attention. Or rather, they appear to. House Lithra are illusionists, of course, and the audience seems a little larger, somewhat more attentive, and significantly better dressed than you'd expect from your time among the citizenry. Sound is similarly distorted - the voices and music from the distant stage ring in your ears as clearly as a bell, but always seem to enter a convenient lull whenever you or one of your compatriots speaks. Meanwhile the chatter of other groups the patrons near you seems muffled and indistinct. You feel that you could discuss the deepest of secrets and be certain of not being overheard. You wonder if this feeling, too, is an illusion, before remembering who you're dealing with. 
+The true performance is convincing an entire city that a monument dedicated to illusion is exactly what it appeared to be.
+
+[[File:1572853  | class=media-item-align-none | ChatGPT_Image_Jun_25__2026_at_11_53_23_AM.png]]
+<!-- GM_INFO_END -->
