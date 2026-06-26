@@ -1,0 +1,15 @@
+---
+op_id: 21343bc1f8dd40eaaa874e7adc967454
+op_slug: fallowhurst-outpost
+op_type: WikiPage
+name: Fallowhurst Outpost
+title: Fallowhurst Outpost
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/fallowhurst-outpost
+op_created_at: '2026-01-26T17:23:34Z'
+op_updated_at: '2026-01-26T17:23:34Z'
+op_gm_only: false
+tags:
+- location
+---
+
+A guardpost intended to prevent travellers from Sindrel accidentally entering Fallowhurst
