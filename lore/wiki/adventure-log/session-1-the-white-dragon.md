@@ -1,0 +1,158 @@
+---
+op_id: d4679ff89d864234a7270fd50dcb74eb
+op_slug: session-1-the-white-dragon
+op_type: Post
+name: 'Session 1: The White Dragon'
+title: 'Session 1: The White Dragon'
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-1-the-white-dragon
+op_created_at: '2025-12-21T11:04:21Z'
+op_updated_at: '2026-06-24T13:00:15Z'
+op_gm_only: false
+tags: []
+post_tagline: You meet at a tavern...
+post_time: '2025-12-03T18:00:00Z'
+---
+
+h2. Dramatis Personae
+[accordion]
+[accordion-item] [title] The Adventurers [end-title] [content]
+* [[:amanira | Amanira]], a drow druid.
+* [[:ayr | Ayr]], gnome paladin.
+* [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
+* [[:pin | Pin]], a human fighter.
+* [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
+* [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
+* [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
+[end-content] [end-accordion-item]
+[accordion-item] [title] Patrons of the White Dragon [end-title] [content]
+* [[:gillette-quill | Gillette]] and [[:raymond-quill | Raymond Quill]], ruffians
+* [[:dulcinia-von-phthasia | Dulcinia von Phthasia]], a sickly noblewoman
+* [[:pthul | Pthul]], Dulcinia's bodyguard and manservant.
+* [[The Vermillion Company | Mercenaries]] hired to protect the coach to [[Sindrel | Sindrel]], led by their [[:lacerta-kirrahe | Captain]]
+* Assorted [[:jean-de-dinteville | merc]][[:georges-de-selve | hants]] and travellers
+[end-content] [end-accordion-item]
+[accordion-item] [title] The Anathemists [end-title] [content]
+* [[:commander-wake | Unknown]] - Ambush leader and gun-wielder.
+* Assorted Anathemist soldiery
+ [end-content] [end-accordion-item]
+[end-accordion]
+
+h2. First Meetings
+
+_Evening of the 24th of Enean, year 4218 ([[The Soulwind Calendar | Soulwind Calendar]])_
+
+bq). Situated where the vicious peaks of the [[Arkay Mountain Range | Arkay Mountain Range]] meet the tempestuous [[Norward Sea | Norward Sea]], [[Sindrel | Sindrel]] is hard to reach by any means. The only reasonably navigable path is the [[The Mage Road | Mage Road]], an ancient thoroughfare linking [[Sindrel | Sindrel]] to its closest neighbour - the once great metropolis of [[Soulwind | Soulwind]], over a week's travel to the south. All travellers to [[Sindrel | Sindrel]], sooner or later, find themselves on [[The Mage Road | The Mage Road]], and so all travellers, sooner or later, find themselves spending a night at [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]] - the last rest before [[Sindrel | Sindrel]].
+It is here that our story begins, as the dying light of the day shines crimson through the windows of the Inn's common room. Tomorrow you will alight the coach that will take you on the final leg of your journey, but tonight you relax and mingle with your fellow travellers. The mood of the room is buoyant, but with an undercurrent of tension - rumours of danger on the road have been growing, and the eyes of many guests make furtive glances towards the group of armoured warriors occupying the corner table - [[The Vermillion Company | mercenaries]] hired to provide additional security for the morning's coach.
+Their presence makes the room a little crowded, and you find yourself sharing a table with 6 other travellers, all bound for Sindrel.
+
+While [[:rossin-ros-greyhirst | Ros]] and [[:silrie-aegiskiir | Silrie]] struck up an early friendship, the rest of the septuple grew suspicious of the two shifty men at the next table - [[:gillette-quill | Gillette]] and [[:raymond-quill | Raymond Quill]]. [[:wilrin-racenglade | Wilrin]] used magic to purloin the paper they were writing on, an overt act made even more obvious by the tides of wild magic endowing him temporarily with a beard of brightly coloured feathers. The paper revealed that the two men were planning to rob various rooms around the inn. The confrontation had also drawn the attention of [[:pthul | Pthul]], bodyguard to a noble lady who was also one of the targets.
+
+There followed a short altercation between the Quill brothers on one side, and the seven travellers and [[:pthul | Pthul]] on the other. Despite some calamitous rolls, our heroes were victorious, knocking [[:gillette-quill | Gillette]] unconscious and restraining [[:raymond-quill | Raymond Quill]]. This also drew the attention of the [[:lacerta-kirrahe | leader of the mercenaries]], although he declined to involve himself more than was necessary.
+
+[[:pthul | Pthul]] was inclined to execute the brothers on the spot, while the [[:lacerta-kirrahe | mercenary captain]] offered the choice of escorting them to [[Sindrel | Sindrel]] for trial and likely execution. Presented with the choice of how to handle the ruffians, the adventurers chose mercy, taking the responsibility for the lives and future actions of the Quill brothers onto themselves.
+
+Seeing her honour so defended, [[:dulcinia-von-phthasia | Dulcinia von Phthasia]] invited the adventurers to join her, and they spent the rest of the evening telling the enraptured noblewoman tales of their various exploits.
+
+When they finally retired to bed, [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and [[:silrie-aegiskiir | Silrie]] took turns guarding their prisoners, with the latter using the time to school [[:raymond-quill | Raymond]] in meditation.
+
+h2. The Road to Sindrel
+
+_25th of Enean, 4218 [[The Soulwind Calendar | SC]]_
+
+bq). Morning dawns bright and cold. The wheels of the the coach crunch through frozen puddles as you make your way north. The Mage Road winds its way through a series of wide valleys and increasingly harsh ridges. You grow used to the periodic shift in sound between the gravelled embankments of the low flood planes and the steep paved switchbacks cut into the hillsides.
+
+Much of the journey to [[Sindrel | Sindrel]] passed without incident, other than [[:raymond-quill | Raymond]]'s attempts to teach his brother what he'd learned of meditation (the latter having been unconscious for most of the previous night).
+
+bq). As the afternoon rolls on, you reach the crest of a hill and find yourselves looking down into the Deren valley, a broad swath of overgrown marshland on the far side of which rise the main spine of the [[Arkay Mountain Range | Arkay Mountains]]. Rather than descend into it, the road makes a sharp turn and winds its way along the ridge towards the start of a grand bridge that spans the valley.
+
+bq). The road is narrow, penned in by a steep wall of rock on one side and a precipitous drop on the other, and the mercenaries who have ridden alongside the coach all day are forced into two groups, one ahead and one behind.
+
+bq). As the convoy approaches the start of the bridge, you hear a thunderous crash from behind you and, looking back, you see a large tree trunk has been dropped onto the road from above, blocking your retreat and separating you from the rear group of mercenaries. From the leading group you hear a cry: "Anathemists!"
+
+[[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] and [[:amanira | Amanira]] recognise the term [[Anathemists | "Anathemist"]] as referring to a group of religious zealots who believe that mortal misuse of magic angered the gods, leading to their withdrawal and the death of magic. They hold that only by purging the unholy practice of magic from the face of [[Arcan | Arcan]] can the Gods' light be restored.
+
+Despite the urging of the [[:commander-wake | Anathemist leader]] to remain calm, and his insistence that they're only after the gold, [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] immediately attacked. There followed a desperate battle on the narrow road, during which both [[:silrie-aegiskiir | Silrie]] and [[:wilrin-racenglade | Wilrin]] made it to the top of the cliff, while [[:pin | Pin]] suffered a nearly mortal wound. Every use of magic by the adventurers served to enrage the ambushing Anathemists.
+
+In defiance of several injuries, the [[:commander-wake | Anathemist leader]] was ultimately able to bring his weapon to bear, and with a single shot he reduced the [[:lacerta-kirrahe | mercenary captain]] to a fine red mist. He'd clearly intended for this to bring the conflict to an end, but the sound startled the horses who bolted, breaking free of the coach but leaving it dangling precipitously over the edge of the cliff.
+
+On this tableau we end: 
+* Within the coach are [[:amanira | Amanira]], the lady [[:dulcinia-von-phthasia | Dulcinia]], [[:pthul | Pthul]], [[:raymond-quill | Raymond]] and [[:gillette-quill | Gillette Quill]], and a number of [[:jean-de-dinteville | merc]][[:georges-de-selve | hants]]. 
+* Clinging to the roof of the cach are [[:pin | Pin]], [[:wilrin-racenglade | Wilrin Ravenglade]]000 and [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]]. 
+* [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] and  are on the road, suddenly without cover as the coach has moved. 
+* Atop the cliff are  [[:silrie-aegiskiir | Silrie Aegiskiir]], [[:ayr | Ayr]], and an increasing number of [[Anathemists | Anathemists]] including their [[:commander-wake | leader]].
+
+<!-- GM_INFO_START -->
+h2. The White Dragon
+
+The common room of [[The White Dragon Coaching Inn | the White Dragon]] is luxuriously and expensively appointed - the proprietors have made the most of their effective monopoly, and their trade is lucrative indeed. The floors are polished wood, and decorative wall hangings dampen echoes and keep out the chill of northern air. However, a character examining the room will quickly find the telltale signs of a more magical past. Over each table hangs a spherical cage of filigreed brass that has been expertly retrofitted to contain a platter of candles rather than a levitating sphere of magical light. The kitchen originally used a flameless magical heat, and the subsequent addition of a chimney has proven insufficient for the new stove, leaving the air of the common room with a slight haze and a perceptible scent of woodsmoke. Marks on the wall, inadequately concealed by some unconvincing attempts at watercolour, suggest the presence of a household shrine - now removed. 
+
+Players attempting to listen in on other diners will overhear the [[The Vermillion Company | mercenaries]] discussing the [[Anathemists | Anathemists]]. They can learn that they have been growing bolder, apparently testing [[Sindrel | Sindrel]]'s defences and preying on travellers. At least one coach has been destroyed in the past month, with several more having narrow escapes. The mercenaries have little interest in the motives of the Anathemists, being more concerned with the stories of their supposed martial prowess - although nobody seems to be clear on exactly what they can do.
+
+Players paying keeping an eye on the other civilians will notice Gillette and Raymond Quill, two hard-bitten ruffians in ill-fitting stolen clothes one table over. The brothers are eyeing the parties valuables with scheming avarice. There is also [[:dulcinia-von-phthasia | Dulcinia von Phthasia]], heiress to a minor baronetcy and sufferer of a particularly resilient wasting disease. She, accompanied by her bodyguard [[:pthul | Pthul]], is on her way to Sindrel seeking a magical remedy.
+
+h3. Characters
+
+h4. The Quill Brothers
+
+Petty thieves looking for an easy mark.
+- [[:gillette-quill | Gillette Quill]]
+- [[:raymond-quill | Raymond Quill]]
+
+h4. [[The Vermillion Company | The Vermillion Company]]
+
+Soldiers for hire, currently engaged to defend the coach to Sindrel
+
+- Captain Kirrahe
+- Chorban
+- Ish
+- Jaroth
+- Linron
+- Ledra
+- Palon (medic)
+- Rentola
+- Schells
+- Tazzik
+
+h4. Travelling merchants
+
+- Jean de Dinteville
+- Georges de Selve,
+
+h4. The Noble
+
+- [[:dulcinia-von-phthasia | Dulcinia von Phthasia]]
+- [[:pthul | Pthul]] her bodyguard
+
+h3. Part 1: The White Dragon
+
+* The players get a chance to introduce themselves and do a little roleplay. 
+* Conflict comes at the hands of the Quill brothers - the party can either notice and deal with them, or they will attempt to break into the sleeping quarters later in the evening. If conflict breaks out in the common room, the mercenaries will spectate unless it starts to directly affect them - after all they're not being paid to deal with drunks.
+* If anyone approaches Dulcinia they will be blocked by Pthul, but his mistress will intervene. Dulcinia has never had a chance to experience much of life, and yearns to hear of the adventures of others. If they win her trust, a PC will learn that she is deeply afraid of dying without ever having had the chance to live, and views Sindrel as her last hope.
+
+h3. Part 2: The Night
+
+Unless they're interrupted by the Quills, the party should roll wisdom saving throws against the affect of the increased magic on their psyche. The DC is 2 so none of them should fail.
+
+h3. Part 3: The Journey
+
+bq). Morning dawns bright and cold. The wheels of the the coach crunch through frozen puddles as you make your way north. The Mage Road winds its way through a series of wide valleys and increasingly harsh ridges. You grow used to the periodic shift in sound between the gravelled embankments of the low flood planes and the steep paved switchbacks cut into the hillsides.
+
+The PCs are riding in the body of the carrage with Dulcinia, Pthul, and a few merchants. Possible opportunity for more RP depending on how they handled her the night before.
+
+The top of each ridge has the remains of a conduit structure. Most look like little more than a pile of rubble, although anyone looking closer will se that they're clearly the remains of masonry.
+
+h3. Part 4: The Attack
+
+bq). As the afternoon rolls on, you reach the crest of a hill and find yourselves looking down into the Deren valley, a broad swath of overgrown marshland on the far side of which rise the main spine of the Arkay Mountains. Rather than descend into it, the road makes a sharp turn and winds its way along the ridge towards the start of a grand bridge that spans the valley.
+
+bq). The road is narrow, penned in by a steep wall of rock on one side and a precipitous drop on the other, and the mercenaries who have ridden alongside the coach all day are forced into two groups, one ahead and one behind.
+
+bq). As the convoy approaches the start of the bridge, you hear a thunderous crash from behind you and, looking back, you see a large tree trunk has been dropped onto the road from above, blocking your retreat and separating you from the rear group of soldiers.
+
+The ambush is orchestrated by the Anathemists with the joint goals of preventing travellers and resources from entering Sindrel and stealing the large quantities of gold currently in the possession of Dulcinia and the merchants. The following things will happen:
+- Anathemists occupy the ridge above - they have the mercenaries at arrow-point and will quite happily kill any of them who try to make a move.
+- Their leader, Barris, is a cold calculating bastard with the demeanour of a folk hero rogue. He carries a strange weapon none of the characters have seen before.
+- Barris will demand that the various riches be handed over. Pthul will, of course, refuse - without payment they can't heal Dulcinia. 
+- The players can try to negotiate. 
+- One way or another, somebody will make a move and Baris will killt hem with his gun. The sound will startle the horses, who will bolt and rip themselves from the coach, causing the whole thing to go over the side. If Dulcinia is still within the coach, Pthul will pull her out at the last second, probably shoving any player in danger of escaping this event over the side en route.
+<!-- GM_INFO_END -->
