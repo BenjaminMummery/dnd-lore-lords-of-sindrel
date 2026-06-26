@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-06-26T16:04:06Z",
+  "last_git_publish": "2026-06-26T16:09:07Z",
   "last_portal_pull": "2026-06-26T15:42:23Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -627,9 +627,9 @@
       "op_id": "64cea553e6254e388e39ac1abc75eb9f",
       "op_kind": "Wiki",
       "op_slug": "session-8-",
-      "op_updated_at": "2026-06-26T16:03:09Z",
-      "repo_blob_sha": "8169a1c71e61291b1401cb0f28e859a935c831eb",
-      "repo_hash_at_sync": "84646b522fd6456e339186b76dc6df0cf8e2238137c39e9dc0af5f6dd09c6927",
+      "op_updated_at": "2026-06-26T16:08:49Z",
+      "repo_blob_sha": "f3121810d172a183f3fbd3bf5a2e1ed57122291e",
+      "repo_hash_at_sync": "bd16ebdb9d4e6c4b327f4445618ea923123f4d3dbd67eb274474cb0c912cf686",
       "repo_path": "lore/wiki/adventure-log/session-8-.textile"
     },
     "64d58a7081f64048b0990df87d7239b4": {
@@ -677,9 +677,9 @@
       "op_id": "689a5e01c2214591bcd30469314707f8",
       "op_kind": "Wiki",
       "op_slug": "session-10",
-      "op_updated_at": "2026-06-26T16:03:01Z",
-      "repo_blob_sha": "32806c9c77392ab75ddabfade1825c5f8aa2af4e",
-      "repo_hash_at_sync": "e310818c21a94dbef10e3eaf006745258696b8d70fe14ec9710a524f9390448a",
+      "op_updated_at": "2026-06-26T16:08:44Z",
+      "repo_blob_sha": "5d71916d0e5dee517f271961706dfd6c10590c17",
+      "repo_hash_at_sync": "e90a596b62d4182f0ac0afca7daa1b9db0e2e5d4cab6e58dcbb7cf97dd83cc35",
       "repo_path": "lore/wiki/adventure-log/session-10.textile"
     },
     "6a9b29c8be354a8894c6591017af56b6": {
@@ -687,9 +687,9 @@
       "op_id": "6a9b29c8be354a8894c6591017af56b6",
       "op_kind": "Wiki",
       "op_slug": "the-catacombs",
-      "op_updated_at": "2026-06-26T16:03:11Z",
-      "repo_blob_sha": "a2195609d12d8e55294f0287c809bee78032694f",
-      "repo_hash_at_sync": "b5b9cb148db36cfb3d38bda65bf369a080a1a350de92ce842ad57839044d95e9",
+      "op_updated_at": "2026-06-26T16:08:52Z",
+      "repo_blob_sha": "2ea60fd795bed9392ab789bd3ba6d38052063879",
+      "repo_hash_at_sync": "2874c3d8c276e8d7e7836ff92bd7919d3cd75e58fe812b0f8621eb1a8cd3aab5",
       "repo_path": "lore/wiki/adventure-log/the-catacombs.textile"
     },
     "6adff637351c4101a96bffca2c5f294f": {
@@ -1407,9 +1407,9 @@
       "op_id": "e7ad041dba144a5b9b50fa5cc8bb6f8a",
       "op_kind": "Wiki",
       "op_slug": "session-9-downtime-2",
-      "op_updated_at": "2026-06-26T16:03:10Z",
-      "repo_blob_sha": "76cf5033816e6a896ee0ef29a8236f2468b80d30",
-      "repo_hash_at_sync": "ae7058ae6a9015133f6e5d9223fff3fc112b342fa8de50cc6d10f8e9b77e824a",
+      "op_updated_at": "2026-06-26T16:08:50Z",
+      "repo_blob_sha": "8e38f4130aa3ecd18d44624a1f9e4637cf03097a",
+      "repo_hash_at_sync": "722c5f9c6ae62e97b7d7b13b36f1178e067aee7e933422bc78cbe6ca8d61e39c",
       "repo_path": "lore/wiki/adventure-log/session-9-downtime-2.textile"
     },
     "eee373837b7b42ae83fffb913d22290c": {
