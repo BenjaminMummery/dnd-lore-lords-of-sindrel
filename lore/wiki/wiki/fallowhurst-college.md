@@ -1,0 +1,31 @@
+---
+op_id: c81fb8888f854632a2f5bcafa7b89e5a
+op_slug: fallowhurst-college
+op_type: WikiPage
+name: Fallowhurst College
+title: Fallowhurst College
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/fallowhurst-college
+op_created_at: '2026-01-07T14:31:54Z'
+op_updated_at: '2026-01-14T18:10:59Z'
+op_gm_only: false
+tags:
+- location
+---
+
+[[File:1544298  | class=media-item-align-right | 700px | Byrgenwerth_concept_art_1.webp]]
+
+A ruined college located in [[Fallowhurst | Fallowhurst]].
+
+The Fallowhusrt College of Medicinal Studies, more commonly simply styled as "Fallowhurst College" was an institution in the village of [[Fallowhurst | Fallowhurst]], half a day's travel south-west of [[Sindrel | Sindrel]]. The buildings the college occupied were originally constructed as a grand estate for a noble family before being remodelled and repurposed. 
+
+h3. Mysteries and Clues
+
+* At some point in the past, the village was abandoned and the college fell into disrepair. Whether these two events were linked remains to be seen.
+* At some stage the college were using [[The Fallowhurst Sigil | The Fallowhurst Sigil]]. The intended purpose remains unclear.
+* The college appears to be connected to [[:embren-oestra | The Plague Doctor]].
+
+[[File:1543100  | class=media-item-align-right | 490954184_1243446153797378_5596828094446578458_n.jpg]]
+
+<!-- GM_INFO_START -->
+Originally the estate of [[House Oestra | House Oestra]], it was converted to a medical college at the direction of [[:embren-oestra | Embren Oestra]].
+<!-- GM_INFO_END -->
