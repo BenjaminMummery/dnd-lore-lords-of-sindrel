@@ -1,0 +1,24 @@
+---
+op_id: 24a9fb6a96c34deeadf8c99ef0524f0c
+op_slug: merchants-quarter
+op_type: WikiPage
+name: Merchant's Quarter
+title: Merchant's Quarter
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/merchants-quarter
+op_created_at: '2026-06-24T10:09:43Z'
+op_updated_at: '2026-06-24T10:14:59Z'
+op_gm_only: false
+tags:
+- location
+- Sindrel
+- district
+---
+
+For most visitors, the Merchant's Quarter _is_ Sindrel. Located near the great southern gates where the [[The Mage Road | Mage Road]] enters the city, it serves as the first stop for merchants, pilgrims, adventurers, and diplomats arriving overland. Inns, counting houses, warehouses, money changers, and caravan yards crowd its streets, while traders from across [[Artresh | Artresh]] haggle beneath the shadow of the floating city above. Though prosperous, the district remains fundamentally transient; few come here to stay, and fewer still come here to belong.
+
+Its existence is something of an unintended consequence of Sindrel's economic power - the great trade empire operating out of [[Dockward | Dockward]] is designed to deal with governments and nobles, but smaller operators quickly realised that they could make a good living buying magical good in Sindrel and trading them elsewhere. The influx of such traders naturally necessitated that there be somewhere for them to stay.
+
+h3. Locations
+
+* [[The Pointed Hat | The Pointed Hat]]
+* [[Temple of the Dawn Father | Temple of the Dawn Father]]
