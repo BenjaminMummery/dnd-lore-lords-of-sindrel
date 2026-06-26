@@ -1,0 +1,21 @@
+---
+op_id: 8b3c7fb27d0742f1959836609893feea
+op_slug: scholars-ward
+op_type: WikiPage
+name: Scholars Ward
+title: Scholars Ward
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/scholars-ward
+op_created_at: '2026-06-24T10:16:20Z'
+op_updated_at: '2026-06-24T10:16:20Z'
+op_gm_only: false
+tags:
+- location
+- Sindrel
+- district
+---
+
+The Scholars Ward grew around the [[The Heptade Academy | Heptade Academy]] and remains the intellectual heart of [[Sindrel | Sindrel]]. Students, professors, scribes, tutors, librarians, and aspiring magi fill its crowded streets, where bookshops and lecture halls stand beside cheap lodgings and communal dining halls. The district is one of constant debate and perpetual motion, where revolutionary ideas are discussed over breakfast and forgotten by supper. Many of Sindrel's future leaders pass through the Scholars Ward, though relatively few ever leave it entirely behind.
+
+h3. Locations
+
+* [[The Heptade Academy | The Heptade Academy]]
