@@ -1,0 +1,21 @@
+---
+op_id: fc2247b3d087498b8e0e04ddf4dd13f2
+op_slug: the-mage-road
+op_type: WikiPage
+name: The Mage Road
+title: The Mage Road
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-mage-road
+op_created_at: '2025-11-30T19:17:45Z'
+op_updated_at: '2026-01-07T13:56:10Z'
+op_gm_only: false
+tags:
+- location
+---
+
+The ancient thoroughfare linking [[Sindrel | Sindrel]] and [[Soulwind | Soulwind]].
+
+Starting from [[Soulwind | Soulwind]], the Mage Road wends its way north over increasingly mountainous terrain. A number of small towns and coaching inns lie along its path, and these places make a decent income from providing lodging and food to the steady flow of merchants and travellers. The grandest of these is the last: [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]. Beyond this point, the road navigates a series of harsh mountain ridges and wide valleys, ultimately crossing the great bridge over the Deren Valley and passing through the [[Arkay Mountain Range | Arkay Mountains]].
+
+<!-- GM_INFO_START -->
+The mage road is dotted with the ruins of transference towers, dating back to Sindrel's magical link with Soulwind.
+<!-- GM_INFO_END -->
