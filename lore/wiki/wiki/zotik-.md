@@ -1,0 +1,15 @@
+---
+op_id: 0da3cc62455248bb8810eb5e252770ce
+op_slug: zotik-
+op_type: WikiPage
+name: Zotikó
+title: Zotikó
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/zotik-
+op_created_at: '2026-06-24T19:01:32Z'
+op_updated_at: '2026-06-24T19:01:32Z'
+op_gm_only: true
+tags:
+- world
+---
+
+
