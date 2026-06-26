@@ -1,0 +1,199 @@
+---
+op_id: 6f9dfa0ebbf147a791ed50efe8aceb19
+op_slug: main-page
+op_type: WikiPage
+name: Main Page
+title: Main Page
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/main-page
+op_created_at: '2025-11-17T15:24:03Z'
+op_updated_at: '2026-06-24T18:44:13Z'
+op_gm_only: false
+tags: []
+---
+
+h2. The Worlds of Sindrel
+
+h3. Quick Links:
+
+* [[The Investigation | The Investigation]]
+* [[World History | World History]]
+* "Items":https://thelordsofsindrel.obsidianportal.com/items
+* "Characters":https://thelordsofsindrel.obsidianportal.com/characters
+* [[The Gods | The Gods]]
+
+
+h3. Locations
+
+Our tale takes place in the northern regions of the continent of [[Artresh | Artresh]] in the world of [[Arcan | Arcan]].
+
+<ul style="padding-left: 28px;text-indent: -28px; ">
+    <li>[[Sindrel | Sindrel]]</li>
+        <ul style="padding-left: 28px;text-indent: -28px; ">
+            <li>[[Merchant's Quarter | Merchant's Quarter]] </li>
+                <ul style="padding-left: 28px;text-indent: -28px; ">
+                    <li>[[The Pointed Hat | The Pointed Hat]]</li>
+                    <li>[[Temple of the Dawn Father | Temple of the Dawn Father]]</li>
+                </ul>
+            <li>[[Scholars Ward | Scholars Ward]]</li>
+                <ul style="padding-left: 28px;text-indent: -28px; ">
+                    <li>[[The Heptade Academy | The Heptade Academy]]</li>
+                </ul>
+            <li>[[Granary Ward | Granary Ward]]</li>
+                <ul style="padding-left: 28px;text-indent: -28px; ">
+                    <li>The Cornucopia - Headquarters of [[House Grimbolg | House Grimbolg]]</li>
+                </ul>
+            <li>[[Merrylane | Merrylane]]</li>
+                <ul style="padding-left: 28px;text-indent: -28px; ">
+                    <li>Ambassador Street</li>
+                        <ul style="padding-left: 28px;text-indent: -28px; ">
+                            <li>[[Radwasp House | Radwasp House]]</li>
+                        </ul>
+                    <li>Merrylane Park</li>
+                </ul>
+            <li>[[Dockward | Dockward]]</li>
+                <ul style="padding-left: 28px;text-indent: -28px; ">
+                    <li>The Annulus - Headquarters of [[House Mabon | House Mabon]]</li>
+                </ul>
+            <li>[[Sevenways | Sevenways]]</li>
+            <li>[[The Wallarch District | Wallarch District]]</li>
+                <ul style="padding-left: 28px;text-indent: -28px; ">
+                    <li>[[Osteomantic Archives | Wallarch Osteomantic Archives]]</li>
+                </ul>
+            <li>[[The Canted Terrace | The Canted Terrace]]</li>
+                <ul style="padding-left: 28px;text-indent: -28px; ">
+                    <li>[[Beltan Institute | Beltan Institute]]</li>
+                </ul>
+            <li>[[Quarantine Zone | The Quarantine Zone]]</li>
+            <li>[[The Fulcrum | The Fulcrum]]</li>
+            <li>The Leageur - Headquarters of [[House Oestra | House Oestra]]</li>
+        </ul>
+    <li>[[Soulwind | Soulwind]]</li>
+    <li>[[The Mage Road | The Mage Road]]</li>
+    <li>[[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]</li>
+    <li>[[Arkay Mountain Range | Arkay Mountain Range]]</li>
+    <li>[[Fallowhurst | Fallowhurst]]</li>
+        <ul style="padding-left: 28px;text-indent: -28px; ">
+            <li>[[Fallowhurst College | Fallowhurst College]]</li>
+        </ul>
+    <li>[[Fallowhurst Outpost | Fallowhurst Outpost]]</li>
+</ul>
+
+h3. The Great Houses of Sindrel
+
+* [[House Beltus | House Beltus]]
+* [[House Goela | House Goela]]
+* [[House Grimbolg | House Grimbolg]]
+* [[House Lithra | House Lithra]]
+* [[House Mabon | House Mabon]]
+* [[House Meness | House Meness]]
+* [[House Oestra | House Oestra]]
+* [[The Eighth House | The Eighth House]] (defunct)
+
+h3. Organisations / Groups
+
+* [[The Adventurers | The Neighbourhood Wonch]]
+* [[Anathemists | Anathemists]]
+* [[The Vermillion Company | Mercenaries]] 
+* [[The Octarion Circle | The Octarion Circle]]
+* [[Hexine Circle | The Hexine Circle]]
+
+h3. Flora and Fauna
+
+* [[Razorgrass | Razorgrass]]
+* [[Sporeshrooms | Sporeshrooms]]
+* [[Strangle Vines | Strangle Vines]]
+* [[Triffid | Triffid]]
+
+<!-- GM_INFO_START -->
+h2. The Plan!
+
+[[Project Kosmios | Project Kosmios]]
+[[The Fall of the Eighth House | The Fall of the Eighth House]]
+
+h2. Faction Clocks
+
+* [[House Beltus | House Beltus]]
+* [[House Goela | House Goela]]
+* [[House Grimbolg | House Grimbolg]]
+* [[House Lithra | House Lithra]]
+* [[House Mabon | House Mabon]]
+* [[House Meness | House Meness]]
+* [[House Oestra | House Oestra]]
+
+h2. Story Threads
+
+* Wilrin's parents are currently children (timey wimey with the fey bubble).
+* Having survived Fallowhurst, House Meness are interested in recruiting the party and sponsoring their citizenship. If they turn them down, the other houses may be amenible.
+* The octarion circle need necromancers, and there simply aren't any. Potential angles:
+- Wilrin is linked to necromantic magic, maybe he could learn?
+- Send people into [[Thanismot | Thanismot]] to see if any necromancers or their affects survived.
+- Investigate any rumours of magic elsewhere in the world.
+* War with the anathemists - 
+
+h4. Locations
+
+* [[Fallowhurst | Fallowhurst]]
+* [[The Thaumocracy of Tellerin | The Thaumocracy of Tellerin]]
+* [[The Magedom of Houd | The Magedom of Houd]]
+
+h4. Organisations / Groups
+
+* [[The Octarion Circle | The Octarion Circle]]
+
+
+h2. The Basics
+
+There exists a multiverse of worlds, each governed by a singular Form or Idea. Our point of origin is 'Arcanity', the world governed by Magic. 
+
+Sindrel was founded as a magical research station to investigate the dimensional tear. (Soulwind INstitute Dimensional Research and Exploration Laboratory) The original 8 researchers briefly opened the portal to the realm of Vitality. There, seven of them consumed the Peaches of Immortality, extending their lifespans indefinitely. The eighth, Samhain, found her own path to escaping death in the realm of Mortality.
+
+Over the next thousand years the researchers, now styling themselves as the Lords of Sindrel, used their mastery of magic to carry out raids on the other worlds, taking resources, riches, and secrets to enrich and empower themselves. However, they could not keep the tear open for long.
+
+A few hundred years ago, the Lords embarked on a new project - pouring magical energy into the fabric of the tear directly in order to stabilise it. This allowed them to embark on a campaign of conquest, into Mundanity, establishing mining colonies and slave camps.
+
+The intrusion of magic into the non-magicial realm destabilised the balance of forms. As a result, the forms are inverting - Arcanity is becoming Mundanity. As magic has vanished from Arcanity and arisen in Mundanity, the Lords have doubled down. Their efforts have turned to extracting magic from their colonies in order to maintain their own power.
+
+h2. Known Worlds
+
+* Arcanity - the world of Magic, also called [[Arcan | Arcan]]
+* Mundanity - the world of technology, also called [[Kosmios | Kosmios]]
+* Mortality - the world of Death, also called [[Thanismot | Thanismot]]
+* Vitality - the world of life, also called Zotikó
+* Piety - the world of the gods, also called Agios
+* Profanity - the world of demons, also called Aníeros
+
+h2. Potential Desires:
+
+* Reverse the rotation of the wheel, restoring magic to the world 
+* Extractive colonialism - Subjugate and extract resources from new Arcanity in order to maintain Sindrel's supremacy 
+* Settler Colonialism - move through Sindrel's portal to new Arcanity
+* Destroy Sindrel's portal, ending it's supremacy as well as the Age of Magic.
+
+h2. Ideologies of a Changing World
+
+* Faith: The gods have abandoned us and we must win back their approval or face destruction (assumption: gods caused the death of magic). This leads to a lot of religious extremism, but the most interesting is the [[Anathemists | Anathemists]]
+* Atheism: The gods were never truly divine, only powerful magical creatures (assumption: the death of magic caused the withdrawal of the gods)
+* 
+
+h2. How do Gods work w.r.t. the wheel of worlds?
+
+The nature of a god is that they exist across all possible worlds simultaniously. The form by which they express themselves is mediated by the dominant world form. 
+* In Arcanity, faith operates like magic, reflecting D&D's mechanical approach to holy powers.
+* In Mundanity it is expressed in everyday actions - a subtle guidance that shapes events
+* In Divinity they walk upon the earth alongside mortals, tangible and accessible
+* In Profanity, 
+* In Mortality the gods are primarily rulers of the afterlife. 
+* In Vitality they do something else.
+
+h2. The Real History of Sindrel
+
+* The founders were assembled by the Soulwind Institute.
+* They began as an academic expedition to investigate a dimensional disturbance in the far north.
+* The expedition discovered other worlds.
+* A semi-permanent research camp formed around the rift.
+* That camp gradually became Sindrel.
+* The Houses were built around the founders’ philosophies.
+* Public history of the founders’ deaths is false.
+* The public believes the founders died a thousand years ago.
+* The founders survive behind titles, successors, and House machinery.
+<!-- GM_INFO_END -->
