@@ -1,0 +1,11 @@
+root = true
+
+[*]
+charset = utf-8
+insert_final_newline = true
+
+[*.textile]
+end_of_line = lf
+
+[metadata/sync-state.json]
+end_of_line = lf

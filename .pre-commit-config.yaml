@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: textile-lf
+        name: Textile LF line endings and frontmatter
+        language: python
+        entry: python3 scripts/check_textile.py
+        files: \.textile$
+        pass_filenames: true
