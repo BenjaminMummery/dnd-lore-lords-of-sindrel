@@ -1,0 +1,19 @@
+---
+op_id: 8341c21d83f044fe8782f4d9656fc711
+op_slug: the-white-dragon-coaching-inn
+op_type: WikiPage
+name: The White Dragon Coaching Inn
+title: The White Dragon Coaching Inn
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-white-dragon-coaching-inn
+op_created_at: '2025-11-24T22:46:08Z'
+op_updated_at: '2025-12-21T10:57:16Z'
+op_gm_only: false
+tags:
+- location
+---
+
+The White dragon is a coaching inn on the [[The Mage Road | Mage Road]] between [[Sindrel | Sindrel]] and [[Soulwind | Soulwind]]. Its position approximately 1 day's travel from Sindrel has earned it the moniker "The Last Stop Before Sindrel".
+
+[[File:1539341  | class=media-item-align-right | EMHjGL9XkAAoxwR.jpg]]
+
+The White Dragon is luxuriously and expensively appointed – the proprietors have made the most of their effective monopoly, and their trade is lucrative indeed. The floors are polished wood, and decorative wall hangings dampen echoes and keep out the chill of northern air. However, an observant eye will quickly find the telltale signs of a more magical past. Over each table hangs a spherical cage of filigreed brass that has been expertly retrofitted to contain a platter of candles rather than a levitating sphere of magical light. The kitchen originally used a flameless magical heat, and the subsequent addition of a chimney has proven insufficient for the new stove, leaving the air with a slight haze and a perceptible scent of woodsmoke. Marks on the wall, inadequately concealed by some unconvincing attempts at watercolour, suggest the presence of a household shrine – now removed.
