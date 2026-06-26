@@ -1,0 +1,219 @@
+---
+op_id: b0db4ec29f794c878b0d38dc76dd3c6d
+op_slug: session-11-
+op_kind: Wiki
+op_type: Post
+name: 'Session 11: ?'
+title: 'Session 11: Gunpowder, Treason, and Plot'
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-11-
+op_created_at: '2026-06-01T17:09:20Z'
+op_updated_at: '2026-06-25T22:47:29Z'
+op_gm_only: true
+tags: []
+post_time: '2026-06-01T17:00:00Z'
+---
+
+h3. Dramatis Personae
+
+[accordion]
+    [accordion-item] 
+        [title] [[The Adventurers | The Adventurers]][end-title] 
+        [content]
+            * [[:amanira | Amanira]], a drow druid.
+            * [[:ayr | Ayr]], gnome paladin.
+            * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
+            * [[:pin | Pin]], a human fighter.
+            * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
+            * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
+            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer. 
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] Associates and Companions [end-title] 
+        [content]
+            * [[:kithrak-ii | Kithrak II]] - an undead dragon
+            * [[:tama | A Stoat]]
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] House Meness Guards [end-title] 
+        [content]
+            * [[:corporal-brokkr-stegg | Corporal Brokkr Stegg]]
+            * [[:serjeant-eirik-tryke | Serjeant Eirik Tryke]]
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] Hexine Circle Members [end-title] 
+        [content]
+            * [[:alandria | Caller Alandria]]
+            * [[:navinea-senetera | Navinea Senetera]]
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] Fulcum Servants [end-title] 
+        [content]
+            * [[:nort | Nort]]
+            * [[:chuggaz | Chugan "Chuggaz" Velm]]
+            * [[:nans | Nanthelia "Nans" Surn]]
+        [end-content] 
+    [end-accordion-item]
+
+[end-accordion]
+
+h3. Tea in the Park
+
+_Morning of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
+The clearing lay quiet in the weak light of morning, though peace had not quite returned to it. [[House Beltus | House Beltus]]'s conjured "pest control" agents were piles of sulphurous ash, [[:tama | the giant stoat]] was alive, and the party had survived. In most adventuring circles, this would count as a successful morning but [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s fury had left its mark.
+
+The battle had turned ugly when ensorcelled fire had raised old terror within her, dragging her back to memories of battle and chaos. She had lashed out with a force that frightened even seasoned adventurers, which is to say people with a very high threshold for "quite concerning". [[:ayr | Ayr]], shaken and blunt as ever, named the fear plainly: [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] had lost herself, and if she lost herself again, the party might be the ones standing closest.
+
+[[:rossin-ros-greyhirst | Ros]], however, saw more than rage. This was not cruelty, nor simple battle-madness. Something had taken hold of Deathwalker, or something buried deep inside her had broken the surface. The others circled the matter with varying degrees of tact, concern, fear, and awkwardness, until at last the thing was not resolved so much as set aside. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] was remorseful. The party was frightened. Both truths could stand together, although not especially comfortably. They would return to it.
+
+For now, they had a [[:tama | stoat]], a city [[The Investigation | investigation]], and a morning already far too eventful for people who had not yet had breakfast.
+
+Pushing back through the managed woodland, with [[:kithrak-ii | Kithrak II]] bouncing at their heels and Ros's newly bonded [[:tama | stoat]] skittish but intact, the party emerged into the cold air at the edge of the park. 
+
+bq). You step out from the foliage into the weak light of a desultory and ungenial morning. Winter is closing in around the city, and without the insulation of the trees above you the air bites at your cheeks. As your eyes adjust, you find yourselves regarding a highly decorated palanquin that stands on the edge of the park adjacent to the street. Erected next to it is a canopy of embroided gold and jet, and seated at a portable table beneath it is Caller Alandria being served a steaming cup of tea by a pair of bulky, amber-cloaked servants.
+
+[[:alandria | Alandria]] looked up as the party emerged, surprise flickering across her face for one unguarded instant before the familiar mask of aristocratic disdain settled back into place. She had, it seemed, been expecting her demons to return. Instead, the party had emerged from the trees with the very creature those demons had been sent to destroy. [[:alandria | Alandria]] wanted an explanation.
+
+[[The Adventurers | The Wonch]] offered several. They had not known the creatures were demons. The demons had attacked first. The stoat had been subdued. The task, technically, had been completed. This argument, though not elegant, had the advantage of being mostly true. Alandria weighed irritation against convenience and found, to her visible annoyance, that the party had given her an acceptable outcome, although it was clearly acceptable only in the context of some greater game she was playing.
+
+Then [[:wilrin-racenglade | Wilrin]] stole her teacup.
+
+Not stole, perhaps. Retrieved. Magically. From the table. While she was watching. There are finer distinctions in law, but fewer in etiquette.
+
+Alandria's patience thinned to a razor's edge, but [[:wilrin-racenglade | Wilrin]] negotiated with the shameless confidence of a man who had already committed the offence and now wished to discuss payment. In exchange for returning the cup, he acquired a pouch of very fine imported tea. It was, by any reasonable measure, an absurd exchange. It was also successful, which history has often found to be the more important quality.
+
+The party left [[:alandria | Alandria]] behind them, her attendants packing away the tea service, and turned towards the true business of the day: the attempted bombing of [[The Fulcrum | the Fulcrum]].
+
+h3. The Fulcrum
+
+bq). The Fulcrum stands at the center of Sindrel in the way that a needle stands at the center of a lepidopterist's prize butterfly. Its existence is an obvious necessity - a council made up of all seven jealous and powerful houses must have a space from which to rule. By the same token, those matters of city life that must be administered need a place for the paperwork to get filed. And, most pressingly for the populace at large, when the city needs to put on a celebration or show of unity, there must be a suitable gathering place.
+The _form_ that the structure takes, however, is anything but a utilitarian necessity. Despite being only a few dozen feet wide, it rises for from its octagonal base for over a mile into the sky, piercing through the strata of Sindrel's ever more rarified classes, and ultimately through several distinct weather systems. Clouds arrive halfway up, take one look at the upper stories, and apparently decide they live there now. On every side it is enclosed by the latticework of bridges and walkways that link the myriad spires of Sindrel, yet not a single one dares touch the pristine white marble of its skin. 
+Architecture is an art, and art, by its nature, contains messages. This is the Fulcrum's first message - "We are might," it seems to say "and regardless of how mighty you might think yourself to be you will descend to walk upon the earth, to gaze up at our power, before you may enter."
+Circling its base, moat-like, is the broad pond known as the Wellspring - the source of the city's magically conjured water. From this bubbling heart spreads an arterial network of canals, viaducts, portals, and, when all else fails, good old fashioned plumbing that supplies the liquid needs of the entire city.  And this is the fulcrum's second message: "We are sustenance, without our beneficence you would surely perish."
+Among all the waterways that flow from the Wellspring, there is one that clearly dominates. A great artificial river that, in a series of artistically engineered curves, meanders through markets, beneath bridges, and past districts whose 'waterfront views' justify unreasonably high rents, before hurling itself from the city's edge at the very point of the promontory in a magnificent and ostentatiously impossible waterfall. And this the Fulcrum's third message: "We are wasteful. Our power and wealth is so great that we can afford to spend away one of our most necessary resources _just to show off_."
+The entrance to the fulcrum is a series of wide arches, open and inviting. There is no security on display, no gate to close. "You are welcome" would be a charitable reading of the Fulcrum's final message, but the cynical observer sees the implication: "you are no threat. What could _you_ possibly do to us?"
+This is the Fulcrum - a structure whose every fibre is designed to embody and broadcast the power, dominance, and invulnerability of Sindrel. And a little over a month ago, someone very nearly blew it up.
+
+[[The Hexine Circle | The Hexine Circle]] had told the party that explosive devices had been planted in the tunnels beneath the Fulcrum. One had detonated early. The others had been found and destroyed before they could bring the tower down. Now, standing before the immaculate face of the city's administrative heart, the party saw no obvious damage. Sindrel has hidden its wound well.
+
+But perfection is often only the upper layer. [[:rossin-ros-greyhirst | Ros]] soon noticed what the architecture tried to conceal: small service structures tucked among nearby buildings, just large enough to house doors and stairways leading below. The hidden entrances were guarded by [[House Meness | House Meness]] soldiers. The public face of the Fulcrum welcomes all. Its veins, it seemed, are more carefully watched. Approaching with their usual mixture of official authority and complete lack of subtlety, the party hailed [[:serjeant-eirik-tryke | Serjeant Tryke]], one of the guards. Fortunately, their reputation had preceded them. Tryke accepted that these were the [[Hexine Circle | Hexine Circle']]s investigators and, with some relief at finally being asked, began to explain.
+
+There had been twelve devices. All were timed to detonate together. One had gone off early. The crowd inside the Fulcrum had been evacuated, [[House Oestra | House Oestra]] had arrived for crowd control within minutes, and [[House Meness | House Meness]] specialists had contained and destroyed the remaining bombs.
+
+[[:serjeant-eirik-tryke | Tryke]] led them down into the service tunnels. The change was immediate. Above, the [[The Fulcrum | Fulcrum]] is white marble and impossible height. Below, it is damp stone, pipes, maintenance corridors, bare function, and the quiet labour that allows the city's grandeur to pretend it has no machinery behind it. This is the traditional arrangement of grand cities: splendour on top, pipes underneath, and nobody mentioning the smell. At the northwest foundation, the party found the site of the first blast. The support pillar had been cracked through, then repaired with magically shaped stone that had flowed into the wound like liquid. The tower had survived, but the damage told its own story. One bomb alone had not been enough. Twelve, placed correctly and detonated together, might have been.
+
+In the tunnels, the party met [[:corporal-brokkr-stegg | Corporal Stegg]], a dwarven [[House Meness | House Meness]] explosives specialist assigned to the damaged site. He had the weary manner of a man who had already answered too many questions and expected the next ones to be stupid. To his surprise, the party's questions were not. This can unsettle a professional more than incompetence.
+
+He was happy enough to show them what little remained of the devices: charred fragments, broken toothed wheels, traces of mechanism, and a small piece of flint. [[:ayr | Ayr]] recognised the shape of it first. This was clockwork. A timing device, not a spell. [[:pin | Pin]] and [[:wilrin-racenglade | Wilrin]] helped piece together the implication: a mechanical trigger, flint and steel, a spark. [[:ayr | Ayr]] tested the theory with perhaps more enthusiasm than safety demanded. A spark struck against a trace of the bomb's residue produced a sharp flash and a tiny detonation. [[:corporal-brokkr-stegg | Stegg]], though alarmed, could not deny the conclusion. This is the annoying thing about being proven right by an explosion: the proof is very convincing, but everyone still wishes you had chosen another method.
+
+The mundane nature of the weapons, in [[Sindrel | Sindrel]], was almost more alarming than if they had been magical doomsday weapons. The city is built to understand magic. Its protections, assumptions, and hierarchies all bend around magical threat. A mundane bomb is, in its way, an alien thing: a rude little machine that had not even had the decency to glow. [[:corporal-brokkr-stegg | Stegg]] appeared to have trouble even grasping the concept.
+
+[[:nakoma-deathwalker-mor-got-ha | Deathwalker]], reaching back through the long catalogue of wars she had survived, knew the smell and colour of the blast. She had seen this before, though perhaps not in so small and precise a form. A blend of sulphur, charcoal, and saltpetre. Not magic. Chemistry.
+
+Gunpowder.
+
+The same brutal family of invention as the weapon the [[Anathemists | Anathemists]] had used on the [[The Mage Road | Mage Road]].
+
+As the party questioned the guards, another pattern emerged. [[Sindrel | Sindrel]] had responded quickly to the bombing, but not because it had rehearsed such a disaster. There had been no obvious safety drills, no routine readiness for the possibility that someone might try to blow up the city's most important building. This was not because the Houses were incapable. It was because Sindrel's first instinct is not safety. It is image. [[The Fulcrum | The Fulcrum]] must look invulnerable. [[House Oestra | House Oestra]] must arrive like a parade. The Seven Houses must project order, not admit vulnerability. Even a bomb drill, [[:ayr | Ayr]] realised, would have to become a display of strength before the city would tolerate it. The city could certainly practise evacuation, provided the evacuation had banners, brass, and a reviewing stand.
+
+Someone had exploited not merely the tunnels, but the culture of the city itself.
+
+While the others examined the bomb fragments, [[:amanira | Amanira]] and [[:rossin-ros-greyhirst | Ros]] turned their attention to the machinery of the Wellspring. The water, they discovered, was not created beneath the [[The Fulcrum | Fulcrum]]. It was being channelled in from elsewhere, through arcane infrastructure that pointed back towards [[House Grimbolg | House Grimbolg]]. [[:amanira | Amanira]] tasted a drip from the system and found it unsettling. It was not foul. It was not poisoned. It was worse, in a druid's reckoning: it was empty. No mineral tang, no soil, no riverbed, no life. Water with no memory in it. Distilled. Conjured. Processed. Useful. Dead, perhaps, in the quiet way a city teaches things to be dead.
+
+h3. Wilrin Attempts Forensics
+
+[[:wilrin-racenglade | Wilrin]], not content merely to identify gunpowder, attempted to separate the remaining traces with Mage Hand. The idea was ingenious. The execution was unfortunate. The magic took hold of the scattered residue, sifted it, separated it, and - through a spectacular inversion of intent - left the useful powder on the floor while moving the useless remnants aside. Then wild magic surged. A burst of draconic breath blasted downward.
+
+There was not enough gunpowder left to cause a true disaster, but there was enough to produce fire, noise, pain, and a very sudden loss of patience from [[:corporal-brokkr-stegg | Corporal Stegg]]. Nearby companions were scorched. [[:corporal-brokkr-stegg | Stegg]], whose evidence had just been partially destroyed in front of him, ordered the party to leave.
+
+[[:nakoma-deathwalker-mor-got-ha | Deathwalker]] decided otherwise. Stepping into the light so that her shadow loomed vast against the tunnel wall, she reminded the corporal that his superiors had instructed him to assist the Hexine investigators. The reminder was delivered less as an argument than as an omen. [[:corporal-brokkr-stegg | Stegg]], pale and cowed, provided the party with what they needed: the layout of the tunnels.
+
+h3. The Servants' Door
+
+The gunpowder had not been brought in through the main cart route. Traces led instead to a concealed side door used by servants, cooks, cleaners, and other staff attached to the [[The Fulcrum | Fulcrum]]. The saboteurs had come not as invaders, but as workers. The next trail led to the servants' quarters.
+
+The building that houses the Fulcrum's staff is functional rather than grand: not squalid, not comfortable, simply necessary. It is a place for the people who make the city's performances possible and are not intended to be noticed once the performance began. Civilisation, like theatre, depends on a large number of people dressed in black moving things around while everyone else looks at the chandelier. Inside, the party found rosters and duty lists. 
+
+The administrative office was locked. This delayed them only briefly. [[:silrie-aegiskiir | Silrie]] peered through the keyhole, saw the spare key hanging conveniently within, and used magic to enter the room and open the way for the others. The ledgers revealed no obvious false name, no glaring infiltrator, no single servant who appeared from nowhere and vanished again. Instead, the clue lay in the chaos.
+
+On the night of the closing ceremony, shifts had been extended and overlapped. Staff who rarely saw one another had been crowded together. In that confusion, someone dressed correctly and moving with confidence could have passed unchallenged. All they needed was knowledge of the servants' routes and the nerve to act as though they belonged. Three names stood out as people worth questioning: [[:nort | Nort]], [[:nans | Nanthelia "Nans" Surn]], and [[:chuggaz | Chugan "Chuggaz" Velm]].
+
+[[:kithrak-ii | Kithrak II]], instructed to search for traces of sulphur, returned instead with a collection of single left shoes. These were accepted in the spirit in which they were given. It is important to encourage initiative in the young, even when the young are skeletal dragons with a deeply literal approach to evidence.
+
+[[:nans | Nans]] and [[:cchuggaz | Chuggaz]] were on duty at [[The Fulcrum | The Fulcrum]]. [[:nort | Nort]], having worked nights, was asleep. So naturally, the party went to wake her.
+
+h3. Nort's Tea
+
+[[:nort | Nort]] woke to the sight of a tiny skeletal dragon staring into her face. This was not, by any reasonable standard, a gentle awakening. Nor was it helped by the fact that [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] had treated the door to [[:nort | Nort's]] room as a philosophical challenge and demonstrated, once again, that any door may be pushed if one is committed enough to the premise. To her credit, [[:nort | Nort]] did not immediately faint. She did, however, require tea.
+
+[[:amanira | Amanira]] made it. Thanks to the tea extorted from [[:alandria | Caller Alandria]], it was exceptionally good tea. This did much to turn a home invasion into an interview. There are very few social disasters that cannot be improved by tea, although most polite societies recommend providing the tea before the skeletal dragon. Once awake enough to speak, [[:nort | Nort]] recalled something strange from the night of the ceremony: a [[:arouraios | coachman]], apparently lost, bringing a carriage down near the entrance service tunnels. He was not dressed as one of the House staff. He belonged to some visiting dignitary. The carriage bore an unfamiliar coat of arms, something with a bird on it.
+
+The [[:arouraios | coachman]] had a neatly trimmed beard and small, fussy glasses. "Poncy" in [[:nort | Nort's]] words. She could not name him, nor the dignitary he served, but the shape of the lead was clear. Someone purporting to be from outside [[Sindrel | Sindrel]]'s normal House machinery had moved through the servants' routes at the right time, in the right confusion, with access enough to carry death beneath the [[The Fulcrum | Fulcrum]]. [[:kithrak-ii | Kithrak II]] gave [[:nort | Nort]] a small payment of shiny things for her trouble. It may have been the most interesting morning she had ever had, which is not necessarily a recommendation.
+
+h3. The Cornucopia
+
+From the servants' quarters, the trail bent towards [[Granary Ward | Granary Ward]], and the headquarters of [[House Grimbolg | House Grimbolg]].
+
+bq).  On the opposite side of the city to [[The Wallarch District | Wallarch]], as if to form some sort of economic counterbalance, stands the Cornucopia. The transmuters of [[House Grimbolg | House Grimbolg]] produce water, basic foodstuffs, raw elements, specialist alloys, and a variety of materials whose names require several years of education and at least one unfortunate laboratory incident to pronounce correctly. Every loaf, ingot, bucket, beam, nail, nugget, and occasionally alarming new substance in [[Sindrel | Sindrel]] ultimately begins its life here.
+The estate once aspired to grandeur. A fine manor house built in the column-heavy style of [[House Oestra | House Oestra]] stood amid sweeping landscaped gardens, laid out according to principles of beauty, symmetry, and the belief that somebody else will be doing the weeding. Those days are gone. The gardens now grow food wherever food can be persuaded to grow, and the house has been augmented with long sheds packed with supplies. A rose garden may delight the soul, but a warehouse full of copper is considerably more useful when the city plumbing explodes.
+Day and night, carts rattle through the gates in a steady procession. They arrive burdened with the city's rubbish: broken furniture, worn tools, discarded crockery, bent nails, mysterious lumps of unidentified material, and all the other things people throw away while firmly believing they will never need them again. The contents are sorted, catalogued, dismantled, melted down, transmuted, and sent back out into Sindrel as something new. Because even wizards, who can rearrange the fundamental nature of reality with a word, know it is far easier to start with something than with nothing. 
+
+The party, or rather [[:rossin-ros-greyhirst | Ros]] and whoever she chose to acompany her, had a standing invitation from [[:navinea-senetera | Navinea Senetera]], who was eager to continue discussing Ros's thoughts on natural systems. Even without this they would not have struggled to gain entry - The Cornucopia is far less guarded than the Leageur or the [[The Fulcrum | Fulcrum]]. People come and go constantly. Work matters more than ceremony here, and ceremony has wisely chosen to stay out of the way.
+
+[[:navinea-senetera | Navinea]] received them in her office, busy but welcoming, and asked whether this was an official report or an informal conversation. The party gave Navinea an informal update that they were pursuing interconnected sabotage leads, asked detailed questions about D’gara’s death, and discussed Sindrel’s systemic vulnerabilities. Though they did not formally disclose the full gunpowder-supply theory, their questions and comments may have revealed that they suspected mundane sabotage and material theft.
+
+When asked about the acts of sabotage, [[:navinea-senetera | Navinea]] led them out among the silos and storage sheds to explain the death of [[:dogara | Hydromancer D'gara]]. D'gara had died in what had first appeared to be a tragic accident. During maintenance on a water silo, the control rod had behaved opposite to expectation. Instead of nullifying the water, it had generated a vast quantity of it in seconds. The silo flooded with such speed and pressure that even a skilled hydromancer had no time to save herself. The sabotage had been crude but frighteningly efficient. The rod's gems, which indicated which end controlled generation and which controlled ablation, had been physically swapped. Not enchanted. Not cursed. Bent, altered, and put back. A tiny mundane change in a magical system had killed a master of water and wrecked part of the Cornucopia.
+
+The party recognised the pattern. Clockwork bombs. Flint sparks. Swapped gems. No spell where a simple hand would do. [[Sindrel | Sindrel's]] magical grandeur was being undermined by small, physical acts. The city had built defences against dragons, demons, curses, hexes, armies, and the more ambitious sort of weather. It had apparently spent less time worrying about someone turning a thing upside down.
+
+[[:rossin-ros-greyhirst | Ros]] looked over the Cornucopia's work: the flows of material, the recycling, the silos, the people moving goods and waste and water through the city's body. To Ros, the shape of it was not unlike a forest. A forest thrives when its parts support one another: canopy, root, soil, rot, seed, shade. But when a great tree falls, it leaves a gap. The gap invites heat, wind, weeds, rot, and opportunists.
+
+Sindrel, Ros suggested, was full of holes.
+
+[[:navinea-senetera | Navinea]] listened. She did not dismiss the metaphor. If anything, it caught her interest. She spoke of entropy, of systems, of the fact that no closed system sustains itself forever. [[Sindrel | Sindrel]] can recycle and transmute, but it cannot get more out than it puts in. Isolated, the city would die. Then [[:navinea-senetera | Navinea]]  made an assumption. The Anathemists, she said, were likely trying to create some kind of cascade failure. [[:pin | Pin]] noticed the shape of that thought. It was plausible. It might even be correct. But it was still an assumption, and one Navinea did not seem fully aware she had made. The city had enemies, yes. But the evidence had not yet proved which enemy this was.
+
+The party asked for a tour. [[:navinea-senetera | Navinea]], pleased by [[:rossin-ros-greyhirst | Ros's]] interest and apparently glad to discuss the Cornucopia's processes, obliged. They moved through the workings of [[House Grimbolg | House Grimbolg]]: rubbish sorted into value, materials broken down and remade, stores catalogued, silos filled, drained, repaired, and refilled. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] looked with a soldier's eye. Gunpowder needs three things: sulphur, charcoal, and saltpetre. The sabotage against [[House Beltus | House Beltus]], she recalled, had involved a large amount of sulphur being apparently destroyed. Charcoal could be stolen from any number of places, though one of the other incidents might yet reveal its path. Saltpetre, however, was more specific. Call it nitre, or potassium nitrate, it is valuable to [[House Grimbolg | House Grimbolg]] as fertiliser and preservative, and they store it in quantity.
+
+One of the silos next to the sabotaged water silo had contained nitre.
+
+When the water silo burst, the flood had poured into the neighbouring stores. Everyone had assumed the nitrate was ruined, dissolved, and washed away in the disaster. But if someone had arranged the disaster for that purpose, then [[:dogara | D'gara's]] death had not been the goal. It had been cover.
+
+The bombing of the [[The Fulcrum | Fulcrum]], the demon sulphur, the sabotaged silos, the thefts hidden inside accidents and emergencies: the pattern sharpened. Someone was moving through [[Sindrel | Sindrel]], House by House, using the city's own divisions and assumptions against it. The devices below the Fulcrum had been made of the city's own waste products and resources, weaponised against it. And it was impossible to know how many more bombs they could make with the supplies they had gathered.
+
+<!-- GM_INFO_START -->
+* Alandria was initially pissed at the party interfering in her task, but after a moment saw the potential embarrassment for Halan - the threat is out of the park, so her request is fulfilled. If the wonch fuck up, then Alandria gains some leverage having argued against their inclusion.
+* The amber-robed figures were demons, of course.
+* The poncy coachman was [[:arouraios | Arouraios]] on his way back to the cart having been recieved [[:silas-oestra | Silas Oestra]]'s stolen key from [[:barnabus | Barnabus]].
+
+<hr>
+
+Silrie-related corrections
+1. The “meditation gives internal insight” line is probably Silrie
+During the post-Deathwalker discussion, someone says:
+“See, this is why meditation is very important. It gives you a bit of internal insight.”
+That is very Silrie-coded. The current log leaves this moment unattributed, but it would be a good place to explicitly give Silrie presence.
+Suggested insertion:
+[[:silrie-aegiskiir | Silrie]], with the calm of someone who had made not immediately becoming everyone else's problem into a discipline, observed that this was precisely why meditation was important. Internal insight, they noted, had uses beyond looking serene in doorways.
+2. The “mind palace” insight about Sindrel’s lack of bomb drills may be Silrie
+The transcript records a very high Insight roll, about 27, leading to the conclusion that Sindrel avoids practical bomb drills because any admission of vulnerability would have to be turned into a display of power first. The transcript says the character was in their “mind palace,” but does not clearly identify the speaker.
+I previously attributed this to Ayr in update notes, but that is not secure. If Silrie has the party’s strongest Insight / Wisdom profile, this is a very plausible Silrie action.
+Suggested correction:
+It was [[:silrie-aegiskiir | Silrie]] who saw the deeper shape of it. This was not merely poor preparation. It was vanity with paperwork. Sindrel could practise for disaster only once it had worked out how to make the practice look like a parade.
+If you are not sure whose roll it was, use:
+Someone among the party saw the deeper shape of it...
+But if you want Silrie restored to the narrative, this is the cleanest place.
+3. “Standing watch at the door” may also be Silrie, but lower confidence
+At the servants’ quarters, someone says:
+“While everyone’s rummaging around inside, I would like to stand watch at the door. And just see how we’re being perceived.”
+That is also plausibly Silrie, especially if they were not involved in the ledger-searching chaos. But the transcript does not identify them clearly.
+Suggested light touch:
+While the others rummaged through the office with the serene discretion of an avalanche, [[:silrie-aegiskiir | Silrie]] kept watch at the door, attempting to determine whether the locals had reached the stage of alarm, outrage, or simply resignation.
+<!-- GM_INFO_END -->
