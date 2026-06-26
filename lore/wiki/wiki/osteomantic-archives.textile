@@ -105,6 +105,38 @@ Possible caretaker behaviours:
 * attempting to return Ayr's buckler, Pin's sword, or Deathwalker's head to "the relevant collection";
 * referring to the Fall of the Eighth House as a temporary interruption in staffing.
 
+h3. Catacomb Exploration
+
+h4. [[:celebrant-alruna | Celebrant Alruna]]
+
+* The archives are not security-conscious — little worth stealing, bones magically protected.
+* Gaps exist where people could come and go unnoticed, especially after dark.
+* If prompted, she recalls odd noises and a sense of being watched, but puts little stock in it.
+* Deeper catacombs are mapped near the surface; further in, people get lost. She dismisses rumours of shifting passageways.
+* Deeply pragmatic about religion despite her role.
+
+h4. Navigation
+
+* Outward paths eventually curve back toward the centre unless the party tracks direction deliberately.
+* [[:tama | Tama]] entered via a distant surface opening and can lead toward an intermittent exit near [[Fallowhurst | Fallowhurst]].
+* Necromantic radiation strengthens inward; Constitution saves per room (half damage on success, escalating).
+* Anathemist chalk trails become easy to follow once recognised.
+* Turning back from deep radiation may reveal the _other_ chalk route toward the [[House Oestra | Oestra]] archive.
+
+h4. [[:embren-oestra | The Plague Doctor]]
+
+Like Tama, Embren found a way into the catacombs. Unlike her, he is lost and angry. He tracks the party using bone fragments, having built a rudimentary compass from wrist bones in [[:amanira | Amanira]]'s pouch.
+
+h4. Shrine of the Queen of Ravens
+
+A hidden cult within the necromancers died here in agony. Removing the idol is blasphemy against the Carrion Queen and will have consequences. The lead skeleton's knife is extremely cursed (Wisdom save on pickup).
+
+h4. Unvisited Halls
+
+* *Hall of Sages* — skeleton experts; lecterns yield broken words only.
+* *Hall of Dragons* — colossal black dragon suspended; miniature dragon nesting in its skull.
+* *Hall of Aberrations* — illithid, otyugh, slaad, beholder (see [[Session 7: The Catacombs | Session 7]] for the party's encounter with [[:zalatan | Zalatan]]).
+
 h3. Unvisited Exhibits
 
 The deeper catacombs contain further historical dioramas the party has not yet reached.
@@ -117,7 +149,97 @@ h5. The Battle of Brassmeade Bridge
 
 bq). The uneven floor is rent by a semicircular chasm that arcs outwards from the wall. On the other side you can see the exit - a doorway identical to the one through which you entered, surrounded by thronged skeletons (in Tellerite armour). Spanning the chasm is a narrow bridge, apparently made of brass, atop which stands the skeleton of a giant. A club the size of a carthorse is clasped in the colossus's hand, and it is posed with its back to you as if denying the crowded skeleton passage across the bridge.
 
+There is room to cross between the giant's legs. Using the bridge destabilises the skeleton and causes the club to fall — require a saving throw.
+
 h4. The Founding of the Magedom of Houd
 
 bq). The floor beneath you is carved into a relief map of northern [[Artresh | Artresh]]. It is a patchwork of various stones and metals, as if assembled from some colossal jigsaw of mismatched construction. It is positioned so that Soulwind would stand at the exact centre of the room, but in its place is a raised dias with a tableau - a score of statues each made of a different material stand around a table. On the opposite side of the room behind a waist-high reproduction of the Arkay Mountains you can see an elaborate golden arch, its decorative ornamentation forming the silhouette of the city of Sindrel.
+
+The tableau depicts the founding of the Magedom of Houd. The different materials represent the various kingdoms that united — history rolls to recognise their old borders. The kingdoms were:
+* *Andromus*
+* Antlia
+* Apus
+* Aquia
+* Egret
+* Ara
+* *Tyrn*
+* Auriga
+* Boötes
+* Caelum
+* Camelopardalis
+* Carcerif
+* *Venatici*
+* Brutan
+* Pixus
+* *Goatheim*
+* Carina
+* Cepheus
+* Chiron
+* Perseanus
+* *Komodus*
+* *Circaea*
+* Columba
+* Coma
+* *Corvus*
+* Crater
+* Crux
+* Cygnar
+* Delphinus
+* Eldora
+* Draconis
+* *Equuleus*
+* Eradnus
+* Fornax
+* Cojunia
+* Grus
+* Artemesia
+* Horologium
+* Serpenta
+* Serpentus
+* Indus
+* Lacerta
+* Leonus
+* Tenebrium
+* Lepus
+* Libria
+* Remia
+* Felus
+* Lyra
+* Mensis
+* Macrosis
+* Monoceros
+* Musca
+* Norma
+* Octans
+* Ophiuchus
+* Orios
+* Pave
+* Sleipnia
+* Medusus
+* Scintallus
+* Pictor
+* Subar
+* Austrinus
+* Duggis
+* Pyxis
+* Reticulum
+* Sagitta
+* Sagittus
+* Arachnus
+* Sculptis
+* Scotum
+* Caput
+* Cauda
+* Sextans
+* Aurochs
+* Velis
+* Octangulum
+* Octangula
+* Tucana
+* Mordus
+* Morda
+* Vela
+* Virgus
+* Volans
+* Vulpecula
 <!-- GM_INFO_END -->

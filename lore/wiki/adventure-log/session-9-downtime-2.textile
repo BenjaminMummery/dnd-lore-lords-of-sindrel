@@ -130,14 +130,7 @@ A letter for [[:wilrin-racenglade | Wilrin]] announced provisional acceptance at
 [[:amanira | Amanira]], deep in meditation, was visited by a cat.
 
 <!-- GM_INFO_START -->
-
-h3. Amanira's Books
-
-* Most of the books about Sindrel are written by and for Sindrelians, and tell the same story of the city's founding - 7 great mages created a utopia where magic could be studied without interference or restriction. Each founded a house to study their particular form of magic.
-* The more esoteric tomes mention an eighth mage - the necromancer - who turned against the others. It took the combined strength of all seven to defeat the traitor, and the cost was great. Accounts differ as to whether they were slain, wounded, or simply dismayed by the experience, but they stepped away from the octrarion circle, handing the rule of the city over to their successors.
-* One book differs - The Rise and Fall of Houd is a dense historical treatise on the Magedom of Houd, the empire that once united the northern continent. Some of the contemporary documents it quotes make reference to a magical disturbance in the far north, and one refers to a party of investigators being dispatched from the Soulwind Institute.
-* One particularly odd book has a combination lock on the spine, but doesn't appear to lock. It'll require. A very high wisdom score is required to figure this one out.
-
-Navinea is genuine about her request, but also looking to keep tabs on the investigation.
-Sindrel's situation is more dire than they're letting on. Grimbolg have been stepping up production to meet demand, but they're struggling against entropy. The garbage collection system has had to expand rapidly, and the has grown increasingly disorganised (thank the cats for that). The sabotage to the water system that killed [[:dogara | D'gara]] also ruined a large quantity of stored Nitre - a preservative and fertiliser that Grimbolg use to both supplement and store food, making their situation even more precipitous.
+* One book [[:amanira | Amanira]] found has a combination lock on the spine that does not appear to lock — very high Wisdom required to figure it out.
+* [[:navinea-senetera | Navinea]] is genuine about [[:rossin-ros-greyhirst | Ros]]'s invitation, but also using it to keep tabs on the investigation.
+* Sindrel's situation is more dire than the houses admit: [[House Grimbolg | Grimbolg]] struggling against entropy; garbage collection expanded and disorganised (the cats contribute); [[:dogara | D'gara]]'s sabotage ruined a large quantity of stored Nitre, worsening Grimbolg's food and preservation crisis.
 <!-- GM_INFO_END -->
