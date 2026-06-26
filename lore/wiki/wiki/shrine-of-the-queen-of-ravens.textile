@@ -1,9 +1,13 @@
 ---
+op_id: 037537b82ad74782ae351618ebb57f95
 op_slug: shrine-of-the-queen-of-ravens
 op_kind: Wiki
 op_type: WikiPage
 name: Shrine of the Queen of Ravens
 title: Shrine of the Queen of Ravens
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/shrine-of-the-queen-of-ravens
+op_created_at: '2026-06-26T21:28:08Z'
+op_updated_at: '2026-06-26T21:28:08Z'
 op_gm_only: false
 tags:
 - location
