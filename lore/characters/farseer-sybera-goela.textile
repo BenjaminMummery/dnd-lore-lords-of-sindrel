@@ -1,0 +1,43 @@
+---
+op_id: 72c6d96ea30544f5b06f749d4aa2b5b2
+op_slug: farseer-sybera-goela
+op_kind: Character
+op_type: Character
+name: Farseer Goela
+title: Farseer Goela
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/farseer-sybera-goela
+op_created_at: '2025-12-22T16:33:48Z'
+op_updated_at: '2026-06-24T16:26:23Z'
+op_gm_only: true
+is_player_character: false
+tags:
+- Lord of Sindrel
+- House Goela
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7441129/pythia.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+The Farseer of [[House Goela | House Goela]] arrives in triplicate - three figures in heavy, hooded purple robes and eyeless masks of bronze. They are all of approximately average height for a human, or a little short for an elf.
+
+<!-- OP_BIO -->
+
+
+<!-- GM_INFO_START -->
+h3. Early Life
+
+Sybera Goela was one of seven sisters born to members of the Soulwind intelligencia. She spent much of her life feeling trapped by the future - a future comprised of the expectations of her parents and the need to live up to the accomplishments of her sisters. This motivated her academically, leading her to join the [[The Soulwind Institute | Soulwind Institute]] and ultimately rise to be one of the most powerful diviners.
+
+h3. The Founding of Sindrel
+
+Sybera Goela was nicknamed "the oracle of coffee" by the rest of the circle for her twin passions of divination and caffeinated beverages. 
+
+The Sindrel project presented an opportunity to take control of her future. Divining the future of entire other worlds was a new and exciting challenge, while the chance at immortality offered her the opportunity to cease worrying about her own future - after all, she would have infinite time to do anything she wanted.
+
+h3. Lord of Sindrel
+
+After centuries of growing her power, Sybera can no longer differentiate past, present, or future. [[House Goela | House Goela]] instituted the triumvirate not, as they claim, as a way to protect the Farseer, but as a way to prevent anyone from outside their house from speaking with her directly and thereby learning of her affliction. The other two seers are powerful diviners in their own right, and skilled at both taking point on social interactions and interpreting the apparently nonsensical ramblings of their charge.  
+
+h3. Depictions
+
+In paintings and statues of the founders, Sybera Goela is depicted as a female figure in a long hooded robe and eyeless mask.
+<!-- GM_INFO_END -->

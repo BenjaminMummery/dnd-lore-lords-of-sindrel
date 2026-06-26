@@ -1,0 +1,28 @@
+---
+op_id: c02b0d7de3e649d6a322a9c890478e85
+op_slug: emissary-isius
+op_kind: Character
+op_type: Character
+name: Emissary Isius
+title: Emissary Isius
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/emissary-isius
+op_created_at: '2026-02-18T16:53:52Z'
+op_updated_at: '2026-02-18T16:56:32Z'
+op_gm_only: true
+is_player_character: false
+tags:
+- House Lithra
+- she/they
+- Factor
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481400/1167dfc398302faab755a79050ff7ff5.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+Isius is a charismatic gnome with a penchant for cooking elaborate feasts.
+
+<!-- OP_BIO -->
+
+
+<!-- GM_INFO_START -->
+Prviously jovial and outgoing, now a somewhat shattered shell. Observent players will note deep laughter lines in a face that no longer seems to smile.
+<!-- GM_INFO_END -->

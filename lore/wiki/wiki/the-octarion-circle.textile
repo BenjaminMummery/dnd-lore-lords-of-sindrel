@@ -1,0 +1,141 @@
+---
+op_id: b6c4ec741a1547ac97e99c2c501e7434
+op_slug: the-octarion-circle
+op_kind: Wiki
+op_type: WikiPage
+name: The Octarion Circle
+title: The Octarion Circle
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-octarion-circle
+op_created_at: '2025-12-22T15:33:46Z'
+op_updated_at: '2026-06-24T18:59:56Z'
+op_gm_only: true
+tags:
+- Organisation
+---
+
+The octarion circle are the rulers of [[Sindrel | Sindrel]] and the heads of its Great Houses.
+
+The circle was originally made up of the original founders of Sindrel.
+
+<!-- GM_INFO_START -->
+Membership:
+
+
+<div class="CSSTableGenerator" style="position:relative;left:0px;top:10px;>
+    <table >
+        <tr>
+            <td>*Character*</td>
+            <td>*School*</td>
+            <td>*Description*</td>
+            <td>*Key Item*</td>
+            <td>*Colour*</td>
+            <td>*Fate*</td>
+        </tr>
+        <tr>
+            <td>[[:farseer-sybera-goela | Farseer Sybera Goela]] (she/her)</td>
+            <td>Divination</td>
+            <td>A woman in a long hooded robe, her face concealed behind a mask with no eye holes. She is flanked by two identical figures.</td>
+            <td> The Mask of Foreknowledge.</td>
+            <td>Purple</td>
+            <td>Can no longer distinguish past present or future. Her house masks this fact by concealing her among decoys, whose task is the interpret her ramblings.</td>
+        </tr>
+        <tr>
+            <td>[[:hytham-grimbolg | Hytham Grimbolg]] (he/they)</td>
+            <td>Transmutation</td>
+            <td>A half-orc in sturdy craftsman's clothes and a leather apron. He is stoic, pragmatic, and utterly disinterested in people. His hands are clad in what appear to be gauntlets made of stone.</td> 
+            <td>The Shaper's Hands</td>
+            <td>Green</td>
+            <td>Hytham's joy is in art and creation. Having to produce food and water on civic scale has robbed him of the love of his craft. He can no longer imagine beauty, and even when he tries to create art it emerges utilitarian and soulless.</td>
+        </tr>
+        <tr>
+            <td>[[:lord-ablas-oestra | Lord Ablas Oestra]] (he/him)</td>
+            <td>Evocation</td>
+            <td>A human in heavy armour wielding a longsword. The armour glows red hot from within.</td>
+            <td>Sword</td>
+            <td>Red</td>
+            <td>His magic having grown too strong, he now requires magical containment armour to prevent it from incinerating the entire room.</td>
+        </tr>
+        <tr>
+            <td>[[:high-summoner-nial-beltus | High Summoner Nial Beltus]] (he/him)</td>
+            <td>Conjuration</td>
+            <td>An elf in form-fitting robes with a high collar, his brow adorned with a circlet of mithril. Two demonic dogs sit at his feet.</td>
+            <td>The crown of shadows</td>
+            <td>Yellow</td>
+            <td>Conjured spirits are given form by the will of the conjurer, and possess a little of their souls. Having conjured workers, soldiers, and slaves on an industrial scale, Beltus is beset by their voices, and their suffering. He can feel himself slipping away, and fears that one day he will find himself on the circle of the summoned rather than the summoner.</td>
+        </tr>
+        <tr>
+            <td>[[:ambassador-thrawne-lithra | Ambassador Thrawne Lithra]] (unknown)</td>
+            <td>Illusion</td>
+            <td>A figure in a grey robe. Their features slide from the your memory like the last threads of a dream.</td>
+            <td>The Shadow's Vestment</td>
+            <td>Grey</td>
+            <td>Thrawne can no longer recall their original face, true name, or history. Each new role they inhabit may as well be their true identity.
+        </tr>
+        <tr>
+            <td>[[:first-of-mabon | First of Mabon]] (they/them)</td>
+            <td>Enchantment</td>
+            <td>Tiefling of pale blue skin, their horns adorned with silver filigree. Their dress is reminiscent of a pirate swashbuckler - high trousers and a loose shirt, open enough to see the ornate amulet that hangs at their throat.</td>
+            <td>[[:the-amulet-of-stars | The Amulet of Stars]]</td>
+            <td>Blue</td>
+            <td>Unlike the others, 'first', as they were known, did not consume the peaches of immortality. Instead they attempted to replicate their effects via enchantment. They were partially successful, the amulet maintains their soul and life force, but their body decayed. They have persisted by possessing the body of each of the amulet's wearers. To the rest of the world, 'first' is a title. To house Mabon, it is a name. They've been doing the Flemeth thing - having children only to possess the body of their descendent.</td>
+        </tr>
+        <tr>
+            <td>[[:general-alicia-meness | General Alicia Meness]] (she/her)</td>
+            <td>Abjuration</td>
+            <td>A dwarf woman of stern complexion. Her hair is grey and cropped short. She wears heavy armour and carries a tower shield and a short sword with sword breaker teeth.</td>
+            <td>Shield</td>
+            <td>White</td>
+            <td>Layers of protective magic shield her, adapting to every new threat. Unfortunately, they never _un_-adapt. Having been struck, she can no longer feel touch. Having been burned she can no longer feel heat. Having been deafened, she can no longer hear. She lives in fear of a light-based attack which would render her permanently blind, stealing away her last contact with the outside world.</td>
+        </tr>
+        <tr>
+            <td>[[:mistress-lucretia-samhain | Mistress Lucretia Samhain]] (she/they)</td>
+            <td>Necromancy</td>
+            <td>The most vampiric vampire you can possibly imagine. High black boots, high black trousers, ruffled white shirt</td>
+            <td></td>
+            <td>Black</td>
+            <td>Imprisoned in [[Thanismot | Thanismot]] by the rest of the council when she opposed their expansionist plans.</td>
+        </tr>
+    </table>
+</div>
+
+
+
+
+h3. The Founders' True Origin
+
+The Octarion Circle did not begin as a ruling council. What would become the Octarion Circle began as the Soulwind Institute Dimensional Research Group (SiNDReG) - eight high-level magicians of different schools of magic specialising in interplanar research. They were sent north to investigate a dimensional disturbance. They were already powerful mages before Sindrel existed, but their later positions in the city elevated, concentrated, and eventually corrupted that power.
+
+The expedition discovered that the disturbance could lead to other worlds. What began as a semi-permanent research camp (SINDReL - the Soulwind Institute Dimensional Research Laboratory) gradually became the city as the founders exploited the rift for knowledge, resources, power, and eventually colonisation.
+
+The Great Houses were built around the founders' philosophies. They are not merely administrative divisions; each House is the institutionalised shadow of one founder's ideals.
+
+h3. The Founders' Secrecy
+
+The public believes the founders died roughly a thousand years ago. This is false.
+
+The founders survive behind successors, titles, ritualised offices, controlled appearances, and carefully managed House traditions. Each House has mechanisms for maintaining the fiction of ordinary continuity, though the number of people involved varies by House.
+
+h3. Current State of the Octarion
+
+The founders meet increasingly rarely. Sindrel now largely runs itself through House hierarchies, civic habit, and the momentum of institutions built over a millennium.
+
+Their only major recent direct intervention has been the acceleration of [[Project Kosmios | Project Kosmios]]. The looming death of magic has forced them to act again, not as the daring expeditionaries they once were, but as ancient powers consumed by their own conditions.
+
+Each founder conceals their affliction as best they can. They are so consumed by their own fates that they barely register the degradation of the others. Their conditions have taken a millennium to reach this point, and unless stopped will continue to worsen.
+
+The founders' curses are not mechanically related to Sindrel's operation, that is sustained by extractive magical colonialism in Kosmios. Rather the curses are symbolically linked to the city: both arise from consumption at the cost of other lives, worlds, and powers.
+
+h3. The Seven-House Limitation
+
+The Octarion Circle can function without Samhain, but only imperfectly.
+
+The modern plan to physically move Sindrel into Kosmios requires an immense magical working. That working cannot be balanced without necromantic magic. Because House Samhain was destroyed in Sindrel and its loyal remnant sealed away in Thanismot, the Seven lack the necromantic expertise needed to complete the relocation safely.
+
+This is one of the hidden reasons Samhain's betrayal still matters. The founders removed the one House whose magic they now require.
+
+h3. Fear of Samhain
+
+All of the surviving founders fear Samhain's return.
+
+They believe she would expose them to the city, attempt to kill them, and destroy everything they have built. Most assume or hope that she starved, withered, or otherwise perished in Thanismot long ago. They are wrong.
+<!-- GM_INFO_END -->

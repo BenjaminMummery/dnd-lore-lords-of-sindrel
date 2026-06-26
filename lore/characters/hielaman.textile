@@ -1,0 +1,52 @@
+---
+op_id: e12cd3da90b44b63a004da5715927ff5
+op_slug: hielaman
+op_kind: Character
+op_type: Character
+name: Captain Hielaman
+title: Captain Hielaman
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/hielaman
+op_created_at: '2026-01-27T11:33:21Z'
+op_updated_at: '2026-03-12T11:33:36Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- House Meness
+- Factor
+- he/him
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7467306/Half-Elf-Illustration.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+A gruff half-elf with short-cropped hair. His knuckles bear the scars of frequent sword training.
+
+Hielaman carries a kite shield and short-sword. He speaks gruffly and authoritatively - a man accustomed to command.
+
+<!-- OP_BIO -->
+Hielaman is a [[Factor | Factor]] of [[House Meness | House Meness]]. He fulfills a role similar to 'captain of the guard'.
+
+*26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- An explosion is observed on the plane outside [[Sindrel | Sindrel]]. Hielaman and his squad are dispatched via portal to investigate.
+- On arrival, they encounter the aftermath of [[The Adventurers | The Neighbourhood Wonch]]'s conflict with a small force of [[Anathemists | Anathemists]].
+- Hielaman takes custody of the surviving [[:arise-to-victory-over-the-infidel-hoards | Anathemist Leutenant]], receives the [[:private-warwick-s-report | report]] of [[:sebastian-warwick | Private Sebastian Warwick]], and escorts the Wonch back to Sindrel.
+
+*28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- Encountering [[:pin | Pin]] in a bar, Hielaman enters into a heated discussion of the performance of his favoured Diechquer team - The Griffon's Talons. This discussion devolves rapidly, and Hieleman and Pin part on acrimonious terms, the former receiving a split lip to match the latter's black eye.
+
+*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- Hielaman's interrogation of [[:arise-to-victory-over-the-infidel-hoards | the Anathemist Leutenant]] having revealed that the Anathemists have access to privileged information, a [[Hexine Circle | Hexine Circle]] is convened. Unable to reach resolution, they enlist [[The Adventurers | The Wonch]] to root out the spies they suspect have infiltrated the city.
+
+<!-- GM_INFO_START -->
+h3. Spies lead:
+
+bq). Shake down the local criminals. Our spies need ways to move about the city, ways to get their hands on information, equipment, resources, all without being noticed. That requires a lot of familiarity with the city. Why start from scratch when you can use whats already here? Somewhere out there are some mid- to high-level crooks who are suddenly much better paid as a reward for the treason. Below them are petty scum looking to get rich. They’re the weak link, find them and lean on them.
+
+Should lead to the quills, or Nakoma’s new friends. Either have contacts who know that _somebody_ was muscling in on the garbage collection - usually the domain of crime syndicates since it's a good way to move things without being noticed. Enough prodding will lead them to a new garbage service, actually a few local ruffians who found a cart abandoned just inside outside the quarantine zone.
+
+This leads them to the quarantine zone, but they'll need magical defences to get far without dying.
+
+If they get it, they can find the spies headquarters, now abandoned. Much of the evidence has been burned but there's a scrap of paper with House Oestra's mark.
+<!-- GM_INFO_END -->

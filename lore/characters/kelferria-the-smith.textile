@@ -1,0 +1,38 @@
+---
+op_id: 53f5902bce574b588273f9622ad52345
+op_slug: kelferria-the-smith
+op_kind: Character
+op_type: Character
+name: Kelferria the Smith
+title: Kelferria the Smith
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/kelferria-the-smith
+op_created_at: '2026-02-17T22:13:37Z'
+op_updated_at: '2026-06-24T14:38:59Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- House Mabon
+- Factor
+- she/they
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481287/ksenia-kozhevnikova-smith-kseniakozhevnikova-detail1.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+[[Factor | Factor]] of [[House Mabon | House Mabon]].
+
+Kelferria is a Fire Genasi. She wears specially made leather clothing enchanted to be fireproof.
+
+<!-- OP_BIO -->
+Kelfarria holds the rank of Craftsman, and has a handful of apprentices.
+
+<!-- GM_INFO_START -->
+h3. Connection to the Anathemist Plot
+
+Kelferria was approached by [[:barnabus | Barnabus]], supposedly acting as [[:regnif-d-log | Regnif d'Log']]s agent, regarding a large order of enchanted armour. The promised order was lucrative, and Barnabus made a large enough down payment to make the request seem serious.
+
+The samples were the true objective. Because Kelferria supplies [[House Oestra | House Oestra]], her armour could be modified to pass as Oestra gear at a distance. Once crude Oestra markings were added, the armour allowed the [[Anathemists | Anathemist]] agents to move through darkness and confusion during the [[Ditchquer | Ditchquer]] operation without immediately drawing suspicion.
+
+Kelferria did not know the true purpose of the order. Her importance to the plot is that her craft, her House Mabon reputation, and her connection to House Oestra made the disguise credible. A month later, she continues to be busy manufacturing armour, oblivious to the fact that the order has already done its work.
+
+Investigative clues may include the down payment, an unusually urgent sample request, correspondence in d'Log's name, Barnabus acting as intermediary, and Kelferria's embarrassment or defensiveness once she realises how her work was used.
+<!-- GM_INFO_END -->

@@ -1,0 +1,21 @@
+---
+op_id: 0aacd1d35bd149408ceff1ef029ded91
+op_slug: hunts-by-night
+op_kind: Character
+op_type: Character
+name: Hunts-By-Night
+title: Hunts-By-Night
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/hunts-by-night
+op_created_at: '2026-03-16T16:41:25Z'
+op_updated_at: '2026-05-22T10:28:49Z'
+op_gm_only: false
+is_player_character: false
+tags: []
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7494097/hq720.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+A street cat encountered in [[The Wallarch District | The Wallarch District]].
+
+<!-- OP_BIO -->
+Hunts-By-Night accompanied the wonch through the Osteomantic Catacombs. At [[Radwasp House | Radwasp House]], Hunts attempted to warn the wonch of the presence of the [[:tama | Giant Stoat]]. Unsuccessful, they instead sought out [[:pads-silently | Pads Silently]].

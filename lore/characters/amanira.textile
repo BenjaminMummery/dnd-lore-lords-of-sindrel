@@ -1,0 +1,33 @@
+---
+op_id: 684c57a053864975b1a77f2842946c08
+op_slug: amanira
+op_kind: Character
+op_type: Character
+name: Amanira
+title: Amanira
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/amanira
+op_created_at: '2025-12-11T10:54:34Z'
+op_updated_at: '2026-03-12T11:31:22Z'
+op_gm_only: false
+is_player_character: true
+tags:
+- she/her
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457470/sytqgzfrl5c41.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+https://www.dndbeyond.com/characters/156196225
+
+<!-- OP_BIO -->
+
+
+<!-- GM_INFO_START -->
+Hello, Dungeon Master! I am sorry for leaving my homework until last minute, but here goes:
+
+My character seeks to understand the loss of magic, which they experience as the fading of nature itself. There must be a cause to be studied and understood! They have journeyed to Sindrel seeking answers, and perhaps even healing for a diseased world.
+
+They don’t regret leaving anything material behind, but they yearn for the harmony that only the primordial force of nature could bring.
+
+Rumours abound about my arduous (murderous) escape to the surface. 
+(Which I haven’t fleshed out yet, and happy to receive guidance from the DM!)
+<!-- GM_INFO_END -->

@@ -1,0 +1,44 @@
+---
+op_id: b98a65653b164125a107c0b7e65305a6
+op_slug: georges-de-selve
+op_kind: Character
+op_type: Character
+name: Merchant 1
+title: Merchant 1
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/georges-de-selve
+op_created_at: '2026-02-01T16:45:57Z'
+op_updated_at: '2026-06-24T14:13:09Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- he/him
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469571/960px-Georges_de_Selve.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+Travelled with [[The Adventurers | The Adventurers]] in [[:sindrel-coach | the Sindrel Coach]] from [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]. Following the [[Anathemists | Anathemist]] ambush, he continued to travel with the group until they reached [[Sindrel | Sindrel]].
+
+<!-- GM_INFO_START -->
+Real name: Georges de Selve
+
+h3. Role in the Anathemist Plot
+
+Georges de Selve is one of the [[Anathemists | Anathemist]] agents operating under the cover of a wealthy merchant. He entered [[Sindrel | Sindrel]] separately from [[:regnif-d-log | Regnif d'Log]]'s household, alongside Jean de Dinteville, allowing the spy cell to appear as two unrelated groups rather than a single conspiracy.
+
+Georges acts as the cell's quartermaster and commercial face. Under the cover of ordinary mercantile business, he arranges carts, containers, storehouse access, minor bribes, supplier relationships, and the movement of goods around the city. His merchant identity allows him to purchase or transport suspicious materials in pieces, never drawing attention to the whole.
+
+In the sabotage campaign before the Ditchquer closing ceremony, Georges coordinated the mundane logistics. He helped move stolen sulfur and nitre toward [[Quarantine Zone | The Sacrum]], arranged the purchase of charcoal from multiple suppliers, and ensured that no single transaction appeared large enough to expose the plan. He also maintained the cell's exit strategy, making sure that he and [[:jean-de-dinteville | Jean de Dinteville]] could leave Sindrel after the operation while seeming merely to conclude a period of profitable merchanting.
+
+During the [[Ditchquer | Ditchquer]] closing ceremony, Georges and Jean planted the explosive devices beneath [[The Fulcrum | The Fulcrum]]. When the distraction was underway, they emerged from the tunnels and collect [[:silas-oestra | Silas Oestra]]'s stolen key from [[:arouraios | Arouraios]], who was disguised as a coachman.
+
+Georges, Jean, and the kidnapped locksmith [[:nielsenn | Nielsenn]] then emerge from the [[Osteomantic Archives | archives]] within the leaguer. In the dark, the crude symbol painted on their armour passed as [[House Oestra | House Oestra]]. Using Silas's key and Nielsenn's locksmith expertise, they gain access to Silas Oestra's rooms, copied what they could, and stole what they could not.
+
+Afterwards, Georges and Jean took Nielsenn back to the Sacum, killed him, and left the city, returning to their cover identities as merchants. Thirty-five days later, they returned to Sindrel for more “merchanting”, this time accompanied by [[The Adventurers | The Adventurers]].
+
+h4. Investigative footprint
+
+Evidence pointing to Georges may include charcoal purchases, cart hires, merchant warehouse records, gate logs, unusually clean commercial paperwork, supplier testimony, or repeated proximity to loading yards and service entrances. His danger is not that he appears sinister, but that every suspicious movement can be explained as ordinary trade.
+<!-- GM_INFO_END -->

@@ -1,0 +1,47 @@
+---
+op_id: 6eacb1bcf1914d3ab6564eada8c4d045
+op_slug: jean-de-dinteville
+op_kind: Character
+op_type: Character
+name: Merchant 2
+title: Merchant 2
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/jean-de-dinteville
+op_created_at: '2026-02-01T16:44:52Z'
+op_updated_at: '2026-06-24T14:20:37Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- he/him
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469575/Ambassadors-Dinteville.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+Travelled with [[The Adventurers | The Adventurers]] in [[:sindrel-coach | the Sindrel Coach]] from [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]. Following the [[Anathemists | Anathemist]] ambush, he continued to travel with the group until they reached [[Sindrel | Sindrel]].
+
+<!-- OP_BIO -->
+
+
+<!-- GM_INFO_START -->
+real name: Jean de Dinteville
+
+h3. Role in the Anathemist Plot
+
+Jean de Dinteville is one of the [[Anathemists | Anathemist]] agents operating under the cover of a wealthy merchant. He entered [[Sindrel | Sindrel]] with [[:georges-de-selve | Georges de Selve]], separately from [[:regnif-d-log | Regnif d'Log]], [[:barnabus | Barnabus]], and [[:arouraios | Arouraios]]. This allowed the cell to maintain two plausible social fronts inside the city: a respectable merchant partnership and a visiting household retinue.
+
+Jean acts as the cell's social infiltrator and intelligence gatherer. Where [[:georges-de-selve | Georges]] handles goods, carts, and commercial logistics, Jean handles people, invitations, timings, and access. He uses merchant society, high-status hospitality, and polite conversation to learn where important figures will be, when they will be distracted, and which civic or House functions offer useful cover.
+
+In the sabotage campaign before the [[Ditchquer | Ditchquer]] closing ceremony, Jean helped identify opportunities where disruption will conceal theft or movement. He gathered information about patrol habits, guest access, House routines, and civic ceremonies. He also helps identify the Ditchquer closing ceremony as the ideal night for the [[The Fulcrum | Fulcrum]] diversion and the intrusion into [[:silas-oestra | Silas Oestra]]'s rooms.
+
+Jean also helped select the [[House Lithra | House Lithra]] diplomatic incident as a useful piece of destabilisation. By identifying a social function where an enchanted punch ladle could create scandal rather than obvious violence, he contributed to the pattern of accidents that seemed strange, embarrassing, or alarming without immediately revealing a coherent military objective.
+
+During the Ditchquer closing ceremony, Jean and Georges planted the explosive devices beneath [[The Fulcrum | The Fulcrum]]. After Barnabus stole [[:
+silas-oestra | Silas Oestra]]'s key and passed it to [[:arouraios | Arouraios]], Jean and Georges emerged from the tunnels and collected it.
+
+Jean and Georges then travelled through the [[Osteomantic Archives | archives]], collected [[:nielsenn | Nielsenn]] from the Sacrum, then emerged within the Leaguer wearing armour whose painted symbol passed as [[House Oestra | House Oestra]] in the dark. With Silas's key and Nielsenn's locksmith skills, they accessed Silas Oestra's rooms, copied what they could, and stole what they could not. Jean and Georges then took Nielsenn back to the cell's headquarters, killed him, and left Sindrel, returning to their merchant identities.
+
+Thirty-five days later, Jean and Georges returned to Sindrel for more “merchanting”, this time in the company of [[The Adventurers | The Adventurers]].
+
+h4. Investigative footprint
+
+Evidence pointing to Jean may include guest lists, polite correspondence, servants' recollections, seating charts, introductions to House officials, and his presence at gatherings that later become relevant to sabotage timings. Jean should feel like someone who never forced a door because he was always invited through one.
+<!-- GM_INFO_END -->

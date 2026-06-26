@@ -1,0 +1,39 @@
+---
+op_id: ba70a1fc7e2545f58bdc5e1419cb44bc
+op_slug: journeyman-galoras
+op_kind: Character
+op_type: Character
+name: Journeyman Galoras
+title: Journeyman Galoras
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/journeyman-galoras
+op_created_at: '2026-01-27T21:17:56Z'
+op_updated_at: '2026-03-12T11:38:18Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- House Mabon
+- Factor
+- they/them
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7467759/Screenshot_2026-01-29_at_15.32.50.png
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+[[Factor | Factor]] of [[House Mabon | House Mabon]]
+
+<!-- GM_INFO_START -->
+Spies Leads:
+
+bq). Incidents, the last months. Misfortune maybe, sabotage we fear. Appearing random, but always a design beneath. The random hides the pattern. Find the parts that do not fit, pull on them until deception unravels.
+
+Suspected or confirmed sabotage:
+* A Tyromancer poisoned by his own cheese - overdose of halucinagens. (Goela)
+* Magical locksmith vaporised when one of his own traps misfired. ([[House Mabon | House Mabon]])
+* A series of explosive devices were found in the sewers below The Fulcrum on the night of the [[Ditchquer | Ditchquer]] tournament closing ceremony. One detonated early, causing some minor structural damage. The others were discovered and diffused. High ranking Factors of each house were in attendance. Reinforcements from House Oestra were called in to support the House Meness guards already in place.
+* A hydromancer drowned when the magical control rod for one of House Grimbolg's water generators was inverted. The water container to overflowed and ruined several storage silos. They're still clearing it up. (this hid the theft of a large quantity of saltpetre (Potassium nitrate)).
+* A summoner of House Beltus got possessed by his own demon, which ran amock through the halls of their house before being banished. The page of his grimoire showing the appropriate summoning circle for a succubus was found to have been vandalised. As a final sick joke, the demon enchanted its own sulphurous leavings which, when gathered up with the rest of the day's refuse, exploded (this last was _not_ the demon, but covered the theft of the sulfur).
+* [[House Lithra | House Lithra]] The punch ladle at a diplomatic function was replaced with one enchanted with a geis of truth speaking. This resulted in three major diplomatic incidents, the end of two miarrages, and a very awkward proposal. 
+* [[House Meness | House Meness]] - A high level enchanter was commissioned anonymously to place a spell of reflection on an amulet. The amulet had _already_ been enchanted with a spell of reflection, causing the spell to rebound. In a city where magic is everywhere, he's a walking danger to everyone around him.
+<!-- GM_INFO_END -->

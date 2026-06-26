@@ -1,0 +1,297 @@
+---
+op_id: be38f28555f8414bad61e1322b81af36
+op_slug: the-investigation
+op_kind: Wiki
+op_type: WikiPage
+name: The Investigation
+title: The Investigation
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-investigation
+op_created_at: '2026-02-18T22:34:05Z'
+op_updated_at: '2026-06-25T22:22:17Z'
+op_gm_only: false
+tags: []
+---
+
+h2. Facts of the Case
+
+The [[:arise-to-victory-over-the-infidel-hoards | Anathemist Leutenant]] whom the party captured made reference to some highly controlled information. His awareness of this suggests that [[Anathemists | Anathemist]] Spies have succeeded in infiltrating far further into the hierarchy of [[Sindrel | Sindrel]] than was previously believed.
+
+h2. Current Leads
+
+[accordion]
+    [accordion-item] 
+        [title] The Prophesy [end-title] 
+        [content] 
+            bq). Your path leads through earth and ash and brimstone, but beware the fire and fury – its blinding light hides the spectre of death. It is easy to get lost in the dark, but remember to trust in righteousness. Your lucky number is eight. Your lucky colour is red. Pay close attention to your friends, you may find yourself looking to them at times you don’t expect. Avoid shellfish, but be open to trying new experiences. 
+
+            _[[:seer-demeletas | Seer Demeletas]] ([[House Goela | House Goela]])_
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] The Black Cats [end-title] 
+        [content] 
+            bq). Shake down the local criminals. Our spies need ways to move about the city, ways to get their hands on information, equipment, resources, all without being noticed. That requires a lot of familiarity with the city. Why start from scratch when you can use whats already here? Somewhere out there are some mid- to high-level crooks who are suddenly much better paid as a reward for the treason. Below them are petty scum looking to get rich. They’re the weak link, find them and lean on them. 
+
+            _[[:hielaman | Captain Hielaman]] ([[House Meness | House Meness]])_
+
+            * The face of organised crime in [[Sindrel | Sindrel]] are [[The Black Cats | the Black Cats]], although Hielaman is wary of approaching them directly.
+            * Crime is most prevalent in [[The Wallarch District | The Wallarch District]].
+            * [[:emerich-surefoot | Emerich Surefoot]], whom [[:nakoma-deathwalker-mor-got-ha |Deathwalker]] previously beat in a game of cards, is a low-level enforcer for the [[The Black Cats | Cats]].
+            * According to [[:emerich-surefoot | Emerich Surefoot]], his immediate superior in [[The Black Cats | The Black Cats]] operates out of the back room of [[The Cutthroat's Repose | The Cutthroat's Repose]]. The password is "Swordfish".
+            * According to [[:nort | Nort]], a servant who works at the [[The Fulcrum | Fulcrum]], one of her colleagues [[:chuggaz | Chugan "Chuggaz" Velm]] is rumoured to have links to the Black Cats.
+         [end-content]
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] A grand design hidden among the sabotage [end-title] 
+        [content] 
+            bq). Incidents, the last months. Misfortune maybe, sabotage we fear. Appearing random, but always a design beneath. The random hides the pattern. Find the parts that do not fit, pull on them until deception unravels.
+
+            _[[:journeyman-galoras | Journeyman Galoras]] ([[House Meness | House Meness]])_
+
+            * The saboteurs appear to prefer mundane tools where available, but are willing to turn magic to their own ends often with ironic consequences for its users.
+            * The attack against [[:dogara | Hydromancer D'gara]] of [[House Grimbolg | House Grimbolg]] may have a been a cover for the theft of Nitre.
+            * The death of [[:caller-georg | Caller Georg]] may have provided cover for the theft of sulphur.
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] Future security risks [end-title] 
+        [content] 
+            bq). There is no point closing the stable door when the horse has already bolted. We should be focussing on increasing security around critical infrastructure in order to prevent the next attack. 
+
+            _[[:navinea-senetera | Navinea Senetera]] ([[House Grimbolg | House Grimbolg]])_
+
+            * [[:navinea-senetera | Navinea Senetera]] believes that the Anathemists are responsible for the sabotages, and that they are attempting to cause a cascade failure in Sindrel's delicate ecosystem.
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title]  Recent visitors [end-title] 
+        [content] 
+            bq). The only true power is information, and the key to information is access. They can only have learned what they know from highly placed individuals - 20 or so in the entire city I suspect. If you want to get access to those sorts of social circles, you need to seem like you belong. I'd imaging you could get into one of my soirees with a wink and a suitably daring fake name, but the upper circles are a different story. You would need money, and lots of it. Enough for an opulent lifestyle  and even more for bribes and other social lubrication. So too you would need to appear to be socially influential and reliably stable - old money gentry, or hereditary nobility, but with a legend that is unlikely to contradict anyone's experiences. They couldn't risk changing alias within the city, they'll have arrived in character. I would suggest looking at recent arrivals, within the last few months. Focus on the nobility and wealthier merchants - people who can move large amounts of money without arousing suspicion. Finally look for people who are obviously harmless, someone around whom it would be easy to drop your guard. For example, a young naive noblewoman with a disarmingly eager affect travelling with a fortune in gold and an almost comically proficient bodyguard...
+<br>
+I jest of course, I have confirmed the Lady Von Pthasia's identity myself, and either way she only arrived in the city _after_ the information loss had occurred. Although, I must confess may be inclined to use certain details of her life the next time I myself have to go undercover.  
+
+            _[[:emissary-halan | Emissary Halan]] ([[House Lithra | House Lithra]])_
+
+            * Records of visitors to the city are held at a [[House Lithra | House Lithra]] building at the main gate.
+            * The [[:arouraios | The Coachman with the Poncy Glasses]] seen by the servant [[:nort | Nort]] on the noght of the Fulcrum bombing appeared to be in the service of a visiting dignitary.
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] Missing weapons or armour [end-title] 
+        [content] 
+            bq). If they’re here, they must be planning to use their position to strike against the city. That means weapons, either smuggled in or acquired here. We should be checking out every armoury and weapon shop in the city, see if any shipments have come up short or inventory has gone missing. 
+
+            _[[:commander-locke | Prefect Locke]] ([[House Oestra | House Oestra]])_
+
+            * [[:journeyman-galoras | Journeyman Galoras]] is a proficient weaponsmith.
+            * According to [[:journeyman-galoras | Galoras]], [[:kelferria-the-smith | Kelferria the Smith]] is the best armourer in the city.
+            * [[:kelferria-the-smith | Kelferria ]] is currently busy with a large order.
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] The Osteomantic Archives [end-title] 
+        [content] 
+            bq). The Osteomantic Archives. Think about it – they must have a base of operations – somewhere their comings and goings won’t be noticed. Somewhere well trafficked but anonymous. People go in and out of the archives all the time, but nobody stays long. And, nobody thinks much of it if you’re a bit strange. The catacombs are a labyrinth, and they’re chronically understaffed. You could hide anything down there.
+
+            _[[:alandria | Caller Alandria]] ([[House Beltus | House Beltus]])_
+
+            * The least-trafficked archive is in [[The Wallarch District | The Wallarch District]].
+            * The archives are connected by an enormous subterranean labyrinth of catacombs. Very few people seem to be aware of this fact.
+            * Somebody left chalk marks denoting a trail from the Wallarch archive that leads through the catacombs. The trail heads towards the [[Quarantine Zone | Quarantine Zone]], and from there towards the [[House Oestra | House Oestra]] Archive.
+            * Something was stored and frequently removed and replaced in an alcove just past where the route branches.
+            * The catacombs beneath the quarantine zone cannot be accessed without some form of protection against the necromantic radiation.
+            * There are breaches in the Quarantine Zone wall that allow it to be accessed from [[The Wallarch District | Wallarch]]
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] Blueprints [end-title] 
+        [content] 
+            * [[:silrie-aegiskiir | Silrie Aegiskiir]] requested blueprints for the oldest building in the city from [[:emissary-halan | Emissary Halan]].
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] Inter-house suspicions [end-title] 
+        [content] 
+            [[:silrie-aegiskiir | Silrie Aegiskiir]] asked each member of [[Hexine Circle | Hexine Circle]] which other house was the most likely to be involved. 
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] The Fulcrum Bombing [end-title]
+        [content]
+             * The bombs used mundane gunpowder, not magic.
+            * One of the 12 devices detonated early. 
+            * [[House Meness | House Meness]] officers contained the rest while [[House Oestra | House Oestra]] soldiers arrived within minutes to assist with ssecurity and crown control.
+            * Gunpowder requires 3 components: Sulphur, Saltpetre/Nitre, and Charcoal.
+            * The bombs were bought in by the servants route, not the main cart access.
+            * [[:nort | Nort]], a servant at the Fulcrum, observed the [[:arouraios | coachman of a visiting dignitary]] who had become lost among the tunnels. He wore a neatly trimmed beard and fussy glasses. On exiting the tunnels, he got into a coach parked by the servants door which bore a bird-like coat of arms.
+            *Two other servants may have witnessed something: [[:nans | Nanthelia "Nans" Surn]] and [[:chuggaz | Chugan "Chuggaz" Velm]].
+        [end-content]
+    [end-accordion-item]
+[end-accordion]
+
+We know that the [[Anathemists | Anathemists]] ended up with highly classified information. The current working assumption is that they are the masterminds of all of these events, but the evidence does not yet rule out another faction, a false-flag operation, or Anathemists using non-obvious proxies.
+
+h3. Acts of Sabotage
+
+In addition to the information leak, a series of accidents around the city are believed to be evidence of sabotage. These are:
+
+[accordion]
+    [accordion-item] 
+        [title] *6th Ostory* [end-title] 
+        [content] 
+            The control rod of one of [[House Grimbolg | House Grimbolg]]'s water generators was inverted, causing a water storage tank to overflow. This resulted in the drowning of one of their [[Factor | factors]], [[:dogara | Hydromancer D'gara]], as well as significant losses from the adjacent storage silos.
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] *8th Ostory* [end-title] 
+        [content] 
+            [[:nielsenn | Nielsenn]], [[Adjutant | adjutant]] of [[House Mabon | House Mabon]], was vaporised when one of his own trapped locks misfired.
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] *14th Ostory* [end-title] 
+        [content] 
+            A summoning being carried out by [[:caller-georg | Caller Johann Georg]] at the [[Beltan Institute | Beltan Institute]] went catastrophically wrong. The demon broke free of the summoning circle and possessed the summoner. Under its influence, Caller Georg ran amok through the halls of the Beltan Institute defacing a number of portraits and other precious items before his heat finally gave out. As a final sick joke, the demon enchanted its own sulphurous leavings which, when gathered up with the rest of the day's refuse, exploded. The page of his newly purchased grimoire showing the appropriate summoning circle for a succubus was found to have been vandalised. 
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] *21st Ostory* [end-title] 
+        [content] 
+            The punch ladle at a diplomatic function being hosted by [[House Lithra | House Lithra]] was exchanged with one that had been enchanted with a geis of truth speaking. This resulted in three major diplomatic incidents, the end of two miarrages, and a very awkward proposal. House [[Factor | factor]] [[:emissary-isius | Emissary Isius]] has had to withdraw from public life. 
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] *25th Ostory* [end-title] 
+        [content] 
+            A series of explosive devices were found in the sewers below [[The Fulcrum | The Fulcrum]] on the night of the [[Ditchquer | Ditchquer]] tournament closing ceremony. One detonated early, causing some minor structural damage. The others were discovered and diffused. High ranking [[Factor | Factors]] of each house were in attendance, any or all of whom may have been the intended target. Reinforcements from [[House Oestra | House Oestra]] were called in to support the [[House Meness | House Meness]] guards already in place. 
+        [end-content]
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] *34th Ostory*  [end-title]
+        [content] 
+            [[:f-lar-mnementh | Tyromancer Pterath]], [[Factor | factor]] of [[House Goela | House Goela]], was poisoned. Investigators determined that a large dosage of hallucinogens had been added to his cheese. Pterath survived, but has been unwilling to attempt any further acts of divination.
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] *8th Enean* [end-title] 
+        [content] 
+            [[:craftsman-shegrim | Craftsman Shegrim]], a high-level [[Factor | factor]] of [[House Mabon | House Mabon]], was  commissioned anonymously to place a spell of reflection on an amulet. The amulet had _already_ been enchanted with a spell of reflection, causing the enchantment to rebound. In a city where magic is everywhere, he's a walking danger to everyone around him.  
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] *17th Enean* [end-title] 
+        [content] 
+            A [[House Meness | House Meness]] [[Factor | factor]], [[:major-vindas | Major Vindas]], was killed by piece of armour with an inverted reflection enchantment – instead of reversing incoming force it amplified it. When she invited an aide to help her test the armour with a low level firebolt spell, she was incinerated instantly. 
+        [end-content] 
+    [end-accordion-item]
+
+[end-accordion]
+
+
+h3. Answers to "Which other House is the most likely to be involved?"
+
+[accordion]
+    [accordion-item] 
+        [title] [[:seer-demeletas | Seer Demeletas]] ([[House Goela | House Goela]]) [end-title] 
+        [content] 
+            bq). Life's challenges are often unforeseen by those who keep the closest watch. But _quis custodiet ipsos custodes_? Quis indeed.
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] [[:hielaman | Captain Hielaman]] ([[House Meness | House Meness]]) [end-title] 
+        [content] 
+            bq). Nobody. We're all part of the same city, not a traitor among us. That said, I'm never quite sure where I stand with Lithra. They're always playing both sides in any situation. Not that I think they'd betray us, but what if this is all some long game of theirs gone awry?
+         [end-content]
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] [[:journeyman-galoras | Journeyman Galoras]] ([[House Meness | House Meness]]) [end-title] 
+        [content] 
+            bq). Willingly? None. But by deceit? Perhaps Beltus would be their target – concerned with position and authority. Ambitious, but precarious.
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] [[:navinea-senetera | Navinea Senetera]] ([[House Grimbolg | House Grimbolg]]) [end-title] 
+        [content] 
+            bq). Any of us. None of us are immune to manipulation. Find out what drives somebody, and you can push them to almost anything. There's enough politicking and posturing around, I'm sure you could find a weak link in any of the Houses.
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title]  [[:emissary-halan | Emissary Halan]] ([[House Lithra | House Lithra]]) [end-title] 
+        [content] 
+            bq). I would never be so gauche as to suggest impropriety on the part of any of my colleagues. But, if you'll permit me some idle speculation, I have found that military types are sometimes the easiest to find leverage on. All the rules and rigid structure can make them so...predictable.
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] [[:commander-locke | Prefect Locke]] ([[House Oestra | House Oestra]]) [end-title] 
+        [content] 
+            bq). Goela'd be my guess. Not willingly, but let's face half the time they barely know what planet they're even on. I reckon you get one of them hopped up on magic smoke or however their shit works and they'd tell you anything.
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] [[:alandria | Caller Alandria]] ([[House Beltus | House Beltus]]) [end-title] 
+        [content] 
+            bq). I don't know. The tinkerers maybe. Or the gardeners. Both so tunnel visioned into their little niches, they're not exactly burdened with an overabundance of vision. Dangle a shiny mechanism or a new plant in front of them and I'd image they'll follow you anywhere.
+        [end-content] 
+    [end-accordion-item]
+[end-accordion]
+
+<!-- GM_INFO_START -->
+h3. The Spies
+
+* [[:georges-de-selve | Georges de Selve]] - merchant
+* [[:jean-de-dinteville | Jean de Dinteville]] - merchant
+* [[:arouraios | Arouraios]] - servant / cartographer
+* [[:barnabus | Barnabus]] - butler
+* [[:regnif-d-log | Regnif d'Log]] - patsy
+
+h3. The Heist
+
+h4. Setup
+
+* Enter the city as small groups - Regnif d'Log] and his servants [[:arouraios | Arouraios]] and [[:barnabus | Barnabus]] as one group, the merchants [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] as another.
+* Use the criminals around the city to infiltrate the garbage collection. This gives them a way to move materials around the city.
+* [[:barnabus | Barnabus]], supposedly acting as an agent of [[:regnif-d-log | d'Log]], made a deal with a magical armourer ([[kelferria-the-smith | Kelferria]] of [[House Mabon | House Mabon]]) for a large order of enchanted armour. He made a large down payment with promises of a lot more.  Kelferria produced a few samples, which is what he actually wanted. This serves two purposes: protection within the quarantine zone so they can use The Sacrum as their staging ground, and disguises - the armorer supplies [[House Oestra | House Oestra]], so the chest-plates, once clumsily decorated with the oestra crest, will pass as Oestra at a distance.
+
+h4. Gathering Supplies
+
+* The sabotage on [[House Beltus | House Beltus]]  provides cover to steal sulfur - Beltus produce a bunch as a by-product of summoning so there's plenty going. They wait nearby in the cart, head over when they hear the chaos, empty the sulfur silo into the cart then set a fire in the silo. Sulfer burns well so it covers the theft, and in the chaos it gets blamed on the demon mishap.
+* The sabotage on [[House Grimbolg | House Grimbolg]] provides cover to steal Nitre (it dissolves in water) 
+* Charcoal can be bought as a fuel around the city (although [[:regnif-d-log | d'Log]] has noticed that his lodgings appear to be particularly cold). 
+* They identify and kidnap [[:nielsenn | Nielsenn]], staging the explosion in his shop to suggest his death.
+* The remaining acts of sabotage are to provide cover for the thefts and to create a sense of paranoia.
+* The charcoal, nitre, and sulfur are accumulated at the Sacrum.
+
+h4. The Ditchquer Closing Ceremony
+
+* [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] plant the explosives.
+* At the [[Ditchquer | Ditchquer]] Closing ceremony, [[:barnabus | Barnabus]] lifts [[:silas-oestra | Silas Oestra]]'s key and passes it off to [[:arouraios | Arouraios]] who is disguised as a coachman.
+* [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]]  emerge from the tunnels and colect the key from  [[:arouraios | Arouraios]]
+* They collect the [[:nielsenn| Nielsenn]] and make their way into the catacombs. 
+* The first explosive detonates. Reinforcements are summoned from House Oestra, leaving them understaffed. 
+* [[:georges-de-selve | Georges de Selve]], [[:jean-de-dinteville | Jean de Dinteville]] and the locksmith [[:nielsenn| Nielsenn]] emerge from the archives within the leaguer. In the dark, the symbol painted on their armour passes as House Oestra.
+* They make their way to the keep, using the key and locksmith to access [[:silas-oestra | Silas's]] rooms. They copy what they can and steal what they can't, then leave.
+* [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] take [[:nielsenn| Nielsenn]] back to the hq, where they kill him. They then leave the city, returning to the disguise as merchants. 
+* 35 days later, they return for more 'merchanting'. Barnabus, as part of d'Log's retinue, has been permitted to remain until his master's business is concluded.
+<!-- GM_INFO_END -->

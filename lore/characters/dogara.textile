@@ -1,0 +1,25 @@
+---
+op_id: 2c1f8ab6f5cd43099dae06c42dd6fec3
+op_slug: dogara
+op_kind: Character
+op_type: Character
+name: D'gara
+title: D'gara
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/dogara
+op_created_at: '2026-02-18T14:22:56Z'
+op_updated_at: '2026-02-18T16:57:04Z'
+op_gm_only: true
+is_player_character: false
+tags:
+- House Grimbolg
+- she/her
+- Deceased
+- Factor
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481291/fefc0b5fafbd39ba5e67c290c2fdf898.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+

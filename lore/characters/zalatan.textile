@@ -1,0 +1,23 @@
+---
+op_id: a100cad56baf4ec69e4dd9fe6b59f396
+op_slug: zalatan
+op_kind: Character
+op_type: Character
+name: Zalatan
+title: Zalatan
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/zalatan
+op_created_at: '2026-04-23T12:54:28Z'
+op_updated_at: '2026-04-23T12:55:08Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- Deceased
+- Antagonistic
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7516441/elfsjecs.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+An undead Beholder stored in the [[Osteomantic Archives | Osteomantic Archives]].

@@ -1,0 +1,32 @@
+---
+op_id: b5169502faac497fb610e7d86f095561
+op_slug: silas-oestra
+op_kind: Character
+op_type: Character
+name: Silas Oestra
+title: Silas Oestra
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/silas-oestra
+op_created_at: '2026-02-13T22:16:51Z'
+op_updated_at: '2026-06-24T14:49:59Z'
+op_gm_only: true
+is_player_character: false
+tags:
+- House Oestra
+- Factor
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+
+
+<!-- GM_INFO_START -->
+h3. Target of the Ditchquer Heist
+
+Silas's rooms were the true target of the [[Anathemists | Anathemist]] operation during the [[Ditchquer | Ditchquer]] closing ceremony.
+
+[[:barnabus | Barnabus]] pickpocketed Silas's key at the party and passed it to Arouraios, who was disguised as a coachman. [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] collected the key, then used it with [[:nielsenn | Nielsenn's]] locksmith skills to access Silas's rooms through the [[Osteomantic Archives | archive]] route while House Oestra's attention was drawn away by the Fulcrum explosives.
+
+The conspirators copied what they could and stole what they could not. The exact stolen material remains a key unresolved point, but the breach is directly connected to the [[Anathemists | Anathemists]]' knowledge of [[Kosmios | Kosmios]].
+<!-- GM_INFO_END -->

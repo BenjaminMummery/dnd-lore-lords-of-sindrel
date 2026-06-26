@@ -1,0 +1,25 @@
+---
+op_id: 17e89067cf1744788929bebbc0c1da15
+op_slug: home-page
+op_kind: Wiki
+op_type: WikiPage
+name: Home Page
+title: Home Page
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/home-page
+op_created_at: '2025-11-17T15:24:03Z'
+op_updated_at: '2026-01-02T20:01:10Z'
+op_gm_only: false
+tags: []
+---
+
+h2. The Age of Magic is Ending
+
+Over the last century, the gradual decay of the supernatural has become undeniable. Mages who once reshaped reality now struggle with simple illusions; enchanted items that should last generations are exhausted after a handful of uses; even those who draw their power from the gods have found their deities to be growing distant and uninterested.
+
+As the old power structures crumble, new and ambitious ideologies compete for dominance. The chaos is growing, and the new shape of the world is up for grabs.
+
+Born into this world, you have lived the majority of your lives with the knowledge that once concrete certenties are eroding around you. And you have all, for your own reasons, made the long, arduous journey to the one place on earth where wonders persist - Sindrel, the last city of magic.
+
+* [[Main Page | Wiki]]
+* "Adventure Log":https://thelordsofsindrel.obsidianportal.com/adventure-log
+* "Characters":https://thelordsofsindrel.obsidianportal.com/characters

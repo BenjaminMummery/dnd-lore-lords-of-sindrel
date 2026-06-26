@@ -1,0 +1,15 @@
+---
+op_id: 48337c563bcb4f8dae1f11aee9f6661a
+op_slug: ditchquer
+op_kind: Wiki
+op_type: WikiPage
+name: Ditchquer
+title: Ditchquer
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/ditchquer
+op_created_at: '2026-02-01T21:43:08Z'
+op_updated_at: '2026-02-01T21:43:08Z'
+op_gm_only: false
+tags: []
+---
+
+

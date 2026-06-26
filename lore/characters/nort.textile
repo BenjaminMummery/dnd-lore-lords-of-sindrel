@@ -1,0 +1,21 @@
+---
+op_id: 70f3db2e0cc14fd6a8740f0076306b80
+op_slug: nort
+op_kind: Character
+op_type: Character
+name: Nort
+title: Nort
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/nort
+op_created_at: '2026-06-25T19:52:14Z'
+op_updated_at: '2026-06-25T19:52:14Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- she/her
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+

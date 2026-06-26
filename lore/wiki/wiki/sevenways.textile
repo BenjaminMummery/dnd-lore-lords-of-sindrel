@@ -1,0 +1,24 @@
+---
+op_id: 313fb37251574d7b98dff190c049f3ff
+op_slug: sevenways
+op_kind: Wiki
+op_type: WikiPage
+name: Sevenways
+title: Sevenways
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/sevenways
+op_created_at: '2026-06-24T10:22:44Z'
+op_updated_at: '2026-06-24T10:22:44Z'
+op_gm_only: false
+tags:
+- location
+- Sindrel
+- district
+---
+
+Sevenways is the city's great residential crossroads, built around an ancient network of ramps and bridges that connect Sindrel's various levels. Buildings have grown organically around these routes for centuries, creating a layered landscape of stairways, terraces, hidden courtyards, and streets that seem to pass above and below one another at impossible angles. Home to artisans, clerks, minor officials, apprentices, and countless others, Sevenways is where much of ordinary Sindrellan life unfolds. More than any other district, it reflects the city's long history of adaptation, growth, and improvisation.
+
+Sevenways clusters around the [[The Fulcrum | The Fulcrum]], but never gets too close.
+
+<!-- GM_INFO_START -->
+There are eight bridges, although it's hard to count given the profusion of buildings
+<!-- GM_INFO_END -->

@@ -1,0 +1,36 @@
+---
+op_id: 102a0e0f4df94d19badcd6a52ac5f57a
+op_slug: nielsenn
+op_kind: Character
+op_type: Character
+name: Nielsenn
+title: Nielsenn
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/nielsenn
+op_created_at: '2026-02-17T22:22:10Z'
+op_updated_at: '2026-06-24T14:42:33Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- House Mabon
+- he/him
+- Adjutant
+- Deceased
+---
+
+<!-- OP_DESCRIPTION -->
+[[Adjutant | Adjutant]] of [[House Mabon | House Mabon]].
+
+<!-- OP_BIO -->
+Vaporised when one of his own trapped locks misfired.
+
+<!-- GM_INFO_START -->
+Nielsenn was an older human with a lined face, dark eyebrows contrasting with a shock of white hair. He is a skilled craftsman, his hands moving with certainty and precision despite his age. He is missing the ring and pinkie fingers on his left hand, and has replaced them with a mechanical prosthetic.
+
+h3. True Fate
+
+Nielsenn was not vaporised by one of his own trapped locks. His death was staged by the [[Anathemists | Anathemist]] cell.
+
+The conspirators identified him as a locksmith whose skills could be used to access [[:silas-oestra | Silas Oestra]]'s rooms. [[:barnabus | Barnabus]] helped identify and target him through servant networks and household intelligence. Nielsenn was kidnapped, held captive in The Sacrum, used during the [[Ditchquer | Ditchquer]] operation, and forced or coerced into applying his locksmith expertise alongside Silas Oestra's stolen key.
+
+After [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] finished copying and stealing material from Silas Oestra's rooms, they took Nielsenn back to the The Sacrum and killed him. His body lies in The Sacrum, and his spirit, trapped by the ambient necromantic magic, is nearby.
+<!-- GM_INFO_END -->

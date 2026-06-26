@@ -1,0 +1,22 @@
+---
+op_id: 4101f6ab35084d1e9b100cbb94da82cd
+op_slug: tama
+op_kind: Character
+op_type: Character
+name: Giant Stoat
+title: Giant Stoat
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/tama
+op_created_at: '2026-01-05T12:04:14Z'
+op_updated_at: '2026-06-03T17:15:38Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- in-party
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7450703/5dcdcfed3c88af8ebaf475668b86076f.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+Tama was first encountered by the [[The Adventurers | Neighbourhood Wonch]] in the orchard of [[Fallowhurst College | Fallowhurst College]].

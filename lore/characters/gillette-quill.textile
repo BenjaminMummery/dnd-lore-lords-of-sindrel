@@ -1,0 +1,24 @@
+---
+op_id: 9b1bca509edd4ffa87ef4ad7bcba70d4
+op_slug: gillette-quill
+op_kind: Character
+op_type: Character
+name: Gillette Quill
+title: Gillette Quill
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/gillette-quill
+op_created_at: '2025-12-09T19:50:05Z'
+op_updated_at: '2026-03-12T11:32:32Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- he/him
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7433940/516db71a9a089cbb40109ce80dfa0971.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+Small, wily, and a complete bastard
+
+<!-- OP_BIO -->
+*  *4218 [[The Soulwind Calendar | SC]]*: Along with his brother [[:raymond-quill | Raymond]], Gillette spends most of the year carrying out a series of petty and uninspired thieveries targetting travellers up and down [[The Mage Road | The Mage Road]].
+* *24th of Enean 4218 [[The Soulwind Calendar | SC]]*: The brothers are interrupted by [[:wilrin-racenglade | Wilrin Ravenglade]] while plotting to rob the patrons of [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]. During the altercation, Gillette is knocked unconscious.
+* *25th of Enean 4218 SC*: Now under the custody of the Adventurers, Gillette rides the coach to Sindrel. During the Anathemist ambush, he remains pinned down in the coach unwilling to risk the archers above.

@@ -1,0 +1,102 @@
+---
+op_id: f82c55704a9341808237a2b5dd93dd40
+op_slug: session-6-wallarch
+op_kind: Wiki
+op_type: Post
+name: 'Session 6: Wallarch'
+title: 'Session 6: Wallarch'
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-6-wallarch
+op_created_at: '2026-03-11T17:25:06Z'
+op_updated_at: '2026-05-21T08:05:58Z'
+op_gm_only: false
+tags: []
+post_tagline: A Wretched Hive of Scum and Villainy...
+post_time: '2026-03-11T09:00:00Z'
+---
+
+h3. Dramatis Personae
+[accordion]
+    [accordion-item] 
+        [title] [[The Adventurers | The Adventurers]][end-title] 
+        [content]
+            * [[:amanira | Amanira]], a drow druid.
+            * [[:ayr | Ayr]], gnome paladin.
+            * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
+            * [[:pin | Pin]], a human fighter.
+            * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
+            * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
+            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer. 
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] Denizens of [[The Wallarch District | the Wallarch district]] [end-title] 
+        [content]
+            * [[:emerich-surefoot | Emerich Surefoot]] - a ruffian.
+            * [[:micycle-smynth | Micycle Smynth, deceased]] - a corpse.
+            * [[:razorbeak | Chicken]] - a chicken.
+            * [[:hunts-by-night | Cat]] - a cat.
+            * Various mourners
+            * A [[:celebrant-alruna | celebrant]] and two underlings who work at the [[Osteomantic Archives | Osteomantic Archives]]
+        [end-content] 
+    [end-accordion-item]
+
+[end-accordion]
+
+h3. The Chase
+
+_Noon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
+bq). Sandwiched between the city's outer wall and the iron boundary of the quarantine zone, [[The Wallarch District | Wallarch]] feels enclosed on every side. The buildings are the same seamless stonework you've seen elsewhere in the city, but the forms are crude and weathered. Here and there you can see the signs of repairs made with more conventional building materials. You notice demons in higher numbers, openly going about their assigned tasks. You realise now how much care has been taking in the rest of the city to position the floating buildings in such a way as to leave the open sky above main thoroughfares, and how little care has been taken here - the streets are shadowed and gloomy even at the height of the day. 
+
+Upon entering [[The Wallarch District | Wallarch]], the [[The Adventurers | Wonch]] quickly became aware that they were being observed - a figure in a hooded cloak who had been surveilling the street from an alleyway took note of [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and immediately headed off with some urgency. The Wonch gave chase, and were ultimately successful in capturing their quarry. This endeavour resulted in them gaining one chicken and one cat, while destroying one chicken crate, one large stained glass window being carried by two demons, and the equanimity of a passing mother and child. 
+
+The running figure was revealed to be [[:emerich-surefoot | Emerich Surefoot]], one of the shady individuals with whom [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] had gambled for information[1].  Despite his utterly pathetic attempts at disassembling, he ultimately revealed that he was a low-level enforcer for [[The Black Cats | The Black Cats]], and had been on his way to set up an ambush for [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] since she had previously flashed around a large quantity of cash. He revealed that his contact in the Cats operated out of the back room of [[The Cutthroat's Repose | The Cutthroat's Repose]], and that the password to get in was "Swordfish".
+
+The adventurers allowed [[:emerich-surefoot | Emerich]] to leave, and chose to proceed to the [[Osteomantic Archives | Osteomantic Archives]], accompanied by one of the recently freed [[:razorbeak | Chicken]]s, and a [[:hunts-by-night | cat]], the latter very interested in [[:amanira | Amanira]]'s rat form.
+
+h3. The Osteomantic Archives
+
+_Early Afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
+[[File:1555017  | class=media-item-align-right | 200px | Samhain.png]]
+
+bq). Anywhere else, the Osteomantic Archives would be a grand hall. In Sindrel, where the single-storey build is dwarfed by the majestic structures around it, it looks oddly small and unassuming. A sense of otherness hangs about it - every aspect of the building appears at odds with its surroundings. The lack of height, the black stone of its construction, the pointed arches, gargoyles, and crockets that infest its densely ornate form, all are strange and out of place in a city that favours gleaming white stone and airy colonnades. 
+
+Carved into the keystone above the door was a symbol, one that the party had seen before - along with the symbol of [[House Oestra | House Oestra]], it made up the central component of [[The Fallowhurst Sigil | The Fallowhurst Sigil]].
+
+bq). It takes a moment for your eyes to adjust to the gloom. As they do, you find yourselves in a wide hall. A pair of chandeliers hang overhead, casting a shifting light over the room and you disturb the cool, dry air. On the wall opposite are a pair of ornate doors, the silver filigree at their hinges glinting in the unsteady light. There's a sign next to the door, but before you can read it your attention is captured by the walls - floor to ceiling they are lined with small alcoves, no more than a foot in any dimension, and in each of them your gaze meets the hollow eye sockets of a skull. As if suddenly accustomed to the look it, you realise that the chandeliers, ornamentation around the pillars of the room, even the decorative inlay into the floor are all made of bone. 
+
+The archives turned out to be in use - the adventurers were witness to the funeral of [[:micycle-smynth | Micycle Smynth]] being presided over by a [[:celebrant-alruna | celebrant]]. While [[:nakoma-deathwalker-mor-got-ha | DW]] and [[:amanira | Amanira]] (still in rat form) investigated a side room, the rest of the Wonch observed the funeral while creating the barest minimum of disruption.
+
+Examining the room, [[:rossin-ros-greyhirst | Ros]] noted that the dates on the populated alcoves indicated that the rate at which people had been interred here had been decreasing. She also spotted two people in dark robes who were clearly not part of the mourners.
+
+The central alter was inscribed with an eight pointed star surrounding the symbol from the doorway. This closely resembles the [[The Fallowhurst Sigil | Fallowhurst Sigil]], albeit significantly simpler. The operation of this sigil was demonstrated at the end of the funeral when it was used to summon a cold flame that stripped away the flesh of the late mr [[:micycle-smynth | Smynth]] leaving a polished skeleton in its wake.
+
+In the side chamber, [[:nakoma-deathwalker-mor-got-ha | DW]] and [[:amanira | Amanira]] found vestments for numerous denominations, as well as sets of black robes for those who work at the archives themselves. The concluded that the Archives were are a non-denominational space that catered to various religions (and tried on said black robes). They also found a stairway leading downwards into an undercroft.
+
+At the conclusion of the funeral, the two black-robed figures Ros had noticed gathered up the mortal remains of [[:micycle-smynth | Micycle]], and proceeded towards the room where [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and [[:amanira | Amanira]] were exploring.
+
+
+
+fn1. [[Session 4: Sindrel! | Session 4: Sindrel!]]
+
+<!-- GM_INFO_START -->
+bq). Sandwiched between the city's outer wall and the iron boundary of the quarantine zone, Wallarch feels enclosed on every side. The buildings are the same seamless stonework you've seen elsewhere in the city, but the forms are crude and weathered. Here and there you can see the signs of repairs made with more conventional building materials. You notice demons in higher numbers, openly going about their assigned tasks. You realise now how much care has been taking in the rest of the city to position the floating buildings in such a way as to leave the open sky above main thoroughfares, and how little care has been taken here - the streets are shadowed and gloomy even at the height of the day. 
+
+* DW reentering wallarch triggers the local ruffians to start tracking her and attempting to set up an ambush. DW asked about getting into the quarantine zone, so that's where the ambush will be. A stray cat will attempt to warn amanira of the ambush.
+
+bq). Anywhere else, the Osteomantic Archives would be a grand hall. In Sindrel, where the single-storey build is dwarfed by the majestic structures around it, it looks oddly small and unassuming. A sense of otherness hangs about it - every aspect of the building appears at odds with its surroundings. The lack of height, the black stone of its construction, the pointed arches, gargoyles, and crockets that infest its densely ornate form, all are strange and out of place in a city that favours gleaming white stone and airy colonnades. 
+
+bq). It takes a moment for your eyes to adjust to the gloom. As they do, you find yourselves in a wide hall. A pair of chandeliers hang overhead, casting a shifting light over the room and you disturb the cool, dry air. On the wall opposite are a pair of ornate doors, the silver filigree at their hinges glinting in the unsteady light. There's a sign next to the door, but before you can read it your attention is captured by the walls - floor to ceiling they are lined with small alcoves, no more than a foot in any dimension, and in each of them your gaze meets the hollow eye sockets of a skull. As if suddenly accustomed to the look it, you realise that the chandeliers, ornamentation around the pillars of the room, even the decorative inlay into the floor are all made of bone. 
+
+* The alcoves have little plaques by each one, saying who they are. They also contain the rest of the skeleton stacked neatly and compactly around the skull.
+* The sign by the door reads "Emerich Surefoot".
+* Inside, a crowd of mourners 
+* central plinth with a body. A priest is intoning a solomn prayer.
+* doors leading off to both sides
+
+Catacombs
+* think paris catacombs
+* close to the
+<!-- GM_INFO_END -->

@@ -1,0 +1,47 @@
+---
+op_id: 67eba7e39ae04122816cdeebeeb61d45
+op_slug: ambassador-thrawne-lithra
+op_kind: Character
+op_type: Character
+name: Ambassador Thrawne Lithra
+title: Ambassador Thrawne Lithra
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/ambassador-thrawne-lithra
+op_created_at: '2025-12-22T23:38:29Z'
+op_updated_at: '2026-06-24T16:51:11Z'
+op_gm_only: true
+is_player_character: false
+tags:
+- Lord of Sindrel
+- House Lithra
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7441229/lithra.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+
+
+<!-- GM_INFO_START -->
+Ambassador Thrawne Lithra is the ancient head of [[House Lithra | House Lithra]] and one of the surviving [[The Octarion Circle | founders]] of Sindrel. Their symbolic item is [[:the-shadow-s-vestment | The Shadow's Vestment]], and the colour of their House is grey.
+
+Thrawne is the supreme practitioner of House Lithra's arts of illusion, disguise, meaning, diplomacy, and controlled perception. For centuries, they have survived by becoming whatever a moment required: ambassador, lover, enemy, friend, monarch's confidant, servant, confessor, stranger, threat, comfort, witness, and lie.
+
+Each role was useful. Each face opened a door. Each name made a conversation possible. Each carefully chosen self prevented a war, began a negotiation, hid a crime, exposed a rival, soothed a House, or preserved Sindrel.
+
+Eventually, the masks stopped coming off.
+
+Thrawne can no longer recall their original face, true name, gender, history, or first voice. The problem is not simple forgetfulness. Every role they ever played was performed so completely that it became real enough to remain. Each identity has memories. Each has habits. Each has debts. Each has enemies. Each insists that it is the true one.
+
+To outsiders, Thrawne appears impossibly poised: the perfect ambassador, always exactly what the room requires. The truth is that there may no longer be anyone behind the performance, only the performances themselves, endlessly negotiating for precedence.
+
+h4. The Founder’s Burden
+
+House Lithra prizes illusion, meaning, diplomacy, interpretation, and the power to shape what others believe. Thrawne's curse is that they shaped themself too well.
+
+The Shadow's Vestment is therefore more than a cloak of disguise. It is the symbol of a life worn in layers until the wearer can no longer be found.
+
+h4. Depictions
+
+In paintings and statues of the founders, Thrawne is an indistinct figure in a grey robe. These depictions once had features, but some strange twist of chance has erased them. Paintings are stained, statues have eroded. Even in the civic heart of Sindrel where such depictions are actively maintained, Thrawne's features little more than a rough sketch, as if generations of artisans have been unable to decide what they should look like.
+<!-- GM_INFO_END -->

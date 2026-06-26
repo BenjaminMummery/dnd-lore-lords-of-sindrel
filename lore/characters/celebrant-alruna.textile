@@ -1,0 +1,29 @@
+---
+op_id: 9915ce65e3cb41caacd36bafb491a11a
+op_slug: celebrant-alruna
+op_kind: Character
+op_type: Character
+name: Celebrant
+title: Celebrant
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/celebrant-alruna
+op_created_at: '2026-03-18T22:16:46Z'
+op_updated_at: '2026-03-18T22:33:42Z'
+op_gm_only: true
+is_player_character: false
+tags: []
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7495130/alruna.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+
+
+<!-- GM_INFO_START -->
+Head curator of the Wallarch Osteomantic Archives.
+
+Real name: Alruna
+
+House: whichever one is norse, Meness?
+<!-- GM_INFO_END -->

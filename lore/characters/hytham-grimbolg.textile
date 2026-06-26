@@ -1,0 +1,48 @@
+---
+op_id: bec37da3d0fa4328b69c7331ade9d219
+op_slug: hytham-grimbolg
+op_kind: Character
+op_type: Character
+name: Hytham Grimbolg
+title: Hytham Grimbolg
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/hytham-grimbolg
+op_created_at: '2025-12-25T15:48:46Z'
+op_updated_at: '2026-06-24T16:45:35Z'
+op_gm_only: true
+is_player_character: false
+tags:
+- Lord of Sindrel
+- House Grimbolg
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+
+
+<!-- GM_INFO_START -->
+Hytham Grimbolg is the ancient head of [[House Grimbolg | House Grimbolg]] and one of the surviving [[House Oestra | founders]] of Sindrel. His symbolic item is [[:the-shaper-s-hands | The Shaper's Hands]], and the colour of his House is green.
+
+Hytham began as a creator in the truest Grimbolg sense: someone who saw transformation not merely as utility, but as art. To shape matter was to reveal possibility. To grow food, raise structures, alter substances, and improve the world was a creative act. Centuries of civic necessity have consumed that joy.
+
+House Grimbolg feeds Sindrel, waters Sindrel, supplies Sindrel, and keeps the city's material body alive. Hytham's gift for creation has been narrowed by that burden until all beauty has been replaced by output. He still creates endlessly, but what he makes is measured in stores, yields, quotas, silos, and survivability.
+
+He can no longer imagine beauty. When he attempts art, the result becomes useful despite him: a bowl better suited to stacking, a sculpture that doubles as a brace, a song whose rhythm improves workers' timing, a garden arranged for maximum crop density. Even his imagination has become infrastructural.
+
+His personal appetites mirror the same corruption. Hytham overproduces, stockpiles, and consumes. He spends his days surrounded by abundance, eating through stores before they spoil, unable to stop creating more and unable to experience the abundance as anything but need.
+
+h4. The Founder’s Burden
+
+House Grimbolg prizes growth, transformation, craft, and the provision of life’s necessities. Hytham has become the perfect servant of that ideal and its victim. He can make anything useful. That is the curse. 
+
+The Shaper's Hands are no longer the hands of an artist. They are the hands of a city that must never stop eating.
+
+h4. Background 
+
+Hytham grew up on the streets of soulwind, using transmutation to keep his family alive. This initial anxiety over scarcity has driven his corruption.
+
+h4. Depictions
+
+In paintings and statues of the founders, Hytham is shown as a slim male half-orc wearing the simple, sturdy duty clothes of a craftsman or smith and a heavy leather apron. He wears the shaper's hands, stone gloves of surprising delicacy inscribed with arcane symbols. He is usually posed in the act of conjuring forth a twisting organic form between his hands.
+<!-- GM_INFO_END -->

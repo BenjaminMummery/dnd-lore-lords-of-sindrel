@@ -1,0 +1,29 @@
+---
+op_id: cb55235bcbf04834b96d24d21921e0db
+op_slug: caller-georg
+op_kind: Character
+op_type: Character
+name: Caller Georg
+title: Caller Georg
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/caller-georg
+op_created_at: '2026-02-18T14:26:40Z'
+op_updated_at: '2026-06-24T15:32:26Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- House Beltus
+- Factor
+- Deceased
+- he/him
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481299/2673663_blazingpumpkinart_demon-summoning.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+Johann Georg is a [[Factor | Factor]] of [[House Beltus | House Beltus]].
+
+<!-- OP_BIO -->
+h3. Death at the Beltan Institute
+
+Caller Johann Georg's final summoning took place at the [[Beltan Institute | Beltan Institute]], [[House Beltus | House Beltus]]'s official centre for regulated summoning and pact-work. The demon's escape was therefore not a private magical mishap, but a disaster inside one of Beltus's most prestigious institutions.
+
+After possessing Georg, the demon drove him through the Institute's portrait-lined halls, defacing portraits and precious items before Georg's heart finally gave out.

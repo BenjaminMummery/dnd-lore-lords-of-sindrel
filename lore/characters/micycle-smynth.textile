@@ -1,0 +1,22 @@
+---
+op_id: 1e01f06dacf94d27ad51a0f2f1c8eb22
+op_slug: micycle-smynth
+op_kind: Character
+op_type: Character
+name: Micycle Smynth
+title: Micycle Smynth
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/micycle-smynth
+op_created_at: '2026-03-16T16:38:47Z'
+op_updated_at: '2026-03-16T16:38:47Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- Deceased
+- he/him
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+

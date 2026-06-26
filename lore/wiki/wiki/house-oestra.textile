@@ -1,0 +1,130 @@
+---
+op_id: c453e06b9f2743fa9b8e0c36418ea8d5
+op_slug: house-oestra
+op_kind: Wiki
+op_type: WikiPage
+name: House Oestra
+title: House Oestra
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/house-oestra
+op_created_at: '2025-12-20T23:27:42Z'
+op_updated_at: '2026-06-25T09:27:52Z'
+op_gm_only: false
+tags:
+- House of Sindrel
+---
+
+[[File:1546933  | class=media-item-align-right | 300px | Oestra.png]]
+_The Warriors of Evocation_
+
+h3. Known Factors
+
+* [[:commander-locke | Prefect Locke]] - Member of the [[Hexine Circle | Hexine Circle]] formed to counter [[Anathemists | Anathemist]] infiltration of the city.
+
+
+h3. Fashion 
+
+House Oestra dress is armour first and fashion second.
+
+The typical Oestran silhouette is upright, broad-shouldered, and hard-edged. Breastplates are common even away from battle, and the House symbol is proudly emblazoned across them in black, bronze, or dark enamel. To wear the Oestra mark on cloth is acceptable. To wear it on armour is proper.
+
+Oestra armour favours dark steel, bronze trim, black leather, red enamel, and crimson cloth. Officers wear long red cloaks, usually clasped at one shoulder and cut to leave the weapon arm free. Reinforced skirts in the style used by Soulwind at the height of its power are used when deployed to warmer climates, but in the cold north of Sindrel's environs Oestrans favour heavy trousers tucked into greaves. Perhaps unwilling to break too far with tradition, these are paired with hip armour that maintains the older skirt sillhouette. Segmented plates at the shoulders and hips maintain mobility without sacrificing protection.
+
+Weapons are part of the uniform. Oestra soldiers openly carry large blades, spears, polearms, war-staves, or heavy sidearms according to rank and role. Even administrators and noble Factors often wear swords in council chambers. Shields are rare and faintly disdained. Oestra doctrine holds that the best defence is overwhelming offence, and that to hide behind a shield is to admit the enemy has already been allowed too much initiative.
+
+Formal Oestra dress is not softer, only more polished. A Consul may wear a blackened breastplate under a crimson mantle. A Legate may carry a sword almost too large for ordinary use. A Prefect may drape a toga around his battle dress.
+
+Their ornament is martial: rank discs, command chains, laurel-like metal collars, military brooches, service marks engraved into armour, and blades whose hilts are more recognisable than faces. Oestra does not dress to charm. Oestra dresses to remind the room that civilisation survives because someone is willing to kill for it.
+
+
+h3. Architecture
+
+House Oestra architecture is imperial grandeur wrapped around siege engineering.
+
+At first glance, Oestra buildings appear to be triumphs of civilisation: white marble, fluted columns, vast domes, bronze doors, heroic statuary, crimson pennants, ceremonial avenues, and colonnades broad enough for victory processions. At second glance, the building begins to show its teeth.
+
+The marble is usually a decorative skin over magically reinforced volcanic concrete. The broad promenades narrow abruptly into defensible choke-points. Ornamental arches conceal portcullises. Elegant colonnades stand before walls thick enough to withstand artillery. Balconies become firing positions. Statue plinths block cavalry charges. Every gate is ceremonial until it closes.
+
+The influence of Soulwind is visible in its domes, senate halls, parade grounds, armouries, triumphal approaches, and disciplined use of civic space. But modern Oestra is no museum of old forms. Its architecture has evolved into a language of permanent readiness. Every building is part palace, part barracks, part tribunal, and part fortress.
+The House symbol is displayed with absolute confidence: on banners, gates, standards, floor mosaics, bronze doors, and the red pennants that snap above the walls of the Leageur. Oestra buildings do not ask to be admired. They expect to be obeyed.
+
+h3. Headquarters
+
+bq). The Leageur occupies an entire walled district of Sindrel's ground level like a declaration of intent. While the headquarters of other Great Houses might resemble temples, libraries, palaces or occasionally architectural nervous breakdowns, the Leageur looks unmistakably like a fortress.
+At least, it does after a second glance.
+The first glance tends to be distracted by the marble.
+House Oestra have covered the exterior of the complex in fluted columns, soaring domes and enough crimson pennants to suggest that a very patriotic hurricane has recently passed through. White marble gleams in the sunlight. Bronze doors tower overhead. Heroic statuary adorns every approach. The entire ensemble projects the reassuring message that civilisation was grand, noble and entirely in control of events.
+The second glance noticed the murder holes.
+The third noticed the iron gates.
+By the fourth, you realise that the marble is largely decorative and that nearly every attractive feature concels something designed to repel a siege.
+The broad ceremonial avenues narrow abruptly at strategic points. Grand staircases can be sealed by portcullises hidden within ornamental arches. The elegant colonnades stand before walls thick enough to stop artillery, constructed from magically reinforced volcanic concrete and merely pretending to be marble for social reasons.
+Beyond the walls lie a series of vast open spaces whose scale seems almost absurd. Parade grounds stretch across acres of stone. Assembly halls large enough to accommodate entire armies stand empty beneath colossal domes. Armouries occupy wings grander than most noble palaces.
+And yet there are remarkably few people.
+The result is a headquarters that feels less inhabited than prepared. Every courtyard appears ready for a parade. Every hall seems moments away from hosting a senate session. Every wall gives the impression that a war could begin at any moment.
+At the very centre of the Leageur stands the Senate Hall of Oestra, crowned by its vast dome and surrounded by enough fortifications to survive the collapse of civilisation several times over.
+
+The Archive
+
+bq). The archive stands within its own colonnaded sanctuary, a magnificent mausoleum crowned by a great dome of white stone. Black banners trimmed in crimson hang from every archway. Golden braziers burn day and night. Visitors enter expecting solemnity and find something much closer to a military parade that had somehow continued after death. A place of honour, but not a fully comfortable one. The other buildings of the Leageur maintain a wary distance, as if afraid that death is contagious. The walls that face it are devoid of even the small windows that Oestra's paranoid fortification permits. The very structure seems to almost resent the reminder of the inevitability of mortality.
+
+The Leageur is a walled section of the city. Within, it is one part military barracks, one part imperial palace, and, strangely, almost empty. Parade grounds lead to senatorial halls, armouries are flanked by magnificent statues. It even contains its own Osteomantic Archive, albeit one with a more fittingly columned exterior, where the bones of the glorious dead are held in pride of place, gilded with gold and draped in banners of conquest.
+
+h3. Anathemist Sabotage
+
+House Oestra has not publicly suffered a single confirmed House-specific sabotage incident in the same way as [[House Grimbolg | Grimbolg]], [[House Beltus | Beltus]], [[House Lithra | Lithra]], [[House Mabon | Mabon]], [[House Goela | Goela]], or [[House Meness | Meness]]. However, the House was drawn directly into the most public attack of the campaign.
+
+On _25th Ostory_, explosive devices were found beneath [[The Fulcrum | The Fulcrum]] during the [[Ditchquer | Ditchquer]] tournament closing ceremony. One detonated early, causing minor structural damage, while the others were discovered and diffused. High-ranking Factors from every House were present, and reinforcements from House Oestra were called in to support the [[House Meness | House Meness]] guards already in place.
+
+The public interpretation remains uncertain. The attack may have been aimed at the gathered Factors, at the Fulcrum itself, at the stability of the Octarion Circle, or at the appearance of Sindrel's invulnerability. Even without a confirmed Oestra casualty, the incident placed House Oestra at the centre of the response. It exposed how quickly the city's military arm could be forced to redeploy under pressure, and how vulnerable Sindrel feels when its most symbolic civic structure is threatened.
+
+<!-- GM_INFO_START -->
+h3. Overview
+
+Architecture reference: Roman
+Philosophy: Duty — Civilization survives because individuals accept responsibility for protecting something greater than themselves.
+
+h3. History
+
+Responsible for Sindrel's standing army. They are also heavily involved with the city's [[Houses of Healing | Houses of Healing]], although the martial nature is in evidence even here as soldiers get preferential treatment.
+
+House Oestra was a noble house of [[Soulwind | Soulwind]] prior to the establishment of Sindrel. As masters of evocation, they are the militant arm of the magical city. As much of their might is required maintaining the city’s colonies in [[Kosmios | Kosmios]], they are suspiciously underrepresented in [[Arcan | Arcan]]. In their absence, much of the [[Sindrel | Sindrel]]'s defence is handled by[[House Meness | House Meness]].
+
+h3. Organisation
+
+Factors are typically members of one of a few key families: Oestra, Locke, Nautia, Horation, and Tarqus. Not all have a role in the military, but all have a position within the chain of command should they choose to exercise their authority. 
+
+In addition to the core legion, there are a number of specialist branches. These inlcude the Preatorian, Lord Oestra's personal guard, and the Orders Hospitium who serve in the Houses of Healing.
+
+h3. Leadership
+
+House Oestra is ruled by a hereditary lord, with the Oestra family occupying the role of royalty. 
+
+Each lord has tyically ruled for around 50 years, spending the last decade or so with their successor by their side, learning the art of leadership. The current heir is Silvanus "Silus" Oestra. On his ascension he will don the ceremonial armour of office, its helm cast in the likeness of the first Lord Oestra. As the 22nd Lord Oestra, he will speak with the wisdom and authority of his ancestors, as it is rumoured that the armour retains the knowledge of its wearers and serves as the Lord's closest advisor.
+
+In reality, of course, no such ascension takes place. Lord Ablas Oestra has never relinquished the throne, and has been the sole inhabitant of the armour. Each "Coronation" is a ruse, the lord and his successor, at a pivotal moment, remove to a private hall where the lord kills his heir before presenting himself under his new identity. Silas's time runs short.
+
+Only the Triumverine, Oestra's closest allies, know the truth, and they are well compensated for their silence. They are also well aware that should the lord grow displeased they could be disposed of with ease. The current Triumverine are Gaius, Magnus, and Licinius. They have each abandoned any claim to familial honour or allegience, dedicating themselves wholly to the service of their lord (although a little nepotistic corruption is to be expected). They are typically seen bearing the Lord's sword, which takes two men to carry, and a tome in which to record his edicts.
+
+As [[:lord-ablas-oestra | Lord Oestra]] has grown more powerful, his magic has grown beyond his ability to control. He is now permanently encased in a suit of magical armour that contains and controls the waves of destructive magic emanating from his body.
+
+h3. Ranks
+
+Oestra operate a split system - House factorship is typically reserved for members of a few 'noble' families: Oestra, Locke, Nautia, Horation, and Tarqus. Adjutants below these are typically either servants, healers, or members of the military. Servants and healers simply use Adjutant as their title, while the military use:
+
+Factors:
+* Dictat
+* Consul
+* Legate
+* Prefect
+* Tribune
+
+Adjutants:
+* Princeps
+* Centurion
+* Optio
+* Tesserarius
+* Pedes
+
+Factors are typically expected to work they way up through the ranks, although they typically start at Tribune and their advancement is noticeably faster than that of the Adjutants. 
+
+[[File:1572841  | class=media-item-align-none | ChatGPT_Image_Jun_25__2026_at_10_26_05_AM.png]]
+<!-- GM_INFO_END -->

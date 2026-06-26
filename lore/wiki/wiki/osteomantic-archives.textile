@@ -1,0 +1,97 @@
+---
+op_id: e2da37ba92ce4862a0165713a93c5a64
+op_slug: osteomantic-archives
+op_kind: Wiki
+op_type: WikiPage
+name: Osteomantic Archives
+title: Osteomantic Archives
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/osteomantic-archives
+op_created_at: '2026-01-27T15:24:42Z'
+op_updated_at: '2026-06-26T10:13:33Z'
+op_gm_only: false
+tags:
+- location
+---
+
+[[File:1547488  | class=media-item-align-right | 300px | bone-house-1r.jpg]]
+Dotted around the city of [[Sindrel | Sindrel]] are The Houses of the Dead. These sprawling ossuaries house the mortal remains of the population in honoured repose for all time. 
+
+The archives are independent of the Houses, and as such lack the resources of many of Sindrel's other facilities. Instead they are maintained by endowments from the wills of the wealthy, the charitable donations of the living, and the voluntary labour of the Curators - those who choose to operate and maintain the structures. 
+
+h3. Historical Purpose
+
+The Osteomantic Archives originally served a broader purpose than that of a conventional ossuary. Prior to the fall of [[The Eighth House | The Eighth House]], the Archives functioned as a repository of accumulated knowledge. Through necromantic consultation, scholars could seek testimony directly from the dead, allowing expertise and experience to survive across generations.The catacombs therefore contain not only the remains of ordinary citizens, but curated collections devoted to particular fields of knowledge. Entire galleries preserve dragons, sages, aberrations, and historical figures selected for the information they could provide.
+In this sense the Archives were not merely a cemetery - they were a library.
+
+When the house fell, this function was lost. The Archives remain one of [[Sindrel | Sindrel's]] greatest collections of remains, but no longer serve as the living repository of knowledge they once were. Few can recall that they ever served another purpose.
+
+h3. The Catacombs
+
+Below each archive are the catacombs - a network of subterranean tunnels and halls that contain the older or less honoured dead. This much is known to most inhabitants of the city.
+
+What is less well known is that deeper into the catacombs is the Grand Museum of the Dead - vast collections of remains of interesting creatures, witnesses to historical events, and everything else the necromancers saw fit to add to their collection.
+
+Even less well known still, in fact potentially unknown to anyone in [[Sindrel | Sindrel]] prior to the [[The Investigation | Wonch's investigation]], is that the catacombs are interconnected - each archive is linked to the others. While this makes something close to spatial sense on the lower levels, the fact that the floating archives of the upper levels are _also_ connected makes it clear that the catacombs themselves are magical.
+
+h4. Necromantic Contamination
+
+The deeper regions of the catacombs, specifically those that venture towards the [[Quarantine Zone | Quarantine Zone]], remain contaminated by lingering necromantic energies. The effects are subtle at first. Ancient remains begin to stir. Bones shift when unobserved. The dead become increasingly animate.
+More disturbing still is the effect upon the surrounding landscape. The farther one travels from the structured catacombs, the more the natural caverns begin to imitate them. Pillars, alcoves, galleries, and ossuaries appear where no architect ever worked. Local wildlife begin to solemnly place their dead in the alcoves in a macabre echo of the funerary rites of SIndrel. It is as though the idea of the catacombs is slowly spreading through the earth.
+
+h3. Appearance 
+
+Most of the Houses have a dedicated archive whose external architecture is consistent with their house style (albeit typically rendered in black stone). The rest of the archives around the city follow a uniform template.
+
+h4. Exterior
+
+bq). Anywhere else, the Osteomantic Archives would be a grand hall. In Sindrel, where the single-storey building is dwarfed by the majestic structures around it, it looks oddly small and unassuming.
+A sense of otherness hangs about it. Every aspect of the building appears at odds with its surroundings. The lack of height, the black stone of its construction, the pointed arches, gargoyles, and crockets that infest its densely ornate form are all strange and out of place in a city that favours gleaming white stone and airy colonnades.
+
+h4. The Hall of Skulls
+
+bq). It takes a moment for your eyes to adjust to the gloom. As they do, you find yourselves in a wide hall. A pair of chandeliers hang overhead, casting a shifting light through the cool, dry air.
+On the wall opposite stand a pair of ornate doors, silver filigree glinting at their hinges. Yet it is the walls themselves that command attention. Floor to ceiling they are lined with small alcoves, each scarcely a foot across, and in every one rests a skull.
+Only after a moment does the full extent of the decoration become apparent. The chandeliers, the ornamentation around the pillars, even the decorative inlay worked into the floor are all fashioned from bone.
+Each alcove bears a small plaque naming the deceased. The remainder of each skeleton is carefully arranged around the skull in a compact display.
+
+<!-- GM_INFO_START -->
+This system was set up by Samhain, but she didn't see fit to share the knowledge with her compatriots. The labyrinthine nature of the catacombs has successfully obscured this fact from all but the highest level curators.
+
+h3. The Unfinished Archive
+
+Although the are commonly treated as a sealed relic of the dead House, the truth is more troubling. House Samhain did not gather its collections solely by the hands of its own scions. The archive depended on a wide and carefully obscured infrastructure of contractors, embalmers, corpse-porters, gravediggers, mortuary clerks, oath-bound servants, anatomical buyers, battlefield scavengers, charitable hospitals, prison factors, and other useful people who understood only their own small part of the work.
+
+When House Samhain fell, many of these arrangements did not end.
+
+Some agents were never told whom they truly served. Some continued to fulfil old contracts because payment still arrived through blind trusts, dead-letter offices, and self-renewing enchantments. Some hereditary obligations passed from parent to child as peculiar family trades. Others were not living agents at all, but animated functionaries given simple instructions and no reason to stop.
+
+The surviving Seven believed they had sealed the dangerous parts of Samhain's legacy. They did not understand how far the archive network extended, nor how much of its lower structure lay outside the mapped and sanctioned archive halls. As a result, corpses, records, relics, and fragments of memory continued to find their way into the deeper levels for years after the fall.
+
+In places touched by the Quarantine Zone's necromantic radiation, this process has become stranger still. The idea of the Archive spreads outward, impressing its pattern onto tunnels, crypts, abandoned cellars, ossuaries, plague pits, forgotten battlefields, and the underside of the city itself. Spaces that were never built as archives begin to behave as though they were always meant to be catalogued. Bones arrange themselves into displays. Old deaths acquire labels. Corridors remember routes no mason cut.
+
+The Archive is not merely preserved.
+It is still collecting.
+
+h3. The Caretakers
+
+The lower [[Osteomantic Archives | Osteomantic Archives]] are not abandoned in the ordinary sense. House Samhain is gone, but some of its custodial systems remain active.
+
+Most disturbing are the so-called caretakers: undead archivists, porters, arrangers, docents, menders, cleaners, and preparators who still follow instructions issued by masters who have been dead for centuries. They do not hate the living. They do not scheme. They do not understand that their work is over. They simply maintain the Archive.
+
+A caretaker might reassemble bones into the correct historical posture, replace a missing skull, polish a commemorative plaque, sort corpse-tags, repair a cracked display case, retrieve an escaped specimen, or drag a newly delivered body into its proper thematic chamber. Some are little more than skeletal servants with ritual tools. Others retain enough skill to embalm, annotate, bind spirits to bone, or construct new interpretive displays from battlefield remains.
+
+This explains how later historical material, including exhibits connected to the [[Seven Day War | Seven Day War]], can appear in archive spaces that originated with House Samhain. The chamber may be Samhain-built, but the display was updated after the House's fall by contractors, old collection channels, or undead custodians continuing their orders. The Archive's dead bureaucracy outlived the institution that created it.
+
+h4. GM Notes
+
+The caretakers should feel less like monsters than civil servants of a vanished atrocity. They may ignore intruders who behave like visitors, become agitated if displays are damaged, or attempt to incorporate fresh corpses into the nearest appropriate exhibit. Their politeness, where present, should make them worse.
+
+Possible caretaker behaviours:
+* silently correcting a fallen skeleton while combat continues around them;
+* asking intruders for a catalogue number, donation chit, or next-of-kin release;
+* misidentifying a living visitor as an overdue exhibit;
+* wheeling in a corpse from a conflict that happened decades after Samhain's fall;
+* becoming distressed because the Seven Day War display lacks "sufficient eyewitness material";
+* attempting to return Ayr's buckler, Pin's sword, or Deathwalker's head to "the relevant collection";
+* referring to the Fall of the Eighth House as a temporary interruption in staffing.
+<!-- GM_INFO_END -->

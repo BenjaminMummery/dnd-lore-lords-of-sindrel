@@ -1,0 +1,24 @@
+---
+op_id: f393390121d346dc9be6ef37805492f0
+op_slug: raymond-quill
+op_kind: Character
+op_type: Character
+name: Raymond Quill
+title: Raymond Quill
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/raymond-quill
+op_created_at: '2025-12-09T19:50:28Z'
+op_updated_at: '2026-03-12T11:32:50Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- he/him
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7433944/516db71a9a089cbb40109ce80dfa0971.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+Large, burly, and a complete bastard
+
+<!-- OP_BIO -->
+*  *4218 [[The Soulwind Calendar | SC]]*: Along with his brother [[:gillette-quill | Gillette]], Raymond spends most of the year carrying out a series of petty and uninspired thieveries targetting travellers up and down [[The Mage Road | The Mage Road]].
+* *24th of Enean 4218 [[The Soulwind Calendar | SC]]*: The brothers are interrupted by [[:wilrin-racenglade | Wilrin Ravenglade]] while plotting to rob the patrons of [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]. During the altercation, Raymond is incapacitated by the Adventurers. That evening he is guarded by [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] and [[:silrie-aegiskiir | Silrie Aegiskiir]], the latter of whom attempts to teach him the basics of meditation.
+* *25th of Enean 4218 SC*: Now under the custody of the Adventurers, Raymond rides the coach to Sindrel while trying to convey his new meditation knowledge to Gillette. During the Anathemist ambush, he remains pinned down in the coach unwilling to risk the archers above.

@@ -1,0 +1,51 @@
+---
+op_id: a2b2938e6334449ba46896f9d3375eeb
+op_slug: the-eighth-house
+op_kind: Wiki
+op_type: WikiPage
+name: The Eighth House
+title: The Eighth House
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-eighth-house
+op_created_at: '2026-02-01T21:33:20Z'
+op_updated_at: '2026-06-26T10:21:54Z'
+op_gm_only: false
+tags:
+- House of Sindrel
+---
+
+The rumoured house of Necromancers in Sindrel.
+
+Supposedly it was destroyed a thousand years ago in [[The Fall of the Eighth House | The Fall of the Eighth House]]. Today, only the [[Osteomantic Archives | Osteomantic Archives]] and the abandoned streets of the [[Quarantine Zone | Quarantine Zone]] remain of their contributions to the city.
+
+h3. Architecture
+
+Gothic - dark stone bedecked with pointed arches, gargoyles, and tasteful skull motifs. So far this has been seen only in the non-house affiliated [[Osteomantic Archives | Osteomantic Archives]],
+
+<!-- GM_INFO_START -->
+h2. House Samhain
+
+h3. Philosophy
+
+Before its fall, House Samhain embodied the virtue of Remembrance.
+
+While modern historians often remember the House solely for its necromancy, the Samhain necromancers saw themselves as custodians of memory, testimony, and legacy. Through their arts, the wisdom of the dead could be preserved and consulted long after mortal lifetimes had ended.
+
+To House Samhain, death was not an ending but a transition. The duty of the living was not to defeat mortality, but to remember those who had passed and preserve what they had learned.
+
+h3. Architecture
+
+Gothic. This survives only in the non-house affiliated [[Osteomantic Archives | Osteomantic Archives]], and the abandond streets of the [[Quarantine Zone | Quarantine Zone]]
+
+h3. What Survived the Fall
+
+The Fall of the Eighth House did not end every part of House Samhain's work. It ended the House as a recognised political body, destroyed or scattered its living leadership, and allowed the Seven to declare necromancy sealed away. It did not erase every contract, hidden route, blind trust, corpse-ledger, bound servant, or undead instruction buried beneath the city.
+
+House Samhain had built an archive too large and too secretive for any one faction to understand. Much of its collecting apparatus operated at a remove: contractors who never knew the name of their patron, mortuary workers paid through intermediaries, hereditary obligations disguised as trade customs, and custodial undead who required neither wages nor explanation. When the House fell, many of these systems continued.
+
+This is why parts of the [[Osteomantic Archives | Osteomantic Archives]] contain material from after Samhain's supposed end. The Seven assumed they had sealed a dead House. In truth, they had sealed a machine that still knew how to feed itself.
+
+The necromantic radiation of the [[Quarantine Zone | Quarantine Zone]] has only worsened this. The Archive's pattern now bleeds into surrounding spaces, teaching them to catalogue the dead. Old tunnels become galleries. Forgotten chambers become memorial halls. Corpses acquire context. History arranges itself into exhibits.
+
+House Samhain is gone.
+Its habits are not.
+<!-- GM_INFO_END -->

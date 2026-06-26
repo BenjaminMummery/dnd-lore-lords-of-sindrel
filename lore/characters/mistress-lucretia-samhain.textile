@@ -1,0 +1,39 @@
+---
+op_id: 11f333ae2b974be3b709e4022a731416
+op_slug: mistress-lucretia-samhain
+op_kind: Character
+op_type: Character
+name: Mistress Lucretia Samhain
+title: Mistress Lucretia Samhain
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/mistress-lucretia-samhain
+op_created_at: '2025-12-15T21:08:04Z'
+op_updated_at: '2026-06-24T19:13:24Z'
+op_gm_only: true
+is_player_character: false
+tags:
+- House Samhain
+- Lord of Sindrel
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7437630/1000025155.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+
+
+<!-- GM_INFO_START -->
+Mistress Lucretia Samhain is the ancient head of [[The Eighth House | House Samhain]] and one of the original [[The Octarion Circle | founders]] of Sindrel. Her House colour is black. Her symbolic item is [[:the-red-mourning | The Red Mourning]], a silver ring set with a magnificent jet black stone.
+
+Samhain was already immortal before the [[:peaches-of-immortality | peaches of Zotikó]] were stolen. As a vampire, she had no need of them, and so did not eat one.
+
+When the rift-control infrastructure was later repurposed for colonial ambitions, Samhain opposed the project. The Seven planned to lure her into Thanismot and stabilise the rift behind her, trapping her there and removing the only founder willing to resist Sindrel's expansion. Samhain anticipated the betrayal. Loyal members of House Samhain had already been moved into Thanismot. As the rift sealed behind her, she wove a spell around those of her House who remained in Sindrel. They died, denying the Seven access to necromantic expertise.
+
+The Seven believed that by sealing Samhain in the world of mortality they had condemned her to starvation, decay, or eventual death. They were wrong. Thanismot's death-energy sustains her. It is the first place where she has ever been free of the thirst for blood. Samhain has lived in Thanismot with the loyal remnants of House Samhain ever since her betrayal.
+
+Samhain is unaware of the modern plan to move Sindrel bodily into Kosmios.
+
+h3. Depictions
+
+In most statues and paintings of the founders, Samhain is omitted or, if the artwork depicts the fall of the eighth house, has been erased. In surviving artworks, she is a shown as a tall, slim woman with jet black hair wearing a form fitting dress, corset, and bolo jacket. She's the most vampire who ever vampired.
+<!-- GM_INFO_END -->

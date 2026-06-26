@@ -1,0 +1,42 @@
+---
+op_id: eee373837b7b42ae83fffb913d22290c
+op_slug: high-summoner-nial-beltus
+op_kind: Character
+op_type: Character
+name: High Summoner Nial Beltus
+title: High Summoner Nial Beltus
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/high-summoner-nial-beltus
+op_created_at: '2025-12-22T16:52:21Z'
+op_updated_at: '2026-06-24T16:35:53Z'
+op_gm_only: true
+is_player_character: false
+tags:
+- House Beltus
+- Lord of Sindrel
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+
+
+<!-- GM_INFO_START -->
+High Summoner Nial Beltus is the ancient head of [[House Beltus | House Beltus]] and one of the surviving [[The Octarion Circle | founders]] of Sindrel. His symbolic item is [[:the-crown-of-shadows | The Crown of Shadows]], and the colour of his House is yellow, although this is typically styled as gold.
+
+Nial's power was built on conjuration at a scale no ordinary Caller could imagine. For centuries, he commanded, bound, bargained with, and exploited beings drawn from elsewhere. House Beltus's great civic works rely on the idea that the summoned can be controlled, contracted, and made useful.
+
+Nial now carries the cost of that certainty inside himself.
+
+The voices and suffering of the beings he summoned have accumulated within him. Whether they are ghosts, echoes, psychic scars, bound fragments, or something worse is unclear. What is clear is that he is no longer alone in his own mind. His personal torment is sometimes understood as a demon he accidentally conjured and cannot dispel. A deeper reading is that this demon is not an outside enemy at all, but a construct formed from his own psyche and the accumulated consequences of industrial conjuration.
+
+Nial fears that one day the relationship will reverse completely, and he will find himself on the circle of the summoned rather than the summoner.
+
+h4. The Founder’s Burden
+
+House Beltus believes in command: call, bind, name, bargain, dismiss. Nial's curse is that every command leaves an answer behind. The Crown of Shadows is therefore an apt symbol. It marks sovereignty over the unseen, but also suggests that his authority has become crowded by everything he once forced into obedience.
+
+h4. Depictions
+
+In statues and paintings of the founders, Nial Beltus is shown as a male Drow with ash-coloured skin and white hair. He wears a form-fitting robe with a high collar. Two demonic dogs walk at his heels.
+<!-- GM_INFO_END -->

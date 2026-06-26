@@ -1,0 +1,23 @@
+---
+op_id: a47b6e3ea9444853a1dd4ee5452f4b72
+op_slug: emerich-surefoot
+op_kind: Character
+op_type: Character
+name: Emerich Surefoot
+title: Emerich Surefoot
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/emerich-surefoot
+op_created_at: '2026-03-12T10:37:19Z'
+op_updated_at: '2026-03-12T11:44:24Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- Black Cats
+- he/him
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7492296/emerich.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+

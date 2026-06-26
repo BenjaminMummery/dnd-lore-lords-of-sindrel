@@ -1,0 +1,21 @@
+---
+op_id: 4b956b3b793641ce80656e74c1fa02a1
+op_slug: serjeant-eirik-tryke
+op_kind: Character
+op_type: Character
+name: Serjeant Eirik Tryke
+title: Serjeant Eirik Tryke
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/serjeant-eirik-tryke
+op_created_at: '2026-06-25T17:09:12Z'
+op_updated_at: '2026-06-25T17:09:12Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- House Meness
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+

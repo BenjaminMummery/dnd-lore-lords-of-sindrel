@@ -1,0 +1,22 @@
+---
+op_id: de6ee025afd44eb68b4eeab17bda2755
+op_slug: kithrak-the-black
+op_kind: Character
+op_type: Character
+name: Kithrak the Black
+title: Kithrak the Black
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/kithrak-the-black
+op_created_at: '2026-04-23T10:25:43Z'
+op_updated_at: '2026-04-23T10:30:07Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- Deceased
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7516421/olivier-bernard-black-dragon-dnd-rhashaak-olivier-bernard.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+Kithrak the Black, scourge of Arkay, the starless shadow, ruinous lord of the North.
+
+<!-- OP_BIO -->
+Kithrak the Black was a colossal and ancient Black Dragon whose territory spanned much of the [[Arkay Mountain Range | Arkay Mountain range]]. He was ultimately defeated by the mages who would go on to become the founders of Sindrel. His bones are displayed in the [[Osteomantic Archives | Osteomantic Archives]].

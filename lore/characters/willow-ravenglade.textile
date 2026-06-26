@@ -1,0 +1,21 @@
+---
+op_id: 296cf30dcb054a71bfcc585e8aedd604
+op_slug: willow-ravenglade
+op_kind: Character
+op_type: Character
+name: Willow Ravenglade
+title: Willow Ravenglade
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/willow-ravenglade
+op_created_at: '2026-01-15T11:42:48Z'
+op_updated_at: '2026-01-15T11:42:48Z'
+op_gm_only: true
+is_player_character: false
+tags:
+- character backstory
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+

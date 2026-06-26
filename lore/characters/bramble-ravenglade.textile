@@ -1,0 +1,21 @@
+---
+op_id: 097b4fc881f64cc59a190317da67afa0
+op_slug: bramble-ravenglade
+op_kind: Character
+op_type: Character
+name: Bramble Ravenglade
+title: Bramble Ravenglade
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/bramble-ravenglade
+op_created_at: '2026-01-15T11:43:14Z'
+op_updated_at: '2026-01-15T11:43:14Z'
+op_gm_only: true
+is_player_character: false
+tags:
+- character backstory
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+

@@ -1,0 +1,33 @@
+---
+op_id: 2ebb495cec584f188de0a87b1b16bf64
+op_slug: navinea-senetera
+op_kind: Character
+op_type: Character
+name: Navinea Senetera
+title: Navinea Senetera
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/navinea-senetera
+op_created_at: '2026-01-27T21:14:29Z'
+op_updated_at: '2026-06-25T22:39:51Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- House Grimbolg
+- Factor
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481335/5ff2734b2cc3bb611c0b4aa073e0acd1.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+An enormous, no-nonsense earth genassi in hard-wearing leathers.
+
+<!-- OP_BIO -->
+[[:rossin-ros-greyhirst | Ros]]'s insight into interconnected natural systems and their application to Sindrel are of particular interest to Navinea. She intends to organise a roundtable with Ros and senior transmuters.
+
+She is concerned with system failure, entropy, and Sindrel’s resource vulnerability.
+
+She assumes that the Anathemists are responsible for the incidents of sabotage, but [[:pin | Pin]] noticed this was an assumption rather than a proven fact.
+
+<!-- GM_INFO_START -->
+Spies Leads:
+
+bq). There is no point closing the stable door when the horse has already bolted. We should be focussing on increasing security around critical infrastructure in order to prevent the _next_ attack.
+<!-- GM_INFO_END -->

@@ -1,0 +1,27 @@
+---
+op_id: 72799128ec3843bbb489b2f8b72126af
+op_slug: wilrin-racenglade
+op_kind: Character
+op_type: Character
+name: Wilrin Ravenglade
+title: Wilrin Ravenglade
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/wilrin-racenglade
+op_created_at: '2025-12-14T17:07:18Z'
+op_updated_at: '2026-03-12T11:32:02Z'
+op_gm_only: false
+is_player_character: true
+tags:
+- he/him
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2026-01-15_at_14.33.55.jpeg
+---
+
+<!-- OP_DESCRIPTION -->
+h3. Key Items
+* [[:anasthetic-scalpel | Anasthetic Scalpel]]
+
+<!-- OP_BIO -->
+
+
+<!-- GM_INFO_START -->
+The time fuckery of the [[Midsummer Enclave | Midsummer Enclave]] means that wilrin's experiences within it do not have to line up temporally with the rest of the world. He may have returned before he left - his parents can be young, active members of society!
+<!-- GM_INFO_END -->

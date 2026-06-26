@@ -1,0 +1,22 @@
+---
+op_id: 1cb4e852c161448fb5111f85a43e3b5d
+op_slug: soulwind
+op_kind: Wiki
+op_type: WikiPage
+name: Soulwind
+title: Soulwind
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/soulwind
+op_created_at: '2025-11-24T22:45:27Z'
+op_updated_at: '2026-01-03T09:50:18Z'
+op_gm_only: false
+tags:
+- location
+- city
+- arcan
+---
+
+Crumbling metropolis, once a seat of magical learning.
+
+Soulwind is notable for [[The Soulwind Calendar | The Soulwind Calendar]], a horological system widely used across [[Arcan | Arcan]]. It is linked to its closest major neighbour, [[Sindrel | Sindrel]], by [[The Mage Road | The Mage Road]].
+
+The estate of the von Phthasia family is in Soulwind, and it is from here that [[:dulcinia-von-phthasia | Dulcinia von Phthasia]] and her bodyguard [[:pthul | Pthul]] departed for [[Sindrel | Sindrel]].

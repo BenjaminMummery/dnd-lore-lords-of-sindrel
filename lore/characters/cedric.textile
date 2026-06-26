@@ -1,0 +1,20 @@
+---
+op_id: d60c6f3ca5b240aabbf1ae1063a7ba57
+op_slug: cedric
+op_kind: Character
+op_type: Character
+name: Cedric
+title: Cedric
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/cedric
+op_created_at: '2026-06-01T16:48:14Z'
+op_updated_at: '2026-06-01T16:48:14Z'
+op_gm_only: false
+is_player_character: false
+tags: []
+---
+
+<!-- OP_DESCRIPTION -->
+Butler of [[Radwasp House | Radwasp House]]
+
+<!-- OP_BIO -->
+

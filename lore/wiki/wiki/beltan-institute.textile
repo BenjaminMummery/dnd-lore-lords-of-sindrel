@@ -1,0 +1,43 @@
+---
+op_id: 628d1fa3b69f45a08b3907e53d22ae3b
+op_slug: beltan-institute
+op_kind: Wiki
+op_type: WikiPage
+name: Beltan Institute
+title: Beltan Institute
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/beltan-institute
+op_created_at: '2026-06-24T15:29:28Z'
+op_updated_at: '2026-06-24T15:55:26Z'
+op_gm_only: true
+tags: []
+---
+
+bq). The Canted Terrace is one of Sindrel's upper districts, although the people who lived in the really upper districts are careful to describe it as “practically middle-city,” usually while looking away. It occupies a high spur of stone and old civic compromise, built at an angle to almost everything else. 
+The Terrace is respectable. It has polished steps, iron lamps, ceremonial gutters, and enough carved stonework to convince visitors that money had once passed through the area at speed. But it is not fashionable. Fashionable districts have views. The Canted Terrace has walls. Very nice walls, admittedly, and very expensive ones, but walls all the same.
+These walls perform an important civic function. They ensure that the residents of [[Merrylane | Merrylane]] and the other glittering neighbourhoods do not have to look directly at the Beltan Institute. Everyone knows where the Canted Terrace is. Coachmen knew three routes through it and four reasons why none of them were their fault.But nobody seems fully comfortable with a place where unspeakable horrors from nightmares are welcomed in on a daily basis.
+Connecting the terrace to the tier below are a series of what appear to be brass columns. A moment's observation reveals the steady flow of refuse carts clustering around their bases like ants. There are some byproducts of summoning too magically unstable to risk sending through a teleportation gate, and these are Beltus's solution - sealed waste channels that rely on old-fashioned gravity to carry the waste away from the Institute to be dealt with elsewhere. You can still see the scorch marks around the base of one of them, the aftermath of [[:caller-georg | Caller Georg]]'s ill-fated summoning.
+The Beltan Institute stands on the Canted Terrace with the air of a building that had been asked, repeatedly and by very senior people, not to explode. From the front, the Institute is austere and grand. Its doors are blackwood banded in brass. Its windows are tall, narrow, and suspiciously thick. Its facade is decorated with the names of famous Callers. House Beltus's characteristic grandeur is in evidence, but with a strangely muted air. Concessions to functionality and a certain degree of discretion have restrained their usual excesses.
+
+
+The Beltan Institute is [[House Beltus | House Beltus]]'s official centre for regulated summoning, binding, banishment, and pact-work. It is where significant conjurations are performed under House supervision, with containment circles, witnesses, scribes, wardens, banishment teams, and contractual records.
+
+The Institute stands on the [[The Canted Terrace | Canted Terrace]], one of Sindrel's upper levels. The terrace is high enough to be respectable and close enough to power to be official, but it is carefully offset from [[Merrylane | Merrylane]] and the richest neighbourhoods. Its walls, domes, purge-flues, and warding towers are hidden behind screens of stone, ornamental facades, and deliberate sightline tricks. Everyone who matters knows where the Institute is, but the city's most fashionable residents are spared the inconvenience of looking at it.
+
+The public halls of the Institute are severe, old, and prestigious. They are lined with portraits of famous Callers, sealed contracts, ritual trophies, and relics taken from successful conjurations. Deeper within, the building becomes more practical: brass-inlaid circles, observation galleries, warded summoning theatres, purge-flues, emergency banishment stations, and sealed refuse routes leading down into the service levels beneath the upper city.
+
+h3. Location
+
+The Institute is located on the Canted Terrace, an upper-level Beltus holding set back from Merrylane and screened from the richest neighbourhoods. Its public frontage is dignified and almost austere; its working sides are hidden behind blind walls, false facades, service galleries, and warded vents. The Institute is not secret, but it is discreetly placed so that the wealthy may benefit from Beltan expertise without being reminded too often of what that expertise requires.
+
+h3. Public reputation
+
+To House Beltus, the Institute is proof of discipline. To its critics, it is a polite name for a building where monsters are invited indoors. Most citizens prefer not to think about it unless they need something summoned, bound, banished, interpreted, or contained.
+
+h3. Anathemist Sabotage
+
+[[:caller-georg | Caller Johann Georg]]'s ill-fated summoning took place in one of the Institute's formal summoning halls. When the demon broke free, possessed him, and drove him through the portrait-lined corridors. It was not merely a magical accident, it was a humiliation inside the very institution meant to prove that House Beltus could make the impossible safe, respectable, and obedient.
+
+<!-- GM_INFO_START -->
+bq). Inside are portrait galleries, contract archives, formal summoning halls, observation balconies, banishment stations, warded corridors, sealed refuse routes, and a number of doors labelled with instructions rather than names. The most reassuring of these say things like AUTHORISED PERSONNEL ONLY. The least reassuring say things like DO NOT ANSWER IF IT KNOCKS.
+The Institute's public rooms are designed to imply that summoning is a mature civic science.
+<!-- GM_INFO_END -->

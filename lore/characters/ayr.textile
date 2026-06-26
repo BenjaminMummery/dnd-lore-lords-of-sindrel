@@ -1,0 +1,30 @@
+---
+op_id: 42cee9f0b8134dccab7714a196fd04d5
+op_slug: ayr
+op_kind: Character
+op_type: Character
+name: Ayr
+title: Ayr
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/ayr
+op_created_at: '2025-12-14T17:05:38Z'
+op_updated_at: '2026-03-12T11:31:32Z'
+op_gm_only: false
+is_player_character: true
+tags:
+- he/him
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457458/WhatsApp_Image_2026-01-10_at_17.20.08.jpeg
+---
+
+<!-- OP_DESCRIPTION -->
+https://www.dndbeyond.com/characters/156087500
+
+<!-- OP_BIO -->
+
+
+<!-- GM_INFO_START -->
+2. What do they most regret leaving behind?
+- He really liked a good card game, and living this new life isn't nearly as fun as what he had before.  He misses his old "family" and bonds, and wishes he could have that once again.
+
+3. What rumour(s) might somebody else have heard about your character? (true or false, although please let me know which are which!)
+- The whole bit about being a thief in a previous life and how he came to lose his eye while taking on a job, versus just being a mislaid adventurer exploring for fun.  His past dark life stands stands to tarnish his shiny new armour should this become well known.
+<!-- GM_INFO_END -->

@@ -1,0 +1,21 @@
+---
+op_id: 5eadf7f45edb4c789eb040bfe4b4692e
+op_slug: razorbeak
+op_kind: Character
+op_type: Character
+name: Chicken
+title: Chicken
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/razorbeak
+op_created_at: '2026-03-16T16:30:49Z'
+op_updated_at: '2026-06-01T17:17:55Z'
+op_gm_only: false
+is_player_character: false
+tags: []
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7494085/Screenshot_2026-03-16_at_16.34.02.png
+---
+
+<!-- OP_DESCRIPTION -->
+Just a regular chicken. Definitely nothing suspicious about it.
+
+<!-- OP_BIO -->
+

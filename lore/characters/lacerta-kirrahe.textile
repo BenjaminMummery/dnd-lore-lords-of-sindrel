@@ -1,0 +1,30 @@
+---
+op_id: 064086d8f0834860a1c5a93dd3d5eefb
+op_slug: lacerta-kirrahe
+op_kind: Character
+op_type: Character
+name: Captain Kirrahe
+title: Captain Kirrahe
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/lacerta-kirrahe
+op_created_at: '2025-12-21T09:26:14Z'
+op_updated_at: '2026-03-12T11:43:08Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- Vermillion Company
+- Deceased
+- he/him
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7440781/fef5e54185b45d487f1f2f2cfdda15bf.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+* *Enean of 4218 [[The Soulwind Calendar | SC]]*: [[The Vermillion Company | the Vermillion Company]] are hired by the proprietors of [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]] to protect the coach to [[Sindrel | Sindrel]].
+* *24th Enean 4218 SC*: the captain is peripherally involved in the altercation between the [[The Adventurers | Adventurers]], [[:pthul | Pthul]], and the [[:gillette-quill | Quill]] [[:raymond-quill | brothers]].
+* *25th Enean 4218 SC*: During an [[Anathemists | Anathemist]] ambush of the [[:sindrel-coach | Sindrel coach]], the captain is shot and killed by [[:commander-wake | the Anathemist Leader]] using an unknown weapon.
+
+<!-- GM_INFO_START -->
+lacerta-kirrahe
+<!-- GM_INFO_END -->

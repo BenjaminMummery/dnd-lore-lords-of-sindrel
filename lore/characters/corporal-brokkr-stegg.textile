@@ -1,0 +1,22 @@
+---
+op_id: 07d0ce67cf8f4bae89c0522fe2d92556
+op_slug: corporal-brokkr-stegg
+op_kind: Character
+op_type: Character
+name: Corporal Brokkr Stegg
+title: Corporal Brokkr Stegg
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/corporal-brokkr-stegg
+op_created_at: '2026-06-25T17:12:39Z'
+op_updated_at: '2026-06-25T17:12:39Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- House Meness
+- he/him
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+

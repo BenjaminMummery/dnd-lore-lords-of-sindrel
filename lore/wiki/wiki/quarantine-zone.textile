@@ -1,0 +1,43 @@
+---
+op_id: bfca45581bef4281987c4945c4d5f2a7
+op_slug: quarantine-zone
+op_kind: Wiki
+op_type: WikiPage
+name: Quarantine Zone
+title: Quarantine Zone
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/quarantine-zone
+op_created_at: '2026-02-01T21:34:49Z'
+op_updated_at: '2026-06-24T19:08:08Z'
+op_gm_only: false
+tags:
+- location
+- Sindrel
+---
+
+At the heart of the Quarantine Zone stand the ruins of [[The Eighth House | The Eighth House]], sealed away since the fall. The district remains contaminated by dangerous necromantic energies that have resisted every attempt at reclamation for nearly a thousand years. Though the walls surrounding the Zone are maintained, breaches inevitably appear, drawing scavengers, treasure hunters, and the desperate into its abandoned streets. Most never return. For the rest of [[Sindrel | Sindrel]], the Quarantine Zone serves as both a physical hazard and a permanent uncomfortable reminder that even the greatest of the Founders could fail.
+
+<!-- GM_INFO_START -->
+The House Samhain hq is known as the Sacrum
+
+h3. Anathemist Staging Ground
+
+The Sacrum was used by the [[Anathemists | Anathemist]] cell as a staging ground inside the Quarantine Zone. The enchanted armour samples acquired through [[:kelferria-the-smith | Kelferria]] allow the conspirators to operate there with reduced risk.
+
+Stolen sulfur, stolen nitre, purchased charcoal, false Oestra armour, kidnapped [[:nielsenn | Nielsenn]], and other operational supplies were moved here in stages. After the [[Ditchquer | Ditchquer]] heist, [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] brought [[:nielsenn | Nielsenn]] back to the headquarters and killed him, leaving his body to rot.
+
+The Sacrum contains evidence of repeated supply movement: charcoal residue, chemical traces, armour preparation, copied-route notes, and signs that people moved through the site in disguise rather than lived there openly.
+
+h3. The Layered Wound
+
+The Quarantine Zone is a real necromantic disaster zone, but not for the reason the public believes.
+
+At its core is the scar left by Samhain's severing spell and the deaths of the Samhainites who remained in Sindrel when the rift sealed behind her. Their deaths, combined with the violent closure of the way to Thanismot, left a necromantic wound in the city. 
+
+And then the Seven then made matters worse. Their attempts to purge, contain, study, or control what remained of House Samhain damaged the area further. Some dangers now blamed on Samhain are actually the result of the Seven's intervention. 
+
+The Zone is also useful. Its danger made the public story believable. It stands as visible proof that Samhain had sacrificed her followers and cursed her own House.
+
+h3. What Remains
+
+The Quarantine Zone still contains fragments of House Samhain. These include broken civic infrastructure, old streets, courts, ossuaries, homes, academies, hospitals, memory-archives, and necromantic wards. Some undead within the Zone are not monsters, but custodians: librarians, witnesses, wardens, failed evacuees, or caretakers still trying to fulfil duties assigned centuries ago. The Zone also contains [[:the-red-mourning | The Red Mourning]], Samhain's ring which she modified to hold a black stone from Thanismot. It is not a portal or rift-key. It is a clue, a tool of remembrance, and a way to call to the dead.
+<!-- GM_INFO_END -->

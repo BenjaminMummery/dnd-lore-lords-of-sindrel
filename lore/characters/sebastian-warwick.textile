@@ -1,0 +1,35 @@
+---
+op_id: 1fa4c6baa1344fd2860a41f7c01e76c9
+op_slug: sebastian-warwick
+op_kind: Character
+op_type: Character
+name: Private Sebastian Warwick
+title: Private Sebastian Warwick
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/sebastian-warwick
+op_created_at: '2026-01-26T17:09:14Z'
+op_updated_at: '2026-03-12T11:37:24Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- House Meness
+- Adjutant
+- he/they
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469931/ba348eb47975d34b43f5ca2a6c77415c.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+*Eptan, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- Private Warwick accidentally poisons his commanding officer's dog. While the hound makes a full recovery, Warwick earns the ire of the officer. He is posted to the [[Fallowhurst Outpost | Fallowhurst Outpost]] as a form of non-official punishment.
+
+*25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- The [[The Adventurers | The Neighbourhood Wonch]], escaping [[Fallowhurst | Fallowhurst]], arrive at [[Fallowhurst Outpost | Fallowhurst Outpost]]
+
+*26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- Warwick records the adventurers's account of their journey in a [[:private-warwick-s-report | report]] for his superiors.
+- [[The Adventurers | The Adventurers]] depart for Sindrel.

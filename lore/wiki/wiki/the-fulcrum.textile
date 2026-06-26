@@ -1,0 +1,60 @@
+---
+op_id: 6fa7cadf93784d9885bb792317fc8305
+op_slug: the-fulcrum
+op_kind: Wiki
+op_type: WikiPage
+name: The Fulcrum
+title: The Fulcrum
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-fulcrum
+op_created_at: '2026-02-17T22:22:49Z'
+op_updated_at: '2026-06-25T22:28:25Z'
+op_gm_only: false
+tags:
+- location
+---
+
+A tower-like structure at the centre of [[Sindrel | Sindrel]]. The Fulcrum serves as the administrative hub of the city - it is where the current [[The Octarion Circle | The Octarion Circle]] meets, and where major events like the opening and closing ceremonies of the [[Ditchquer | Ditchquer]] tournament are held.
+
+h2. Appearance
+
+bq). The Fulcrum stands at the center of [[Sindrel | Sindrel]] in the way that a needle stands at the center of a lepidopterist's prize butterfly. Its existence is an obvious necessity - a council made up of all seven jealous and powerful houses must have a space from which to rule. By the same token, those matters of city life that must be administered need a place for the paperwork to get filed. And, most pressingly for the populace at large, when the city needs to put on a celebration or show of unity, there must be a suitable gathering place.
+The _form_ that the structure takes, however, is anything but a utilitarian necessity. Despite being only a few dozen feet wide, it rises from its octagonal base for over a mile into the sky, piercing through the strata of Sindrel's ever more rarified classes, and ultimately through several distinct weather systems. Clouds arrive halfway up, take one look at the upper stories, and apparently decide they live there now. On every side it is enclosed by the latticework of bridges and walkways that link the myriad spires of Sindrel, yet not a single one dares touch the pristine white marble of its skin.
+Architecture is an art, and art, by its nature, contains messages. This is the Fulcrum's first message:
+_"We are might. Regardless of how mighty you think yourself to be, you will descend to walk upon the earth and gaze up at our power before you may enter."_
+Circling its base, moat-like, is the broad pond known as the Wellspring. From this bubbling heart spreads an arterial network of canals, viaducts, portals, and, when all else fails, good old fashioned plumbing that supplies the liquid needs of the entire city.
+And this is the Fulcrum's second message:
+_"We are sustenance. Without our beneficence, you would surely perish."_
+Among all the waterways that flow from the Wellspring, there is one that clearly dominates. A great artificial river meanders through markets, beneath bridges, and past districts whose waterfront views justify unreasonably high rents, before hurling itself from the city's edge in a magnificent and ostentatiously impossible waterfall.
+And this is the Fulcrum's third message:
+_"We are wasteful. Our power and wealth are so great that we can afford to spend away one of our most necessary resources merely to show off."_
+The entrance to the Fulcrum is a series of wide arches, open and inviting. There is no security on display, no gate to close.
+_"You are welcome"_ would be a charitable reading.
+The cynical observer hears instead:
+_"You are no threat. What could you possibly do to us?"_
+
+h3. Functional Details
+
+A series of tunnels run below the fulcrum providing access to storage, kitchens, servants doors, and the magical machinery that feeds water to the wellspring. Hidden / low-visibility service entrances are concealed among the buildings near the Fulcrim's base. Following the bombing, these are descritely guarded by officers of [[House Meness | House Meness]].
+
+The northwest foundation pillar was cracked by the bombing and later repaired by shaped stone.
+
+The Wellspring water is not produced beneath the Fulcrum but channelled from The Cornucopia.
+
+<!-- GM_INFO_START -->
+h3. Ditchquer Diversion
+
+The explosives beneath The Fulcrum were spectacular, but their deeper purpose was diversion. The blast drew [[House Oestra | House Oestra]] attention and reinforcements away from the [[Osteomantic Archives | archive]] route and [[:silas-oestra | Silas Oestra]]'s rooms.
+
+The bombs were dangerous enough that a full simultaneous detonation might have caused catastrophic structural failure, but the conspirators’ primary objective was still diversion and panic rather than the destruction of the Fulcrum for its own sake.
+
+h3. Interior of the Fulcrum
+
+* the ground floors are a grand exhibition space, suitable for ceremonies and other civic events. The walls are decorated with a huge mural depicting the 7 founders, their characteristic items picked out in electrum inlaid into the walls. 
+* Most of the building is beurocratic - meeting rooms, offices, archives, things of this nature.
+* The top floors are the council chambers where the Octarion Circle meet.
+* "Enchanted suits of armour":https://www.dndbeyond.com/monsters/16786-animated-armor guard the door to the upper floors. 
+
+bq). Just like the exterior, the main hall of the Fulcrum is engineered precisely to inspire awe. The ceiling soars high overhead into shadowy distances where beams and vaults disappear into gloom, allowing visitors to imagine whatever they find most intimidating. The floor is polished stone so smooth and reflective that dignitaries crossing it appear to be walking upon a dark and expensive lake. Every footstep echoes with the satisfying certainty of a building that knows exactly how important it is.
+Eight colossal pillars rise at the angles of the hall. Each is elaborately carved with scenes of the city's history, which in defiance of all known actual history appears to consist almost entirely of glorious victories, wise decisions, and remarkably handsome civic leaders. The walls between the pillars are dominated by vast stylised murals depicting the Seven Founders. They gaze down from impossible heights with the serene confidence of people who know that they are safely dead and therefore beyond criticism. Their robes billow heroically. Their swords gleam majestically. Even the dwarven founder of House Meness appears to have taken on a towering and mighty stature. Electrum picks out every detail. Threads of pale gold and silver catch the light and scatter it across the chamber. Halos of metal trace crowns, weapons, books, tools, and symbols of office. Blades shimmer. Stars sparkle. Armour glints. Wherever the eye settles, it finds another flash of precious metal waiting patiently to remind it that somebody paid a fortune for all this decoration and would very much like that fact to be appreciated.
+At the centre of the hall stands a raised dais of black stone, reached by broad shallow steps designed to make anyone ascending them feel ceremonial and anyone descending them feel victorious. Above it hangs an enormous chandelier whose sole purpose appears to be demonstrating that, for the lords of Sindrel, gravity is merely a recommendation.
+<!-- GM_INFO_END -->

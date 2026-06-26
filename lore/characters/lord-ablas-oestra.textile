@@ -1,0 +1,39 @@
+---
+op_id: b5905d329c974734a0bf65293f730993
+op_slug: lord-ablas-oestra
+op_kind: Character
+op_type: Character
+name: Lord Ablas Oestra
+title: Lord Ablas Oestra
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/lord-ablas-oestra
+op_created_at: '2025-11-26T18:29:51Z'
+op_updated_at: '2026-06-24T16:25:14Z'
+op_gm_only: true
+is_player_character: false
+tags:
+- House Oestra
+- Lord of Sindrel
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7440785/bdbdb62fda17e7b45427df2f2b00c397.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+
+
+<!-- GM_INFO_START -->
+Lord Ablas Oestra is the ancient head of [[House Oestra | House Oestra]] and one of the surviving [[The Octarion Circle | founders]] of Sindrel. His symbolic item is the sword [[:the-gladius | Gladius]], and the colour of his House is red.
+
+Ablas is the master of House Oestra's destructive tradition, but his evocation has grown beyond ordinary control. His own power burns too fiercely to be safely housed in an unprotected body. Without containment, he would incinerate the room around him.
+
+For this reason, Ablas must remain sealed within magical containment armour. The armour is not merely ceremonial or defensive. It is a prison, a regulator, and a warning. It allows the Lord of House Oestra to continue existing among others without destroying them by proximity.
+
+h4. The Founder’s Burden
+
+House Oestra prizes duty, force, battle, and decisive action. Ablas has become a living weapon, but one too dangerous to draw. The Sword remains the perfect symbol for him: power focused to a killing edge, useful only when controlled, disastrous when mishandled.
+
+h4. Depictions
+
+In paintings and statues of the founders, Lord Oestra is shown as a human male of regal bearing clad in heavy armour. Haughty, aggressive, and vain.
+<!-- GM_INFO_END -->

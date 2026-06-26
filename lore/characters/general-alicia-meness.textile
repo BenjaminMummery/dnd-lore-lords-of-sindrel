@@ -1,0 +1,41 @@
+---
+op_id: 298ff1b7fdc04f039d4ffff29710204a
+op_slug: general-alicia-meness
+op_kind: Character
+op_type: Character
+name: General Alicia Meness
+title: General Alicia Meness
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/general-alicia-meness
+op_created_at: '2025-12-22T23:47:34Z'
+op_updated_at: '2026-06-24T16:28:55Z'
+op_gm_only: true
+is_player_character: false
+tags:
+- Lord of Sindrel
+- House Meness
+- she/her
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457686/meness.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+
+
+<!-- GM_INFO_START -->
+General Alicia Meness is the ancient head of [[House Meness | House Meness]] and one of the surviving [[The Octarion Circle | founders of Sindrel]]. Her symbolic item is the shield [[:the-cel-s | Celæs]] , and the colour of her House is white.
+
+Alicia's abjurative magic has become almost perfectly adaptive. It learns from every harm, every threat, every force brought against her, and alters itself to ensure that such a thing can never hurt her in the same way again.
+
+The tragedy is that her protection never truly recedes. Each defence remains. Each adaptation becomes another layer between Alicia and the world. She can no longer feel touch or heat. She can no longer hear. The world reaches her only through those channels her protections have not yet sealed away. She fears that if she were ever attacked by light, her magic would adapt again and blind her permanently.
+
+h4. The Founder’s Burden
+
+House Meness prizes courage, defence, duty, and the protection of others. Alicia has become the perfect expression of that ideal and its prisoner. Nothing can reach her. That includes comfort, warmth, ordinary sensation, and perhaps eventually all companionship.
+Her shield has not failed. It has succeeded too completely.
+
+h4. Depictions
+
+In paintings and statues of the founders, Alicia Meness is shown as a female dwarf in heavy plate armour. She carries a tower shield almost taller than she is, and sword with swordbreaker teeth. Her hair is steel grey and pulled back into a sensible ponytail. She is stoic and solid.
+<!-- GM_INFO_END -->

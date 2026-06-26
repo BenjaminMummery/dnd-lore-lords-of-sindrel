@@ -1,0 +1,41 @@
+---
+op_id: 1a77059c671b40409c526655c31889c4
+op_slug: the-thaumocracy-of-tellerin
+op_kind: Wiki
+op_type: WikiPage
+name: The Thaumocracy of Tellerin
+title: The Thaumocracy of Tellerin
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-thaumocracy-of-tellerin
+op_created_at: '2025-12-22T01:41:31Z'
+op_updated_at: '2026-01-30T16:35:05Z'
+op_gm_only: false
+tags:
+- Organisation
+- location
+---
+
+The Thaumocratic Empire of Tellerin once covered much of the south of the continent. They are typically remembered as being a dark and threatening force, famous for their use of necromancers in battle.
+
+Following their failed attempt to invade [[The Magedom of Houd | The Magedom of Houd]] in [[World History | 3953]] SC, the empire withdrew. Most of the outer colonies were abandoned and the imperial core closed its borders to outsiders. Of their current political or social structure little is known.
+
+<!-- GM_INFO_START -->
+h3. History
+
+v3953 SC (roughly 250 years ago
+
+The death of magic was felt more swiftly and keenly in the south, which prompted the leaders of the Thaumocracy to push north. In 3951 SC, growing desperate, the thaumocrats attempted an invasion of the northern kingdoms, primarily [[The Magedom of Houd | The Magedom of Houd]]. 
+
+The decisive battle was fought on the Planes of Herrman, where a stalemate between the attacking Tellerites and the beleagured Houdians was ended by the timely arrival of Houdian reinforcements. The bulk of the Tellerite forces were delayed by the Battle of Brassmeade Bridge where, according to the tales, a single bezerker held the narrow bridge against the vastly superior force for a full day.
+
+h3. Political Structure
+
+The position of Emperor of Tellerin was a lifetime appointment chosen by a contest of magical power, making the empire theoretically a meritocracy.
+
+h3. History
+
+The death of magic was felt more quickly in the south. In 3952 SC, growing desperate in the face of diminishing power, Emperor Virkine III launched an invasion of [[The Magedom of Houd | The Magedom of Houd]] to the north. This would become known as the Seven Day War.
+
+Following defeat at the hands of Houdi defenders, Virkine was assassinated by his grand vizier Hurletoros the Black, sparking a civil war that has ravaged the empire. 
+
+Imperial forces still man the borders, but whatever remains of the Thaumocracy is deeply insular
+<!-- GM_INFO_END -->

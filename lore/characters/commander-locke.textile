@@ -1,0 +1,40 @@
+---
+op_id: 5b2e0252b9b046ac9bb21aee9b899605
+op_slug: commander-locke
+op_kind: Character
+op_type: Character
+name: Prefect Locke
+title: Prefect Locke
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/commander-locke
+op_created_at: '2026-01-27T21:09:57Z'
+op_updated_at: '2026-05-27T14:38:54Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- House Oestra
+- Factor
+- he/they
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7467310/hiidra-studio-jadi-alt-regularorc-nobleed.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+A half-orc sporting an eyepatch and a neatly trimmed goatee tinged with white.
+
+Even within the city they wear half plate armour and carry a longsword. 
+
+They speak rarely and abruptly, preferring to let their sword do the communication. They constantly give the impression of having been dragged away from much more important and rewarding affairs.
+
+<!-- OP_BIO -->
+Locke is a [[Factor | Factor]] of [[House Oestra | House Oestra]]. 
+
+*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- [[:hielaman | Hielaman's]] interrogation of [[:arise-to-victory-over-the-infidel-hoards | the Anathemist Leutenant]] having revealed that the Anathemists have access to privileged information, a [[Hexine Circle | Hexine Circle]] is convened. Unable to reach resolution, they enlist [[The Adventurers | The Wonch]] to root out the spies they suspect have infiltrated the city.
+
+<!-- GM_INFO_START -->
+h3. Spies Lead
+
+bq). If they’re here, they must be planning to use their position to strike against the city. That means weapons, either smuggled in or acquired here. We should be checking out every armoury and weapon shop in the city, see if any shipments have come up short or inventory has gone missing.
+
+- Armoury or Weapon Shop.
+<!-- GM_INFO_END -->

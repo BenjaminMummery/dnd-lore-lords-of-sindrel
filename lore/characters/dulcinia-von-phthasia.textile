@@ -1,0 +1,64 @@
+---
+op_id: f0cdec730cc34d19b2719b28128b7b2b
+op_slug: dulcinia-von-phthasia
+op_kind: Character
+op_type: Character
+name: Dulcinia von Phthasia
+title: Dulcinia von Phthasia
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/dulcinia-von-phthasia
+op_created_at: '2025-12-09T19:58:39Z'
+op_updated_at: '2026-03-12T11:43:28Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- she/her
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7433936/26751761102_5999d935cb_b.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+Dulcinea is a slim, pallid young woman with dark hair. Her illness would be evident in each unsteady step and hesitant breath even if she did not frequently cough blood into a lace handkerchief.
+
+Her illness has prevented her from any form of travelling or outdoors activities for much of her life, and her sedentary existence has left her desperately bored. She lives vicariously through the tales of other people's exploits, and makes little distinction between the fictional characters in her books and real people.
+
+<!-- OP_BIO -->
+* *10th Enean 4218 SC*: Accompanied by her bodyguard Pthul, [[:dulcinia-von-phthasia | Dulcinia]] departs the von Phthasia estate in [[Soulwind | Soulwind]] with the goal of travelling to [[Sindrel | Sindrel]] to seek a magical cure for her ailment. The going is slow due to Dulcinia's ill health and the large amount of gold and jewels they are transporting.
+* *24th Enean 4218 SC*: After a rag-tag group of adventurers recover her purse from some ruffians, Dulcinea invites them to share her table and listens in rapt attention to their stories.
+* *25th Enean 4218 SC*: Pthul and Dulcinia's coach is ambushed by Anathemists.
+
+<!-- GM_INFO_START -->
+<div contenteditable="true"  style="width:310px; font-family:Arial,Helvetica,sans-serif;font-size:11px;">
+<div class="statname">Dulcinia von Phthasia</div>
+<div class="statdescription">Medium human, neutral good</div>
+
+<div class="statgradient"></div>
+
+<div class="statred">
+    <div ><span class="bold statred">Armor Class</span><span> 1 </span></div>
+    <div><span class="bold statred">Hit Points</span><span> 1 (1d1)</span></div>
+    <div><span class="bold statred">Speed</span><span> 20 ft.</span></div>
+    <div><span class="bold statred">Initiative</span><span> 0 </span></div>
+</div>
+
+<div class="statgradient"></div>
+
+<table>
+    <tr><th>STR    </th><th>DEX   </th><th>CON    </th><th>INT   </th><th>WIS   </th><th>CHA   </th></tr>
+    <tr><td>8 (-1)</td><td>8 (-1)</td><td>8 (-3)</td><td>8 (-1)</td><td>8 (-1)</td><td>8 (-1)</td></tr>
+</table>
+    
+<div class="statgradient"></div>
+    
+<div><span class="bold">Senses</span><span> passive Perception 9</span></div>
+<div><span class="bold">Languages</span><span> Common</span></div>
+<div><span class="bold">Challenge</span><span>0</span></div> 
+    
+<div class="statgradient"></div>
+
+<div class="statactions statred">Actions</div>
+    
+<div class="stathr"></div>
+ 
+<div class="statattack"><span class="statattackname">Greatclub.</span><span class="description"> Melee Weapon Attack:</span><span>+6 to hit, reach 5 ft., one target.</span><span class="description">Hit:</span><span>13 (2d8+4) bludgeoning damage.</span></div>    
+<div class="statattack"><span class="statattackname">Javelin.</span><span class="description"> Melee or Ranged Weapon Attack:</span><span>+6 to hit, reach 5 ft. or 30ft./120, one target.</span><span class="description">Hit:</span><span>11 (2d6+4) piercing damage.</span></div>    
+</div>
+<!-- GM_INFO_END -->

@@ -1,0 +1,26 @@
+---
+op_id: 2ef9ed585eb74ad39950b46b2f0a0b4d
+op_slug: emissary-halan
+op_kind: Character
+op_type: Character
+name: Emissary Halan
+title: Emissary Halan
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/emissary-halan
+op_created_at: '2026-01-27T21:15:33Z'
+op_updated_at: '2026-02-18T15:58:53Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- House Lithra
+- she/her
+- Factor
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469963/dwarf.jpg
+---
+
+<!-- OP_DESCRIPTION -->
+Halan is an educated, dignified young dwarfess of [[House Lithra | House Lithra]]. She is a consumate diplomat, shifting between sparkling wit and incisive detail orientation at a moment's notice. 
+
+She is inariably elegantly dressed, favouring flowing gowns of silver-grey. Her dark hair is typically styled into an elegant halo of decorative, flowing curls.
+
+<!-- OP_BIO -->
+

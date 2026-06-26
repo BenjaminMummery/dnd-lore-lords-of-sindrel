@@ -1,0 +1,27 @@
+---
+op_id: 6470bce2afeb4d95bcf4c6ec8880d690
+op_slug: craftsman-shegrim
+op_kind: Character
+op_type: Character
+name: Craftsman Shegrim
+title: Craftsman Shegrim
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/craftsman-shegrim
+op_created_at: '2026-02-18T16:49:09Z'
+op_updated_at: '2026-06-24T15:13:41Z'
+op_gm_only: false
+is_player_character: false
+tags:
+- House Mabon
+- he/they
+- Factor
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+Commissioned anonymously to place a spell of reflection on an amulet. The amulet had _already_ been enchanted with a spell of reflection, causing the spell to rebound. In a city where magic is everywhere, he's a walking danger to everyone around him.
+
+<!-- GM_INFO_START -->
+Comissioned anonymously  to create the reversed reflection chestplate that killed [[:major-vindas | Major Vindas]].
+<!-- GM_INFO_END -->
