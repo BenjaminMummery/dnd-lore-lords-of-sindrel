@@ -1,0 +1,26 @@
+---
+op_id: c81a1f5fa5854aa3b3ba2e29eb089cab
+op_slug: merrylane
+op_type: WikiPage
+name: Merrylane
+title: Merrylane
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/merrylane
+op_created_at: '2026-06-24T10:20:27Z'
+op_updated_at: '2026-06-24T10:40:03Z'
+op_gm_only: false
+tags:
+- location
+- Sindrel
+- district
+---
+
+Suspended amongst the upper reaches of [[Sindrel | Sindrel]], Merrylane is a district of embassies, gardens, and elegant townhouses. Foreign dignitaries, wealthy visitors, and representatives of distant powers maintain residences here, often staying for months or years at a time - a special exception to Sindrel's residency laws meant to further impress upon them just how special and valued they are. The district's carefully maintained parks and broad promenades present an image of refinement and stability that [[House Lithra | House Lithra]] works tirelessly to cultivate. To many outsiders, Merrylane represents the idealised face of Sindrel; beautiful, orderly, and entirely disconnected from the harsher realities of the city below.
+
+Directly above the heart of Merrylane hangs The Eidolon - the grand amphitheatre that serves as [[House Lithra | House Lithra]]'s headquarters.
+
+h3. Locations
+
+* Ambassador Street
+* [[Radwasp House | Radwasp House]]
+* Merrylane Park
+* The Eidolon - Headquarters of [[House Lithra | House Lithra]]
