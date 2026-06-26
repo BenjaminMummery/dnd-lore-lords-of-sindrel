@@ -35,6 +35,7 @@ h3. Dramatis Personae
             * [[:razorbeak | Chicken]] - a chicken.
             * [[:hunts-by-night | Cat]] - a cat.
         [end-content] 
+    [end-accordion-item]
 
     [accordion-item] 
         [title] Denizens of [[The Wallarch District | the Wallarch district]] [end-title] 

@@ -38,6 +38,21 @@ h3. Dramatis Personae
             * [[:kithrak-ii | Kithrak II]] - an undead dragon
         [end-content] 
     [end-accordion-item]
+
+    [accordion-item] 
+        [title] Inhabitants of the Catacombs [end-title] 
+        [content]
+            * [[:zalatan | Zalatan]] - an undead beholder
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] [[House Oestra | House Oestra]] [end-title] 
+        [content]
+            * [[:commander-locke | Prefect Locke]]
+        [end-content] 
+    [end-accordion-item]
+
 [end-accordion]
 
 h3. The Crossroads

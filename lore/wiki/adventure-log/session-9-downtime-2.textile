@@ -13,6 +13,54 @@ tags: []
 post_time: '2026-05-20T12:30:00Z'
 ---
 
+h3. Dramatis Personae
+
+[accordion]
+    [accordion-item] 
+        [title] [[The Adventurers | The Adventurers]][end-title] 
+        [content]
+            * [[:amanira | Amanira]], a drow druid.
+            * [[:ayr | Ayr]], gnome paladin.
+            * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
+            * [[:pin | Pin]], a human fighter.
+            * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
+            * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
+            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer. 
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] Associates and Companions [end-title] 
+        [content]
+            * [[:razorbeak | Chicken]] - a chicken.
+            * [[:hunts-by-night | Cat]] - a cat.
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] [[House Oestra | House Oestra]] [end-title] 
+        [content]
+            * [[:commander-locke | Prefect Locke]]
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] [[House Mabon | House Mabon]] [end-title] 
+        [content]
+            * [[:journeyman-galoras | Journeyman Galoras]]
+            * [[:kelferria-the-smith | Kelferria the Smith]]
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] Radwasp House [end-title] 
+        [content]
+            * [[:cedric | Cedric]] - butler
+        [end-content] 
+    [end-accordion-item]
+
+[end-accordion]
+
 _Evening of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 Questioned by [[:commander-locke | Prefect Locke]], the gang concoct an acceptable, if not entirely believable, lie, claiming to have wandered down into the catacombs beneath an unspecified Osteomantic Archive at random.

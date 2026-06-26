@@ -33,17 +33,23 @@ h3. Dramatis Personae
         [title] Associates and Companions [end-title] 
         [content]
             * [[:kithrak-ii | Kithrak II]] - an undead dragon
-            * [[:cedric | cedric]] - a butler
+            * [[:cedric | Cedric]] - a butler
         [end-content] 
     [end-accordion-item]
 
     [accordion-item] 
-        [title] City Dwellers [end-title] 
+        [title] Sindrel's Cats [end-title] 
         [content]
             * [[:pads-silently | Pads-Silently]]
             * [[:hunts-by-night | Hunts-By-Night]]
+        [end-content] 
+    [end-accordion-item]
+
+    [accordion-item] 
+        [title] Merrylane Park [end-title] 
+        [content]
             * [[:tama | A giant stoat]]
-            * Assorted demons
+            * Assorted [[House Beltus | House Beltus]] demonic constructs
         [end-content] 
     [end-accordion-item]
 
