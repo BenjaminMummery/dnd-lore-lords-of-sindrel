@@ -1,0 +1,18 @@
+---
+op_id: c86f013976e7444682e3b40e86194b63
+op_slug: the-fallowhurst-sigil
+op_type: WikiPage
+name: The Fallowhurst Sigil
+title: The Fallowhurst Sigil
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-fallowhurst-sigil
+op_created_at: '2026-01-14T11:06:05Z'
+op_updated_at: '2026-01-14T18:17:09Z'
+op_gm_only: false
+tags: []
+---
+
+[[File:1544264  | class=media-item-align-right | 600px | fallowhurst_sigil.jpeg]]
+
+A magic circle forming part of a binding spell. An incomplete version was found on the blackboard in the Lecture Hall of [[Fallowhurst College | Fallowhurst College]].
+
+[[:wilrin-racenglade | Wilrin Ravenglade]] attempted to use the sigil by employing [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]]'s blood.
