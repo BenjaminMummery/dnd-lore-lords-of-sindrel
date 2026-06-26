@@ -1,9 +1,7 @@
 repos:
-  - repo: local
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
     hooks:
-      - id: textile-lf
-        name: Textile LF line endings and frontmatter
-        language: python
-        entry: python3 scripts/check_textile.py
+      - id: mixed-line-ending
+        args: [--fix=lf]
         files: \.textile$
-        pass_filenames: true

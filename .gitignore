@@ -1,0 +1,2 @@
+# Allow this repo's pre-commit config (ignored by global ~/.gitignore)
+!.pre-commit-config.yaml
