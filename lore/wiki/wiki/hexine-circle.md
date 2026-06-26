@@ -1,0 +1,28 @@
+---
+op_id: b7f1701bb8d4490598741896a5d2fdf1
+op_slug: hexine-circle
+op_type: WikiPage
+name: Hexine Circle
+title: Hexine Circle
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/hexine-circle
+op_created_at: '2026-01-29T12:46:45Z'
+op_updated_at: '2026-06-25T15:10:57Z'
+op_gm_only: false
+tags:
+- Organisation
+---
+
+Hexine Circles are one level of the hierarchy of inter-house councils that may be established to address issues in [[Sindrel | Sindrel]] without requiring the attention of the full [[The Octarion Circle | Octarion Circle]].
+
+In [[World History | 4218]] [[The Soulwind Calendar | SC]], a Hexine Circle was formed to address indications of [[Anathemists | Anathemist]] infiltration of Sindrel. This consisted of :
+* [[:seer-demeletas | Seer Demeletas]] ([[House Goela | House Goela]])
+* [[:hielaman | Captain Hielaman]] ([[House Meness | House Meness]])
+* [[:alandria | Caller Alandria]]  ([[House Beltus | House Beltus]])
+* [[:commander-locke | Prefect Locke]] ([[House Oestra | House Oestra]])
+* [[:emissary-halan | Emissary Halan]] ([[House Lithra | House Lithra]])
+* [[:journeyman-galoras | Journeyman Galoras]] ([[House Mabon | House Mabon]])
+* [[:navinea-senetera | Navinea Senetera]] ([[House Grimbolg | House Grimbolg]])
+
+<!-- GM_INFO_START -->
+[[File:1572881  | class=media-item-align-none | ChatGPT_Image_Jun_25__2026_at_04_10_21_PM.png]]
+<!-- GM_INFO_END -->
