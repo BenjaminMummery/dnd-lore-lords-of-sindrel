@@ -50,7 +50,9 @@ h3. Headquarters
 In theory, House Grimbolg is a decentralised structure with each of the major production hubs acting as their own HQ. In practice, the Cornucopia, centre of food and water production, is where most people think of as their seat of power. Its position on the ground tier of Sindrel and easy availability of refreshments make it the natural place to host visitors.
 
 bq). On the opposite side of the city to Wallarch, as if to form some sort of economic balance, stands the Cornucopia. The transmuters of House Grimbolg produce water, basic foodstuffs, raw elements, specialist alloys, and a variety of materials whose names require several years of education and at least one unfortunate laboratory incident to pronounce correctly. Every loaf, ingot, bucket, beam, nail, nugget, and occasionally alarming new substance in Sindrel ultimately begins its life here.
+<br>
 The estate once aspired to grandeur. A fine manor house stood amid sweeping landscaped gardens, laid out according to principles of beauty, symmetry, and the belief that somebody else will be doing the weeding. Those days are gone. The gardens now grow food wherever food can be persuaded to grow, and the house has been augmented with long sheds packed with supplies. A rose garden may delight the soul, but a warehouse full of copper is considerably more useful when the city plumbing explodes.
+<br>
 Day and night, carts rattle through the gates in a steady procession. They arrive burdened with the city’s rubbish: broken furniture, worn tools, discarded crockery, bent nails, mysterious lumps of unidentified material, and all the other things people throw away while firmly believing they will never need them again. The contents are sorted, catalogued, dismantled, melted down, transmuted, and sent back out into Sindrel as something new. Because even wizards, who can rearrange the fundamental nature of reality with a word, know it is far easier to start with something than with nothing.
 
 h3. Anathemist Sabotage
@@ -93,27 +95,40 @@ The manor house is little more than storage, with additional sheds being constru
 Manor interior:
 
 bq). The interior of the manor house possesses the unmistakable air of a building that had lost an argument. Not recently, certainly. But the evidence remains everywhere.
+<br>
 The original architects clearly believed firmly in straight lines, right angles, grand staircases, and the proposition that if one built enough corridors people would become important simply by walking through them. The current residents clearly hold a different opinion. They apparently consider corners to be what happen when a wall stops thinking properly, and stairs to be directly unhelpful to those needing to move large quantities of heavy materials.. As a result, the manor now resembles a square building that had been slowly persuaded to become a cave.
+<br>
 The great halls remain, although their walls bulge gently like riverbanks and their ceilings flow overhead in smooth curves. Stone columns have softened into shapes suggestive of tree trunks or stalagmites.
+<br>
 Moss grows everywhere.
+<br>
 Not wild moss, of course. This is cultivated moss, arranged in careful carpets along windowsills and around the edges of rooms. It absorbs echoes, softens light, and gives being inside the manor the unerring feeling of walking through an ancient forrest. Everywhere there is the smell of growing things. The distant sound of water moving somewhere unseen. The faint rustle of leaves from the great tree that rises through the courtyard at its the building's heart. Even the stone seemed alive in its own patient fashion.
+<br>
 Whatever the original purpose of the rooms, they have been pressed into service as storage. Former drawing rooms house sacks of grain stacked in neat terraces. Guest chambers contain drying herbs suspended from rafters in fragrant clusters. A ballroom holds crates of apples, barrels of preserved roots, and enough seed stock to survive three famines and a particularly ambitious pigeon. Whatever force has reshaped the fabric of the building along more naturalistic lines has been enticed to produce strange tree-like protrusions that are perfectly positioned to support shelves, or to cradle barrels.
 
 Meeting Hall
 
 bq). A broad, spiralling slope winds down through the roots of the great tree and emerges into a vast domed chamber of blue stone. Not blue in the way of paint or dye, but the deep, uncertain blue found in glacial ice and old shadows. The manor above, so grand and dominant when viewed from the estate, could fit into this space with room to spare.
+<br>
 No seam can be found anywhere in the hall. Every curve and transition of the stone surface is smooth and natural, the space would feel like a cave were it not for its clear suitability for human use. It has not been built so much as persuaded into existence. 
+<br>
 At its centre stands the tree.
+<br>
 Its trunk emerges from the living stone like a pillar, broad roots spreading across the floor before vanishing beneath smooth ridges of rock. Far above, the trunk continues through a circular opening at the apex of the dome, carrying its branches into the courtyard and sunlight beyond. Shafts of green-gold light spill down around it, drifting through leaves and dust motes in the cool air.
+<br>
 The floor rises and falls in gentle slopes, forming into sweeping terraces. There are no steps. House Grimbolg regards stairs as a confession of architectural failure. Moss-covered banks form natural seating around the roots, while smooth shelves of stone emerged from the walls in concentric rings. The ever present moss grows into thick mats on the up-facing sides, providing surprisingly comfortable seating.
+<br>
 The light is soft everywhere. Crystal veins embedded within the blue stone glimmer faintly, catching sunlight from above and scattering it through the chamber. Nothing casts a harsh shadow. The hall seems perpetually suspended between day and evening.
+<br>
 Despite its size, the space feels intimate. Conversations carry without becoming loud. The curved surfaces gather voices and returned them gently, so that even a quiet speaker can be heard from the far side of the chamber. The shapers of House Grimbolg move through the space with a sort of brownian motion - people naturally settleing into circles around the roots, on mossy terraces, or within shallow alcoves carved into the walls. Meetings rarely appeared organised, yet somehow everyone seems to know where to be.
+<br>
 It is a place shaped by people who see no meaningful distinction between architecture and landscape, and have consequently built a room that feels less like a hall and more like a particularly thoughtful piece of geology.
 
 Not sure where to use this - generic grombolg space?
 
 bq). The furniture situation is complicated by the fact that there isn't any.
 At least, not permanently.
+<br>
 [NAME] places a hand against the wall and a the rough stone flows like water, forming itself into a surprisingly comfortable looking bench. The stone seems less like a building material and more like an employee who has accepted a very broad job description.
 
 

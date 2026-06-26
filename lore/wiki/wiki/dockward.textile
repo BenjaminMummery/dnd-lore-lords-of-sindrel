@@ -15,4 +15,8 @@ tags:
 - Sindrel
 ---
 
-Dockward surrounds the Annulus, the vast ring-shaped structure that serves as both [[House Mabon | House Mabon]]'s headquarters and [[Sindrel | Sindrel's]] principal airship port. Cargo cranes, customs offices, workshops, and merchant exchanges cluster around the great docking facilities, creating one of the busiest districts in the city. Goods from across the world arrive and depart through Dockward each day, making it one of the most cosmopolitan places in [[Artresh | Artresh]]. To stand upon the Annulus and watch the endless procession of airships is to understand why Sindrel remains the centre of a fading magical age.
+Dockward is a mile-wide floating ring suspended around the upper reaches of [[The Fulcrum | the Fulcrum]] like a colossal halo — [[Sindrel | Sindrel's]] principal airship port and one of the busiest districts in the city. Colloquially it is called _the annulus_, after the shape it cuts against the sky.
+
+Airship docks, cargo cranes, customs offices, workshops, and merchant exchanges stud the ring. Goods from across [[Artresh | Artresh]] arrive and depart through Dockward each day, making it one of the most cosmopolitan places on the continent. To stand upon the ring and watch the endless procession of airships is to understand why Sindrel remains the centre of a fading magical age.
+
+On the seaward side stands The Prow, headquarters of [[House Mabon | House Mabon]].

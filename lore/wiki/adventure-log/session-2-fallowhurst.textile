@@ -47,7 +47,9 @@ h2. Over the Edge
 _Afternoon of the 25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 bq). As the [[:sindrel-coach | coach]] teeters on the edge of the cliff, a moment of stillness falls over the scene. With the echoes of the [[:commander-wake | Anathemist Commander]]'s weapon ringing in your ears, you have a chance to assess the battle. Two things become pressingly apparent. 
+<br>
 First, this fight is not winnable - the [[Anathemists | Anathemists]] have you outnumbered with reinforcements incoming, and whatever that weapon is has just turned an experienced and heavily armoured warrior into a red mist in an instant. 
+<br>
 Second, the coach's centre of gravity is too far out - one way or another it is going over the cliff. As it is, it will roll edgewise down the steep slope, dashing itself to splinters on the rocks and scree and almost certainly killing everyone within. If you manage to turn it there is a chance it will stay on its wheels, and small but promising chance that it will make it to the bottom intact.
 
 [[:silrie-aegiskiir | Silrie]] misty stepped from the top of the cliff to take the reigns of the [[:sindrel-coach | coach]] - even with the horses gone they could still be used to turn the front wheels, providing a modicum of steering. [[:ayr | Ayr]] leapt from the top of the cutting to be caught by [[:nakoma-deathwalker-mor-got-ha |Deathwalker]] (with some assistance from [[:wilrin-racenglade | Wilrin]]'s mage hand). [[:rossin-ros-greyhirst | Ros]] succeeded in tying a rope to the railing atop the coach, providing herself, [[:pin | Pin]], and [[:wilrin-racenglade | Wilrin]] with a way to secure themselves. These, combined with [[:amanira | Amanira]]'s use of ensnaring vines was sufficient to mitigate the descent of the coach, turning a death-drop into a survivable, if rough, ride. With the furious and despairing cries of the [[Anathemists | Anathemists]] and [[The Vermillion Company | Mercenaries]] respectively fading behind them, the [[:sindrel-coach | coach]] and all of its passengers went plunging over the edge of the cliff.
@@ -127,6 +129,7 @@ h3. Museum (E)
 Taking a look through the door to the north, [[:silrie-aegiskiir | Silrie]] encountered a grisly sight.
 
 bq). Glass display cabinets once lined the walls of this room, the shattered shards of which crunch underfoot as you enter. Whatever was once displayed here has been removed - your eyes find a tall heap of tarnished silver wear, a mulchy strata that may once have been paper, and the splintered forms of various delicate and once expensive objects in the south-west corner. In their place, the remains of the cabinets play host to a collection of rotten bodies. Corpses of various sizes and condition are arrayed for your perusal. Close to the door they are comparatively fresh, one even retains sallow flesh stretched taught over its bones. Further in they are increasingly decayed - exposed bones clad in a new life of fungus and infestation.
+<br>
 At the far end of the room, beneath three shattered windows, is displayed a final body. Surrounded by rot and decay it is pristine. A young man, no more than 25.
 
 Things did not go well _at all_ in the museum.

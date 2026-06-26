@@ -29,4 +29,20 @@ h3. Mysteries and Clues
 
 <!-- GM_INFO_START -->
 Originally the estate of [[House Oestra | House Oestra]], it was converted to a medical college at the direction of [[:embren-oestra | Embren Oestra]].
+
+h3. Key Rooms
+
+h4. Lecture Hall (C)
+
+bq). This room runs the full three-storey height of the building, and is ringed by a pair of partially collapsed galleries accessed from the upper floors. Tall windows on the west wall once allowed the sun to illuminate the space, but their vacant frames have been almost overtaken by the ivy that once grew on the outside wall and is now colonising the interior. In what little light is admitted illuminates the remains of wooden pew-like benches that litter the floor. At the center is a portable lectern and blackboard, whatever writing it once bore long-since washed away by the water dripping from a large crack in the vaulted ceiling.
+
+h4. Operating Theatre (D)
+
+bq). Three stories above you, the remains of a glass dome, now little more than a lattice of corroded ironwork, lets in a column of daylight that illuminates only the center of the room, leaving the rest shrouded in shadow. At its focus is an adjustable wooden bench adorned with rotten leather straps. Next to it stands a wheeled table, the light glinting from the tarnished knives, saws, and needles arrayed neatly on its top.
+<br>
+As your eyes adjust, you can make out the tiered galleries that ring the walls. Each and every seat is occupied - wherever you turn your gaze is met with the empty eye-sockets and ivory grins of hundreds of skeletons.
+
+h4. Laboratory (K)
+
+bq). Something has been growing in here. The window isn't just obscured by plant life, but choked by it. Vines and creepers are draped between every surface like cobwebs. Between them you make out the shapes pestles, alembics, and flasks, all of them cracked or shattered.
 <!-- GM_INFO_END -->

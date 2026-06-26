@@ -59,25 +59,37 @@ h3. The Crossroads
 
 _Afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
-[[:ayr | Ayr]] has questions. What happened to fell them in such a manner? [[:silrie-aegiskiir | Silrie]] plays down any concerns - it was a powerful attack from the Beholder...
+[[:ayr | Ayr]] had questions about how one fell so thoroughly in battle against a floating eye. [[:silrie-aegiskiir | Silrie]] suggested, with the tact of someone who had seen the thunderwave, that the beholder had been a powerful opponent.
 
-Back in the room of many doors, the party take continuing necrotic damage, with [[:wilrin-racenglade | Wilrin]], [[:rossin-ros-greyhirst | Ros]] and the various accompanying animals looking worse for wear. A trail in the disturbed dust seems to show that there has been travel recently between the Wallarch Archive entrance, the door marked with the sign of the [[The Eighth House | defunct necromantic house]], and that bearing the sign of [[House Oestra | Oestra]].
+Back in the room of many doors, necrotic harm continued to press upon [[:rossin-ros-greyhirst | Ros]], [[:wilrin-racenglade | Wilrin]], and the assorted animals in their company. A trail in the disturbed dust showed comparatively recent passage between the [[The Wallarch District | Wallarch]] entrance, the door marked with [[The Eighth House | the defunct necromantic sigil]], and the door bearing the crest of [[House Oestra | House Oestra]].
 
-[[:nakoma-deathwalker-mor-got-ha | Deathwalker]] percussively opened several of the doors revealing the following:
-* **[[The Eighth House | Necromancy]] Door**: Two armies of skeletons, frozen in battle
-[todo] A corridor of 8 statues, perhaps the founders of each house. Each has a silver item
+[[:nakoma-deathwalker-mor-got-ha | Deathwalker]] opened several doors by percussive means. Behind the necromancy sigil lay a colossal diorama:
 
-With [[:rossin-ros-greyhirst | Ros]] needing respite, the gang make good to leave the catacombs, following our [[:razorbeak | chicken]] guide through the Oestra door. 
+bq). The passageway opens into an enormous space - the walls and ceiling almost lost in the haze of distance. The floor rises and falls in a stone simulacrum of rolling hills, you can even see the glint of the meagre light reflecting from the waves of what appears to be a river. You realise that you are surrounded by a motionless army of armed and armoured skeletons. Or rather, as you look closer, two armies frozen in the throws of a colossal conflict. A macabre diorama whose grandiose effect is spoiled only slightly by the fact that many of the skeletons are missing parts - the floor is littered with teeth and fingerbones that, presumably, were once part of the display. A clear path demarcated by bands of silver laid into the dark stone of the floor, wends its way between the posed skeletons.
 
-h3. Wondering in the Dark
+With [[:rossin-ros-greyhirst | Ros]] needing respite, the [[The Adventurers | Wonch]] chose to leave by the [[House Oestra | Oestra]] door, following [[:razorbeak | their chicken]] guide into the deeper tunnels.
 
-Unfortunately, the party got lost. Off the beaten path, the magically shaped and finished architecture of the catacombs give way to rough natural rock. Strangely, the overall structure is unchanged - the regular pillared halls and alcoves continue, apparently coincidentally shaped from the living rock by natural forces. The party infer that the magic that shaped the archives is being reinforced and propagated outwards by the necromantic radiation, enforcing its pattern on the natural world. This conclusion is reinforced by the sight of a sombre procession of rats ritualistically placing one of their dead in an alcove.
+h3. Wandering in the Dark
 
-Using the flicker of our torch to follow a faint whisper of wind whistling through the tunnels, we come to a blockage, a tangle of roots descending down from a tree above. They have damaged a section of wall to reveal a hidden door.
+They got lost.
 
-Through the door, we find the site of a massacre around a makeshift shrine to the Lady of Ravens. Each corpse wears a necklace adorned with the sign of the evil bad defunct necrotic house. Daubed on the wall in thick blood are the words ‘AVENGE US’. Unsavoury looting of various corpses occurs...
+Away from the chalked routes, the finished masonry of the archives gave way to rough natural rock. Yet the pattern persisted — pillared halls and bone alcoves repeated as though the _idea_ of a catacomb were propagating outward through the necromantic fallout, imposing itself on the living stone. A solemn procession of rats placed one of their dead in an alcove with ritual care, as if the architecture had taught even vermin proper burial.
 
-Finding another route through the shrine, we continue on, emerging from the Osteomantic Archive of House Oestra, much to the shock of Prefect Locke, who marches over, demanding answers.
+Following a whisper of wind through the dark, the party found a tangle of tree roots and blood moss breaking through from above. They cleared the blockage to reveal a hidden door.
+
+h3. The Shrine of the Queen of Ravens
+
+Beyond lay a massacre around a makeshift shrine. Corpses in dark robes wore amulets bearing the symbol of the fallen necromantic house, but not the silver bracelets of legitimate Sindrelian service. They had died in agony, scattered across a small chapel draped in fabric that suggested wings engulfing the congregation. On the altar stood an idol of the Queen of Ravens in her aspect as vengeful reaper — obsidian and electrum, wings swept back, taloned hands outstretched.
+
+Daubed on the wall in blood ancient blood: _AVENGE US._
+
+The party looted what they could. [[:ayr | Ayr]] took an elaborate buckler from the lead corpse's wrist and found he could not remove it.
+
+h3. Emergence
+
+Another route led onward and upward. The tunnels spat the party out through the [[Osteomantic Archives | Osteomantic Archives]] of [[House Oestra | House Oestra]] — not the Wallarch branch they had entered, but one within the Leaguer itself.
+
+[[:commander-locke | Prefect Locke]] marched over almost immediately, demanding to know how they had got in, why they had not followed his advice about weaponsmiths, and whether anything they intended to say could be considered the truth.
 
 <!-- GM_INFO_START -->
 h3. Outwards
@@ -102,27 +114,18 @@ h5. Halls of history
  
 h6. The Seven Day War
 
-bq). The passageway opens into an enormous space - the walls and ceiling almost lost in the haze of distance. The floor rises and falls in a stone simulacrum of rolling hills, you can even see the glint of the meagre light reflecting from the waves of what appears to be a river. You realise that you are surrounded by a motionless army of armed and armoured skeletons. Or rather, as you look closer, two armies frozen in the throws of a colossal conflict. A macabre diorama whose grandiose effect is spoiled only slightly by the fact that many of the skeletons are missing parts - the floor is littered with teeth and fingerbones that, presumably, were once part of the display. A clear path demarcated by bands of silver laid into the dark stone of the floor, wends its way between the posed skeletons.
+This is the battle of the Planes of Herrman, 250 years ago. Deathwalker was dead for this but will recognise the uniforms of the Mage Lords of Houd and the Thaumocracy of Tellerin. The room has been laid out as a sort of timeline — the party enter where the Tellerite forces are fighting a desperate rearguard action. As they pass through they get the story in reverse: the Tellerite reinforcements arriving too late, the Houd defenders defeating the Tellerite expeditionary force, and finally, near the exit, the Battle of Brassmeade Bridge recreated in epic, propagandistic tones.
 
-Some of the skeletons, all of them next to the path, have a silver symbol inlaid on their skulls. Touching one brings an earie light to the eyes of the skeleton as it recounts part of the battle
+Some skeletons next to the path have a silver symbol inlaid on their skulls. Touching one brings an eerie light to the eyes as it recounts part of the battle:
 
 * A fleeing tellerite: "Retreat! Sound the retreat!"
 * A houdin soldier: "Tellerite reinforcements incoming! Looks like they're late to the party. Form ranks!"
-* A tellerite on horseback: "
 
+There is room to cross the brass bridge between the giant's legs. Using it will destabilise the skeleton, causing the club to fall. Make a saving throw!
 
+h6. The founding of the Magedom of Houd
 
-This is the battle of the Planes of Herrman, 250 years ago. Deathwalker was dead for this but, but will recognise the uniforms of The Mage lords of Houd and the Thaumocracy of Tellerin. The room has been laid out as a sort of timeline, where the party enter the Tellerite forces are fighting a desperate rearguard action. As they pass through they get the story in reverse - the Tellerite reinforcements arriving too late, the Houd defenders defeating the Tellerite expeditionary force, and finally, near the exit, the battle of brassmeade bridge recreated in epic, propagandistic tones:
-
-bq). The uneven floor is rent by a semicircular chasm that arcs outwards from the wall. On the other side you can see the exit - a doorway identical to the one through which you entered, surrounded by thronged skeletons (in Tellerite armour). Spanning the chasm is a narrow bridge, apparently made of brass, atop which stands the skeleton of a giant. A club the size of a carthorse is clasped in the colossus's hand, and it is posed with its back to you as if denying the crowded skeleton passage across the bridge. 
-
-There is room to cross - the path leads over the bridge and between the giant's legs. Using it will destabilise the skeleton, causing the club to fall. Make a saving throw!
-
-* The founding of the Magedom of Houd
-
-bq). The floor beneath you is carved into a relief map of northern [[Artresh | Artresh]]. It is a patchwork of various stones and metals, as if assembled from some colossal jigsaw of mismatched construction. It is positioned so that Soulwind would stand at the exact centre of the room, but in its place is a raised dias with a tableau - a score of statues each made of a different material stand around a table. On the opposite side of the room behind a waist-high reproduction of the Arkay Mountains you can see an elaborate golden arch, its decorative ornamentation forming the silhouette of the city of Sindrel.
-
-The tableu depicts the founding of the Magedom of Houd. The different materials are used to represent the various kingdoms that united - history rolls to recognise their old borders. The kingdoms were:
+The tableau depicts the founding of the Magedom of Houd. The different materials are used to represent the various kingdoms that united — history rolls to recognise their old borders. The kingdoms were:
 * *Andromus*
 * Antlia
 * Apus

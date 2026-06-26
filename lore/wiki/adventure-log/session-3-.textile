@@ -55,56 +55,43 @@ h2. Dramatis Personae
 [end-content] [end-accordion-item]
 [end-accordion]
 
-h3. Fallowhurst College, the revenge
+h2. Fallowhurst College, the Revenge
 
 _Afternoon of the 25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 bq). For a brief moment, the sigil floats in the air, the blood flowing around it, coiling unnaturally. [[:wilrin-racenglade | Wilrin]] and [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] both feel the twist - the moment that the magic bucks within Wilrin's grip like a striking snake, vicious and lethal. Deathwalker lunges forward in a desperate attempt to interpose herself between Wilrin and the danger he's unleashed. As she reaches him, the sigil collapses into itself, becomes a crimson point that explodes in a wave of blinding darkness.
 <br>
-As your sight returns, the first thing visible is a subtle red glow. Slowly your vision begins to clear, and you can make out Wilrin sprawled on his back, almost lost beneath the motionless, face-down form of DW. Burned into the right side of Wilrin's face and the scarred expanse of Deathwalker's back, raw and bloody copies of the sigil glow like hot iron. As the magical darkness dissipates so too does the glow, the symbols fading into vicious scars in the skin of your friends.
+As your sight returns, the first thing visible is a subtle red glow. Slowly your vision begins to clear, and you can make out Wilrin sprawled on his back, almost lost beneath the motionless, face-down form of [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]. Burned into the right side of Wilrin's face and the scarred expanse of Deathwalker's back, raw and bloody copies of the sigil glow like hot iron. As the magical darkness dissipates so too does the glow, the symbols fading into vicious scars in the skin of your friends.
 <br>
 The scream of incoherent rage that accompanied Wilrin's ill-fated casting echoes within the empty halls of the college, being replaced by the sounds of shuffling movement growing closer.
 
-- Silrie and Ros check on DW/Wilrin. DW appears to be dead - wilrin has some life left in them. They are dragged from the corridor back into the museum room.
-- Pin pushes a cabinet (complete with its delightful display) to barricade the entrance to the corridor. A heavy thud is heard from the other side.
-- Silrie smashes one of the (undoubtedly unique and original) stained glass windows with their staff. Pin (?) smashes another, allowing for a swifter escape. The two of them immediately exit and wait outside for their companions.
+[[:silrie-aegiskiir | Silrie]] and [[:rossin-ros-greyhirst | Ros]] reached the fallen pair first. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] appeared quite dead; [[:wilrin-racenglade | Wilrin]] retained a thread of life. The two were dragged back into the museum while [[:pin | Pin]] shoved a display cabinet into the corridor to barricade the approach. Something heavy thudded against the other side.
 
-- Amanira notes that cloaked figures have entered the dark Lecture Hall and appear to be approaching.
+[[:silrie-aegiskiir | Silrie]] smashed a stained-glass window with their staff. [[:pin | Pin]] smashed another. The pair climbed out and waited in the cold air while the fight continued indoors.
 
-- Throughout this, DW - despite appearing to be rather deceased - appears to be healing spontaneously and eventually awakens. 
-- Pin and Silrie continue to wait, patiently.
-- A loud crack as an arm wielding a sharp scalpel swings wildly through the splintered boarding of the display case. The thudding continues.
-- Ayr spots a good opportunity to practice some strikes and lunges at the flailing arm with his sword. Alas, the dice will not have it, and the arm flails just a little too wildly missing the strike of his weapon and instead dealing a blind strike of its own, slicing across Ayr's arm. Interesting, where the blade has pierced flesh, there appears to be a steady radiating numbness.
-- Wilrin spots the shiny and uses mage hand to attempt to steal it, though the scalpel is grasped too tightly and simply falls to the ground. A single thud of subdued disappointment is heard from the other side.makes for the scalpel, while the arm grabs searchingly.
-- Whether consciously noticed or merely intuited, DW reflexively attempts to grab Wilrin to prevent them from getting to close to the arm. Needless to say that they are a hairs breath from succeeding, as Wilrin pulls of an epic rock-star slide past the arm, grabbing the scalpel and making for the exit.
+Within the museum, [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s wounds began to knit themselves closed — the necromantic engine that sustained her rebooting in its own time. An arm wielding a scalpel punched through the splintered barricade. [[:ayr | Ayr]] lunged to strike it and missed; the blade found his arm instead, leaving a wound that radiated a steady, spreading numbness. [[:wilrin-racenglade | Wilrin]], spotting the enchanted scalpel, tried to snatch it with Mage Hand. The spell fumbled the grip and the blade fell to the floor. [[:wilrin-racenglade | Wilrin]] slid past the flailing arm in a move better suited to a concert stage than a haunted museum, seized the scalpel, and ran.
 
-- Amanira warns the group that the figures are getting a little too close for comfort... her voice ever calm and steady, a softly spoken instruction with the impact of a shout: "WE NEED TO GET OUT OF HERE."
+[[:amanira | Amanira]], watching cloaked figures advance through the dark lecture hall, spoke with the calm of someone who had decided panic was a waste of breath: they needed to leave. Now.
 
-- Ros exits the window, dangling some of her rope inside to aid the exit of the remaining people. DW, Amanira, Ayr and Wilrin all follow. They are out!
+[[:rossin-ros-greyhirst | Ros]] dropped a rope through the broken window. One by one — [[:nakoma-deathwalker-mor-got-ha | Deathwalker]], [[:amanira | Amanira]], [[:ayr | Ayr]], and [[:wilrin-racenglade | Wilrin]] — the party climbed out into the grey afternoon.
 
-h4. The Escape...
+h2. The Escape
 
-- The group choose to flee through a narrow passge between the College and the Flooded river, with the possibility of exiting into the river itself amogst their considerations should the two-wide passage be blocked or otherwise occupied. 
-- As they run towards the front of the building, the two figures within the main Lecture Hall have not been deterred by the lack of a door handle to the exit, smashing through the door instead.
-- The party reaches the front and are met by the two cloaked figures. 
+The group fled along a narrow passage between the college and the flooded river, keeping the water in reserve should the way ahead be blocked. They had almost reached the entrance when the two cloaked pursuers smashed through the lecture-hall door and met them in the open.
 
-_COMBAT!_ (My memory has pulled a blank here)
-- Silrie gracefully attempts to elegantly flip to land behind the figures, though falls quite literally short, landing instead at their feet. Regardless, Silrie manages to use their telescopic staff to make a blunt hit to the underside of one of their chins, dislodging the hood and revealing a SKULL.
-- [fighting happens] 
-- Something is shot through the sternum of one skeleton, effectively removing a decent portion of bone, though the bones crunch down together effectively making the skeleton just a little bit shorter than it used to be.
-- [more fighting happens, Ros unashamedly plagiarises both Prey and the suggestion of the DM with a rope-tied-axe throw which misses]
-- Something epic happens resulting in the other skeleton exploding.
-- Amanira gathers some fragments of bone and the skeletal remains of a hand, placing them hurriedly in a pouch for future study.
+[[:silrie-aegiskiir | Silrie]] attempted an elegant flip over the figures and landed at their feet instead, which proved an excellent position from which to crack a telescopic staff upward into a jaw and send a hood tumbling away, revealing bare bone beneath.
 
-h3. Regroup
+What followed was less elegant than decisive. Blades, spells, and improvised violence reduced one skeleton to a shorter, more compact version of itself when a bolt punched through its sternum and the bones settled with a crunch. [[:rossin-ros-greyhirst | Ros]] attempted a rope-assisted axe throw of cinematic ambition and missed entirely. The second scholar exploded in a shower of ivory that suggested the party had, at minimum, exceeded the building's recommended occupancy for animated remains.
 
-- [[:dulcinia-von-phthasia | Dulcinia]] is awake and keeps trying to wonder off and explore despite [[:pthul | Pthul's]] insistance that it's too dangerous.
-- [[:pthul | Pthul]] has been torn between rushing toward danger (he can hear the scolars screaching) and needing to stay and protect dulcinia.
-- [[:raymond-quill | Raymond]] and [[:gillette-quill | Gilette]] are deep in conversation with the two [[:jean-de-dinteville | merc]][[:georges-de-selve | hants]], trying to get them to invest in their lifestyle course / meditation retreat idea.
+[[:amanira | Amanira]] gathered bone fragments and a skeletal hand into a pouch for later study. The college, for the moment, had had enough of them.
 
-- Silrie politely advises that there is a lot more work to be done on realising The Self, and the adventurers and co. go on their way, some vowing to return once they are stronger.
+h2. Regroup
 
-h3. Leaving Fallowhurst
+Back at the wheelbarrow, [[:dulcinia-von-phthasia | Dulcinia]] was awake and inclined to wander. [[:pthul | Pthul]] was torn between rushing toward the sounds of battle and remaining with his charge. [[:raymond-quill | Raymond]] and [[:gillette-quill | Gillette]] were deep in conversation with the [[:jean-de-dinteville | merc]][[:georges-de-selve | hants]], pitching a lifestyle course and meditation retreat with the confidence of men who had recently discovered philosophy.
+
+[[:silrie-aegiskiir | Silrie]] politely observed that there remained considerable work to be done on realising the Self. The party gathered their companions and moved on, some vowing to return when they were stronger and the building was, if possible, less actively homicidal.
+
+h2. Leaving Fallowhurst
 
 _Evening of the 25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -116,19 +103,13 @@ Next to the heavy studded door of the tower, stone hangs in the air. Roughly a m
 <br>
 As you approach the tower a surprised voice addresses you:<br>"Halt! Who goes there?"
 
-- Outpost set up to prevent anyone from the city wondering into Fallowhurst
-- [[:sebastian-warwick | Sebastian Warwick]] - [[House Meness | House Meness]] Adjutant
-- [[:myrath | Myrath]] - [[House Lithra | House Lithra]] Adjutant
-- Milestone: Everybody levels up
+The outpost existed to ensure that nobody from [[Sindrel | Sindrel]] wandered into [[Fallowhurst | Fallowhurst]] by mistake. It was crewed by [[:sebastian-warwick | Sebastian Warwick]], an [[Adjutant | adjutant]] of [[House Meness | House Meness]], and [[:myrath | Myrath]] of [[House Lithra | House Lithra]]. The party were invited to sleep in real beds, each marked with a symbol — some an eye, some the oval and cross seen at the college — whose meaning remained unclear. They slept well, and woke to breakfast. [[:ayr | Ayr]], in particular, was delighted, and spent the meal extracting what history he could between mouthfuls of bacon.
 
-- The adventurers are invited to sleep in beds - real beds! - that are each marked with a symbol. Some are eyes, some the oval and cross seen at Fallowhirst... the meaning of these symbols are yet to be fully understood.
-- All sleep through the night and are awoken to the smell of a full breakfast being prepared.
-- Ayr in particular is a big fan, and attempts to learn more of the purpose of the Outpost between hearty mouthfuls of bacon.
+Warwick explained that [[Fallowhurst | Fallowhurst]] village had been empty for centuries. Travellers had begun to vanish; eventually suspicion fell on the college, the old route was closed, and a new road and bridge were built to bypass the valley. The outpost stood to stop Sindrelians meeting the same fate, though Warwick noted that nobody had come from the city that way in living memory. A posting here, he admitted without much bitterness, was widely understood to be a punishment.
 
-- As it turns out, the village by Fallowhurst College has been a ghost town for centuries. Travellers started to go missing, first a few at a time, then none were able to pass through the area without going missing. Eventually a suspicious eye was cast on the college and before long the way was shut, with the new road and bridge formed to prevent further misadventure. Thus, the outpost was built to prevent those travelling from Sindrel from meeting the same fate, though Sebastian noted that nobody had come that way from the city in as long as anyone could remember. Indeed, being posted at the tower had a reputation for solitude as an unspoken punishment for misdeed or poor performance.
-- The adventurers learn of the eight schools of magic and of the Lords of Sindrel (roll credits), hearing of how one Lord sought to betray the others.
+Over the evening the adventurers heard of the eight schools of magic, the founding of [[Sindrel | Sindrel]], and the Lord who had sought to betray the others. By morning, everyone had gained a level of experience they were keen not to repeat.
 
-h3. The road to Sindrel
+h2. The Road to Sindrel
 
 _26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -136,19 +117,15 @@ bq). Those of you who have walked in this world for some time have a pretty clea
 <br>
 Sindrel sits on a high promontory jutting far out over the Norward Sea. Even the city's _location_ is impossible - the barren, mountainous ground supports no farmland that could feed it, nor is there anything resembling a source of fresh water here. But that is not what captures your eye nor fires your imagination. Banners bearing the device of an eight pointed star hang from high white walls, above which rise a majestic profusion of spires and plazas. The city is clearly, ostentatiously magical. In a world where the smallest illusion can be the talk of the town, Sindrel's use of magical power is breathtakingly profligate. Above the walls, rising spires become lost in the structures that hang _down_ from above - buildings that float impossibly in the air, constructed to mirror themselves vertically in a way that defies any idea of terrestrial construction. Between and above them pass airships, great vessels with gilded prows and shimmering sails that glide effortlessly through open air with no visible means of support. 
 
-- It isn't long before figures are spotted in the distance. It appears to be five patrolling soldiers on horseback. Anathemists, no doubt. Indeed, once they spot the distant adventurers, their path changes abruptly, heading straight for the group. One of them had consulted a scrolled paper, looked at it, at the group, at the paper, back at the group, then at their companion, at the paper, at the group, then back at the companion, who promptly takes up the paper and makes off back towards the bridge.
-- Silrie wastes no time what-so-ever in immediately teleporting onto the rear of the "fleeing" horseman's steed. In an apparent single action Silrie has grabbed and de-steeded the Anathemist, who was surely not expecting their personal space to be occupied at that moment in time.
-- Amanira immediately opts for stealth and attempts to hide herself at the roadside before the patrol gets too close.
+Figures appeared on the road ahead: five soldiers on horseback. [[Anathemists | Anathemists]], almost certainly. When they spotted the party their course changed at once. One consulted a scrolled paper, looked at the group, looked at the paper again, looked at a companion, looked at the paper once more, and then that companion took the paper and galloped back toward the bridge.
 
-_COMBAT!_
-- Wilrin casts a spell, with wild magic sparking a smaller 'echo' of him which directs at the closest adversary.
-- Ros uses a basic spell to communicate with two of the horses to convince them that they should desert their riders. One horse takes the opportunity to hoof a soldier before making a break for it.
-- Pin strategically targets a horse (because that's what you do right? Whatever it takes to put the enemy at a disadvantage) and succesfully downs a soldier.
-- Amanira steps out into clear view and attacks a soldier.
-- The wild magic from Wilrin's spell locks onto one of the soldiers and begins to run at them. Rightly expecting that something dreadful is about to happen casts a counter spell which causes a tiny pair of wings to sprout from the visage's ankles, launching the tiny fey-Wilrin high up into the air right before it explodes violently.
-- Silrin at this point is making their way back to the group, just in time to see the Wilrin firework.
+[[:silrie-aegiskiir | Silrie]] misty-stepped onto the rear of the fleeing rider's horse, grabbed him, and pulled him from the saddle before he had time to object to the occupancy of his personal space. [[:amanira | Amanira]] melted into the roadside cover.
 
-- Two hostages of the patrol remain, what will the adventurers make of this situation now?
+The remaining patrol closed. [[:wilrin-racenglade | Wilrin]] cast a spell; wild magic spawned a smaller echo of himself that hurled toward the nearest soldier. [[:rossin-ros-greyhirst | Ros]] spoke to two of the horses and persuaded them that their riders were poor career choices; one hoofed its soldier and bolted. [[:pin | Pin]] brought down another by targeting the mount. [[:amanira | Amanira]] stepped from cover to attack.
+
+The wild-magic echo locked onto a soldier who countered it with a spell of his own, sprouting tiny wings from its ankles and launching it skyward moments before it exploded like a firework. [[:silrie-aegiskiir | Silrie]], returning to the fray, arrived in time to admire the display.
+
+Two Anathemists remained in the party's hands. What to do with them was a question for another moment.
 
 <!-- GM_INFO_START -->
 h2. New Rules

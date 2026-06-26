@@ -52,15 +52,15 @@ The House's buildings are rarely static. Internal rooms are created with lightwe
 
 Mabon ornamentation is restrained but exacting. Joinery, bracket-work, metal inlay, lacquered beams, carved tool motifs, and geometric patterns reveal the maker's hand without overwhelming the function of the space. The House glyph appears on blue banners, workshop signs, bridge plaques, roof tiles, tool cabinets, and discreet seals above doors. In Mabon, decoration is not added after usefulness. It is usefulness refined until it becomes beautiful.
 
-The Annulus and [[Dockward | Dockward]] show this style at its largest scale. Terraced workshops, forge halls, enchantment chambers, design galleries, apprentice wards, market halls, and storehouses interlock in a dense, purposeful network. Smoke from kilns and forges rises through enchanted vents. Blue banners hang above narrow bridges. Warm light spills from workshops late into the night.
+Dockward shows this style at its largest scale. Terraced workshops, forge halls, enchantment chambers, design galleries, apprentice wards, market halls, and storehouses interlock in a dense, purposeful network. Smoke from kilns and forges rises through enchanted vents. Blue banners hang above narrow bridges. Warm light spills from workshops late into the night.
 
 A Mabon district does not try to intimidate or dazzle. It hums. It measures. It improves. Every beam is set, every joint is considered, and every space exists so that something can be imagined, shaped, repaired, taught, or made.
 
 h3. Headquarters
 
-The Annulus - a colossal ring shaped structure that hangs around the top of the Fulcrum like a halo. Half a mile across, it's effectively a floating street studded with airship docks, custom houses, shipwrights, and the other functional and administrative cruft of the city's vast trade network.
+The Prow, on the seaward rim of [[Dockward | Dockward]], serves as the headquarters of [[House Mabon | House Mabon]].
 
-While Annulus is the term for the _structure_, the district that it houses is [[Dockward | Dockward]].
+bq). Atop [[Sindrel | Sindrel]] hangs [[Dockward | Dockward]], a mile-wide ring of arches, cranes, and bays that serves as the city's principal airship port. Colloquially it is called the annulus, for the halo it forms around the upper reaches of [[The Fulcrum | the Fulcrum]]. On the seaward side of the ring stands the building known as The Prow. Its name is well earned: the walls sweep steeply outwards, creating a structure resembling nothing more than the bow of a colossal ship jutting out over the waves far below. From this high seat, [[House Mabon | House Mabon]] oversees a trade empire that covers much of the continent.
 
 h3. Anathemist Sabotage
 

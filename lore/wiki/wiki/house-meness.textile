@@ -53,9 +53,21 @@ House Meness armour is integrated rather than ostentatious. A patrol uniform mig
 
 Worn over the heart is a silver badge shaped like a shield - the official mark of an officer of Sindrel's law.
 
+h3. Headquarters
+
+The Panopticon serves as the headquarters of [[House Meness | House Meness]] — a floating fortress that circles [[Sindrel | Sindrel]] continuously.
+
+bq). Unlike the fixed estates of the other Houses, the Panopticon hangs in the air above [[Sindrel | Sindrel]], drifting on a slow, endless circuit of the city. From the outside, the headquarters of House Meness resemble a colosseum - a circular building almost as tall as it is wide. The outer surface is windowless. A wide gate leads to a tunnel-like passageway that takes visitors through the thickness of the outer structure and into the central plaza.
+<br>
+From within, you can see that the outer structure is much narrower at the top - the inner walls slope away from the plaza in a gentle arc, as though the entire colossal structure was a cup into which should rest a giant ball. The tiered balconies sparkle with windows and balconies, although these grow increasingly reinforced and fortified towards the top of the structure.
+<br>
+The core of the building is The Watchtower half as high again as the outer walls.
+<br>
+Within its walls are barracks, prisons, courtrooms, administrative offices, and command facilities. Its unhurried patrol overhead serves as a visible reminder of House Meness's responsibility for law, security, and order.
+
 h3. Anathemist Sabotage
 
-On _17th Enean_,  [[:major-vindas | Major Vindas]] was killed by a piece of armour with an inverted reflection enchantment. Instead of reversing incoming force, the enchantment amplified it. When she invited an aide to help test the armour with a low-level firebolt spell, she was incinerated instantly.
+On _17th Enean_, [[:major-vindas | Major Vindas]] was killed by a piece of armour with an inverted reflection enchantment. Instead of reversing incoming force, the enchantment amplified it. When she invited an aide to help test the armour with a low-level firebolt spell, she was incinerated instantly.
 
 The death of Major Vindas has deepened fears that the [[Anathemists | Anathemists]] are not merely attacking buildings or institutions, but turning ordinary magical safeguards into lethal traps.
 
@@ -68,13 +80,6 @@ h3. Overview
 h3. Leader
 
 [[:general-alicia-meness | General Alicia Meness]]
-
-
-h3. Headquarters
-
-The Panopticon serves as the headquarters of House Meness.
-Unlike the fixed estates of the other Houses, the Panopticon is a floating fortress that circles Sindrel continuously. Within its walls are barracks, prisons, courtrooms, administrative offices, and command facilities.
-Its constant presence above the city serves as a visible reminder of House Meness's responsibility for law, security, and order. While Meness officers are stationed throughout Sindrel in local barracks and watch-houses, ultimate authority resides within the Panopticon.
 
 h3. Ranks
 

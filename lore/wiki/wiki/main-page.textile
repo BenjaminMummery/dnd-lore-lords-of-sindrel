@@ -53,7 +53,7 @@ Our tale takes place in the northern regions of the continent of [[Artresh | Art
                 </ul>
             <li>[[Dockward | Dockward]]</li>
                 <ul style="padding-left: 28px;text-indent: -28px; ">
-                    <li>The Annulus - Headquarters of [[House Mabon | House Mabon]]</li>
+                    <li>The Prow — Headquarters of [[House Mabon | House Mabon]]</li>
                 </ul>
             <li>[[Sevenways | Sevenways]]</li>
             <li>[[The Wallarch District | Wallarch District]]</li>

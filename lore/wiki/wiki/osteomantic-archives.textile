@@ -33,6 +33,12 @@ What is less well known is that deeper into the catacombs is the Grand Museum of
 
 Even less well known still, in fact potentially unknown to anyone in [[Sindrel | Sindrel]] prior to the [[The Investigation | Wonch's investigation]], is that the catacombs are interconnected - each archive is linked to the others. While this makes something close to spatial sense on the lower levels, the fact that the floating archives of the upper levels are _also_ connected makes it clear that the catacombs themselves are magical.
 
+h4. Halls of History
+
+Deeper still lie thematic galleries devoted to historical events. The party encountered one such chamber during their exploration — a colossal diorama of the [[Seven Day War | Seven Day War]]:
+
+bq). The passageway opens into an enormous space - the walls and ceiling almost lost in the haze of distance. The floor rises and falls in a stone simulacrum of rolling hills, you can even see the glint of the meagre light reflecting from the waves of what appears to be a river. You realise that you are surrounded by a motionless army of armed and armoured skeletons. Or rather, as you look closer, two armies frozen in the throws of a colossal conflict. A macabre diorama whose grandiose effect is spoiled only slightly by the fact that many of the skeletons are missing parts - the floor is littered with teeth and fingerbones that, presumably, were once part of the display. A clear path demarcated by bands of silver laid into the dark stone of the floor, wends its way between the posed skeletons.
+
 h4. Necromantic Contamination
 
 The deeper regions of the catacombs, specifically those that venture towards the [[Quarantine Zone | Quarantine Zone]], remain contaminated by lingering necromantic energies. The effects are subtle at first. Ancient remains begin to stir. Bones shift when unobserved. The dead become increasingly animate.
@@ -45,13 +51,17 @@ Most of the Houses have a dedicated archive whose external architecture is consi
 h4. Exterior
 
 bq). Anywhere else, the Osteomantic Archives would be a grand hall. In Sindrel, where the single-storey building is dwarfed by the majestic structures around it, it looks oddly small and unassuming.
+<br>
 A sense of otherness hangs about it. Every aspect of the building appears at odds with its surroundings. The lack of height, the black stone of its construction, the pointed arches, gargoyles, and crockets that infest its densely ornate form are all strange and out of place in a city that favours gleaming white stone and airy colonnades.
 
 h4. The Hall of Skulls
 
 bq). It takes a moment for your eyes to adjust to the gloom. As they do, you find yourselves in a wide hall. A pair of chandeliers hang overhead, casting a shifting light through the cool, dry air.
+<br>
 On the wall opposite stand a pair of ornate doors, silver filigree glinting at their hinges. Yet it is the walls themselves that command attention. Floor to ceiling they are lined with small alcoves, each scarcely a foot across, and in every one rests a skull.
+<br>
 Only after a moment does the full extent of the decoration become apparent. The chandeliers, the ornamentation around the pillars, even the decorative inlay worked into the floor are all fashioned from bone.
+<br>
 Each alcove bears a small plaque naming the deceased. The remainder of each skeleton is carefully arranged around the skull in a compact display.
 
 <!-- GM_INFO_START -->
@@ -94,4 +104,20 @@ Possible caretaker behaviours:
 * becoming distressed because the Seven Day War display lacks "sufficient eyewitness material";
 * attempting to return Ayr's buckler, Pin's sword, or Deathwalker's head to "the relevant collection";
 * referring to the Fall of the Eighth House as a temporary interruption in staffing.
+
+h3. Unvisited Exhibits
+
+The deeper catacombs contain further historical dioramas the party has not yet reached.
+
+h4. Deeper into the seven-day war exhibit
+
+Some skeletons along the silver path bear symbols inlaid in their skulls. Touching one brings an eerie light to empty eye sockets and broken fragments of speech from the battle — Tellerite cries to retreat, Houd soldiers calling for ranks against late reinforcements. The display recreates the Battle of the Planes of Herrman, roughly 250 years ago.
+
+h5. The Battle of Brassmeade Bridge
+
+bq). The uneven floor is rent by a semicircular chasm that arcs outwards from the wall. On the other side you can see the exit - a doorway identical to the one through which you entered, surrounded by thronged skeletons (in Tellerite armour). Spanning the chasm is a narrow bridge, apparently made of brass, atop which stands the skeleton of a giant. A club the size of a carthorse is clasped in the colossus's hand, and it is posed with its back to you as if denying the crowded skeleton passage across the bridge.
+
+h4. The Founding of the Magedom of Houd
+
+bq). The floor beneath you is carved into a relief map of northern [[Artresh | Artresh]]. It is a patchwork of various stones and metals, as if assembled from some colossal jigsaw of mismatched construction. It is positioned so that Soulwind would stand at the exact centre of the room, but in its place is a raised dias with a tableau - a score of statues each made of a different material stand around a table. On the opposite side of the room behind a waist-high reproduction of the Arkay Mountains you can see an elaborate golden arch, its decorative ornamentation forming the silhouette of the city of Sindrel.
 <!-- GM_INFO_END -->

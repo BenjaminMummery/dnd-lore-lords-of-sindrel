@@ -215,27 +215,4 @@ Threads
 - Goela -> Your path leads through earth and ash and brimstone, but beware the fire and fury - its blinding light hides the spectre of death.  It is easy to get lost in the dark, but remember to trust in righteousness. Your lucky number is eight. Your lucky colour is red. Pay close attention to your friends, you may find yourself looking to them at times you don't expect. Avoid shellfish.
 - Grimbolg -> There's no point in 
 
-h2. Locations
-
-h3. The Records Office
-
-* Records of everyone who comes into or out of the city.
-* Notable characters: [[:myrath | Myrath]] - her rotation at [[Fallowhurst Outpost | Fallowhurst Outpost]] complete. Still not talkative, but less standoffish than last time. 
-* [[:regnif-d-log | Regnif d'Log]] - tagged as a potential agent / probable distraction - definitely a fake name, but an obvious one.
-* 
-
-
-h3. The Fulcrum
-
-bq). At the exact centre of the city stands a tower. Its base is surrounded by a wide moat - the magically provided source of the great river that ultimately falls from the tip of an overhanging cliff into the ocean below. Its tip is ringed by The Annulus - the mile-wide structure that serves as a dock for the airships. Between the two is over a mile of tower bedecked in balconies and windows. This is the administrative heart of the city, and the home to its most important and grandiose functions.
-
-h3. The Osteomantic Archives
-
-bq). 
-
-h4. The Catacombs
-
-h3. The Sacrum, Headquarters of House Samhain
-
-Within the quarantine zone
 <!-- GM_INFO_END -->

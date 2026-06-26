@@ -14,4 +14,10 @@ tags:
 - Organisation
 ---
 
-Provides magical education in Sindrel. Operated by an interdisciplinary board from all 7 houses.
+Provides magical education in [[Sindrel | Sindrel]]. Operated by an interdisciplinary board from all seven houses. Entry is restricted to [[Adjutant | Adjutants]] and [[Factor | Factors]] with house patronage.
+
+<!-- GM_INFO_START -->
+bq). One of the grander floating buildings, the Academy is an approximately spherical assemblage of towers, buttresses, and halls. The broad skyway that joins it to the arteries of the city is dotted with benches and shady trees infested with students in uncomfortable-looking academic gowns.
+
+Without a mark of patronage from one of the houses, visitors cannot gain entry.
+<!-- GM_INFO_END -->

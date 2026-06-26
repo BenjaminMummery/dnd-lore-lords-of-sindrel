@@ -10,6 +10,7 @@ op_created_at: '2026-06-01T17:09:20Z'
 op_updated_at: '2026-06-25T22:47:29Z'
 op_gm_only: true
 tags: []
+post_tagline: Mundane Malice...
 post_time: '2026-06-01T17:00:00Z'
 ---
 
@@ -54,7 +55,7 @@ h3. Dramatis Personae
     [end-accordion-item]
 
     [accordion-item] 
-        [title] Fulcum Servants [end-title] 
+        [title] Fulcrum Servants [end-title] 
         [content]
             * [[:nort | Nort]]
             * [[:chuggaz | Chugan "Chuggaz" Velm]]
@@ -95,11 +96,17 @@ The party left [[:alandria | Alandria]] behind them, her attendants packing away
 h3. The Fulcrum
 
 bq). The Fulcrum stands at the center of Sindrel in the way that a needle stands at the center of a lepidopterist's prize butterfly. Its existence is an obvious necessity - a council made up of all seven jealous and powerful houses must have a space from which to rule. By the same token, those matters of city life that must be administered need a place for the paperwork to get filed. And, most pressingly for the populace at large, when the city needs to put on a celebration or show of unity, there must be a suitable gathering place.
+<br>
 The _form_ that the structure takes, however, is anything but a utilitarian necessity. Despite being only a few dozen feet wide, it rises for from its octagonal base for over a mile into the sky, piercing through the strata of Sindrel's ever more rarified classes, and ultimately through several distinct weather systems. Clouds arrive halfway up, take one look at the upper stories, and apparently decide they live there now. On every side it is enclosed by the latticework of bridges and walkways that link the myriad spires of Sindrel, yet not a single one dares touch the pristine white marble of its skin. 
+<br>
 Architecture is an art, and art, by its nature, contains messages. This is the Fulcrum's first message - "We are might," it seems to say "and regardless of how mighty you might think yourself to be you will descend to walk upon the earth, to gaze up at our power, before you may enter."
+<br>
 Circling its base, moat-like, is the broad pond known as the Wellspring - the source of the city's magically conjured water. From this bubbling heart spreads an arterial network of canals, viaducts, portals, and, when all else fails, good old fashioned plumbing that supplies the liquid needs of the entire city.  And this is the fulcrum's second message: "We are sustenance, without our beneficence you would surely perish."
+<br>
 Among all the waterways that flow from the Wellspring, there is one that clearly dominates. A great artificial river that, in a series of artistically engineered curves, meanders through markets, beneath bridges, and past districts whose 'waterfront views' justify unreasonably high rents, before hurling itself from the city's edge at the very point of the promontory in a magnificent and ostentatiously impossible waterfall. And this the Fulcrum's third message: "We are wasteful. Our power and wealth is so great that we can afford to spend away one of our most necessary resources _just to show off_."
+<br>
 The entrance to the fulcrum is a series of wide arches, open and inviting. There is no security on display, no gate to close. "You are welcome" would be a charitable reading of the Fulcrum's final message, but the cynical observer sees the implication: "you are no threat. What could _you_ possibly do to us?"
+<br>
 This is the Fulcrum - a structure whose every fibre is designed to embody and broadcast the power, dominance, and invulnerability of Sindrel. And a little over a month ago, someone very nearly blew it up.
 
 [[The Hexine Circle | The Hexine Circle]] had told the party that explosive devices had been planted in the tunnels beneath the Fulcrum. One had detonated early. The others had been found and destroyed before they could bring the tower down. Now, standing before the immaculate face of the city's administrative heart, the party saw no obvious damage. Sindrel has hidden its wound well.
@@ -148,7 +155,7 @@ On the night of the closing ceremony, shifts had been extended and overlapped. S
 
 [[:kithrak-ii | Kithrak II]], instructed to search for traces of sulphur, returned instead with a collection of single left shoes. These were accepted in the spirit in which they were given. It is important to encourage initiative in the young, even when the young are skeletal dragons with a deeply literal approach to evidence.
 
-[[:nans | Nans]] and [[:cchuggaz | Chuggaz]] were on duty at [[The Fulcrum | The Fulcrum]]. [[:nort | Nort]], having worked nights, was asleep. So naturally, the party went to wake her.
+[[:nans | Nans]] and [[:chuggaz | Chuggaz]] were on duty at [[The Fulcrum | The Fulcrum]]. [[:nort | Nort]], having worked nights, was asleep. So naturally, the party went to wake her.
 
 h3. Nort's Tea
 
@@ -163,7 +170,9 @@ h3. The Cornucopia
 From the servants' quarters, the trail bent towards [[Granary Ward | Granary Ward]], and the headquarters of [[House Grimbolg | House Grimbolg]].
 
 bq).  On the opposite side of the city to [[The Wallarch District | Wallarch]], as if to form some sort of economic counterbalance, stands the Cornucopia. The transmuters of [[House Grimbolg | House Grimbolg]] produce water, basic foodstuffs, raw elements, specialist alloys, and a variety of materials whose names require several years of education and at least one unfortunate laboratory incident to pronounce correctly. Every loaf, ingot, bucket, beam, nail, nugget, and occasionally alarming new substance in [[Sindrel | Sindrel]] ultimately begins its life here.
+<br>
 The estate once aspired to grandeur. A fine manor house built in the column-heavy style of [[House Oestra | House Oestra]] stood amid sweeping landscaped gardens, laid out according to principles of beauty, symmetry, and the belief that somebody else will be doing the weeding. Those days are gone. The gardens now grow food wherever food can be persuaded to grow, and the house has been augmented with long sheds packed with supplies. A rose garden may delight the soul, but a warehouse full of copper is considerably more useful when the city plumbing explodes.
+<br>
 Day and night, carts rattle through the gates in a steady procession. They arrive burdened with the city's rubbish: broken furniture, worn tools, discarded crockery, bent nails, mysterious lumps of unidentified material, and all the other things people throw away while firmly believing they will never need them again. The contents are sorted, catalogued, dismantled, melted down, transmuted, and sent back out into Sindrel as something new. Because even wizards, who can rearrange the fundamental nature of reality with a word, know it is far easier to start with something than with nothing. 
 
 The party, or rather [[:rossin-ros-greyhirst | Ros]] and whoever she chose to acompany her, had a standing invitation from [[:navinea-senetera | Navinea Senetera]], who was eager to continue discussing Ros's thoughts on natural systems. Even without this they would not have struggled to gain entry - The Cornucopia is far less guarded than the Leageur or the [[The Fulcrum | Fulcrum]]. People come and go constantly. Work matters more than ceremony here, and ceremony has wisely chosen to stay out of the way.

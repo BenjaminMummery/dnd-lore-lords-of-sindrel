@@ -154,6 +154,10 @@ bq). Quite. You see our problem - we have long suspected that anathamist spies h
 <br>
 We also understand that you have not, as of yet, secured the patronage of one of the houses, and that your time in our great city is therefore limited. You are also clearly capable, resilient, and no friends to the anathamists. As new arrivals you are comparatively unknown and therefore able to go places and gain confidences that our more official agents would find impossible. Our offer to you is this: seek out the spies, bring them to justice, and you may have your pick of patronages. What say you?
 
+[[:emissary-halan | Halan]] added, when the party asked where they should begin:
+
+bq). Ah. This is another motiviation for our decision to bring in outside help. The council has failed to reach a consensus on the best approach. I'd advise that you discuss the matter with each of my colleagues at your convenience.
+
 The [[Hexine Circle | Hexine Circle]] requested the aid of [[The Adventurers | The Adventurers]] in rooting out Anathemist Spies. The [[:arise-to-victory-over-the-infidel-hoards | leutenant]] they captured made reference to highly sensitive information that could only be obtain by infiltrating one of the houses.
 
 <!-- GM_INFO_START -->
@@ -259,48 +263,4 @@ Immediate: investigate rumours of Anathamist spies. Each house has a different i
 - Lithra think they'll have made themselves out to be merchants or nobles - people with obvious and non-suspicious reasons to be there. Dulcinia or the Merchants for example?
 - Mabon - The acts of sabotage look random, but if they're here then they will, sooner or later, have a plan. Find the pieces that don't fit, figure out the shape of the part that's missing.
 
-h3. Potential Locations
-
-h4. The Houses of Healing
-
-Dotted throughout sindrel. The interiors are church-like, lots of high ceilings and light. 
-
-People:
-- Dulcinia and Pthul - the healers have pronounced her case to be 'most compelling' and are confident of improvement.
-- Matron Heth - Tabaxi healer ([[House Oestra | House Oestra]])
-- Sister Kore - Aaracokra healer ([[House Beltus | House Beltus]])
-
-h4. Heptade Academy
-
-bq). One of the grander floating buildings, the Academy is an approximately spherical assemblage of towers, buttresses, and halls. The broad skyway that joins it to the arteries of the city is dotted with benches and shady trees infested with students in uncomfortable-looking academic gowns.
-
-Without a mark of patronage from one of the houses, they definitely can't get in.
-
-h4. Necromancy Central
-
-_The Quarantine Zone_
-
-The region around the hq of necromancy is hidden behind high metal walls and scary signs. Something magically abhorrent happened there, and all who venture in are at risk.
-
-h4. [[House Mabon | House Mabon]]
-
-_The Prow_
-
-bq). Atop Sindrel sits a halo - a mile-wide annulus of arches, cranes, and bays hanging in the sky that serves as the main docking port for the fleet of airships. On the seaward side stands the building known as The Prow. It's name is well earned - the walls sweep steeply outwards creating a structure resembling nothing more than the bow of a colossal ship jutting out over the waves far below. From this high seat, House Mabon oversees a trade empire that covers much of the continent.
-
-h4. House Oestra
-
-_The Leaguer_
-
-bq). House Oestra is almost a city within a city. The Leaguer's boundaries are demarcated by high walls and armed guards. Unlike the slender delicate construction that dominates the city's architecture, the building within, glimpsed from higher levels or passing airships, are are blocky and functional. At the centre is a wide parade ground, overlooked by a keep of red stone.
-
-h4. House Meness
-
-_The Panopticon_
-
-bq). From the outside, the headquarters of House Meness resemble a colosseum - a circular building almost as tall as it is wide. The outer surface is windowless. A wide gate leads to a tunnel-like passageway that takes visitors through the thickness of the outer structure and into the central plaza.<br> From within, you can see that the outer structure is much narrower at the top - the inner walls slope away from the plaza in a gentle arc, as though the entire colossal structure was a cup into which should rest a giant ball. The tiered balconies sparkle with windows and balconies, although these grow increasingly reinforced and fortified towards the top of the structure.<br>The core of the building is The Watchtower half as high again as the outer walls. 
-
-h4. [[House Beltus | House Beltus]]
-
-bq).
 <!-- GM_INFO_END -->

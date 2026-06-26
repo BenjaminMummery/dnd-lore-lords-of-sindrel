@@ -63,45 +63,35 @@ _Afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 bq). The stairs lead down into a vaulted space punctuated by stone pillars, the dry air growing colder as you descend. As in the rooms above, the walls are lined with skull-populated alcoves. You recognise the pattern from the main hall - the alcoves are densely populated near the stairs, growing more sparse further into the room. In the weak light filtering down behind you, you can make out passageways leading off from the other three walls.
 
-One passageway is walled off after a short distance and the remaining space appears to be used to store broken furniture. The others lead to passageways, one heading towards the quarantine zone, the other away from it.
+The party's departure from the funeral of [[:micycle-smynth | Micycle Smynth]] lacked the dignity the occasion deserved. Robes were stolen, mortal remains were briefly airborne, and the officiants were avoided only by the narrowest of margins and a timely vision of the [[:embren-oestra | plague doctor]] that sent everyone running in the opposite direction.
 
-- Caused a commotion in the funeral, including sending the mortal remains of [[:micycle-smynth | Micycle Smynth]] flying all over the room.
-- Stole robes from the side room.
-- Narrowly avoided running into the two officiants _again_, summoning a vision of the plague doctor.
-- The party chose to head _towards_ the quarantine zone.
+They chose the passageway that led toward the quarantine zone.
 
-h3. The Archives
+h3. The Hall of Dragons
 
-h4. The Hall of Dragons
+The first great chamber held the skeleton of a colossal black dragon suspended from the ceiling, with a gallery above and smaller draconic remains arranged below. This was [[:kithrak-the-black | Kithrak the Black]] — or what remained of him.
 
-The skeleton of a colossal black dragon is suspended from the ceiling. Stairs lead up to a gallery offering a better view. The rest of the room is dotted with examples or smaller dragon skeletons, or incomplete ones.
+Movement came from the skull. A miniature black dragon, nesting inside the colossal one, scrambled down to investigate the intruders. The party adopted [[:kithrak-ii | Kithrak II]], slayer of mice, on the spot.
 
-- The big skeleton is that of [[:kithrak-the-black | Kithrak the Black]].
-- Encountered and adopted [[:kithrak-ii | Kithrak II]]
-- became aware of increasing necromantic "radiation" - the fuirther they go the more they're taking damage. This is also having the effect of reanimating the stored remains, an effect that appears to be roughly inversely proportional to their size - Kithrak II is the most animate due to being the smallest.
-- Each of the dragon skeletons includes a description of their specialist knowledge, leading Ros and Silrie to put together the original purpose of the archives: in a society where _Speak with Dead_ is available, the mortal remains are, themselves, a store of knowledge. The archives are not simply storage for the dead, they are, or rather were, a repository of information.
-- Some doorways are marked with white chalk - somebody recorded a path through here. Pin rubs the chalk marks off.
+The deeper they went, the stronger the necromantic presence became — a slow, ambient harm that seemed to reanimate stored remains in inverse proportion to their size. [[:kithrak-ii | Kithrak II]], being the smallest, was the liveliest. [[:rossin-ros-greyhirst | Ros]] and [[:silrie-aegiskiir | Silrie]], reading the labels and arrangements, pieced together the archives' original purpose: in a society where _Speak with Dead_ was commonplace, the dead themselves were a library. Each skeleton was an expert waiting to be consulted.
 
-h4. The Hall of Sages
+White chalk marked a path through the tunnels. [[:pin | Pin]], deciding discretion was the better part of leaving evidence for whoever had come before, rubbed the marks away.
 
-- A dozen or so skeletons in grand chairs, each with a lectern in front of them facing the viewier.
-- Wilrin stole a new set of robes
-- Nobody touched the lecterns
+h3. The Hall of Sages
 
-h4. The crossroads
+A dozen skeletons sat in grand chairs before lecterns, scholars frozen mid-seminar. [[:wilrin-racenglade | Wilrin]] acquired a fresh set of archive robes. Nobody touched the lecterns. Some lessons are learned the hard way; others are simply observed and filed under "later."
 
-- A nonogonal room with 9 doors leading off it. Aside from the door through which the party entered, each door has a house sigil above it. Two have chalk marks - the door bearing the sigil of [[House Oestra | House Oestra]], and the one with what they now recognise as the sigil of [[The Eighth House | The Eighth House]].
+h3. The Crossroads
 
-h4. The Hall of Aberrations
+The passageways opened into a nonagonal chamber with nine doors. Each bore a house sigil save the entrance they had used. Two doors were chalked: one marked [[House Oestra | House Oestra]], the other the sigil of [[The Eighth House | the defunct necromantic house]].
 
-- Contains the bones of, among others, an Ilithid, an otyugh, a slaad, and a beholder.
-- Ayr woke the [[:zalatan | Beholder]], leading to a semi-successful combat encounter.
+h3. The Hall of Aberrations
 
-Note to party: Thunderwave hits *every creature* with a 15 foot cube.  Stay away from Amanira.
+Beyond lay stranger bones — illithid, otyugh, slaad, and a beholder suspended among them like a malignant pearl.
 
-Ayr is the little gnome that could, and while he dished out 25 damage to the Beholder after accidentally awakening it with a misplaced stretch, he took 18 damage from Amanira’s Thunderwave which promptly reduced his HP to the negative numbers as he Nat 1’d his saving throw (on his Heroic Inspiration throw).
+[[:ayr | Ayr]] woke [[:zalatan | the beholder]] with an ill-considered stretch. Combat followed. [[:ayr | Ayr]] landed a solid blow before [[:amanira | Amanira]]'s thunderwave caught friend and foe alike; [[:ayr | Ayr]] failed to dodge his own party and dropped into unconsciousness with unfortunate thoroughness.
 
-Zalatan was further “Handled with Care” as the rest of the party rejoined (finally, after all etchings were taken, momentum regained, and mortal peril finally realised).  The beholder couldn’t be convinced to just play nice by Ros, and DW, Pin, and Wilrin made quick work of what was left of Zalatan.  Could’ve sworn his dying words were “Ah! Mabone!”  But that might not be canon.
+[[:rossin-ros-greyhirst | Ros]] could not negotiate peace with an undead eye tyrant. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]], [[:pin | Pin]], and [[:wilrin-racenglade | Wilrin]] finished what remained of [[:zalatan | Zalatan]]. The party took rubbings of the sigils on the walls and retreated toward the surface, the necrotic weight of the depths pressing harder with every step they took inward.
 
 <!-- GM_INFO_START -->
 1. Talk to celebrant Alruna?
@@ -130,8 +120,6 @@ h3. General
 Potential directions: inwards, outwards, around.
 
 h3. Close
-
-bq). The stairs lead down into a vaulted space punctuated by stone pillars, the dry air growing colder as you descend. As in the rooms above, the walls are lined with skull-populated alcoves. You recognise the pattern from the main hall - the alcoves are densely populated near the stairs, growing more sparse further into the room. In the weak light filtering down behind you, you can make out passageways leading off from the other three walls.
 
 Each opening leads to a short passageway. One leads to a storage space full of broken furniture, terminating in a walled-off doorway. The others lead inwards and outwards.
 
