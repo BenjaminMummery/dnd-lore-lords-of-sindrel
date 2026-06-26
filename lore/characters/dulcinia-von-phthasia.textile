@@ -21,9 +21,9 @@ Dulcinea is a slim, pallid young woman with dark hair. Her illness would be evid
 Her illness has prevented her from any form of travelling or outdoors activities for much of her life, and her sedentary existence has left her desperately bored. She lives vicariously through the tales of other people's exploits, and makes little distinction between the fictional characters in her books and real people.
 
 <!-- OP_BIO -->
-* *10th Enean 4218 SC*: Accompanied by her bodyguard Pthul, [[:dulcinia-von-phthasia | Dulcinia]] departs the von Phthasia estate in [[Soulwind | Soulwind]] with the goal of travelling to [[Sindrel | Sindrel]] to seek a magical cure for her ailment. The going is slow due to Dulcinia's ill health and the large amount of gold and jewels they are transporting.
+* *10th Enean 4218 [[The Soulwind Calendar | SC]]*: Accompanied by her bodyguard [[:pthul | Pthul]], Dulcinia departs the von Phthasia estate in [[Soulwind | Soulwind]] with the goal of travelling to [[Sindrel | Sindrel]] to seek a magical cure for her ailment. The going is slow due to Dulcinia's ill health and the large amount of gold and jewels they are transporting.
 * *24th Enean 4218 SC*: After a rag-tag group of adventurers recover her purse from some ruffians, Dulcinea invites them to share her table and listens in rapt attention to their stories.
-* *25th Enean 4218 SC*: Pthul and Dulcinia's coach is ambushed by Anathemists.
+* *25th Enean 4218 SC*: Pthul and Dulcinia's coach is ambushed by [[Anathemists | Anathemists]].
 
 <!-- GM_INFO_START -->
 <div contenteditable="true"  style="width:310px; font-family:Arial,Helvetica,sans-serif;font-size:11px;">

@@ -16,11 +16,11 @@ tags:
 [[File:1547488  | class=media-item-align-right | 300px | bone-house-1r.jpg]]
 Dotted around the city of [[Sindrel | Sindrel]] are The Houses of the Dead. These sprawling ossuaries house the mortal remains of the population in honoured repose for all time.
 
-The archives are independent of the Houses, and as such lack the resources of many of Sindrel's other facilities. Instead they are maintained by endowments from the wills of the wealthy, the charitable donations of the living, and the voluntary labour of the Curators - those who choose to operate and maintain the structures.
+The archives are independent of the Houses, and as such lack the resources of many of [[Sindrel | Sindrel]]'s other facilities. Instead they are maintained by endowments from the wills of the wealthy, the charitable donations of the living, and the voluntary labour of the Curators - those who choose to operate and maintain the structures.
 
 h3. Historical Purpose
 
-The Osteomantic Archives originally served a broader purpose than that of a conventional ossuary. Prior to the fall of [[The Eighth House | The Eighth House]], the Archives functioned as a repository of accumulated knowledge. Through necromantic consultation, scholars could seek testimony directly from the dead, allowing expertise and experience to survive across generations.The catacombs therefore contain not only the remains of ordinary citizens, but curated collections devoted to particular fields of knowledge. Entire galleries preserve dragons, sages, aberrations, and historical figures selected for the information they could provide.
+The Osteomantic Archives originally served a broader purpose than that of a conventional ossuary. Prior to the fall of [[The Eighth House | The Eighth House]], the Archives functioned as a repository of accumulated knowledge. Through necromantic consultation, scholars could seek testimony directly from the dead, allowing expertise and experience to survive across generations. The catacombs therefore contain not only the remains of ordinary citizens, but curated collections devoted to particular fields of knowledge. Entire galleries preserve dragons, sages, aberrations, and historical figures selected for the information they could provide.
 In this sense the Archives were not merely a cemetery - they were a library.
 
 When the house fell, this function was lost. The Archives remain one of [[Sindrel | Sindrel's]] greatest collections of remains, but no longer serve as the living repository of knowledge they once were. Few can recall that they ever served another purpose.
@@ -35,14 +35,14 @@ Even less well known still, in fact potentially unknown to anyone in [[Sindrel |
 
 h4. Halls of History
 
-Deeper still lie thematic galleries devoted to historical events. The party encountered one such chamber during their exploration — a colossal diorama of the [[Seven Day War | Seven Day War]]:
+Deeper still lie thematic galleries devoted to historical events. The party encountered one such chamber during their exploration — a colossal diorama of the [[World History | Seven Day War]]:
 
 bq). The passageway opens into an enormous space - the walls and ceiling almost lost in the haze of distance. The floor rises and falls in a stone simulacrum of rolling hills, you can even see the glint of the meagre light reflecting from the waves of what appears to be a river. You realise that you are surrounded by a motionless army of armed and armoured skeletons. Or rather, as you look closer, two armies frozen in the throws of a colossal conflict. A macabre diorama whose grandiose effect is spoiled only slightly by the fact that many of the skeletons are missing parts - the floor is littered with teeth and fingerbones that, presumably, were once part of the display. A clear path demarcated by bands of silver laid into the dark stone of the floor, wends its way between the posed skeletons.
 
 h4. Necromantic Contamination
 
 The deeper regions of the catacombs, specifically those that venture towards the [[Quarantine Zone | Quarantine Zone]], remain contaminated by lingering necromantic energies. The effects are subtle at first. Ancient remains begin to stir. Bones shift when unobserved. The dead become increasingly animate.
-More disturbing still is the effect upon the surrounding landscape. The farther one travels from the structured catacombs, the more the natural caverns begin to imitate them. Pillars, alcoves, galleries, and ossuaries appear where no architect ever worked. Local wildlife begin to solemnly place their dead in the alcoves in a macabre echo of the funerary rites of SIndrel. It is as though the idea of the catacombs is slowly spreading through the earth.
+More disturbing still is the effect upon the surrounding landscape. The farther one travels from the structured catacombs, the more the natural caverns begin to imitate them. Pillars, alcoves, galleries, and ossuaries appear where no architect ever worked. Local wildlife begin to solemnly place their dead in the alcoves in a macabre echo of the funerary rites of [[Sindrel | SIndrel]]. It is as though the idea of the catacombs is slowly spreading through the earth.
 
 h3. Appearance
 
@@ -50,7 +50,7 @@ Most of the Houses have a dedicated archive whose external architecture is consi
 
 h4. Exterior
 
-bq). Anywhere else, the Osteomantic Archives would be a grand hall. In Sindrel, where the single-storey building is dwarfed by the majestic structures around it, it looks oddly small and unassuming.
+bq). Anywhere else, the Osteomantic Archives would be a grand hall. In [[Sindrel | Sindrel]], where the single-storey building is dwarfed by the majestic structures around it, it looks oddly small and unassuming.
 <br>
 A sense of otherness hangs about it. Every aspect of the building appears at odds with its surroundings. The lack of height, the black stone of its construction, the pointed arches, gargoyles, and crockets that infest its densely ornate form are all strange and out of place in a city that favours gleaming white stone and airy colonnades.
 
@@ -65,32 +65,32 @@ Only after a moment does the full extent of the decoration become apparent. The 
 Each alcove bears a small plaque naming the deceased. The remainder of each skeleton is carefully arranged around the skull in a compact display.
 
 <!-- GM_INFO_START -->
-This system was set up by Samhain, but she didn't see fit to share the knowledge with her compatriots. The labyrinthine nature of the catacombs has successfully obscured this fact from all but the highest level curators.
+This system was set up by [[The Eighth House | Samhain]], but she didn't see fit to share the knowledge with her compatriots. The labyrinthine nature of the catacombs has successfully obscured this fact from all but the highest level curators.
 
 h3. The Unfinished Archive
 
-Although the are commonly treated as a sealed relic of the dead House, the truth is more troubling. House Samhain did not gather its collections solely by the hands of its own scions. The archive depended on a wide and carefully obscured infrastructure of contractors, embalmers, corpse-porters, gravediggers, mortuary clerks, oath-bound servants, anatomical buyers, battlefield scavengers, charitable hospitals, prison factors, and other useful people who understood only their own small part of the work.
+Although the are commonly treated as a sealed relic of the dead House, the truth is more troubling. [[The Eighth House | House Samhain]] did not gather its collections solely by the hands of its own scions. The archive depended on a wide and carefully obscured infrastructure of contractors, embalmers, corpse-porters, gravediggers, mortuary clerks, oath-bound servants, anatomical buyers, battlefield scavengers, charitable hospitals, prison factors, and other useful people who understood only their own small part of the work.
 
-When House Samhain fell, many of these arrangements did not end.
+When [[The Eighth House | House Samhain]] fell, many of these arrangements did not end.
 
 Some agents were never told whom they truly served. Some continued to fulfil old contracts because payment still arrived through blind trusts, dead-letter offices, and self-renewing enchantments. Some hereditary obligations passed from parent to child as peculiar family trades. Others were not living agents at all, but animated functionaries given simple instructions and no reason to stop.
 
 The surviving Seven believed they had sealed the dangerous parts of Samhain's legacy. They did not understand how far the archive network extended, nor how much of its lower structure lay outside the mapped and sanctioned archive halls. As a result, corpses, records, relics, and fragments of memory continued to find their way into the deeper levels for years after the fall.
 
-In places touched by the Quarantine Zone's necromantic radiation, this process has become stranger still. The idea of the Archive spreads outward, impressing its pattern onto tunnels, crypts, abandoned cellars, ossuaries, plague pits, forgotten battlefields, and the underside of the city itself. Spaces that were never built as archives begin to behave as though they were always meant to be catalogued. Bones arrange themselves into displays. Old deaths acquire labels. Corridors remember routes no mason cut.
+In places touched by the [[Quarantine Zone | Quarantine Zone]]'s necromantic radiation, this process has become stranger still. The idea of the Archive spreads outward, impressing its pattern onto tunnels, crypts, abandoned cellars, ossuaries, plague pits, forgotten battlefields, and the underside of the city itself. Spaces that were never built as archives begin to behave as though they were always meant to be catalogued. Bones arrange themselves into displays. Old deaths acquire labels. Corridors remember routes no mason cut.
 
 The Archive is not merely preserved.
 It is still collecting.
 
 h3. The Caretakers
 
-The lower [[Osteomantic Archives | Osteomantic Archives]] are not abandoned in the ordinary sense. House Samhain is gone, but some of its custodial systems remain active.
+The lower Osteomantic Archives are not abandoned in the ordinary sense. [[The Eighth House | House Samhain]] is gone, but some of its custodial systems remain active.
 
 Most disturbing are the so-called caretakers: undead archivists, porters, arrangers, docents, menders, cleaners, and preparators who still follow instructions issued by masters who have been dead for centuries. They do not hate the living. They do not scheme. They do not understand that their work is over. They simply maintain the Archive.
 
 A caretaker might reassemble bones into the correct historical posture, replace a missing skull, polish a commemorative plaque, sort corpse-tags, repair a cracked display case, retrieve an escaped specimen, or drag a newly delivered body into its proper thematic chamber. Some are little more than skeletal servants with ritual tools. Others retain enough skill to embalm, annotate, bind spirits to bone, or construct new interpretive displays from battlefield remains.
 
-This explains how later historical material, including exhibits connected to the [[Seven Day War | Seven Day War]], can appear in archive spaces that originated with House Samhain. The chamber may be Samhain-built, but the display was updated after the House's fall by contractors, old collection channels, or undead custodians continuing their orders. The Archive's dead bureaucracy outlived the institution that created it.
+This explains how later historical material, including exhibits connected to the [[World History | Seven Day War]], can appear in archive spaces that originated with [[The Eighth House | House Samhain]]. The chamber may be Samhain-built, but the display was updated after the House's fall by contractors, old collection channels, or undead custodians continuing their orders. The Archive's dead bureaucracy outlived the institution that created it.
 
 h4. GM Notes
 
@@ -100,10 +100,10 @@ Possible caretaker behaviours:
 * silently correcting a fallen skeleton while combat continues around them;
 * asking intruders for a catalogue number, donation chit, or next-of-kin release;
 * misidentifying a living visitor as an overdue exhibit;
-* wheeling in a corpse from a conflict that happened decades after Samhain's fall;
-* becoming distressed because the Seven Day War display lacks "sufficient eyewitness material";
+* wheeling in a corpse from a conflict that happened decades after [[The Eighth House | House Samhain]]'s fall;
+* becoming distressed because the [[World History | Seven Day War]] display lacks "sufficient eyewitness material";
 * attempting to return Ayr's buckler, Pin's sword, or Deathwalker's head to "the relevant collection";
-* referring to the Fall of the Eighth House as a temporary interruption in staffing.
+* referring to the [[The Fall of the Eighth House | Fall of the Eighth House]] as a temporary interruption in staffing.
 
 h3. Catacomb Exploration
 
@@ -134,7 +134,7 @@ h4. [[:embren-oestra | The Plague Doctor]]
 
 Like Tama, Embren found a way into the catacombs. Unlike her, he is lost and angry. He tracks the party using bone fragments, having built a rudimentary compass from wrist bones in [[:amanira | Amanira]]'s pouch.
 
-h4. Shrine of the Queen of Ravens
+h4. [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]]
 
 See [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]] (GM section).
 
@@ -142,7 +142,7 @@ h4. Unvisited Halls
 
 * *Hall of Sages* — skeleton experts; lecterns yield broken words only.
 * *Hall of Dragons* — colossal black dragon suspended; miniature dragon nesting in its skull.
-* *Hall of Aberrations* — illithid, otyugh, slaad, beholder (see [[Session 7: The Catacombs | Session 7]] for the party's encounter with [[:zalatan | Zalatan]]).
+* *Hall of Aberrations* — illithid, otyugh, slaad, beholder (see [[Session 7: Into The Catacombs | Session 7]] for the party's encounter with [[:zalatan | Zalatan]]).
 
 h3. Unvisited Exhibits
 
@@ -150,7 +150,7 @@ The deeper catacombs contain further historical dioramas the party has not yet r
 
 h4. Deeper into the seven-day war exhibit
 
-The display recreates the Battle of the Planes of Herrman, roughly 250 years ago. The room is laid out as a *reverse timeline* — the party enter where the Tellerite forces are fighting a desperate rearguard action. Passing through, they read the battle backwards: Tellerite reinforcements arriving too late; the Houd defenders defeating the Tellerite expeditionary force; and finally, near the exit, the Battle of Brassmeade Bridge recreated in propagandistic grandeur.
+The display recreates the Battle of the Planes of Herrman, roughly 250 years ago. The room is laid out as a *reverse timeline* — the party enter where the [[The Thaumocracy of Tellerin | Tellerite]] forces are fighting a desperate rearguard action. Passing through, they read the battle backwards: Tellerite reinforcements arriving too late; the [[The Magedom of Houd | Houd]] defenders defeating the Tellerite expeditionary force; and finally, near the exit, the Battle of Brassmeade Bridge recreated in propagandistic grandeur.
 
 Some skeletons along the silver path bear symbols inlaid in their skulls. Touching one brings an eerie light to empty eye sockets and broken fragments of speech from the battle — Tellerite cries to retreat, Houd soldiers calling for ranks against late reinforcements.
 
@@ -160,11 +160,11 @@ bq). The uneven floor is rent by a semicircular chasm that arcs outwards from th
 
 There is room to cross between the giant's legs. Using the bridge destabilises the skeleton and causes the club to fall — require a saving throw.
 
-h4. The Founding of the Magedom of Houd
+h4. The Founding of [[The Magedom of Houd | the Magedom of Houd]]
 
-bq). The floor beneath you is carved into a relief map of northern [[Artresh | Artresh]]. It is a patchwork of various stones and metals, as if assembled from some colossal jigsaw of mismatched construction. It is positioned so that Soulwind would stand at the exact centre of the room, but in its place is a raised dias with a tableau - a score of statues each made of a different material stand around a table. On the opposite side of the room behind a waist-high reproduction of the Arkay Mountains you can see an elaborate golden arch, its decorative ornamentation forming the silhouette of the city of Sindrel.
+bq). The floor beneath you is carved into a relief map of northern [[Artresh | Artresh]]. It is a patchwork of various stones and metals, as if assembled from some colossal jigsaw of mismatched construction. It is positioned so that [[Soulwind | Soulwind]] would stand at the exact centre of the room, but in its place is a raised dias with a tableau - a score of statues each made of a different material stand around a table. On the opposite side of the room behind a waist-high reproduction of the [[Arkay Mountain Range | Arkay Mountains]] you can see an elaborate golden arch, its decorative ornamentation forming the silhouette of the city of [[Sindrel | Sindrel]].
 
-The tableau depicts the founding of the Magedom of Houd. The different materials represent the various kingdoms that united — history rolls to recognise their old borders. The kingdoms were:
+The tableau depicts the founding of the [[The Magedom of Houd | Magedom of Houd]]. The different materials represent the various kingdoms that united — history rolls to recognise their old borders. The kingdoms were:
 * *Andromus*
 * Antlia
 * Apus

@@ -19,4 +19,4 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7516421/olivier-bernard-
 Kithrak the Black, scourge of Arkay, the starless shadow, ruinous lord of the North.
 
 <!-- OP_BIO -->
-Kithrak the Black was a colossal and ancient Black Dragon whose territory spanned much of the [[Arkay Mountain Range | Arkay Mountain range]]. He was ultimately defeated by the mages who would go on to become the founders of Sindrel. His bones are displayed in the [[Osteomantic Archives | Osteomantic Archives]].
+Kithrak the Black was a colossal and ancient Black Dragon whose territory spanned much of the [[Arkay Mountain Range | Arkay Mountain range]]. He was ultimately defeated by the mages who would go on to become the founders of [[Sindrel | Sindrel]]. His bones are displayed in the [[Osteomantic Archives | Osteomantic Archives]].

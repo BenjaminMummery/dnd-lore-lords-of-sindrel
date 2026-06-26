@@ -22,9 +22,9 @@ tags:
 
 
 <!-- GM_INFO_START -->
-High Summoner Nial Beltus is the ancient head of [[House Beltus | House Beltus]] and one of the surviving [[The Octarion Circle | founders]] of Sindrel. His symbolic item is [[:the-crown-of-shadows | The Crown of Shadows]], and the colour of his House is yellow, although this is typically styled as gold.
+High Summoner Nial Beltus is the ancient head of [[House Beltus | House Beltus]] and one of the surviving [[The Octarion Circle | founders]] of [[Sindrel | Sindrel]]. His symbolic item is [[:the-crown-of-shadows | The Crown of Shadows]], and the colour of his House is yellow, although this is typically styled as gold.
 
-Nial's power was built on conjuration at a scale no ordinary Caller could imagine. For centuries, he commanded, bound, bargained with, and exploited beings drawn from elsewhere. House Beltus's great civic works rely on the idea that the summoned can be controlled, contracted, and made useful.
+Nial's power was built on conjuration at a scale no ordinary Caller could imagine. For centuries, he commanded, bound, bargained with, and exploited beings drawn from elsewhere. [[House Beltus | House Beltus]]'s great civic works rely on the idea that the summoned can be controlled, contracted, and made useful.
 
 Nial now carries the cost of that certainty inside himself.
 
@@ -34,7 +34,7 @@ Nial fears that one day the relationship will reverse completely, and he will fi
 
 h4. The Founder’s Burden
 
-House Beltus believes in command: call, bind, name, bargain, dismiss. Nial's curse is that every command leaves an answer behind. The Crown of Shadows is therefore an apt symbol. It marks sovereignty over the unseen, but also suggests that his authority has become crowded by everything he once forced into obedience.
+[[House Beltus | House Beltus]] believes in command: call, bind, name, bargain, dismiss. Nial's curse is that every command leaves an answer behind. The Crown of Shadows is therefore an apt symbol. It marks sovereignty over the unseen, but also suggests that his authority has become crowded by everything he once forced into obedience.
 
 h4. Depictions
 

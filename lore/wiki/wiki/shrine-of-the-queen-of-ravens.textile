@@ -9,7 +9,7 @@ tags:
 - location
 ---
 
-A hidden chapel in the outward reaches of the [[Osteomantic Archives | Osteomantic Archives]], devoted to the Queen of Ravens in her aspect as vengeful reaper. The party discovered it during [[Session 8: The Dark Shrine | Session 8]] while lost in the catacombs beyond the chalked routes.
+A hidden chapel in the outward reaches of the [[Osteomantic Archives | Osteomantic Archives]], devoted to the [[The Gods | Queen of Ravens]] in her aspect as vengeful reaper. The party discovered it during [[Session 8: The Dark Shrine | Session 8]] while lost in the catacombs beyond the chalked routes.
 
 The party entered via a door blocked by tree roots and blood moss. Within they found a massacre around a makeshift shrine — corpses in dark robes, each wearing a neck amulet bearing the sigil of [[The Eighth House | House Samhain]]. Fabric draped from the ceiling suggested wings engulfing the congregation. On the altar stood an idol of obsidian and electrum — wings swept back, taloned hands outstretched. Blood on the wall spelled _AVENGE US._
 
@@ -22,13 +22,13 @@ Deep in the outward catacombs, beyond finished archive masonry. There was once a
 
 h3. The Devotional Circle
 
-A devotional circle formed within the wider house — Samhain retainers who worshipped the Queen of Ravens in her aspect as vengeful reaper. They stood outside the inner circle politically, which did not protect them when the house fell. Each corpse wears dark robes and the house amulet that marked Samhain service (see [[The Eighth House | The Eighth House]], GM *House Marks*). They died in agony; corpses are scattered across the room.
+A devotional circle formed within the wider house — [[The Eighth House | Samhain]] retainers who worshipped the [[The Gods | Queen of Ravens]] in her aspect as vengeful reaper. They stood outside the inner circle politically, which did not protect them when the house fell. Each corpse wears dark robes and the house amulet that marked Samhain service (see [[The Eighth House | The Eighth House]], GM *House Marks*). They died in agony; corpses are scattered across the room.
 
 h3. The Chapel
 
-Small by catacomb standards, but large enough for makeshift pews and an altar to the Queen of Ravens — a god of death. Dark fabric draped from the ceiling suggests a pair of wings reaching out to engulf the congregation.
+Small by catacomb standards, but large enough for makeshift pews and an altar to the [[The Gods | Queen of Ravens]] — a god of death. Dark fabric draped from the ceiling suggests a pair of wings reaching out to engulf the congregation.
 
-On the altar stands an idol — the Queen of Ravens in her aspect as the vengeful reaper: wings swept back in a predatory dive, talon-tipped hands outstretched. The idol is obsidian with electrum details. Removing it is blasphemy against the Carrion Queen and will have _consequences_.
+On the altar stands an idol — the [[The Gods | Queen of Ravens]] in her aspect as the vengeful reaper: wings swept back in a predatory dive, talon-tipped hands outstretched. The idol is obsidian with electrum details. Removing it is blasphemy against the [[The Gods | Carrion Queen]] and will have _consequences_.
 
 h3. The Lead Skeleton
 

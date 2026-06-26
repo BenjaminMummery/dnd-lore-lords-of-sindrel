@@ -16,14 +16,14 @@ tags:
 
 The Thaumocratic Empire of Tellerin once covered much of the south of the continent. They are typically remembered as being a dark and threatening force, famous for their use of necromancers in battle.
 
-Following their failed attempt to invade [[The Magedom of Houd | The Magedom of Houd]] in [[World History | 3953]] SC, the empire withdrew. Most of the outer colonies were abandoned and the imperial core closed its borders to outsiders. Of their current political or social structure little is known.
+Following their failed attempt to invade [[The Magedom of Houd | The Magedom of Houd]] in [[World History | 3953]] [[The Soulwind Calendar | SC]], the empire withdrew. Most of the outer colonies were abandoned and the imperial core closed its borders to outsiders. Of their current political or social structure little is known.
 
 <!-- GM_INFO_START -->
 h3. History
 
-v3953 SC (roughly 250 years ago
+v3953 [[The Soulwind Calendar | SC]] (roughly 250 years ago
 
-The death of magic was felt more swiftly and keenly in the south, which prompted the leaders of the Thaumocracy to push north. In 3951 SC, growing desperate, the thaumocrats attempted an invasion of the northern kingdoms, primarily [[The Magedom of Houd | The Magedom of Houd]].
+The death of magic was felt more swiftly and keenly in the south, which prompted the leaders of the Thaumocracy to push north. In 3951 [[The Soulwind Calendar | SC]], growing desperate, the thaumocrats attempted an invasion of the northern kingdoms, primarily [[The Magedom of Houd | The Magedom of Houd]].
 
 The decisive battle was fought on the Planes of Herrman, where a stalemate between the attacking Tellerites and the beleagured Houdians was ended by the timely arrival of Houdian reinforcements. The bulk of the Tellerite forces were delayed by the Battle of Brassmeade Bridge where, according to the tales, a single bezerker held the narrow bridge against the vastly superior force for a full day.
 
@@ -33,7 +33,7 @@ The position of Emperor of Tellerin was a lifetime appointment chosen by a conte
 
 h3. History
 
-The death of magic was felt more quickly in the south. In 3952 SC, growing desperate in the face of diminishing power, Emperor Virkine III launched an invasion of [[The Magedom of Houd | The Magedom of Houd]] to the north. This would become known as the Seven Day War.
+The death of magic was felt more quickly in the south. In 3952 [[The Soulwind Calendar | SC]], growing desperate in the face of diminishing power, Emperor Virkine III launched an invasion of [[The Magedom of Houd | The Magedom of Houd]] to the north. This would become known as the [[World History | Seven Day War]].
 
 Following defeat at the hands of Houdi defenders, Virkine was assassinated by his grand vizier Hurletoros the Black, sparking a civil war that has ravaged the empire.
 

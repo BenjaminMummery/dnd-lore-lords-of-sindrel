@@ -15,9 +15,9 @@ tags:
 - district
 ---
 
-For most visitors, the Merchant's Quarter _is_ Sindrel. Located near the great southern gates where the [[The Mage Road | Mage Road]] enters the city, it serves as the first stop for merchants, pilgrims, adventurers, and diplomats arriving overland. Inns, counting houses, warehouses, money changers, and caravan yards crowd its streets, while traders from across [[Artresh | Artresh]] haggle beneath the shadow of the floating city above. Though prosperous, the district remains fundamentally transient; few come here to stay, and fewer still come here to belong.
+For most visitors, the Merchant's Quarter _is_ [[Sindrel | Sindrel]]. Located near the great southern gates where the [[The Mage Road | Mage Road]] enters the city, it serves as the first stop for merchants, pilgrims, adventurers, and diplomats arriving overland. Inns, counting houses, warehouses, money changers, and caravan yards crowd its streets, while traders from across [[Artresh | Artresh]] haggle beneath the shadow of the floating city above. Though prosperous, the district remains fundamentally transient; few come here to stay, and fewer still come here to belong.
 
-Its existence is something of an unintended consequence of Sindrel's economic power - the great trade empire operating out of [[Dockward | Dockward]] is designed to deal with governments and nobles, but smaller operators quickly realised that they could make a good living buying magical good in Sindrel and trading them elsewhere. The influx of such traders naturally necessitated that there be somewhere for them to stay.
+Its existence is something of an unintended consequence of [[Sindrel | Sindrel]]'s economic power - the great trade empire operating out of [[Dockward | Dockward]] is designed to deal with governments and nobles, but smaller operators quickly realised that they could make a good living buying magical good in Sindrel and trading them elsewhere. The influx of such traders naturally necessitated that there be somewhere for them to stay.
 
 h3. Locations
 

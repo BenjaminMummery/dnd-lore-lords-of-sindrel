@@ -48,3 +48,16 @@ When creating a new `.textile` page locally, **do not** set portal-assigned fron
 - Active plot threads include **The Investigation**, Anathemist activity, and Fulcrum/Cornucopia sabotage.
 - Adventure logs live in `lore/wiki/adventure-log/`.
 - Party reference: **The Wonch** (`The Adventurers` wiki page).
+
+## Proactive Checks
+
+When preparing a push, or after accumulating a significant batch of lore edits, proactively run checks for the following:
+
+- **Canon consistency** — new or changed lore agrees with existing pages (names, timelines, factions, house marks, GM vs player boundaries).
+- **Wiki links** — every `[[Page | label]]` target must resolve to a page in `lore/**/*.textile` (match `name`, `title`, or `op_slug`). Common fixes:
+  - Use full adventure-log titles (e.g. `Session 7: Into The Catacombs`, not `Session 7: The Catacombs`).
+  - Link events without their own page via a parent (e.g. `[[World History | Seven Day War]]`).
+  - Do **not** link generic location terms to adventure logs (e.g. "the catacombs" ≠ Session 7; use plain text or `[[Osteomantic Archives | the catacombs]]`).
+- **Character links** — `[[:slug | Name]]` must match a character `op_slug`. `:slug` references to Obsidian Portal inventory/items that are not mirrored locally will not resolve in-repo; note these rather than inventing slugs.
+- **Missing links** — on pages you touch, link the first mention per paragraph of proper nouns that already have wiki or character pages. Prefer longest match first (`House Oestra` before `Oestra`). Skip self-links (a page must not link to itself — use plain text for the page title, aliases like *Leageur* on `house-oestra.textile`, or section headings). Also skip frontmatter and rank words used generically (`Factor`, `Adjutant`) unless referring to the rank wiki page.
+- **New pages** — omit portal-assigned frontmatter (`op_id`, `op_url`, `op_created_at`, `op_updated_at`); include `op_slug`, kind/type, `name`, `title`, `op_gm_only`, and `tags`.

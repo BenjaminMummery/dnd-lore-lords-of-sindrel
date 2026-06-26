@@ -24,9 +24,9 @@ h3. Know Factors
 * [[:alandria | Caller Alandria]] - Member of the [[Hexine Circle | Hexine Circle]] formed to counter [[Anathemists | Anathemist]] infiltration of the city.
 * [[:caller-georg | Caller Johann Georg]] - Killed during a suspected Anathemist sabotage, see below.
 
-h3. The Beltan Institute
+h3. The [[Beltan Institute | Beltan Institute]]
 
-House Beltus maintains the [[Beltan Institute | Beltan Institute]] as its official centre for regulated summoning, binding, banishment, and pact-work. The Institute is located on the Canted Terrace in the upper levels of Sindrel, close enough to power to be respectable but carefully screened from Merrylane and the richest neighbourhoods.
+House Beltus maintains the [[Beltan Institute | Beltan Institute]] as its official centre for regulated summoning, binding, banishment, and pact-work. The Institute is located on [[The Canted Terrace | the Canted Terrace]] in the upper levels of [[Sindrel | Sindrel]], close enough to power to be respectable but carefully screened from [[Merrylane | Merrylane]] and the richest neighbourhoods.
 
 The Institute's existence is a point of pride for House Beltus: proof that even the most dangerous forms of calling can be made disciplined, supervised, and useful.
 
@@ -40,7 +40,7 @@ Beltus presents power through excess. No self respecting Factor of the house wou
 
 h3. Architecture
 
-House Beltus architecture is built to impress, disarm, and dominate. Where House Meness builds in white stone to proclaim order, House Beltus builds in black marble, gold tile, perfumed shadow, and impossible luxury. Its buildings are palaces before they are offices, theatres before they are courts, and sanctuaries before they are workshops.
+House Beltus architecture is built to impress, disarm, and dominate. Where [[House Meness | House Meness]] builds in white stone to proclaim order, House Beltus builds in black marble, gold tile, perfumed shadow, and impossible luxury. Its buildings are palaces before they are offices, theatres before they are courts, and sanctuaries before they are workshops.
 
 The House favours great domes, high iwans, scalloped arches, tiled courtyards, reflecting pools, pierced screens, slender towers, and deep ceremonial gateways. These features are rendered in black stone, obsidian, dark lacquered wood, gold inlay, amber glass, lapis, onyx, and patterned tilework. Walls and floors often gleam as though freshly polished, regardless of how much traffic passes through them.
 
@@ -52,9 +52,9 @@ The House symbol is displayed in black against gold, or gold against black, abov
 
 h3. Anathemist Sabotage
 
-In recent months, House Beltus suffered a grotesque magical incident now believed to be part of the wider [[Anathemists | Anathemist]] sabotage campaign. On 14th Ostory, a summoning being carried out by [[:caller-georg | Caller Johann Georg]] went badly wrong. The demon broke free of the summoning circle and possessed the summoner. Under its influence, Caller Georg ran amok through the halls of the [[Beltan Institute | Beltan Institute]], defacing portraits and other precious items before his heart finally gave out.
+In recent months, House Beltus suffered a grotesque magical incident now believed to be part of the wider [[Anathemists | Anathemist]] sabotage campaign. On 14th Ostory, a summoning being carried out by [[:caller-georg | Caller Johann Georg]] went badly wrong. The demon broke free of the summoning circle and possessed the summoner. Under its influence, [[:caller-georg | Caller Georg]] ran amok through the halls of the [[Beltan Institute | Beltan Institute]], defacing portraits and other precious items before his heart finally gave out.
 
-As a final sick joke, the demon enchanted its own sulphurous leavings, which exploded after being gathered up with the rest of the day's refuse. The page of Caller Georg's newly purchased grimoire showing the appropriate summoning circle for a succubus was later found to have been vandalised.
+As a final sick joke, the demon enchanted its own sulphurous leavings, which exploded after being gathered up with the rest of the day's refuse. The page of [[:caller-georg | Caller Georg]]'s newly purchased grimoire showing the appropriate summoning circle for a succubus was later found to have been vandalised.
 
 Information recently uncovered by [[The Adventurers | the Wonch]] suggests that this event may have been a cover for the theft of a large quantity of sulfur.
 
@@ -68,13 +68,13 @@ h3. Philosophy
 
 House Beltus concerns itself with the arts of summoning and command. To House Beltus, civilisation exists because capable individuals impose order upon a chaotic world. The ability to command is not merely a skill, but a virtue. A properly ordered society is one in which every individual understands their responsibilities, every servant understands their duties, and every command is obeyed.
 
-This worldview has earned the House a reputation for arrogance. Beltus members often regard themselves as the indispensable machinery that keeps Sindrel functioning, and many privately believe their contributions are insufficiently appreciated by the other Houses.
+This worldview has earned the House a reputation for arrogance. Beltus members often regard themselves as the indispensable machinery that keeps [[Sindrel | Sindrel]] functioning, and many privately believe their contributions are insufficiently appreciated by the other Houses.
 
 h3. Headquarters
 
 Unlike the other Great Houses, House Beltus possesses no single headquarters.
 
-Each senior member of the House maintains their own estate, palace, or compound. To outsiders these appear as entirely separate properties scattered throughout Sindrel. Internally, however, they are linked by an extensive network of teleportation gates disguised as ordinary doors.
+Each senior member of the House maintains their own estate, palace, or compound. To outsiders these appear as entirely separate properties scattered throughout [[Sindrel | Sindrel]]. Internally, however, they are linked by an extensive network of teleportation gates disguised as ordinary doors.
 
 A Beltus noble may leave their study, open a seemingly mundane door, and emerge in another estate on the opposite side of the city. Meeting chambers, libraries, audience halls, and private offices may all be reached in this manner.
 

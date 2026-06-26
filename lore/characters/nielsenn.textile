@@ -30,7 +30,7 @@ h3. True Fate
 
 Nielsenn was not vaporised by one of his own trapped locks. His death was staged by the [[Anathemists | Anathemist]] cell.
 
-The conspirators identified him as a locksmith whose skills could be used to access [[:silas-oestra | Silas Oestra]]'s rooms. [[:barnabus | Barnabus]] helped identify and target him through servant networks and household intelligence. Nielsenn was kidnapped, held captive in The Sacrum, used during the [[Ditchquer | Ditchquer]] operation, and forced or coerced into applying his locksmith expertise alongside Silas Oestra's stolen key.
+The conspirators identified him as a locksmith whose skills could be used to access [[:silas-oestra | Silas Oestra]]'s rooms. [[:barnabus | Barnabus]] helped identify and target him through servant networks and household intelligence. Nielsenn was kidnapped, held captive in The [[Quarantine Zone | Sacrum]], used during the [[Ditchquer | Ditchquer]] operation, and forced or coerced into applying his locksmith expertise alongside [[:silas-oestra | Silas Oestra]]'s stolen key.
 
-After [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] finished copying and stealing material from Silas Oestra's rooms, they took Nielsenn back to the The Sacrum and killed him. His body lies in The Sacrum, and his spirit, trapped by the ambient necromantic magic, is nearby.
+After [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] finished copying and stealing material from [[:silas-oestra | Silas Oestra]]'s rooms, they took Nielsenn back to the The [[Quarantine Zone | Sacrum]] and killed him. His body lies in The Sacrum, and his spirit, trapped by the ambient necromantic magic, is nearby.
 <!-- GM_INFO_END -->

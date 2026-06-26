@@ -21,7 +21,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7495130/alruna.jpg
 
 
 <!-- GM_INFO_START -->
-Head curator of the Wallarch Osteomantic Archives.
+Head curator of the Wallarch [[Osteomantic Archives | Osteomantic Archives]].
 
 Real name: Alruna
 

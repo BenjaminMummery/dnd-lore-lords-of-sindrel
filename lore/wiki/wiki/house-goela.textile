@@ -25,7 +25,7 @@ h3. Known Factors
 
 h3. Fashion
 
-House Goela clothing favours flowing, layered garments in purple, violet, dusk-blue, white, silver, and black. Wrapped mantles, belted tunics, shoulder-pinned robes, pleated skirts or panels, and long draped himations are typical. In deference to Sindrel’s cold these are often paired with quilted underlayers, lined cloaks, and heavy shawls embroidered with constellations, omen-marks, and branching decision-patterns.
+House Goela clothing favours flowing, layered garments in purple, violet, dusk-blue, white, silver, and black. Wrapped mantles, belted tunics, shoulder-pinned robes, pleated skirts or panels, and long draped himations are typical. In deference to [[Sindrel | Sindrel]]’s cold these are often paired with quilted underlayers, lined cloaks, and heavy shawls embroidered with constellations, omen-marks, and branching decision-patterns.
 
 Unlike Beltus, Goela does not dress for luxury. Unlike Mabon, it does not dress for work. Goela dresses for meaning. A mantle may record a lineage of fulfilled predictions. A border pattern may indicate a school of divination. A silver clasp may mark the wearer as a witness, interpreter, oracle, or House Factor. Even failed prophecies may be embroidered into ceremonial garments, preserved as warnings against certainty.
 
@@ -37,9 +37,9 @@ Interpreters and Factors dress more soberly, in heavy purple civic robes, annota
 
 h3. Architecture
 
-Like House Oestra, House Goela's  architecture descends from antiquity. In contrast to the more martial house, however, the diviners echo the styles of temples, oracle sanctuaries, philosophical schools, and civic courts rather than fortresses or palaces. Where Oestra build their architecture around a core of reinforced utilitarian structures, Goela try to create open, welcoming spaces. Internal divisions are typically created via drapes of purple silk rather than walls.
+Like [[House Oestra | House Oestra]], House Goela's  architecture descends from antiquity. In contrast to the more martial house, however, the diviners echo the styles of temples, oracle sanctuaries, philosophical schools, and civic courts rather than fortresses or palaces. Where Oestra build their architecture around a core of reinforced utilitarian structures, Goela try to create open, welcoming spaces. Internal divisions are typically created via drapes of purple silk rather than walls.
 
-Goelan buildings favour pale marble, warm limestone, purple-veined stone, silver inlay, stepped terraces, colonnades, pediments,circular chambers, and broad consultation halls. Sindrel's climate and magical construction have altered these familiar forms into something stranger and grander. Colonnades are often enclosed with glass or crystal. Oracle courts are roofed against snow while still admitting moonlight and starlight. Marble floors are warmed from below. Bronze mirrors and dark pools are built into chambers to catch reflections of stars, lamps, faces, and things that may not yet have happened. The style is clean, formal, and deliberately legible: prophecy presented as public institution.
+Goelan buildings favour pale marble, warm limestone, purple-veined stone, silver inlay, stepped terraces, colonnades, pediments,circular chambers, and broad consultation halls. [[Sindrel | Sindrel]]'s climate and magical construction have altered these familiar forms into something stranger and grander. Colonnades are often enclosed with glass or crystal. Oracle courts are roofed against snow while still admitting moonlight and starlight. Marble floors are warmed from below. Bronze mirrors and dark pools are built into chambers to catch reflections of stars, lamps, faces, and things that may not yet have happened. The style is clean, formal, and deliberately legible: prophecy presented as public institution.
 
 A Goelan building often feels like a temple, courthouse, academy, and observatory occupying the same body. Citizens come to seek forecasts, interpretations, auspicious dates, dream-readings, omen rulings, and official judgements on uncertain matters. Public consultation chambers are arranged like small theatres, with petitioners below and interpreters above. Archives hold prophecies, failed predictions, omen registers, birth charts, weather signs, and records of decisions made under uncertainty.
 
@@ -82,7 +82,7 @@ Ahead stands the headquarters of the House itself. The Pythiol appears to be not
 <br>
 A shorter bridge branches away from the main platform to an smaller structure. Even constructed with Goela's characteristic pale limestone and fluted columns, you recognise the form of an Osteomantic Archive. There is a persistent rumour that aspiring factors of House Goela are expected to reserve their alcove in advance.
 <br>
-A queue has formed before the curtains. Merchants seeking favourable ventures, nobles seeking advantageous marriages, and gamblers seeking reassurance all wait patiently together. The gods, fate, destiny and random chance have spent millennia proving that they dislike being questioned. Yet people persisted, largely because the alternative was not knowing. One by one they file between two of the columns where the curtains have been drawn back. Within a few steps they have vanished into the ever-shifting confusion of coiling smoke and billowing curtains within.
+A queue has formed before the curtains. Merchants seeking favourable ventures, nobles seeking advantageous marriages, and gamblers seeking reassurance all wait patiently together. [[The Gods | The gods]], fate, destiny and random chance have spent millennia proving that they dislike being questioned. Yet people persisted, largely because the alternative was not knowing. One by one they file between two of the columns where the curtains have been drawn back. Within a few steps they have vanished into the ever-shifting confusion of coiling smoke and billowing curtains within.
 
 Interior:
 

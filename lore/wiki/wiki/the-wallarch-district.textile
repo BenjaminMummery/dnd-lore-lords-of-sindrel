@@ -13,12 +13,12 @@ tags:
 - location
 ---
 
-Pressed between the city's outer wall and the barriers of the [[Quarantine Zone | Quarantine Zone]], Wallarch is [[Sindrel | Sindrel]]'s poorest district. Generations of labourers, migrants, and those with nowhere else to go have settled in its crowded streets, creating a community defined as much by resilience as by hardship. The looming presence of the Quarantine Zone shapes daily life here, its walls serving as both a warning and a reminder of the city's oldest wound. While many citizens of Sindrel rarely visit Wallarch, few can honestly claim not to know someone who once lived there.
+Pressed between the city's outer wall and the barriers of the [[Quarantine Zone | Quarantine Zone]], Wallarch is [[Sindrel | Sindrel]]'s poorest district. Generations of labourers, migrants, and those with nowhere else to go have settled in its crowded streets, creating a community defined as much by resilience as by hardship. The looming presence of the [[Quarantine Zone | Quarantine Zone]] shapes daily life here, its walls serving as both a warning and a reminder of the city's oldest wound. While many citizens of [[Sindrel | Sindrel]] rarely visit Wallarch, few can honestly claim not to know someone who once lived there.
 
 h2. Appearance
 
 bq). Sandwiched between the city's outer wall and the iron boundary of the [[Quarantine Zone | Quarantine Zone]], Wallarch feels enclosed on every side.
 <br>
-The buildings are the same seamless stonework seen elsewhere in Sindrel, but the forms are crude and weathered. Here and there are signs of repairs made with more conventional building materials. Demons are noticeably more common here, openly going about their assigned tasks.
+The buildings are the same seamless stonework seen elsewhere in [[Sindrel | Sindrel]], but the forms are crude and weathered. Here and there are signs of repairs made with more conventional building materials. Demons are noticeably more common here, openly going about their assigned tasks.
 <br>
 Only after visiting Wallarch does one realise how much care has been taken elsewhere in the city to position the floating buildings so as to preserve open sky above the streets. No such effort has been made here. Bridges and structures crowd overhead, leaving the district shadowed and gloomy even at the height of the day.

@@ -22,11 +22,11 @@ tags:
 
 
 <!-- GM_INFO_START -->
-h3. Target of the Ditchquer Heist
+h3. Target of the [[Ditchquer | Ditchquer]] Heist
 
 Silas's rooms were the true target of the [[Anathemists | Anathemist]] operation during the [[Ditchquer | Ditchquer]] closing ceremony.
 
-[[:barnabus | Barnabus]] pickpocketed Silas's key at the party and passed it to Arouraios, who was disguised as a coachman. [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] collected the key, then used it with [[:nielsenn | Nielsenn's]] locksmith skills to access Silas's rooms through the [[Osteomantic Archives | archive]] route while House Oestra's attention was drawn away by the Fulcrum explosives.
+[[:barnabus | Barnabus]] pickpocketed Silas's key at the party and passed it to Arouraios, who was disguised as a coachman. [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] collected the key, then used it with [[:nielsenn | Nielsenn's]] locksmith skills to access Silas's rooms through the [[Osteomantic Archives | archive]] route while [[House Oestra | House Oestra]]'s attention was drawn away by [[The Fulcrum | the Fulcrum]] explosives.
 
 The conspirators copied what they could and stole what they could not. The exact stolen material remains a key unresolved point, but the breach is directly connected to the [[Anathemists | Anathemists]]' knowledge of [[Kosmios | Kosmios]].
 <!-- GM_INFO_END -->

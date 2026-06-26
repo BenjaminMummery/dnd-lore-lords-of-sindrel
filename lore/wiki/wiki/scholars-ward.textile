@@ -15,7 +15,7 @@ tags:
 - district
 ---
 
-The Scholars Ward grew around the [[The Heptade Academy | Heptade Academy]] and remains the intellectual heart of [[Sindrel | Sindrel]]. Students, professors, scribes, tutors, librarians, and aspiring magi fill its crowded streets, where bookshops and lecture halls stand beside cheap lodgings and communal dining halls. The district is one of constant debate and perpetual motion, where revolutionary ideas are discussed over breakfast and forgotten by supper. Many of Sindrel's future leaders pass through the Scholars Ward, though relatively few ever leave it entirely behind.
+The Scholars Ward grew around the [[The Heptade Academy | Heptade Academy]] and remains the intellectual heart of [[Sindrel | Sindrel]]. Students, professors, scribes, tutors, librarians, and aspiring magi fill its crowded streets, where bookshops and lecture halls stand beside cheap lodgings and communal dining halls. The district is one of constant debate and perpetual motion, where revolutionary ideas are discussed over breakfast and forgotten by supper. Many of [[Sindrel | Sindrel]]'s future leaders pass through the Scholars Ward, though relatively few ever leave it entirely behind.
 
 h3. Locations
 

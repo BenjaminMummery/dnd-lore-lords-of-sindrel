@@ -35,7 +35,7 @@ The typical silhouette is sturdy and mobile: rolled sleeves, reinforced aprons, 
 
 Grimbolg elites dress like workers because authority in the House comes from demonstrated skill. There is no true badge of office. People follow those who have proven, through labour and judgement, that they know what they are doing. A senior Factor may wear finer wool, better leather, more intricate knotwork, or an old torc earned through respect, but they will still look as though they could step into a waterworks failure and start solving it.
 
-Telling older clothing aside from newer is all but impossible - when a transmuter repairs something they restore it to a near pristine condition. The only clue to a garment's age is its ornamentation -  garments baring elaborate knotwork, enamelled buckles, carved clasps, patterned cloaks, and beautiful toolwork epitomise the early days of the house. In recent years, as the House has become increasingly strained by Sindrel's demands, new garments have grown plainer and more utilitarian. Decoration remains where it supports morale, memory, identity, or craft-pride. It disappears where it slows the work.
+Telling older clothing aside from newer is all but impossible - when a transmuter repairs something they restore it to a near pristine condition. The only clue to a garment's age is its ornamentation -  garments baring elaborate knotwork, enamelled buckles, carved clasps, patterned cloaks, and beautiful toolwork epitomise the early days of the house. In recent years, as the House has become increasingly strained by [[Sindrel | Sindrel]]'s demands, new garments have grown plainer and more utilitarian. Decoration remains where it supports morale, memory, identity, or craft-pride. It disappears where it slows the work.
 
 h3. Architecture
 
@@ -43,13 +43,13 @@ House Grimbolg architectureis  naturalistic, but it is not rustic. It is the arc
 
 Typical Grimbolg buildings are warm, green, and lovingly made. They favour rough stone, turf roofs, moss gardens, circular doors and windows, ringfort layouts, roundhouse forms, standing-stone markers, carved lintels, knotwork channels, and smooth slopes in place of stairs. Their structures often seem coaxed from the ground rather than built on top of it. Toolmarks are unheard of - stone curves as if it has grown into shape. Form follows function, but that form has been refined to the point of beauty. Knotwork, spirals, carved roots, woven patterns, and interlocking bands mark water channels, storage doors, cistern rims, garden walls, and thresholds. This is not frivolous ornament. Shaping their surroundings is easy for the transmuters, and making those surroundings beautiful is a form of pride in the work.
 
-More modern Grimbolg architecture still carries that inheritance, but the pressure of sustaining Sindrel has made it increasingly utilitarian. Living spaces remain vibrant, but work areas are harder and plainer. The elegant organic forms remain, but there is less decoration, less thought given to the aesthetic balance of a space. In Grimbolg architecture, beauty still survives, but it is increasingly asked the same question as everything else: what work do you do?
+More modern Grimbolg architecture still carries that inheritance, but the pressure of sustaining [[Sindrel | Sindrel]] has made it increasingly utilitarian. Living spaces remain vibrant, but work areas are harder and plainer. The elegant organic forms remain, but there is less decoration, less thought given to the aesthetic balance of a space. In Grimbolg architecture, beauty still survives, but it is increasingly asked the same question as everything else: what work do you do?
 
 h3. Headquarters
 
-In theory, House Grimbolg is a decentralised structure with each of the major production hubs acting as their own HQ. In practice, the Cornucopia, centre of food and water production, is where most people think of as their seat of power. Its position on the ground tier of Sindrel and easy availability of refreshments make it the natural place to host visitors.
+In theory, House Grimbolg is a decentralised structure with each of the major production hubs acting as their own HQ. In practice, the Cornucopia, centre of food and water production, is where most people think of as their seat of power. Its position on the ground tier of [[Sindrel | Sindrel]] and easy availability of refreshments make it the natural place to host visitors.
 
-bq). On the opposite side of the city to Wallarch, as if to form some sort of economic balance, stands the Cornucopia. The transmuters of House Grimbolg produce water, basic foodstuffs, raw elements, specialist alloys, and a variety of materials whose names require several years of education and at least one unfortunate laboratory incident to pronounce correctly. Every loaf, ingot, bucket, beam, nail, nugget, and occasionally alarming new substance in Sindrel ultimately begins its life here.
+bq). On the opposite side of the city to Wallarch, as if to form some sort of economic balance, stands the Cornucopia. The transmuters of House Grimbolg produce water, basic foodstuffs, raw elements, specialist alloys, and a variety of materials whose names require several years of education and at least one unfortunate laboratory incident to pronounce correctly. Every loaf, ingot, bucket, beam, nail, nugget, and occasionally alarming new substance in [[Sindrel | Sindrel]] ultimately begins its life here.
 <br>
 The estate once aspired to grandeur. A fine manor house stood amid sweeping landscaped gardens, laid out according to principles of beauty, symmetry, and the belief that somebody else will be doing the weeding. Those days are gone. The gardens now grow food wherever food can be persuaded to grow, and the house has been augmented with long sheds packed with supplies. A rose garden may delight the soul, but a warehouse full of copper is considerably more useful when the city plumbing explodes.
 <br>
@@ -59,13 +59,13 @@ h3. Anathemist Sabotage
 
 House Grimbolg suffered one of the earliest and deadliest incidents in the suspected [[Anathemists | Anathemist]] sabotage campaign. On 6th Ostory, the control rod of one of House Grimbolg's water generators was inverted, causing a water storage tank to overflow. The resulting flood drowned [[:dogara | Hydromancer D'gara]] and caused significant losses from the adjacent storage silos. The sabotage was not magical but mechanical - the swapping of gemstones used to indicate which orientation of the rod would have what effect.
 
-The damage was not limited to the loss of life. The incident disrupted stores and supply processes at a time when House Grimbolg was already under pressure to maintain the city's food, water, and material production. Because House Grimbolg's work underpins much of Sindrel's basic survival, the sabotage has raised serious concern about the vulnerability of the city's infrastructure.
+The damage was not limited to the loss of life. The incident disrupted stores and supply processes at a time when House Grimbolg was already under pressure to maintain the city's food, water, and material production. Because House Grimbolg's work underpins much of [[Sindrel | Sindrel]]'s basic survival, the sabotage has raised serious concern about the vulnerability of the city's infrastructure.
 
 Among the disrupted stores was a silo of saltpetre. The party now suspects the “loss” of saltpetre may have concealed the theft of an unknown quantity for the purpose of constructing explosives.
 
-h3. Relationship to the Wonch
+h3. Relationship to [[The Adventurers | the Wonch]]
 
-House Grimbolg, particularly [[:navinea-senetera | Navinea Senetera]] are neutral to positively disposed to the Wonch. Their interactions have been polite and respectful.[[:rossin-ros-greyhirst | Rossin Greyhirst]]'s insight and expertise on natural systems is of interest and may lead to a future roundtable with Grimbolg transmuters.
+House Grimbolg, particularly [[:navinea-senetera | Navinea Senetera]] are neutral to positively disposed to [[The Adventurers | the Wonch]]. Their interactions have been polite and respectful. [[:rossin-ros-greyhirst | Rossin Greyhirst]]'s insight and expertise on natural systems is of interest and may lead to a future roundtable with Grimbolg transmuters.
 
 <!-- GM_INFO_START -->
 h3. Overview
@@ -73,7 +73,7 @@ h3. Overview
 * Architecture reference: Celtic
 * Philosophy: Growth — Life flourishes through cultivation, stewardship, and abundance. Prosperity is something that must be nurtured.
 
-Lately the house has been meeting an increased demand for other raw materials as the Kosmios project shifts from extractive to settler colonialism, making up the shortfall as the colonies and military ramp up consumption.
+Lately the house has been meeting an increased demand for other raw materials as the [[Kosmios | Kosmios]] project shifts from extractive to settler colonialism, making up the shortfall as the colonies and military ramp up consumption.
 
 h3. Ethos
 
@@ -88,7 +88,7 @@ The council could probably replace him as speaker if they so chose, but they typ
 
 h3. Headquarters
 
-The Cornucopia was originally a grand estate, commissioned by House Oestra during a phase when they were trying to establish all of the Sindrel houses as a form of nobility. The shapers found the rooms and hallways too restrictive and angular to be of much practical use, and the building was disused for some time. Eventually, as the needs of food production became greater, the estate was converted into the resource hub it is today.
+The Cornucopia was originally a grand estate, commissioned by [[House Oestra | House Oestra]] during a phase when they were trying to establish all of the [[Sindrel | Sindrel]] houses as a form of nobility. The shapers found the rooms and hallways too restrictive and angular to be of much practical use, and the building was disused for some time. Eventually, as the needs of food production became greater, the estate was converted into the resource hub it is today.
 
 The manor house is little more than storage, with additional sheds being constructed by the shapers. When they need to host, they use the meeting hall below - a blue-stone dome through the centre of which grows a mighty tree, ultimately emerging into the courtyard of the manor house above.
 

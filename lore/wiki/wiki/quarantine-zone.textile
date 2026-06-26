@@ -17,7 +17,7 @@ tags:
 At the heart of the Quarantine Zone stand the ruins of [[The Eighth House | The Eighth House]], sealed away since the fall. The district remains contaminated by dangerous necromantic energies that have resisted every attempt at reclamation for nearly a thousand years. Though the walls surrounding the Zone are maintained, breaches inevitably appear, drawing scavengers, treasure hunters, and the desperate into its abandoned streets. Most never return. For the rest of [[Sindrel | Sindrel]], the Quarantine Zone serves as both a physical hazard and a permanent uncomfortable reminder that even the greatest of the Founders could fail.
 
 <!-- GM_INFO_START -->
-The House Samhain hq is known as the Sacrum
+The [[The Eighth House | House Samhain]] hq is known as the Sacrum
 
 h3. Anathemist Staging Ground
 
@@ -31,13 +31,13 @@ h3. The Layered Wound
 
 The Quarantine Zone is a real necromantic disaster zone, but not for the reason the public believes.
 
-At its core is the scar left by Samhain's severing spell and the deaths of the Samhainites who remained in Sindrel when the rift sealed behind her. Their deaths, combined with the violent closure of the way to Thanismot, left a necromantic wound in the city.
+At its core is the scar left by Samhain's severing spell and the deaths of the Samhainites who remained in [[Sindrel | Sindrel]] when the rift sealed behind her. Their deaths, combined with the violent closure of the way to [[Thanismot | Thanismot]], left a necromantic wound in the city.
 
-And then the Seven then made matters worse. Their attempts to purge, contain, study, or control what remained of House Samhain damaged the area further. Some dangers now blamed on Samhain are actually the result of the Seven's intervention.
+And then the Seven then made matters worse. Their attempts to purge, contain, study, or control what remained of [[The Eighth House | House Samhain]] damaged the area further. Some dangers now blamed on Samhain are actually the result of the Seven's intervention.
 
 The Zone is also useful. Its danger made the public story believable. It stands as visible proof that Samhain had sacrificed her followers and cursed her own House.
 
 h3. What Remains
 
-The Quarantine Zone still contains fragments of House Samhain. These include broken civic infrastructure, old streets, courts, ossuaries, homes, academies, hospitals, memory-archives, and necromantic wards. Some undead within the Zone are not monsters, but custodians: librarians, witnesses, wardens, failed evacuees, or caretakers still trying to fulfil duties assigned centuries ago. The Zone also contains [[:the-red-mourning | The Red Mourning]], Samhain's ring which she modified to hold a black stone from Thanismot. It is not a portal or rift-key. It is a clue, a tool of remembrance, and a way to call to the dead.
+The Quarantine Zone still contains fragments of [[The Eighth House | House Samhain]]. These include broken civic infrastructure, old streets, courts, ossuaries, homes, academies, hospitals, memory-archives, and necromantic wards. Some undead within the Zone are not monsters, but custodians: librarians, witnesses, wardens, failed evacuees, or caretakers still trying to fulfil duties assigned centuries ago. The Zone also contains [[:the-red-mourning | The Red Mourning]], Samhain's ring which she modified to hold a black stone from [[Thanismot | Thanismot]]. It is not a portal or rift-key. It is a clue, a tool of remembrance, and a way to call to the dead.
 <!-- GM_INFO_END -->

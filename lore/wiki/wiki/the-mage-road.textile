@@ -18,5 +18,5 @@ The ancient thoroughfare linking [[Sindrel | Sindrel]] and [[Soulwind | Soulwind
 Starting from [[Soulwind | Soulwind]], the Mage Road wends its way north over increasingly mountainous terrain. A number of small towns and coaching inns lie along its path, and these places make a decent income from providing lodging and food to the steady flow of merchants and travellers. The grandest of these is the last: [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]. Beyond this point, the road navigates a series of harsh mountain ridges and wide valleys, ultimately crossing the great bridge over the Deren Valley and passing through the [[Arkay Mountain Range | Arkay Mountains]].
 
 <!-- GM_INFO_START -->
-The mage road is dotted with the ruins of transference towers, dating back to Sindrel's magical link with Soulwind.
+The mage road is dotted with the ruins of transference towers, dating back to [[Sindrel | Sindrel]]'s magical link with [[Soulwind | Soulwind]].
 <!-- GM_INFO_END -->

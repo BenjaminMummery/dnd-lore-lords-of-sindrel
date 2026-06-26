@@ -13,4 +13,4 @@ tags:
 - location
 ---
 
-Providers of medical aid in Sindrel.
+Providers of medical aid in [[Sindrel | Sindrel]].

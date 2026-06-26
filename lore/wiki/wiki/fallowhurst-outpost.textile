@@ -13,4 +13,4 @@ tags:
 - location
 ---
 
-A guardpost intended to prevent travellers from Sindrel accidentally entering Fallowhurst
+A guardpost intended to prevent travellers from [[Sindrel | Sindrel]] accidentally entering [[Fallowhurst | Fallowhurst]]

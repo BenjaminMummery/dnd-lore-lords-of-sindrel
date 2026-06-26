@@ -13,7 +13,7 @@ tags:
 - Organisation
 ---
 
-Religious zealots who believe that mortal misuse of magic angered the Gods, leading to their withdrawal and the death of magic. They hold that only by purging the unholy practice of magic from the face of [[Arcan | Arcan]] can the Gods’ light be restored.
+Religious zealots who believe that mortal misuse of magic angered [[The Gods | the Gods]], leading to their withdrawal and the death of magic. They hold that only by purging the unholy practice of magic from the face of [[Arcan | Arcan]] can the Gods’ light be restored.
 
 h3. Notable Members
 
@@ -21,20 +21,20 @@ h3. Notable Members
 
 h3. History
 
-* *25th of Enean, 4218 [[The Soulwind Calendar | SC]]*: A force of Anathemists ambush the Sindrel coach. They claim to be interested only in the gold and other valuables carried therein. Despite taking losses, they deploy a novel weapon, slaying the [[:lacerta-kirrahe | leader]] of the [[The Vermillion Company | mercenaries]] guarding the coach.
+* *25th of Enean, 4218 [[The Soulwind Calendar | SC]]*: A force of Anathemists ambush the [[Sindrel | Sindrel]] coach. They claim to be interested only in the gold and other valuables carried therein. Despite taking losses, they deploy a novel weapon, slaying the [[:lacerta-kirrahe | leader]] of the [[The Vermillion Company | mercenaries]] guarding the coach.
 
 <!-- GM_INFO_START -->
 "Anathema" is a name for a formal curse by a pope or a council of the Church, excommunicating a person or denouncing a doctrine.
 
 The Anathemists are an inter-faith religious order working towards the eradication of magic.
 
-They believe that the only way to restore the grace of the gods is to denounce the blasphemous use of magic. As such, they maintain that the existence of Sindrel is an affront to the gods and a barrier to their return. Sindrel, therefore, must be destroyed.
+They believe that the only way to restore the grace of [[The Gods | the gods]] is to denounce the blasphemous use of magic. As such, they maintain that the existence of [[Sindrel | Sindrel]] is an affront to the gods and a barrier to their return. Sindrel, therefore, must be destroyed.
 
-They have been cautiously probing Sindrel's defences and have become openly hostile to travellers heading towards the city.
+They have been cautiously probing [[Sindrel | Sindrel]]'s defences and have become openly hostile to travellers heading towards the city.
 
 h2. Ideology
 
 
 
-Anathemist ideology has its roots in the teachings of , which holds that the ability to perform magic was gifted to mortals by the Gods. The Anathemist interpretation holds that the most powerful magic users turned their backs on the gods and used their power hubristically to improve their own station, ultimately coming to challenge the gods themselves. In retaliation, they believe, the Gods stripped mortals of their gift of magic, and turned their backs on the world.
+Anathemist ideology has its roots in the teachings of , which holds that the ability to perform magic was gifted to mortals by [[The Gods | the Gods]]. The Anathemist interpretation holds that the most powerful magic users turned their backs on the gods and used their power hubristically to improve their own station, ultimately coming to challenge the gods themselves. In retaliation, they believe, the Gods stripped mortals of their gift of magic, and turned their backs on the world.
 <!-- GM_INFO_END -->

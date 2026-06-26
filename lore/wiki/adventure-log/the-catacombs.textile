@@ -32,7 +32,7 @@ h3. Dramatis Personae
     [accordion-item]
         [title] Associates and Companions [end-title]
         [content]
-            * [[:razorbeak | Chicken]] - a chicken.
+            * [[:razorbeak | Chicken]] - a [[:razorbeak | chicken]].
             * [[:hunts-by-night | Cat]] - a cat.
         [end-content]
     [end-accordion-item]
@@ -65,7 +65,7 @@ bq). The stairs lead down into a vaulted space punctuated by stone pillars, the 
 
 The party's departure from the funeral of [[:micycle-smynth | Micycle Smynth]] lacked the dignity the occasion deserved. Robes were stolen, mortal remains were briefly airborne, and the officiants were avoided only by the narrowest of margins and a timely vision of the [[:embren-oestra | plague doctor]] that sent everyone running in the opposite direction.
 
-They chose the passageway that led toward the quarantine zone.
+They chose the passageway that led toward the [[Quarantine Zone | quarantine zone]].
 
 h3. The Hall of Dragons
 

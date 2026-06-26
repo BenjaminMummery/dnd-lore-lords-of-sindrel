@@ -33,7 +33,7 @@ h3. Dramatis Personae
     [accordion-item]
         [title] Associates and Companions [end-title]
         [content]
-            * [[:razorbeak | Chicken]] - a chicken.
+            * [[:razorbeak | Chicken]] - a [[:razorbeak | chicken]].
             * [[:hunts-by-night | Cat]] - a cat.
             * [[:kithrak-ii | Kithrak II]] - an undead dragon
         [end-content]
@@ -77,9 +77,9 @@ Away from the chalked routes, the finished masonry of the archives gave way to r
 
 Following a whisper of wind through the dark, the party found a tangle of tree roots and blood moss breaking through from above. They cleared the blockage to reveal a hidden door.
 
-h3. The Shrine of the Queen of Ravens
+h3. The [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]]
 
-Beyond lay a massacre around a makeshift [[Shrine of the Queen of Ravens | shrine to the Queen of Ravens]]. Corpses in dark robes wore neck amulets bearing the sigil of [[The Eighth House | The Eighth House]]. They had died in agony, scattered across a small chapel draped in fabric that suggested wings engulfing the congregation. On the altar stood an idol of the Queen in her aspect as vengeful reaper — obsidian and electrum, wings swept back, taloned hands outstretched.
+Beyond lay a massacre around a makeshift [[Shrine of the Queen of Ravens | shrine to the Queen of Ravens]]. Corpses in dark robes wore neck amulets bearing the sigil of [[The Eighth House | The Eighth House]]. They had died in agony, scattered across a small chapel draped in fabric that suggested wings engulfing the congregation. On the altar stood an idol of the [[The Gods | Queen of Ravens]] in her aspect as vengeful reaper — obsidian and electrum, wings swept back, taloned hands outstretched.
 
 Daubed on the wall in ancient blood: _AVENGE US._
 
@@ -87,6 +87,6 @@ The party looted what they could. [[:ayr | Ayr]] took an elaborate buckler from 
 
 h3. Emergence
 
-Another route led onward and upward. The tunnels spat the party out through the [[Osteomantic Archives | Osteomantic Archives]] of [[House Oestra | House Oestra]] — not the Wallarch branch they had entered, but one within the Leaguer itself.
+Another route led onward and upward. The tunnels spat the party out through the [[Osteomantic Archives | Osteomantic Archives]] of [[House Oestra | House Oestra]] — not the [[The Wallarch District | Wallarch]] branch they had entered, but one within the [[House Oestra | Leageur]] itself.
 
 [[:commander-locke | Prefect Locke]] marched over almost immediately, demanding to know how they had got in, why they had not followed his advice about weaponsmiths, and whether anything they intended to say could be considered the truth.

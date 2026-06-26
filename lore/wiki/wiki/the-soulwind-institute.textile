@@ -14,4 +14,4 @@ tags:
 - Organisation
 ---
 
-The now defunct magical university of Soulwind.
+The now defunct magical university of [[Soulwind | Soulwind]].

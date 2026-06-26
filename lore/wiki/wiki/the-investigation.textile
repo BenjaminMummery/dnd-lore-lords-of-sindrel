@@ -29,7 +29,7 @@ h2. Current Leads
     [end-accordion-item]
 
     [accordion-item]
-        [title] The Black Cats [end-title]
+        [title] [[The Black Cats | The Black Cats]] [end-title]
         [content]
             bq). Shake down the local criminals. Our spies need ways to move about the city, ways to get their hands on information, equipment, resources, all without being noticed. That requires a lot of familiarity with the city. Why start from scratch when you can use whats already here? Somewhere out there are some mid- to high-level crooks who are suddenly much better paid as a reward for the treason. Below them are petty scum looking to get rich. They’re the weak link, find them and lean on them.
 
@@ -39,7 +39,7 @@ h2. Current Leads
             * Crime is most prevalent in [[The Wallarch District | The Wallarch District]].
             * [[:emerich-surefoot | Emerich Surefoot]], whom [[:nakoma-deathwalker-mor-got-ha |Deathwalker]] previously beat in a game of cards, is a low-level enforcer for the [[The Black Cats | Cats]].
             * According to [[:emerich-surefoot | Emerich Surefoot]], his immediate superior in [[The Black Cats | The Black Cats]] operates out of the back room of [[The Cutthroat's Repose | The Cutthroat's Repose]]. The password is "Swordfish".
-            * According to [[:nort | Nort]], a servant who works at the [[The Fulcrum | Fulcrum]], one of her colleagues [[:chuggaz | Chugan "Chuggaz" Velm]] is rumoured to have links to the Black Cats.
+            * According to [[:nort | Nort]], a servant who works at the [[The Fulcrum | Fulcrum]], one of her colleagues [[:chuggaz | Chugan "Chuggaz" Velm]] is rumoured to have links to [[The Black Cats | the Black Cats]].
          [end-content]
     [end-accordion-item]
 
@@ -63,7 +63,7 @@ h2. Current Leads
 
             _[[:navinea-senetera | Navinea Senetera]] ([[House Grimbolg | House Grimbolg]])_
 
-            * [[:navinea-senetera | Navinea Senetera]] believes that the Anathemists are responsible for the sabotages, and that they are attempting to cause a cascade failure in Sindrel's delicate ecosystem.
+            * [[:navinea-senetera | Navinea Senetera]] believes that the [[Anathemists | Anathemists]] are responsible for the sabotages, and that they are attempting to cause a cascade failure in [[Sindrel | Sindrel]]'s delicate ecosystem.
         [end-content]
     [end-accordion-item]
 
@@ -77,7 +77,7 @@ I jest of course, I have confirmed the Lady Von Pthasia's identity myself, and e
             _[[:emissary-halan | Emissary Halan]] ([[House Lithra | House Lithra]])_
 
             * Records of visitors to the city are held at a [[House Lithra | House Lithra]] building at the main gate.
-            * The [[:arouraios | The Coachman with the Poncy Glasses]] seen by the servant [[:nort | Nort]] on the noght of the Fulcrum bombing appeared to be in the service of a visiting dignitary.
+            * The [[:arouraios | The Coachman with the Poncy Glasses]] seen by the servant [[:nort | Nort]] on the noght of [[The Fulcrum | the Fulcrum]] bombing appeared to be in the service of a visiting dignitary.
         [end-content]
     [end-accordion-item]
 
@@ -95,7 +95,7 @@ I jest of course, I have confirmed the Lady Von Pthasia's identity myself, and e
     [end-accordion-item]
 
     [accordion-item]
-        [title] The Osteomantic Archives [end-title]
+        [title] The [[Osteomantic Archives | Osteomantic Archives]] [end-title]
         [content]
             bq). The Osteomantic Archives. Think about it – they must have a base of operations – somewhere their comings and goings won’t be noticed. Somewhere well trafficked but anonymous. People go in and out of the archives all the time, but nobody stays long. And, nobody thinks much of it if you’re a bit strange. The catacombs are a labyrinth, and they’re chronically understaffed. You could hide anything down there.
 
@@ -105,7 +105,7 @@ I jest of course, I have confirmed the Lady Von Pthasia's identity myself, and e
             * The archives are connected by an enormous subterranean labyrinth of catacombs. Very few people seem to be aware of this fact.
             * Somebody left chalk marks denoting a trail from the Wallarch archive that leads through the catacombs. The trail heads towards the [[Quarantine Zone | Quarantine Zone]], and from there towards the [[House Oestra | House Oestra]] Archive.
             * Something was stored and frequently removed and replaced in an alcove just past where the route branches.
-            * The catacombs beneath the quarantine zone cannot be accessed without some form of protection against the necromantic radiation.
+            * The catacombs beneath the [[Quarantine Zone | quarantine zone]] cannot be accessed without some form of protection against the necromantic radiation.
             * There are breaches in the Quarantine Zone wall that allow it to be accessed from [[The Wallarch District | Wallarch]]
         [end-content]
     [end-accordion-item]
@@ -125,7 +125,7 @@ I jest of course, I have confirmed the Lady Von Pthasia's identity myself, and e
     [end-accordion-item]
 
     [accordion-item]
-        [title] The Fulcrum Bombing [end-title]
+        [title] [[The Fulcrum | The Fulcrum]] Bombing [end-title]
         [content]
              * The bombs used mundane gunpowder, not magic.
             * One of the 12 devices detonated early.
@@ -138,7 +138,7 @@ I jest of course, I have confirmed the Lady Von Pthasia's identity myself, and e
     [end-accordion-item]
 [end-accordion]
 
-We know that the [[Anathemists | Anathemists]] ended up with highly classified information. The current working assumption is that they are the masterminds of all of these events, but the evidence does not yet rule out another faction, a false-flag operation, or Anathemists using non-obvious proxies.
+We know that the [[Anathemists | Anathemists]] ended up with highly classified information. The current working assumption is that they are the masterminds of all of these events, but the evidence does not yet rule out another faction, a false-flag operation, or [[Anathemists | Anathemists]] using non-obvious proxies.
 
 h3. Acts of Sabotage
 
@@ -162,7 +162,7 @@ In addition to the information leak, a series of accidents around the city are b
     [accordion-item]
         [title] *14th Ostory* [end-title]
         [content]
-            A summoning being carried out by [[:caller-georg | Caller Johann Georg]] at the [[Beltan Institute | Beltan Institute]] went catastrophically wrong. The demon broke free of the summoning circle and possessed the summoner. Under its influence, Caller Georg ran amok through the halls of the Beltan Institute defacing a number of portraits and other precious items before his heat finally gave out. As a final sick joke, the demon enchanted its own sulphurous leavings which, when gathered up with the rest of the day's refuse, exploded. The page of his newly purchased grimoire showing the appropriate summoning circle for a succubus was found to have been vandalised.
+            A summoning being carried out by [[:caller-georg | Caller Johann Georg]] at the [[Beltan Institute | Beltan Institute]] went catastrophically wrong. The demon broke free of the summoning circle and possessed the summoner. Under its influence, [[:caller-georg | Caller Georg]] ran amok through the halls of the [[Beltan Institute | Beltan Institute]] defacing a number of portraits and other precious items before his heat finally gave out. As a final sick joke, the demon enchanted its own sulphurous leavings which, when gathered up with the rest of the day's refuse, exploded. The page of his newly purchased grimoire showing the appropriate summoning circle for a succubus was found to have been vandalised.
         [end-content]
     [end-accordion-item]
 
@@ -272,7 +272,7 @@ h4. Setup
 
 * Enter the city as small groups - Regnif d'Log] and his servants [[:arouraios | Arouraios]] and [[:barnabus | Barnabus]] as one group, the merchants [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] as another.
 * Use the criminals around the city to infiltrate the garbage collection. This gives them a way to move materials around the city.
-* [[:barnabus | Barnabus]], supposedly acting as an agent of [[:regnif-d-log | d'Log]], made a deal with a magical armourer ([[kelferria-the-smith | Kelferria]] of [[House Mabon | House Mabon]]) for a large order of enchanted armour. He made a large down payment with promises of a lot more.  Kelferria produced a few samples, which is what he actually wanted. This serves two purposes: protection within the quarantine zone so they can use The Sacrum as their staging ground, and disguises - the armorer supplies [[House Oestra | House Oestra]], so the chest-plates, once clumsily decorated with the oestra crest, will pass as Oestra at a distance.
+* [[:barnabus | Barnabus]], supposedly acting as an agent of [[:regnif-d-log | d'Log]], made a deal with a magical armourer ([[kelferria-the-smith | Kelferria]] of [[House Mabon | House Mabon]]) for a large order of enchanted armour. He made a large down payment with promises of a lot more.  Kelferria produced a few samples, which is what he actually wanted. This serves two purposes: protection within the [[Quarantine Zone | quarantine zone]] so they can use The [[Quarantine Zone | Sacrum]] as their staging ground, and disguises - the armorer supplies [[House Oestra | House Oestra]], so the chest-plates, once clumsily decorated with the oestra crest, will pass as Oestra at a distance.
 
 h4. Gathering Supplies
 
@@ -281,16 +281,16 @@ h4. Gathering Supplies
 * Charcoal can be bought as a fuel around the city (although [[:regnif-d-log | d'Log]] has noticed that his lodgings appear to be particularly cold).
 * They identify and kidnap [[:nielsenn | Nielsenn]], staging the explosion in his shop to suggest his death.
 * The remaining acts of sabotage are to provide cover for the thefts and to create a sense of paranoia.
-* The charcoal, nitre, and sulfur are accumulated at the Sacrum.
+* The charcoal, nitre, and sulfur are accumulated at the [[Quarantine Zone | Sacrum]].
 
-h4. The Ditchquer Closing Ceremony
+h4. The [[Ditchquer | Ditchquer]] Closing Ceremony
 
 * [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] plant the explosives.
 * At the [[Ditchquer | Ditchquer]] Closing ceremony, [[:barnabus | Barnabus]] lifts [[:silas-oestra | Silas Oestra]]'s key and passes it off to [[:arouraios | Arouraios]] who is disguised as a coachman.
 * [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]]  emerge from the tunnels and colect the key from  [[:arouraios | Arouraios]]
 * They collect the [[:nielsenn| Nielsenn]] and make their way into the catacombs.
-* The first explosive detonates. Reinforcements are summoned from House Oestra, leaving them understaffed.
-* [[:georges-de-selve | Georges de Selve]], [[:jean-de-dinteville | Jean de Dinteville]] and the locksmith [[:nielsenn| Nielsenn]] emerge from the archives within the leaguer. In the dark, the symbol painted on their armour passes as House Oestra.
+* The first explosive detonates. Reinforcements are summoned from [[House Oestra | House Oestra]], leaving them understaffed.
+* [[:georges-de-selve | Georges de Selve]], [[:jean-de-dinteville | Jean de Dinteville]] and the locksmith [[:nielsenn| Nielsenn]] emerge from the archives within the [[House Oestra | leaguer]]. In the dark, the symbol painted on their armour passes as House Oestra.
 * They make their way to the keep, using the key and locksmith to access [[:silas-oestra | Silas's]] rooms. They copy what they can and steal what they can't, then leave.
 * [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] take [[:nielsenn| Nielsenn]] back to the hq, where they kill him. They then leave the city, returning to the disguise as merchants.
 * 35 days later, they return for more 'merchanting'. Barnabus, as part of d'Log's retinue, has been permitted to remain until his master's business is concluded.

@@ -14,11 +14,11 @@ tags: []
 
 h2. The Age of Magic is Ending
 
-Over the last century, the gradual decay of the supernatural has become undeniable. Mages who once reshaped reality now struggle with simple illusions; enchanted items that should last generations are exhausted after a handful of uses; even those who draw their power from the gods have found their deities to be growing distant and uninterested.
+Over the last century, the gradual decay of the supernatural has become undeniable. Mages who once reshaped reality now struggle with simple illusions; enchanted items that should last generations are exhausted after a handful of uses; even those who draw their power from [[The Gods | the gods]] have found their deities to be growing distant and uninterested.
 
 As the old power structures crumble, new and ambitious ideologies compete for dominance. The chaos is growing, and the new shape of the world is up for grabs.
 
-Born into this world, you have lived the majority of your lives with the knowledge that once concrete certenties are eroding around you. And you have all, for your own reasons, made the long, arduous journey to the one place on earth where wonders persist - Sindrel, the last city of magic.
+Born into this world, you have lived the majority of your lives with the knowledge that once concrete certenties are eroding around you. And you have all, for your own reasons, made the long, arduous journey to the one place on earth where wonders persist - [[Sindrel | Sindrel]], the last city of magic.
 
 * [[Main Page | Wiki]]
 * "Adventure Log":https://thelordsofsindrel.obsidianportal.com/adventure-log

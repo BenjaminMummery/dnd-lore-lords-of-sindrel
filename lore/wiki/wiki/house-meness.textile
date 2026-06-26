@@ -51,11 +51,11 @@ The House's ancient lineage shows through in disciplined details. Coats are edge
 
 House Meness armour is integrated rather than ostentatious. A patrol uniform might include a polished breastplate under the coat, bracers hidden beneath sleeves, or a reinforced gorget at the throat. Riot or crisis gear is more obvious: white-lacquered shields, pale helmets, layered lamellar panels, and long batons or short spears. Even then, the impression is not of warriors charging into battle, but of a line that will not break.
 
-Worn over the heart is a silver badge shaped like a shield - the official mark of an officer of Sindrel's law.
+Worn over the heart is a silver badge shaped like a shield - the official mark of an officer of [[Sindrel | Sindrel]]'s law.
 
 h3. Headquarters
 
-The Panopticon serves as the headquarters of [[House Meness | House Meness]] — a floating fortress that circles [[Sindrel | Sindrel]] continuously.
+The Panopticon serves as the headquarters of House Meness — a floating fortress that circles [[Sindrel | Sindrel]] continuously.
 
 bq). Unlike the fixed estates of the other Houses, the Panopticon hangs in the air above [[Sindrel | Sindrel]], drifting on a slow, endless circuit of the city. From the outside, the headquarters of House Meness resemble a colosseum - a circular building almost as tall as it is wide. The outer surface is windowless. A wide gate leads to a tunnel-like passageway that takes visitors through the thickness of the outer structure and into the central plaza.
 <br>
@@ -69,7 +69,7 @@ h3. Anathemist Sabotage
 
 On _17th Enean_, [[:major-vindas | Major Vindas]] was killed by a piece of armour with an inverted reflection enchantment. Instead of reversing incoming force, the enchantment amplified it. When she invited an aide to help test the armour with a low-level firebolt spell, she was incinerated instantly.
 
-The death of Major Vindas has deepened fears that the [[Anathemists | Anathemists]] are not merely attacking buildings or institutions, but turning ordinary magical safeguards into lethal traps.
+The death of [[:major-vindas | Major Vindas]] has deepened fears that the [[Anathemists | Anathemists]] are not merely attacking buildings or institutions, but turning ordinary magical safeguards into lethal traps.
 
 <!-- GM_INFO_START -->
 h3. Overview

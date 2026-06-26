@@ -38,7 +38,7 @@ h3. Dramatis Personae
     [end-accordion-item]
 
     [accordion-item]
-        [title] Sindrel's Cats [end-title]
+        [title] [[Sindrel | Sindrel]]'s Cats [end-title]
         [content]
             * [[:pads-silently | Pads-Silently]]
             * [[:hunts-by-night | Hunts-By-Night]]
@@ -46,7 +46,7 @@ h3. Dramatis Personae
     [end-accordion-item]
 
     [accordion-item]
-        [title] Merrylane Park [end-title]
+        [title] [[Merrylane | Merrylane]] Park [end-title]
         [content]
             * [[:tama | A giant stoat]]
             * Assorted [[House Beltus | House Beltus]] demonic constructs
@@ -61,25 +61,25 @@ _Pre-dawn on the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 In the velvet dark before dawn, a silent visitor slipped through the shadows of [[Radwasp House | Radwasp House]] seeking [[:amanira | Amanira]]. The stealthy visitor was unexpectedly revealed to be one of the cats with whom she had formed a temporary friendship while exploring the city. Observing the clearly distressed cat, [[:amanira | Amanira]] sought out [[:rossin-ros-greyhirst | Ros]] to translate.
 
-Now able to be understood, the cat introduced themself as [[:pads-silently | Pads Silently]], and revealed that they came with a plea for aid: a new presence had begun stalking the city - a predator whose scent stirred an ancient fear in the hearts of cats. While no blood had yet been drawn, the cats of Sindrel knew knew they were outmatched. They called upon the one they knew as "Walks-Among-Us" and her formidable companions to face this unknown threat.
+Now able to be understood, the cat introduced themself as [[:pads-silently | Pads Silently]], and revealed that they came with a plea for aid: a new presence had begun stalking the city - a predator whose scent stirred an ancient fear in the hearts of cats. While no blood had yet been drawn, the cats of [[Sindrel | Sindrel]] knew knew they were outmatched. They called upon the one they knew as "Walks-Among-Us" and her formidable companions to face this unknown threat.
 
-In return for this boon, the sprawling, unseen network of Sindrel's cats would become the party's eyes and ears, their whispers carrying secrets from every corner of the last magical city. At least as long as the cats remembered, or could be bothered.
+In return for this boon, the sprawling, unseen network of [[Sindrel | Sindrel]]'s cats would become the party's eyes and ears, their whispers carrying secrets from every corner of the last magical city. At least as long as the cats remembered, or could be bothered.
 
 h3. The Rudest Awakening
 
 _Dawn on the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
-Summoning the Wonch was complicated somewhat by [[:nakoma-deathwalker-mor-got-ha | DW]]'s antagonistic relationship with doors. Her knock on the door to [[:wilrin-racenglade | Wilrin]]'s chambers sent it flying across the room, startling the sorcerer who instinctively let loose a firebolt. Despite DW's swift application of Chill Touch, the door and curtains were both badly singed, to the extreme consternation of Cedric. The first fire-related mishap of the day, but not the last.
+Summoning [[The Adventurers | the Wonch]] was complicated somewhat by [[:nakoma-deathwalker-mor-got-ha | DW]]'s antagonistic relationship with doors. Her knock on the door to [[:wilrin-racenglade | Wilrin]]'s chambers sent it flying across the room, startling the sorcerer who instinctively let loose a firebolt. Despite DW's swift application of Chill Touch, the door and curtains were both badly singed, to the extreme consternation of [[:cedric | Cedric]]. The first fire-related mishap of the day, but not the last.
 
-h3. The Beast of Merrylane Park
+h3. The Beast of [[Merrylane | Merrylane]] Park
 
 _Early morning on the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
-Guided by the cryptic directions of their new ally, the first glimmers of dawn saw the Wonch making their way to Merrylane Park - an area of forested parkland serving the more outdoorsy of Ambassador Street's residents. Within this artificial wilderness, they found signs of savage violence - small piles of sulferous dust that they recognised as the remains of slain demons littered a trail that led deeper into the trees. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and [[:pin | Pin]], upon discovering the remains of vanquished demons, immediately decided to scoop the dust into pouches. What for? Who knows. But it's good to have hobbies.
+Guided by the cryptic directions of their new ally, the first glimmers of dawn saw [[The Adventurers | the Wonch]] making their way to [[Merrylane | Merrylane]] Park - an area of forested parkland serving the more outdoorsy of Ambassador Street's residents. Within this artificial wilderness, they found signs of savage violence - small piles of sulferous dust that they recognised as the remains of slain demons littered a trail that led deeper into the trees. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and [[:pin | Pin]], upon discovering the remains of vanquished demons, immediately decided to scoop the dust into pouches. What for? Who knows. But it's good to have hobbies.
 
-The path ended at a clearing, dominated by an ancient, hollow tree. Peering within, the party found not a monster, but a familiar face: the [[:tama | giant stoat]] they had freed from the cursed orchard of [[Fallowhurst | Fallowhurst]]. But as this reunion unfolded, a trio of demons entered the clearing. [[:silrie-aegiskiir | Silrie]] and [[:rossin-ros-greyhirst | Ros]], having scouted ahead, took immediate action to counter this threat, and as the rest of the Wonch arrived battle was joined.
+The path ended at a clearing, dominated by an ancient, hollow tree. Peering within, the party found not a monster, but a familiar face: the [[:tama | giant stoat]] they had freed from the cursed orchard of [[Fallowhurst | Fallowhurst]]. But as this reunion unfolded, a trio of demons entered the clearing. [[:silrie-aegiskiir | Silrie]] and [[:rossin-ros-greyhirst | Ros]], having scouted ahead, took immediate action to counter this threat, and as the rest of [[The Adventurers | the Wonch]] arrived battle was joined.
 
-This combat was the backdrop of two realisations: First, that these were not fiends from another plane, but magical constructs given form and purpose by the summoners of [[House Beltus | House Beltus]], as indeed are all of Sindrel's demonic workforce. Second, that the demons were not acting to attack the part, only the stoat. Performing, in one of the demon's own words, "pest control". However, a diplomatic solution was not forthcoming, and a combination of the [[:tama | Stoat's]] wicked teach and [[:nakoma-deathwalker-mor-got-ha | Deathwalker's]] Godzilla impression left no demonic survivors. However, in the heat of battle, a stray fiery shot from [[:amanira | Amanira]] struck [[:nakoma-deathwalker-mor-got-ha | DW]].
+This combat was the backdrop of two realisations: First, that these were not fiends from another plane, but magical constructs given form and purpose by the summoners of [[House Beltus | House Beltus]], as indeed are all of [[Sindrel | Sindrel]]'s demonic workforce. Second, that the demons were not acting to attack the part, only the stoat. Performing, in one of the demon's own words, "pest control". However, a diplomatic solution was not forthcoming, and a combination of the [[:tama | Stoat's]] wicked teach and [[:nakoma-deathwalker-mor-got-ha | Deathwalker's]] Godzilla impression left no demonic survivors. However, in the heat of battle, a stray fiery shot from [[:amanira | Amanira]] struck [[:nakoma-deathwalker-mor-got-ha | DW]].
 
 h3. Burning Bridges
 
@@ -87,13 +87,13 @@ _Morning on the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 Surprise, pain, and betrayal swirled within [[:nakoma-deathwalker-mor-got-ha | Deathwalker]], a combination too great to bear. Her mind plunging into the raging inferno of her past. A raw, guttural scream tore from her throat, ranting about defending a "bridge", and insisting that the attackers would not take her soul. Lost in this waking nightmare of barbarian rage, her friends becoming her enemies.
 
-As [[:silrie-aegiskiir | Silrie]] sought to subdue her with precise strikes and [[:rossin-ros-greyhirst | Ros’s]] voice tried to anchor her to the present, it was [[:wilrin-racenglade | Wilrin]] who found the true path back. He wove an illusion not of fear, but of memory. Above Deathwalker’s head, a glowing cube of light flickered to life, its faces windows into shared moments: a quiet drink, the triumph of meeting [[:kithrak-ii | Kithrak]], the scrawled sign proclaiming their dominance of Fallowhurst. As the images washed over her, the blinding rage receded, leaving the trembling, horrified realisation of what had almost happened.
+As [[:silrie-aegiskiir | Silrie]] sought to subdue her with precise strikes and [[:rossin-ros-greyhirst | Ros’s]] voice tried to anchor her to the present, it was [[:wilrin-racenglade | Wilrin]] who found the true path back. He wove an illusion not of fear, but of memory. Above Deathwalker’s head, a glowing cube of light flickered to life, its faces windows into shared moments: a quiet drink, the triumph of meeting [[:kithrak-ii | Kithrak]], the scrawled sign proclaiming their dominance of [[Fallowhurst | Fallowhurst]]. As the images washed over her, the blinding rage receded, leaving the trembling, horrified realisation of what had almost happened.
 
 h3. A Stoat's Tale
 
 _Morning on the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
-With the constructs defeated and the immediate crisis averted, [[:rossin-ros-greyhirst | Ros]] used Speak with Animals and offered the disoriented [[:tama | stoat]] companionship. The stoat had been hunting in the tunnels around Fallowhurst, ultimately finding itself emerging in the city. Disoriented, ill at ease among harsh stone buildings, an unable to find a route out, it had sought shelter in the pseudo-woodland of Merrylane Park and fought off increasing waves of demonic pest controllers. It bonded with [[:rossin-ros-greyhirst | Ros]], becoming her animal companion.
+With the constructs defeated and the immediate crisis averted, [[:rossin-ros-greyhirst | Ros]] used Speak with Animals and offered the disoriented [[:tama | stoat]] companionship. The stoat had been hunting in the tunnels around [[Fallowhurst | Fallowhurst]], ultimately finding itself emerging in the city. Disoriented, ill at ease among harsh stone buildings, an unable to find a route out, it had sought shelter in the pseudo-woodland of [[Merrylane | Merrylane]] Park and fought off increasing waves of demonic pest controllers. It bonded with [[:rossin-ros-greyhirst | Ros]], becoming her animal companion.
 
 <!-- GM_INFO_START -->
 * [[House Beltus | House Beltus]] may investigate the destruction of pest-control constructs in [[Merrylane | Merrylane Park]] — see Session 11 for [[:alandria | Alandria]]'s reaction.

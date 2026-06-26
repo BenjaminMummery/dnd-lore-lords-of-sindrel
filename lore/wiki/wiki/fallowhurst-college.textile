@@ -17,7 +17,7 @@ tags:
 
 A ruined college located in [[Fallowhurst | Fallowhurst]].
 
-The Fallowhusrt College of Medicinal Studies, more commonly simply styled as "Fallowhurst College" was an institution in the village of [[Fallowhurst | Fallowhurst]], half a day's travel south-west of [[Sindrel | Sindrel]]. The buildings the college occupied were originally constructed as a grand estate for a noble family before being remodelled and repurposed.
+The Fallowhusrt College of Medicinal Studies, more commonly simply styled as "[[Fallowhurst | Fallowhurst]] College" was an institution in the village of [[Fallowhurst | Fallowhurst]], half a day's travel south-west of [[Sindrel | Sindrel]]. The buildings the college occupied were originally constructed as a grand estate for a noble family before being remodelled and repurposed.
 
 h3. Mysteries and Clues
 
@@ -50,7 +50,7 @@ h3. Return Visits
 
 The party's first visit ([[Session 2: Fallowhurst | Session 2]]) covered the village, orchard, entrance hall, preparation room, lecture hall, and museum. They triggered the [[The Fallowhurst Sigil | binding sigil]] in the lecture hall and on Carlos Winterborn's body; chanting from the Operating Theatre (D) ended the session. Most of the college — the theatre itself, Embren's suite, and the upper floors — remains unexplored.
 
-Likely return motives: seek out a source of necromantic power for the Octarion Circle; lay the Plague Doctor to rest; undo the fallowhurst sigil.
+Likely return motives: seek out a source of necromantic power for the [[The Octarion Circle | Octarion Circle]]; lay [[:embren-oestra | the Plague Doctor]] to rest; undo the [[The Fallowhurst Sigil | Fallowhurst sigil]].
 
 h4. What's Changed Since Session 2
 
@@ -71,7 +71,7 @@ If he *is* present, pick a location and activity; he does not need to seek the p
 | 3 | Orchard / greenhouses | Tending [[Triffid | triffids]]; avoids [[:tama | Tama]] |
 | 4 | Operating Theatre (D) | Chanting at the bench; "lecturing" the skeleton audience |
 | 5 | Museum (E) | Adjusting labels or preparing a new display |
-| 6 | Embren's Suite (X) or Laboratory (K) | Reading [[:letter-from-lord-oestra-to-embren-oestra | Lord Oestra's letter]]; feeding the triffid |
+| 6 | Embren's Suite (X) or Laboratory (K) | Reading [[:letter-from-lord-oestra-to-embren-oestra | Lord Oestra's letter]]; feeding the [[Triffid | triffid]] |
 
 When the party do encounter him: shallow phrases from his former life ("We'll get that fixed right up." "The best care on the continent."). Given opportunity, he attempts to strap a victim down in the Operating Theatre and resume the binding procedure. He may stalk the rear of the marching order rather than attack openly; if denied a subject for long enough, he grows desperate and attempts abduction. When killed, bound scholar-skeletons rebuild themselves over several minutes.
 
@@ -93,7 +93,7 @@ h4. Complications
 
 h4. The Orchard
 
-Originally ornamental, later repurposed for medicinal herb beds. Dangers include [[Strangle Vines | strangle vines]], [[Razorgrass | razorgrass]] (half speed or 1d4 slashing per 5 ft), and [[Sporeshrooms | sporeshrooms]]. Greenhouses hold [[Triffid | triffid]] saplings; one mature triffid can attack. [[:tama | Tama]] lives here.
+Originally ornamental, later repurposed for medicinal herb beds. Dangers include [[Strangle Vines | strangle vines]], [[Razorgrass | razorgrass]] (half speed or 1d4 slashing per 5 ft), and [[Sporeshrooms | sporeshrooms]]. Greenhouses hold [[Triffid | triffid]] saplings; one mature [[Triffid | triffid]] can attack. [[:tama | Tama]] lives here.
 
 h4. Items of Importance
 
@@ -137,7 +137,7 @@ As your eyes adjust, you can make out the tiered galleries that ring the walls. 
 
 The skeletons are the remains of the scholars. They wear the tattered shreds of academic gowns.
 
-The spirits bound to the skeletons are typically slumbering, but will begin to awake as the adventurers move around. Observant characters may catch a skull seeming to shift towards them, or hear the grinding of bones moving. The scholars are not hostile unless the players start destroying anything they hold dear.
+The spirits bound to the skeletons are typically slumbering, but will begin to awake as [[The Adventurers | the adventurers]] move around. Observant characters may catch a skull seeming to shift towards them, or hear the grinding of bones moving. The scholars are not hostile unless the players start destroying anything they hold dear.
 
 Grime has collected at the edges of the room, but the main floor is free of it having been repeatedly traversed by wondering scholars. The trail from the front door ends here, with a second trail leading onwards towards the Museum (E).[end-content] [end-accordion-item]
 [accordion-item] [title] E. Museum  [end-title] [content]  bq). Glass display cabinets once lined the walls of this room, the shattered shards of which crunch underfoot as you enter. Whatever was once displayed here has been removed - your eyes find a tall heap of tarnished silver wear, a mulchy strata that may once have been paper, and the splintered forms of various delicate and once expensive objects in the south-west corner. In their place, the remains of the cabinets play host to a collection of rotten bodies. Corpses of various sizes and condition are arrayed for your perusal. Close to the door they are comparatively fresh, one even retains sallow flesh stretched taught over its bones. Further in they are increasingly decayed - exposed bones clad in a new life of fungus and infestation.
@@ -157,12 +157,12 @@ Several of the names can be found on private rooms or in the wards. [end-content
 [accordion-item] [title]   F. Resident's Room [end-title] [content] This room is laid out as a combination office and examination room, intended for the use of visiting residents and specialists. The windows have been completely blocked by exuberantly overgrown window boxes.
 
 A search of the surviving books and affects will indicate that the most recent resident was researching lichdom.[end-content] [end-accordion-item]
-[accordion-item] [title]   G, H, I: Inner Hall, seating area, and lobby. [end-title] [content] Mostly just a thoroughfare connecting the entrance to the hallway, and to the upper floors via stairs. On the wall is a large frame that once contained a map of the building. Only the ground floor is legibly. The map bears the legend "Fallowhurst College of Healing."
+[accordion-item] [title]   G, H, I: Inner Hall, seating area, and lobby. [end-title] [content] Mostly just a thoroughfare connecting the entrance to the hallway, and to the upper floors via stairs. On the wall is a large frame that once contained a map of the building. Only the ground floor is legibly. The map bears the legend "[[Fallowhurst | Fallowhurst]] College of Healing."
 The seating area is a small gathering space kitted out in mouldy sofas and rotting coffee tables. [end-content] [end-accordion-item]
 [accordion-item] [title] J. Storage  [end-title] [content] Contains the decaying remains of blankets, robes, a few gurneys, etc.[end-content] [end-accordion-item]
 [accordion-item] [title]  K. Laboratory [end-title] [content] bq). Something has been growing in here. The window isn't just obscured by plant life, but choked by it. Vines and creepers are draped between every surface like cobwebs. Between them you make out the shapes pestles, alembics, and flasks, all of them cracked or shattered.
 
-The vines are actually a triffid, grown from a seed that was originally used in an experiment. Characters tracking the vines to their source, or simply thoroughly searching the room, will find the body of the plant in the shattered remains of the petri dish where it was grown. [end-content] [end-accordion-item]
+The vines are actually a [[Triffid | triffid]], grown from a seed that was originally used in an experiment. Characters tracking the vines to their source, or simply thoroughly searching the room, will find the body of the plant in the shattered remains of the petri dish where it was grown. [end-content] [end-accordion-item]
 [accordion-item] [title]  L. Specimen Room [end-title] [content] Storage for interesting specimens awaiting investigation in the laboratory. Samples taken from patients, interesting plants, things of this nature. The shelves are adorned with silver-inlaid runes that originally kept the samples fresh. Is their magic has waned, the samples have fallen to rot.
 
 Several of the samples are from [[Triffid | Triffids]].

@@ -16,7 +16,7 @@ post_time: '2026-01-07T18:00:00Z'
 
 h2. Dramatis Personae
 [accordion]
-[accordion-item] [title] The Adventurers [end-title] [content]
+[accordion-item] [title] [[The Adventurers | The Adventurers]] [end-title] [content]
 * [[:amanira | Amanira]], a drow druid.
 * [[:ayr | Ayr]], gnome paladin.
 * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
@@ -32,11 +32,11 @@ h2. Dramatis Personae
 * A [[:georges-de-selve | pair]] of [[:jean-de-dinteville | merchants]].
 * [[The Vermillion Company | Mercenaries]] hired to protect the coach, minus their [[:lacerta-kirrahe | Captain]]
  [end-content] [end-accordion-item]
-[accordion-item] [title] The Anathemists [end-title] [content]
+[accordion-item] [title] The [[Anathemists | Anathemists]] [end-title] [content]
 * [[:commander-wake | Unknown]] - Ambush leader and gun-wielder.
 * Assorted Anathemist soldiery
  [end-content] [end-accordion-item]
-[accordion-item] [title] Denizens of Fallowhurst [end-title] [content]
+[accordion-item] [title] Denizens of [[Fallowhurst | Fallowhurst]] [end-title] [content]
 * [[:tama | Giant Stoat]]
 * [[:embren-oestra | Unknown]] - a figure in plague doctor garb.
  [end-content] [end-accordion-item]
@@ -60,7 +60,7 @@ Unwilling to leave either [[:dulcinia-von-phthasia | Dulcinia]] or the gold with
 
 A short distance away they found the remains of a road with a signpost pointing north-east to [[Fallowhurst | Fallowhurst]]. Rotating the sign to further throw off pursuers, they continued in that direction.
 
-h2. Fallowhurst
+h2. [[Fallowhurst | Fallowhurst]]
 
 [[File:1543101  | class=media-item-align-left | 600px | Fallowhurst_img.png]]
 
@@ -98,9 +98,9 @@ A patch of [[Razorgrass | Razorgrass]] caused issues for [[:rossin-ros-greyhirst
 
 Managing to avoid the [[Sporeshrooms | Sporeshrooms]], the now reunited party made their way to the crying corner. There they encountered a [[:tama | giant stoat]] caught by a third [[Strangle Vines | Strangle Vine]]. Working together, [[:rossin-ros-greyhirst | Ros]] and [[:ayr | Ayr]] were able to free the creature, which recovered when given some food and warmed in a blanket. With a thankful squeak, it vanished through a crack in the orchard wall.
 
-Meanwhile [[:amanira | Amanira]] and [[:nakoma-deathwalker-mor-got-ha | DW]] went to check out the greenhouses. There they encountered a number of [[Triffid | Triffids]] - larger and more aggressive variants of the small plants with which they were familiar. Pursued by [[Triffid | Triffids]], the adventurers exited the orchard.
+Meanwhile [[:amanira | Amanira]] and [[:nakoma-deathwalker-mor-got-ha | DW]] went to check out the greenhouses. There they encountered a number of [[Triffid | Triffids]] - larger and more aggressive variants of the small plants with which they were familiar. Pursued by [[Triffid | Triffids]], [[The Adventurers | the adventurers]] exited the orchard.
 
-h2. Fallowhurst College
+h2. [[Fallowhurst College | Fallowhurst College]]
 
 [[File:1544298  | class=media-item-align-left | 600px | Byrgenwerth_concept_art_1.webp]]
 

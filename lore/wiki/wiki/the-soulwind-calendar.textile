@@ -14,11 +14,11 @@ tags: []
 
 Horology system originally devised by the early inhabitants of [[Soulwind | Soulwind]] before being widely adopted across [[Arcan | Arcan]].
 
-Like Earth, Arcan has a 365-day year. The Soulwind calendar divides this into 10 months of 36 days, plus a 5-day festival at midwinter. The year begins on the winter solstice.
+Like Earth, [[Arcan | Arcan]] has a 365-day year. The [[Soulwind | Soulwind]] calendar divides this into 10 months of 36 days, plus a 5-day festival at midwinter. The year begins on the winter solstice.
 
 The calendar counts years since the (supposed) date of the city's founding. The current year is 4218.
 
-The Soulwind year is:
+The [[Soulwind | Soulwind]] year is:
 
 <div class="CSSTableGenerator" style="position:relative;left:0px;top:10px;>
                 <table >
@@ -129,7 +129,7 @@ Note: Leap years are accommodated by adding an additional day to Midmas. Like th
 <tbody>
 <tr>
 <td colspan="2" rowspan="1">Gregorian</td>
-<td colspan="2" rowspan="1">Soulwind</td>
+<td colspan="2" rowspan="1">[[Soulwind | Soulwind]]</td>
 </tr>
 <tr>
 <td colspan="1" rowspan="11">

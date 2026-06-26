@@ -15,7 +15,7 @@ tags:
 
 The octarion circle are the rulers of [[Sindrel | Sindrel]] and the heads of its Great Houses.
 
-The circle was originally made up of the original founders of Sindrel.
+The circle was originally made up of the original founders of [[Sindrel | Sindrel]].
 
 <!-- GM_INFO_START -->
 Membership:
@@ -77,7 +77,7 @@ Membership:
             <td>Tiefling of pale blue skin, their horns adorned with silver filigree. Their dress is reminiscent of a pirate swashbuckler - high trousers and a loose shirt, open enough to see the ornate amulet that hangs at their throat.</td>
             <td>[[:the-amulet-of-stars | The Amulet of Stars]]</td>
             <td>Blue</td>
-            <td>Unlike the others, 'first', as they were known, did not consume the peaches of immortality. Instead they attempted to replicate their effects via enchantment. They were partially successful, the amulet maintains their soul and life force, but their body decayed. They have persisted by possessing the body of each of the amulet's wearers. To the rest of the world, 'first' is a title. To house Mabon, it is a name. They've been doing the Flemeth thing - having children only to possess the body of their descendent.</td>
+            <td>Unlike the others, 'first', as they were known, did not consume the peaches of immortality. Instead they attempted to replicate their effects via enchantment. They were partially successful, the amulet maintains their soul and life force, but their body decayed. They have persisted by possessing the body of each of the amulet's wearers. To the rest of the world, 'first' is a title. To [[House Mabon | house Mabon]], it is a name. They've been doing the Flemeth thing - having children only to possess the body of their descendent.</td>
         </tr>
         <tr>
             <td>[[:general-alicia-meness | General Alicia Meness]] (she/her)</td>
@@ -103,9 +103,9 @@ Membership:
 
 h3. The Founders' True Origin
 
-The Octarion Circle did not begin as a ruling council. What would become the Octarion Circle began as the Soulwind Institute Dimensional Research Group (SiNDReG) - eight high-level magicians of different schools of magic specialising in interplanar research. They were sent north to investigate a dimensional disturbance. They were already powerful mages before Sindrel existed, but their later positions in the city elevated, concentrated, and eventually corrupted that power.
+The Octarion Circle did not begin as a ruling council. What would become the Octarion Circle began as [[The Soulwind Institute | the Soulwind Institute]] Dimensional Research Group (SiNDReG) - eight high-level magicians of different schools of magic specialising in interplanar research. They were sent north to investigate a dimensional disturbance. They were already powerful mages before [[Sindrel | Sindrel]] existed, but their later positions in the city elevated, concentrated, and eventually corrupted that power.
 
-The expedition discovered that the disturbance could lead to other worlds. What began as a semi-permanent research camp (SINDReL - the Soulwind Institute Dimensional Research Laboratory) gradually became the city as the founders exploited the rift for knowledge, resources, power, and eventually colonisation.
+The expedition discovered that the disturbance could lead to other worlds. What began as a semi-permanent research camp ([[Sindrel | SINDReL]] - [[The Soulwind Institute | the Soulwind Institute]] Dimensional Research Laboratory) gradually became the city as the founders exploited the rift for knowledge, resources, power, and eventually colonisation.
 
 The Great Houses were built around the founders' philosophies. They are not merely administrative divisions; each House is the institutionalised shadow of one founder's ideals.
 
@@ -117,19 +117,19 @@ The founders survive behind successors, titles, ritualised offices, controlled a
 
 h3. Current State of the Octarion
 
-The founders meet increasingly rarely. Sindrel now largely runs itself through House hierarchies, civic habit, and the momentum of institutions built over a millennium.
+The founders meet increasingly rarely. [[Sindrel | Sindrel]] now largely runs itself through House hierarchies, civic habit, and the momentum of institutions built over a millennium.
 
 Their only major recent direct intervention has been the acceleration of [[Project Kosmios | Project Kosmios]]. The looming death of magic has forced them to act again, not as the daring expeditionaries they once were, but as ancient powers consumed by their own conditions.
 
 Each founder conceals their affliction as best they can. They are so consumed by their own fates that they barely register the degradation of the others. Their conditions have taken a millennium to reach this point, and unless stopped will continue to worsen.
 
-The founders' curses are not mechanically related to Sindrel's operation, that is sustained by extractive magical colonialism in Kosmios. Rather the curses are symbolically linked to the city: both arise from consumption at the cost of other lives, worlds, and powers.
+The founders' curses are not mechanically related to [[Sindrel | Sindrel]]'s operation, that is sustained by extractive magical colonialism in [[Kosmios | Kosmios]]. Rather the curses are symbolically linked to the city: both arise from consumption at the cost of other lives, worlds, and powers.
 
 h3. The Seven-House Limitation
 
 The Octarion Circle can function without Samhain, but only imperfectly.
 
-The modern plan to physically move Sindrel into Kosmios requires an immense magical working. That working cannot be balanced without necromantic magic. Because House Samhain was destroyed in Sindrel and its loyal remnant sealed away in Thanismot, the Seven lack the necromantic expertise needed to complete the relocation safely.
+The modern plan to physically move [[Sindrel | Sindrel]] into [[Kosmios | Kosmios]] requires an immense magical working. That working cannot be balanced without necromantic magic. Because [[The Eighth House | House Samhain]] was destroyed in Sindrel and its loyal remnant sealed away in [[Thanismot | Thanismot]], the Seven lack the necromantic expertise needed to complete the relocation safely.
 
 This is one of the hidden reasons Samhain's betrayal still matters. The founders removed the one House whose magic they now require.
 
@@ -137,5 +137,5 @@ h3. Fear of Samhain
 
 All of the surviving founders fear Samhain's return.
 
-They believe she would expose them to the city, attempt to kill them, and destroy everything they have built. Most assume or hope that she starved, withered, or otherwise perished in Thanismot long ago. They are wrong.
+They believe she would expose them to the city, attempt to kill them, and destroy everything they have built. Most assume or hope that she starved, withered, or otherwise perished in [[Thanismot | Thanismot]] long ago. They are wrong.
 <!-- GM_INFO_END -->

@@ -16,7 +16,7 @@ post_time: '2025-12-03T18:00:00Z'
 
 h2. Dramatis Personae
 [accordion]
-[accordion-item] [title] The Adventurers [end-title] [content]
+[accordion-item] [title] [[The Adventurers | The Adventurers]] [end-title] [content]
 * [[:amanira | Amanira]], a drow druid.
 * [[:ayr | Ayr]], gnome paladin.
 * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
@@ -32,7 +32,7 @@ h2. Dramatis Personae
 * [[The Vermillion Company | Mercenaries]] hired to protect the coach to [[Sindrel | Sindrel]], led by their [[:lacerta-kirrahe | Captain]]
 * Assorted [[:jean-de-dinteville | merc]][[:georges-de-selve | hants]] and travellers
 [end-content] [end-accordion-item]
-[accordion-item] [title] The Anathemists [end-title] [content]
+[accordion-item] [title] The [[Anathemists | Anathemists]] [end-title] [content]
 * [[:commander-wake | Unknown]] - Ambush leader and gun-wielder.
 * Assorted Anathemist soldiery
  [end-content] [end-accordion-item]
@@ -46,23 +46,23 @@ bq). Situated where the vicious peaks of the [[Arkay Mountain Range | Arkay Moun
 <br>
 It is here that our story begins, as the dying light of the day shines crimson through the windows of the Inn's common room. Tomorrow you will alight the coach that will take you on the final leg of your journey, but tonight you relax and mingle with your fellow travellers. The mood of the room is buoyant, but with an undercurrent of tension - rumours of danger on the road have been growing, and the eyes of many guests make furtive glances towards the group of armoured warriors occupying the corner table - [[The Vermillion Company | mercenaries]] hired to provide additional security for the morning's coach.
 <br>
-Their presence makes the room a little crowded, and you find yourself sharing a table with 6 other travellers, all bound for Sindrel.
+Their presence makes the room a little crowded, and you find yourself sharing a table with 6 other travellers, all bound for [[Sindrel | Sindrel]].
 
 While [[:rossin-ros-greyhirst | Ros]] and [[:silrie-aegiskiir | Silrie]] struck up an early friendship, the rest of the septuple grew suspicious of the two shifty men at the next table - [[:gillette-quill | Gillette]] and [[:raymond-quill | Raymond Quill]]. [[:wilrin-racenglade | Wilrin]] used magic to purloin the paper they were writing on, an overt act made even more obvious by the tides of wild magic endowing him temporarily with a beard of brightly coloured feathers. The paper revealed that the two men were planning to rob various rooms around the inn. The confrontation had also drawn the attention of [[:pthul | Pthul]], bodyguard to a noble lady who was also one of the targets.
 
 There followed a short altercation between the Quill brothers on one side, and the seven travellers and [[:pthul | Pthul]] on the other. Despite some calamitous rolls, our heroes were victorious, knocking [[:gillette-quill | Gillette]] unconscious and restraining [[:raymond-quill | Raymond Quill]]. This also drew the attention of the [[:lacerta-kirrahe | leader of the mercenaries]], although he declined to involve himself more than was necessary.
 
-[[:pthul | Pthul]] was inclined to execute the brothers on the spot, while the [[:lacerta-kirrahe | mercenary captain]] offered the choice of escorting them to [[Sindrel | Sindrel]] for trial and likely execution. Presented with the choice of how to handle the ruffians, the adventurers chose mercy, taking the responsibility for the lives and future actions of the Quill brothers onto themselves.
+[[:pthul | Pthul]] was inclined to execute the brothers on the spot, while the [[:lacerta-kirrahe | mercenary captain]] offered the choice of escorting them to [[Sindrel | Sindrel]] for trial and likely execution. Presented with the choice of how to handle the ruffians, [[The Adventurers | the adventurers]] chose mercy, taking the responsibility for the lives and future actions of the Quill brothers onto themselves.
 
-Seeing her honour so defended, [[:dulcinia-von-phthasia | Dulcinia von Phthasia]] invited the adventurers to join her, and they spent the rest of the evening telling the enraptured noblewoman tales of their various exploits.
+Seeing her honour so defended, [[:dulcinia-von-phthasia | Dulcinia von Phthasia]] invited [[The Adventurers | the adventurers]] to join her, and they spent the rest of the evening telling the enraptured noblewoman tales of their various exploits.
 
 When they finally retired to bed, [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and [[:silrie-aegiskiir | Silrie]] took turns guarding their prisoners, with the latter using the time to school [[:raymond-quill | Raymond]] in meditation.
 
-h2. The Road to Sindrel
+h2. The Road to [[Sindrel | Sindrel]]
 
 _25th of Enean, 4218 [[The Soulwind Calendar | SC]]_
 
-bq). Morning dawns bright and cold. The wheels of the the coach crunch through frozen puddles as you make your way north. The Mage Road winds its way through a series of wide valleys and increasingly harsh ridges. You grow used to the periodic shift in sound between the gravelled embankments of the low flood planes and the steep paved switchbacks cut into the hillsides.
+bq). Morning dawns bright and cold. The wheels of the the coach crunch through frozen puddles as you make your way north. [[The Mage Road | The Mage Road]] winds its way through a series of wide valleys and increasingly harsh ridges. You grow used to the periodic shift in sound between the gravelled embankments of the low flood planes and the steep paved switchbacks cut into the hillsides.
 
 Much of the journey to [[Sindrel | Sindrel]] passed without incident, other than [[:raymond-quill | Raymond]]'s attempts to teach his brother what he'd learned of meditation (the latter having been unconscious for most of the previous night).
 
@@ -70,11 +70,11 @@ bq). As the afternoon rolls on, you reach the crest of a hill and find yourselve
 
 bq). The road is narrow, penned in by a steep wall of rock on one side and a precipitous drop on the other, and the mercenaries who have ridden alongside the coach all day are forced into two groups, one ahead and one behind.
 
-bq). As the convoy approaches the start of the bridge, you hear a thunderous crash from behind you and, looking back, you see a large tree trunk has been dropped onto the road from above, blocking your retreat and separating you from the rear group of mercenaries. From the leading group you hear a cry: "Anathemists!"
+bq). As the convoy approaches the start of the bridge, you hear a thunderous crash from behind you and, looking back, you see a large tree trunk has been dropped onto the road from above, blocking your retreat and separating you from the rear group of mercenaries. From the leading group you hear a cry: "[[Anathemists | Anathemists]]!"
 
-[[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] and [[:amanira | Amanira]] recognise the term [[Anathemists | "Anathemist"]] as referring to a group of religious zealots who believe that mortal misuse of magic angered the gods, leading to their withdrawal and the death of magic. They hold that only by purging the unholy practice of magic from the face of [[Arcan | Arcan]] can the Gods' light be restored.
+[[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] and [[:amanira | Amanira]] recognise the term [[Anathemists | "Anathemist"]] as referring to a group of religious zealots who believe that mortal misuse of magic angered [[The Gods | the gods]], leading to their withdrawal and the death of magic. They hold that only by purging the unholy practice of magic from the face of [[Arcan | Arcan]] can the Gods' light be restored.
 
-Despite the urging of the [[:commander-wake | Anathemist leader]] to remain calm, and his insistence that they're only after the gold, [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] immediately attacked. There followed a desperate battle on the narrow road, during which both [[:silrie-aegiskiir | Silrie]] and [[:wilrin-racenglade | Wilrin]] made it to the top of the cliff, while [[:pin | Pin]] suffered a nearly mortal wound. Every use of magic by the adventurers served to enrage the ambushing Anathemists.
+Despite the urging of the [[:commander-wake | Anathemist leader]] to remain calm, and his insistence that they're only after the gold, [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] immediately attacked. There followed a desperate battle on the narrow road, during which both [[:silrie-aegiskiir | Silrie]] and [[:wilrin-racenglade | Wilrin]] made it to the top of the cliff, while [[:pin | Pin]] suffered a nearly mortal wound. Every use of magic by [[The Adventurers | the adventurers]] served to enrage the ambushing [[Anathemists | Anathemists]].
 
 In defiance of several injuries, the [[:commander-wake | Anathemist leader]] was ultimately able to bring his weapon to bear, and with a single shot he reduced the [[:lacerta-kirrahe | mercenary captain]] to a fine red mist. He'd clearly intended for this to bring the conflict to an end, but the sound startled the horses who bolted, breaking free of the coach but leaving it dangling precipitously over the edge of the cliff.
 

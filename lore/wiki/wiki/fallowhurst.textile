@@ -29,7 +29,7 @@ h3. History
 
 At some point several centuries ago, the village was abandoned. The levees failed, and the Deren river flooded the village to a depth of several feet.
 
-On the 25th of Enean 4218 (SC), the [[The Adventurers | Neighborhood Wonch]] passed through the village on their way to [[Sindrel | Sindrel]] (see [[Session 2: Fallowhurst | Session 2: Fallowhurst]])
+On the 25th of Enean 4218 ([[The Soulwind Calendar | SC]]), the [[The Adventurers | Neighborhood Wonch]] passed through the village on their way to [[Sindrel | Sindrel]] (see [[Session 2: Fallowhurst | Session 2: Fallowhurst]])
 
 
 [[File:1543102  | class=media-item-align-center | Fallowhurst.png]]
@@ -42,13 +42,13 @@ Fallowhurst was founded as a small fishing village around a  shallow ford of the
 
 As the northern interests of [[House Oestra | House Oestra]] began to grow, they found it expedient to establish a family estate north of their holdings in [[Soulwind | Soulwind]]. Fallowhurst was chosen as the site of a grand manor. The new construction required significantly more land than was available, so a levee was constructed in order to divert the waters of the Deren and drain a large area.
 
-As building work proceeded, House Oestra also commissioned a bridge over the Deren. The construction was, in part, funded by levying a fee on all those using the bridge, a decision that caused some enmity with the locals since the bridge occupied what had been the ford.
+As building work proceeded, [[House Oestra | House Oestra]] also commissioned a bridge over the Deren. The construction was, in part, funded by levying a fee on all those using the bridge, a decision that caused some enmity with the locals since the bridge occupied what had been the ford.
 
-The manor was the seat of House Oestra for several hundred years, until the increasing profitability of Sindrel prompted [[:lord-ablas-oestra | Lord Ablas Oestra]] to move the family to the city. The estate was given over to the lord's son [[:embren-oestra | Embren]].
+The manor was the seat of [[House Oestra | House Oestra]] for several hundred years, until the increasing profitability of [[Sindrel | Sindrel]] prompted [[:lord-ablas-oestra | Lord Ablas Oestra]] to move the family to the city. The estate was given over to the lord's son [[:embren-oestra | Embren]].
 
 Embren, an avid student of healing magic, turned the estate into a [[Fallowhurst College | medical college]]. This rapidly became a world-respected institution. The northern wing of the great manor was converted into hospital wards, and the library was expanded to better serve needs of the scholars and healers who filled its halls.
 
-As the skill and power of the college grew, the avaricious eyes of Sindrel turned upon it. Lord Ablas, enamoured of the ability to get injured soldiers back into the fight faster, pushed for ever more ambitious experiments. Embren's protests fell on deaf ears, and under the threat of being cut off from the Oestra fortune and support, and potentially from the patronage of the Soulwind Institute with which Lord Oestra held significant sway, the experiments went ahead.
+As the skill and power of the college grew, the avaricious eyes of [[Sindrel | Sindrel]] turned upon it. Lord Ablas, enamoured of the ability to get injured soldiers back into the fight faster, pushed for ever more ambitious experiments. Embren's protests fell on deaf ears, and under the threat of being cut off from the Oestra fortune and support, and potentially from the patronage of [[The Soulwind Institute | the Soulwind Institute]] with which Lord Oestra held significant sway, the experiments went ahead.
 
 In the operating theatre at the center of the Manor House, Embren and his colleagues attempted to perform a dark ritual - binding a soul to its still living body the way a lich's is bound to a phylactery. While they hoped to bestow a form of immortality, the spell backfired. The scholars participating within the ritual, almost the full corpus of the college's staff, were killed instantly.
 

@@ -18,4 +18,4 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7494097/hq720.jpg
 A street cat encountered in [[The Wallarch District | The Wallarch District]].
 
 <!-- OP_BIO -->
-Hunts-By-Night accompanied the wonch through the Osteomantic Catacombs. At [[Radwasp House | Radwasp House]], Hunts attempted to warn the wonch of the presence of the [[:tama | Giant Stoat]]. Unsuccessful, they instead sought out [[:pads-silently | Pads Silently]].
+Hunts-By-Night accompanied [[The Adventurers | the wonch]] through the Osteomantic Catacombs. At [[Radwasp House | Radwasp House]], Hunts attempted to warn the wonch of the presence of the [[:tama | Giant Stoat]]. Unsuccessful, they instead sought out [[:pads-silently | Pads Silently]].

@@ -13,7 +13,7 @@ tags:
 - House of Sindrel
 ---
 
-The rumoured house of Necromancers in Sindrel.
+The rumoured house of Necromancers in [[Sindrel | Sindrel]].
 
 Supposedly it was destroyed a thousand years ago in [[The Fall of the Eighth House | The Fall of the Eighth House]]. Today, only the [[Osteomantic Archives | Osteomantic Archives]] and the abandoned streets of the [[Quarantine Zone | Quarantine Zone]] remain of their contributions to the city.
 
@@ -42,7 +42,7 @@ Gothic. This survives only in the non-house affiliated [[Osteomantic Archives | 
 
 h3. What Survived the Fall
 
-The Fall of the Eighth House did not end every part of House Samhain's work. It ended the House as a recognised political body, destroyed or scattered its living leadership, and allowed the Seven to declare necromancy sealed away. It did not erase every contract, hidden route, blind trust, corpse-ledger, bound servant, or undead instruction buried beneath the city.
+[[The Fall of the Eighth House | The Fall of the Eighth House]] did not end every part of House Samhain's work. It ended the House as a recognised political body, destroyed or scattered its living leadership, and allowed the Seven to declare necromancy sealed away. It did not erase every contract, hidden route, blind trust, corpse-ledger, bound servant, or undead instruction buried beneath the city.
 
 House Samhain had built an archive too large and too secretive for any one faction to understand. Much of its collecting apparatus operated at a remove: contractors who never knew the name of their patron, mortuary workers paid through intermediaries, hereditary obligations disguised as trade customs, and custodial undead who required neither wages nor explanation. When the House fell, many of these systems continued.
 

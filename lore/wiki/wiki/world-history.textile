@@ -14,7 +14,7 @@ tags: []
 
 For the vast majority of world history, magic has been the dominant form of power. The world has been shaped around it, with magical strength becoming the primary shaping force of politics. Over the last few centuries, however, it has become undeniable that magic is dying out. As the previously iron-clad power structures sought to shore up their suddenly crumbling positions, wars and revolutions become increasingly common.
 
-The northern regions of the continent of Artresh are a patchwork of city states and petty kingdoms, the fractured remains of the once semi-unified [[The Magedom of Houd | Magedom of Houd]]. Following the Seven-Day War with the [[The Thaumocracy of Tellerin | Tellerites]], the Mage Lord Council governing the Magedom, never the most cohesive group at the best of times, fractured. The resulting states are embroiled in an ever-shifting network of alliance, feud, political marriage, and, occasionally, actual war. [[Soulwind | Soulwind]], on the northern coast, is the largest of these states by area, although its territory consists mostly of inhospitable mountainous land with little in the way of resources.
+The northern regions of the continent of [[Artresh | Artresh]] are a patchwork of city states and petty kingdoms, the fractured remains of the once semi-unified [[The Magedom of Houd | Magedom of Houd]]. Following the Seven-Day War with the [[The Thaumocracy of Tellerin | Tellerites]], the Mage Lord Council governing the Magedom, never the most cohesive group at the best of times, fractured. The resulting states are embroiled in an ever-shifting network of alliance, feud, political marriage, and, occasionally, actual war. [[Soulwind | Soulwind]], on the northern coast, is the largest of these states by area, although its territory consists mostly of inhospitable mountainous land with little in the way of resources.
 
 To the south is the mysterious [[The Thaumocracy of Tellerin | Thaumocracy of Tellerin]], a once-great and expansionist empire. After their unsuccessful attempt to invade Houd, the empire retreated, closing its borders to outsiders.
 
@@ -89,7 +89,7 @@ h3. *Campaign Timeline* - Year 4218 (_current year_)
             * [[:nielsenn | Nielsenn]], [[Adjutant | adjutant]] of [[House Mabon | House Mabon]], is vaporised when one of his own trapped locks misfire.
 
             *14th Ostory*
-            * A summoning being carried out by  [[:caller-georg |Caller Johann Georg]], [[Factor | factor]] of [[House Beltus | House Beltus]], goes badly wrong. The demon is able to break free of the summoning circle and possess the summoner. Under its influence, Caller Georg runs amok through the halls of the Beltan Institute defacing a number of portraits and other precious items before his heart finally gives out. As a final sick joke, the demon enchants its own sulphurous leavings which, when gathered up with the rest of the day's refuse, explode. The page of Goerg's newly purchased grimoire showing the appropriate summoning circle for a succubus is found to have been vandalised.
+            * A summoning being carried out by  [[:caller-georg |Caller Johann Georg]], [[Factor | factor]] of [[House Beltus | House Beltus]], goes badly wrong. The demon is able to break free of the summoning circle and possess the summoner. Under its influence, [[:caller-georg | Caller Georg]] runs amok through the halls of the [[Beltan Institute | Beltan Institute]] defacing a number of portraits and other precious items before his heart finally gives out. As a final sick joke, the demon enchants its own sulphurous leavings which, when gathered up with the rest of the day's refuse, explode. The page of Goerg's newly purchased grimoire showing the appropriate summoning circle for a succubus is found to have been vandalised.
 
             *21st Ostory*
             * The punch ladle at a diplomatic function being hosted by [[House Lithra | House Lithra]] is exchanged with one that has been enchanted with a geis of truth speaking. This results in three major diplomatic incidents, the end of two mariages, and a very awkward proposal. House [[Factor | factor]] [[:emissary-isius | Emissary Isius]] has to withdraw from public life.
@@ -127,7 +127,7 @@ h3. *Campaign Timeline* - Year 4218 (_current year_)
             * The survivors of the ambush reach [[Fallowhurst Outpost | Fallowhurst Outpost]] and meet [[:sebastian-warwick | Private Sebastian Warwick]].
 
             *26th Enean*
-            * A small force of [[Anathemists | Anathemists]] attack the travellers on the plain outside SIndrel. Most of their number are slain and their [[:arise-to-victory-over-the-infidel-hoards | leader]] is captured.
+            * A small force of [[Anathemists | Anathemists]] attack the travellers on the plain outside [[Sindrel | SIndrel]]. Most of their number are slain and their [[:arise-to-victory-over-the-infidel-hoards | leader]] is captured.
             * [[:hielaman | Captain Hielaman]] leads a small force of [[House Meness | House Meness]] soldiers to escort the survivors to [[Sindrel | Sindrel]].
             * [[:dulcinia-von-phthasia | Dulcinia von Phthasia]] and [[:pthul | Pthul]] part company with [[The Adventurers | The Adventurers]].
 
@@ -137,7 +137,7 @@ h3. *Campaign Timeline* - Year 4218 (_current year_)
             *28th Enean*
             * Under questioning,  [[:arise-to-victory-over-the-infidel-hoards | The Anathemist Leutenant]] lets slip that the [[Anathemists | Anathemists]] have access to highly sensitive information. A [[Hexine Circle | Hexine Circle]] is convened.</li>
             * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] gambles against [[:emerich-surefoot | Emerich Surefoot]] in [[The Wallarch District | the Wallarch district]] and wins. She learns a route into the [[Quarantine Zone | Quarantine Zone]].</li>
-            * [[:amanira | Amanira]], in cat form, befriends the city cat population and learns a route into [[The Amaltheana | The Amaltheana]], headquarters of [[House Grimbolg | House Grimbolg]].
+            * [[:amanira | Amanira]], in cat form, befriends the city cat population and learns a route into [[House Grimbolg | The Amaltheana]], headquarters of [[House Grimbolg | House Grimbolg]].
             * [[:ayr | Ayr]], in disguise, infiltrates [[:emissary-halan | Emissary Halan]]'s soiree.
             * [[:pin | Pin]] goes drinking with [[:hielaman | Captain Hielaman]], ending in a physical altercation.
             * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]]
@@ -147,7 +147,7 @@ h3. *Campaign Timeline* - Year 4218 (_current year_)
             *29th Enean*
             * The [[Hexine Circle | Hexine Circle]] requests the aid of [[The Adventurers | The Adventurers]] in rooting out Anathemist Spies.
             * [[:emerich-surefoot | Emerich Surefoot]], spotting [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] returning to [[The Wallarch District | Wallarch]], attempts to gather additional [[The Black Cats | Black Cats]] to ambush her. He is intercepted by [[The Adventurers | The Adventurers]] and interrogated. Under questioning he gives up his contact in the organisation.
-            * [[The Adventurers | The Adventurers]] enter the [[The Wallarch District | Wallarch]] [[Osteomantic Archives | Osteomantic Archive]] during the funeral of Micycle Smynth.
+            * [[The Adventurers | The Adventurers]] enter the [[The Wallarch District | Wallarch]] [[Osteomantic Archives | Osteomantic Archive]] during the funeral of [[:micycle-smynth | Micycle Smynth]].
         [end-content]
     [end-accordion-item]
 [end-accordion]
@@ -157,44 +157,44 @@ h2. Timeline of World History
 
 Dates are estimated according to the [[The Soulwind Calendar | Soulwind calendar]] (SE). Current year: 4193
 
-h3. *3200s SC* (roughly 1000 years ago)
+h3. *3200s [[The Soulwind Calendar | SC]]* (roughly 1000 years ago)
 
-* _Researchers from the Soulwind Institute discover a dimensional tear in the far north of the continent. The Soulwind Institute Dimensional Research and Exploration Laboratory (SInDREL) is established to study it._
+* _Researchers from [[The Soulwind Institute | the Soulwind Institute]] discover a dimensional tear in the far north of the continent. The Soulwind Institute Dimensional Research and Exploration Laboratory ([[Sindrel | SInDREL]]) is established to study it._
 * _The researchers find their way to Vitality and consume the Peaches of Immortality._
 * _Forseeing the profitability of Sindrel and growing tired of travelling between Soulwind and Sindrel, [[:lord-ablas-oestra | Lord Ablas Oestra]] establishes the Oestra estate at [[Fallowhurst | Fallowhurst]]._
 * _The researchers harvest resources and riches from the other worlds, establishing Sindrel as an economic hub._
 
-*3500s SC* (roughly 700 years ago)
-* _Growing frustrated by the limitations of the dimensional tear, the Lords of Sindrel persuade the Soulwind Institute to establish the magical conduit between their cities. What they originally pitched as a two-way connection allowing the two sites to easily share power as needed was in fact designed to quietly harvest power for Sindrel._
+*3500s [[The Soulwind Calendar | SC]]* (roughly 700 years ago)
+* _Growing frustrated by the limitations of the dimensional tear, the Lords of [[Sindrel | Sindrel]] persuade [[The Soulwind Institute | the Soulwind Institute]] to establish the magical conduit between their cities. What they originally pitched as a two-way connection allowing the two sites to easily share power as needed was in fact designed to quietly harvest power for Sindrel._
 
-*3700s SC* (roughly 500 years ago)
-* _Having harvested sufficient power from the conduit, the Lords of Sindrel pour massive amounts of energy into the tear in order to stabilise it._
-* _Now able to control which worlds they travel too, they bias towards Kosmios for extractive purposes. The compounding magical intrusion causes the Wheel of Forms to destabilise._
+*3700s [[The Soulwind Calendar | SC]]* (roughly 500 years ago)
+* _Having harvested sufficient power from the conduit, the Lords of [[Sindrel | Sindrel]] pour massive amounts of energy into the tear in order to stabilise it._
+* _Now able to control which worlds they travel too, they bias towards [[Kosmios | Kosmios]] for extractive purposes. The compounding magical intrusion causes the Wheel of Forms to destabilise._
 * _[[:lord-ablas-oestra | Lord Oestra]] moves the seat of his family to Sindrel, turning the [[Fallowhurst | Fallowhurst]] estate over to his son [[:embren-oestra | Embren]]_
 
-*3702 SC* (491 years ago)
-* _[[:embren-oestra | Embren Oestra]] establishes the Fallowhurst College to study healing magic._
+*3702 [[The Soulwind Calendar | SC]]* (491 years ago)
+* _[[:embren-oestra | Embren Oestra]] establishes the [[Fallowhurst College | Fallowhurst College]] to study healing magic._
 
-*3715 SC* (503 years ago)
+*3715 [[The Soulwind Calendar | SC]]* (503 years ago)
 * _The calamity at [[Fallowhurst | Fallowhurst]] - pushed by [[:lord-ablas-oestra | Lord Oestra]] to experiment with dangerous magics, the scholars of the [[Fallowhurst College | Fallowhurst College]] are killed in a magical disaster._
 
-*3760s SC* (roughly 450 years ago)
+*3760s [[The Soulwind Calendar | SC]]* (roughly 450 years ago)
 * _The last survivors of [[Fallowhurst | Fallowhurst]] leave._
 
-*3850s SC* (roughly 350 years ago)
+*3850s [[The Soulwind Calendar | SC]]* (roughly 350 years ago)
 * The first stirrings of the death of magic are felt.
 
-*circa 3900 SC* (roughly 300 years ago)
-* _With magic becoming rarer in [[Arcan | Arcan]] and beginning to appear naturally in Kosmios, Sindrel seeks to lock the rift permanently to Kosmios and begin harvesting magical resources as well as the more mundane offerings to bolster their diminishing powers._
-* Soulwind's population begins to diminish as magic users drift towards Sindrel.
-* [[The Fall of the Eighth House | The Fall of the Eighth House]] - [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]] becomes disaffected with Sindrel's colonial ambitions and prepares to move against the circle. They imprison her in Thanismot.
+*circa 3900 [[The Soulwind Calendar | SC]]* (roughly 300 years ago)
+* _With magic becoming rarer in [[Arcan | Arcan]] and beginning to appear naturally in [[Kosmios | Kosmios]], [[Sindrel | Sindrel]] seeks to lock the rift permanently to Kosmios and begin harvesting magical resources as well as the more mundane offerings to bolster their diminishing powers._
+* [[Soulwind | Soulwind]]'s population begins to diminish as magic users drift towards Sindrel.
+* [[The Fall of the Eighth House | The Fall of the Eighth House]] - [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]] becomes disaffected with Sindrel's colonial ambitions and prepares to move against the circle. They imprison her in [[Thanismot | Thanismot]].
 
-*3953 SC* (roughly 250 years ago) - The Seven Day War
-* Fought between the The Mage lords of Houd and the Thaumocracy of Tellerin
+*3953 [[The Soulwind Calendar | SC]]* (roughly 250 years ago) - The Seven Day War
+* Fought between the The Mage lords of Houd and [[The Thaumocracy of Tellerin | the Thaumocracy of Tellerin]]
 * _With magical power growing scarce, especially in the south, the Tellerites launched an invasion of Houd._
 * The decisive battle was fought on the Planes of Herrman, where a stalemate between the attacking Tellerites and the beleagured Houdians was ended by the timely arrival of Houdian reinforcements. The bulk of the Tellerite forces were delayed by the Battle of Brassmeade Bridge where, according to the tales, a single bezerker held the narrow bridge against the vastly superior force for a full day.
 * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] character is slain and resurrected.
 
-*~4150 SC* (roughly 50 years ago)
-* [[Project Kosmios | Project Kosmios]] is instantiated - the Lords of Sindrel begin to plan to move the entire city into the now magical world of Kosmios.
+*~4150 [[The Soulwind Calendar | SC]]* (roughly 50 years ago)
+* [[Project Kosmios | Project Kosmios]] is instantiated - the Lords of [[Sindrel | Sindrel]] begin to plan to move the entire city into the now magical world of Kosmios.
 <!-- GM_INFO_END -->

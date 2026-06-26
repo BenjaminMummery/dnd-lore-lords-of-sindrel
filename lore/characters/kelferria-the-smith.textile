@@ -32,7 +32,7 @@ Kelferria was approached by [[:barnabus | Barnabus]], supposedly acting as [[:re
 
 The samples were the true objective. Because Kelferria supplies [[House Oestra | House Oestra]], her armour could be modified to pass as Oestra gear at a distance. Once crude Oestra markings were added, the armour allowed the [[Anathemists | Anathemist]] agents to move through darkness and confusion during the [[Ditchquer | Ditchquer]] operation without immediately drawing suspicion.
 
-Kelferria did not know the true purpose of the order. Her importance to the plot is that her craft, her House Mabon reputation, and her connection to House Oestra made the disguise credible. A month later, she continues to be busy manufacturing armour, oblivious to the fact that the order has already done its work.
+Kelferria did not know the true purpose of the order. Her importance to the plot is that her craft, her [[House Mabon | House Mabon]] reputation, and her connection to [[House Oestra | House Oestra]] made the disguise credible. A month later, she continues to be busy manufacturing armour, oblivious to the fact that the order has already done its work.
 
-Investigative clues may include the down payment, an unusually urgent sample request, correspondence in d'Log's name, Barnabus acting as intermediary, and Kelferria's embarrassment or defensiveness once she realises how her work was used.
+Investigative clues may include the down payment, an unusually urgent sample request, correspondence in d'Log's name, [[:barnabus | Barnabus]] acting as intermediary, and Kelferria's embarrassment or defensiveness once she realises how her work was used.
 <!-- GM_INFO_END -->

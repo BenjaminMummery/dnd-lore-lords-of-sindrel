@@ -34,7 +34,7 @@ h3. Dramatis Personae
         [content]
             * [[:emerich-surefoot | Emerich Surefoot]] - a ruffian.
             * [[:micycle-smynth | Micycle Smynth, deceased]] - a corpse.
-            * [[:razorbeak | Chicken]] - a chicken.
+            * [[:razorbeak | Chicken]] - a [[:razorbeak | chicken]].
             * [[:hunts-by-night | Cat]] - a cat.
             * Various mourners
             * A [[:celebrant-alruna | celebrant]] and two underlings who work at the [[Osteomantic Archives | Osteomantic Archives]]
@@ -47,27 +47,27 @@ h3. The Chase
 
 _Noon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
-bq). Sandwiched between the city's outer wall and the iron boundary of the quarantine zone, [[The Wallarch District | Wallarch]] feels enclosed on every side. The buildings are the same seamless stonework you've seen elsewhere in the city, but the forms are crude and weathered. Here and there you can see the signs of repairs made with more conventional building materials. You notice demons in higher numbers, openly going about their assigned tasks. You realise now how much care has been taking in the rest of the city to position the floating buildings in such a way as to leave the open sky above main thoroughfares, and how little care has been taken here - the streets are shadowed and gloomy even at the height of the day.
+bq). Sandwiched between the city's outer wall and the iron boundary of the [[Quarantine Zone | quarantine zone]], [[The Wallarch District | Wallarch]] feels enclosed on every side. The buildings are the same seamless stonework you've seen elsewhere in the city, but the forms are crude and weathered. Here and there you can see the signs of repairs made with more conventional building materials. You notice demons in higher numbers, openly going about their assigned tasks. You realise now how much care has been taking in the rest of the city to position the floating buildings in such a way as to leave the open sky above main thoroughfares, and how little care has been taken here - the streets are shadowed and gloomy even at the height of the day.
 
-Upon entering [[The Wallarch District | Wallarch]], the [[The Adventurers | Wonch]] quickly became aware that they were being observed - a figure in a hooded cloak who had been surveilling the street from an alleyway took note of [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and immediately headed off with some urgency. The Wonch gave chase, and were ultimately successful in capturing their quarry. This endeavour resulted in them gaining one chicken and one cat, while destroying one chicken crate, one large stained glass window being carried by two demons, and the equanimity of a passing mother and child.
+Upon entering [[The Wallarch District | Wallarch]], the [[The Adventurers | Wonch]] quickly became aware that they were being observed - a figure in a hooded cloak who had been surveilling the street from an alleyway took note of [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and immediately headed off with some urgency. [[The Adventurers | The Wonch]] gave chase, and were ultimately successful in capturing their quarry. This endeavour resulted in them gaining one [[:razorbeak | chicken]] and one cat, while destroying one chicken crate, one large stained glass window being carried by two demons, and the equanimity of a passing mother and child.
 
 The running figure was revealed to be [[:emerich-surefoot | Emerich Surefoot]], one of the shady individuals with whom [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] had gambled for information[1].  Despite his utterly pathetic attempts at disassembling, he ultimately revealed that he was a low-level enforcer for [[The Black Cats | The Black Cats]], and had been on his way to set up an ambush for [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] since she had previously flashed around a large quantity of cash. He revealed that his contact in the Cats operated out of the back room of [[The Cutthroat's Repose | The Cutthroat's Repose]], and that the password to get in was "Swordfish".
 
-The adventurers allowed [[:emerich-surefoot | Emerich]] to leave, and chose to proceed to the [[Osteomantic Archives | Osteomantic Archives]], accompanied by one of the recently freed [[:razorbeak | Chicken]]s, and a [[:hunts-by-night | cat]], the latter very interested in [[:amanira | Amanira]]'s rat form.
+[[The Adventurers | The adventurers]] allowed [[:emerich-surefoot | Emerich]] to leave, and chose to proceed to the [[Osteomantic Archives | Osteomantic Archives]], accompanied by one of the recently freed [[:razorbeak | Chicken]]s, and a [[:hunts-by-night | cat]], the latter very interested in [[:amanira | Amanira]]'s rat form.
 
-h3. The Osteomantic Archives
+h3. The [[Osteomantic Archives | Osteomantic Archives]]
 
 _Early Afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 [[File:1555017  | class=media-item-align-right | 200px | Samhain.png]]
 
-bq). Anywhere else, the Osteomantic Archives would be a grand hall. In Sindrel, where the single-storey build is dwarfed by the majestic structures around it, it looks oddly small and unassuming. A sense of otherness hangs about it - every aspect of the building appears at odds with its surroundings. The lack of height, the black stone of its construction, the pointed arches, gargoyles, and crockets that infest its densely ornate form, all are strange and out of place in a city that favours gleaming white stone and airy colonnades.
+bq). Anywhere else, the [[Osteomantic Archives | Osteomantic Archives]] would be a grand hall. In [[Sindrel | Sindrel]], where the single-storey build is dwarfed by the majestic structures around it, it looks oddly small and unassuming. A sense of otherness hangs about it - every aspect of the building appears at odds with its surroundings. The lack of height, the black stone of its construction, the pointed arches, gargoyles, and crockets that infest its densely ornate form, all are strange and out of place in a city that favours gleaming white stone and airy colonnades.
 
 Carved into the keystone above the door was a symbol, one that the party had seen before - along with the symbol of [[House Oestra | House Oestra]], it made up the central component of [[The Fallowhurst Sigil | The Fallowhurst Sigil]].
 
 bq). It takes a moment for your eyes to adjust to the gloom. As they do, you find yourselves in a wide hall. A pair of chandeliers hang overhead, casting a shifting light over the room and you disturb the cool, dry air. On the wall opposite are a pair of ornate doors, the silver filigree at their hinges glinting in the unsteady light. There's a sign next to the door, but before you can read it your attention is captured by the walls - floor to ceiling they are lined with small alcoves, no more than a foot in any dimension, and in each of them your gaze meets the hollow eye sockets of a skull. As if suddenly accustomed to the look it, you realise that the chandeliers, ornamentation around the pillars of the room, even the decorative inlay into the floor are all made of bone.
 
-The archives turned out to be in use - the adventurers were witness to the funeral of [[:micycle-smynth | Micycle Smynth]] being presided over by a [[:celebrant-alruna | celebrant]]. While [[:nakoma-deathwalker-mor-got-ha | DW]] and [[:amanira | Amanira]] (still in rat form) investigated a side room, the rest of the Wonch observed the funeral while creating the barest minimum of disruption.
+The archives turned out to be in use - [[The Adventurers | the adventurers]] were witness to the funeral of [[:micycle-smynth | Micycle Smynth]] being presided over by a [[:celebrant-alruna | celebrant]]. While [[:nakoma-deathwalker-mor-got-ha | DW]] and [[:amanira | Amanira]] (still in rat form) investigated a side room, the rest of [[The Adventurers | the Wonch]] observed the funeral while creating the barest minimum of disruption.
 
 Examining the room, [[:rossin-ros-greyhirst | Ros]] noted that the dates on the populated alcoves indicated that the rate at which people had been interred here had been decreasing. She also spotted two people in dark robes who were clearly not part of the mourners.
 

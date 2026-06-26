@@ -17,7 +17,7 @@ post_time: '2026-01-21T18:00:00Z'
 h2. Dramatis Personae
 [accordion]
 
-[accordion-item] [title] The Adventurers[end-title]
+[accordion-item] [title] [[The Adventurers | The Adventurers]][end-title]
 [content]
 * [[:amanira | Amanira]], a drow druid.
 * [[:ayr | Ayr]], gnome paladin.
@@ -37,13 +37,13 @@ h2. Dramatis Personae
 * [[The Vermillion Company | Mercenaries]] hired to protect the coach, minus their [[:lacerta-kirrahe | Captain]]
  [end-content] [end-accordion-item]
 
-[accordion-item] [title] Denizens of Fallowhurst [end-title] [content]
+[accordion-item] [title] Denizens of [[Fallowhurst | Fallowhurst]] [end-title] [content]
 * Unconfirmed re-animated corpses.
 * Unconfirmed surgeon wielding an enchanted scalpel.
 * Unknown cloaked skeletal figures.
  [end-content] [end-accordion-item]
 
-[accordion-item] [title] Denizens of Fallowhurst Outpost [end-title]
+[accordion-item] [title] Denizens of [[Fallowhurst Outpost | Fallowhurst Outpost]] [end-title]
 [content]
 * [[:sebastian-warwick | Sebastian Warwick]] - [[House Meness | House Meness]] Adjutant.
 * [[:myrath | Myrath]] - [[House Lithra | House Lithra]] Adjutant.
@@ -55,7 +55,7 @@ h2. Dramatis Personae
 [end-content] [end-accordion-item]
 [end-accordion]
 
-h2. Fallowhurst College, the Revenge
+h2. [[Fallowhurst College | Fallowhurst College]], the Revenge
 
 _Afternoon of the 25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -91,7 +91,7 @@ Back at the wheelbarrow, [[:dulcinia-von-phthasia | Dulcinia]] was awake and inc
 
 [[:silrie-aegiskiir | Silrie]] politely observed that there remained considerable work to be done on realising the Self. The party gathered their companions and moved on, some vowing to return when they were stronger and the building was, if possible, less actively homicidal.
 
-h2. Leaving Fallowhurst
+h2. Leaving [[Fallowhurst | Fallowhurst]]
 
 _Evening of the 25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -109,17 +109,17 @@ The outpost existed to ensure that nobody from [[Sindrel | Sindrel]] wandered in
 
 The party were invited to sleep in real beds, each marked with a symbol — some an eye, some the oval and cross seen at the college — whose meaning remained unclear. They slept well, and woke to breakfast. [[:ayr | Ayr]], in particular, was delighted, and spent the meal extracting what history he could between mouthfuls of bacon. Much of the older kit in the tower bore the stamp of [[House Oestra | House Oestra]]; the newer issue carried the sign of [[House Meness | House Meness]] — a U on a stick with two cross-bars below.
 
-Warwick explained that [[Fallowhurst | Fallowhurst]] village had been empty for centuries. Travellers had begun to vanish; eventually suspicion fell on the college, the old route was closed, and a new road and bridge were built to bypass the valley. The outpost stood to stop Sindrelians meeting the same fate, though Warwick noted that nobody had come from the city that way in living memory. Coming through Fallowhurst alive, he conceded, was no small thing. A posting here, he admitted without much bitterness, was widely understood to be a punishment.
+Warwick explained that [[Fallowhurst | Fallowhurst]] village had been empty for centuries. Travellers had begun to vanish; eventually suspicion fell on the college, the old route was closed, and a new road and bridge were built to bypass the valley. The outpost stood to stop Sindrelians meeting the same fate, though Warwick noted that nobody had come from the city that way in living memory. Coming through [[Fallowhurst | Fallowhurst]] alive, he conceded, was no small thing. A posting here, he admitted without much bitterness, was widely understood to be a punishment.
 
-Over the evening the adventurers heard of the eight schools of magic, the founding of [[Sindrel | Sindrel]], and the Lord who had sought to betray the others. By morning, everyone had gained a level of experience they were keen not to repeat.
+Over the evening [[The Adventurers | the adventurers]] heard of the eight schools of magic, the founding of [[Sindrel | Sindrel]], and the Lord who had sought to betray the others. By morning, everyone had gained a level of experience they were keen not to repeat.
 
-h2. The Road to Sindrel
+h2. The Road to [[Sindrel | Sindrel]]
 
 _26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
-bq). Those of you who have walked in this world for some time have a pretty clear idea of what cities look like. For centuries, large conurbations have tended to shrink as the political, economic, and ecological systems that supported their population density die out with the loss of magic. "City", therefore, conjures images of crumbling civic centres nestled in shells of abandoned suburbs, or even of the corpses of towns being cannibalised for building materials for the smaller, more self-contained communities that are beginning to develop. None of this is true for Sindrel.
+bq). Those of you who have walked in this world for some time have a pretty clear idea of what cities look like. For centuries, large conurbations have tended to shrink as the political, economic, and ecological systems that supported their population density die out with the loss of magic. "City", therefore, conjures images of crumbling civic centres nestled in shells of abandoned suburbs, or even of the corpses of towns being cannibalised for building materials for the smaller, more self-contained communities that are beginning to develop. None of this is true for [[Sindrel | Sindrel]].
 <br>
-Sindrel sits on a high promontory jutting far out over the Norward Sea. Even the city's _location_ is impossible - the barren, mountainous ground supports no farmland that could feed it, nor is there anything resembling a source of fresh water here. But that is not what captures your eye nor fires your imagination. Banners bearing the device of an eight pointed star hang from high white walls, above which rise a majestic profusion of spires and plazas. The city is clearly, ostentatiously magical. In a world where the smallest illusion can be the talk of the town, Sindrel's use of magical power is breathtakingly profligate. Above the walls, rising spires become lost in the structures that hang _down_ from above - buildings that float impossibly in the air, constructed to mirror themselves vertically in a way that defies any idea of terrestrial construction. Between and above them pass airships, great vessels with gilded prows and shimmering sails that glide effortlessly through open air with no visible means of support.
+Sindrel sits on a high promontory jutting far out over the [[Norward Sea | Norward Sea]]. Even the city's _location_ is impossible - the barren, mountainous ground supports no farmland that could feed it, nor is there anything resembling a source of fresh water here. But that is not what captures your eye nor fires your imagination. Banners bearing the device of an eight pointed star hang from high white walls, above which rise a majestic profusion of spires and plazas. The city is clearly, ostentatiously magical. In a world where the smallest illusion can be the talk of the town, Sindrel's use of magical power is breathtakingly profligate. Above the walls, rising spires become lost in the structures that hang _down_ from above - buildings that float impossibly in the air, constructed to mirror themselves vertically in a way that defies any idea of terrestrial construction. Between and above them pass airships, great vessels with gilded prows and shimmering sails that glide effortlessly through open air with no visible means of support.
 
 Figures appeared on the road ahead: five soldiers on horseback. [[Anathemists | Anathemists]], almost certainly. When they spotted the party their course changed at once. One consulted a scrolled paper, looked at the group, looked at the paper again, looked at a companion, looked at the paper once more, and then that companion took the paper and galloped back toward the bridge.
 
@@ -129,7 +129,7 @@ The remaining patrol closed. [[:wilrin-racenglade | Wilrin]] cast a spell; wild 
 
 The wild-magic echo locked onto a soldier who countered it with a spell of his own, sprouting tiny wings from its ankles and launching it skyward moments before it exploded like a firework. [[:silrie-aegiskiir | Silrie]], returning to the fray, arrived in time to admire the display.
 
-Two Anathemists remained in the party's hands. What to do with them was a question for another moment.
+Two [[Anathemists | Anathemists]] remained in the party's hands. What to do with them was a question for another moment.
 
 <!-- GM_INFO_START -->
 * Sigil binding and the Wilrin / Deathwalker damage link: see [[The Fallowhurst Sigil | The Fallowhurst Sigil]] wiki (GM).

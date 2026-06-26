@@ -20,11 +20,11 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481335/5ff2734b2cc3bb61
 An enormous, no-nonsense earth genassi in hard-wearing leathers.
 
 <!-- OP_BIO -->
-[[:rossin-ros-greyhirst | Ros]]'s insight into interconnected natural systems and their application to Sindrel are of particular interest to Navinea. She intends to organise a roundtable with Ros and senior transmuters.
+[[:rossin-ros-greyhirst | Ros]]'s insight into interconnected natural systems and their application to [[Sindrel | Sindrel]] are of particular interest to Navinea. She intends to organise a roundtable with Ros and senior transmuters.
 
-She is concerned with system failure, entropy, and Sindrel’s resource vulnerability.
+She is concerned with system failure, entropy, and [[Sindrel | Sindrel]]’s resource vulnerability.
 
-She assumes that the Anathemists are responsible for the incidents of sabotage, but [[:pin | Pin]] noticed this was an assumption rather than a proven fact.
+She assumes that the [[Anathemists | Anathemists]] are responsible for the incidents of sabotage, but [[:pin | Pin]] noticed this was an assumption rather than a proven fact.
 
 <!-- GM_INFO_START -->
 Spies Leads:

@@ -79,7 +79,7 @@ h3. Overview of the Great Houses
             <td>[[House Goela | Geola]]</td>
             <td>Divination</td>
             <td>Knowledge of the past, present, and future</td>
-            <td> responsible for most the information trade. While the houses are, in principal, equals, the voices of House Geola are usually deferred to given their forsight.</td>
+            <td> responsible for most the information trade. While the houses are, in principal, equals, the voices of [[House Goela | House Geola]] are usually deferred to given their forsight.</td>
         </tr>
         <tr>
             <td>[[File:1546932  | class=media-item-align-none | 200px | Grimbolg.png]]</td>
@@ -129,11 +129,11 @@ h3. Overview of the Great Houses
 
 h2. Districts
 
-Though often described as a single city, Sindrel is more accurately understood as two overlapping cities occupying the same space. The Lower City rests upon the ground beneath the floating districts, spreading outward from the base of the Fulcrum. Here are found the markets, warehouses, academies, military installations, and residential districts that sustain daily life. Many Sindrellans, particularly [[Adjutant | Adjutants]], spend the majority of their lives in the Lower City, traversing its streets and climbing the great ramps that connect it to the levels above.
+Though often described as a single city, Sindrel is more accurately understood as two overlapping cities occupying the same space. The Lower City rests upon the ground beneath the floating districts, spreading outward from the base of [[The Fulcrum | the Fulcrum]]. Here are found the markets, warehouses, academies, military installations, and residential districts that sustain daily life. Many Sindrellans, particularly [[Adjutant | Adjutants]], spend the majority of their lives in the Lower City, traversing its streets and climbing the great ramps that connect it to the levels above.
 
 Suspended overhead is the Upper City, a network of floating plazas, bridges, towers, and estates connected by an intricate lattice of walkways. Airships pass between these structures like gondolas through a crowded harbour, while merchants, diplomats, and nobles conduct their affairs high above the streets below. To visitors arriving from abroad, the Upper City is often the face of Sindrel; a dazzling display of magical architecture that seems to defy gravity itself.
 
-The two halves of the city are linked by a series of broad ascending ramps that spiral gradually upward from the Lower City to the floating districts. Most citizens make these journeys on foot. The wealthy travel by carriages drawn by summoned beasts, while the most influential members of the Great Houses make use of House Beltus's teleportation network to bypass distance altogether.
+The two halves of the city are linked by a series of broad ascending ramps that spiral gradually upward from the Lower City to the floating districts. Most citizens make these journeys on foot. The wealthy travel by carriages drawn by summoned beasts, while the most influential members of the Great Houses make use of [[House Beltus | House Beltus]]'s teleportation network to bypass distance altogether.
 
 At the centre of both cities stands [[The Fulcrum | The Fulcrum]]. Rising from the ground and extending through the floating districts to heights beyond [[Dockward | Dockward]], it serves as the political heart of Sindrel and the most visible reminder that all parts of the city ultimately answer to the same authority.
 
@@ -144,13 +144,13 @@ h3. Lower City Districts
 [[Sevenways | Sevenways]] — A sprawling residential district built around an ancient network of ramps and bridges connecting the city's various levels.
 [[The Wallarch District | Wallarch]] — Sindrel's poorest district, pressed between the city's outer wall and the [[Quarantine Zone | Quarantine Zone]].
 [[Quarantine Zone | Quarantine Zone]] — The sealed ruins of [[The Eighth House | The Eighth House]], contaminated by dangerous necromantic energies since the fall of the Eighth.
-The Leageur — The fortified military enclave of [[House Oestra | House Oestra]].
+The [[House Oestra | Leageur]] — The fortified military enclave of [[House Oestra | House Oestra]].
 
 h3. Upper City Districts
 
 [[Merrylane | Merrylane]] — A district of embassies, parks, and elegant residences favoured by diplomats and visiting dignitaries.
-[[Scholars Ward | Scholars Ward]] — Home to the Heptade Academy and much of Sindrel's academic and magical elite. Students, professors, researchers, and House scholars crowd its bridges, libraries, and lecture halls.
-[[Dockward | Dockward]] — The centre of Sindrel's airship trade, a mile-wide floating ring suspended around the upper reaches of the Fulcrum like a colossal halo. Colloquially called _the annulus_, it is the gateway through which much of the city's commerce enters and leaves.
+[[Scholars Ward | Scholars Ward]] — Home to [[The Heptade Academy | the Heptade Academy]] and much of Sindrel's academic and magical elite. Students, professors, researchers, and House scholars crowd its bridges, libraries, and lecture halls.
+[[Dockward | Dockward]] — The centre of Sindrel's airship trade, a mile-wide floating ring suspended around the upper reaches of [[The Fulcrum | the Fulcrum]] like a colossal halo. Colloquially called _the annulus_, it is the gateway through which much of the city's commerce enters and leaves.
 
 h3. Singular Landmarks
 
@@ -160,7 +160,7 @@ Some locations exist outside the ordinary district structure.
 The Panopticon — The floating headquarters of [[House Meness | House Meness]], which continuously circles the city.
 
 <!-- GM_INFO_START -->
-Roughly 1000 years ago (3500 by the Soulwind Calendar), magical researchers discovered a naturally occuring tear in reality.
+Roughly 1000 years ago (3500 by [[The Soulwind Calendar | the Soulwind Calendar]]), magical researchers discovered a naturally occuring tear in reality.
 
 h2. The Great Houses of Sindrel
 
@@ -181,7 +181,7 @@ The houses are:
             <td>[[:farseer-sybera-goela | Farseer Sybera Goela]]</td>
             <td>Divination</td>
             <td>Knowledge of the past, present, and future</td>
-            <td> responsible for most the information trade. While the houses are, in principal, equals, the voices of House Geola are usually deferred to given their forsight.</td>
+            <td> responsible for most the information trade. While the houses are, in principal, equals, the voices of [[House Goela | House Geola]] are usually deferred to given their forsight.</td>
         </tr>
         <tr>
             <td>[[House Grimbolg | Grimbolg]]</td>
@@ -229,21 +229,21 @@ The houses are:
 </div>
 
 
-h3. House Samhain, the dark lords of Necromancy,
+h3. [[The Eighth House | House Samhain]], the dark lords of Necromancy,
 
 Leader: [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]]
 
-Like House Oestra, House Samhain was a noble house of Soulwind. Unlike house Oestra, the scions of Samhain were, in fact, vampiric necromancers.
+Like [[House Oestra | House Oestra]], [[The Eighth House | House Samhain]] was a noble house of [[Soulwind | Soulwind]]. Unlike [[House Oestra | House Oestra]], the scions of [[The Eighth House | Samhain]] were, in fact, vampiric necromancers.
 
-Unlike the other members of the octet, [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]] did not partake of the peaches of immortality - being undead she was concerned that their effect on her might not be quite so positive. Having been effectively immortal for some time, she also had a somewhat different perspective than the rest of her compatriots. Where they grew ambitious and covetous, she was already jaded. During the early exploration, Samhain realised that the realm of [[Thanismot | Thanismot]] was something of a paradise for vampires - the sunlight did not burn her skin and the endless thirst for blood was absent as the deathly energies of the realm sustained her. She began spending more and more time there, ultimately moving her entire house into the realm full time. From that base, she began actively recruiting necromancers. Never a popular bunch, a majority were more than happy to accept her offer, especially once they had tasted the power of Mortality.
+Unlike the other members of the octet, [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]] did not partake of the peaches of immortality - being undead she was concerned that their effect on her might not be quite so positive. Having been effectively immortal for some time, she also had a somewhat different perspective than the rest of her compatriots. Where they grew ambitious and covetous, she was already jaded. During the early exploration, Samhain realised that the realm of [[Thanismot | Thanismot]] was something of a paradise for vampires - the sunlight did not burn her skin and the endless thirst for blood was absent as the deathly energies of the realm sustained her. She began spending more and more time there, ultimately moving her entire house into the realm full time. From that base, she began actively recruiting necromancers. Never a popular bunch, a majority were more than happy to accept her offer, especially once they had tasted the power of [[Thanismot | Mortality]].
 
-When the rest of the Octet decided to focus on exploiting Mundanity, Samhain was the sole dissenting voice. In secret the rest of the council conspired to seal the entry to Mortality, trapping her and her house in that realm.
+When the rest of the Octet decided to focus on exploiting Mundanity, Samhain was the sole dissenting voice. In secret the rest of the council conspired to seal the entry to [[Thanismot | Mortality]], trapping her and her house in that realm.
 
 An initial but brief period of infighting followed as the more ambitious or evil necromancers returned to their old ways, vying for power.
 
-Over the next 500 years, the members of house Samhain abandoned the great hall they had originally built around the portal and drifted into small scattered communities. Surrounded by death, their necromantic abilities allowed them to live safely and comfortably, and they have turned their abilities towards grand works of the magical art. As a result, the landscape of Mortality is adorned with impossible architecture, majestic statuary, and elegant gardens of undead plants.
+Over the next 500 years, the members of [[The Eighth House | house Samhain]] abandoned the great hall they had originally built around the portal and drifted into small scattered communities. Surrounded by death, their necromantic abilities allowed them to live safely and comfortably, and they have turned their abilities towards grand works of the magical art. As a result, the landscape of [[Thanismot | Mortality]] is adorned with impossible architecture, majestic statuary, and elegant gardens of undead plants.
 
-* House Samhain - the necromancers. They originally maintained a great archive of the dead, using the ability to summon shades of the past as an information retrieval system. Over time, more and more of them took up residence in the realm of death, and ultimately Samhain was betrayed by the other houses and imprisoned. The practice of placing the bones of the dead in the great ossuaries persists, but it serves no practical purpose.
+* [[The Eighth House | House Samhain]] - the necromancers. They originally maintained a great archive of the dead, using the ability to summon shades of the past as an information retrieval system. Over time, more and more of them took up residence in the [[Thanismot | realm of death]], and ultimately Samhain was betrayed by the other houses and imprisoned. The practice of placing the bones of the dead in the great ossuaries persists, but it serves no practical purpose.
 
 h3. Politics
 

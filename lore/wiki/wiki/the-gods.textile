@@ -12,9 +12,9 @@ op_gm_only: false
 tags: []
 ---
 
-h3. Religion in Sindrel
+h3. Religion in [[Sindrel | Sindrel]]
 
-Sindrel has long treated religion as tolerated eccentricity: useful for funerals, private comfort, and old family rites, but faintly embarrassing in serious civic life. Since the Anathemist threat became public, explicitly religious practice has become politically suspect, because many Sindrelians conflate devotion, anti-magical sentiment, and Anathemist fanaticism.
+[[Sindrel | Sindrel]] has long treated religion as tolerated eccentricity: useful for funerals, private comfort, and old family rites, but faintly embarrassing in serious civic life. Since the Anathemist threat became public, explicitly religious practice has become politically suspect, because many Sindrelians conflate devotion, anti-magical sentiment, and Anathemist fanaticism.
 
 h3. The Houdian Pantheon
 

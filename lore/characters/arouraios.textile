@@ -28,15 +28,15 @@ h3. Role in the Anathemist Plot
 
 Arouraios is part of the [[Anathemists | Anathemist]] spy cell embedded in [[:regnif-d-log | Regnif d'Log]]'s household, outwardly serving as a servant and cartographer. He entered [[Sindrel | Sindrel]] with d'Log and [[:barnabus | Barnabus]], creating a domestic retinue that appeared separate from the merchant cover used by [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]].
 
-Arouraios acts as the cell's route-finder, surveyor, and mapper. His role as cartographer gives him a plausible reason to observe streets, service passages, coach routes, loading yards, archive access points, and the shape of the catacombs beneath Wallarch. He is responsible for turning the cell's ambitions into usable paths through Sindrel.
+Arouraios acts as the cell's route-finder, surveyor, and mapper. His role as cartographer gives him a plausible reason to observe streets, service passages, coach routes, loading yards, archive access points, and the shape of the catacombs beneath Wallarch. He is responsible for turning the cell's ambitions into usable paths through [[Sindrel | Sindrel]].
 
 In the sabotage campaign before the [[Ditchquer | Ditchquer]] closing ceremony, Arouraios mapped the practical routes through the [[Osteomantic Archives | Osteomantic Archives]]. He identified places where supplies could be stored temporarily, removed, and replaced without being noticed. He also established the coach routes and handoff points needed to move people and objects under cover of ordinary city traffic.
 
 Arouraios is responsible for the chalk marks found in the catacombs. These marks are not random graffiti, but a working navigation system for the cell: route markers, danger signs, temporary storage indicators, and instructions for moving through confusing or unsafe passages.
 
-During the Ditchquer closing ceremony, Arouraios was disguised as a coachman. After [[:barnabus | Barnabus]] stole [[:silas-oestra | Silas Oestra]]'s key, he passed it to Arouraios who returned to the stationary coach. [[:georges-de-selve | Georges de Selv]]e and [[:jean-de-dinteville | Jean de Dinteville]], emerging from the tunnels after planting their explosives, collected the key from him.
+During the [[Ditchquer | Ditchquer]] closing ceremony, Arouraios was disguised as a coachman. After [[:barnabus | Barnabus]] stole [[:silas-oestra | Silas Oestra]]'s key, he passed it to Arouraios who returned to the stationary coach. [[:georges-de-selve | Georges de Selv]]e and [[:jean-de-dinteville | Jean de Dinteville]], emerging from the tunnels after planting their explosives, collected the key from him.
 
-Arouraios's canonical role in the Ditchquer operation is therefore the key handoff. His broader operational role is what makes that handoff possible: he knows where the coach must be, when the merchants will emerge, and how the tunnel route connects to the rest of the plan.
+Arouraios's canonical role in the [[Ditchquer | Ditchquer]] operation is therefore the key handoff. His broader operational role is what makes that handoff possible: he knows where the coach must be, when the merchants will emerge, and how the tunnel route connects to the rest of the plan.
 
 h4. Investigative footprint
 

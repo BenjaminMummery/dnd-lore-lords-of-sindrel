@@ -22,7 +22,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481299/2673663_blazingp
 Johann Georg is a [[Factor | Factor]] of [[House Beltus | House Beltus]].
 
 <!-- OP_BIO -->
-h3. Death at the Beltan Institute
+h3. Death at the [[Beltan Institute | Beltan Institute]]
 
 Caller Johann Georg's final summoning took place at the [[Beltan Institute | Beltan Institute]], [[House Beltus | House Beltus]]'s official centre for regulated summoning and pact-work. The demon's escape was therefore not a private magical mishap, but a disaster inside one of Beltus's most prestigious institutions.
 

@@ -23,9 +23,9 @@ h3. Key Items
 
 
 <!-- OP_PLAYER_SECRETS_START -->
-h3. The Fallowhurst Sigil
+h3. [[The Fallowhurst Sigil | The Fallowhurst Sigil]]
 
-You and [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] were branded with matching sigil scars when your blood-magic attempt at [[Fallowhurst College | Fallowhurst College]] backfired. The binding still has teeth:
+You and [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] were branded with matching sigil scars when your blood-magic attempt with the [[The Fallowhurst Sigil | Fallowhurst sigil]] at [[Fallowhurst College | Fallowhurst College]] backfired. The binding still has teeth:
 
 Whenever Deathwalker takes damage, you roll a d8. On a 1, she takes half damage and you take the rest.
 <!-- OP_PLAYER_SECRETS_END -->

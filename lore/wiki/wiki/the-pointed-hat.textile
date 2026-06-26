@@ -13,4 +13,4 @@ tags:
 - location
 ---
 
-An inn providing accommodation for visitors to Sindrel.
+An inn providing accommodation for visitors to [[Sindrel | Sindrel]].

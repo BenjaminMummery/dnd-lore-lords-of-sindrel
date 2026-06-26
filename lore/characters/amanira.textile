@@ -24,7 +24,7 @@ https://www.dndbeyond.com/characters/156196225
 <!-- GM_INFO_START -->
 Hello, Dungeon Master! I am sorry for leaving my homework until last minute, but here goes:
 
-My character seeks to understand the loss of magic, which they experience as the fading of nature itself. There must be a cause to be studied and understood! They have journeyed to Sindrel seeking answers, and perhaps even healing for a diseased world.
+My character seeks to understand the loss of magic, which they experience as the fading of nature itself. There must be a cause to be studied and understood! They have journeyed to [[Sindrel | Sindrel]] seeking answers, and perhaps even healing for a diseased world.
 
 They don’t regret leaving anything material behind, but they yearn for the harmony that only the primordial force of nature could bring.
 
