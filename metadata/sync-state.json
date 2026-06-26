@@ -1242,16 +1242,6 @@
       "repo_hash_at_sync": "ae294f73c0398e97e4bd28acce4def4e65be794439f962e83c44712b864ef005",
       "repo_path": "lore/wiki/wiki/house-grimbolg.textile"
     },
-    "c62e11749911409e838027757f102646": {
-      "last_synced_title": "Untitled Page",
-      "op_id": "c62e11749911409e838027757f102646",
-      "op_kind": "Wiki",
-      "op_slug": "untitled-page",
-      "op_updated_at": "2026-06-26T15:20:52Z",
-      "repo_blob_sha": "ab6973051bb8aee3375711b0e140bb2ba1a63115",
-      "repo_hash_at_sync": "8bd679443bcb7cd5a5a1127ed79fa6a2b4417da6e032ac168c7ae582e19e3f6e",
-      "repo_path": "lore/wiki/wiki/untitled-page.textile"
-    },
     "c725789526cf4344afa123ca83d9e4b7": {
       "last_synced_title": "First of Mabon",
       "op_id": "c725789526cf4344afa123ca83d9e4b7",
