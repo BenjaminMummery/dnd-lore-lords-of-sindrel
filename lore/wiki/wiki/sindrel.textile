@@ -7,7 +7,7 @@ name: Sindrel
 title: Sindrel
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/sindrel
 op_created_at: '2025-11-24T22:43:41Z'
-op_updated_at: '2026-06-26T09:28:27Z'
+op_updated_at: '2026-06-27T17:56:05Z'
 op_gm_only: false
 tags:
 - location
@@ -19,14 +19,13 @@ bq). Sindrel sits on a high promontory jutting far out over the [[Norward Sea | 
 <br>
 Through the centre of the city rises a narrow, white spire - a tower over a mile tall. Ringing its point like a halo is a colossal circle of stone: a floating street studded with docks and warehouses serving the fleet of airships.
 
-
 Sindrel is, so far as anyone knows, the last place on [[Arcan | Arcan]] where the death of magic has not taken hold. Why this is or how long this state of affairs will last is unclear. SIndrel has, naturally, become immensely wealthy and powerful off the back of trading in magical goods and services. It has also become a mixing pot and haven for all those seeking to pursue magic.
 
-h2. Geography<hr>
+h2. Geography
 
 Situated among the inhospitable [[Arkay Mountain Range | Arkay Mountains]], Sindrel is a remote destination for almost any traveller, and reaching it is no trivial feat. The nearest conurbation of any note is [[Soulwind | Soulwind]], 130 leagues to the South-West.
 
-h2. History<hr>
+h2. History
 
 Sindrel was founded some time in the 3200s [[The Soulwind Calendar | SC]], approximately 1000 ago. As such, its early days are remembered primarily as a myth.
 
@@ -34,19 +33,19 @@ The story goes that the eight greatest mages of their day, each an unassailable 
 
 While the original seven are, of course, long gone, their legacy and names live on in the Great Houses that now rule Sindrel.
 
-h2. Religion<hr>
+h2. Religion
 
 Sindrel has long treated religion as tolerated eccentricity: useful for funerals, private comfort, and old family rites, but faintly embarrassing in serious civic life. Since the [[Anathemists | Anathemist]] threat became public, explicitly religious practice has become politically suspect, because many Sindrelians conflate devotion, anti-magical sentiment, and Anathemist fanaticism.
 
 As it grew out of the culture of [[The Magedom of Houd | The Magedom of Houd]], [[The Gods | The Houdian Panthion]] is the main object of religious observance.
 
-h2. Economics<hr>
+h2. Economics
 
 For most of its history, Sindrel has competed on a roughy even footing with other centres of magical learning, most notably its closest neighbour [[Soulwind | Soulwind]]. In recent centuries, however, the death of magic has given the city an almost unopposed monopoly on magical goods and services. The city has become the hub of a trade empire that spans most of the northern continent, and is rumoured to extend even further south into the mysterious [[The Thaumocracy of Tellerin | Thaumocracy of Tellerin]].
 
 [[File:1546638  | class=media-item-align-right | 400px | Octarion_Circle.png]]
 
-h2. Politics<hr>
+h2. Politics
 
 Sindrel is ruled by the seven Great Houses - the legacy and, in some cases, literal scions of  the original founding mages. Each house specialise in one school of magic, and fulfil a unique role within the operation of the city.
 

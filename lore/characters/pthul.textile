@@ -7,7 +7,7 @@ name: Pthul
 title: Pthul
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/pthul
 op_created_at: '2025-12-09T19:59:43Z'
-op_updated_at: '2026-03-12T11:43:58Z'
+op_updated_at: '2026-06-27T18:03:04Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -26,6 +26,15 @@ Pthul is utterly devoted to his charge, [[:dulcinia-von-phthasia | Dulcinia von 
 * *25th Enean 4218 SC*: Pthul and Dulcinia's coach is ambushed by [[Anathemists | Anathemists]].
 
 <!-- GM_INFO_START -->
+<div class="stat-block">
+  <h3>Barovian Revenant</h3>
+  <p><strong>Armor Class</strong> 16<br>
+  <strong>Hit Points</strong> 136<br>
+  <strong>Speed</strong> 30 ft.</p>
+  <hr>
+  <p><strong>Traits.</strong> The revenant knows the direction and distance to its quarry.</p>
+</div>
+
 <div contenteditable="true"  style="width:310px; font-family:Arial,Helvetica,sans-serif;font-size:11px;">
 <div class="statname">Pthul</div>
 <div class="statdescription">Medium human, lawful neutral</div>

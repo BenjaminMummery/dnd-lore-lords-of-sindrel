@@ -7,7 +7,7 @@ name: 'Session 2: Fallowhurst'
 title: 'Session 2: Fallowhurst'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-2-fallowhurst
 op_created_at: '2026-01-05T10:51:13Z'
-op_updated_at: '2026-05-21T08:02:32Z'
+op_updated_at: '2026-06-27T18:15:55Z'
 op_gm_only: false
 tags: []
 post_tagline: Let the Hunt Begin...
@@ -62,11 +62,11 @@ A short distance away they found the remains of a road with a signpost pointing 
 
 h2. [[Fallowhurst | Fallowhurst]]
 
-[[File:1543101  | class=media-item-align-left | 600px | Fallowhurst_img.png]]
-
 bq). You're standing amidst the remains of a moderately sized village. [[Fallowhurst | Fallowhurst]] was once comprised mostly of one- or two-storey wooden houses; what remains are little more than ruins — mouldering beams and posts jutting from water that stands roughly three feet deep in the streets. Here and there a more intact building retains stairs or the half-collapsed ghost of a roof. The estate on the far bank sits above the flood on raised foundations, protected from the Deren.
 <br>
 The original course of the river can be seen in the remains of a broad levee that marks the northern edge of the village. Broad gaps mark where the levee has failed, allowing the river waters to flood through.
+
+[[File:1543101  | class=media-item-align-left | 600px | Fallowhurst_img.png]]
 
 Examining the ruined houses, [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] concluded that they had been abandoned for something on the order of centuries.
 
