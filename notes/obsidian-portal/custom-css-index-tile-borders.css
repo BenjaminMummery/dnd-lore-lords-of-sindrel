@@ -1,0 +1,20 @@
+/* Character index tile borders (Deceased / Undead state tags) */
+/* Paste into Campaign Settings - Advanced - Custom CSS alongside theme CSS */
+
+.content-list-item.tag-deceased,
+.character-index .content-list-item.tag-deceased {
+  border: 3px solid #6d6862;
+  opacity: 0.88;
+}
+
+.content-list-item.tag-undead,
+.character-index .content-list-item.tag-undead {
+  border: 3px solid #4b0c0f;
+  box-shadow: inset 0 0 0 1px #3b0709;
+}
+
+.content-list-item.tag-deceased.tag-undead,
+.character-index .content-list-item.tag-deceased.tag-undead {
+  border: 3px solid #4b0c0f;
+  box-shadow: inset 0 0 0 1px #6d6862;
+}

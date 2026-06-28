@@ -1,0 +1,337 @@
+/* Curse of Strahd theme - simplified grey palette */
+
+/* Typography */
+body {
+  color: #211b18;
+  font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+}
+
+p, li, td, dd {
+  font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  color: #211b18;
+}
+
+h1, .page-title, .campaign-title, .character-name {
+  font-family: "IM Fell English SC", "Cinzel", Georgia, serif;
+  font-size: 42px;
+  line-height: 1.2;
+  color: #3b0709;
+  font-weight: normal;
+  letter-spacing: 1px;
+  border-bottom: 5px double #3b0709;
+  padding-bottom: 8px;
+  margin-bottom: 18px;
+}
+
+.character-list-item .character-name,
+.character-list-item h3,
+.character-list-item h4,
+.character-list-item a {
+  font-size: 20px;
+}
+
+h2, .adventure-log-title {
+  font-family: "Cinzel", "IM Fell English SC", Georgia, serif;
+  font-size: 28px;
+  color: #4b0c0f;
+  font-weight: bold;
+  letter-spacing: 1px;
+  border-bottom: 2px solid #6d6862;
+  padding-bottom: 5px;
+  margin-top: 30px;
+}
+
+h3 {
+  font-family: "Cinzel", "IM Fell English SC", Georgia, serif;
+  font-size: 22px;
+  color: #2a211d;
+  font-weight: bold;
+  letter-spacing: 1px;
+  border-left: 6px solid #5e1013;
+  padding-left: 10px;
+}
+
+h4, h5, h6 {
+  font-family: "Cinzel", "IM Fell English SC", Georgia, serif;
+  color: #4b0c0f;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+strong, b {
+  color: #4b0c0f;
+}
+
+em, i {
+  color: #342a24;
+}
+
+/* Read-aloud blockquotes */
+blockquote {
+  margin: 22px 0;
+  padding: 16px 20px;
+  background-color: #deded8;
+  color: #211b18;
+  font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  font-style: italic;
+  border-top: 4px solid #3b0709;
+  border-bottom: 4px solid #3b0709;
+  border-left: 1px solid #6d6862;
+  border-right: 1px solid #6d6862;
+}
+
+blockquote p {
+  margin: 0 0 12px 0;
+  color: #211b18;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+blockquote a {
+  color: #4b0c0f;
+  font-weight: bold;
+}
+
+blockquote strong {
+  color: #3b0709;
+}
+
+/* Links and dividers */
+a {
+  color: #5e1013;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #8a171b;
+}
+
+hr {
+  border: 0;
+  border-top: 4px double #4b0c0f;
+  margin: 30px 0;
+}
+
+dt {
+  font-family: "Cinzel", "IM Fell English SC", Georgia, serif;
+  color: #4b0c0f;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+small, .meta, .date, .timestamp, .post-date {
+  color: #5f574b;
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 22px 0;
+  font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  color: #211b18;
+  background-color: #d8d8d2;
+}
+
+th {
+  background-color: #3a3433;
+  color: #ece8df;
+  font-family: "Cinzel", "IM Fell English SC", Georgia, serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+td, th {
+  padding: 9px 11px;
+  border: 1px solid #6d6862;
+}
+
+tr:nth-child(even) td {
+  background-color: #c9c9c2;
+}
+
+tr:nth-child(odd) td {
+  background-color: #deded8;
+}
+
+/* Stat blocks */
+.stat-block {
+  margin: 24px 0;
+  padding: 18px 22px;
+  background-color: #deded8;
+  color: #211b18;
+  border-top: 5px solid #4b0c0f;
+  border-bottom: 5px solid #4b0c0f;
+  border-left: 1px solid #6d6862;
+  border-right: 1px solid #6d6862;
+  font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+}
+
+.stat-block h2,
+.stat-block h3,
+.stat-block h4 {
+  color: #4b0c0f;
+  font-family: "Cinzel", "IM Fell English SC", Georgia, serif;
+  border-left: none;
+  border-bottom: 2px solid #4b0c0f;
+  padding-left: 0;
+  padding-bottom: 5px;
+}
+
+.stat-block hr {
+  border-top: 3px solid #4b0c0f;
+  margin: 12px 0;
+}
+
+.stat-block table {
+  background-color: #d8d8d2;
+  margin: 14px 0;
+}
+
+.stat-block th {
+  background-color: #3a3433;
+  color: #ece8df;
+}
+
+.stat-block tr:nth-child(even) td {
+  background-color: #c9c9c2;
+}
+
+.stat-block tr:nth-child(odd) td {
+  background-color: #deded8;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+}
+
+.caption, .image-caption, figcaption {
+  font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  color: #5f574b;
+  font-size: 13px;
+  font-style: italic;
+  text-align: center;
+  margin-top: 6px;
+}
+
+/* Navigation */
+.sidebar, .side-nav, #sidebar, .campaign-nav, .navbar, .top-bar {
+  font-family: "Cinzel", "IM Fell English SC", Georgia, serif;
+}
+
+.sidebar a, .side-nav a, #sidebar a, .campaign-nav a, .navbar a, .top-bar a {
+  color: #3b0709;
+  font-family: "Cinzel", "IM Fell English SC", Georgia, serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-bottom: 0;
+}
+
+.sidebar a:hover, .side-nav a:hover, #sidebar a:hover, .campaign-nav a:hover, .navbar a:hover, .top-bar a:hover {
+  color: #7a1116;
+  text-decoration: none;
+  border-bottom: 0;
+}
+
+.sidebar h2, .sidebar h3, .side-nav h2, .side-nav h3, #sidebar h2, #sidebar h3 {
+  font-family: "IM Fell English SC", "Cinzel", Georgia, serif;
+  color: #3b0709;
+  font-weight: normal;
+  letter-spacing: 1px;
+  border-bottom: 3px double #3b0709;
+}
+
+.sidebar .active a, .side-nav .active a, #sidebar .active a, .campaign-nav .active a, .navbar .active a, .top-bar .active a,
+.sidebar .current a, .side-nav .current a, #sidebar .current a, .campaign-nav .current a, .navbar .current a, .top-bar .current a {
+  color: #7a1116;
+}
+
+/* Buttons and forms */
+button, .button, .btn, input[type="submit"], input[type="button"], a.button, a.btn {
+  font-family: "Cinzel", "IM Fell English SC", Georgia, serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #ece8df;
+  background-color: #4b0c0f;
+  border: 1px solid #2a0506;
+}
+
+button:hover, .button:hover, .btn:hover, input[type="submit"]:hover, input[type="button"]:hover, a.button:hover, a.btn:hover {
+  color: #deded8;
+  background-color: #721217;
+  border-color: #3b0709;
+  text-decoration: none;
+}
+
+input, textarea, select {
+  font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  color: #211b18;
+  background-color: #deded8;
+  border: 1px solid #6d6862;
+}
+
+input:focus, textarea:focus, select:focus {
+  color: #211b18;
+  background-color: #d8d8d2;
+  border-color: #4b0c0f;
+}
+
+/* Tags */
+.tag, .tags a, .label, .badge {
+  display: inline-block;
+  padding: 3px 7px;
+  margin: 2px;
+  font-family: "Cinzel", "IM Fell English SC", Georgia, serif;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #ece8df;
+  background-color: #3b0709;
+  border: 1px solid #6d6862;
+  text-decoration: none;
+}
+
+.tags a:hover, .tag:hover, .label:hover, .badge:hover {
+  color: #deded8;
+  background-color: #721217;
+  text-decoration: none;
+}
+
+/* Sidebar table of contents */
+.sidebar-table-of-contents,
+.sidebar-table-of-contents .toc-title,
+.sidebar-table-of-contents ul,
+.sidebar-table-of-contents li {
+  color: #ece8df;
+  font-family: "Cinzel", "IM Fell English SC", Georgia, serif;
+}
+
+.sidebar-table-of-contents .toc-title {
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.sidebar-table-of-contents a {
+  color: #ece8df;
+  text-decoration: none;
+  border-bottom: 0;
+}
+
+.sidebar-table-of-contents a:hover {
+  color: #deded8;
+  text-decoration: none;
+  border-bottom: 0;
+}

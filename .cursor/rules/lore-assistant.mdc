@@ -147,14 +147,30 @@ When resolving git pull, stash apply, merge, or post-bridge sync conflicts on ex
 - Adventure logs live in `lore/wiki/adventure-log/`.
 - Party reference: **The Wonch** (`The Adventurers` wiki page).
 
-## Story so far (main page)
+## Story so far (home page)
 
-When a **new adventure log** is added or a session recap is substantially updated, refresh the **Story so far** section on `lore/wiki/wiki/main-page.textile`:
+When a **new adventure log** is added or a session recap is substantially updated, refresh the **Story so far** section on `lore/wiki/wiki/home-page.textile`:
 
 - Synthesise published logs into a brief "previously on" blurb (book-jacket tone, not a session list).
 - Player-facing only — no GM-only reveals; match what the party knows from play.
 - End with a teaser or cliffhanger pointing at imminent consequences (next session hook).
-- Update the HTML comment marker (`<!-- Story so far: through Session N ... -->`) so agents know which log is current.
+- Update the italic session line under the heading (e.g. `_Through Session N (date SC)._`). Do **not** use HTML comments — they render visibly on Obsidian Portal.
+
+## Faction clocks & party wealth (The Adventurers)
+
+When a **new adventure log** is added or a session recap is substantially updated, refresh on `lore/wiki/wiki/the-adventurers.textile`:
+
+**Faction clocks** (GM-only block):
+- Track each Great House's **opinion** of the Wonch in plain language (e.g. Hostile, Wary, Cool, Neutral, Favourable).
+- Include **Anathemists**, **Black Cats**, and other factions with a meaningful relationship to the party — not the [[Hexine Circle | Hexine Circle]] (a council of House factors, not a faction in its own right).
+- Brief rationale per faction; cite recent session events where opinion shifted.
+- Update the italic session line under the heading. Do **not** use HTML comments — they render visibly on Obsidian Portal.
+
+**Party wealth** (player-facing main body):
+- Maintain the **wealth level** table and **current standing** — not individual coin counts.
+- Adjust level when fortune changes sustainably in play; note rationale under Current standing.
+- Update non-cash assets (lodging, bracelet days, contingent rewards) as needed.
+- Update the italic session line under the heading. Do **not** use HTML comments — they render visibly on Obsidian Portal.
 
 ## Proactive Checks
 
@@ -171,6 +187,7 @@ When preparing a push, or after accumulating a significant batch of lore edits, 
 - **New pages** — omit portal-assigned frontmatter (`op_id`, `op_url`, `op_created_at`, `op_updated_at`); include `op_slug`, kind/type, `name`, `title`, `op_gm_only`, and `tags`.
 - **`op_updated_at` on merge** — after pull/stash/merge, ensure no touched file regressed to a lower timestamp; keep max(local, incoming).
 - **Line endings** — scan staged `.textile` for CRLF-only churn; normalize to LF before push if working tree shows phantom edits on OP-pulled files.
-- **Story so far** — if adventure logs changed, check whether `main-page.textile` **Story so far** needs updating (see above).
+- **Story so far** — if adventure logs changed, check whether `home-page.textile` **Story so far** needs updating (see above).
+- **Faction clocks & party wealth** — if adventure logs changed, check whether `the-adventurers.textile` needs updating (see above).
 - **Player secrets** — never add `OP_PLAYER_SECRETS` markers to bio; they publish visibly. Use OP Player Secrets UI + optional `GM_INFO` mirror in repo.
 - **GM notes** — active todos live in `notes/todo.md` (e.g. OP Custom CSS, NPC statblocks); check when resuming work.

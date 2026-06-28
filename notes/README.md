@@ -4,3 +4,4 @@ Files in this folder are **not** published to Obsidian Portal. The lore bridge o
 
 - **`todo.md`** — active GM todos and scratch notes
 - **`character-descriptions-todo.md`** — shelved description checklist
+- **`obsidian-portal/`** — local backup of OP Custom CSS and character index layout

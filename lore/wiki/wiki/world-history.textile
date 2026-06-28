@@ -137,7 +137,7 @@ h3. *Campaign Timeline* - Year 4218 (_current year_)
             *28th Enean*
             * Under questioning,  [[:arise-to-victory-over-the-infidel-hoards | The Anathemist Leutenant]] lets slip that the [[Anathemists | Anathemists]] have access to highly sensitive information. A [[Hexine Circle | Hexine Circle]] is convened.</li>
             * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] gambles against [[:emerich-surefoot | Emerich Surefoot]] in [[The Wallarch District | the Wallarch district]] and wins. She learns a route into the [[Quarantine Zone | Quarantine Zone]].</li>
-            * [[:amanira | Amanira]], in cat form, befriends the city cat population and learns a route into [[House Grimbolg | The Amaltheana]], headquarters of [[House Grimbolg | House Grimbolg]].
+            * [[:amanira | Amanira]], in cat form, befriends the city cat population and learns a route into the Amalthean, headquarters of [[House Grimbolg | House Grimbolg]].
             * [[:ayr | Ayr]], in disguise, infiltrates [[:emissary-halan | Emissary Halan]]'s soiree.
             * [[:pin | Pin]] goes drinking with [[:hielaman | Captain Hielaman]], ending in a physical altercation.
             * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]]

@@ -1,0 +1,229 @@
+/* Curse of Strahd theme - Obsidian Portal safe CSS */
+
+.campaign-public-layout .page-background {
+  background-color: #141110;
+  background-image: linear-gradient(to bottom, #1a1614, #2b2520, #171412);
+}
+
+.campaign-public-layout .wiki-page,
+.campaign-public-layout .wiki-page .wiki-page-content,
+.campaign-public-layout .adventure-log-show .post-main,
+.campaign-public-layout .adventure-log-show .post-header-container,
+.campaign-public-layout .adventure-log-index .adventure-log-post,
+.campaign-public-layout .character-show .main-content section,
+.campaign-public-layout .item-show .main-content section,
+.campaign-public-layout .campaign-landing-show .campaign-landing-page-container,
+body.campaign-public-layout .post-section.post-main {
+  background-color: #f3e8d4;
+  color: #1f1812;
+  border: 1px solid #b9a684;
+  box-shadow: 0 8px 20px #000000;
+}
+
+.campaign-public-layout,
+.campaign-public-layout .wiki-page-content,
+.campaign-public-layout .adventure-log-show .post-main,
+.campaign-public-layout .character-show,
+.campaign-public-layout .item-show {
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", serif;
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+.campaign-public-layout .wiki-page-content h1,
+.campaign-public-layout .adventure-log-show .post-main h1,
+.campaign-public-layout .wiki-page-content h2,
+.campaign-public-layout .adventure-log-show .post-main h2,
+.campaign-public-layout .wiki-page-content h3,
+.campaign-public-layout .adventure-log-show .post-main h3,
+.campaign-public-layout .wiki-page-content h4,
+.campaign-public-layout .adventure-log-show .post-main h4 {
+  font-family: "Times New Roman", Times, serif;
+  color: #3d0a0a;
+  letter-spacing: 0.04em;
+  font-weight: bold;
+}
+
+.campaign-public-layout .wiki-page-content h1,
+.campaign-public-layout .adventure-log-show .post-main h1 {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 1em;
+  padding-bottom: 0.45em;
+  border-bottom: 3px double #6b1515;
+}
+
+.campaign-public-layout .wiki-page-content h2,
+.campaign-public-layout .adventure-log-show .post-main h2 {
+  font-size: 1.45rem;
+  margin-top: 1.6em;
+  margin-bottom: 0.7em;
+  padding: 0.35em 0 0.35em 0.85em;
+  border-left: 4px solid #6b1515;
+  border-bottom: 1px solid #c9a89a;
+  background-color: #eadfce;
+}
+
+.campaign-public-layout .wiki-page-content h3,
+.campaign-public-layout .adventure-log-show .post-main h3 {
+  font-size: 1.15rem;
+  color: #8b1f1f;
+}
+
+.campaign-public-layout .wiki-page-content h4,
+.campaign-public-layout .adventure-log-show .post-main h4 {
+  font-size: 1rem;
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  color: #4a3f34;
+}
+
+.campaign-public-layout .wiki-page-content em,
+.campaign-public-layout .adventure-log-show .post-main em,
+.campaign-public-layout .wiki-page-content i,
+.campaign-public-layout .adventure-log-show .post-main i {
+  font-style: italic;
+  color: #8b1f1f;
+}
+
+.campaign-public-layout a {
+  color: #8b1f1f;
+  text-decoration: none;
+  border-bottom: 1px solid #c97a7a;
+}
+
+.campaign-public-layout a:hover {
+  color: #b08d2b;
+  border-bottom-color: #b08d2b;
+}
+
+.campaign-public-layout .wiki-page-content blockquote,
+.campaign-public-layout .adventure-log-show .post-main blockquote {
+  font-style: italic;
+  color: #1f1812;
+  background-color: #efe2c8;
+  border: 1px solid #a8895d;
+  border-left: 5px solid #6b1515;
+  padding: 1em 1.15em;
+  margin: 1.2em 0;
+}
+
+.campaign-public-layout #content table,
+.campaign-public-layout .wiki-page-content table,
+.campaign-public-layout .adventure-log-show .post-main table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.2em 0;
+  background-color: #e8dcc4;
+  border: 2px solid #8a6d22;
+}
+
+.campaign-public-layout #content table th,
+.campaign-public-layout .wiki-page-content table th,
+.campaign-public-layout .adventure-log-show .post-main table th {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 0.85rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  background-color: #6b1515;
+  color: #f6ead6;
+  border: 1px solid #4a0909;
+  padding: 0.55em 0.75em;
+}
+
+.campaign-public-layout #content table td,
+.campaign-public-layout .wiki-page-content table td,
+.campaign-public-layout .adventure-log-show .post-main table td {
+  border: 1px solid #c4ad82;
+  padding: 0.5em 0.75em;
+  color: #1f1812;
+}
+
+.campaign-public-layout .wiki-page-content hr,
+.campaign-public-layout .adventure-log-show .post-main hr {
+  border: 0;
+  height: 2px;
+  background-color: #6b1515;
+  margin: 1.5em 0;
+}
+
+.campaign-public-layout .wiki-page-content li,
+.campaign-public-layout .adventure-log-show .post-main li {
+  color: #1f1812;
+}
+
+.campaign-public-layout .adventure-log-show .post-tagline,
+.campaign-public-layout .adventure-log-index .adventure-log-post .tagline {
+  font-style: italic;
+  color: #8b1f1f;
+}
+
+.campaign-public-layout .adventure-log-show .post-title,
+.campaign-public-layout .adventure-log-index .adventure-log-post .title {
+  font-family: "Times New Roman", Times, serif;
+  color: #3d0a0a;
+}
+
+.campaign-public-layout #header,
+.campaign-public-layout .campaign-public-header,
+.campaign-public-layout .front-nav-container,
+.campaign-public-layout .collapsible-nav-row {
+  background-color: #1b1613;
+  background-image: linear-gradient(to bottom, #1b1613, #2a221d);
+  border-bottom: 2px solid #3d0a0a;
+}
+
+.campaign-public-layout #header a,
+.campaign-public-layout .front-nav-container a,
+.campaign-public-layout .collapsible-nav-row a {
+  color: #e8dcc4;
+  border-bottom: none;
+  font-family: "Times New Roman", Times, serif;
+  letter-spacing: 0.05em;
+}
+
+.campaign-public-layout #header a:hover,
+.campaign-public-layout .front-nav-container a:hover,
+.campaign-public-layout .collapsible-nav-row a:hover {
+  color: #b08d2b;
+}
+
+.campaign-public-layout #sidebar,
+.campaign-public-layout .sidebar {
+  background-color: #141110;
+  color: #ddd0bc;
+  border: 1px solid #4a3a2f;
+}
+
+.campaign-public-layout #sidebar a,
+.campaign-public-layout .sidebar a {
+  color: #d8b887;
+  border-bottom: none;
+}
+
+.campaign-public-layout .wiki-page-content img,
+.campaign-public-layout .adventure-log-show .post-main img,
+.campaign-public-layout .character-show img,
+.campaign-public-layout .item-show img {
+  border: 3px solid #8a6d22;
+  box-shadow: 0 6px 14px #000000;
+}
+
+.campaign-public-layout summary,
+.campaign-public-layout .accordion-title {
+  font-family: "Times New Roman", Times, serif;
+  color: #3d0a0a;
+  background-color: #eadfce;
+}
+
+.campaign-public-layout #campaign-footer {
+  background-color: #141110;
+  color: #8f8170;
+  border-top: 1px solid #3d0a0a;
+}
+
+.campaign-public-layout .character-index .content-list-item,
+.campaign-public-layout .item-index .content-list-item {
+  background-color: #f3e8d4;
+  border: 1px solid #b9a684;
+}

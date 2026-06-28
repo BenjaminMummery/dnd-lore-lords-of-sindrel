@@ -139,7 +139,7 @@ At the centre of both cities stands [[The Fulcrum | The Fulcrum]]. Rising from t
 h3. Lower City Districts
 
 [[Merchant's Quarter | Merchant's Quarter]] — The principal point of arrival for overland travellers entering the city by way of [[The Mage Road | the Mage Road.]]
-[[Granary Ward | Granary Ward]] — The logistical heart of the city, centred upon [[House Grimbolg | The Cornucopia]] and responsible for distributing food and supplies throughout Sindrel.
+[[Granary Ward | Granary Ward]] — The logistical heart of the city, centred on the Amalthean (colloquially the Cornucopia) and responsible for distributing food and supplies throughout Sindrel.
 [[Sevenways | Sevenways]] — A sprawling residential district built around an ancient network of ramps and bridges connecting the city's various levels.
 [[The Wallarch District | Wallarch]] — Sindrel's poorest district, pressed between the city's outer wall and the [[Quarantine Zone | Quarantine Zone]].
 [[Quarantine Zone | Quarantine Zone]] — The sealed ruins of [[The Eighth House | The Eighth House]], contaminated by dangerous necromantic energies since the fall of the Eighth.

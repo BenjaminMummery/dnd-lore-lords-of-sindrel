@@ -47,9 +47,9 @@ More modern Grimbolg architecture still carries that inheritance, but the pressu
 
 h3. Headquarters
 
-In theory, House Grimbolg is a decentralised structure with each of the major production hubs acting as their own HQ. In practice, the Cornucopia, centre of food and water production, is where most people think of as their seat of power. Its position on the ground tier of [[Sindrel | Sindrel]] and easy availability of refreshments make it the natural place to host visitors.
+In theory, House Grimbolg is a decentralised structure with each of the major production hubs acting as their own HQ. In practice, **the Amalthean** — colloquially **the Cornucopia** — is where most people think of as their seat of power. The Amalthean is the centre of food and water production; its position on the ground tier of [[Sindrel | Sindrel]] and easy availability of refreshments make it the natural place to host visitors.
 
-bq). On the opposite side of the city to Wallarch, as if to form some sort of economic balance, stands the Cornucopia. The transmuters of House Grimbolg produce water, basic foodstuffs, raw elements, specialist alloys, and a variety of materials whose names require several years of education and at least one unfortunate laboratory incident to pronounce correctly. Every loaf, ingot, bucket, beam, nail, nugget, and occasionally alarming new substance in [[Sindrel | Sindrel]] ultimately begins its life here.
+bq). On the opposite side of the city to Wallarch, as if to form some sort of economic balance, stands the Amalthean. Most Sindrelians call it the Cornucopia. The transmuters of House Grimbolg produce water, basic foodstuffs, raw elements, specialist alloys, and a variety of materials whose names require several years of education and at least one unfortunate laboratory incident to pronounce correctly. Every loaf, ingot, bucket, beam, nail, nugget, and occasionally alarming new substance in [[Sindrel | Sindrel]] ultimately begins its life here.
 <br>
 The estate once aspired to grandeur. A fine manor house stood amid sweeping landscaped gardens, laid out according to principles of beauty, symmetry, and the belief that somebody else will be doing the weeding. Those days are gone. The gardens now grow food wherever food can be persuaded to grow, and the house has been augmented with long sheds packed with supplies. A rose garden may delight the soul, but a warehouse full of copper is considerably more useful when the city plumbing explodes.
 <br>
@@ -88,7 +88,7 @@ The council could probably replace him as speaker if they so chose, but they typ
 
 h3. Headquarters
 
-The Cornucopia was originally a grand estate, commissioned by [[House Oestra | House Oestra]] during a phase when they were trying to establish all of the [[Sindrel | Sindrel]] houses as a form of nobility. The shapers found the rooms and hallways too restrictive and angular to be of much practical use, and the building was disused for some time. Eventually, as the needs of food production became greater, the estate was converted into the resource hub it is today.
+The Amalthean was originally a grand estate, commissioned by [[House Oestra | House Oestra]] during a phase when they were trying to establish all of the [[Sindrel | Sindrel]] houses as a form of nobility. Sindrelians later nicknamed it the Cornucopia for the horn-of-plenty work carried out there. The shapers found the rooms and hallways too restrictive and angular to be of much practical use, and the building was disused for some time. Eventually, as the needs of food production became greater, the estate was converted into the resource hub it is today.
 
 The manor house is little more than storage, with additional sheds being constructed by the shapers. When they need to host, they use the meeting hall below - a blue-stone dome through the centre of which grows a mighty tree, ultimately emerging into the courtyard of the manor house above.
 

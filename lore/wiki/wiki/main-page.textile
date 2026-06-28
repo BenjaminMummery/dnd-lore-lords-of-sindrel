@@ -20,21 +20,6 @@ h3. Quick Links:
 * "Characters":https://thelordsofsindrel.obsidianportal.com/characters
 * [[The Gods | The Gods]]
 
-h3. The story so far
-
-<!-- Story so far: through Session 11 (31st Enean 4218 SC). Update when a new adventure log is published. -->
-
-Seven strangers met at [[The White Dragon Coaching Inn | the White Dragon]], bound for [[Sindrel | Sindrel]]. They survived an [[Anathemists | Anathemist]] ambush on the [[The Mage Road | Mage Road]], rode the [[:sindrel-coach | coach]] over a cliff rather than surrender, and stumbled into the drowned ruins of [[Fallowhurst | Fallowhurst]] — where [[Fallowhurst College | Fallowhurst College]] tried very hard to keep them.
-
-On the plains before the city, they faced the Anathemists again, this time a roving patrol. [[House Meness | House Meness]] soldiers arrived on scene just in time to take custody of the defeated Anathemist leftenant. The shining city took the travellers' names names, fitted them with silver guest bracelets, and gave them thirty-six days to find a patron among the Great Houses — or leave. Before the ink was dry, the [[Hexine Circle | Hexine Circle]] had a better offer: root out spies who had burrowed far deeper into [[Sindrel | Sindrel]] than anyone admitted. The price of failure was exile. The price of success was a gold bracelet and a place in the world's last magical city.
-
-Calling themselves [[The Adventurers | the Wonch]], they split up to follow a dozen contradictory briefs from seven jealous Houses. The trail led to [[The Wallarch District | Wallarch]] — to [[The Black Cats | Black Cats]] and low dives, to the [[Osteomantic Archives | Osteomantic Archives]] and the bones beneath them. They emerged through [[House Oestra | House Oestra]]'s own vaults with more questions than answers, and the growing sense that [[Sindrel | Sindrel]]'s invulnerability may be mostly posture.
-
-Now the nature of the threat is being revealed. Someone nearly brought down [[The Fulcrum | the Fulcrum]] — not with sorcery, but with clockwork, flint, and gunpowder brewed from the city's own waste. The same hand may have drowned [[:dogara | Hydromancer D'gara]] to steal nitre, and burned sulphur under cover of [[House Beltus | House Beltus]]'s conjured "demons." The [[Hexine Circle | Hexine Circle]]'s investigators have traced the bombs to the servants' entrance to the tunnels below the tower, and a bespectacled [[:arouraios | coachman]] with an unfamiliar coat of arms who moved through the staff routes while the city was distracted by its own spectacle.
-
-The Wonch know how many devices were found beneath [[The Fulcrum | the Fulcrum]]. They do not yet know how many more their enemy can build from what has already been stolen — nor whether the next explosion will wait for a ceremony, or simply arrive unannounced.
-
-
 h3. Locations
 
 Our tale takes place in the northern regions of the continent of [[Artresh | Artresh]] in the world of [[Arcan | Arcan]].
@@ -53,7 +38,7 @@ Our tale takes place in the northern regions of the continent of [[Artresh | Art
                 </ul>
             <li>[[Granary Ward | Granary Ward]]</li>
                 <ul style="padding-left: 28px;text-indent: -28px; ">
-                    <li>The [[House Grimbolg | Cornucopia]] - Headquarters of [[House Grimbolg | House Grimbolg]]</li>
+                    <li>The Amalthean (the [[House Grimbolg | Cornucopia]]) — headquarters of [[House Grimbolg | House Grimbolg]]</li>
                 </ul>
             <li>[[Merrylane | Merrylane]]</li>
                 <ul style="padding-left: 28px;text-indent: -28px; ">
@@ -122,16 +107,6 @@ h2. The Plan!
 
 [[Project Kosmios | Project Kosmios]]
 [[The Fall of the Eighth House | The Fall of the Eighth House]]
-
-h2. Faction Clocks
-
-* [[House Beltus | House Beltus]]
-* [[House Goela | House Goela]]
-* [[House Grimbolg | House Grimbolg]]
-* [[House Lithra | House Lithra]]
-* [[House Mabon | House Mabon]]
-* [[House Meness | House Meness]]
-* [[House Oestra | House Oestra]]
 
 h2. Story Threads
 
