@@ -7,13 +7,14 @@ name: Main Page
 title: Main Page
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/main-page
 op_created_at: '2025-11-17T15:24:03Z'
-op_updated_at: '2026-06-27T18:06:56Z'
+op_updated_at: '2026-06-28T13:54:31Z'
 op_gm_only: false
 tags: []
 ---
 
 h3. Quick Links:
 
+* [[The Adventurers | The Neighbourhood Wonch]]
 * [[The Investigation | The Investigation]]
 * [[World History | World History]]
 * "Items":https://thelordsofsindrel.obsidianportal.com/items
@@ -89,7 +90,6 @@ h3. The Great Houses of [[Sindrel | Sindrel]]
 
 h3. Organisations / Groups
 
-* [[The Adventurers | The Neighbourhood Wonch]]
 * [[Anathemists | Anathemists]]
 * [[The Vermillion Company | Mercenaries]]
 * [[The Octarion Circle | The Octarion Circle]]

@@ -7,7 +7,7 @@ name: Home Page
 title: Home Page
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/home-page
 op_created_at: '2025-11-17T15:24:03Z'
-op_updated_at: '2026-01-02T20:01:10Z'
+op_updated_at: '2026-06-28T13:53:58Z'
 op_gm_only: false
 tags: []
 ---
@@ -28,7 +28,7 @@ Seven strangers met at [[The White Dragon Coaching Inn | the White Dragon]], bou
 
 On the plains before the city, they faced the Anathemists again, this time a roving patrol. [[House Meness | House Meness]] soldiers arrived on scene just in time to take custody of the defeated Anathemist leftenant. The shining city took the travellers' names, fitted them with silver guest bracelets, and gave them thirty-six days to find a patron among the Great Houses — or leave. Before the ink was dry, the [[Hexine Circle | Hexine Circle]] had a better offer: root out spies who had burrowed far deeper into [[Sindrel | Sindrel]] than anyone admitted. The price of failure was exile. The price of success was a gold bracelet and a place in the world's last magical city.
 
-Calling themselves [[The Adventurers | the Wonch]], they split up to follow a dozen contradictory briefs from seven jealous Houses. The trail led to [[The Wallarch District | Wallarch]] — to [[The Black Cats | Black Cats]] and low dives, to the [[Osteomantic Archives | Osteomantic Archives]] and the bones beneath them. They emerged through [[House Oestra | House Oestra]]'s own vaults with more questions than answers, and the growing sense that [[Sindrel | Sindrel]]'s invulnerability may be mostly posture.
+Calling themselves [[The Adventurers | the Wonch]], they set about following a dozen contradictory briefs from seven jealous Houses. The trail led to [[The Wallarch District | Wallarch]] — to [[The Black Cats | Black Cats]] and low dives, to the [[Osteomantic Archives | Osteomantic Archives]] and the bones beneath them. They emerged through [[House Oestra | House Oestra]]'s own vaults with more questions than answers, and the growing sense that [[Sindrel | Sindrel]]'s invulnerability may be mostly posture.
 
 Now the nature of the threat is being revealed. Someone nearly brought down [[The Fulcrum | the Fulcrum]] — not with sorcery, but with clockwork, flint, and gunpowder brewed from the city's own waste. The same hand may have drowned [[:dogara | Hydromancer D'gara]] to steal nitre, and burned sulphur under cover of [[House Beltus | House Beltus]]'s conjured "demons." The [[Hexine Circle | Hexine Circle]]'s investigators have traced the bombs to the servants' entrance to the tunnels below the tower, and a bespectacled [[:arouraios | coachman]] with an unfamiliar coat of arms who moved through the staff routes while the city was distracted by its own spectacle.
 
