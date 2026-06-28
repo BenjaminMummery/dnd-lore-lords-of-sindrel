@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-06-28T09:50:53Z",
+  "last_git_publish": "2026-06-28T11:03:09Z",
   "last_portal_pull": "2026-06-28T09:50:02Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -767,9 +767,9 @@
       "op_id": "6eacb1bcf1914d3ab6564eada8c4d045",
       "op_kind": "Character",
       "op_slug": "jean-de-dinteville",
-      "op_updated_at": "2026-06-26T21:27:04Z",
-      "repo_blob_sha": "987fcc15073fad415dacdfa47daf2651173af1b2",
-      "repo_hash_at_sync": "24a2dd4f4e7ff89a1c23b3830fffc369e472732d2693a574c6c37a03264c9d73",
+      "op_updated_at": "2026-06-28T11:02:38Z",
+      "repo_blob_sha": "5561883b9b0a22314b62eb2afbc01b4b3bc0b952",
+      "repo_hash_at_sync": "53e2c1d10d6ce6bbef6673c6b84062f6cd53cb826bb5193b0566e9240cde974d",
       "repo_path": "lore/characters/jean-de-dinteville.textile"
     },
     "6f9dfa0ebbf147a791ed50efe8aceb19": {
@@ -777,9 +777,9 @@
       "op_id": "6f9dfa0ebbf147a791ed50efe8aceb19",
       "op_kind": "Wiki",
       "op_slug": "main-page",
-      "op_updated_at": "2026-06-28T00:10:42Z",
-      "repo_blob_sha": "74656f99829b27c1ac05b2d09cab41ac0e904eb9",
-      "repo_hash_at_sync": "dd4bef08a5797320a9f86ce2405b296dc806391545a5d56a3b72a104acfc7ccb",
+      "op_updated_at": "2026-06-28T11:02:56Z",
+      "repo_blob_sha": "3913f21e129e4c84294a05421e1efd09a4ea69f4",
+      "repo_hash_at_sync": "c1ba3c1ae30b5cd9ceb84883c24df056b02479b8370a2de5d56ed7fff247a4af",
       "repo_path": "lore/wiki/wiki/main-page.textile"
     },
     "6fa7cadf93784d9885bb792317fc8305": {
@@ -967,9 +967,9 @@
       "op_id": "9c9f7ee7fc5d449daad869fb0c972bd9",
       "op_kind": "Character",
       "op_slug": "barnabus",
-      "op_updated_at": "2026-06-26T21:26:42Z",
-      "repo_blob_sha": "398e5b9268553d5ead821f4722c06cb44b751f39",
-      "repo_hash_at_sync": "050597073011add1f0739db2e5aa4a5948fb49893fa017a7950e82c3aa1ba2d5",
+      "op_updated_at": "2026-06-28T11:02:31Z",
+      "repo_blob_sha": "f3a62c8fc8d9444d7aacc673fa3f961e9833308c",
+      "repo_hash_at_sync": "caa78969517c3bd9882b72de6632b32fc9b35400eb650d1e093f5c28da11e998",
       "repo_path": "lore/characters/barnabus.textile"
     },
     "9d238159f301494ea08cd185326fe371": {
@@ -977,9 +977,9 @@
       "op_id": "9d238159f301494ea08cd185326fe371",
       "op_kind": "Character",
       "op_slug": "arouraios",
-      "op_updated_at": "2026-06-28T09:50:12Z",
-      "repo_blob_sha": "c55972fd15bd3c02387899b16f44ad4ea9e9f116",
-      "repo_hash_at_sync": "f0f9785fd8164a8b33eb31a67b15e1f07698a4da2476ed0febe306825ab62706",
+      "op_updated_at": "2026-06-28T11:02:28Z",
+      "repo_blob_sha": "cb2f799af3339e535dd2357f8f1d159b6a08b153",
+      "repo_hash_at_sync": "4bd1146266e3844c6a26e52bf147efdfe382053301841c3568d4dae2e60680be",
       "repo_path": "lore/characters/arouraios.textile"
     },
     "a100cad56baf4ec69e4dd9fe6b59f396": {
@@ -1147,9 +1147,9 @@
       "op_id": "b98a65653b164125a107c0b7e65305a6",
       "op_kind": "Character",
       "op_slug": "georges-de-selve",
-      "op_updated_at": "2026-06-26T21:26:58Z",
-      "repo_blob_sha": "c5cbfbaa79a105ab90312ba08f020ed1292bfcc0",
-      "repo_hash_at_sync": "499c8ff1a5cfdf8ee170accffcebd86a24c4716c29c5fb570de0581b54dfc9ed",
+      "op_updated_at": "2026-06-28T11:02:36Z",
+      "repo_blob_sha": "9af293ed2a57b0d807788e638b7e6a7eb3f70164",
+      "repo_hash_at_sync": "e954dddbf71e87f1672fd0d49a8bd4f62a1d517eb24a7c6b000ee82b982ed4f7",
       "repo_path": "lore/characters/georges-de-selve.textile"
     },
     "ba04065d82a84b0bb7719d137b915843": {
@@ -1167,9 +1167,9 @@
       "op_id": "ba31365df7b14eef9094b4a9527967ba",
       "op_kind": "Wiki",
       "op_slug": "anathemists",
-      "op_updated_at": "2026-06-26T21:27:39Z",
-      "repo_blob_sha": "d83d74c2c6a4db34e7e8714eb614e71d2506befa",
-      "repo_hash_at_sync": "f2edefef7edf8a7fb0fc9384544ae95ef847906198d0fa4cef8b8b2d9243a8a9",
+      "op_updated_at": "2026-06-28T11:02:50Z",
+      "repo_blob_sha": "b7d3f6172a617650bdf6ca01e4b323a63f0614fc",
+      "repo_hash_at_sync": "5529885899a35eb3454df3e01da5606ee24179fa2f9e153e187d4842d051e1e5",
       "repo_path": "lore/wiki/wiki/anathemists.textile"
     },
     "ba70a1fc7e2545f58bdc5e1419cb44bc": {
@@ -1197,9 +1197,9 @@
       "op_id": "be38f28555f8414bad61e1322b81af36",
       "op_kind": "Wiki",
       "op_slug": "the-investigation",
-      "op_updated_at": "2026-06-26T21:28:21Z",
-      "repo_blob_sha": "96307fd8bbbd4a7331b1672b94b70d13e90c3228",
-      "repo_hash_at_sync": "00ded73a5720e50cfb23f21db275ee742da8acb32d9c7aec57a84744eb4dee54",
+      "op_updated_at": "2026-06-28T11:03:06Z",
+      "repo_blob_sha": "6aa66a4702e21567a1a2af3d6401ccafbfba4428",
+      "repo_hash_at_sync": "3eff132f17398df333487b41a0b403bf6fa2e72f8083f1298e3cadbb8ad2a345",
       "repo_path": "lore/wiki/wiki/the-investigation.textile"
     },
     "be39fcd75540438d9a18e31861ccc436": {
@@ -1507,9 +1507,9 @@
       "op_id": "fab92a384bdb4e03bf8617366aa8ce71",
       "op_kind": "Wiki",
       "op_slug": "the-black-cats",
-      "op_updated_at": "2026-06-28T00:10:49Z",
-      "repo_blob_sha": "9d8771ce939305abe4f36700b7743f19bdf6d917",
-      "repo_hash_at_sync": "dcec2e150c009c80b2eb501d5bed5b7132ca46f8d409a6ff044feb50cc44367d",
+      "op_updated_at": "2026-06-28T11:03:02Z",
+      "repo_blob_sha": "acdda63abdc0727f03bda44989646c8e1962a632",
+      "repo_hash_at_sync": "f378b9e9941ec615c09df1f20b667485f735e6e91b381d7c2affae310b0d6fd4",
       "repo_path": "lore/wiki/wiki/the-black-cats.textile"
     },
     "fb7afdff854544d5a53af88202ee65c9": {
@@ -1517,9 +1517,9 @@
       "op_id": "fb7afdff854544d5a53af88202ee65c9",
       "op_kind": "Character",
       "op_slug": "regnif-d-log",
-      "op_updated_at": "2026-06-26T21:27:19Z",
-      "repo_blob_sha": "abe2380c4fc02a2312d36a8eb60f5caa8728a303",
-      "repo_hash_at_sync": "6b1f2f2da6efa04863e36f99fbe083439332d1ada198c5cf4470fa3eb466f1dd",
+      "op_updated_at": "2026-06-28T11:02:44Z",
+      "repo_blob_sha": "2234507364bee58d796725f0729f404023faff78",
+      "repo_hash_at_sync": "e5503a491a0cf6b508d6024e5d684b0d93c9ffe680214410ef34a5bbde89b529",
       "repo_path": "lore/characters/regnif-d-log.textile"
     },
     "fc2247b3d087498b8e0e04ddf4dd13f2": {
