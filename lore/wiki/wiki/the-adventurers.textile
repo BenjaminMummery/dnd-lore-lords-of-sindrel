@@ -46,12 +46,14 @@ h4. 24 Enean 4218
 h4. 25 Enean 4218
 
 * *Morning through afternoon* — Coach journey; [[Anathemists | Anathemist]] ambush on [[The Mage Road | The Mage Road]] ([[Session 1: The White Dragon | Session 1]])
-* *Afternoon* — Coach goes over the cliff; trek toward [[Fallowhurst | Fallowhurst]] ([[Session 2: Fallowhurst | Session 2]])
-* *Afternoon* — Flooded village; [[:embren-oestra | plague doctor]] directs party to the estate ([[Session 2: Fallowhurst | Session 2]])
-* *Late afternoon* — [[Fallowhurst | Fallowhurst]] orchard; [[:tama | giant stoat]] freed ([[Session 2: Fallowhurst | Session 2]])
-* *Late afternoon* — [[Fallowhurst College | Fallowhurst College]] explored; sigil experiments in the museum ([[Session 2: Fallowhurst | Session 2]])
-* *Late afternoon* — College fight; escape through the museum windows ([[Session 3: "Graduation" | Session 3]])
-* *Late afternoon* — Regroup at the wheelbarrow; vow to return ([[Session 3: "Graduation" | Session 3]])
+* *Afternoon*
+** Coach goes over the cliff; trek toward [[Fallowhurst | Fallowhurst]] ([[Session 2: Fallowhurst | Session 2]])
+** Flooded village; [[:embren-oestra | plague doctor]] directs party to the estate ([[Session 2: Fallowhurst | Session 2]])
+* *Late afternoon*
+** [[Fallowhurst | Fallowhurst]] orchard; [[:tama | giant stoat]] freed ([[Session 2: Fallowhurst | Session 2]])
+** [[Fallowhurst College | Fallowhurst College]] explored; sigil experiments in the museum ([[Session 2: Fallowhurst | Session 2]])
+** College fight; escape through the museum windows ([[Session 3: "Graduation" | Session 3]])
+** Regroup at the wheelbarrow; vow to return ([[Session 3: "Graduation" | Session 3]])
 * *Evening* — Leave [[Fallowhurst | Fallowhurst]]; [[Fallowhurst Outpost | outpost]]; overnight stay ([[Session 3: "Graduation" | Session 3]])
 
 h4. 26 Enean 4218
@@ -70,14 +72,16 @@ h4. 28 Enean 4218
 
 h4. 29 Enean 4218
 
-* *Morning* — [[Hexine Circle | Hexine Circle]] briefing; investigation commissioned ([[Session 4: Sindrel! | Session 4]])
-* *Morning* — House visits — Goela, Mabon, Meness, Lithra, Beltus, Oestra, Grimbolg ([[Session 5: The Investigation Begins | Session 5]])
+* *Morning*
+** [[Hexine Circle | Hexine Circle]] briefing; investigation commissioned ([[Session 4: Sindrel! | Session 4]])
+** House visits — Goela, Mabon, Meness, Lithra, Beltus, Oestra, Grimbolg ([[Session 5: The Investigation Begins | Session 5]])
 * *Noon* — [[The Wallarch District | Wallarch]] chase; [[:emerich-surefoot | Emerich]] and the [[The Cutthroat's Repose | Cutthroat's Repose]] lead ([[Session 6: Wallarch | Session 6]])
 * *Early afternoon* — [[Osteomantic Archives | Osteomantic Archives]]; [[:micycle-smynth | Micycle Smynth]] funeral ([[Session 6: Wallarch | Session 6]])
 * *Afternoon* — Descent into the catacombs; funeral disruption ([[Session 7: Into The Catacombs | Session 7]])
-* *Late afternoon* — Hall of Dragons; [[:kithrak-ii | Kithrak II]] adopted; Hall of Sages; Crossroads; [[:zalatan | Zalatan]] slain ([[Session 7: Into The Catacombs | Session 7]])
-* *Late afternoon* — Skeleton diorama; lost in natural tunnels ([[Session 8: The Dark Shrine | Session 8]])
-* *Late afternoon* — [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]]; buckler taken ([[Session 8: The Dark Shrine | Session 8]])
+* *Late afternoon*
+** Hall of Dragons; [[:kithrak-ii | Kithrak II]] adopted; Hall of Sages; Crossroads; [[:zalatan | Zalatan]] slain ([[Session 7: Into The Catacombs | Session 7]])
+** Skeleton diorama; lost in natural tunnels ([[Session 8: The Dark Shrine | Session 8]])
+** [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]]; buckler taken ([[Session 8: The Dark Shrine | Session 8]])
 * *Evening* — Emerge at [[House Oestra | Oestra Leageur]]; [[:commander-locke | Locke]] debrief; [[Radwasp House | Radwasp House]] keys passed (Hexine Circle / Lithra) ([[Session 8: The Dark Shrine | Session 8]] / [[Session 9: Downtime 2 | Session 9]])
 
 h4. 30 Enean 4218
