@@ -13,4 +13,8 @@ tags:
 - location
 ---
 
-The party's base of operations.
+A [[House Lithra | House Lithra]] townhouse in upper [[Merrylane | Merrylane]], assigned to [[The Adventurers | the Wonch]] as investigators' base by agreement of the [[Hexine Circle | Hexine Circle]].
+
+<!-- GM_INFO_START -->
+[[:commander-locke | Prefect Locke]] delivered the keys after their emergence from the [[House Oestra | Oestra Leageur]] catacombs — he was the **bearer** of the arrangement, not its architect. The property is **not** an Oestra gift; [[:cedric | Cedric]], a Lithra [[Adjutant | adjutant]], keeps the house.
+<!-- GM_INFO_END -->

@@ -37,40 +37,62 @@ Below is an at-a-glance overview of which open plot thread will relate to which 
 
 h3. Timeline
 
-Chronology of [[The Adventurers | the Wonch]]'s adventures in [[Sindrel | Sindrel]], using the [[The Soulwind Calendar | Soulwind Calendar]] (SC). Session links go to the adventure log.
+Chronology of [[The Adventurers | the Wonch]]'s adventures in [[Sindrel | Sindrel]], using the [[The Soulwind Calendar | Soulwind Calendar]] (SC). Grouped by date; session links in parentheses.
 
-|_. Date |_. Time |_. Event |_. Log |
-| 24 Enean 4218 | Evening | First meetings at [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]; Quill brothers apprehended | [[Session 1: The White Dragon | Session 1]] |
-| 25 Enean 4218 | Morning through afternoon | Coach journey; [[Anathemists | Anathemist]] ambush on [[The Mage Road | The Mage Road]] | [[Session 1: The White Dragon | Session 1]] |
-| 25 Enean 4218 | Afternoon | Coach goes over the cliff; trek toward [[Fallowhurst | Fallowhurst]] | [[Session 2: Fallowhurst | Session 2]] |
-| 25 Enean 4218 | Afternoon | Flooded village; [[:embren-oestra | plague doctor]] directs party to the estate | [[Session 2: Fallowhurst | Session 2]] |
-| 25 Enean 4218 | Late afternoon | [[Fallowhurst | Fallowhurst]] orchard; [[:tama | giant stoat]] freed | [[Session 2: Fallowhurst | Session 2]] |
-| 25 Enean 4218 | Late afternoon | [[Fallowhurst College | Fallowhurst College]] explored; sigil experiments in the museum | [[Session 2: Fallowhurst | Session 2]] |
-| 25 Enean 4218 | Late afternoon | College fight; escape through the museum windows | [[Session 3: "Graduation" | Session 3]] |
-| 25 Enean 4218 | Late afternoon | Regroup at the wheelbarrow; vow to return | [[Session 3: "Graduation" | Session 3]] |
-| 25 Enean 4218 | Evening | Leave [[Fallowhurst | Fallowhurst]]; [[Fallowhurst Outpost | outpost]]; overnight stay | [[Session 3: "Graduation" | Session 3]] |
-| 26 Enean 4218 | Morning through afternoon | Road to [[Sindrel | Sindrel]]; Anathemist patrol captured | [[Session 3: "Graduation" | Session 3]] |
-| 26 Enean 4218 | Morning | [[:hielaman | Captain Hielaman]]'s rescue; prisoners taken in charge | [[Session 4: Sindrel! | Session 4]] |
-| 26 Enean 4218 | Afternoon | Arrival at [[Sindrel | Sindrel]]; silver bracelets; [[:dulcinia-von-phthasia | Dulcinia]] and [[:pthul | Pthul]] part company | [[Session 4: Sindrel! | Session 4]] |
-| 27 Enean 4218 | — | Rest day in [[Sindrel | Sindrel]] *(unlogged)* | — |
-| 28 Enean 4218 | Daytime through evening | Individual downtime — soiree, gambling, temple, shops, [[:hielaman | Hielaman]] brawl | [[Session 4: Sindrel! | Session 4]] |
-| 29 Enean 4218 | Morning | [[Hexine Circle | Hexine Circle]] briefing; investigation commissioned | [[Session 4: Sindrel! | Session 4]] |
-| 29 Enean 4218 | Morning | House visits — Goela, Mabon, Meness, Lithra, Beltus, Oestra, Grimbolg | [[Session 5: The Investigation Begins | Session 5]] |
-| 29 Enean 4218 | Noon | [[The Wallarch District | Wallarch]] chase; [[:emerich-surefoot | Emerich]] and the [[The Cutthroat's Repose | Cutthroat's Repose]] lead | [[Session 6: Wallarch | Session 6]] |
-| 29 Enean 4218 | Early afternoon | [[Osteomantic Archives | Osteomantic Archives]]; [[:micycle-smynth | Micycle Smynth]] funeral | [[Session 6: Wallarch | Session 6]] |
-| 29 Enean 4218 | Afternoon | Descent into the catacombs; funeral disruption | [[Session 7: Into The Catacombs | Session 7]] |
-| 29 Enean 4218 | Late afternoon | Hall of Dragons; [[:kithrak-ii | Kithrak II]] adopted; Hall of Sages; Crossroads; [[:zalatan | Zalatan]] slain | [[Session 7: Into The Catacombs | Session 7]] |
-| 29 Enean 4218 | Late afternoon | Skeleton diorama; lost in natural tunnels | [[Session 8: The Dark Shrine | Session 8]] |
-| 29 Enean 4218 | Late afternoon | [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]]; buckler taken | [[Session 8: The Dark Shrine | Session 8]] |
-| 29 Enean 4218 | Evening | Emerge at [[House Oestra | Oestra Leageur]]; [[:commander-locke | Locke]] debrief; [[Radwasp House | Radwasp House]] assigned | [[Session 8: The Dark Shrine | Session 8]] / [[Session 9: Downtime 2 | Session 9]] |
-| 30 Enean 4218 | Morning through afternoon | Downtime errands — shopping, knuckle-dusters, Kelferria quote pending, letters, temple vision | [[Session 9: Downtime 2 | Session 9]] |
-| 30 Enean 4218 | Evening | [[Radwasp House | Radwasp House]]; buckler dreams; [[The Heptade Academy | Heptade Academy]] acceptance | [[Session 9: Downtime 2 | Session 9]] |
-| 31 Enean 4218 | Pre-dawn | Party summoned; [[:cedric | Cedric]] and the door | [[Session 10: Shakes Spear in the Park | Session 10]] |
-| 31 Enean 4218 | Dawn through early morning | [[Merrylane | Merrylane Park]]; demon "pest control"; [[:tama | stoat]] bonded to [[:rossin-ros-greyhirst | Ros]] | [[Session 10: Shakes Spear in the Park | Session 10]] |
-| 31 Enean 4218 | Morning | Post-combat debrief; [[:alandria | Alandria]] and the tea cup | [[Session 11: Gunpowder, Treason, and Plot | Session 11]] |
-| 31 Enean 4218 | Mid-morning | [[The Fulcrum | Fulcrum]] tunnels; gunpowder identified; Wilrin's forensics | [[Session 11: Gunpowder, Treason, and Plot | Session 11]] |
-| 31 Enean 4218 | Late morning | Servants' quarters; [[:nort | Nort]] interviewed | [[Session 11: Gunpowder, Treason, and Plot | Session 11]] |
-| 31 Enean 4218 | Late morning through midday | Amalthean (Cornucopia) tour; nitre-theft theory | [[Session 11: Gunpowder, Treason, and Plot | Session 11]] |
+h4. 24 Enean 4218
+
+* *Evening* — First meetings at [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]; Quill brothers apprehended ([[Session 1: The White Dragon | Session 1]])
+
+h4. 25 Enean 4218
+
+* *Morning through afternoon* — Coach journey; [[Anathemists | Anathemist]] ambush on [[The Mage Road | The Mage Road]] ([[Session 1: The White Dragon | Session 1]])
+* *Afternoon* — Coach goes over the cliff; trek toward [[Fallowhurst | Fallowhurst]] ([[Session 2: Fallowhurst | Session 2]])
+* *Afternoon* — Flooded village; [[:embren-oestra | plague doctor]] directs party to the estate ([[Session 2: Fallowhurst | Session 2]])
+* *Late afternoon* — [[Fallowhurst | Fallowhurst]] orchard; [[:tama | giant stoat]] freed ([[Session 2: Fallowhurst | Session 2]])
+* *Late afternoon* — [[Fallowhurst College | Fallowhurst College]] explored; sigil experiments in the museum ([[Session 2: Fallowhurst | Session 2]])
+* *Late afternoon* — College fight; escape through the museum windows ([[Session 3: "Graduation" | Session 3]])
+* *Late afternoon* — Regroup at the wheelbarrow; vow to return ([[Session 3: "Graduation" | Session 3]])
+* *Evening* — Leave [[Fallowhurst | Fallowhurst]]; [[Fallowhurst Outpost | outpost]]; overnight stay ([[Session 3: "Graduation" | Session 3]])
+
+h4. 26 Enean 4218
+
+* *Morning through afternoon* — Road to [[Sindrel | Sindrel]]; Anathemist patrol captured ([[Session 3: "Graduation" | Session 3]])
+* *Morning* — [[:hielaman | Captain Hielaman]]'s rescue; prisoners taken in charge ([[Session 4: Sindrel! | Session 4]])
+* *Afternoon* — Arrival at [[Sindrel | Sindrel]]; silver bracelets; [[:dulcinia-von-phthasia | Dulcinia]] and [[:pthul | Pthul]] part company ([[Session 4: Sindrel! | Session 4]])
+
+h4. 27 Enean 4218
+
+* *All day* — Rest day in [[Sindrel | Sindrel]] *(unlogged)*
+
+h4. 28 Enean 4218
+
+* *Daytime through evening* — Individual downtime — soiree, gambling, temple, shops, [[:hielaman | Hielaman]] brawl ([[Session 4: Sindrel! | Session 4]])
+
+h4. 29 Enean 4218
+
+* *Morning* — [[Hexine Circle | Hexine Circle]] briefing; investigation commissioned ([[Session 4: Sindrel! | Session 4]])
+* *Morning* — House visits — Goela, Mabon, Meness, Lithra, Beltus, Oestra, Grimbolg ([[Session 5: The Investigation Begins | Session 5]])
+* *Noon* — [[The Wallarch District | Wallarch]] chase; [[:emerich-surefoot | Emerich]] and the [[The Cutthroat's Repose | Cutthroat's Repose]] lead ([[Session 6: Wallarch | Session 6]])
+* *Early afternoon* — [[Osteomantic Archives | Osteomantic Archives]]; [[:micycle-smynth | Micycle Smynth]] funeral ([[Session 6: Wallarch | Session 6]])
+* *Afternoon* — Descent into the catacombs; funeral disruption ([[Session 7: Into The Catacombs | Session 7]])
+* *Late afternoon* — Hall of Dragons; [[:kithrak-ii | Kithrak II]] adopted; Hall of Sages; Crossroads; [[:zalatan | Zalatan]] slain ([[Session 7: Into The Catacombs | Session 7]])
+* *Late afternoon* — Skeleton diorama; lost in natural tunnels ([[Session 8: The Dark Shrine | Session 8]])
+* *Late afternoon* — [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]]; buckler taken ([[Session 8: The Dark Shrine | Session 8]])
+* *Evening* — Emerge at [[House Oestra | Oestra Leageur]]; [[:commander-locke | Locke]] debrief; [[Radwasp House | Radwasp House]] keys passed (Hexine Circle / Lithra) ([[Session 8: The Dark Shrine | Session 8]] / [[Session 9: Downtime 2 | Session 9]])
+
+h4. 30 Enean 4218
+
+* *Morning through afternoon* — Downtime errands — shopping, knuckle-dusters, Kelferria quote pending, letters, temple vision ([[Session 9: Downtime 2 | Session 9]])
+* *Evening* — [[Radwasp House | Radwasp House]]; buckler dreams; [[The Heptade Academy | Heptade Academy]] acceptance ([[Session 9: Downtime 2 | Session 9]])
+
+h4. 31 Enean 4218
+
+* *Pre-dawn* — Party summoned; [[:cedric | Cedric]] and the door ([[Session 10: Shakes Spear in the Park | Session 10]])
+* *Dawn through early morning* — [[Merrylane | Merrylane Park]]; demon "pest control"; [[:tama | stoat]] bonded to [[:rossin-ros-greyhirst | Ros]] ([[Session 10: Shakes Spear in the Park | Session 10]])
+* *Morning* — Post-combat debrief; [[:alandria | Alandria]] and the tea cup ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
+* *Mid-morning* — [[The Fulcrum | Fulcrum]] tunnels; gunpowder identified; Wilrin's forensics ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
+* *Late morning* — Servants' quarters; [[:nort | Nort]] interviewed ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
+* *Late morning through midday* — Amalthean (Cornucopia) tour; nitre-theft theory ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
 
 h3. Party Wealth
 
@@ -100,7 +122,7 @@ Pthul's escort fee and [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s gambli
 h4. Other assets
 
 * Silver guest bracelets (~31 days' stay remaining as of Session 11)
-* [[Radwasp House | Radwasp House]] — investigation base ([[:cedric | Cedric]])
+* [[Radwasp House | Radwasp House]] — investigation base ([[:cedric | Cedric]]); [[House Lithra | Lithra]] property via [[Hexine Circle | Hexine Circle]] agreement
 * [[The Heptade Academy | Heptade Academy]] — provisional acceptance for [[:wilrin-racenglade | Wilrin]] (contingent on completing [[The Investigation | the investigation]])
 * Patronage promise from the [[Hexine Circle | Hexine Circle]] on successful completion of [[The Investigation | the investigation]]
 
@@ -132,7 +154,7 @@ How each faction currently views [[The Adventurers | the Wonch]]. Update when pl
 | [[House Mabon | House Mabon]] | Favourable | [[:journeyman-galoras | Galoras]] is eager to help — gifts, gadgets, commissioned sword to [[Radwasp House | Radwasp House]]. House treats the Wonch as allies against sabotage. |
 | [[House Grimbolg | House Grimbolg]] | Favourable | [[:navinea-senetera | Navinea]] warmed to [[:rossin-ros-greyhirst | Ros]]; invitation to the Amalthean; open Cornucopia tour in Session 11. Hospitality doubles as keeping tabs on the investigation. |
 | [[House Beltus | House Beltus]] | Cool | [[:alandria | Alandria]] was irritable at the Hexine Circle and in Session 5, but her Wallarch tip paid off. Session 11: furious at park interference, then satisfied — transactional, watching for leverage. |
-| [[House Oestra | House Oestra]] | Wary | [[:commander-locke | Locke]] is embarrassed by the catacomb breach and armoury bullying. [[Radwasp House | Radwasp House]] is pragmatic, not affection. Kirrahe vendetta still open. |
+| [[House Oestra | House Oestra]] | Wary | [[:commander-locke | Locke]] is embarrassed by the catacomb breach and armoury bullying. Kirrahe vendetta still open. |
 | [[House Goela | House Goela]] | Neutral | [[:seer-demeletas | Demeletas]] offered cryptic bone-readings, not hostility. Goela's Mabon-paranoia not yet linked to the Wonch. |
 | [[Anathemists | Anathemists]] | Hostile | Active enemy. Lieutenant in custody; [[:commander-wake | Wake]] at large. Wonch closing on gunpowder trail and [[:arouraios | Arouraios]] / [[:chuggaz | Chuggaz]] links. |
 | [[The Black Cats | The Black Cats]] | Wary | **Vault** sees unpredictable outsiders muscling into Wallarch and the Fulcrum service layer. Prefer misdirection over open war unless cornered. |
