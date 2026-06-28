@@ -62,11 +62,13 @@ A short distance away they found the remains of a road with a signpost pointing 
 
 h2. [[Fallowhurst | Fallowhurst]]
 
+_Afternoon of the 25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
+[[File:1543101  | class=media-item-align-left | 600px | Fallowhurst_img.png]]
+
 bq). You're standing amidst the remains of a moderately sized village. [[Fallowhurst | Fallowhurst]] was once comprised mostly of one- or two-storey wooden houses; what remains are little more than ruins — mouldering beams and posts jutting from water that stands roughly three feet deep in the streets. Here and there a more intact building retains stairs or the half-collapsed ghost of a roof. The estate on the far bank sits above the flood on raised foundations, protected from the Deren.
 <br>
 The original course of the river can be seen in the remains of a broad levee that marks the northern edge of the village. Broad gaps mark where the levee has failed, allowing the river waters to flood through.
-
-[[File:1543101  | class=media-item-align-left | 600px | Fallowhurst_img.png]]
 
 Examining the ruined houses, [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] concluded that they had been abandoned for something on the order of centuries.
 
@@ -86,6 +88,8 @@ The [[:embren-oestra | plague doctor]] had headed to the right, into the manor h
 
 h2. The Orchard
 
+_Late afternoon of the 25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
 [[File:1544300  | class=media-item-align-right | 600px | orchard.jpg]]
 
 bq). Nothing much grows well in the hard soil of the [[Arkay Mountain Range | Arkay mountains]], and the fruit trees here are no exception. Gnarled and twisted trunks dot the orchard, a semi-random layout meant to evoke a forrest while providing broad pathways between. A rich persons impression of nature.
@@ -101,6 +105,8 @@ Managing to avoid the [[Sporeshrooms | Sporeshrooms]], the now reunited party ma
 Meanwhile [[:amanira | Amanira]] and [[:nakoma-deathwalker-mor-got-ha | DW]] went to check out the greenhouses. There they encountered a number of [[Triffid | Triffids]] - larger and more aggressive variants of the small plants with which they were familiar. Pursued by [[Triffid | Triffids]], [[The Adventurers | the adventurers]] exited the orchard.
 
 h2. [[Fallowhurst College | Fallowhurst College]]
+
+_Late afternoon of the 25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 [[File:1544298  | class=media-item-align-left | 600px | Byrgenwerth_concept_art_1.webp]]
 
@@ -143,7 +149,7 @@ Examining the "displays" revealed the following:
 * Each body was accompanied by a "label" - small piece of wood with markings on it.
 * Close to the entrance where the bodies are newest the writing on the labels was an illegible scrawl. As they approached the older corpses the writing became more legible.
 * Each legible label included an experiment number, a name, a description of an injury or disease, and an outcome. All except the pristine body were marked as 'failure'.
-* The pristine body was labelled _"Subject 1: Carlos Winterborn. 25 M. Occupation: Noble. Affliction: Cervical Fracture. Outcome: Partial Success."_ (Due to a bad roll, [[:nakoma-deathwalker-mor-got-ha | DW]] is convinced this mad died of a venereal disease).
+* The pristine body was labelled _"Subject 1: [[:carlos-winterborn | Carlos Winterborn]]. 25 M. Occupation: Noble. Affliction: Cervical Fracture. Outcome: Partial Success."_ (Due to a bad roll, [[:nakoma-deathwalker-mor-got-ha | DW]] is convinced this mad died of a venereal disease).
 * [[:wilrin-racenglade | Wilrin]] determined that the body had in some way been magically altered.
 * While the village was emptied centuries ago, the newest bodies are mere decades old.
 

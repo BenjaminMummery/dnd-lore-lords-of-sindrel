@@ -1,0 +1,26 @@
+---
+op_slug: seelie-ophelan
+op_kind: Character
+op_type: Character
+name: Seelie Ophelan
+title: Seelie Ophelan
+op_gm_only: false
+is_player_character: false
+tags: []
+---
+
+<!-- OP_DESCRIPTION -->
+Black-robed attendant at the [[Osteomantic Archives | Wallarch Osteomantic Archives]].
+
+<!-- OP_BIO -->
+*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+Present at the funeral of [[:micycle-smynth | Micycle Smynth]], presided over by the [[:celebrant-alruna | celebrant]]. [[:rossin-ros-greyhirst | Ros]] noticed two figures in archive robes among the mourners; at the rite's end, Seelie and [[:temperance-halke | Temperance Halke]] gathered the mortal remains and carried them toward the undercroft.
+
+<!-- GM_INFO_START -->
+Full name: Seelie Ophelan
+
+Suggested house affiliation (index when revealed): [[House Goela | House Goela]]. Junior curator attached to [[:celebrant-alruna | Alruna]] — rites, vestments, and the liturgical side of interment. The archives are house-independent on paper; Ophelan was seconded from Goela's bridge archive as part of a long-standing exchange. Her given name is family tradition, not fey heritage.
+
+Works alongside [[:temperance-halke | Temperance Halke]], who handles physical cataloguing and bone-work.
+<!-- GM_INFO_END -->

@@ -43,7 +43,7 @@ h3. Dramatis Personae
             * [[:emerich-surefoot | Emerich Surefoot]] - a ruffian.
             * [[:micycle-smynth | Micycle Smynth, deceased]] - a corpse.
             * Various mourners
-            * A [[:celebrant-alruna | celebrant]] and two underlings who work at the [[Osteomantic Archives | Osteomantic Archives]]
+            * A [[:celebrant-alruna | celebrant]], [[:seelie-ophelan | Seelie Ophelan]], and [[:temperance-halke | Temperance Halke]] — staff of the [[Osteomantic Archives | Osteomantic Archives]]
         [end-content]
     [end-accordion-item]
 
@@ -69,6 +69,8 @@ They chose the passageway that led toward the [[Quarantine Zone | quarantine zon
 
 h3. The Hall of Dragons
 
+_Late afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
 The first great chamber held the skeleton of a colossal black dragon suspended from the ceiling, with a gallery above and smaller draconic remains arranged below. This was [[:kithrak-the-black | Kithrak the Black]] — or what remained of him.
 
 Movement came from the skull. A miniature black dragon, nesting inside the colossal one, scrambled down to investigate the intruders. The party adopted [[:kithrak-ii | Kithrak II]], slayer of mice, on the spot.
@@ -79,13 +81,19 @@ White chalk marked a path through the tunnels. [[:pin | Pin]], deciding discreti
 
 h3. The Hall of Sages
 
+_Late afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
 A dozen skeletons sat in grand chairs before lecterns, scholars frozen mid-seminar. [[:wilrin-racenglade | Wilrin]] acquired a fresh set of archive robes. Nobody touched the lecterns. Some lessons are learned the hard way; others are simply observed and filed under "later."
 
 h3. The Crossroads
 
+_Late afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
 The passageways opened into a nonagonal chamber with nine doors. Each bore a house sigil save the entrance they had used. Two doors were chalked: one marked [[House Oestra | House Oestra]], the other the sigil of [[The Eighth House | the defunct necromantic house]].
 
 h3. The Hall of Aberrations
+
+_Late afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 Beyond lay stranger bones — illithid, otyugh, slaad, and a beholder suspended among them like a malignant pearl.
 

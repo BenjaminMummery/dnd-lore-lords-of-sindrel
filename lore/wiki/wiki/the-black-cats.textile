@@ -13,4 +13,39 @@ tags:
 - Organisation
 ---
 
-Magical Mafia
+Organised crime in [[Sindrel | Sindrel]], concentrated in [[The Wallarch District | the Wallarch district]]. The name is branding — the organisation is human (and the usual assortment of corrupt adjutants), not felines.
+
+[[:hielaman | Captain Hielaman]] of [[House Meness | House Meness]] treats them as the city's principal criminal syndicate and advised [[The Adventurers | the Wonch]] to lean on low-level operatives rather than assault leadership directly.
+
+h3. Known leads
+
+* [[:emerich-surefoot | Emerich Surefoot]] — low-level enforcer.
+* [[The Cutthroat's Repose | The Cutthroat's Repose]] — back room; password "Swordfish"; Emerich's superior operates from here.
+* [[:chuggaz | Chugan "Chuggaz" Velm]] — [[The Fulcrum | Fulcrum]] servant; rumoured links (see [[The Investigation | The Investigation]]).
+
+<!-- GM_INFO_START -->
+h3. Relation to City Cats (felines)
+
+Unrelated. **City Cats** are actual felines — the informal network [[:amanira | Amanira]] can speak to via wild shape or [[:rossin-ros-greyhirst | Ros]]'s _Speak with Animals_ (e.g. [[:pads-silently | Pads-Silently]], [[:hunts-by-night | Hunts-By-Night]]). **Black Cats** have never considered using them; from a cat's perspective Black Cats are just more people. Do not conflate the factions or tags.
+
+h3. Internal ranks
+
+| Rank | Role |
+|---|---|
+| **Strands** | Street muscle, gambling, lookout — [[:emerich-surefoot | Emerich Surefoot]] tier |
+| **Counters** | Fixers — bracelet fraud, Stay Ledger tampering, smuggling |
+| **Gild** | Operatives with real or forged gold; house-adjacent access — [[:chuggaz | Chuggaz]] |
+| **Vault** | Leadership; kompromat; Cutthroat relay |
+
+**[[:chuggaz | Chuggaz]]** — true **Gild**, not a red herring. Fences Fulcrum shift rosters, servant-route gossip, and ceremony-night staffing to Counters/Vault. Cover when revealed: [[House Grimbolg | Grimbolg]] [[Adjutant | Adjutant]].
+
+**Cutthroat's Repose contact** — Vault-adjacent **Counter**; holds ledger extracts and adjutant kompromat; never commits on premises.
+
+h3. [[:hielaman | Captain Hielaman]]
+
+Personally straight-lace; unaware of Vault kompromat. His **superiors** in Meness are compromised — he feels institutional pressure not to move directly against Vault leadership, but interprets it as politics, not blackmail. That makes him dangerous to the Cats: an honest investigator with little to leverage if he starts poking past Strands and Counters. Vault should prefer to divert, discredit, or isolate him rather than try to own him.
+
+Anathemist pipeline (Hielaman's thesis): pay Counters/Gild for stay fraud, servant access, and mundane logistics — not ideology.
+
+TODO: what the black cats know.
+<!-- GM_INFO_END -->

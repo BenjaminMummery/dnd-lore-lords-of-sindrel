@@ -10,7 +10,8 @@ op_created_at: '2026-03-16T16:41:25Z'
 op_updated_at: '2026-05-22T10:28:49Z'
 op_gm_only: false
 is_player_character: false
-tags: []
+tags:
+- City Cats
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7494097/hq720.jpg
 ---
 
@@ -18,4 +19,12 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7494097/hq720.jpg
 A street cat encountered in [[The Wallarch District | The Wallarch District]].
 
 <!-- OP_BIO -->
-Hunts-By-Night accompanied [[The Adventurers | the wonch]] through the Osteomantic Catacombs. At [[Radwasp House | Radwasp House]], Hunts attempted to warn the wonch of the presence of the [[:tama | Giant Stoat]]. Unsuccessful, they instead sought out [[:pads-silently | Pads Silently]].
+A [[Sindrel | Sindrel]] street cat. Part of the informal network known to [[:amanira | Amanira]] as the City Cats.
+
+*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- Accompanied [[The Adventurers | the Wonch]] through the [[Osteomantic Archives | catacombs]].
+
+*30th–31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- At [[Radwasp House | Radwasp House]], tried to warn the party about [[:tama | the giant stoat]]; sought out [[:pads-silently | Pads-Silently]] when unsuccessful.

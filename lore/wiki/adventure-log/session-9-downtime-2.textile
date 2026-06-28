@@ -10,6 +10,7 @@ op_created_at: '2026-05-20T12:24:54Z'
 op_updated_at: '2026-06-26T21:28:08Z'
 op_gm_only: false
 tags: []
+post_tagline: Home Is Where the Butler Is...
 post_time: '2026-05-20T12:30:00Z'
 ---
 
@@ -73,7 +74,7 @@ Locke directed them to their new base of operations: [[Radwasp House | Radwasp H
 
 h3. Downtime
 
-_The 30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+_Morning through afternoon of the 30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 After a much-needed rest, the party scattered across the city for a quieter day of errands and reflection.
 
@@ -119,6 +120,8 @@ Your ill informed and backwards-thinking opinions on [[Ditchquer | ditchquer]] m
 Hielaman
 
 h3. [[Radwasp House | Radwasp House]]
+
+_Evening of the 30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 Back at the townhouse, [[:cedric | Cedric]] had built a like-for-like miniature of the building for [[:razorbeak | the chicken]] to inhabit. The cat, which had seemed out of sorts earlier, was gone.
 

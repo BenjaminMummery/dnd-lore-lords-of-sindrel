@@ -12,9 +12,14 @@ op_gm_only: false
 is_player_character: false
 tags:
 - House Meness
+- Adjutant
 ---
 
 <!-- OP_DESCRIPTION -->
-
+[[House Meness | House Meness]] serjeant guarding [[The Fulcrum | Fulcrum]] service access.
 
 <!-- OP_BIO -->
+*31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- Guarding a hidden service entrance to [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] arrived. Recognised them as [[Hexine Circle | Hexine Circle]] investigators and led them into the service tunnels.
+- Showed the northwest foundation blast site and explained that twelve devices, correctly placed, might have brought the tower down.

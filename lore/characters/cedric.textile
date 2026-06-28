@@ -10,10 +10,23 @@ op_created_at: '2026-06-01T16:48:14Z'
 op_updated_at: '2026-06-01T16:48:14Z'
 op_gm_only: false
 is_player_character: false
-tags: []
+tags:
+- House Lithra
+- Adjutant
 ---
 
 <!-- OP_DESCRIPTION -->
-Butler of [[Radwasp House | Radwasp House]]
+Butler of [[Radwasp House | Radwasp House]].
 
 <!-- OP_BIO -->
+[[Adjutant | Adjutant]] of [[House Lithra | House Lithra]].
+
+Butler of [[Radwasp House | Radwasp House]], the [[Hexine Circle | Hexine Circle]] investigators' townhouse in upper [[Sindrel | Sindrel]].
+
+*31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- Summoned the party before dawn. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s approach to [[:wilrin-racenglade | Wilrin]]'s door left both the door and the curtains badly singed; Cedric was visibly consternated.
+
+<!-- GM_INFO_START -->
+Cedric is actually a Factor - his typical role is to spy on visiting dignitaries for House Lithra.
+<!-- GM_INFO_END -->

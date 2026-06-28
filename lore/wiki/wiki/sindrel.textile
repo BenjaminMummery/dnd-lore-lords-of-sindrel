@@ -161,6 +161,16 @@ The Panopticon — The floating headquarters of [[House Meness | House Meness]],
 <!-- GM_INFO_START -->
 Roughly 1000 years ago (3500 by [[The Soulwind Calendar | the Soulwind Calendar]]), magical researchers discovered a naturally occuring tear in reality.
 
+h3. The Stay Ledger
+
+Public belief: silver bracelets are visitor passes (map, countdown, stay limit); gold marks [[Adjutant | Adjutants]]; tattoos mark [[Factor | Factors]]. Nothing more.
+
+GM truth: the **Office of Visitation** (Fulcrum bureaucracy, [[House Grimbolg | Grimbolg]] forge, [[House Meness | Meness]] gate enforcement) maintains a secret **Stay Ledger** — serial, true name, entry gate, and timestamp for every silver binding. Ward-stones under the city log passage when a bound bracelet crosses a district threshold. Gold reports to patron house only; Factor tattoos are not on the guest ledger.
+
+**Binding ritual** (not explained to visitors): spoken name on the manifest; putting on the band; brief contact with an attuned gold bracelet or Factor tattoo at the inner gate. The Wonch completed all of this at arrival without recognising it as magic.
+
+Ledger access: gate clerks (partial), Meness intelligence, Lithra identity office, Goela audit seers, and [[The Black Cats | Black Cat]] **Vault** leadership (via stolen extracts). Not general adjutants or the public.
+
 h2. The Great Houses of Sindrel
 
 The original 8 researchers, immortal and possessed of otherwordly power, set themselves up as the heads of great noble houses in their newly established city. While the leaders have, almost universally, fallen to a bad end, the houses continue in their duties.

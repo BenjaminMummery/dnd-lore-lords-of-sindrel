@@ -12,10 +12,15 @@ op_gm_only: false
 is_player_character: false
 tags:
 - House Meness
+- Adjutant
 - he/him
 ---
 
 <!-- OP_DESCRIPTION -->
-
+[[House Meness | House Meness]] corporal; explosives specialist at the [[The Fulcrum | Fulcrum]] blast site.
 
 <!-- OP_BIO -->
+*31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- Assigned to the damaged support pillar beneath [[The Fulcrum | The Fulcrum]]. Showed [[The Adventurers | the Wonch]] what remained of the triggered device and confirmed [[:ayr | Ayr]]'s clockwork-and-gunpowder theory after a live spark test.
+- Ordered the party to leave after [[:wilrin-racenglade | Wilrin]]'s wild magic scorched evidence and bystanders; yielded tunnel layouts when [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] invoked their Hexine authority.

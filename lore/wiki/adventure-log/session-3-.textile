@@ -77,6 +77,8 @@ Within the museum, [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s wounds beg
 
 h2. The Escape
 
+_Late afternoon of the 25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
 The group fled along a narrow passage between the college and the flooded river, keeping the water in reserve should the way ahead be blocked. They had almost reached the entrance when the two cloaked pursuers smashed through the lecture-hall door and met them in the open.
 
 [[:silrie-aegiskiir | Silrie]] attempted an elegant flip over the figures and landed at their feet instead, which proved an excellent position from which to crack a telescopic staff upward into a jaw and send a hood tumbling away, revealing bare bone beneath.
@@ -86,6 +88,8 @@ What followed was less elegant than decisive. Blades, spells, and improvised vio
 [[:amanira | Amanira]] gathered bone fragments and a skeletal hand into a pouch for later study. The college, for the moment, had had enough of them.
 
 h2. Regroup
+
+_Late afternoon of the 25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 Back at the wheelbarrow, [[:dulcinia-von-phthasia | Dulcinia]] was awake and inclined to wander. [[:pthul | Pthul]] was torn between rushing toward the sounds of battle and remaining with his charge. [[:raymond-quill | Raymond]] and [[:gillette-quill | Gillette]] were deep in conversation with the [[:jean-de-dinteville | merc]][[:georges-de-selve | hants]], pitching a lifestyle course and meditation retreat with the confidence of men who had recently discovered philosophy.
 
@@ -115,7 +119,7 @@ Over the evening [[The Adventurers | the adventurers]] heard of the eight school
 
 h2. The Road to [[Sindrel | Sindrel]]
 
-_26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+_Morning through afternoon of the 26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 bq). Those of you who have walked in this world for some time have a pretty clear idea of what cities look like. For centuries, large conurbations have tended to shrink as the political, economic, and ecological systems that supported their population density die out with the loss of magic. "City", therefore, conjures images of crumbling civic centres nestled in shells of abandoned suburbs, or even of the corpses of towns being cannibalised for building materials for the smaller, more self-contained communities that are beginning to develop. None of this is true for [[Sindrel | Sindrel]].
 <br>

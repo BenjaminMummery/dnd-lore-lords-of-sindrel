@@ -55,7 +55,7 @@ h2. Dramatis Personae
 
 h2. [[Sindrel | Sindrel]]'s Guardians
 
-_26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+_Morning of the 26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 bq). A brief shimmer in the air rapidly grows into a warping distortion describing a roughly spherical region of space. There's the sense of motion, of inversion, as if the world had briefly turned inside out. It vanishes along with the distortion, and where it was now stand a squad of soldiers. You recognise the white uniform that [[:sebastian-warwick | Sebastian]] had been wearing, but worn with a lot more discipline and accessorised with gleaming armour and weapons. At the front stands a gruff half-elf with short-cropped hair.
 <br>
@@ -76,11 +76,13 @@ A bored beaurocrat asked the new arrivals whether they had evidence of a patrona
 * Permanent residence requires house patronage. [[Adjutant | Adjutants]] wear gold bracelets; full [[Factor | Factors]] bear enchanted house tattoos.
 * As guests of the city, they may remain for 36 days.
 
-The travellers were each given a silver bracelet. When raised it displayed both a map, and the number of days for which they may remain in the city. Having accepted these, they were permitted to enter the city proper. [[:dulcinia-von-phthasia | Dulcinia]] and [[:pthul | Pthul]] parted company with the group - the former heading directly to the [[Houses of Healing | Houses of Healing]] while the latter made for [[The Pointed Hat | The Pointed Hat]].
+The clerk took the travellers names and gave each of them a silver bracelet. [[:hielaman | Captain Hielaman]]'s soldiers shepherded the queue toward the inner gate; gold bracelets and tattooed hands brushed past the newcomers in the ordinary jostle of "move along,".
+
+When raised, each bracelet displayed both a map and the number of days for which they may remain in the city. Having accepted these, they were permitted to enter the city proper. [[:dulcinia-von-phthasia | Dulcinia]] and [[:pthul | Pthul]] parted company with the group - the former heading directly to the [[Houses of Healing | Houses of Healing]] while the latter made for [[The Pointed Hat | The Pointed Hat]].
 
 h2. Downtime
 
-_28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+_Daytime through evening of the 28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 [[File:1549016  | class=media-item-align-right | 200px | greebo-kidby-lrg.webp]]
 h3. [[:amanira | Amanira]]
@@ -168,4 +170,5 @@ The [[Hexine Circle | Hexine Circle]] requested the aid of [[The Adventurers | T
 * [[:silrie-aegiskiir | Silrie]] sensed something significant at the heart of the city — the portal. This will have implications.
 * Beltus ([[:commander-locke | Locke]]'s brief, not for players): a potential slave rebellion they cannot allow other houses to discover.
 * Goela: a delivery of Goelite robes from [[House Mabon | Mabon]] arrived three short; [[:seer-demeletas | Demeletas]] fears Anathemist impersonators and Mabon infiltration.
+* Bracelet binding completed unobtrusively at the gate: manifest names, putting on the silver band, and incidental contact with Meness gold at the threshold. The party did not recognise this as a ritual. See [[Sindrel | Sindrel]] (GM — Stay Ledger).
 <!-- GM_INFO_END -->

@@ -21,6 +21,55 @@ This repo mirrors the Obsidian Portal wiki for **The Lords of Sindrel** campaign
 - Do not blend GM secrets into player-safe recaps, handouts, or "what the party knows" unless asked.
 - If unclear whether output is GM-facing or player-facing, ask.
 
+## Character affiliations and index tags
+
+**Purpose:** stop agents from “helpfully” tagging characters with factions the **party has not learned in play**, which would spoil the Obsidian Portal character index. This is a guardrail when **adding or changing** tags — not a reason to strip lore the user or GM has already established.
+
+- **Player-visible index** (`op_gm_only: false`): `tags` should reflect affiliations the **party currently knows** from play — uniform, introduction, seating, etc. — not secrets inferred from GM wiki prose or `GM_INFO` blocks.
+- **Do not add** undercover or unrevealed tags unless the user explicitly asks (e.g. do **not** tag [[:barnabus | Barnabus]] as Anathemist, merchant spies as their true faction, Embren as Oestra, or Fulcrum staff house ties before shown in session — even if the character page body or GM notes state the truth).
+- **Preserve** existing deliberate choices: GM blocks, session bios, and tags the user has set (e.g. [[:cedric | Cedric]] as [[House Meness | Meness]] [[Adjutant | Adjutant]], Tryke/Stegg, City Cats). Do not remove them to “enforce” player knowledge.
+- **GM-only pages** (`op_gm_only: true`) may carry full tags for GM index use; still avoid adding spoilery tags to player-visible pages by mistake.
+- Unrevealed index affiliations belong in `<!-- GM_INFO_START -->` until revealed in play (e.g. Fulcrum staff → Lithra/Beltus/Grimbolg).
+- **OP_DESCRIPTION** / **OP_BIO** on player pages: only what the party has learned; GM truth stays in GM blocks or GM-only pages.
+- **Deceased** and **Undead** are state tags for tile styling, not separate index sections (see OP custom CSS below).
+- **City Cats** and **Black Cats** when membership is established in play (or on GM-only pages).
+
+### Obsidian Portal — character index CSS (Custom CSS field)
+
+Index tile borders for state tags (add alongside existing theme). Adjust selectors if Inspect shows different OP classes:
+
+```css
+.content-list-item.tag-deceased,
+.character-index .content-list-item.tag-deceased {
+  border: 3px solid #6d6862;
+  opacity: 0.88;
+}
+
+.content-list-item.tag-undead,
+.character-index .content-list-item.tag-undead {
+  border: 3px solid #4b0c0f;
+  box-shadow: inset 0 0 0 1px #3b0709;
+}
+
+.content-list-item.tag-deceased.tag-undead,
+.character-index .content-list-item.tag-deceased.tag-undead {
+  border: 3px solid #4b0c0f;
+  box-shadow: inset 0 0 0 1px #6d6862;
+}
+```
+
+City Cats layout block (after Black Cats; no separate Undead section):
+
+```html
+<div class="secondary-heading">CITY CATS</div>
+<div class="content-list" data-filter=".tag-city-cats">
+  <ul class="large-block-grid-3 small-block-grid-1"></ul>
+  <hr>
+</div>
+```
+
+Extend the **OTHERS** `:not()` chain with `:not(.tag-city-cats)` only (not `.tag-undead` — undead characters stay in their normal buckets).
+
 ## Modes of response
 
 - **Lookup**: answer from canon; quote or paraphrase with citations.
@@ -35,6 +84,15 @@ When creating a new `.textile` page locally, **do not** set portal-assigned fron
 - Omit `op_id`, `op_url`, `op_created_at`, and `op_updated_at` — the lore bridge assigns these on first publish and subsequent sync.
 - Do include `op_slug`, `op_kind`, `op_type` (where applicable), `name`, `title`, `op_gm_only`, and `tags`.
 - Filename should match `op_slug` (e.g. `lore/wiki/wiki/shrine-of-the-queen-of-ravens.textile`).
+
+## Sync, pull, and merge
+
+When resolving git pull, stash apply, merge, or post-bridge sync conflicts on existing `.textile` pages:
+
+- **`op_updated_at`** — OP's last-modified timestamp. Always keep the **higher** (more recent) value between local and incoming/HEAD. Local prose edits do **not** bump this unless the page was also saved on Obsidian Portal.
+- After any merge or stash pop, scan touched files: if staged/working `op_updated_at` is lower than HEAD or the incoming branch, restore the higher timestamp before commit.
+- **`op_id`**, **`op_url`**, **`op_created_at`** — portal-assigned; prefer incoming values from OP sync over local placeholders or stale copies.
+- Do not strip or downgrade `op_updated_at` when merging local lore changes into a newer OP-pulled version.
 
 ## Worldbuilding partner
 
@@ -60,4 +118,6 @@ When preparing a push, or after accumulating a significant batch of lore edits, 
   - Do **not** link generic location terms to adventure logs (e.g. "the catacombs" ≠ Session 7; use plain text or `[[Osteomantic Archives | the catacombs]]`).
 - **Character links** — `[[:slug | Name]]` must match a character `op_slug`. `:slug` references to Obsidian Portal inventory/items that are not mirrored locally will not resolve in-repo; note these rather than inventing slugs.
 - **Missing links** — on pages you touch, link the first mention per paragraph of proper nouns that already have wiki or character pages. Prefer longest match first (`House Oestra` before `Oestra`). Skip self-links (a page must not link to itself — use plain text for the page title, aliases like *Leageur* on `house-oestra.textile`, or section headings). Also skip frontmatter and rank words used generically (`Factor`, `Adjutant`) unless referring to the rank wiki page.
+- **Character tags and index** — do not add spoilery faction/house tags from GM lore; preserve user-established tags and GM blocks; player-visible tags = party-known affiliations only.
 - **New pages** — omit portal-assigned frontmatter (`op_id`, `op_url`, `op_created_at`, `op_updated_at`); include `op_slug`, kind/type, `name`, `title`, `op_gm_only`, and `tags`.
+- **`op_updated_at` on merge** — after pull/stash/merge, ensure no touched file regressed to a lower timestamp; keep max(local, incoming).

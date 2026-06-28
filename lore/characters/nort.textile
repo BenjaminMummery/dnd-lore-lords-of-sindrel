@@ -11,10 +11,21 @@ op_updated_at: '2026-06-25T19:52:14Z'
 op_gm_only: false
 is_player_character: false
 tags:
+- House Lithra
+- Adjutant
 - she/her
 ---
 
 <!-- OP_DESCRIPTION -->
-
+Fulcrum service staff.
 
 <!-- OP_BIO -->
+Works in the staff quarters and service routes of [[The Fulcrum | The Fulcrum]].
+
+*31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- Questioning by [[The Adventurers | the Wonch]] after the attempted bombing. Recalled a lost-looking [[:arouraios | coachman]] with a neatly trimmed beard and small, fussy glasses, bringing a carriage down near the entrance service tunnels on the night of the closing ceremony. Could not name him or his dignitary; described the carriage coat of arms as something with a bird on it.
+
+<!-- GM_INFO_START -->
+
+<!-- GM_INFO_END -->

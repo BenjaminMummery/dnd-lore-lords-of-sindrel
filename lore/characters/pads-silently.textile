@@ -12,9 +12,11 @@ op_gm_only: false
 is_player_character: false
 tags:
 - Cat
+- City Cats
 ---
 
 <!-- OP_DESCRIPTION -->
-
+A [[Sindrel | Sindrel]] street cat.
 
 <!-- OP_BIO -->
+Part of the informal network known to [[:amanira | Amanira]] as the City Cats. [[:hunts-by-night | Hunts-By-Night]] sought them out at [[Radwasp House | Radwasp House]] when the party failed to heed a warning about [[:tama | the giant stoat]].

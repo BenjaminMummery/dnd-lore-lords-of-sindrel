@@ -11,12 +11,19 @@ op_updated_at: '2026-06-03T17:23:56Z'
 op_gm_only: false
 is_player_character: true
 tags:
-- Deceased
+- Undead
 - in-party
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7516425/farp_small_wall_texture_product_750x1000.jpg
 ---
 
 <!-- OP_DESCRIPTION -->
-
+A miniature undead black dragon adopted in the [[Osteomantic Archives | catacombs]].
 
 <!-- OP_BIO -->
+*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- Adopted in the Hall of Dragons beneath the [[Osteomantic Archives | Osteomantic Archives]], nesting inside the remains of [[:kithrak-the-black | Kithrak the Black]].
+
+*31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- With [[The Adventurers | the Wonch]] at [[The Fulcrum | The Fulcrum]] and [[:nort | Nort]]'s interview; paid [[:nort | Nort]] shiny things for her trouble.

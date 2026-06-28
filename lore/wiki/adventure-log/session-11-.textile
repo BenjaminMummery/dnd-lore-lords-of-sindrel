@@ -10,6 +10,7 @@ op_created_at: '2026-06-01T17:09:20Z'
 op_updated_at: '2026-06-27T22:01:21Z'
 op_gm_only: true
 tags: []
+post_tagline: Mundane Malice...
 post_time: '2026-06-01T17:00:00Z'
 ---
 
@@ -94,6 +95,8 @@ The party left [[:alandria | Alandria]] behind them, her attendants packing away
 
 h3. [[The Fulcrum | The Fulcrum]]
 
+_Mid-morning of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
 bq). [[The Fulcrum | The Fulcrum]] stands at the center of [[Sindrel | Sindrel]] in the way that a needle stands at the center of a lepidopterist's prize butterfly. Its existence is an obvious necessity - a council made up of all seven jealous and powerful houses must have a space from which to rule. By the same token, those matters of city life that must be administered need a place for the paperwork to get filed. And, most pressingly for the populace at large, when the city needs to put on a celebration or show of unity, there must be a suitable gathering place.
 <br>
 The _form_ that the structure takes, however, is anything but a utilitarian necessity. Despite being only a few dozen feet wide, it rises for from its octagonal base for over a mile into the sky, piercing through the strata of Sindrel's ever more rarified classes, and ultimately through several distinct weather systems. Clouds arrive halfway up, take one look at the upper stories, and apparently decide they live there now. On every side it is enclosed by the latticework of bridges and walkways that link the myriad spires of Sindrel, yet not a single one dares touch the pristine white marble of its skin.
@@ -136,6 +139,8 @@ While the others examined the bomb fragments, [[:amanira | Amanira]], [[:silrie-
 
 h3. Wilrin Attempts Forensics
 
+_Mid-morning of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
 [[:wilrin-racenglade | Wilrin]], not content merely to identify gunpowder, attempted to separate the remaining traces with Mage Hand. The idea was ingenious. The execution was unfortunate. The magic took hold of the scattered residue, sifted it, separated it, and - through a spectacular inversion of intent - left the useful powder on the floor while moving the useless remnants aside. Then wild magic surged. A burst of draconic breath blasted downward.
 
 There was not enough gunpowder left to cause a true disaster, but there was enough to produce fire, noise, pain, and a very sudden loss of patience from [[:corporal-brokkr-stegg | Corporal Stegg]]. Nearby companions were scorched. [[:corporal-brokkr-stegg | Stegg]], whose evidence had just been partially destroyed in front of him, ordered the party to leave.
@@ -143,6 +148,8 @@ There was not enough gunpowder left to cause a true disaster, but there was enou
 [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] decided otherwise. Stepping into the light so that her shadow loomed vast against the tunnel wall, she reminded the corporal that his superiors had instructed him to assist the Hexine investigators. The reminder was delivered less as an argument than as an omen. [[:corporal-brokkr-stegg | Stegg]], pale and cowed, provided the party with what they needed: the layout of the tunnels.
 
 h3. The Servants' Door
+
+_Late morning of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 The gunpowder had not been brought in through the main cart route. Traces led instead to a concealed side door used by servants, cooks, cleaners, and other staff attached to the [[The Fulcrum | Fulcrum]]. The saboteurs had come not as invaders, but as workers. The next trail led to the servants' quarters.
 
@@ -158,6 +165,8 @@ On the night of the closing ceremony, shifts had been extended and overlapped. S
 
 h3. [[:nort | Nort]]'s Tea
 
+_Late morning of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
 [[:nort | Nort]] woke to the sight of a tiny skeletal dragon staring into her face. This was not, by any reasonable standard, a gentle awakening. Nor was it helped by the fact that [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] had treated the door to [[:nort | Nort's]] room as a philosophical challenge and demonstrated, once again, that any door may be pushed if one is committed enough to the premise. To her credit, [[:nort | Nort]] did not immediately faint. She did, however, require tea.
 
 [[:amanira | Amanira]] made it. Thanks to the tea extorted from [[:alandria | Caller Alandria]], it was exceptionally good tea. This did much to turn a home invasion into an interview. There are very few social disasters that cannot be improved by tea, although most polite societies recommend providing the tea before the skeletal dragon. Once awake enough to speak, [[:nort | Nort]] recalled something strange from the night of the ceremony: a [[:arouraios | coachman]], apparently lost, bringing a carriage down near the entrance service tunnels. He was not dressed as one of the House staff. He belonged to some visiting dignitary. The carriage bore an unfamiliar coat of arms, something with a bird on it.
@@ -165,6 +174,8 @@ h3. [[:nort | Nort]]'s Tea
 The [[:arouraios | coachman]] had a neatly trimmed beard and small, fussy glasses. "Poncy" in [[:nort | Nort's]] words. She could not name him, nor the dignitary he served, but the shape of the lead was clear. Someone purporting to be from outside [[Sindrel | Sindrel]]'s normal House machinery had moved through the servants' routes at the right time, in the right confusion, with access enough to carry death beneath the [[The Fulcrum | Fulcrum]]. [[:kithrak-ii | Kithrak II]] gave [[:nort | Nort]] a small payment of shiny things for her trouble. It may have been the most interesting morning she had ever had, which is not necessarily a recommendation.
 
 h3. The [[House Grimbolg | Cornucopia]]
+
+_Late morning through midday of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 From the servants' quarters, the trail bent towards [[Granary Ward | Granary Ward]], and the headquarters of [[House Grimbolg | House Grimbolg]].
 
