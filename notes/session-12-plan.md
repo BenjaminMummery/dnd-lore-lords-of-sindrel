@@ -14,6 +14,7 @@ Repo-only. **Not synced to Obsidian Portal.**
 | 1 | **Silas Oestra** | First heard the word **Kosmios** — macro secret beyond "house spies" |
 | 2 | **Religious hostility** | Silrie's thread advances; **Alruna** returns; party may intervene |
 | 3 | **Investigation** | Progress on Fulcrum servant layer *or* Black Cats — clear next rung either way |
+| 4 | **Pin's sword** (optional) | Meness/archive connection surfaces — repowering path seeded |
 
 **Cold NPC priority this session:** Silas (never on-screen), Alruna (Session 6), Nans / Chuggaz (listed Session 11 only).
 
@@ -240,6 +241,34 @@ If party interviews **Nans then Chuggaz**, they can reasonably conclude:
 
 ---
 
+## 4. Pin's sword — Meness archive piece (optional thread)
+
+### Canon (`pin.textile`, `osteomantic-archives.textile`)
+
+- Pin's longsword = **misplaced Meness adjutant sidearm** (~1,000 years), catalogued for *Hall of the First Watch* in the [[Osteomantic Archives | Osteomantic Archives]].
+- Was **abjuratively enchanted**; **depowered** after centuries away from [[Sindrel | Sindrel]]'s magical density. Can be **repowered** with Meness/archive knowledge + work in-city.
+- **Unrelated:** Session 4 magical-shop hunt was for the [[The Fallowhurst Sigil | Fallowhurst sigil]], not blade markings.
+- Archive **caretakers** may try to return it (politely); know the shelf blessing for repowering.
+
+### Session 12 beats (pick one)
+
+| Beat | Trigger | Payoff |
+|------|---------|--------|
+| **Hielaman glance** | Pin at Silas summons or Ditchquer follow-up | Hielaman recognises guard knotwork — "That pattern is Panopticon issue, not mercenary." Offers registration *or* silence if Pin attends qualifiers. |
+| **Alruna / mob (Option B)** | Religious incident at Wallarch archive | Caretaker in background asks Pin for **chit 1-W/0412**; Alruna dismisses it as "old archive nonsense" — or confirms the sword feels wrong in a consecrated hall. |
+| **Kelferria quote** | If plate quote arrives | She notices Pin's metalwork is **Sindrel-grade** but asleep — won't repower without inscription; points to Meness records or archive. |
+
+### Repowering (long arc — not Session 12 payoff)
+
+1. Learn inscription source (Panopticon, Alicia's displayed arms, caretaker rubbing).
+2. Return favour to Archives *or* Meness (witness statement, recovered display piece, legal registration).
+3. Ritual in Sindrel — shelf blessing + smith channel — blade wakes with one clear combat benefit (see `pin.textile` GM).
+
+**Do not reveal:** founder immortality, full Alicia adaptation, or that Pin "stole" it unless he did in backstory.
+
+---
+
+
 ## Suggested session flow (one day)
 
 | Block | Content |
@@ -262,6 +291,30 @@ If party interviews **Nans then Chuggaz**, they can reasonably conclude:
 - [ ] Religious incident: Temple (A) or Archives (B)?
 - [ ] Do Bears return to city yet, or stay "not seen since bombing" per Black Cats?
 - [ ] Session title / tagline draft: *TBD*
+- [ ] Pin sword beat this session? (Hielaman / Alruna+caretaker / defer)
+
+---
+
+## Character-specific ongoing threads
+
+### Ros
+
+* Weapon from Galoras. Acquired a spearhead, has nt yet spoken to galoras,
+* [[:pipes-of-faunal-calling|Pan flutes]] - a way to summon Stoat?
+
+  
+### Amanira
+### Pin
+
+* Hieleman / Ditchquer
+* Sword (when they go back to the archives)
+
+### Deathwalker
+
+
+### Silrie
+### Wilrin
+### Ayr
 
 ---
 

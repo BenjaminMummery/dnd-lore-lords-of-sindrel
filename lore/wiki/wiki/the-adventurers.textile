@@ -32,7 +32,7 @@ Below is an at-a-glance overview of which open plot thread will relate to which 
 |_. Open Thread |_. Character |
 | The diminishing practice of religion within [[Sindrel | Sindrel]] | [[:silrie-aegiskiir | Silrie]] |
 | Sindrel's resources stretched by an influx of refugees | [[:wilrin-racenglade | Wilrin]] |
-| The [[Quarantine Zone | quarantine zone]] / fall of [[The Eighth House | the eighth house]] | [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] |
+| The [[Quarantine Zone | quarantine zone]] | [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and [[:pin | Pin]] |
 | Recent arrivals in Sindrel as a potential vector for Anathemist infiltration | [[:ayr | Ayr]] |
 
 h3. Timeline

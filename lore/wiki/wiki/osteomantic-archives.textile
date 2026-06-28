@@ -102,8 +102,17 @@ Possible caretaker behaviours:
 * misidentifying a living visitor as an overdue exhibit;
 * wheeling in a corpse from a conflict that happened decades after [[The Eighth House | House Samhain]]'s fall;
 * becoming distressed because the [[World History | Seven Day War]] display lacks "sufficient eyewitness material";
-* attempting to return Ayr's buckler, Pin's sword, or Deathwalker's head to "the relevant collection";
+* attempting to return [[:ayr | Ayr]]'s buckler, [[:pin | Pin]]'s sword, or [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s head to "the relevant collection";
 * referring to the [[The Fall of the Eighth House | Fall of the Eighth House]] as a temporary interruption in staffing.
+
+h4. [[:pin | Pin]]'s sword — *Hall of the First Watch*
+
+[[:pin | Pin]] carries a Meness adjutant sidearm catalogued roughly **a thousand years ago** for the *Hall of the First Watch* — founding-era officers and garrison dead whose witness testimony the Archives once preserved alongside their arms. The blade's accession chit was never closed; caretakers treat it as **overdue**.
+
+* **Recognition:** Meness knotwork on the guard (worn); catalogue notch on the pommel (easy to miss). A caretaker asks for **return chit 1-W/0412** or the name of the lending officer.
+* **Behaviour:** Prefer negotiation — "This item belongs on display 1-W, bay 7." May follow Pin at a distance until he enters an archive branch, then insist. Will not grab it in a Meness precinct without causing a scene.
+* **Not the Fallowhurst sigil:** If the party mentions sigils, caretakers distinguish **binding circles** (college sorcery) from **witness-weapon inscriptions** (Meness abjuration). Pin's shop hunt in Session 4 was about [[The Fallowhurst Sigil | Fallowhurst]], not this blade.
+* **Repowering hook:** Caretakers know the **original shelf blessing** required to wake the enchantment; they will not teach it until the sword is back on the rack — unless bargained (catalogue favour, new witness for First Watch, etc.).
 
 h3. Catacomb Exploration
 
@@ -159,6 +168,13 @@ h5. The Battle of Brassmeade Bridge
 bq). The uneven floor is rent by a semicircular chasm that arcs outwards from the wall. On the other side you can see the exit - a doorway identical to the one through which you entered, surrounded by thronged skeletons (in Tellerite armour). Spanning the chasm is a narrow bridge, apparently made of brass, atop which stands the skeleton of a giant. A club the size of a carthorse is clasped in the colossus's hand, and it is posed with its back to you as if denying the crowded skeleton passage across the bridge.
 
 There is room to cross between the giant's legs. Using the bridge destabilises the skeleton and causes the club to fall — require a saving throw.
+
+h4. The Hall of the First Watch
+
+Commemorates the founding of [[House Meness | House Meness]].
+This is where the caretakes will attempt to take Pin's sword if given the chance.
+
+Description TODO.
 
 h4. The Founding of [[The Magedom of Houd | the Magedom of Houd]]
 
