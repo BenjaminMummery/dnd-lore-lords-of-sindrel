@@ -6,8 +6,8 @@ Repo-only copies of **Custom CSS** and **Custom Character Layout** for [The Lord
 
 | File | OP destination | Notes |
 |------|----------------|-------|
-| `custom-css-cos-theme-safe.css` | Campaign Settings → Advanced → **Custom CSS** | Sanitizer-safe CoS theme (`.campaign-public-layout` scoped). **Use this on OP.** |
-| `custom-css-cos-grey-palette.css` | Same | Alternate safe draft with grey read-aloud blockquotes and index name sizing (`20px` on list items). Compare before replacing live CSS. |
+| `custom-css-cos-grey-palette.css` | Campaign Settings → Advanced → **Custom CSS** | **Current live theme** — grey read-aloud blockquotes, index name sizing (`20px` on list items), table header fix. |
+| `custom-css-cos-theme-safe.css` | Same | Alternate CoS theme (`.campaign-public-layout` scoped, parchment tables). Compare before replacing live CSS. |
 | `custom-css-index-tile-borders.css` | Append to Custom CSS | Deceased / Undead tile borders (state tags, not separate index sections). |
 | `character-index-layout.html` | Campaign Settings → Characters → **Custom Layout** | Tag-driven index sections (party, houses, Black Cats, City Cats, etc.). |
 

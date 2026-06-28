@@ -139,7 +139,14 @@ table {
   background-color: #d8d8d2;
 }
 
-th {
+td, th {
+  padding: 9px 11px;
+  border: 1px solid #6d6862;
+}
+
+/* Table headers - beat strong/b/link overrides and td-only header rows */
+table th,
+table tr:first-child td {
   background-color: #3a3433;
   color: #ece8df;
   font-family: "Cinzel", "IM Fell English SC", Georgia, serif;
@@ -148,9 +155,22 @@ th {
   letter-spacing: 1px;
 }
 
-td, th {
-  padding: 9px 11px;
-  border: 1px solid #6d6862;
+table th strong,
+table th b,
+table tr:first-child td strong,
+table tr:first-child td b {
+  color: #ece8df;
+}
+
+table th a,
+table tr:first-child td a {
+  color: #ece8df;
+  text-decoration: underline;
+}
+
+table th a:hover,
+table tr:first-child td a:hover {
+  color: #deded8;
 }
 
 tr:nth-child(even) td {
@@ -195,8 +215,16 @@ tr:nth-child(odd) td {
   margin: 14px 0;
 }
 
-.stat-block th {
+.stat-block table th,
+.stat-block table tr:first-child td {
   background-color: #3a3433;
+  color: #ece8df;
+}
+
+.stat-block table th strong,
+.stat-block table th b,
+.stat-block table tr:first-child td strong,
+.stat-block table tr:first-child td b {
   color: #ece8df;
 }
 
@@ -310,28 +338,36 @@ input:focus, textarea:focus, select:focus {
 }
 
 /* Sidebar table of contents */
-.sidebar-table-of-contents,
-.sidebar-table-of-contents .toc-title,
-.sidebar-table-of-contents ul,
-.sidebar-table-of-contents li {
-  color: #ece8df;
-  font-family: "Cinzel", "IM Fell English SC", Georgia, serif;
+.sidebar-table-of-contents {
+  background-color: #ece8df;
+  padding: 12px 14px;
+  margin: 10px 0;
+  border: 1px solid #6d6862;
 }
 
 .sidebar-table-of-contents .toc-title {
+  color: #3b0709;
+  font-family: "Cinzel", "IM Fell English SC", Georgia, serif;
   font-weight: bold;
   letter-spacing: 1px;
   text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+.sidebar-table-of-contents ul,
+.sidebar-table-of-contents li {
+  color: #211b18;
 }
 
 .sidebar-table-of-contents a {
-  color: #ece8df;
+  color: #4b0c0f;
+  font-weight: bold;
   text-decoration: none;
   border-bottom: 0;
 }
 
 .sidebar-table-of-contents a:hover {
-  color: #deded8;
+  color: #721217;
   text-decoration: none;
   border-bottom: 0;
 }

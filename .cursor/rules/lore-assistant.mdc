@@ -110,6 +110,22 @@ City Cats layout block (after Black Cats; no separate Undead section):
 
 Extend the **OTHERS** `:not()` chain with `:not(.tag-city-cats)` only (not `.tag-undead` — undead characters stay in their normal buckets).
 
+### Obsidian Portal — Custom JavaScript (future tweaks)
+
+**Ascendant-only** — Campaign Settings → Advanced → **Custom JavaScript** (Members Only / Public). Not synced via the lore bridge; local reference only.
+
+Use for **client-side presentation and interaction** on top of published content — not lore sync, GM secrets, or economy tracking (those stay in Textile + repo/bridge).
+
+Reasonable future options ([Custom JavaScript Basics](https://help.obsidianportal.com/article/190-custom-javascript-basics)):
+
+- Default accordion behaviour on adventure logs (e.g. open first section via `opJsInitializedEvent`).
+- GM QoL: floating edit link, page-type helpers.
+- Light DOM enhancements for tables, TOC, or images.
+
+Constraints: visitors may **Deny** custom JS (CSS withheld until Allow); no server-side writes; prefer Custom Navigation / Custom Layout for static HTML injection; hook insertables after `opJsInitializedEvent`. Escape hatch: `[campaign-slug].obsidianportal.com/reset-custom-js`.
+
+Local CSS backups: `notes/obsidian-portal/` (grey palette = current live theme).
+
 ## Modes of response
 
 - **Lookup**: answer from canon; quote or paraphrase with citations.
@@ -140,6 +156,15 @@ When resolving git pull, stash apply, merge, or post-bridge sync conflicts on ex
 - Flag contradictions with existing pages (names, timelines, factions).
 - Do not silently retcon; propose additions or fixes instead.
 - When editing or adding text, match the style of existing prose and insert Pratchett-esque humour where appropriate.
+
+### Prioritising suggestions (plots, hooks, session ideas)
+
+When proposing ideas — encounters, downtime, investigation leads, house visits, etc. — **prioritise threads that tie into party backstories and existing NPCs / open story threads** over brand-new factions or one-off set dressing.
+
+- Prefer reusing **canon NPCs** and **The Adventurers** storyline mapping over inventing strangers.
+- **Prioritise the coldest threads** — NPCs and plot hooks that have gone longest without appearing in play or adventure logs. The GM wants to avoid long gaps between NPC appearances.
+- Before suggesting someone new, check who is already owed a callback (faction clocks, `the-adventurers.textile` mapping, `the-investigation.textile`, character GM blocks, `notes/todo.md`).
+- New NPCs are fine when the story demands it; say why existing cast could not carry the beat.
 
 ## Campaign context
 
