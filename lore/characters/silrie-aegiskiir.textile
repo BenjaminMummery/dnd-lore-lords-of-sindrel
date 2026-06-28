@@ -16,6 +16,6 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7442634/1000025365.jpg
 ---
 
 <!-- OP_DESCRIPTION -->
-
+An androgynous elf-blooded figure with long white hair bound in pale wrappings. An ornate ritual mask covers their face. Deep purple and navy robes, white bindings at the arms — the dress of someone who treats movement as a grammar.
 
 <!-- OP_BIO -->

@@ -44,4 +44,7 @@ The Shadow's Vestment is therefore more than a cloak of disguise. It is the symb
 h4. Depictions
 
 In paintings and statues of the founders, Thrawne is an indistinct figure in a grey robe. These depictions once had features, but some strange twist of chance has erased them. Paintings are stained, statues have eroded. Even in the civic heart of [[Sindrel | Sindrel]] where such depictions are actively maintained, Thrawne's features little more than a rough sketch, as if generations of artisans have been unable to decide what they should look like.
+
+h4. Appearance
+Anything. Anyone, anywhere could be Thrawn. How they appear to the players is 100% situational.
 <!-- GM_INFO_END -->

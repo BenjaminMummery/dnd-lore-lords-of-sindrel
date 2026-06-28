@@ -17,7 +17,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7437630/1000025155.jpg
 ---
 
 <!-- OP_DESCRIPTION -->
-
+You see a tall, pale woman with straight black hair and an unsettling poise, dressed in black with crimson lining at the collar and cuffs. A dark gem catches the light at her hand. She looks as though she has not hurried in a very long time.
 
 <!-- OP_BIO -->
 

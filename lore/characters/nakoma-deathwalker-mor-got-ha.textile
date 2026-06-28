@@ -17,7 +17,6 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457474/572fdc897647939e
 
 <!-- OP_DESCRIPTION -->
 
-
 <!-- OP_BIO -->
 
 

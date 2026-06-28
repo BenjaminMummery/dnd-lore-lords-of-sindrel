@@ -16,10 +16,10 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457458/WhatsApp_Image_2
 ---
 
 <!-- OP_DESCRIPTION -->
-https://www.dndbeyond.com/characters/156087500
+A stocky gnome with weathered brown skin, a curling white mustache, and sage-green hair worn upward. One eye is natural brown; the other a glowing green orb set in the socket. Silver plate with a golden diamond badge on the breast — armour polished as if piety could be made visible.
 
 <!-- OP_BIO -->
-
+https://www.dndbeyond.com/characters/156087500
 
 <!-- GM_INFO_START -->
 2. What do they most regret leaving behind?

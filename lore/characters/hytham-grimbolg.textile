@@ -45,4 +45,8 @@ Hytham grew up on the streets of [[Soulwind | soulwind]], using transmutation to
 h4. Depictions
 
 In paintings and statues of the founders, Hytham is shown as a slim male half-orc wearing the simple, sturdy duty clothes of a craftsman or smith and a heavy leather apron. He wears the shaper's hands, stone gloves of surprising delicacy inscribed with arcane symbols. He is usually posed in the act of conjuring forth a twisting organic form between his hands.
+
+h4. Present day
+TODO: is hytham still slim given his corruption?
+
 <!-- GM_INFO_END -->

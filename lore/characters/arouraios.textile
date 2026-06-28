@@ -14,7 +14,8 @@ tags: []
 ---
 
 <!-- OP_DESCRIPTION -->
-
+You see a man in coachman's livery with a neatly trimmed beard and small, fussy glasses.
+TODO: flesh out
 
 <!-- OP_BIO -->
 On the night of the [[Ditchquer | Ditchquer]] closing ceremony attack, he was observed emerging from the tunnels below [[The Fulcrum | The Fulcrum]] and getting into a coach that had been parked next to the exit.

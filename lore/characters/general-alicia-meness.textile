@@ -18,7 +18,9 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457686/meness.jpg
 ---
 
 <!-- OP_DESCRIPTION -->
+General Meness is a compact dwarven woman with steel-grey hair. She wears the crisp, white uniform of the Sindrellian Guard, entirely without ornamentation save that in the place of the normal rank bars at the shoulders she bears the crest of her house. The implication is clear - symbolically, the general _is_ House Meness.
 
+She wears no armour, but keen eyes catch the spider thead tracery of magical shimmer across her skin. She is the head of the house of protection magic, and clearly has more faith in her art than in steel and chain.
 
 <!-- OP_BIO -->
 
@@ -38,4 +40,8 @@ Her shield has not failed. It has succeeded too completely.
 h4. Depictions
 
 In paintings and statues of the founders, Alicia Meness is shown as a female dwarf in heavy plate armour. She carries a tower shield almost taller than she is, and sword with swordbreaker teeth. Her hair is steel grey and pulled back into a sensible ponytail. She is stoic and solid.
+
+h4. Current Day
+
+She keeps the shield and sword of her adventuring days displayed on the wall behind her office desk.
 <!-- GM_INFO_END -->

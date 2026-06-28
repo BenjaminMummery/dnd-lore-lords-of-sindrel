@@ -17,7 +17,7 @@ tags:
 ---
 
 <!-- OP_DESCRIPTION -->
-
+You see a woman who might be human or tiefling — dark hair, small horns easy to miss, an ornate star-amulet at her throat. Her face is calm, but sharp eyes peer into everything around her as if mentally dissecting its operation.
 
 <!-- OP_BIO -->
 

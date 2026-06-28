@@ -17,7 +17,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7516441/elfsjecs.jpg
 ---
 
 <!-- OP_DESCRIPTION -->
-
+The colossal skull of a beholder, reanimated by the unchained necromancy of the quarantine zone.
 
 <!-- OP_BIO -->
 An undead Beholder stored in the [[Osteomantic Archives | Osteomantic Archives]].

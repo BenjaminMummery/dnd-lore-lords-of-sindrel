@@ -16,6 +16,9 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2
 ---
 
 <!-- OP_DESCRIPTION -->
+
+A gnome with pointed ears and a sculpted burgundy beard, the face oddly maroon-and-cream in asymmetry. Hair the same deep red, long on top and shorn at the sides. An ornate burgundy coat embroidered with spiralling scrollwork.
+
 h3. Key Items
 * [[:anasthetic-scalpel | Anasthetic Scalpel]]
 
