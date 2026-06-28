@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-06-28T00:10:53Z",
+  "last_git_publish": "2026-06-28T00:14:45Z",
   "last_portal_pull": "2026-06-28T00:14:05Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -108,7 +108,7 @@
       "op_kind": "Character",
       "op_slug": "temperance-halke",
       "op_updated_at": "2026-06-28T00:10:21Z",
-      "repo_blob_sha": "573455fc8eb763ed2130556a7f4dacb242807b5a",
+      "repo_blob_sha": "016f772585a50a7d383c704c07732e31000a0559",
       "repo_hash_at_sync": "d9b4f88d0f9600ef583e617242c0e57bfaea39c3cd055fde3708398f7a02f061",
       "repo_path": "lore/characters/temperance-halke.textile"
     },
@@ -138,7 +138,7 @@
       "op_kind": "Character",
       "op_slug": "carlos-winterborn",
       "op_updated_at": "2026-06-28T00:09:56Z",
-      "repo_blob_sha": "48e7a4f636c0ceca66c644603b1beb02a5bb5efe",
+      "repo_blob_sha": "cb24ebb5bc4139c7eedfab544bf1caea9f0b96b2",
       "repo_hash_at_sync": "bc9189ddcbff6b088718eda27a96af7f99a8b02bba51f0fb3410d78c5c3dd245",
       "repo_path": "lore/characters/carlos-winterborn.textile"
     },
@@ -428,7 +428,7 @@
       "op_kind": "Character",
       "op_slug": "seelie-ophelan",
       "op_updated_at": "2026-06-28T00:10:19Z",
-      "repo_blob_sha": "3c64b042c7430faf4c82afc3bb7e84e5172f1bf4",
+      "repo_blob_sha": "c1241a7a8968a6be349df0e24bdf4c0dd31e39a8",
       "repo_hash_at_sync": "8397444af051f2ca2ab42ad71ed25fd258de6f06aa77f735e342414772682052",
       "repo_path": "lore/characters/seelie-ophelan.textile"
     },
@@ -837,9 +837,9 @@
       "op_id": "72799128ec3843bbb489b2f8b72126af",
       "op_kind": "Character",
       "op_slug": "wilrin-racenglade",
-      "op_updated_at": "2026-06-26T21:27:24Z",
-      "repo_blob_sha": "58d9ab955d6753c69d1ebbb93ca3eb42bdd7c168",
-      "repo_hash_at_sync": "201d686b6bc4c74c257be16f93f15c7fb83bdde75d380621be0294f7ed6733d2",
+      "op_updated_at": "2026-06-28T00:14:27Z",
+      "repo_blob_sha": "0d926ff2f47a11a2ddf481cda2e1d6512a6bc572",
+      "repo_hash_at_sync": "a74e3f86b8fc395594277c6aa694be46bc5aa3491a4aac38f924b507696f6d68",
       "repo_path": "lore/characters/wilrin-racenglade.textile"
     },
     "72c6d96ea30544f5b06f749d4aa2b5b2": {
@@ -867,9 +867,9 @@
       "op_id": "7d77af4f53574b049e98cd0a3784f6af",
       "op_kind": "Character",
       "op_slug": "nakoma-deathwalker-mor-got-ha",
-      "op_updated_at": "2026-06-26T21:27:12Z",
-      "repo_blob_sha": "9e19673108d56277414d1e20886b61d9faf831a3",
-      "repo_hash_at_sync": "d0f8f98cbdba4f53c72d853734d1f96d83933d620586a945038888ebaa8f1333",
+      "op_updated_at": "2026-06-28T00:14:21Z",
+      "repo_blob_sha": "fcdf67ebe298a81fdb07dd77f6daa5a824d68e5b",
+      "repo_hash_at_sync": "84f8fc3fa4ee3e000d249e5a9d6dca6da53635459fbb8f6106ff31a18cc5d9b6",
       "repo_path": "lore/characters/nakoma-deathwalker-mor-got-ha.textile"
     },
     "7f011f2f93db42fa949cd26d9d045dad": {
@@ -1067,9 +1067,9 @@
       "op_id": "b0db4ec29f794c878b0d38dc76dd3c6d",
       "op_kind": "Wiki",
       "op_slug": "session-11-",
-      "op_updated_at": "2026-06-28T00:11:14Z",
-      "repo_blob_sha": "d3c80ab824104e30036632822e68ec9a70700aa4",
-      "repo_hash_at_sync": "4b2c09bbf4256f0663076ecbfa2a36ffecc1ff9d00a0f9f2810f313cf031ea61",
+      "op_updated_at": "2026-06-28T00:14:30Z",
+      "repo_blob_sha": "a2b3ad985dc84c6d5c3766088a8f3cb1b8a3a8bb",
+      "repo_hash_at_sync": "800df7ffc0fc867ecb8712fc833e132c85c50682a4c197523dc76a2053cce51d",
       "repo_path": "lore/wiki/adventure-log/session-11-.textile"
     },
     "b3864ba098dd47a68651b0b6e7ab9202": {
