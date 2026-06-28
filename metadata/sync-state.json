@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-06-28T15:41:44Z",
+  "last_git_publish": "2026-06-28T15:55:15Z",
   "last_portal_pull": "2026-06-28T14:02:31Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -937,9 +937,9 @@
       "op_id": "93388607d1634c4da77ab0cd6103fbf7",
       "op_kind": "Wiki",
       "op_slug": "the-adventurers",
-      "op_updated_at": "2026-06-28T15:41:39Z",
-      "repo_blob_sha": "257d9a373a9079511ed76d7aa0860205fcd4a1a5",
-      "repo_hash_at_sync": "c41fbffefd1aad66807b3ad8cf49f5f36d2070fdaae79e6ee863923cdf6b9955",
+      "op_updated_at": "2026-06-28T15:55:10Z",
+      "repo_blob_sha": "fb876ca74ca460967cc85257bc55d3073261e5af",
+      "repo_hash_at_sync": "72062b3f9aae7a69b4c87bce66c19f69e681ae85c6284b3dd2e9cd1fec06041a",
       "repo_path": "lore/wiki/wiki/the-adventurers.textile"
     },
     "9915ce65e3cb41caacd36bafb491a11a": {
@@ -1007,9 +1007,9 @@
       "op_id": "a42fa95fde774607b64cf67722e9f1db",
       "op_kind": "Wiki",
       "op_slug": "session-4-",
-      "op_updated_at": "2026-06-28T00:10:30Z",
-      "repo_blob_sha": "cf542238c232da818f31207358351e8c44ae5b54",
-      "repo_hash_at_sync": "a5d655b90a99115c3d6ddd453bde38b47132be8e66ca43c5b69928ca6682e691",
+      "op_updated_at": "2026-06-28T15:54:58Z",
+      "repo_blob_sha": "4763fdf1c9823bb2c7bb6e78600aa95328468e07",
+      "repo_hash_at_sync": "cbb3cf54d2e91e98399b9adb35b5dd04d5bfb213a52006197a7de2a7b693cc3f",
       "repo_path": "lore/wiki/adventure-log/session-4-.textile"
     },
     "a47b6e3ea9444853a1dd4ee5452f4b72": {
