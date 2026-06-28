@@ -21,10 +21,12 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457474/572fdc897647939e
 <!-- OP_BIO -->
 
 
-<!-- OP_PLAYER_SECRETS_START -->
+<!-- GM_INFO_START -->
+**Player secret (OP Player Secrets UI only — do not put in bio; not API-synced):**
+
 h3. [[The Fallowhurst Sigil | The Fallowhurst Sigil]]
 
 You and [[:wilrin-racenglade | Wilrin Ravenglade]] were branded with matching sigil scars when his blood-magic attempt with the [[The Fallowhurst Sigil | Fallowhurst sigil]] at [[Fallowhurst College | Fallowhurst College]] backfired. The binding still has teeth:
 
 Whenever you take damage, Wilrin rolls a d8. On a 1, you take half damage and he takes the rest.
-<!-- OP_PLAYER_SECRETS_END -->
+<!-- GM_INFO_END -->

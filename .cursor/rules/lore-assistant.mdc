@@ -17,6 +17,7 @@ This repo mirrors the Obsidian Portal wiki for **The Lords of Sindrel** campaign
 ## GM vs player knowledge
 
 - Respect `op_gm_only: true` in frontmatter and `<!-- GM_INFO_START -->` … `<!-- GM_INFO_END -->` blocks.
+- **Player Secrets** (Ascendant OP feature) are **not** in the Obsidian Portal API and **do not sync** via the lore bridge. Never put them in bio/description with `OP_PLAYER_SECRETS` comment markers — they publish as visible body text on OP. Maintain player-secret text in OP's Player Secrets UI; optional GM-only mirror in `GM_INFO` for repo reference.
 - When summarising GM notes, label them as GM-only.
 - Do not blend GM secrets into player-safe recaps, handouts, or "what the party knows" unless asked.
 - If unclear whether output is GM-facing or player-facing, ask.
