@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-06-28T11:03:09Z",
+  "last_git_publish": "2026-06-28T13:02:07Z",
   "last_portal_pull": "2026-06-28T09:50:02Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -167,9 +167,9 @@
       "op_id": "17e89067cf1744788929bebbc0c1da15",
       "op_kind": "Wiki",
       "op_slug": "home-page",
-      "op_updated_at": "2026-06-26T21:27:49Z",
-      "repo_blob_sha": "aaa3d399c860f1671033dc02b625aa1cce193136",
-      "repo_hash_at_sync": "cf803df8be4e008f93304a0f27f109cb267851893675cdce9f1cfa76dbea6522",
+      "op_updated_at": "2026-06-28T13:01:46Z",
+      "repo_blob_sha": "f0c499b8488e51d54fb28636c5f925f5518456b6",
+      "repo_hash_at_sync": "ffcbf4a9d8ef1f0ccd92a8e47d44e3ece09e16505a84f046c42d05b10af5fd2d",
       "repo_path": "lore/wiki/wiki/home-page.textile"
     },
     "17ffd36aadad4daaa25fd3e2f196ad2a": {
@@ -457,9 +457,9 @@
       "op_id": "3dd6af69d11e4345a987028922d1e974",
       "op_kind": "Wiki",
       "op_slug": "sindrel",
-      "op_updated_at": "2026-06-28T00:10:46Z",
-      "repo_blob_sha": "3584c1c1cca86ce07c15ce011cb6ec9e4fe6be09",
-      "repo_hash_at_sync": "78cd33285027a73c62edafa59b5b2aa153903e7a3380b3a7fa09abaffaf4b3a2",
+      "op_updated_at": "2026-06-28T13:01:56Z",
+      "repo_blob_sha": "e96e45e1406b4bec2679bd604e4a4dde56a3df03",
+      "repo_hash_at_sync": "3845fb6c93a285a95012c53118236e385289b3f700f66e266f0ccff47d90f9da",
       "repo_path": "lore/wiki/wiki/sindrel.textile"
     },
     "4101f6ab35084d1e9b100cbb94da82cd": {
@@ -777,9 +777,9 @@
       "op_id": "6f9dfa0ebbf147a791ed50efe8aceb19",
       "op_kind": "Wiki",
       "op_slug": "main-page",
-      "op_updated_at": "2026-06-28T11:02:56Z",
-      "repo_blob_sha": "3913f21e129e4c84294a05421e1efd09a4ea69f4",
-      "repo_hash_at_sync": "c1ba3c1ae30b5cd9ceb84883c24df056b02479b8370a2de5d56ed7fff247a4af",
+      "op_updated_at": "2026-06-28T13:01:52Z",
+      "repo_blob_sha": "03a960933ba156ef33a2d18a21e6ea9340db32b3",
+      "repo_hash_at_sync": "efda223958b6601d5cc5db554adcf7710f8882d0e038100b0c488a3a191ec9f2",
       "repo_path": "lore/wiki/wiki/main-page.textile"
     },
     "6fa7cadf93784d9885bb792317fc8305": {
@@ -787,9 +787,9 @@
       "op_id": "6fa7cadf93784d9885bb792317fc8305",
       "op_kind": "Wiki",
       "op_slug": "the-fulcrum",
-      "op_updated_at": "2026-06-26T21:28:18Z",
-      "repo_blob_sha": "0c08fcb6e1a4691d8e53f24aec2bf3c9d6b7afcd",
-      "repo_hash_at_sync": "9f8263ef1437861c93e4a2193c0f55d435982621b6d4e5a53216e161118d8ba0",
+      "op_updated_at": "2026-06-28T13:02:02Z",
+      "repo_blob_sha": "337bced747e1cfbcf4dfd2bdfff5248d6def1d66",
+      "repo_hash_at_sync": "90c91d84d78439b59d75606fe02621f02224062baec1e184f75f096e1e7c8ec0",
       "repo_path": "lore/wiki/wiki/the-fulcrum.textile"
     },
     "70b26b55a3b44be29682b1dac7bdf739": {
@@ -817,9 +817,9 @@
       "op_id": "7228de2b917f4d6ca2edbd8ef5cc3ea7",
       "op_kind": "Wiki",
       "op_slug": "world-history",
-      "op_updated_at": "2026-06-26T21:28:32Z",
-      "repo_blob_sha": "600b2ac6a6da5ed8a05ee9fd4cdd269377efbe43",
-      "repo_hash_at_sync": "a9a142311a3f7819ea5fd969d7af6196b2396ea39b546b2d04fd487994301044",
+      "op_updated_at": "2026-06-28T13:02:07Z",
+      "repo_blob_sha": "302adfb1fcb3bfd7b79cc38e8d3f7abd99a3b7b9",
+      "repo_hash_at_sync": "8a9dd0cc83bf06ee9569616eec44a06b6c3e573b365312e03970086525dda117",
       "repo_path": "lore/wiki/wiki/world-history.textile"
     },
     "724f9428be9f42ae909cfcc5d45eb58b": {
@@ -937,9 +937,9 @@
       "op_id": "93388607d1634c4da77ab0cd6103fbf7",
       "op_kind": "Wiki",
       "op_slug": "the-adventurers",
-      "op_updated_at": "2026-06-28T00:10:48Z",
-      "repo_blob_sha": "f4cf83e129309aec035c60d38e6c5d510e78393d",
-      "repo_hash_at_sync": "fe3aa14a97c6d34e679d05e8c01026dfe8ca1b6610f7d4966196ba0bec1012ce",
+      "op_updated_at": "2026-06-28T13:01:59Z",
+      "repo_blob_sha": "e1ddf1ed9d729f9c933c68e122a86de7264fc86b",
+      "repo_hash_at_sync": "73004be0336779964029004fdd3a6ab7c3f9e6a1480170855c06c9f04e5232f8",
       "repo_path": "lore/wiki/wiki/the-adventurers.textile"
     },
     "9915ce65e3cb41caacd36bafb491a11a": {
@@ -1247,9 +1247,9 @@
       "op_id": "c2ad5441db234ff29d569bdfc08f9d8d",
       "op_kind": "Wiki",
       "op_slug": "granary-ward",
-      "op_updated_at": "2026-06-26T21:27:48Z",
-      "repo_blob_sha": "23435a9e43acf051c8363592b3a4952f6fec62c8",
-      "repo_hash_at_sync": "6f12a521a23e030cec38f606496b29bcc6f114c1501e76899d2148f947e87781",
+      "op_updated_at": "2026-06-28T13:01:44Z",
+      "repo_blob_sha": "226752d3d13239000acd124f7f6f739ddd6f8dc7",
+      "repo_hash_at_sync": "8f593cc52923623ed6a2a4f9a99b9372db536449d538c76e9b4a1398b3678c59",
       "repo_path": "lore/wiki/wiki/granary-ward.textile"
     },
     "c3ad27e302d94b19aa7ab1e417d7c609": {
@@ -1277,9 +1277,9 @@
       "op_id": "c5e3fd9fc2904d709343a213de3782cd",
       "op_kind": "Wiki",
       "op_slug": "house-grimbolg",
-      "op_updated_at": "2026-06-26T21:27:53Z",
-      "repo_blob_sha": "4c87b19db2c7cfa8eb24e29a16cef863bfbd09a1",
-      "repo_hash_at_sync": "d83c1fda35a39e9df0da62e0ad87d5c2e8fa6ed07979050e7960708373ac47ad",
+      "op_updated_at": "2026-06-28T13:01:49Z",
+      "repo_blob_sha": "d5e6cbef3832daa27b66e69d020c996eac2b74c7",
+      "repo_hash_at_sync": "7a51905d632920caad381229663d488eccea527059d816e13253f9af82b563fa",
       "repo_path": "lore/wiki/wiki/house-grimbolg.textile"
     },
     "c725789526cf4344afa123ca83d9e4b7": {
@@ -1447,9 +1447,9 @@
       "op_id": "e7ad041dba144a5b9b50fa5cc8bb6f8a",
       "op_kind": "Wiki",
       "op_slug": "session-9-downtime-2",
-      "op_updated_at": "2026-06-28T00:10:34Z",
-      "repo_blob_sha": "14c469aa974d280cf8eb0c753d77c80e8122b92a",
-      "repo_hash_at_sync": "b806f0622e4c11ca0644346541d589a90edfbb210f220173b61a0755811b0b76",
+      "op_updated_at": "2026-06-28T13:01:40Z",
+      "repo_blob_sha": "1dd6e6169f0d380c1abc99bad2a06595e04efd66",
+      "repo_hash_at_sync": "5d51054e95742c3f38b830f5f47123863fa2afc53f95b73c773868bbce7926e5",
       "repo_path": "lore/wiki/adventure-log/session-9-downtime-2.textile"
     },
     "eee373837b7b42ae83fffb913d22290c": {
