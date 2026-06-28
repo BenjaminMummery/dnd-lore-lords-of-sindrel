@@ -260,11 +260,13 @@ h3. Answers to "Which other House is the most likely to be involved?"
 <!-- GM_INFO_START -->
 h3. The Spies
 
-* [[:georges-de-selve | Georges de Selve]] - merchant
-* [[:jean-de-dinteville | Jean de Dinteville]] - merchant
-* [[:arouraios | Arouraios]] - servant / cartographer
-* [[:barnabus | Barnabus]] - butler
+* [[:barnabus | Barnabus]] - butler; **cell lead / coordinator**
+* [[:georges-de-selve | Georges de Selve]] - merchant; senior lieutenant (logistics, quartermaster, strike team)
+* [[:jean-de-dinteville | Jean de Dinteville]] - merchant; senior lieutenant (social intel, target selection)
+* [[:arouraios | Arouraios]] - servant / cartographer; reports to Barnabus
 * [[:regnif-d-log | Regnif d'Log]] - patsy
+
+Barnabus runs the embedded half of the cell (retainer cover, Sacrum staging, stay-behind). Georges and Jean execute merchant-cover operations and the Ditchquer climax on his timeline; Jean's timings and Georges's supply runs implement Barnabus's plan rather than a separate agenda.
 
 h3. The Heist
 

@@ -43,9 +43,41 @@ h3. Internal ranks
 
 h3. [[:hielaman | Captain Hielaman]]
 
-Personally straight-lace; unaware of Vault kompromat. His **superiors** in Meness are compromised — he feels institutional pressure not to move directly against Vault leadership, but interprets it as politics, not blackmail. That makes him dangerous to the Cats: an honest investigator with little to leverage if he starts poking past Strands and Counters. Vault should prefer to divert, discredit, or isolate him rather than try to own him.
+Hielaman is a thorn in the side of the Cats. He's straight laced, dogged, and upstanding - annoyingly hard to find blackmail material on. His **superiors** in Meness are compromised — he feels institutional pressure not to move directly against Vault leadership, but interprets it as politics, not blackmail. That makes him dangerous to the Cats: an honest investigator with little to leverage if he starts poking past Strands and Counters. Vault should prefer to divert, discredit, or isolate him rather than try to own him.
 
-Anathemist pipeline (Hielaman's thesis): pay Counters/Gild for stay fraud, servant access, and mundane logistics — not ideology.
+h3. The Black Cats and the Anathemist Investigation
 
-TODO: what the black cats know.
+h4. What the Cats know
+
+A small group with a surprising amount of cash and brutality muscled in on the garbage collection business — they roughed up a small-time drug pusher and took over his cart. The cart theft would ordinarily cause no alarm; the ruffian in question is making a stink, but that is nothing new. Some competition among the street-level riff-raff is healthy, and the Black Cats are adept at persuading new players to pay their dues. More concerning was when the newcomers started splashing around a lot of gold in return for info, mostly any means of accessing House properties. The Cats watched them closely, believing them to be trying to set up a rival crime syndicate.
+
+It was only after the [[The Fulcrum | Fulcrum]] bombing that they correlated the group with the sabotage, at which point the Anathemists promptly vanished, leaving the abandoned cart to be discovered by [[:hielaman | Hielaman]]. This is a genuine threat to their operation — Hielaman is a straight-edged cop and annoyingly determined. If he looks too closely, he may find the trick panels and potentially unravel what the carts are being used for.
+
+The Cats are reasonably sure Hielaman has not yet been sniffing around the cart in detail — it is not obviously linked to anything serious and he has more pressing concerns.
+
+**Gild link — [[:chuggaz | Chuggaz]]:** Vault's man at [[The Fulcrum | the Fulcrum]]. He fences shift rosters and servant-route gossip upward. The Cats do **not** know Chuggaz is tied to the bombing plot; they value him as paid infrastructure. If the Wonch press him hard, Vault will lean on Chuggaz to lie, transfer, or disappear before he talks about Cat business.
+
+h4. The Wonch (current — 31st Enean 4218 SC)
+
+[[The Adventurers | The Wonch]] worry Vault more than Hielaman right now:
+
+* [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] flashed a huge sum at [[:emerich-surefoot | Emerich Surefoot]] (Session 5), then returned with backup and assaulted him during the Wallarch chase (Session 6).
+* The party is now [[The Hexine Circle | Hexine Circle]] investigators with official cover, digging into the Fulcrum bombing and servant routes.
+* On the 31st they questioned [[:nort | Nort]] and have **Nans** and **Chuggaz** on the list — both Fulcrum staff; Chuggaz is a **Gild** asset.
+
+Vault reads this as an unpredictable outside faction muscling into Wallarch **and** the Fulcrum service layer. They do not know the Wonch's goals. They **do** know that heavy Wonch attention on Chuggaz could expose the garbage-cart pipeline and the paid access network the Anathemists used. Preferred response: misdirect, stall, or feed harmless gossip — not open war unless cornered.
+
+h4. Interaction with the party
+
+The Cats will not share much willingly. They want the cart away from Hielaman but will not say why. They will be happy with anything that achieves that: stealing the cart from impound, or getting enough dirt on Hielaman to bring him to heel. Once satisfied, they share what they know (descriptions below — not full truth about Vault kompromat or Chuggaz's Gild role unless bargained hard).
+
+h4. Leads
+
+* The Anathemists abandoned the cart in [[The Wallarch District | Wallarch]], near the break in the [[Quarantine Zone | quarantine wall]]. Traces of sulfur and saltpetre remained — leftovers from the thefts at [[House Beltus | Beltus]] and [[House Grimbolg | Grimbolg]].
+* Descriptions the Black Cats can give:
+    * **"The Bears"** ([[:georges-de-selve | Georges]] and [[:jean-de-dinteville | Jean]]) — two large men who did most of the heavy lifting and physical violence. Tails reported they operated as visiting merchants by day. **Not seen in Wallarch since the Fulcrum bombing** (they left the city). The Cats have **not** connected them to the merchant pair who returned on the 25th Enean coach — the pair have not done any further business in Cats territory so aren't back on the radar yet.
+    * **"The Weasel"** ([[:arouraios | Arouraios]]) — dark hair, little glasses, neat beard. Educated — soft hands and ink stains. Not physically imposing, but annoyingly good at evading tails in back alleys. Seen only once early in the operation, then lost.
+    * **"The Snake"** ([[:barnabus | Barnabus]]) — observed in conversation with the Bears, who **appeared to defer to him**. Grey hair, scarred cheek, aura of a right bastard. Fancy foreign clothes; operates out of a grand house on Ambassador Street ([[:regnif-d-log | d'Log]]'s lodgings). Spotted on rare occasions in the last month; the Cats do not operate much in the fancy parts of town. **Vault suspects he was the coordinator**, not another muscle hire.
+* Tails sent to watch the Bears were reprimanded for being feckless and lazy — they swear their quarry reappeared within Cat territory without crossing watched thoroughfares, or entered the [[Osteomantic Archives | Archive]] but did not emerge, only to be spotted hours or days later elsewhere in the city. In reality, of course, they were unable to follow the Anathemists' movements due to not knowing that the archives are interlinked.
+* The Cats never saw [[:regnif-d-log | d'Log]] nor [[:nielsenn | Nielsenn]].
 <!-- GM_INFO_END -->

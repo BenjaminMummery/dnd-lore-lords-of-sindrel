@@ -14,6 +14,45 @@ This repo mirrors the Obsidian Portal wiki for **The Lords of Sindrel** campaign
 - Follow wiki cross-links (`[[Page | Label]]`, `[[:slug | Name]]`) when tracing connections.
 - Note gaps explicitly: items may exist only on the portal; images/maps are not in-repo.
 
+## Repo layout and what syncs
+
+**Published to Obsidian Portal** (via lore bridge on push to `main`):
+
+- `lore/wiki/wiki/*.textile`
+- `lore/wiki/adventure-log/*.textile`
+- `lore/characters/*.textile`
+- `metadata/sync-state.json` (bridge metadata only)
+
+**Repo-only** (never synced to OP):
+
+- `notes/` — GM todos, shelved checklists, scratch (`notes/todo.md`, `notes/character-descriptions-todo.md`)
+- `.cursor/rules/` — agent conventions
+
+**Bridge sync** (companion repo `obsidianportal-git-sync`):
+
+- Pull OP → GitHub → local: `scripts/lore_pull.sh` (needs `LORE_BRIDGE_URL`, `LORE_BRIDGE_API_KEY` from that repo's `.env`)
+- After pull: watch for stash/merge conflicts and `op_updated_at` regressions (see below)
+
+## Line endings (CRLF) — important
+
+`.textile` files must use **LF** only (see `.gitattributes`: `*.textile text eol=lf`).
+
+**Why it matters:** Obsidian Portal pulls sometimes introduce **CRLF** in the working tree. Git then shows files as modified when content is unchanged, blocks `git pull --ff-only` / `stash pop`, and creates noisy diffs. Pre-commit hooks also enforce LF (`mixed-line-ending`, on all `.textile` files).
+
+**Proactive behaviour:**
+
+- Before commit/push, check `git status` for `.textile` files that differ only by line endings — normalize and commit explicitly (`chore: normalize line endings in …`) if the user cares about a clean tree.
+- After `lore_pull.sh`, stash, or merge: if pull fails with "local changes would be overwritten" but diff looks like whitespace/CRLF, stash or normalize line endings before retrying.
+- Do **not** convert Textile to Markdown; OP renders Textile.
+- HTML comments must use ASCII `<!--` and `-->`. Smart dashes (`<!—`) break comments and render as visible body text on OP.
+
+## Character page descriptions (`OP_DESCRIPTION`)
+
+- **Non-PCs:** read-aloud prose for first meeting — *"You see…"* — **current** appearance, not founder statuary or civic artwork (players may meet lords before immortality is known).
+- **PCs:** portrait-based or player-provided; D&D Beyond links belong in `OP_BIO`, not as the only description.
+- **GM-only lords:** `OP_DESCRIPTION` should work when the page is later made public; avoid Octarion/founder-art framing in the quick-description field.
+- Full checklist (many NPCs still empty/minimal): `notes/character-descriptions-todo.md` (shelved — see `notes/todo.md` for active work).
+
 ## GM vs player knowledge
 
 - Respect `op_gm_only: true` in frontmatter and `<!-- GM_INFO_START -->` … `<!-- GM_INFO_END -->` blocks.
@@ -108,6 +147,15 @@ When resolving git pull, stash apply, merge, or post-bridge sync conflicts on ex
 - Adventure logs live in `lore/wiki/adventure-log/`.
 - Party reference: **The Wonch** (`The Adventurers` wiki page).
 
+## Story so far (main page)
+
+When a **new adventure log** is added or a session recap is substantially updated, refresh the **Story so far** section on `lore/wiki/wiki/main-page.textile`:
+
+- Synthesise published logs into a brief "previously on" blurb (book-jacket tone, not a session list).
+- Player-facing only — no GM-only reveals; match what the party knows from play.
+- End with a teaser or cliffhanger pointing at imminent consequences (next session hook).
+- Update the HTML comment marker (`<!-- Story so far: through Session N ... -->`) so agents know which log is current.
+
 ## Proactive Checks
 
 When preparing a push, or after accumulating a significant batch of lore edits, proactively run checks for the following:
@@ -122,3 +170,7 @@ When preparing a push, or after accumulating a significant batch of lore edits, 
 - **Character tags and index** — do not add spoilery faction/house tags from GM lore; preserve user-established tags and GM blocks; player-visible tags = party-known affiliations only.
 - **New pages** — omit portal-assigned frontmatter (`op_id`, `op_url`, `op_created_at`, `op_updated_at`); include `op_slug`, kind/type, `name`, `title`, `op_gm_only`, and `tags`.
 - **`op_updated_at` on merge** — after pull/stash/merge, ensure no touched file regressed to a lower timestamp; keep max(local, incoming).
+- **Line endings** — scan staged `.textile` for CRLF-only churn; normalize to LF before push if working tree shows phantom edits on OP-pulled files.
+- **Story so far** — if adventure logs changed, check whether `main-page.textile` **Story so far** needs updating (see above).
+- **Player secrets** — never add `OP_PLAYER_SECRETS` markers to bio; they publish visibly. Use OP Player Secrets UI + optional `GM_INFO` mirror in repo.
+- **GM notes** — active todos live in `notes/todo.md` (e.g. OP Custom CSS, NPC statblocks); check when resuming work.

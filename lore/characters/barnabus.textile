@@ -14,7 +14,7 @@ tags: []
 ---
 
 <!-- OP_DESCRIPTION -->
-
+You see a grey-haired man with a scarred cheek, dressed in fancy foreign clothes that mark him as wealthy rather than local. He carries himself like someone accustomed to being obeyed.
 
 <!-- OP_BIO -->
 
@@ -22,7 +22,9 @@ tags: []
 <!-- GM_INFO_START -->
 h3. Role in the Anathemist Plot
 
-Barnabus is part of the Anathemist spy cell embedded in [[:regnif-d-log | Regnif d'Log]]'s household, outwardly serving as d'Log's butler. He is one of the cell's most important access agents because his role lets him move through respectable domestic, commercial, and servant spaces without seeming out of place.
+Barnabus is the **de-facto coordinator and cell lead** for the [[Anathemists | Anathemist]] infiltration of [[Sindrel | Sindrel]]. He is embedded in [[:regnif-d-log | Regnif d'Log]]'s household, outwardly serving as d'Log's butler.
+
+[[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] are **senior lieutenants** — merchant cover for logistics, strike actions, and exit. [[:arouraios | Arouraios]] reports to Barnabus as route-finder and mapper. [[:regnif-d-log | d'Log]] is the patsy, not the leader.
 
 Barnabus acts as the cell's fixer, handler, and domestic infiltrator. He exploits the invisible authority of service: appointments, letters, errands, household accounts, livery contacts, deliveries, tradespeople, and servants' gossip. He does not need to force access when he can arrange it as part of somebody else's routine.
 

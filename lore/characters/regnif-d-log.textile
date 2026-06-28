@@ -24,7 +24,7 @@ Actually goldfinger in disguise.
 
 h3. Role in the Anathemist Plot
 
-Regnif d'Log is the spy cell's patsy. He entered [[Sindrel | Sindrel]] with his servants, [[:arouraios | Arouraios]] and [[:barnabus | Barnabus]], while [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] entered separately under merchant cover. d'Log is not the mastermind of the plot; his usefulness lies in his respectability, his money, and his carelessness.
+Regnif d'Log is the spy cell's patsy. He entered [[Sindrel | Sindrel]] with his servants, [[:arouraios | Arouraios]] and [[:barnabus | Barnabus]], while [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] entered separately under merchant cover. d'Log is not the mastermind; [[:barnabus | Barnabus]] is the de-facto cell lead. d'Log's usefulness lies in his respectability, his money, and his carelessness.
 
 d'Log's household gives [[:barnabus | Barnabus]] and Arouraios a reason to be in [[Sindrel | Sindrel]]. It gives them rooms, errands, appointments, servants' access, household accounts, and a plausible reason to conduct business with local specialists. When Barnabus deals with [[:kelferria-the-smith | Kelferria]] for enchanted armour, he does so while supposedly acting as d'Log's agent. This ties the transaction to a plausible wealthy patron rather than to the [[Anathemists | Anathemist]] cell itself.
 

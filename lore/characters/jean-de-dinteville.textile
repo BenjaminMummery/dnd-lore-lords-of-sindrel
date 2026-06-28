@@ -16,10 +16,10 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469575/Ambassadors-Dint
 ---
 
 <!-- OP_DESCRIPTION -->
-Travelled with [[The Adventurers | The Adventurers]] in [[:sindrel-coach | the Sindrel Coach]] from [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]. Following the [[Anathemists | Anathemist]] ambush, he continued to travel with the group until they reached [[Sindrel | Sindrel]].
+You see a large man in merchant's finery — tall, heavy-set, and built like someone who does his own lifting rather than paying porters.
 
 <!-- OP_BIO -->
-
+Travelled with [[The Adventurers | The Adventurers]] in [[:sindrel-coach | the Sindrel Coach]] from [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]. Following the [[Anathemists | Anathemist]] ambush, he continued to travel with the group until they reached [[Sindrel | Sindrel]].
 
 <!-- GM_INFO_START -->
 real name: Jean de Dinteville
@@ -27,6 +27,8 @@ real name: Jean de Dinteville
 h3. Role in the Anathemist Plot
 
 Jean de Dinteville is one of the [[Anathemists | Anathemist]] agents operating under the cover of a wealthy merchant. He entered [[Sindrel | Sindrel]] with [[:georges-de-selve | Georges de Selve]], separately from [[:regnif-d-log | Regnif d'Log]], [[:barnabus | Barnabus]], and [[:arouraios | Arouraios]]. This allowed the cell to maintain two plausible social fronts inside the city: a respectable merchant partnership and a visiting household retinue.
+
+Jean is a **senior lieutenant** to [[:barnabus | Barnabus]], the cell lead. Target selection and social access (e.g. the [[Ditchquer | Ditchquer]] night, the [[House Lithra | Lithra]] punchbowl scandal) serve objectives Barnabus sets; Jean does not run the cell independently.
 
 Jean acts as the cell's social infiltrator and intelligence gatherer. Where [[:georges-de-selve | Georges]] handles goods, carts, and commercial logistics, Jean handles people, invitations, timings, and access. He uses merchant society, high-status hospitality, and polite conversation to learn where important figures will be, when they will be distracted, and which civic or House functions offer useful cover.
 

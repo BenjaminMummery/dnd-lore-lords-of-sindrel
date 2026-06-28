@@ -14,8 +14,7 @@ tags: []
 ---
 
 <!-- OP_DESCRIPTION -->
-You see a man in coachman's livery with a neatly trimmed beard and small, fussy glasses.
-TODO: flesh out
+You see a man with dark hair, a neatly trimmed beard, and small, fussy glasses. His hands are soft, with ink stains at the fingers — educated, not physically imposing, but watchful with an air of slippery situational awareness.
 
 <!-- OP_BIO -->
 On the night of the [[Ditchquer | Ditchquer]] closing ceremony attack, he was observed emerging from the tunnels below [[The Fulcrum | The Fulcrum]] and getting into a coach that had been parked next to the exit.
@@ -28,6 +27,8 @@ Poncy little glasses.
 h3. Role in the Anathemist Plot
 
 Arouraios is part of the [[Anathemists | Anathemist]] spy cell embedded in [[:regnif-d-log | Regnif d'Log]]'s household, outwardly serving as a servant and cartographer. He entered [[Sindrel | Sindrel]] with d'Log and [[:barnabus | Barnabus]], creating a domestic retinue that appeared separate from the merchant cover used by [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]].
+
+He reports to [[:barnabus | Barnabus]], the cell lead, as route-finder, surveyor, and mapper.
 
 Arouraios acts as the cell's route-finder, surveyor, and mapper. His role as cartographer gives him a plausible reason to observe streets, service passages, coach routes, loading yards, archive access points, and the shape of the catacombs beneath Wallarch. He is responsible for turning the cell's ambitions into usable paths through [[Sindrel | Sindrel]].
 

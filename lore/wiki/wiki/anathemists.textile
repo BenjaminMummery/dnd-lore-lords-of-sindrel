@@ -32,6 +32,10 @@ They believe that the only way to restore the grace of [[The Gods | the gods]] i
 
 They have been cautiously probing [[Sindrel | Sindrel]]'s defences and have become openly hostile to travellers heading towards the city.
 
+h2. Sindrel infiltration cell
+
+Embedded spy team (see [[The Investigation | The Investigation]] GM): [[:barnabus | Barnabus]] (cell lead), [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] (senior lieutenants), [[:arouraios | Arouraios]] (mapper), [[:regnif-d-log | Regnif d'Log]] (patsy).
+
 h2. Ideology
 
 
