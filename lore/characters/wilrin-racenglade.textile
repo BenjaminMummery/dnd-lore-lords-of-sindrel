@@ -7,7 +7,7 @@ name: Wilrin Ravenglade
 title: Wilrin Ravenglade
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/wilrin-racenglade
 op_created_at: '2025-12-14T17:07:18Z'
-op_updated_at: '2026-03-12T11:32:02Z'
+op_updated_at: '2026-06-28T00:14:35Z'
 op_gm_only: false
 is_player_character: true
 tags:
@@ -16,9 +16,6 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2
 ---
 
 <!-- OP_DESCRIPTION -->
-
-A gnome with pointed ears and a sculpted burgundy beard, the face oddly maroon-and-cream in asymmetry. Hair the same deep red, long on top and shorn at the sides. An ornate burgundy coat embroidered with spiralling scrollwork.
-
 h3. Key Items
 * [[:anasthetic-scalpel | Anasthetic Scalpel]]
 
@@ -26,13 +23,5 @@ h3. Key Items
 
 
 <!-- GM_INFO_START -->
-**Player secret (OP Player Secrets UI only — do not put in bio; not API-synced):**
-
-h3. [[The Fallowhurst Sigil | The Fallowhurst Sigil]]
-
-You and [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] were branded with matching sigil scars when your blood-magic attempt with the [[The Fallowhurst Sigil | Fallowhurst sigil]] at [[Fallowhurst College | Fallowhurst College]] backfired. The binding still has teeth:
-
-Whenever Deathwalker takes damage, you roll a d8. On a 1, she takes half damage and you take the rest.
-
 The time fuckery of the [[Midsummer Enclave | Midsummer Enclave]] means that wilrin's experiences within it do not have to line up temporally with the rest of the world. He may have returned before he left - his parents can be young, active members of society!
 <!-- GM_INFO_END -->

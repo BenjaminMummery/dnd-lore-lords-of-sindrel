@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-06-28T00:14:45Z",
-  "last_portal_pull": "2026-06-28T00:14:05Z",
+  "last_portal_pull": "2026-06-28T09:50:02Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -837,9 +837,9 @@
       "op_id": "72799128ec3843bbb489b2f8b72126af",
       "op_kind": "Character",
       "op_slug": "wilrin-racenglade",
-      "op_updated_at": "2026-06-28T00:14:27Z",
-      "repo_blob_sha": "0d926ff2f47a11a2ddf481cda2e1d6512a6bc572",
-      "repo_hash_at_sync": "a74e3f86b8fc395594277c6aa694be46bc5aa3491a4aac38f924b507696f6d68",
+      "op_updated_at": "2026-06-28T00:14:35Z",
+      "repo_blob_sha": "b67907288414efea816f87c55dff56dea5e68efa",
+      "repo_hash_at_sync": "9a50883e6d79601ea1ec8d3ecf9f76a650dd25c6851e69567b2e07e6c30d0d2b",
       "repo_path": "lore/characters/wilrin-racenglade.textile"
     },
     "72c6d96ea30544f5b06f749d4aa2b5b2": {
