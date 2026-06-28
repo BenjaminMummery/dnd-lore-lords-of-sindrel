@@ -7,7 +7,7 @@ name: Main Page
 title: Main Page
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/main-page
 op_created_at: '2025-11-17T15:24:03Z'
-op_updated_at: '2026-06-28T13:54:31Z'
+op_updated_at: '2026-06-28T18:50:54Z'
 op_gm_only: false
 tags: []
 ---
@@ -25,57 +25,38 @@ h3. Locations
 
 Our tale takes place in the northern regions of the continent of [[Artresh | Artresh]] in the world of [[Arcan | Arcan]].
 
-<ul style="padding-left: 28px;text-indent: -28px; ">
-    <li>[[Sindrel | Sindrel]]</li>
-        <ul style="padding-left: 28px;text-indent: -28px; ">
-            <li>[[Merchant's Quarter | Merchant's Quarter]] </li>
-                <ul style="padding-left: 28px;text-indent: -28px; ">
-                    <li>[[The Pointed Hat | The Pointed Hat]]</li>
-                    <li>[[Temple of the Dawn Father | Temple of the Dawn Father]]</li>
-                </ul>
-            <li>[[Scholars Ward | Scholars Ward]]</li>
-                <ul style="padding-left: 28px;text-indent: -28px; ">
-                    <li>[[The Heptade Academy | The Heptade Academy]]</li>
-                </ul>
-            <li>[[Granary Ward | Granary Ward]]</li>
-                <ul style="padding-left: 28px;text-indent: -28px; ">
-                    <li>The Amalthean (the [[House Grimbolg | Cornucopia]]) — headquarters of [[House Grimbolg | House Grimbolg]]</li>
-                </ul>
-            <li>[[Merrylane | Merrylane]]</li>
-                <ul style="padding-left: 28px;text-indent: -28px; ">
-                    <li>Ambassador Street</li>
-                        <ul style="padding-left: 28px;text-indent: -28px; ">
-                            <li>[[Radwasp House | Radwasp House]]</li>
-                        </ul>
-                    <li>[[Merrylane | Merrylane]] Park</li>
-                </ul>
-            <li>[[Dockward | Dockward]]</li>
-                <ul style="padding-left: 28px;text-indent: -28px; ">
-                    <li>The Prow — Headquarters of [[House Mabon | House Mabon]]</li>
-                </ul>
-            <li>[[Sevenways | Sevenways]]</li>
-            <li>[[The Wallarch District | Wallarch District]]</li>
-                <ul style="padding-left: 28px;text-indent: -28px; ">
-                    <li>[[Osteomantic Archives | Wallarch Osteomantic Archives]]</li>
-                </ul>
-            <li>[[The Canted Terrace | The Canted Terrace]]</li>
-                <ul style="padding-left: 28px;text-indent: -28px; ">
-                    <li>[[Beltan Institute | Beltan Institute]]</li>
-                </ul>
-            <li>[[Quarantine Zone | The Quarantine Zone]]</li>
-            <li>[[The Fulcrum | The Fulcrum]]</li>
-            <li>The [[House Oestra | Leageur]] - Headquarters of [[House Oestra | House Oestra]]</li>
-        </ul>
-    <li>[[Soulwind | Soulwind]]</li>
-    <li>[[The Mage Road | The Mage Road]]</li>
-    <li>[[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]</li>
-    <li>[[Arkay Mountain Range | Arkay Mountain Range]]</li>
-    <li>[[Fallowhurst | Fallowhurst]]</li>
-        <ul style="padding-left: 28px;text-indent: -28px; ">
-            <li>[[Fallowhurst College | Fallowhurst College]]</li>
-        </ul>
-    <li>[[Fallowhurst Outpost | Fallowhurst Outpost]]</li>
-</ul>
+* [[Sindrel | Sindrel]]
+** [[Merchant's Quarter | Merchant's Quarter]]
+*** [[The Pointed Hat | The Pointed Hat]]
+*** [[Temple of the Dawn Father | Temple of the Dawn Father]]
+** [[Scholars Ward | Scholars Ward]]
+*** [[The Heptade Academy | The Heptade Academy]]
+** [[Granary Ward | Granary Ward]]
+*** The Amalthean (the [[House Grimbolg | Cornucopia]]) — headquarters of [[House Grimbolg | House Grimbolg]]
+** [[Merrylane | Merrylane]]
+*** Ambassador Street
+**** [[Radwasp House | Radwasp House]]
+*** [[Merrylane | Merrylane]] Park
+** [[Dockward | Dockward]]
+*** The Prow — Headquarters of [[House Mabon | House Mabon]]
+** [[Sevenways | Sevenways]]
+*** Fulcrum Servants Quarters
+** [[The Wallarch District | Wallarch]]
+*** [[Osteomantic Archives | Wallarch Osteomantic Archives]]
+** [[The Canted Terrace | The Canted Terrace]]
+*** [[Beltan Institute | The Beltan Institute]]
+** [[Quarantine Zone | The Quarantine Zone]]
+** [[The Fulcrum | The Fulcrum]]
+** The [[House Oestra | Leageur]] - Headquarters of [[House Oestra | House Oestra]]
+*** [[Osteomantic Archives | The Hall of the Glorious Dead (Oestra Osteomantic Archives)]]
+* [[Soulwind | Soulwind]]
+* [[The Mage Road | The Mage Road]]
+* [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]
+* [[Arkay Mountain Range | Arkay Mountain Range]]
+* [[Fallowhurst | Fallowhurst]]
+** [[Fallowhurst College | Fallowhurst College]]
+*** [[Fallowhurst Outpost | Fallowhurst Outpost]]
+
 
 h3. The Great Houses of [[Sindrel | Sindrel]]
 
