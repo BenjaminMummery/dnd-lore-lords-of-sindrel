@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-06-28T15:55:15Z",
+  "last_git_publish": "2026-06-28T19:40:28Z",
   "last_portal_pull": "2026-06-28T19:39:41Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -447,9 +447,9 @@
       "op_id": "3c19f65bedc54691941c6fa9030ae710",
       "op_kind": "Character",
       "op_slug": "pin",
-      "op_updated_at": "2026-06-28T09:50:29Z",
-      "repo_blob_sha": "5154d0e85651c4caff831c047eec17b49198fa56",
-      "repo_hash_at_sync": "be23d11473457d6196d81fc5dc969a055790a119453eadfd203bc5bb0a380e22",
+      "op_updated_at": "2026-06-28T19:39:57Z",
+      "repo_blob_sha": "4869f926124f1de4ee2f2a9bd23914a77213820a",
+      "repo_hash_at_sync": "015d8e850b4fc4589936a735b22b5c7aed1e8559483a6b29f2b5142eeff08a0c",
       "repo_path": "lore/characters/pin.textile"
     },
     "3dd6af69d11e4345a987028922d1e974": {
@@ -667,9 +667,9 @@
       "op_id": "64cea553e6254e388e39ac1abc75eb9f",
       "op_kind": "Wiki",
       "op_slug": "session-8-",
-      "op_updated_at": "2026-06-28T00:10:33Z",
-      "repo_blob_sha": "907c8da20fc0571afe0dcad384da901173b6b86d",
-      "repo_hash_at_sync": "8da5747ad2a33ea0d736c00d340fbd4457bd37b23c74d5fcccca79c24d3d38bd",
+      "op_updated_at": "2026-06-28T19:40:10Z",
+      "repo_blob_sha": "6c6c5240f0f6e9de7bf8a11be9d65cd0ac9d9e14",
+      "repo_hash_at_sync": "f61cb4d4d0acb048049fa608f4644f832b87d11cf3fe1531b74eabd6ea3987ad",
       "repo_path": "lore/wiki/adventure-log/session-8-.textile"
     },
     "64d58a7081f64048b0990df87d7239b4": {
@@ -717,9 +717,9 @@
       "op_id": "689a5e01c2214591bcd30469314707f8",
       "op_kind": "Wiki",
       "op_slug": "session-10",
-      "op_updated_at": "2026-06-28T00:10:24Z",
-      "repo_blob_sha": "699ccaaa56bec6a2d1b927ba0183fc68db331ab3",
-      "repo_hash_at_sync": "2dd858d291ef3ee6bfb79cb79ec6e975e89bd02c895ced05b3cc431cca104d3c",
+      "op_updated_at": "2026-06-28T19:40:02Z",
+      "repo_blob_sha": "c8127decd1453e3f8ac111590889097a524979fa",
+      "repo_hash_at_sync": "0ffa4e30ddcc569d39d8bca1f6451eb993fd47a0cad1e61707ec4001cba72ddf",
       "repo_path": "lore/wiki/adventure-log/session-10.textile"
     },
     "6a9b29c8be354a8894c6591017af56b6": {
@@ -777,9 +777,9 @@
       "op_id": "6f9dfa0ebbf147a791ed50efe8aceb19",
       "op_kind": "Wiki",
       "op_slug": "main-page",
-      "op_updated_at": "2026-06-28T18:50:54Z",
-      "repo_blob_sha": "bdaef3004cbd0f0b12ef643456f1bbb1a1db1528",
-      "repo_hash_at_sync": "ed972d5971492b1f7ab802e65e9e45da80bd90ae95dff0b6ce246bf36bada3a0",
+      "op_updated_at": "2026-06-28T19:40:17Z",
+      "repo_blob_sha": "887456295aeb5b24c0f713790a176ea78afd10e8",
+      "repo_hash_at_sync": "c88ef9dc900964fbb408cd24b2e69e288fb60b3f0c376f462525234988419f14",
       "repo_path": "lore/wiki/wiki/main-page.textile"
     },
     "6fa7cadf93784d9885bb792317fc8305": {
@@ -937,9 +937,9 @@
       "op_id": "93388607d1634c4da77ab0cd6103fbf7",
       "op_kind": "Wiki",
       "op_slug": "the-adventurers",
-      "op_updated_at": "2026-06-28T15:55:10Z",
-      "repo_blob_sha": "fb876ca74ca460967cc85257bc55d3073261e5af",
-      "repo_hash_at_sync": "72062b3f9aae7a69b4c87bce66c19f69e681ae85c6284b3dd2e9cd1fec06041a",
+      "op_updated_at": "2026-06-28T19:40:23Z",
+      "repo_blob_sha": "41eda150388db6b75ad43c7f5abf057e43749d29",
+      "repo_hash_at_sync": "754ea25226faf6e441e02e047aa50889499d972fd64a5d4729beb7882e51e0cf",
       "repo_path": "lore/wiki/wiki/the-adventurers.textile"
     },
     "9915ce65e3cb41caacd36bafb491a11a": {
@@ -1007,9 +1007,9 @@
       "op_id": "a42fa95fde774607b64cf67722e9f1db",
       "op_kind": "Wiki",
       "op_slug": "session-4-",
-      "op_updated_at": "2026-06-28T15:54:58Z",
-      "repo_blob_sha": "4763fdf1c9823bb2c7bb6e78600aa95328468e07",
-      "repo_hash_at_sync": "cbb3cf54d2e91e98399b9adb35b5dd04d5bfb213a52006197a7de2a7b693cc3f",
+      "op_updated_at": "2026-06-28T19:40:08Z",
+      "repo_blob_sha": "969a1f6919c4c52847149e21937e8f064ac6e2c4",
+      "repo_hash_at_sync": "f6e15fd928bdd1bccadd713e5b25df52fc21f5aedf6f842b00cfb079e242c2e9",
       "repo_path": "lore/wiki/adventure-log/session-4-.textile"
     },
     "a47b6e3ea9444853a1dd4ee5452f4b72": {
@@ -1067,9 +1067,9 @@
       "op_id": "b0db4ec29f794c878b0d38dc76dd3c6d",
       "op_kind": "Wiki",
       "op_slug": "session-11-",
-      "op_updated_at": "2026-06-28T00:14:30Z",
-      "repo_blob_sha": "b8e6404191dc1fe66cb8d59082fc97f49623ffb7",
-      "repo_hash_at_sync": "800df7ffc0fc867ecb8712fc833e132c85c50682a4c197523dc76a2053cce51d",
+      "op_updated_at": "2026-06-28T19:40:04Z",
+      "repo_blob_sha": "0bc7dbaf8192ce81684f93a74d5fb74d8a413fa5",
+      "repo_hash_at_sync": "577668c0c4f03bb41c0d8fd471bc1b31d382ef60dd078693effd179ec9cb49d1",
       "repo_path": "lore/wiki/adventure-log/session-11-.textile"
     },
     "b3864ba098dd47a68651b0b6e7ab9202": {
@@ -1397,9 +1397,9 @@
       "op_id": "dee245ec8f0b4a82baf00118cd29ce33",
       "op_kind": "Wiki",
       "op_slug": "session-2-fallowhurst",
-      "op_updated_at": "2026-06-28T00:10:27Z",
-      "repo_blob_sha": "1c5e44b4dd97e717e099fd469d9c15acc0d03f19",
-      "repo_hash_at_sync": "9ea8e8213206867618f6d3e1a04662ca5c8ee78889c7dfaa6026f89c251e88e4",
+      "op_updated_at": "2026-06-28T19:40:06Z",
+      "repo_blob_sha": "04b21f6d48833b34aa77b8d155b9afa82dc0c136",
+      "repo_hash_at_sync": "8afac82d627eea5ad70e5890e05365ae3dba43d942fba297297d9f4442f7bb4f",
       "repo_path": "lore/wiki/adventure-log/session-2-fallowhurst.textile"
     },
     "e0ce8b55356e42aca44de9ebc35e33cf": {
@@ -1427,9 +1427,9 @@
       "op_id": "e2da37ba92ce4862a0165713a93c5a64",
       "op_kind": "Wiki",
       "op_slug": "osteomantic-archives",
-      "op_updated_at": "2026-06-26T21:28:08Z",
-      "repo_blob_sha": "db5d2da929634ddad421f17bfc1302a258cd2bb9",
-      "repo_hash_at_sync": "f4af4fa417f67b6801b7133f3a83f4709d5d4b4054c035eecbf0a9d2498b5485",
+      "op_updated_at": "2026-06-28T19:40:19Z",
+      "repo_blob_sha": "bbecfa7db752ecda0de42484a1721e131b2dd3bb",
+      "repo_hash_at_sync": "067ce924c845739599519346dca7d0b14176d7851fa7c445600a10b3c14b8256",
       "repo_path": "lore/wiki/wiki/osteomantic-archives.textile"
     },
     "e63be30a0288472a891adba197bc5e84": {
