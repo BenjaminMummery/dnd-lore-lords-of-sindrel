@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-06-28T13:29:37Z",
+  "last_git_publish": "2026-06-28T15:35:49Z",
   "last_portal_pull": "2026-06-28T14:02:31Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -167,9 +167,9 @@
       "op_id": "17e89067cf1744788929bebbc0c1da15",
       "op_kind": "Wiki",
       "op_slug": "home-page",
-      "op_updated_at": "2026-06-28T13:53:58Z",
-      "repo_blob_sha": "f0c499b8488e51d54fb28636c5f925f5518456b6",
-      "repo_hash_at_sync": "3e0204a809f1589870af51de9c07b9e8704c2d03dfd1dc8f86c6cdf72e85cc75",
+      "op_updated_at": "2026-06-28T15:35:33Z",
+      "repo_blob_sha": "28a14a1fbf9ed9a536fe5f7e144317cded19e7af",
+      "repo_hash_at_sync": "31bf2b14c73c5fd919eec0bf99ac27d0fe5cd543c0c65fec18e90ca3a7e72354",
       "repo_path": "lore/wiki/wiki/home-page.textile"
     },
     "17ffd36aadad4daaa25fd3e2f196ad2a": {
@@ -367,9 +367,9 @@
       "op_id": "2f8ab8860d5b4c71ab03586e2a1cb65d",
       "op_kind": "Wiki",
       "op_slug": "radwasp-house",
-      "op_updated_at": "2026-06-26T15:21:37Z",
-      "repo_blob_sha": "05ef77a2dbb7e057c61e66c04dfaf7dcb7843080",
-      "repo_hash_at_sync": "05a00dd3cec9f43330bb637f1d8118d25f88dc36853ec8c7561d9dd85c64ec91",
+      "op_updated_at": "2026-06-28T15:35:41Z",
+      "repo_blob_sha": "ef6f63f0775e9189702b3dc659361ee0e634e8d0",
+      "repo_hash_at_sync": "e26caede5b4d6de8a4d3cb84366b063efbca949600b073d7cd4d82415d15d2ee",
       "repo_path": "lore/wiki/wiki/radwasp-house.textile"
     },
     "313fb37251574d7b98dff190c049f3ff": {
@@ -777,9 +777,9 @@
       "op_id": "6f9dfa0ebbf147a791ed50efe8aceb19",
       "op_kind": "Wiki",
       "op_slug": "main-page",
-      "op_updated_at": "2026-06-28T13:54:31Z",
-      "repo_blob_sha": "03a960933ba156ef33a2d18a21e6ea9340db32b3",
-      "repo_hash_at_sync": "cdae56f3b76e2b01e3a5c577144b3d9f7b201283032292b261698a7694573e50",
+      "op_updated_at": "2026-06-28T15:35:37Z",
+      "repo_blob_sha": "bdaef3004cbd0f0b12ef643456f1bbb1a1db1528",
+      "repo_hash_at_sync": "4ae5736d8ee53775f77738777db04aa99fe98ca7fb67bc2666add709cb049fa8",
       "repo_path": "lore/wiki/wiki/main-page.textile"
     },
     "6fa7cadf93784d9885bb792317fc8305": {
@@ -937,9 +937,9 @@
       "op_id": "93388607d1634c4da77ab0cd6103fbf7",
       "op_kind": "Wiki",
       "op_slug": "the-adventurers",
-      "op_updated_at": "2026-06-28T13:56:56Z",
-      "repo_blob_sha": "8b47b15a374537b69a90fb7232829b9a5fd269e0",
-      "repo_hash_at_sync": "7c551f2b642b5d360af83703350fc4c41961551d80a8adaa02750d3d3d5554eb",
+      "op_updated_at": "2026-06-28T15:35:44Z",
+      "repo_blob_sha": "8e17363249877abf222c056eb96a699603652524",
+      "repo_hash_at_sync": "ee700a8712fe1e6d377cfd43fdad02dae432e5337bd048c6a6f13ef1eee8b409",
       "repo_path": "lore/wiki/wiki/the-adventurers.textile"
     },
     "9915ce65e3cb41caacd36bafb491a11a": {
@@ -1087,9 +1087,9 @@
       "op_id": "b5169502faac497fb610e7d86f095561",
       "op_kind": "Character",
       "op_slug": "silas-oestra",
-      "op_updated_at": "2026-06-26T21:27:23Z",
-      "repo_blob_sha": "7e53a63ac5b97b0ad5c7ab39b0947fcb31feee70",
-      "repo_hash_at_sync": "9fddae637d31cb76b686f61c0541ad8624803bf22973a8e3e9237d2ad6fa2831",
+      "op_updated_at": "2026-06-28T15:35:24Z",
+      "repo_blob_sha": "1de3fe57738a36328f30cf70d94131fa18c87a56",
+      "repo_hash_at_sync": "d4f42804453354f1016dd5ddc66a6883f12f7d2125a7cf6da10f9444df834595",
       "repo_path": "lore/characters/silas-oestra.textile"
     },
     "b5905d329c974734a0bf65293f730993": {
@@ -1357,9 +1357,9 @@
       "op_id": "d60c6f3ca5b240aabbf1ae1063a7ba57",
       "op_kind": "Character",
       "op_slug": "cedric",
-      "op_updated_at": "2026-06-28T00:09:58Z",
-      "repo_blob_sha": "abd343665361033af648289c7402ddc9322b84ba",
-      "repo_hash_at_sync": "05e6861f61673c3af059362c5ca7b626d2739d473827abb5bdea52befdda902d",
+      "op_updated_at": "2026-06-28T15:35:12Z",
+      "repo_blob_sha": "cddc2daa5651e818dc72a8e18367d057873cfef6",
+      "repo_hash_at_sync": "73b890faa720f88c68388147bf305615255bd8f4f5fb262feb53ad8c1713ce45",
       "repo_path": "lore/characters/cedric.textile"
     },
     "dce826641b874344b77bf31d16c91421": {
@@ -1447,9 +1447,9 @@
       "op_id": "e7ad041dba144a5b9b50fa5cc8bb6f8a",
       "op_kind": "Wiki",
       "op_slug": "session-9-downtime-2",
-      "op_updated_at": "2026-06-28T13:01:40Z",
-      "repo_blob_sha": "1dd6e6169f0d380c1abc99bad2a06595e04efd66",
-      "repo_hash_at_sync": "5d51054e95742c3f38b830f5f47123863fa2afc53f95b73c773868bbce7926e5",
+      "op_updated_at": "2026-06-28T15:35:29Z",
+      "repo_blob_sha": "5aa5d804eb6f1e8a791d3ea0da314c3dcc2e16a6",
+      "repo_hash_at_sync": "325c9a8950e334cf3353248bd4057e1b5b32cff1a380b87de6b0389725b8026a",
       "repo_path": "lore/wiki/adventure-log/session-9-downtime-2.textile"
     },
     "eee373837b7b42ae83fffb913d22290c": {
