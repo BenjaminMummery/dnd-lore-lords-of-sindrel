@@ -7,7 +7,7 @@ name: The Adventurers
 title: The Adventurers
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-adventurers
 op_created_at: '2026-01-12T22:16:22Z'
-op_updated_at: '2026-06-28T13:56:56Z'
+op_updated_at: '2026-06-29T12:49:01Z'
 op_gm_only: false
 tags:
 - Organisation
@@ -41,105 +41,127 @@ Chronology of [[The Adventurers | the Wonch]]'s adventures in [[Sindrel | Sindre
 
 h4. 24 Enean 4218
 
-* *Evening* - First meetings at [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]; Quill brothers apprehended ([[Session 1: The White Dragon | Session 1]])
+h5. Evening
+
+* First meetings at [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]; Quill brothers apprehended ([[Session 1: The White Dragon | Session 1]])
 
 h4. 25 Enean 4218
 
-* *Morning through afternoon* - Coach journey; [[Anathemists | Anathemist]] ambush on [[The Mage Road | The Mage Road]] ([[Session 1: The White Dragon | Session 1]])
-* *Afternoon*
-** Coach goes over the cliff; trek toward [[Fallowhurst | Fallowhurst]] ([[Session 2: Fallowhurst | Session 2]])
-** Flooded village; [[:embren-oestra | plague doctor]] directs party to the estate ([[Session 2: Fallowhurst | Session 2]])
-* *Late afternoon*
-** [[Fallowhurst | Fallowhurst]] orchard; [[:tama | giant stoat]] freed ([[Session 2: Fallowhurst | Session 2]])
-** [[Fallowhurst College | Fallowhurst College]] explored; sigil experiments in the museum ([[Session 2: Fallowhurst | Session 2]])
-** College fight; escape through the museum windows ([[Session 3: "Graduation" | Session 3]])
-** Regroup at the wheelbarrow; vow to return ([[Session 3: "Graduation" | Session 3]])
-* *Evening* - Leave [[Fallowhurst | Fallowhurst]]; [[Fallowhurst Outpost | outpost]]; overnight stay ([[Session 3: "Graduation" | Session 3]])
+h5. Morning through afternoon*
+
+* Coach journey; [[Anathemists | Anathemist]] ambush on [[The Mage Road | The Mage Road]] ([[Session 1: The White Dragon | Session 1]])
+
+h5. Afternoon
+
+* Coach goes over the cliff; trek toward [[Fallowhurst | Fallowhurst]] ([[Session 2: Fallowhurst | Session 2]])
+* Flooded village; [[:embren-oestra | plague doctor]] directs party to the estate ([[Session 2: Fallowhurst | Session 2]])
+
+h5. Late afternoon
+
+* [[Fallowhurst | Fallowhurst]] orchard; [[:tama | giant stoat]] freed ([[Session 2: Fallowhurst | Session 2]])
+* [[Fallowhurst College | Fallowhurst College]] explored; sigil experiments in the museum ([[Session 2: Fallowhurst | Session 2]])
+* College fight; escape through the museum windows ([[Session 3: "Graduation" | Session 3]])
+* Regroup at the wheelbarrow; vow to return ([[Session 3: "Graduation" | Session 3]])
+
+h5. Evening
+
+* Leave [[Fallowhurst | Fallowhurst]]; [[Fallowhurst Outpost | outpost]]; overnight stay ([[Session 3: "Graduation" | Session 3]])
 
 h4. 26 Enean 4218
 
-* *Morning through afternoon* - Road to [[Sindrel | Sindrel]]; Anathemist patrol captured ([[Session 3: "Graduation" | Session 3]])
-* *Morning* - [[:hielaman | Captain Hielaman]]'s rescue; prisoners taken in charge ([[Session 4: Sindrel! | Session 4]])
-* *Afternoon* - Arrival at [[Sindrel | Sindrel]]; silver bracelets; [[:dulcinia-von-phthasia | Dulcinia]] and [[:pthul | Pthul]] part company ([[Session 4: Sindrel! | Session 4]])
+
+h5. Morning
+
+* Road to [[Sindrel | Sindrel]]; Anathemist patrol captured ([[Session 3: "Graduation" | Session 3]])
+* [[:hielaman | Captain Hielaman]]'s rescue; prisoners taken in charge ([[Session 4: Sindrel! | Session 4]])
+
+h5. Afternoon
+
+* Arrival at [[Sindrel | Sindrel]]; silver bracelets; [[:dulcinia-von-phthasia | Dulcinia]] and [[:pthul | Pthul]] part company ([[Session 4: Sindrel! | Session 4]])
 
 h4. 27 Enean 4218
 
-* *All day* - Rest day in [[Sindrel | Sindrel]] *(unlogged)*
+* Rest day in [[Sindrel | Sindrel]]
 
 h4. 28 Enean 4218
 
-* *Daytime* - Individual downtime - soiree, gambling, temple, shops, [[:hielaman | Hielaman]] brawl ([[Session 4: Sindrel! | Session 4]])
-* *Evening* - [[Hexine Circle | Hexine Circle]] briefing; investigation commissioned ([[Session 4: Sindrel! | Session 4]])
+h5. Daytime
+
+* Individual downtime - soiree, gambling, temple, shops, [[:hielaman | Hielaman]] brawl ([[Session 4: Sindrel! | Session 4]])
+
+h5. Evening
+
+* [[Hexine Circle | Hexine Circle]] briefing; investigation commissioned ([[Session 4: Sindrel! | Session 4]])
+* Dicussions with house representatives ([[Session 5: The Investigation Begins | Session 5]])
 
 h4. 29 Enean 4218
 
-* *Morning* - House visits - Goela, Mabon, Meness, Lithra, Beltus, Oestra, Grimbolg ([[Session 5: The Investigation Begins | Session 5]])
-* *Noon* - [[The Wallarch District | Wallarch]] chase; [[:emerich-surefoot | Emerich]] and the [[The Cutthroat's Repose | Cutthroat's Repose]] lead ([[Session 6: Wallarch | Session 6]])
-* *Early afternoon* - [[Osteomantic Archives | Osteomantic Archives]]; [[:micycle-smynth | Micycle Smynth]] funeral ([[Session 6: Wallarch | Session 6]])
-* *Afternoon* - Descent into the catacombs; funeral disruption ([[Session 7: Into The Catacombs | Session 7]])
-* *Late afternoon*
-** Hall of Dragons; [[:kithrak-ii | Kithrak II]] adopted; Hall of Sages; Crossroads; [[:zalatan | Zalatan]] slain ([[Session 7: Into The Catacombs | Session 7]])
-** Skeleton diorama; lost in natural tunnels ([[Session 8: The Dark Shrine | Session 8]])
-** [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]]; buckler taken ([[Session 8: The Dark Shrine | Session 8]])
-* *Evening* - Emerge at [[House Oestra | Oestra Leageur]]; [[:commander-locke | Locke]] debrief; [[Radwasp House | Radwasp House]] keys passed (Hexine Circle / Lithra) ([[Session 8: The Dark Shrine | Session 8]] / [[Session 9: Downtime 2 | Session 9]])
+h5. Noon
+
+* [[The Wallarch District | Wallarch]] chase; [[:emerich-surefoot | Emerich]] and the [[The Cutthroat's Repose | Cutthroat's Repose]] lead ([[Session 6: Wallarch | Session 6]])
+
+h5. Early Afternoon
+
+* [[Osteomantic Archives | Osteomantic Archives]]; [[:micycle-smynth | Micycle Smynth]] funeral ([[Session 6: Wallarch | Session 6]])
+
+h5. Afternoon
+
+* Descent into the catacombs; funeral disruption ([[Session 7: Into The Catacombs | Session 7]])
+
+h5. Late afternoon
+
+* Hall of Dragons; [[:kithrak-ii | Kithrak II]] adopted; Hall of Sages; Crossroads; [[:zalatan | Zalatan]] slain ([[Session 7: Into The Catacombs | Session 7]])
+* Skeleton diorama; lost in natural tunnels ([[Session 8: The Dark Shrine | Session 8]])
+* [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]]; buckler taken ([[Session 8: The Dark Shrine | Session 8]])
+
+h5. Evening
+
+* Emerge at [[House Oestra | Oestra Leageur]]; [[:commander-locke | Locke]] debrief; [[Radwasp House | Radwasp House]] keys passed (Hexine Circle / Lithra) ([[Session 8: The Dark Shrine | Session 8]] / [[Session 9: Downtime 2 | Session 9]])
 
 h4. 30 Enean 4218
 
-* *Morning through afternoon* - Downtime errands - shopping, knuckle-dusters, Kelferria quote pending, letters, temple vision ([[Session 9: Downtime 2 | Session 9]])
-* *Evening* - [[Radwasp House | Radwasp House]]; buckler dreams; [[The Heptade Academy | Heptade Academy]] acceptance ([[Session 9: Downtime 2 | Session 9]])
+* *Morning through afternoon* — Downtime errands — shopping, knuckle-dusters, Kelferria quote pending, letters, temple vision ([[Session 9: Downtime 2 | Session 9]])
+* *Evening* — [[Radwasp House | Radwasp House]]; buckler dreams; [[The Heptade Academy | Heptade Academy]] acceptance ([[Session 9: Downtime 2 | Session 9]])
 
 h4. 31 Enean 4218
 
-* *Pre-dawn* - Party summoned; [[:cedric | Cedric]] and the door ([[Session 10: Shakes Spear in the Park | Session 10]])
-* *Dawn through early morning* - [[Merrylane | Merrylane Park]]; demon "pest control"; [[:tama | stoat]] bonded to [[:rossin-ros-greyhirst | Ros]] ([[Session 10: Shakes Spear in the Park | Session 10]])
-* *Morning* - Post-combat debrief; [[:alandria | Alandria]] and the tea cup ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
-* *Mid-morning* - [[The Fulcrum | Fulcrum]] tunnels; gunpowder identified; Wilrin's forensics ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
-* *Late morning* - Servants' quarters; [[:nort | Nort]] interviewed ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
-* *Late morning through midday* - Amalthean (Cornucopia) tour; nitre-theft theory ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
-
-h3. Campaign status
-
-**Current date:** 31st Enean 4218 SC
-**As of session:** 11
-
-_Update after each session._
+* *Pre-dawn* — Party summoned; [[:cedric | Cedric]] and the door ([[Session 10: Shakes Spear in the Park | Session 10]])
+* *Dawn through early morning* — [[Merrylane | Merrylane Park]]; demon "pest control"; [[:tama | stoat]] bonded to [[:rossin-ros-greyhirst | Ros]] ([[Session 10: Shakes Spear in the Park | Session 10]])
+* *Morning* — Post-combat debrief; [[:alandria | Alandria]] and the tea cup ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
+* *Mid-morning* — [[The Fulcrum | Fulcrum]] tunnels; gunpowder identified; Wilrin's forensics ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
+* *Late morning* — Servants' quarters; [[:nort | Nort]] interviewed ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
+* *Late morning through midday* — Amalthean (Cornucopia) tour; nitre-theft theory ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
 
 h3. Party Wealth
 
 _Through Session 11 (31st Enean 4218 SC)._
 
-Rather than tracking individual coins, we use a general **wealth level** - a rough gauge of what everyday spending looks like, what counts as a major financial commitment, and what quality of life the party can sustain in [[Sindrel | Sindrel]].
-
-h4. Days remaining in Sindrel
-
-**~31 days** - silver guest bracelets (36-day visitor limit from binding at arrival, 26 Enean 4218 SC).
-
-_Through Session 11 (31st Enean 4218 SC)._
+Rather than tracking individual coins, we use a general **wealth level** — a rough gauge of what everyday spending looks like, what counts as a major financial commitment, and what quality of life the party can sustain in [[Sindrel | Sindrel]].
 
 h4. Wealth levels
 
 |_. Level |_. Everyday spending |_. Major purchase |_. Quality of life |
-| <span style="background:#ffcdd2;padding:3px 8px;border-radius:3px;color:#7f0000;">1 - Strapped</span> | Shared beds, street food, mending kit; every purchase debated | One modest mundane item - a replacement blade, warm cloak | Hand-to-mouth; one bad week from broke |
-| <span style="background:#ffe0b2;padding:3px 8px;border-radius:3px;color:#e65100;">2 - Scraping by</span> | Tavern meals, cheap lodgings, ordinary supplies without angst | One significant mundane item or minor enchanted trinket | Itinerant adventurers; no cushion |
-| <span style="background:#fff9c4;padding:3px 8px;border-radius:3px;color:#f57f17;">3 - Comfortable</span> | Good meals, upkeep, gifts, bribes to lowlifes; shopping trips | A commissioned weapon or armour piece - if the party commits | Functioning party with a shared base |
-| <span style="background:#c8e6c9;padding:3px 8px;border-radius:3px;color:#1b5e20;">4 - Well-funded</span> | Conspicuous cash, multiple commissions, social lubrication | Serious magic, property, or sustained undercover lifestyle | Upper merchant; attracts the wrong attention |
-| <span style="background:#b2ebf2;padding:3px 8px;border-radius:3px;color:#006064;">5 - Opulent</span> | House-soiree lifestyle; money rarely the first objection | Patronage-scale outlay - a townhouse, a ship, a laboratory | Nouveau riche; moves in the same circles as nobility. |
+| <span style="background:#ffcdd2;padding:3px 8px;border-radius:3px;color:#7f0000;">1 — Strapped</span> | Shared beds, street food, mending kit; every purchase debated | One modest mundane item — a replacement blade, warm cloak | Hand-to-mouth; one bad week from broke |
+| <span style="background:#ffe0b2;padding:3px 8px;border-radius:3px;color:#e65100;">2 — Scraping by</span> | Tavern meals, cheap lodgings, ordinary supplies without angst | One significant mundane item or minor enchanted trinket | Itinerant adventurers; no cushion |
+| <span style="background:#fff9c4;padding:3px 8px;border-radius:3px;color:#f57f17;">3 — Comfortable</span> | Good meals, upkeep, gifts, bribes to lowlifes; shopping trips | A commissioned weapon or armour piece — if the party commits | Functioning party with a shared base |
+| <span style="background:#c8e6c9;padding:3px 8px;border-radius:3px;color:#1b5e20;">4 — Well-funded</span> | Conspicuous cash, multiple commissions, social lubrication | Serious magic, property, or sustained undercover lifestyle | Upper merchant; attracts the wrong attention |
+| <span style="background:#b2ebf2;padding:3px 8px;border-radius:3px;color:#006064;">5 — Opulent</span> | House-soiree lifestyle; money rarely the first objection | Patronage-scale outlay — a townhouse, a ship, a laboratory | Nouveau riche; moves in the same circles as nobility. |
 
-*When to change level:* A sustained shift in fortune - not a single transaction. Windfall or ruin, gain or loss of patronage and lodging, or a session's worth of spending clearly above or below your current band.
+*When to change level:* A sustained shift in fortune — not a single transaction. Windfall or ruin, gain or loss of patronage and lodging, or a session's worth of spending clearly above or below your current band.
 
 h4. Current standing
 
-**Wealth level:** <span style="background:#fff9c4;padding:3px 8px;border-radius:3px;color:#f57f17;">3 - Comfortable</span>
+**Wealth level:** <span style="background:#fff9c4;padding:3px 8px;border-radius:3px;color:#f57f17;">3 — Comfortable</span>
 
-Pthul's escort fee and [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s gambling win lifted the party out of *Scraping by*. Session 9 errands - clothes, [[:silrie-aegiskiir | Silrie]]'s knuckle-dusters, [[:journeyman-galoras | Galoras]]'s delivered sword - cost something, but [[:kelferria-the-smith | Kelferria]]'s plate quote is still outstanding and no deposit has been paid. [[Radwasp House | Radwasp House]] and the investigation brief cover lodging and many day-to-day costs, so disposable income goes further than the raw purse suggests.
+Pthul's escort fee and [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s gambling win lifted the party out of *Scraping by*. Session 9 errands — clothes, [[:silrie-aegiskiir | Silrie]]'s knuckle-dusters, [[:journeyman-galoras | Galoras]]'s delivered sword — cost something, but [[:kelferria-the-smith | Kelferria]]'s plate quote is still outstanding and no deposit has been paid. [[Radwasp House | Radwasp House]] and the investigation brief cover lodging and many day-to-day costs, so disposable income goes further than the raw purse suggests.
 
-*Pending:* Formal quote from [[:kelferria-the-smith | Kelferria the Smith]] for [[:ayr | Ayr]]'s plate - accepting it would likely require a deliberate party decision and may move the wealth level.
+*Pending:* Formal quote from [[:kelferria-the-smith | Kelferria the Smith]] for [[:ayr | Ayr]]'s plate — accepting it would likely require a deliberate party decision and may move the wealth level.
 
 h4. Other assets
 
-* Silver guest bracelets - visitor passes; see **Days remaining in Sindrel** above
-* [[Radwasp House | Radwasp House]] - investigation base ([[:cedric | Cedric]]); [[House Lithra | Lithra]] property via [[Hexine Circle | Hexine Circle]] agreement
-* [[The Heptade Academy | Heptade Academy]] - provisional acceptance for [[:wilrin-racenglade | Wilrin]] (contingent on completing [[The Investigation | the investigation]])
+* Silver guest bracelets (~31 days' stay remaining as of Session 11)
+* [[Radwasp House | Radwasp House]] — investigation base ([[:cedric | Cedric]]); [[House Lithra | Lithra]] property via [[Hexine Circle | Hexine Circle]] agreement
+* [[The Heptade Academy | Heptade Academy]] — provisional acceptance for [[:wilrin-racenglade | Wilrin]] (contingent on completing [[The Investigation | the investigation]])
 * Patronage promise from the [[Hexine Circle | Hexine Circle]] on successful completion of [[The Investigation | the investigation]]
 
 
@@ -162,18 +184,17 @@ h3. Faction Clocks
 
 _Through Session 11 (31st Enean 4218 SC)._
 
-How each faction currently views [[The Adventurers | the Wonch]]. Update when play shifts opinion - a snub, a favour repaid, a secret exposed.
+How each faction currently views [[The Adventurers | the Wonch]]. Update when play shifts opinion — a snub, a favour repaid, a secret exposed.
 
 |_. Faction |_. Opinion |_. Rationale |
-| [[House Meness | House Meness]] | Favourable | [[:hielaman | Hielaman]] respects the [[The Mage Road | Mage Road]] fight and clean capture of the Anathemist lieutenant; treats the [[:pin | Pin]] brawl as blown-off steam. Actively wants to recruit and sponsor citizenship - Ditchquer box is a peace offering. |
+| [[House Meness | House Meness]] | Favourable | [[:hielaman | Hielaman]] respects the [[The Mage Road | Mage Road]] fight and clean capture of the Anathemist lieutenant; treats the [[:pin | Pin]] brawl as blown-off steam. Actively wants to recruit and sponsor citizenship — Ditchquer box is a peace offering. |
 | [[House Lithra | House Lithra]] | Favourable | [[:emissary-halan | Halan]] convened the [[Hexine Circle | Hexine Circle]], backed outside investigators, and gave [[:silrie-aegiskiir | Silrie]] blueprints. [[:ayr | Ayr]] as "Fenton Woofrunner" is watched, not yet trusted. |
-| [[House Mabon | House Mabon]] | Favourable | [[:journeyman-galoras | Galoras]] is eager to help - gifts, gadgets, commissioned sword to [[Radwasp House | Radwasp House]]. House treats the Wonch as allies against sabotage. |
+| [[House Mabon | House Mabon]] | Favourable | [[:journeyman-galoras | Galoras]] is eager to help — gifts, gadgets, commissioned sword to [[Radwasp House | Radwasp House]]. House treats the Wonch as allies against sabotage. |
 | [[House Grimbolg | House Grimbolg]] | Favourable | [[:navinea-senetera | Navinea]] warmed to [[:rossin-ros-greyhirst | Ros]]; invitation to the Amalthean; open Cornucopia tour in Session 11. Hospitality doubles as keeping tabs on the investigation. |
-| [[House Beltus | House Beltus]] | Cool | [[:alandria | Alandria]] was irritable at the Hexine Circle and in Session 5, but her Wallarch tip paid off. Session 11: furious at park interference, then satisfied - transactional, watching for leverage. |
+| [[House Beltus | House Beltus]] | Cool | [[:alandria | Alandria]] was irritable at the Hexine Circle and in Session 5, but her Wallarch tip paid off. Session 11: furious at park interference, then satisfied — transactional, watching for leverage. |
 | [[House Oestra | House Oestra]] | Wary | [[:commander-locke | Locke]] is embarrassed by the catacomb breach and armoury bullying. Kirrahe vendetta still open. |
 | [[House Goela | House Goela]] | Neutral | [[:seer-demeletas | Demeletas]] offered cryptic bone-readings, not hostility. Goela's Mabon-paranoia not yet linked to the Wonch. |
 | [[Anathemists | Anathemists]] | Hostile | Active enemy. Lieutenant in custody; [[:commander-wake | Wake]] at large. Wonch closing on gunpowder trail and [[:arouraios | Arouraios]] / [[:chuggaz | Chuggaz]] links. |
 | [[The Black Cats | The Black Cats]] | Wary | **Vault** sees unpredictable outsiders muscling into Wallarch and the Fulcrum service layer. Prefer misdirection over open war unless cornered. |
-| [[The City Cats | The City Cats]] | Favourable | [[:amanira | Amanira]] as **Walks-Among-Us**; [[:pads-silently | Pads-Silently]] sought aid at [[Radwasp House | Radwasp House]] (Session 10). Feral network shares street gossip when asked - not formal allies. |
 | [[The Vermillion Company | The Vermillion Company]] | Neutral | No contact since [[:lacerta-kirrahe | Kirrahe]]'s death. Locke wants the killer; party has not engaged the company. |
 <!-- GM_INFO_END -->

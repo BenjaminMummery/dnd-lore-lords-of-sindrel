@@ -7,7 +7,7 @@ name: 'Session 11: ?'
 title: 'Session 11: Gunpowder, Treason, and Plot'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-11-
 op_created_at: '2026-06-01T17:09:20Z'
-op_updated_at: '2026-06-28T00:11:14Z'
+op_updated_at: '2026-06-28T20:09:40Z'
 op_gm_only: false
 tags: []
 post_time: '2026-06-01T17:00:00Z'
