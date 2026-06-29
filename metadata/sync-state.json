@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-06-28T19:40:28Z",
-  "last_portal_pull": "2026-06-29T14:18:27Z",
+  "last_portal_pull": "2026-06-29T15:12:50Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -27,9 +27,9 @@
       "op_id": "037537b82ad74782ae351618ebb57f95",
       "op_kind": "Wiki",
       "op_slug": "shrine-of-the-queen-of-ravens",
-      "op_updated_at": "2026-06-26T21:28:08Z",
-      "repo_blob_sha": "5bd83bee209679471fc1a5f57792a3e829ecd8e9",
-      "repo_hash_at_sync": "ed781767e77eb966dc89db38cb300c4c7f48b5e8c1b8b1ac3b9ed05fd94c41c1",
+      "op_updated_at": "2026-06-29T14:19:40Z",
+      "repo_blob_sha": "3e22d87dc88582fb177be7d811c2b2c5e0b05c0d",
+      "repo_hash_at_sync": "ff9b4a0c8c15b09150de29d7ecd3dec5498ab2ab49a35561df6154f82f5d8c40",
       "repo_path": "lore/wiki/wiki/shrine-of-the-queen-of-ravens.textile"
     },
     "05558ea14cca40638bb288ab87cec7da": {
@@ -107,9 +107,9 @@
       "op_id": "0b632d5cf9334791ae518d6643cbd90f",
       "op_kind": "Character",
       "op_slug": "temperance-halke",
-      "op_updated_at": "2026-06-29T14:04:32Z",
-      "repo_blob_sha": "965be06ca6ec7dbd40b02f7da460a638c6cc5c5d",
-      "repo_hash_at_sync": "8b4092a9766366defc4ffb742bac12cc0325d7adb6d0a6270a15262f827b0e2c",
+      "op_updated_at": "2026-06-29T14:19:23Z",
+      "repo_blob_sha": "3ffc4bcb7096d22f62c99fe2e88819b88c9bb7e3",
+      "repo_hash_at_sync": "c4f8c3b8ce689f2e96bd8872f7a57ecde2067050c8bc39bef8bd21960a480252",
       "repo_path": "lore/characters/temperance-halke.textile"
     },
     "0da3cc62455248bb8810eb5e252770ce": {
@@ -367,9 +367,9 @@
       "op_id": "2f8ab8860d5b4c71ab03586e2a1cb65d",
       "op_kind": "Wiki",
       "op_slug": "radwasp-house",
-      "op_updated_at": "2026-06-28T15:35:41Z",
-      "repo_blob_sha": "ef6f63f0775e9189702b3dc659361ee0e634e8d0",
-      "repo_hash_at_sync": "e26caede5b4d6de8a4d3cb84366b063efbca949600b073d7cd4d82415d15d2ee",
+      "op_updated_at": "2026-06-29T14:19:38Z",
+      "repo_blob_sha": "09112da6a8df80d363da78ab363d1d7a46758a8e",
+      "repo_hash_at_sync": "c63fd8ec6a18abb165e9de722deaf999740f2b49e211f212fd86f9992c26e41d",
       "repo_path": "lore/wiki/wiki/radwasp-house.textile"
     },
     "313fb37251574d7b98dff190c049f3ff": {
@@ -777,9 +777,9 @@
       "op_id": "6f9dfa0ebbf147a791ed50efe8aceb19",
       "op_kind": "Wiki",
       "op_slug": "main-page",
-      "op_updated_at": "2026-06-28T19:40:17Z",
-      "repo_blob_sha": "887456295aeb5b24c0f713790a176ea78afd10e8",
-      "repo_hash_at_sync": "c88ef9dc900964fbb408cd24b2e69e288fb60b3f0c376f462525234988419f14",
+      "op_updated_at": "2026-06-29T14:19:34Z",
+      "repo_blob_sha": "931b372c4b94d257a4bd95efff29e7506c545f71",
+      "repo_hash_at_sync": "cd9784ffd967452627dfd4c78660ac101fce3151535ab2ce6d41af60ec1b1363",
       "repo_path": "lore/wiki/wiki/main-page.textile"
     },
     "6fa7cadf93784d9885bb792317fc8305": {
@@ -937,9 +937,9 @@
       "op_id": "93388607d1634c4da77ab0cd6103fbf7",
       "op_kind": "Wiki",
       "op_slug": "the-adventurers",
-      "op_updated_at": "2026-06-29T12:49:01Z",
-      "repo_blob_sha": "e02e0393dd61ceb8597c6f49d448491f1963f1f1",
-      "repo_hash_at_sync": "7ce931ed2b1f398a69a5da7f677866a6a14f607f26eed4073e8db0c87b8ab8e3",
+      "op_updated_at": "2026-06-29T14:19:43Z",
+      "repo_blob_sha": "e069c8acdfd595ae2f3aa8f87e5e1c2b0e145832",
+      "repo_hash_at_sync": "255ffebab2e4c02e0b67a9c0b15b4c43b7750f6c8eb3dc574a5ff50ed1d581c1",
       "repo_path": "lore/wiki/wiki/the-adventurers.textile"
     },
     "9915ce65e3cb41caacd36bafb491a11a": {
@@ -1427,9 +1427,9 @@
       "op_id": "e2da37ba92ce4862a0165713a93c5a64",
       "op_kind": "Wiki",
       "op_slug": "osteomantic-archives",
-      "op_updated_at": "2026-06-28T19:40:19Z",
-      "repo_blob_sha": "bbecfa7db752ecda0de42484a1721e131b2dd3bb",
-      "repo_hash_at_sync": "067ce924c845739599519346dca7d0b14176d7851fa7c445600a10b3c14b8256",
+      "op_updated_at": "2026-06-29T14:19:37Z",
+      "repo_blob_sha": "ee95910002f95682547baea2364c68bb2814d8b5",
+      "repo_hash_at_sync": "8a3ec677b67de223e9d40f8784132889b0d150e6b9f2af869562fdc55b3e586c",
       "repo_path": "lore/wiki/wiki/osteomantic-archives.textile"
     },
     "e63be30a0288472a891adba197bc5e84": {
@@ -1507,9 +1507,9 @@
       "op_id": "fab92a384bdb4e03bf8617366aa8ce71",
       "op_kind": "Wiki",
       "op_slug": "the-black-cats",
-      "op_updated_at": "2026-06-28T11:03:02Z",
-      "repo_blob_sha": "acdda63abdc0727f03bda44989646c8e1962a632",
-      "repo_hash_at_sync": "f378b9e9941ec615c09df1f20b667485f735e6e91b381d7c2affae310b0d6fd4",
+      "op_updated_at": "2026-06-29T14:19:44Z",
+      "repo_blob_sha": "e24b4a5f7d572173de65a093c3e2f1acd6101487",
+      "repo_hash_at_sync": "f555b5edfed5747b9ae5be129fc92dff170e85d88acf6e5fe49f7d6889165815",
       "repo_path": "lore/wiki/wiki/the-black-cats.textile"
     },
     "fb7afdff854544d5a53af88202ee65c9": {
