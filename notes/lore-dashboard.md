@@ -1,6 +1,6 @@
 # Lore dashboard
 
-_Auto-generated on 2026-06-29 15:01. Open [lore-dashboard.html](lore-dashboard.html) for charts._
+_Auto-generated on 2026-06-29 15:07. Open [lore-dashboard.html](lore-dashboard.html) for charts._
 
 ## Current date (Session 11)
 
@@ -36,5 +36,4 @@ See stacked proportion charts in HTML (wiki links plus plain-name mentions per s
 - House Goela: Neutral
 - Anathemists: Hostile
 - The Black Cats: Wary
-- The City Cats: Favourable
 - The Vermillion Company: Neutral
