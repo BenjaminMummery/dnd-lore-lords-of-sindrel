@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lords of Sindrel — Lore dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <style>
+    :root {
+      --bg: #141110;
+      --panel: #1e1a18;
+      --ink: #ece8df;
+      --muted: #9a9288;
+      --border: #3a3433;
+      --accent: #e85d5d;
+      --code-bg: #2a2523;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 16px 20px 24px;
+      font-family: Georgia, "Times New Roman", serif;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.45;
+    }
+    h1 {
+      font-family: "Cinzel", Georgia, serif;
+      color: var(--accent);
+      border-bottom: 3px double var(--accent);
+      padding-bottom: 6px;
+      margin: 0 0 4px;
+      font-size: 1.5rem;
+    }
+    .meta {
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 12px;
+    }
+    .meta code {
+      background: var(--code-bg);
+      padding: 2px 6px;
+      border-radius: 3px;
+      font-size: 12px;
+    }
+    .dashboard {
+      display: grid;
+      grid-template-columns: minmax(200px, 25%) 1fr;
+      gap: 10px;
+      align-items: stretch;
+    }
+    @media (max-width: 900px) {
+      .dashboard { grid-template-columns: 1fr; }
+    }
+    .col-left, .col-right {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      min-width: 0;
+      min-height: 0;
+    }
+    .col-right { flex: 1; }
+    .col-right .panel { flex: 1; min-height: 200px; }
+    .col-right .panel-gender { flex: 0 1 auto; min-height: 0; }
+    .col-right .chart-wrap { flex: 1; min-height: 290px; }
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      min-height: 0;
+      display: flex;
+      flex-direction: column;
+    }
+    .col-left .panel { padding: 8px 10px 10px; }
+    .col-right .panel { padding: 10px 12px 12px; }
+    .panel h2 {
+      font-family: "Cinzel", Georgia, serif;
+      color: var(--accent);
+      margin: 0 0 6px;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 4px;
+      flex-shrink: 0;
+    }
+    .col-left .panel h2 { font-size: 12px; margin-bottom: 4px; padding-bottom: 3px; }
+    .col-right .panel h2 { font-size: 14px; }
+    .panel p.note {
+      font-size: 11px;
+      color: var(--muted);
+      margin: 0 0 6px;
+      flex-shrink: 0;
+    }
+    .panel p.note code {
+      background: var(--code-bg);
+      padding: 1px 5px;
+      border-radius: 3px;
+      font-size: 12px;
+    }
+    .chart-wrap {
+      position: relative;
+      flex: 1;
+      min-height: 0;
+    }
+    #genderChart { max-width: 100%; margin: 0 auto; }
+    #mentionsChart, #factionMentionsChart { height: 100%; min-height: 290px; }
+    #factionChart { height: 100%; min-height: 140px; }
+    .panel-gender .chart-wrap { flex: 1; min-height: 180px; max-height: 220px; }
+    .panel-clocks .chart-wrap { flex: none; }
+    .panel-clocks, .wealth-panel { flex: 0 1 auto; }
+    .legend-target {
+      font-size: 10px;
+      color: var(--muted);
+      margin-top: 4px;
+      padding-top: 4px;
+      border-top: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .legend-target span {
+      display: inline-block;
+      width: 28px;
+      border-top: 2px dashed var(--accent);
+      vertical-align: middle;
+      margin-right: 6px;
+    }
+    ul.untagged {
+      font-size: 10px;
+      color: var(--muted);
+      margin: 4px 0 0;
+      padding-left: 16px;
+      max-height: 48px;
+      overflow-y: auto;
+    }
+    .stat-value {
+      font-family: "Cinzel", Georgia, serif;
+      font-weight: 600;
+      line-height: 1.15;
+      color: var(--ink);
+      font-size: 0.95rem;
+    }
+    .stat-sub { font-size: 9px; color: var(--muted); margin-top: 2px; }
+    .stay-number {
+      font-family: "Cinzel", Georgia, serif;
+      font-size: 1.35rem;
+      font-weight: 600;
+      line-height: 1;
+    }
+    .col-left .stay-bar { height: 4px; margin-top: 4px; }
+    .stay-bar-fill { height: 100%; border-radius: 3px; }
+    .stay-bar {
+      height: 6px;
+      background: var(--border);
+      border-radius: 3px;
+      margin-top: 6px;
+      overflow: hidden;
+    }
+    .wealth-badge {
+      display: inline-block;
+      font-family: "Cinzel", Georgia, serif;
+      font-size: 12px;
+      font-weight: 600;
+      padding: 4px 8px;
+      border-radius: 3px;
+      margin-top: 2px;
+    }
+    .wealth-detail {
+      font-size: 10px;
+      line-height: 1.45;
+      color: var(--muted);
+      margin-top: 8px;
+    }
+    .wealth-detail p { margin: 0 0 8px; }
+    .wealth-detail ul {
+      margin: 0;
+      padding-left: 14px;
+    }
+    .wealth-detail li { margin-bottom: 4px; }
+    .wealth-pending {
+      font-size: 10px;
+      color: var(--muted);
+      border-left: 2px solid #ffd93d;
+      padding-left: 6px;
+      margin: 6px 0 0;
+      line-height: 1.35;
+    }
+  </style>
+</head>
+<body>
+  <h1>Lore dashboard</h1>
+  <p class="meta">Generated 2026-06-29 11:43. Source: <code>scripts/generate_lore_dashboard.py</code></p>
+
+  <div class="dashboard">
+    <div class="col-left">
+      <section class="panel status-date">
+        <h2>Current date</h2>
+        <div class="stat-value">31st Enean 4218 SC</div><div class="stat-sub">Session 11</div>
+      </section>
+
+      <section class="panel status-stay">
+        <h2>Time remaining</h2>
+        <div class="stay-number" style="color:#7ec8e3">~31</div><div class="stat-sub">of 36 days</div><div class="stay-bar"><div class="stay-bar-fill" style="width:86%;background:#7ec8e3"></div></div>
+      </section>
+
+      <section class="panel panel-clocks">
+        <h2>Faction clocks</h2>
+        <p class="note">Session 11 (31st Enean 4218 SC)</p>
+        <div class="chart-wrap" style="height: 318px">
+          <canvas id="factionChart"></canvas>
+        </div>
+      </section>
+
+      <section class="panel wealth-panel">
+        <h2>Wonch wealth</h2>
+        <div class="wealth-badge" style="background:#8a7010;color:#fff9c4">3 — Comfortable</div><p class="wealth-pending"><strong>Pending:</strong> Formal quote from Kelferria the Smith for Ayr&#x27;s plate — accepting it would likely require a deliberate party decision and may move the wealth level.</p><div class="wealth-detail"><p>Pthul&#x27;s escort fee and Deathwalker&#x27;s gambling win lifted the party out of Scraping by. Session 9 errands — clothes, Silrie&#x27;s knuckle-dusters, Galoras&#x27;s delivered sword — cost something, but Kelferria&#x27;s plate quote is still outstanding and no deposit has been paid. Radwasp House and the investigation brief cover lodging and many day-to-day costs, so disposable income goes further than the raw purse suggests.</p><ul><li>Silver guest bracelets — visitor passes; see *Days remaining in Sindrel* above</li><li>Radwasp House — investigation base ( Cedric); Lithra property via Hexine Circle agreement</li><li>Heptade Academy — provisional acceptance for Wilrin (contingent on completing the investigation)</li><li>Patronage promise from the Hexine Circle on successful completion of the investigation</li></ul></div>
+      </section>
+    </div>
+
+    <div class="col-right">
+      <section class="panel panel-pc">
+        <h2>PC mentions</h2>
+        <div class="chart-wrap">
+          <canvas id="mentionsChart"></canvas>
+        </div>
+      </section>
+
+      <section class="panel panel-fc-mentions">
+        <h2>Faction mentions</h2>
+        <div class="chart-wrap">
+          <canvas id="factionMentionsChart"></canvas>
+        </div>
+      </section>
+
+      <section class="panel panel-gender">
+        <h2>NPC gender</h2>
+        <p class="note">54 tagged · 0 untagged</p>
+        <div class="chart-wrap">
+          <canvas id="genderChart"></canvas>
+        </div>
+        
+      </section>
+    </div>
+  </div>
+
+  <script>
+    const genderData = {"labels": ["he/him", "she/her", "non-binary"], "counts": [29, 15, 10], "targets": [0.45, 0.45, 0.1], "tagged": 54, "untagged": []};
+    const mentionsData = {"sessions": [{"label": "Session 1: The White Dragon", "title": "Session 1: The White Dragon", "date": "2025-12-03", "session_num": 1, "total": 25}, {"label": "Session 2: Fallowhurst", "title": "Session 2: Fallowhurst", "date": "2026-01-07", "session_num": 2, "total": 53}, {"label": "Session 3: \"Graduation", "title": "Session 3: \"Graduation", "date": "2026-01-21", "session_num": 3, "total": 48}, {"label": "Session 4: Sindrel!", "title": "Session 4: Sindrel!", "date": "2026-01-27", "session_num": 4, "total": 37}, {"label": "Session 5: The Investigation Begins.", "title": "Session 5: The Investigation Begins.", "date": "2026-02-13", "session_num": 5, "total": 22}, {"label": "Session 6: Wallarch", "title": "Session 6: Wallarch", "date": "2026-03-11", "session_num": 6, "total": 18}, {"label": "Session 7: Into The Catacombs", "title": "Session 7: Into The Catacombs", "date": "2026-03-31", "session_num": 7, "total": 23}, {"label": "Session 8: The Dark Shrine", "title": "Session 8: The Dark Shrine", "date": "2026-04-23", "session_num": 8, "total": 15}, {"label": "Session 9: Downtime 2", "title": "Session 9: Downtime 2", "date": "2026-05-20", "session_num": 9, "total": 28}, {"label": "Session 10: Shakes Spear in the Park", "title": "Session 10: Shakes Spear in the Park", "date": "2026-05-20", "session_num": 10, "total": 49}, {"label": "Session 11: Gunpowder, Treason, and Plot", "title": "Session 11: Gunpowder, Treason, and Plot", "date": "2026-06-01", "session_num": 11, "total": 55}], "series": [{"id": "amanira", "name": "Amanira", "fullName": "Amanira", "color": "#9d6bcd", "proportions": [0.12, 0.1132, 0.125, 0.1081, 0.0455, 0.2778, 0.087, 0.0667, 0.1786, 0.1224, 0.0727], "totals": [3, 6, 6, 4, 1, 5, 2, 1, 5, 6, 4]}, {"id": "ayr", "name": "Ayr", "fullName": "Ayr", "color": "#efe9e0", "proportions": [0.08, 0.1509, 0.0833, 0.1351, 0.2273, 0.0556, 0.1739, 0.2, 0.1786, 0.0204, 0.0727], "totals": [2, 8, 4, 5, 5, 1, 4, 3, 5, 1, 4]}, {"id": "nakoma-kithrak", "name": "Nakoma / Kithrak", "fullName": "Nakoma / Kithrak", "color": "#383838", "proportions": [0.2, 0.2264, 0.1875, 0.1622, 0.2273, 0.3889, 0.2174, 0.2, 0.0714, 0.2245, 0.2545], "totals": [5, 12, 9, 6, 5, 7, 5, 3, 2, 11, 14], "borderColor": "#c8c4bc"}, {"id": "pin", "name": "Pin", "fullName": "Pin", "color": "#a67c52", "proportions": [0.12, 0.0377, 0.0833, 0.1892, 0.0909, 0.0556, 0.1304, 0.0667, 0.1429, 0.0408, 0.0545], "totals": [3, 2, 4, 7, 2, 1, 3, 1, 4, 2, 3]}, {"id": "ros-tama", "name": "Ros / Tama", "fullName": "Ros / Tama", "color": "#3e9b6f", "proportions": [0.12, 0.1698, 0.1042, 0.1351, 0.1364, 0.1111, 0.1739, 0.2, 0.1786, 0.449, 0.3091], "totals": [3, 9, 5, 5, 3, 2, 4, 3, 5, 22, 17]}, {"id": "silrie", "name": "Silrie", "fullName": "Silrie", "color": "#4682d6", "proportions": [0.2, 0.1132, 0.1458, 0.1622, 0.1818, 0.0556, 0.087, 0.1333, 0.1071, 0.0816, 0.1273], "totals": [5, 6, 7, 6, 4, 1, 2, 2, 3, 4, 7]}, {"id": "wilrin", "name": "Wilrin", "fullName": "Wilrin", "color": "#d94f4f", "proportions": [0.16, 0.1887, 0.2708, 0.1081, 0.0909, 0.0556, 0.1304, 0.1333, 0.1429, 0.0612, 0.1091], "totals": [4, 10, 13, 4, 2, 1, 3, 2, 4, 3, 6]}]};
+    const factionMentionsData = {"sessions": [{"label": "Session 1: The White Dragon", "title": "Session 1: The White Dragon", "date": "2025-12-03", "session_num": 1, "total": 8}, {"label": "Session 2: Fallowhurst", "title": "Session 2: Fallowhurst", "date": "2026-01-07", "session_num": 2, "total": 7}, {"label": "Session 3: \"Graduation", "title": "Session 3: \"Graduation", "date": "2026-01-21", "session_num": 3, "total": 11}, {"label": "Session 4: Sindrel!", "title": "Session 4: Sindrel!", "date": "2026-01-27", "session_num": 4, "total": 42}, {"label": "Session 5: The Investigation Begins.", "title": "Session 5: The Investigation Begins.", "date": "2026-02-13", "session_num": 5, "total": 32}, {"label": "Session 6: Wallarch", "title": "Session 6: Wallarch", "date": "2026-03-11", "session_num": 6, "total": 2}, {"label": "Session 7: Into The Catacombs", "title": "Session 7: Into The Catacombs", "date": "2026-03-31", "session_num": 7, "total": 2}, {"label": "Session 8: The Dark Shrine", "title": "Session 8: The Dark Shrine", "date": "2026-04-23", "session_num": 8, "total": 7}, {"label": "Session 9: Downtime 2", "title": "Session 9: Downtime 2", "date": "2026-05-20", "session_num": 9, "total": 7}, {"label": "Session 10: Shakes Spear in the Park", "title": "Session 10: Shakes Spear in the Park", "date": "2026-05-20", "session_num": 10, "total": 5}, {"label": "Session 11: Gunpowder, Treason, and Plot", "title": "Session 11: Gunpowder, Treason, and Plot", "date": "2026-06-01", "session_num": 11, "total": 24}], "series": [{"id": "oestra", "name": "Oestra", "fullName": "Oestra", "color": "#e63946", "proportions": [0.0, 0.1429, 0.0909, 0.119, 0.0938, 0.5, 0.5, 0.7143, 0.2857, 0.0, 0.1667], "totals": [0, 1, 1, 5, 3, 1, 1, 5, 2, 0, 4]}, {"id": "meness", "name": "Meness", "fullName": "Meness", "color": "#7ec8e3", "proportions": [0.0, 0.0, 0.2727, 0.1667, 0.1562, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1667], "totals": [0, 0, 3, 7, 5, 0, 0, 0, 0, 0, 4]}, {"id": "goela", "name": "Goela", "fullName": "Goela", "color": "#b48cff", "proportions": [0.0, 0.0, 0.0, 0.0952, 0.0938, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], "totals": [0, 0, 0, 4, 3, 0, 0, 0, 0, 0, 0]}, {"id": "grimbolg", "name": "Grimbolg", "fullName": "Grimbolg", "color": "#6bcb77", "proportions": [0.0, 0.0, 0.0, 0.119, 0.1562, 0.0, 0.0, 0.0, 0.4286, 0.0, 0.4583], "totals": [0, 0, 0, 5, 5, 0, 0, 0, 3, 0, 11]}, {"id": "beltus", "name": "Beltus", "fullName": "Beltus", "color": "#ffd93d", "proportions": [0.0, 0.0, 0.0, 0.0952, 0.1562, 0.0, 0.0, 0.0, 0.0, 0.6, 0.0833], "totals": [0, 0, 0, 4, 5, 0, 0, 0, 0, 3, 2]}, {"id": "mabon", "name": "Mabon", "fullName": "Mabon", "color": "#5b9bd5", "proportions": [0.0, 0.0, 0.0, 0.1667, 0.1562, 0.0, 0.0, 0.0, 0.1429, 0.0, 0.0], "totals": [0, 0, 0, 7, 5, 0, 0, 0, 1, 0, 0]}, {"id": "lithra", "name": "Lithra", "fullName": "Lithra", "color": "#c0c0c0", "proportions": [0.0, 0.0, 0.1818, 0.119, 0.0938, 0.0, 0.0, 0.0, 0.1429, 0.0, 0.0], "totals": [0, 0, 2, 5, 3, 0, 0, 0, 1, 0, 0]}, {"id": "anathemists", "name": "Anathemists", "fullName": "Anathemists", "color": "#e8651a", "proportions": [0.75, 0.5714, 0.3636, 0.0714, 0.0312, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0833], "totals": [6, 4, 4, 3, 1, 0, 0, 0, 0, 0, 2]}, {"id": "black-cats", "name": "Black Cats", "fullName": "Black Cats", "color": "#7a8490", "proportions": [0.0, 0.0, 0.0, 0.0, 0.0625, 0.5, 0.0, 0.0, 0.0, 0.0, 0.0417], "totals": [0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 1]}, {"id": "city-cats", "name": "City Cats", "fullName": "City Cats", "color": "#c9a86c", "proportions": [0.0, 0.0, 0.0, 0.0238, 0.0, 0.0, 0.0, 0.0, 0.0, 0.4, 0.0], "totals": [0, 0, 0, 1, 0, 0, 0, 0, 0, 2, 0]}, {"id": "eighth-house", "name": "Eighth House", "fullName": "Eighth House", "color": "#383838", "proportions": [0.0, 0.0, 0.0, 0.0238, 0.0, 0.0, 0.5, 0.2857, 0.0, 0.0, 0.0], "totals": [0, 0, 0, 1, 0, 0, 1, 2, 0, 0, 0], "borderColor": "#c8c4bc"}, {"id": "vermillion-company", "name": "Vermillion Company", "fullName": "Vermillion Company", "color": "#c42126", "proportions": [0.25, 0.2857, 0.0909, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], "totals": [2, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0]}]};
+    const factionData = {"as_of": "Session 11 (31st Enean 4218 SC)", "labels": ["House Meness", "House Lithra", "House Mabon", "House Grimbolg", "House Beltus", "House Oestra", "House Goela", "Anathemists", "The Black Cats", "The City Cats", "The Vermillion Company"], "scores": [5, 5, 5, 5, 3, 2, 4, 1, 2, 5, 4], "opinions": ["Favourable", "Favourable", "Favourable", "Favourable", "Cool", "Wary", "Neutral", "Hostile", "Wary", "Favourable", "Neutral"], "colors": ["#7ec8e3", "#c0c0c0", "#5b9bd5", "#6bcb77", "#ffd93d", "#e63946", "#b48cff", "#e8651a", "#7a8490", "#c9a86c", "#c42126"], "max": 5};
+
+    const chartText = "#ece8df";
+    const chartGrid = "#3a3433";
+    const chartMuted = "#9a9288";
+
+    const targetLinesPlugin = {
+      id: "targetLines",
+      afterDraw(chart) {
+        if (chart.canvas.id !== "genderChart") return;
+        const meta = chart.getDatasetMeta(0);
+        if (!meta.data.length) return;
+        const arc = meta.data[0];
+        const cx = arc.x;
+        const cy = arc.y;
+        const r = arc.outerRadius;
+        const start = -Math.PI / 2;
+        const cumTargets = [0.45, 0.90];
+        const ctx = chart.ctx;
+        ctx.save();
+        cumTargets.forEach((t) => {
+          const angle = start + t * 2 * Math.PI;
+          ctx.beginPath();
+          ctx.moveTo(cx, cy);
+          ctx.lineTo(cx + r * Math.cos(angle), cy + r * Math.sin(angle));
+          ctx.strokeStyle = "#ffd93d";
+          ctx.lineWidth = 2;
+          ctx.setLineDash([7, 5]);
+          ctx.stroke();
+        });
+        ctx.setLineDash([]);
+        ctx.font = "11px Georgia, serif";
+        ctx.fillStyle = "#ffd93d";
+        cumTargets.forEach((t) => {
+          const angle = start + t * 2 * Math.PI;
+          const lx = cx + (r * 0.62) * Math.cos(angle);
+          const ly = cy + (r * 0.62) * Math.sin(angle);
+          ctx.fillText(Math.round(t * 100) + "%", lx - 10, ly + 4);
+        });
+        ctx.restore();
+      },
+    };
+
+    new Chart(document.getElementById("genderChart"), {
+      type: "pie",
+      data: {
+        labels: genderData.labels.map((l, i) => {
+          const n = genderData.counts[i];
+          const p = genderData.tagged ? Math.round(100 * n / genderData.tagged) : 0;
+          return l + " (" + n + ", " + p + "%)";
+        }),
+        datasets: [{
+          data: genderData.counts,
+          backgroundColor: ["#ff6b6b", "#6bcb77", "#4d96ff"],
+          borderColor: "#1e1a18",
+          borderWidth: 2,
+        }],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: {
+            position: "bottom",
+            labels: { color: chartText, font: { family: "Georgia, serif" } },
+          },
+          tooltip: {
+            callbacks: {
+              afterLabel(ctx) {
+                const target = genderData.targets[ctx.dataIndex];
+                return "Target: " + Math.round(target * 100) + "%";
+              },
+            },
+          },
+        },
+      },
+      plugins: [targetLinesPlugin],
+    });
+
+    function proportionStackChart(canvasId, data, yTitle) {
+      new Chart(document.getElementById(canvasId), {
+        type: "line",
+        data: {
+          labels: data.sessions.map((s, i) =>
+            "S" + (s.session_num != null ? s.session_num : i + 1)
+          ),
+          datasets: data.series.map((s) => ({
+            label: s.name,
+            data: s.proportions,
+            borderColor: s.borderColor || s.color,
+            backgroundColor: s.color + "cc",
+            fill: true,
+            stack: "proportions",
+            tension: 0.35,
+            pointRadius: 0,
+            pointHoverRadius: 4,
+            borderWidth: 1,
+          })),
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: "index", intersect: false },
+          scales: {
+            x: {
+              stacked: true,
+              title: { display: false },
+              ticks: {
+                color: chartMuted,
+                font: { family: "Georgia, serif", size: 9 },
+                autoSkip: false,
+              },
+              grid: { color: chartGrid },
+            },
+            y: {
+              stacked: true,
+              min: 0,
+              max: 1,
+              title: { display: false },
+              ticks: {
+                color: chartMuted,
+                font: { family: "Georgia, serif", size: 9 },
+                callback: (v) => Math.round(v * 1000) / 10 + "%",
+              },
+              grid: { color: chartGrid },
+            },
+          },
+          plugins: {
+            legend: {
+              position: "bottom",
+              labels: {
+                color: chartText,
+                font: { family: "Georgia, serif", size: 9 },
+                boxWidth: 8,
+                padding: 4,
+              },
+            },
+            tooltip: {
+              callbacks: {
+                title(items) {
+                  const i = items[0].dataIndex;
+                  const s = data.sessions[i];
+                  return s.title + " (" + s.date + ")";
+                },
+                label(ctx) {
+                  const s = data.series[ctx.datasetIndex];
+                  const n = s.totals[ctx.dataIndex];
+                  const p = Math.round(ctx.parsed.y * 1000) / 10;
+                  return s.fullName + ": " + p + "% (" + n + " mentions)";
+                },
+              },
+            },
+          },
+        },
+      });
+    }
+
+    proportionStackChart("mentionsChart", mentionsData, "Share of mentions");
+    proportionStackChart("factionMentionsChart", factionMentionsData, "Share of mentions");
+
+    new Chart(document.getElementById("factionChart"), {
+      type: "bar",
+      data: {
+        labels: factionData.labels,
+        datasets: [{
+          label: "Opinion",
+          data: factionData.scores,
+          backgroundColor: factionData.colors,
+          borderColor: "#1e1a18",
+          borderWidth: 1,
+        }],
+      },
+      options: {
+        indexAxis: "y",
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+          x: {
+            min: 0,
+            max: factionData.max + 0.4,
+            title: { display: false },
+            ticks: {
+              color: chartMuted,
+              font: { family: "Georgia, serif", size: 9 },
+              stepSize: 1,
+              callback: (v) => {
+                const labels = ["", "Hostile", "Wary", "Cool", "Neutral", "Favourable"];
+                return labels[v] || "";
+              },
+            },
+            grid: { color: chartGrid },
+          },
+          y: {
+            ticks: {
+              color: chartMuted,
+              font: { family: "Georgia, serif", size: 9 },
+              autoSkip: false,
+            },
+            grid: { color: chartGrid },
+          },
+        },
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              label(ctx) {
+                return factionData.opinions[ctx.dataIndex] + " (" + ctx.parsed.x + "/5)";
+              },
+            },
+          },
+        },
+      },
+    });
+  </script>
+</body>
+</html>

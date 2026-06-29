@@ -11,6 +11,7 @@ op_updated_at: '2026-02-18T15:58:41Z'
 op_gm_only: false
 is_player_character: false
 tags:
+- she/her
 - House Lithra
 - Adjutant
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481279/5f82b9bcb958e80952652b16343300b6.jpg

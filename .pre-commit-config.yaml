@@ -9,3 +9,11 @@ repos:
         files: \.textile$
       - id: trailing-whitespace
         files: \.textile$
+  - repo: local
+    hooks:
+      - id: generate-lore-dashboard
+        name: generate lore dashboard
+        entry: python3 scripts/generate_lore_dashboard.py
+        language: system
+        files: ^lore/
+        pass_filenames: false

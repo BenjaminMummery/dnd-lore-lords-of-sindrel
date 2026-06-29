@@ -26,7 +26,7 @@ h3. Known leads
 <!-- GM_INFO_START -->
 h3. Relation to City Cats (felines)
 
-Unrelated. **City Cats** are actual felines — the informal network [[:amanira | Amanira]] can speak to via wild shape or [[:rossin-ros-greyhirst | Ros]]'s _Speak with Animals_ (e.g. [[:pads-silently | Pads-Silently]], [[:hunts-by-night | Hunts-By-Night]]). **Black Cats** have never considered using them; from a cat's perspective Black Cats are just more people. Do not conflate the factions or tags.
+Unrelated. **City Cats** are actual felines — the informal network [[:amanira | Amanira]] can speak to via wild shape or [[:rossin-ros-greyhirst | Ros]]'s _Speak with Animals_ (see [[The City Cats | The City Cats]]; e.g. [[:pads-silently | Pads-Silently]], [[:hunts-by-night | Hunts-By-Night]]). **Black Cats** have never considered using them; from a cat's perspective Black Cats are just more people. Do not conflate the factions or tags.
 
 h3. Internal ranks
 

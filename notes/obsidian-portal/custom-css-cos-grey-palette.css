@@ -12,9 +12,22 @@ p, li, td, dd {
   color: #211b18;
 }
 
-h1, .page-title, .campaign-title, .character-name {
+h1, .page-title, .campaign-title {
   font-family: "IM Fell English SC", "Cinzel", Georgia, serif;
   font-size: 42px;
+  line-height: 1.2;
+  color: #3b0709;
+  font-weight: normal;
+  letter-spacing: 1px;
+  border-bottom: 5px double #3b0709;
+  padding-bottom: 8px;
+  margin-bottom: 18px;
+}
+
+.character-show .character-name,
+.item-show .item-name {
+  font-family: "IM Fell English SC", "Cinzel", Georgia, serif;
+  font-size: 28px;
   line-height: 1.2;
   color: #3b0709;
   font-weight: normal;
@@ -48,8 +61,6 @@ h3 {
   color: #2a211d;
   font-weight: bold;
   letter-spacing: 1px;
-  border-left: 6px solid #5e1013;
-  padding-left: 10px;
 }
 
 h4, h5, h6 {
@@ -57,6 +68,69 @@ h4, h5, h6 {
   color: #4b0c0f;
   font-weight: bold;
   letter-spacing: 1px;
+}
+
+/* Section headings in wiki and adventure log body only */
+.wiki-page-show .post-main h3:not(.ui-accordion-header),
+.wiki-page-content h3:not(.ui-accordion-header),
+body.campaign-public-layout .post-section.post-main h3:not(.ui-accordion-header),
+.adventure-log-show .post-main h3:not(.ui-accordion-header) {
+  border-left: none;
+  padding-left: 0;
+  border-bottom: 2px solid #6d6862;
+  padding-bottom: 5px;
+  margin-top: 24px;
+}
+
+.wiki-page-show .post-main h4,
+.wiki-page-content h4,
+body.campaign-public-layout .post-section.post-main h4,
+.adventure-log-show .post-main h4 {
+  border-left: 6px solid #5e1013;
+  padding-left: 10px;
+}
+
+/* OP wiki page title - not a section heading */
+.wiki-page-name h3,
+.wiki-page-name .title {
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-top: 0;
+}
+
+/* Accordion panel titles - beat scoped content h3 rules above */
+.wiki-page-show .post-main .ui-accordion h3,
+.wiki-page-show .post-main .ui-accordion .ui-accordion-header,
+.wiki-page-content .ui-accordion h3,
+.wiki-page-content .ui-accordion .ui-accordion-header,
+body.campaign-public-layout .post-section.post-main .ui-accordion h3,
+body.campaign-public-layout .post-section.post-main .ui-accordion .ui-accordion-header,
+.adventure-log-show .post-main .ui-accordion h3,
+.adventure-log-show .post-main .ui-accordion .ui-accordion-header,
+.ui-accordion h3.ui-accordion-header {
+  border-bottom: none;
+  border-left: none;
+  padding-left: 2.2em;
+  padding-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.ui-accordion .ui-accordion-header.ui-state-default,
+.ui-accordion .ui-accordion-header.ui-state-active,
+.ui-accordion .ui-accordion-header.ui-state-hover {
+  border-bottom: none;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.character-list-item h3,
+.character-list-item h4 {
+  border-left: none;
+  border-bottom: none;
+  padding-left: 0;
+  padding-bottom: 0;
+  margin-top: 0;
 }
 
 strong, b {

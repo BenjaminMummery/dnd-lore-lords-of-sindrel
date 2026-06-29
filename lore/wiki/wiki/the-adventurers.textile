@@ -97,11 +97,24 @@ h4. 31 Enean 4218
 * *Late morning* — Servants' quarters; [[:nort | Nort]] interviewed ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
 * *Late morning through midday* — Amalthean (Cornucopia) tour; nitre-theft theory ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
 
+h3. Campaign status
+
+**Current date:** 31st Enean 4218 SC
+**As of session:** 11
+
+_Update after each session._
+
 h3. Party Wealth
 
 _Through Session 11 (31st Enean 4218 SC)._
 
 Rather than tracking individual coins, we use a general **wealth level** — a rough gauge of what everyday spending looks like, what counts as a major financial commitment, and what quality of life the party can sustain in [[Sindrel | Sindrel]].
+
+h4. Days remaining in Sindrel
+
+**~31 days** — silver guest bracelets (36-day visitor limit from binding at arrival, 26 Enean 4218 SC).
+
+_Through Session 11 (31st Enean 4218 SC)._
 
 h4. Wealth levels
 
@@ -124,7 +137,7 @@ Pthul's escort fee and [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s gambli
 
 h4. Other assets
 
-* Silver guest bracelets (~31 days' stay remaining as of Session 11)
+* Silver guest bracelets — visitor passes; see **Days remaining in Sindrel** above
 * [[Radwasp House | Radwasp House]] — investigation base ([[:cedric | Cedric]]); [[House Lithra | Lithra]] property via [[Hexine Circle | Hexine Circle]] agreement
 * [[The Heptade Academy | Heptade Academy]] — provisional acceptance for [[:wilrin-racenglade | Wilrin]] (contingent on completing [[The Investigation | the investigation]])
 * Patronage promise from the [[Hexine Circle | Hexine Circle]] on successful completion of [[The Investigation | the investigation]]
@@ -161,5 +174,6 @@ How each faction currently views [[The Adventurers | the Wonch]]. Update when pl
 | [[House Goela | House Goela]] | Neutral | [[:seer-demeletas | Demeletas]] offered cryptic bone-readings, not hostility. Goela's Mabon-paranoia not yet linked to the Wonch. |
 | [[Anathemists | Anathemists]] | Hostile | Active enemy. Lieutenant in custody; [[:commander-wake | Wake]] at large. Wonch closing on gunpowder trail and [[:arouraios | Arouraios]] / [[:chuggaz | Chuggaz]] links. |
 | [[The Black Cats | The Black Cats]] | Wary | **Vault** sees unpredictable outsiders muscling into Wallarch and the Fulcrum service layer. Prefer misdirection over open war unless cornered. |
+| [[The City Cats | The City Cats]] | Favourable | [[:amanira | Amanira]] as **Walks-Among-Us**; [[:pads-silently | Pads-Silently]] sought aid at [[Radwasp House | Radwasp House]] (Session 10). Feral network shares street gossip when asked — not formal allies. |
 | [[The Vermillion Company | The Vermillion Company]] | Neutral | No contact since [[:lacerta-kirrahe | Kirrahe]]'s death. Locke wants the killer; party has not engaged the company. |
 <!-- GM_INFO_END -->

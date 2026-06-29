@@ -10,7 +10,8 @@ op_created_at: '2026-06-28T00:10:19Z'
 op_updated_at: '2026-06-28T00:10:19Z'
 op_gm_only: false
 is_player_character: false
-tags: []
+tags:
+- he/him
 ---
 
 <!-- OP_DESCRIPTION -->

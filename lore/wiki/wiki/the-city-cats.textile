@@ -1,0 +1,36 @@
+---
+op_id: a3f8c2d91e4b4a6f9c0d1e2f3a4b5c6d
+op_slug: the-city-cats
+op_kind: Wiki
+op_type: WikiPage
+name: The City Cats
+title: The City Cats
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-city-cats
+op_created_at: '2026-06-26T12:00:00Z'
+op_updated_at: '2026-06-26T12:00:00Z'
+op_gm_only: false
+tags:
+- Organisation
+---
+
+The informal network of actual felines living in [[Sindrel | Sindrel]] — not to be confused with [[The Black Cats | the Black Cats]] crime syndicate.
+
+[[:amanira | Amanira]] can reach them in wild shape; [[:rossin-ros-greyhirst | Ros]] and others with _Speak with Animals_ can do the same. Known contacts include [[:pads-silently | Pads-Silently]] and [[:hunts-by-night | Hunts-By-Night]].
+
+
+
+<!-- GM_INFO_START -->
+h3. Relation to [[The Black Cats | the Black Cats]]
+
+Unrelated organisations. [[The Black Cats | Black Cats]] are human criminals; City Cats are street cats with their own gossip, routes, and hierarchies. The syndicate has never tried to recruit them.
+
+h3. Faction clock notes
+
+Through Session 11 (31st Enean 4218 SC): **Favourable** toward [[The Adventurers | the Wonch]].
+
+* [[:amanira | Amanira]] befriended the local feline populace in cat form early in the campaign and learned routes into the [[House Grimbolg | Amalthean]].
+* The network knows [[:amanira | Amanira]] as **Walks-Among-Us** and treats her companions as extensions of that trust.
+* [[:pads-silently | Pads-Silently]] sought the party at [[Radwasp House | Radwasp House]] (Session 10) to warn of [[:tama | the giant stoat]] and ask for aid against a predator scenting the rooftops.
+
+They share street intelligence when asked, not formal allegiance. Opinion drops if the party ignores cat warnings or treats ferals as disposable.
+<!-- GM_INFO_END -->

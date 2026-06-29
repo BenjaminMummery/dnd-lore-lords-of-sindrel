@@ -11,6 +11,7 @@ op_updated_at: '2026-01-15T11:43:14Z'
 op_gm_only: true
 is_player_character: false
 tags:
+- he/him
 - character backstory
 ---
 

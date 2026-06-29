@@ -13,6 +13,7 @@ is_player_character: false
 tags:
 - Lord of Sindrel
 - House Grimbolg
+- he/him
 ---
 
 <!-- OP_DESCRIPTION -->

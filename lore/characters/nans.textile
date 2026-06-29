@@ -13,6 +13,7 @@ is_player_character: false
 tags:
 - House Beltus
 - Adjutant
+- she/her
 ---
 
 <!-- OP_DESCRIPTION -->

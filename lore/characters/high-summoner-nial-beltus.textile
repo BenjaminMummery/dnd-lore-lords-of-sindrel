@@ -13,6 +13,7 @@ is_player_character: false
 tags:
 - House Beltus
 - Lord of Sindrel
+- he/him
 ---
 
 <!-- OP_DESCRIPTION -->

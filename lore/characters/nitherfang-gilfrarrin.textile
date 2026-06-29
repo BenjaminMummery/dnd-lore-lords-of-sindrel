@@ -12,9 +12,11 @@ op_gm_only: true
 is_player_character: false
 tags:
 - character backstory
+- he/him
 ---
 
 <!-- OP_DESCRIPTION -->
 
 
 <!-- OP_BIO -->
+The Necromancer responsible for DW's condition.

@@ -181,9 +181,14 @@ When a **new adventure log** is added or a session recap is substantially update
 - End with a teaser or cliffhanger pointing at imminent consequences (next session hook).
 - Update the italic session line under the heading (e.g. `_Through Session N (date SC)._`). Do **not** use HTML comments — they render visibly on Obsidian Portal.
 
-## Faction clocks & party wealth (The Adventurers)
+## Campaign status, faction clocks & party wealth (The Adventurers)
 
 When a **new adventure log** is added or a session recap is substantially updated, refresh on `lore/wiki/wiki/the-adventurers.textile`:
+
+**Campaign status** (player-facing main body):
+- Set **Current date** and **As of session** to in-game calendar and latest log number.
+- Update **Days remaining in Sindrel** (~N days under the h4 heading) when time passes in play; keep the italic session line in sync.
+- These fields feed **`notes/lore-dashboard.html`** via `scripts/generate_lore_dashboard.py` (also run by pre-commit on commit).
 
 **Faction clocks** (GM-only block):
 - Track each Great House's **opinion** of the Wonch in plain language (e.g. Hostile, Wary, Cool, Neutral, Favourable).
@@ -213,6 +218,6 @@ When preparing a push, or after accumulating a significant batch of lore edits, 
 - **`op_updated_at` on merge** — after pull/stash/merge, ensure no touched file regressed to a lower timestamp; keep max(local, incoming).
 - **Line endings** — scan staged `.textile` for CRLF-only churn; normalize to LF before push if working tree shows phantom edits on OP-pulled files.
 - **Story so far** — if adventure logs changed, check whether `home-page.textile` **Story so far** needs updating (see above).
-- **Faction clocks & party wealth** — if adventure logs changed, check whether `the-adventurers.textile` needs updating (see above).
+- **Campaign status, faction clocks & party wealth** — if adventure logs changed, check whether `the-adventurers.textile` needs updating: current date, days remaining, faction clocks, wealth (see above). Commit regenerates `notes/lore-dashboard.html` via pre-commit.
 - **Player secrets** — never add `OP_PLAYER_SECRETS` markers to bio; they publish visibly. Use OP Player Secrets UI + optional `GM_INFO` mirror in repo.
 - **GM notes** — active todos live in `notes/todo.md` (e.g. OP Custom CSS, NPC statblocks); check when resuming work.

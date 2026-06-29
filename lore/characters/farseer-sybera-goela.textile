@@ -13,6 +13,7 @@ is_player_character: false
 tags:
 - Lord of Sindrel
 - House Goela
+- she/her
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7441129/pythia.jpg
 ---
 

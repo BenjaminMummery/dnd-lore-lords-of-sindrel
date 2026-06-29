@@ -323,6 +323,6 @@ If party interviews **Nans then Chuggaz**, they can reasonably conclude:
 When log is written:
 
 - Update `home-page.textile` Story so far
-- Update `the-adventurers.textile` timeline, wealth, faction clocks
+- Update `the-adventurers.textile`: **current date**, **days remaining in Sindrel**, timeline, wealth, faction clocks (feeds `notes/lore-dashboard.html` on commit)
 - Consider whether **Kosmios** gets a player-safe wiki stub or stays unknown word only
 - Alruna / Silas `OP_DESCRIPTION` if they got screen time
