@@ -35,7 +35,7 @@ Even less well known still, in fact potentially unknown to anyone in [[Sindrel |
 
 h4. Halls of History
 
-Deeper still lie thematic galleries devoted to historical events. The party encountered one such chamber during their exploration — a colossal diorama of the [[World History | Seven Day War]]:
+Deeper still lie thematic galleries devoted to historical events. The party encountered one such chamber during their exploration - a colossal diorama of the [[World History | Seven Day War]]:
 
 bq). The passageway opens into an enormous space - the walls and ceiling almost lost in the haze of distance. The floor rises and falls in a stone simulacrum of rolling hills, you can even see the glint of the meagre light reflecting from the waves of what appears to be a river. You realise that you are surrounded by a motionless army of armed and armoured skeletons. Or rather, as you look closer, two armies frozen in the throws of a colossal conflict. A macabre diorama whose grandiose effect is spoiled only slightly by the fact that many of the skeletons are missing parts - the floor is littered with teeth and fingerbones that, presumably, were once part of the display. A clear path demarcated by bands of silver laid into the dark stone of the floor, wends its way between the posed skeletons.
 
@@ -105,20 +105,20 @@ Possible caretaker behaviours:
 * attempting to return [[:ayr | Ayr]]'s buckler, [[:pin | Pin]]'s sword, or [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s head to "the relevant collection";
 * referring to the [[The Fall of the Eighth House | Fall of the Eighth House]] as a temporary interruption in staffing.
 
-h4. [[:pin | Pin]]'s sword — *Hall of the First Watch*
+h4. [[:pin | Pin]]'s sword - *Hall of the First Watch*
 
-[[:pin | Pin]] carries a Meness adjutant sidearm catalogued roughly **a thousand years ago** for the *Hall of the First Watch* — founding-era officers and garrison dead whose witness testimony the Archives once preserved alongside their arms. The blade's accession chit was never closed; caretakers treat it as **overdue**.
+[[:pin | Pin]] carries a Meness adjutant sidearm catalogued roughly **a thousand years ago** for the *Hall of the First Watch* - founding-era officers and garrison dead whose witness testimony the Archives once preserved alongside their arms. The blade's accession chit was never closed; caretakers treat it as **overdue**.
 
 * **Recognition:** Meness knotwork on the guard (worn); catalogue notch on the pommel (easy to miss). A caretaker asks for **return chit 1-W/0412** or the name of the lending officer.
-* **Behaviour:** Prefer negotiation — "This item belongs on display 1-W, bay 7." May follow Pin at a distance until he enters an archive branch, then insist. Will not grab it in a Meness precinct without causing a scene.
+* **Behaviour:** Prefer negotiation - "This item belongs on display 1-W, bay 7." May follow Pin at a distance until he enters an archive branch, then insist. Will not grab it in a Meness precinct without causing a scene.
 * **Not the Fallowhurst sigil:** If the party mentions sigils, caretakers distinguish **binding circles** (college sorcery) from **witness-weapon inscriptions** (Meness abjuration). Pin's shop hunt in Session 4 was about [[The Fallowhurst Sigil | Fallowhurst]], not this blade.
-* **Repowering hook:** Caretakers know the **original shelf blessing** required to wake the enchantment; they will not teach it until the sword is back on the rack — unless bargained (catalogue favour, new witness for First Watch, etc.).
+* **Repowering hook:** Caretakers know the **original shelf blessing** required to wake the enchantment; they will not teach it until the sword is back on the rack - unless bargained (catalogue favour, new witness for First Watch, etc.).
 
 h3. Catacomb Exploration
 
 h4. [[:celebrant-alruna | Celebrant Alruna]]
 
-* The archives are not security-conscious — little worth stealing, bones magically protected.
+* The archives are not security-conscious - little worth stealing, bones magically protected.
 * Gaps exist where people could come and go unnoticed, especially after dark.
 * If prompted, she recalls odd noises and a sense of being watched, but puts little stock in it.
 * Deeper catacombs are mapped near the surface; further in, people get lost. She dismisses rumours of shifting passageways.
@@ -127,7 +127,7 @@ h4. [[:celebrant-alruna | Celebrant Alruna]]
 h4. Navigation
 
 * Outward paths eventually curve back toward the centre unless the party tracks direction deliberately.
-* The further outward they travel, the less structured the tunnels become — magically shaped stone gives way to natural formations. Smaller alcoves hold the skulls of rats and moles.
+* The further outward they travel, the less structured the tunnels become - magically shaped stone gives way to natural formations. Smaller alcoves hold the skulls of rats and moles.
 * Necromantic radiation pushes the catacomb pattern outward; sporadic surface openings appear unpredictably in the surrounding landscape (how [[:tama | Tama]] entered). The [[Anathemists | Anathemists]] never found these.
 * [[:tama | Tama]] entered via a distant surface opening and can lead toward an intermittent exit near [[Fallowhurst | Fallowhurst]].
 * Necromantic radiation strengthens inward; Constitution saves per room (half damage on success, escalating).
@@ -136,8 +136,8 @@ h4. Navigation
 
 h4. Outward Hazards
 
-* *Areas of disrepair* — tree roots breaking through from above, threatening to choke passageways.
-* *Flooded sections* — standing water blocks routes until drained or bypassed.
+* *Areas of disrepair* - tree roots breaking through from above, threatening to choke passageways.
+* *Flooded sections* - standing water blocks routes until drained or bypassed.
 
 h4. [[:embren-oestra | The Plague Doctor]]
 
@@ -149,9 +149,9 @@ See [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]] (GM sectio
 
 h4. Unvisited Halls
 
-* *Hall of Sages* — skeleton experts; lecterns yield broken words only.
-* *Hall of Dragons* — colossal black dragon suspended; miniature dragon nesting in its skull.
-* *Hall of Aberrations* — illithid, otyugh, slaad, beholder (see [[Session 7: Into The Catacombs | Session 7]] for the party's encounter with [[:zalatan | Zalatan]]).
+* *Hall of Sages* - skeleton experts; lecterns yield broken words only.
+* *Hall of Dragons* - colossal black dragon suspended; miniature dragon nesting in its skull.
+* *Hall of Aberrations* - illithid, otyugh, slaad, beholder (see [[Session 7: Into The Catacombs | Session 7]] for the party's encounter with [[:zalatan | Zalatan]]).
 
 h3. Unvisited Exhibits
 
@@ -159,15 +159,15 @@ The deeper catacombs contain further historical dioramas the party has not yet r
 
 h4. Deeper into the seven-day war exhibit
 
-The display recreates the Battle of the Planes of Herrman, roughly 250 years ago. The room is laid out as a *reverse timeline* — the party enter where the [[The Thaumocracy of Tellerin | Tellerite]] forces are fighting a desperate rearguard action. Passing through, they read the battle backwards: Tellerite reinforcements arriving too late; the [[The Magedom of Houd | Houd]] defenders defeating the Tellerite expeditionary force; and finally, near the exit, the Battle of Brassmeade Bridge recreated in propagandistic grandeur.
+The display recreates the Battle of the Planes of Herrman, roughly 250 years ago. The room is laid out as a *reverse timeline* - the party enter where the [[The Thaumocracy of Tellerin | Tellerite]] forces are fighting a desperate rearguard action. Passing through, they read the battle backwards: Tellerite reinforcements arriving too late; the [[The Magedom of Houd | Houd]] defenders defeating the Tellerite expeditionary force; and finally, near the exit, the Battle of Brassmeade Bridge recreated in propagandistic grandeur.
 
-Some skeletons along the silver path bear symbols inlaid in their skulls. Touching one brings an eerie light to empty eye sockets and broken fragments of speech from the battle — Tellerite cries to retreat, Houd soldiers calling for ranks against late reinforcements.
+Some skeletons along the silver path bear symbols inlaid in their skulls. Touching one brings an eerie light to empty eye sockets and broken fragments of speech from the battle - Tellerite cries to retreat, Houd soldiers calling for ranks against late reinforcements.
 
 h5. The Battle of Brassmeade Bridge
 
 bq). The uneven floor is rent by a semicircular chasm that arcs outwards from the wall. On the other side you can see the exit - a doorway identical to the one through which you entered, surrounded by thronged skeletons (in Tellerite armour). Spanning the chasm is a narrow bridge, apparently made of brass, atop which stands the skeleton of a giant. A club the size of a carthorse is clasped in the colossus's hand, and it is posed with its back to you as if denying the crowded skeleton passage across the bridge.
 
-There is room to cross between the giant's legs. Using the bridge destabilises the skeleton and causes the club to fall — require a saving throw.
+There is room to cross between the giant's legs. Using the bridge destabilises the skeleton and causes the club to fall - require a saving throw.
 
 h4. The Hall of the First Watch
 
@@ -180,7 +180,7 @@ h4. The Founding of [[The Magedom of Houd | the Magedom of Houd]]
 
 bq). The floor beneath you is carved into a relief map of northern [[Artresh | Artresh]]. It is a patchwork of various stones and metals, as if assembled from some colossal jigsaw of mismatched construction. It is positioned so that [[Soulwind | Soulwind]] would stand at the exact centre of the room, but in its place is a raised dias with a tableau - a score of statues each made of a different material stand around a table. On the opposite side of the room behind a waist-high reproduction of the [[Arkay Mountain Range | Arkay Mountains]] you can see an elaborate golden arch, its decorative ornamentation forming the silhouette of the city of [[Sindrel | Sindrel]].
 
-The tableau depicts the founding of the [[The Magedom of Houd | Magedom of Houd]]. The different materials represent the various kingdoms that united — history rolls to recognise their old borders. The kingdoms were:
+The tableau depicts the founding of the [[The Magedom of Houd | Magedom of Houd]]. The different materials represent the various kingdoms that united - history rolls to recognise their old borders. The kingdoms were:
 * *Andromus*
 * Antlia
 * Apus

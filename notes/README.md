@@ -2,7 +2,7 @@
 
 Files in this folder are **not** published to Obsidian Portal. The lore bridge only syncs `lore/**/*.textile` and `metadata/sync-state.json`.
 
-- **`todo.md`** — active GM todos and scratch notes
-- **`session-12-plan.md`** — next session planning (Silas / persecution / investigation branches)
-- **`character-descriptions-todo.md`** — shelved description checklist
-- **`obsidian-portal/`** — local backup of OP Custom CSS and character index layout
+- **`todo.md`** - active GM todos and scratch notes
+- **`session-12-plan.md`** - next session planning (Silas / persecution / investigation branches)
+- **`character-descriptions-todo.md`** - shelved description checklist
+- **`obsidian-portal/`** - local backup of OP Custom CSS and character index layout

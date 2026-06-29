@@ -60,7 +60,7 @@ Pterath survived the poisoning, but has been unwilling to attempt any further ac
 h3. Overview
 
 * Architecture reference: Greek
-* Philosophy: Wisdom — The world cannot be mastered by strength alone; understanding must guide action.
+* Philosophy: Wisdom - The world cannot be mastered by strength alone; understanding must guide action.
 
 h3. Leadership
 

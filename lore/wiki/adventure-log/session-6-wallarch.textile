@@ -37,7 +37,7 @@ h3. Dramatis Personae
             * [[:razorbeak | Chicken]] - a [[:razorbeak | chicken]].
             * [[:hunts-by-night | Cat]] - a cat.
             * Various mourners
-            * A [[:celebrant-alruna | celebrant]], [[:seelie-ophelan | Seelie Ophelan]], and [[:temperance-halke | Temperance Halke]] — staff of the [[Osteomantic Archives | Osteomantic Archives]]
+            * A [[:celebrant-alruna | celebrant]], [[:seelie-ophelan | Seelie Ophelan]], and [[:temperance-halke | Temperance Halke]] - staff of the [[Osteomantic Archives | Osteomantic Archives]]
         [end-content]
     [end-accordion-item]
 
@@ -69,7 +69,7 @@ bq). It takes a moment for your eyes to adjust to the gloom. As they do, you fin
 
 The archives turned out to be in use - [[The Adventurers | the adventurers]] were witness to the funeral of [[:micycle-smynth | Micycle Smynth]] being presided over by a [[:celebrant-alruna | celebrant]]. While [[:nakoma-deathwalker-mor-got-ha | DW]] and [[:amanira | Amanira]] (still in rat form) investigated a side room, the rest of [[The Adventurers | the Wonch]] observed the funeral while creating the barest minimum of disruption.
 
-Examining the room, [[:rossin-ros-greyhirst | Ros]] noted that the dates on the populated alcoves indicated that the rate at which people had been interred here had been decreasing. She also spotted [[:seelie-ophelan | Two]] [[:temperance-halke | figures]] in dark archive robes — clearly not part of the mourners.
+Examining the room, [[:rossin-ros-greyhirst | Ros]] noted that the dates on the populated alcoves indicated that the rate at which people had been interred here had been decreasing. She also spotted [[:seelie-ophelan | Two]] [[:temperance-halke | figures]] in dark archive robes - clearly not part of the mourners.
 
 The central alter was inscribed with an eight pointed star surrounding the symbol from the doorway. This closely resembles the [[The Fallowhurst Sigil | Fallowhurst Sigil]], albeit significantly simpler. The operation of this sigil was demonstrated at the end of the funeral when it was used to summon a cold flame that stripped away the flesh of the late mr [[:micycle-smynth | Smynth]] leaving a polished skeleton in its wake.
 

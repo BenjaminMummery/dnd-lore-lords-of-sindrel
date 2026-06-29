@@ -25,7 +25,7 @@ Present at the funeral of [[:micycle-smynth | Micycle Smynth]], presided over by
 <!-- GM_INFO_START -->
 Full name: Seelie Ophelan
 
-Suggested house affiliation (index when revealed): [[House Goela | House Goela]]. Junior curator attached to [[:celebrant-alruna | Alruna]] — rites, vestments, and the liturgical side of interment. The archives are house-independent on paper; Ophelan was seconded from Goela's bridge archive as part of a long-standing exchange. Her given name is family tradition, not fey heritage.
+Suggested house affiliation (index when revealed): [[House Goela | House Goela]]. Junior curator attached to [[:celebrant-alruna | Alruna]] - rites, vestments, and the liturgical side of interment. The archives are house-independent on paper; Ophelan was seconded from Goela's bridge archive as part of a long-standing exchange. Her given name is family tradition, not fey heritage.
 
 Works alongside [[:temperance-halke | Temperance Halke]], who handles physical cataloguing and bone-work.
 <!-- GM_INFO_END -->

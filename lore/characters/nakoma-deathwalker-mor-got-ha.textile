@@ -21,7 +21,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457474/572fdc897647939e
 
 
 <!-- GM_INFO_START -->
-**Player secret (OP Player Secrets UI only — do not put in bio; not API-synced):**
+**Player secret (OP Player Secrets UI only - do not put in bio; not API-synced):**
 
 h3. [[The Fallowhurst Sigil | The Fallowhurst Sigil]]
 

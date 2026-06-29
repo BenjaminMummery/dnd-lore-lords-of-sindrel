@@ -12,4 +12,4 @@ op_gm_only: false
 tags: []
 ---
 
-Any person who is a full member of a Great House of [[Sindrel | Sindrel]]. Factors bear an enchanted tattoo of their house sigil — typically on the hand or forearm — in place of an [[Adjutant | Adjutant]]'s gold bracelet.
+Any person who is a full member of a Great House of [[Sindrel | Sindrel]]. Factors bear an enchanted tattoo of their house sigil - typically on the hand or forearm - in place of an [[Adjutant | Adjutant]]'s gold bracelet.

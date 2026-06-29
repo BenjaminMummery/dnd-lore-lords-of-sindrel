@@ -1,15 +1,15 @@
 # Character descriptions (shelved)
 
-Full checklist for `OP_DESCRIPTION` work. **Paused** — see `todo.md` for active items.
+Full checklist for `OP_DESCRIPTION` work. **Paused** - see `todo.md` for active items.
 
 ## Conventions (agreed)
 
-- **Non-PCs:** read-aloud prose — *"You see…"* for first meeting at the table.
+- **Non-PCs:** read-aloud prose - *"You see…"* for first meeting at the table.
 - **Current appearance**, not founder statuary or civic artwork (players may meet lords before immortality is known).
 - **PCs:** portrait-based or player-provided; not necessarily read-aloud style.
-- **Player secrets:** OP Player Secrets UI only — never in bio with comment markers.
+- **Player secrets:** OP Player Secrets UI only - never in bio with comment markers.
 
-## Done (Phase 1 — has description)
+## Done (Phase 1 - has description)
 
 - [x] lord-ablas-oestra
 - [x] general-alicia-meness
@@ -19,15 +19,15 @@ Full checklist for `OP_DESCRIPTION` work. **Paused** — see `todo.md` for activ
 - [x] arouraios
 - [x] zalatan
 - [x] tama
-- [x] amanira, ayr, pin, rossin-ros-greyhirst, silrie-aegiskiir, wilrin-racenglade (PC — avatar-based)
+- [x] amanira, ayr, pin, rossin-ros-greyhirst, silrie-aegiskiir, wilrin-racenglade (PC - avatar-based)
 
-## Priority 1 — Lords / founders (empty)
+## Priority 1 - Lords / founders (empty)
 
 - [ ] **high-summoner-nial-beltus** (GM-only)
 - [ ] **hytham-grimbolg** (GM-only)
 - [ ] **ambassador-thrawne-lithra** (GM-only)
 
-## Priority 2 — Empty `OP_DESCRIPTION`
+## Priority 2 - Empty `OP_DESCRIPTION`
 
 ### Investigation / Anathemists / Sindrel plot
 
@@ -61,7 +61,7 @@ Full checklist for `OP_DESCRIPTION` work. **Paused** — see `todo.md` for activ
 - [ ] bramble-ravenglade (GM-only)
 - [ ] willow-ravenglade (GM-only)
 
-## Priority 3 — Minimal one-liner only
+## Priority 3 - Minimal one-liner only
 
 - [ ] cedric
 - [ ] chuggaz
@@ -71,6 +71,6 @@ Full checklist for `OP_DESCRIPTION` work. **Paused** — see `todo.md` for activ
 - [ ] raymond-quill
 - [ ] pads-silently
 
-## PCs — optional pass
+## PCs - optional pass
 
-- [ ] **nakoma-deathwalker-mor-got-ha** — empty; redo read-aloud or avatar-based?
+- [ ] **nakoma-deathwalker-mor-got-ha** - empty; redo read-aloud or avatar-based?

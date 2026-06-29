@@ -15,7 +15,7 @@ tags:
 - Sindrel
 ---
 
-Dockward is a mile-wide floating ring suspended around the upper reaches of [[The Fulcrum | the Fulcrum]] like a colossal halo — [[Sindrel | Sindrel's]] principal airship port and one of the busiest districts in the city. Colloquially it is called _the annulus_, after the shape it cuts against the sky.
+Dockward is a mile-wide floating ring suspended around the upper reaches of [[The Fulcrum | the Fulcrum]] like a colossal halo - [[Sindrel | Sindrel's]] principal airship port and one of the busiest districts in the city. Colloquially it is called _the annulus_, after the shape it cuts against the sky.
 
 Airship docks, cargo cranes, customs offices, workshops, and merchant exchanges stud the ring. Goods from across [[Artresh | Artresh]] arrive and depart through Dockward each day, making it one of the most cosmopolitan places on the continent. To stand upon the ring and watch the endless procession of airships is to understand why [[Sindrel | Sindrel]] remains the centre of a fading magical age.
 

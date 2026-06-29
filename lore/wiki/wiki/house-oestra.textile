@@ -91,7 +91,7 @@ The public interpretation remains uncertain. The attack may have been aimed at t
 h3. Overview
 
 Architecture reference: Roman
-Philosophy: Duty — Civilization survives because individuals accept responsibility for protecting something greater than themselves.
+Philosophy: Duty - Civilization survives because individuals accept responsibility for protecting something greater than themselves.
 
 h3. History
 

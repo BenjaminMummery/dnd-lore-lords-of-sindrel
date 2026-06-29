@@ -47,7 +47,7 @@ More modern Grimbolg architecture still carries that inheritance, but the pressu
 
 h3. Headquarters
 
-In theory, House Grimbolg is a decentralised structure with each of the major production hubs acting as their own HQ. In practice, **the Amalthean** — colloquially **the Cornucopia** — is where most people think of as their seat of power. The Amalthean is the centre of food and water production; its position on the ground tier of [[Sindrel | Sindrel]] and easy availability of refreshments make it the natural place to host visitors.
+In theory, House Grimbolg is a decentralised structure with each of the major production hubs acting as their own HQ. In practice, **the Amalthean** - colloquially **the Cornucopia** - is where most people think of as their seat of power. The Amalthean is the centre of food and water production; its position on the ground tier of [[Sindrel | Sindrel]] and easy availability of refreshments make it the natural place to host visitors.
 
 bq). On the opposite side of the city to Wallarch, as if to form some sort of economic balance, stands the Amalthean. Most Sindrelians call it the Cornucopia. The transmuters of House Grimbolg produce water, basic foodstuffs, raw elements, specialist alloys, and a variety of materials whose names require several years of education and at least one unfortunate laboratory incident to pronounce correctly. Every loaf, ingot, bucket, beam, nail, nugget, and occasionally alarming new substance in [[Sindrel | Sindrel]] ultimately begins its life here.
 <br>
@@ -71,7 +71,7 @@ House Grimbolg, particularly [[:navinea-senetera | Navinea Senetera]] are neutra
 h3. Overview
 
 * Architecture reference: Celtic
-* Philosophy: Growth — Life flourishes through cultivation, stewardship, and abundance. Prosperity is something that must be nurtured.
+* Philosophy: Growth - Life flourishes through cultivation, stewardship, and abundance. Prosperity is something that must be nurtured.
 
 Lately the house has been meeting an increased demand for other raw materials as the [[Kosmios | Kosmios]] project shifts from extractive to settler colonialism, making up the shortfall as the colonies and military ramp up consumption.
 

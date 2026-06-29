@@ -15,7 +15,7 @@ tags:
 ---
 
 <!-- OP_DESCRIPTION -->
-You see a man with dark hair, a neatly trimmed beard, and small, fussy glasses. His hands are soft, with ink stains at the fingers — educated, not physically imposing, but watchful with an air of slippery situational awareness.
+You see a man with dark hair, a neatly trimmed beard, and small, fussy glasses. His hands are soft, with ink stains at the fingers - educated, not physically imposing, but watchful with an air of slippery situational awareness.
 
 <!-- OP_BIO -->
 On the night of the [[Ditchquer | Ditchquer]] closing ceremony attack, he was observed emerging from the tunnels below [[The Fulcrum | The Fulcrum]] and getting into a coach that had been parked next to the exit.

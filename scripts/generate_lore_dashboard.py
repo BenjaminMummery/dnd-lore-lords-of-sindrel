@@ -414,7 +414,7 @@ def parse_adventurers() -> dict:
     text = ADVENTURERS.read_text(encoding="utf-8")
     wealth_level = 3
     wealth_name = "Comfortable"
-    m = re.search(r"Wealth level:.*?>\s*(\d+)\s*—\s*([^<]+)<", text, re.I)
+    m = re.search(r"Wealth level:.*?>\s*(\d+)\s*-\s*([^<]+)<", text, re.I)
     if m:
         wealth_level = int(m.group(1))
         wealth_name = m.group(2).strip()
@@ -631,14 +631,14 @@ def markdown_summary(
     lines.extend([
         "## NPC gender (tagged persons only)",
         "",
-        f"- he/him: {male} ({pct(male, tagged)}) — target 45%",
-        f"- she/her: {female} ({pct(female, tagged)}) — target 45%",
-        f"- non-binary: {nb} ({pct(nb, tagged)}) — target 10%",
+        f"- he/him: {male} ({pct(male, tagged)}) - target 45%",
+        f"- she/her: {female} ({pct(female, tagged)}) - target 45%",
+        f"- non-binary: {nb} ({pct(nb, tagged)}) - target 10%",
         f"- Untagged: {len(gender['untagged'])}",
         "",
         "## Party wealth",
         "",
-        f"- Level {wl} — {wn}",
+        f"- Level {wl} - {wn}",
         "",
     ])
     if stay.get("days") is not None:
@@ -671,7 +671,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Lords of Sindrel — Lore dashboard</title>
+  <title>Lords of Sindrel - Lore dashboard</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -1165,7 +1165,7 @@ def wealth_block(wealth: dict) -> str:
     s = wealth["style"]
     badge = (
         f'<div class="wealth-badge" style="background:{s["bg"]};color:{s["fg"]}">'
-        f'{wealth["level"]} — {html.escape(wealth["name"])}</div>'
+        f'{wealth["level"]} - {html.escape(wealth["name"])}</div>'
     )
     pending = ""
     if wealth.get("pending"):

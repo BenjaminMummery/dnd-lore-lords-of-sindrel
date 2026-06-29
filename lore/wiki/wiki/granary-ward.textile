@@ -15,8 +15,8 @@ tags:
 - district
 ---
 
-Officially known as Granary Ward and colloquially referred to simply as "the Cornucopia," this district is centred on **the Amalthean** — the formal name of [[House Grimbolg | House Grimbolg]]'s headquarters. Food, fuel, construction materials, and countless other necessities pass through its warehouses and depots before being distributed throughout the city. Though less glamorous than [[Dockward | Dockward]] or [[Merrylane | Merrylane]], few districts are more important to [[Sindrel | Sindrel]]'s continued survival. The district's rhythms are dictated by deliveries, inventories, and harvests, and its people possess a quiet confidence born from knowing that the rest of the city depends upon them.
+Officially known as Granary Ward and colloquially referred to simply as "the Cornucopia," this district is centred on **the Amalthean** - the formal name of [[House Grimbolg | House Grimbolg]]'s headquarters. Food, fuel, construction materials, and countless other necessities pass through its warehouses and depots before being distributed throughout the city. Though less glamorous than [[Dockward | Dockward]] or [[Merrylane | Merrylane]], few districts are more important to [[Sindrel | Sindrel]]'s continued survival. The district's rhythms are dictated by deliveries, inventories, and harvests, and its people possess a quiet confidence born from knowing that the rest of the city depends upon them.
 
 h3. Locations
 
-* The Amalthean (colloquially the [[House Grimbolg | Cornucopia]]) — headquarters of [[House Grimbolg | House Grimbolg]]
+* The Amalthean (colloquially the [[House Grimbolg | Cornucopia]]) - headquarters of [[House Grimbolg | House Grimbolg]]

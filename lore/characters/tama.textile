@@ -16,7 +16,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7450703/5dcdcfed3c88af8e
 ---
 
 <!-- OP_DESCRIPTION -->
-A stoat the size of a large dog — long-bodied, russet-and-cream fur, bright predatory eyes — watching you with the frank interest of something that has not yet entirely decided whether you are food, furniture, or friend.
+A stoat the size of a large dog - long-bodied, russet-and-cream fur, bright predatory eyes - watching you with the frank interest of something that has not yet entirely decided whether you are food, furniture, or friend.
 
 <!-- OP_BIO -->
 Tama was first encountered by the [[The Adventurers | Neighbourhood Wonch]] in the orchard of [[Fallowhurst College | Fallowhurst College]].

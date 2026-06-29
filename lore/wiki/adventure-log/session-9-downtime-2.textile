@@ -70,7 +70,7 @@ _Evening of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 Locke seemed perturbed both at the apparently unknown breach in Oestran security, and that they had not followed his suggestion to investigate local weaponsmiths. The [[The Adventurers | Wonch]], apparently enamoured of a bit of karmic justice, took that as their cue to bully Locke into permitting them to conduct a stock-take of [[House Oestra | House Oestra]]'s armouries. Nothing appeared amiss.
 
-Locke directed them to their new base of operations: [[Radwasp House | Radwasp House]], a [[House Lithra | Lithra]] townhouse in upper [[Sindrel | Sindrel]] set aside for [[Hexine Circle | Hexine Circle]] investigators — more rooms than strictly necessary, and a butler named [[:cedric | Cedric]] who received their arrival with the calm of a man who had seen worse. Locke had been tasked to pass on the keys; the lodging itself was the Circle's arrangement, not Oestra's hospitality.
+Locke directed them to their new base of operations: [[Radwasp House | Radwasp House]], a [[House Lithra | Lithra]] townhouse in upper [[Sindrel | Sindrel]] set aside for [[Hexine Circle | Hexine Circle]] investigators - more rooms than strictly necessary, and a butler named [[:cedric | Cedric]] who received their arrival with the calm of a man who had seen worse. Locke had been tasked to pass on the keys; the lodging itself was the Circle's arrangement, not Oestra's hospitality.
 
 h3. Downtime
 
@@ -80,7 +80,7 @@ After a much-needed rest, the party scattered across the city for a quieter day 
 
 h4. [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]]
 
-Ros sought materials for a new weapon — some manner of chain-and-spearhead contraption she hoped [[:journeyman-galoras | Journeyman Galoras]] might assemble. A letter arrived from [[:navinea-senetera | Navinea Senetera]]:
+Ros sought materials for a new weapon - some manner of chain-and-spearhead contraption she hoped [[:journeyman-galoras | Journeyman Galoras]] might assemble. A letter arrived from [[:navinea-senetera | Navinea Senetera]]:
 
 bq). Dear Rossin Greyhirst,
 <br>
@@ -105,7 +105,7 @@ The pair went clothes shopping. It was, by the standards of their recent adventu
 
 h4. [[:ayr | Ayr]]
 
-Always hunting for better gear, [[:ayr | Ayr]] met [[:kelferria-the-smith | Kelferria the Smith]] to discuss commissioning plate armour. She took his measurements and said she would send a formal quote in due course — she was already overworked by some large order, which is a detail worth remembering. No money changed hands; the Wonch have not yet decided whether to accept whatever she proposes.
+Always hunting for better gear, [[:ayr | Ayr]] met [[:kelferria-the-smith | Kelferria the Smith]] to discuss commissioning plate armour. She took his measurements and said she would send a formal quote in due course - she was already overworked by some large order, which is a detail worth remembering. No money changed hands; the Wonch have not yet decided whether to accept whatever she proposes.
 
 [[:journeyman-galoras | Journeyman Galoras]] called at [[Radwasp House | Radwasp House]] to deliver [[:ayr | Ayr]]'s new weapon: a force-multiplying sword that gathered a single charge each day and could, in principle, release considerably more power than any sane person ought to wield in a parlour.
 
@@ -127,12 +127,12 @@ Back at the townhouse, [[:cedric | Cedric]] had built a like-for-like miniature 
 
 A letter for [[:wilrin-racenglade | Wilrin]] announced provisional acceptance at [[The Heptade Academy | The Heptade Academy]], contingent on completion of the party's current investigation. Spurred by the news, Wilrin spent the evening in [[Radwasp House | Radwasp House]]'s magical training room practising control of the wild energies that coursed through him.
 
-[[:ayr | Ayr]] attempted to remove the buckler taken from the [[Shrine of the Queen of Ravens | shrine of the Queen of Ravens]] and found he could not. That night he dreamed of wings and rivers of blood running through the streets of the upper city — the vital fluids of the rich, pumping beneath pavements the poor were trodden into.
+[[:ayr | Ayr]] attempted to remove the buckler taken from the [[Shrine of the Queen of Ravens | shrine of the Queen of Ravens]] and found he could not. That night he dreamed of wings and rivers of blood running through the streets of the upper city - the vital fluids of the rich, pumping beneath pavements the poor were trodden into.
 
 [[:amanira | Amanira]], deep in meditation, was visited by a cat.
 
 <!-- GM_INFO_START -->
-* One book [[:amanira | Amanira]] found has a combination lock on the spine that does not appear to lock — very high Wisdom required to figure it out.
+* One book [[:amanira | Amanira]] found has a combination lock on the spine that does not appear to lock - very high Wisdom required to figure it out.
 * [[:navinea-senetera | Navinea]] is genuine about [[:rossin-ros-greyhirst | Ros]]'s invitation, but also using it to keep tabs on [[The Investigation | the investigation]].
 * [[Sindrel | Sindrel]]'s situation is more dire than the houses admit: [[House Grimbolg | Grimbolg]] struggling against entropy; garbage collection expanded and disorganised (the cats contribute); [[:dogara | D'gara]]'s sabotage ruined a large quantity of stored Nitre, worsening Grimbolg's food and preservation crisis.
 <!-- GM_INFO_END -->

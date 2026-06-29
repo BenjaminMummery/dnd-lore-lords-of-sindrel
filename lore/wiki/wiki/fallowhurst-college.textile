@@ -48,7 +48,7 @@ bq). Something has been growing in here. The window isn't just obscured by plant
 
 h3. Return Visits
 
-The party's first visit ([[Session 2: Fallowhurst | Session 2]]) covered the village, orchard, entrance hall, preparation room, lecture hall, and museum. They triggered the [[The Fallowhurst Sigil | binding sigil]] in the lecture hall and on Carlos Winterborn's body; chanting from the Operating Theatre (D) ended the session. Most of the college — the theatre itself, Embren's suite, and the upper floors — remains unexplored.
+The party's first visit ([[Session 2: Fallowhurst | Session 2]]) covered the village, orchard, entrance hall, preparation room, lecture hall, and museum. They triggered the [[The Fallowhurst Sigil | binding sigil]] in the lecture hall and on Carlos Winterborn's body; chanting from the Operating Theatre (D) ended the session. Most of the college - the theatre itself, Embren's suite, and the upper floors - remains unexplored.
 
 Likely return motives: seek out a source of necromantic power for the [[The Octarion Circle | Octarion Circle]]; lay [[:embren-oestra | the Plague Doctor]] to rest; undo the [[The Fallowhurst Sigil | Fallowhurst sigil]].
 
@@ -61,12 +61,12 @@ h4. What's Changed Since Session 2
 
 h4. [[:embren-oestra | Embren Oestra]] (X-factor)
 
-Do not assume Embren is on-site when the party arrives. Decide at the start of each visit — or when they re-enter the estate — whether he is here at all. He may be lost in the [[Osteomantic Archives | catacombs]], hunting the party elsewhere, or keeping to the village fringe. An absent Embren turns the college into a slow-burn dungeon (scholars, sigil echoes, fresh trails) rather than a scripted chase.
+Do not assume Embren is on-site when the party arrives. Decide at the start of each visit - or when they re-enter the estate - whether he is here at all. He may be lost in the [[Osteomantic Archives | catacombs]], hunting the party elsewhere, or keeping to the village fringe. An absent Embren turns the college into a slow-burn dungeon (scholars, sigil echoes, fresh trails) rather than a scripted chase.
 
 If he *is* present, pick a location and activity; he does not need to seek the party out immediately.
 
 | Roll | Location | Activity |
-| 1 | *Absent* | Catacombs or off-site — see [[Osteomantic Archives | Osteomantic Archives]] GM |
+| 1 | *Absent* | Catacombs or off-site - see [[Osteomantic Archives | Osteomantic Archives]] GM |
 | 2 | Village | Making rounds among empty houses; ignores hails |
 | 3 | Orchard / greenhouses | Tending [[Triffid | triffids]]; avoids [[:tama | Tama]] |
 | 4 | Operating Theatre (D) | Chanting at the bench; "lecturing" the skeleton audience |
@@ -77,19 +77,19 @@ When the party do encounter him: shallow phrases from his former life ("We'll ge
 
 h4. The Wandering Scholars
 
-The skeleton audience in the Operating Theatre are bound spirits of the college's scholars. They slumber until disturbed — movement, noise, or damage to anything they value (museum displays, lecture hall fixtures, binding marks). Observant characters may notice skulls turning to follow them or hear bone grinding before a full awakening. They are not uniformly hostile unless provoked; destroying exhibits or interrupting a binding turns them against intruders.
+The skeleton audience in the Operating Theatre are bound spirits of the college's scholars. They slumber until disturbed - movement, noise, or damage to anything they value (museum displays, lecture hall fixtures, binding marks). Observant characters may notice skulls turning to follow them or hear bone grinding before a full awakening. They are not uniformly hostile unless provoked; destroying exhibits or interrupting a binding turns them against intruders.
 
 h4. Escalation
 
 * *Quiet exploration:* scholars mostly slumber; the trail looks undisturbed.
-* *Sigil use or museum damage:* chanting from D, skeletons stir, trail freshens — good moment to roll Embren's presence.
+* *Sigil use or museum damage:* chanting from D, skeletons stir, trail freshens - good moment to roll Embren's presence.
 * *Operating Theatre entered:* full awakening likely unless the party has been exceptionally stealthy.
 
 h4. Complications
 
 * Healing potions may still be found in rooms the party has not searched.
 * [[:tama | Tama]] may aid or warn the party in the orchard if they are struggling or making too much noise.
-* Names on museum labels (e.g. Sir Cassia Drake) match plaques on private rooms — reward thorough cross-referencing.
+* Names on museum labels (e.g. Sir Cassia Drake) match plaques on private rooms - reward thorough cross-referencing.
 
 h4. The Orchard
 
@@ -98,13 +98,13 @@ Originally ornamental, later repurposed for medicinal herb beds. Dangers include
 h4. Items of Importance
 
 * [[:map-of-fallowhurst-college | Map of Fallowhurst College]]
-* [[:letter-from-lord-oestra-to-embren-oestra | Letter from Lord Oestra]] — Embren's Suite (X)
-* [[:notes-on-triffid-research | Notes on Triffid Research]] — Laboratory or Specimen Room
+* [[:letter-from-lord-oestra-to-embren-oestra | Letter from Lord Oestra]] - Embren's Suite (X)
+* [[:notes-on-triffid-research | Notes on Triffid Research]] - Laboratory or Specimen Room
 * [[:fallowhurst-college-master-key | Fallowhurst College Master Key]]
 
 h4. Museum (E)
 
-Rotten bodies arrayed as teaching failures. Labels grow shakier over time. Notable: _Subject 1: Carlos Winterborn_ — cervical fracture, "Partial Success" (the binding that created Embren). Early victims had life-threatening conditions; later victims were whoever was available.
+Rotten bodies arrayed as teaching failures. Labels grow shakier over time. Notable: _Subject 1: Carlos Winterborn_ - cervical fracture, "Partial Success" (the binding that created Embren). Early victims had life-threatening conditions; later victims were whoever was available.
 
 h4. Floor Plans
 

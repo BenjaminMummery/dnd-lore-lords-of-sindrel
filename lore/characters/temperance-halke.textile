@@ -20,12 +20,12 @@ Black-robed attendant at the [[Osteomantic Archives | Wallarch Osteomantic Archi
 <!-- OP_BIO -->
 *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-Present at the funeral of [[:micycle-smynth | Micycle Smynth]]. One of the two archive staff [[:rossin-ros-greyhirst | Ros]] spotted in dark robes during the service. Temperance and [[:seelie-ophelan | Seelie Ophelan]] collected [[:micycle-smynth | Micycle]]'s remains after the cold flame stripped the flesh and carried them toward the room where [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and [[:amanira | Amanira]] were exploring — narrowly avoided when the party fled.
+Present at the funeral of [[:micycle-smynth | Micycle Smynth]]. One of the two archive staff [[:rossin-ros-greyhirst | Ros]] spotted in dark robes during the service. Temperance and [[:seelie-ophelan | Seelie Ophelan]] collected [[:micycle-smynth | Micycle]]'s remains after the cold flame stripped the flesh and carried them toward the room where [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and [[:amanira | Amanira]] were exploring - narrowly avoided when the party fled.
 
 <!-- GM_INFO_START -->
 Full name: Temperance Halke
 
-Suggested house affiliation (index when revealed): [[House Grimbolg | House Grimbolg]]. Porters, alcove maintenance, and bone inlay at the Wallarch branch — the unglamorous labour the floating houses prefer not to fund. Halke took a curator's oath after apprenticing in the [[House Grimbolg | Cornucopia]]'s reclamation yards; the name is aspirational.
+Suggested house affiliation (index when revealed): [[House Grimbolg | House Grimbolg]]. Porters, alcove maintenance, and bone inlay at the Wallarch branch - the unglamorous labour the floating houses prefer not to fund. Halke took a curator's oath after apprenticing in the [[House Grimbolg | Cornucopia]]'s reclamation yards; the name is aspirational.
 
 Works alongside [[:seelie-ophelan | Seelie Ophelan]], who handles rites and vestments.
 <!-- GM_INFO_END -->

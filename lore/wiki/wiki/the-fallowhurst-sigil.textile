@@ -16,7 +16,7 @@ tags: []
 
 A magic circle forming part of a binding spell. An incomplete version was found on the blackboard in the Lecture Hall of [[Fallowhurst College | Fallowhurst College]].
 
-[[:wilrin-racenglade | Wilrin Ravenglade]] attempted to use the sigil by employing [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]]'s blood. The discharge branded both with matching sigil scars — on Wilrin's face and Deathwalker's back.
+[[:wilrin-racenglade | Wilrin Ravenglade]] attempted to use the sigil by employing [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]]'s blood. The discharge branded both with matching sigil scars - on Wilrin's face and Deathwalker's back.
 
 <!-- GM_INFO_START -->
 h3. The Binding
@@ -25,5 +25,5 @@ Wilrin's blood-magic attempt linked him and Deathwalker to the centuries-old bin
 
 Whenever Deathwalker takes damage, Wilrin rolls a d8. On a 1, Deathwalker takes half damage and Wilrin takes the rest.
 
-Further effects are unknown — the spell outlasted the death of magic itself.
+Further effects are unknown - the spell outlasted the death of magic itself.
 <!-- GM_INFO_END -->

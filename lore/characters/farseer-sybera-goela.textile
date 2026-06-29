@@ -18,7 +18,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7441129/pythia.jpg
 ---
 
 <!-- OP_DESCRIPTION -->
-You see three figures of roughly human height — a little short for elves — in heavy hooded purple robes and eyeless bronze masks. They stand together as though one person had been copied twice and the copies forgot to disagree.
+You see three figures of roughly human height - a little short for elves - in heavy hooded purple robes and eyeless bronze masks. They stand together as though one person had been copied twice and the copies forgot to disagree.
 
 When they move it is with a strange synchronicity, perhaps to be expected from people who can see their companions actions before they happen.
 

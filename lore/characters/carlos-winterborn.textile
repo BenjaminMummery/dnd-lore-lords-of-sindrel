@@ -26,7 +26,7 @@ The party read the label on a pristine body in the college museum: _Subject 1: [
 [[:wilrin-racenglade | Wilrin]] later recreated [[The Fallowhurst Sigil | the binding sigil]] on the corpse; the discharge of magical energy healed him and [[:nakoma-deathwalker-mor-got-ha | Deathwalker]], and ominous chanting began in the Operating Theatre.
 
 <!-- GM_INFO_START -->
-First successful subject of [[:embren-oestra | Embren Oestra]]'s binding work at [[Fallowhurst College | Fallowhurst College]]. "Partial Success" marks the creation of Embren — Winterborn's identity overwritten, not merely repaired. Pre-magic noble; the cervical fracture was likely from riding or a carriage accident.
+First successful subject of [[:embren-oestra | Embren Oestra]]'s binding work at [[Fallowhurst College | Fallowhurst College]]. "Partial Success" marks the creation of Embren - Winterborn's identity overwritten, not merely repaired. Pre-magic noble; the cervical fracture was likely from riding or a carriage accident.
 
 Embren's experiments began with patients who might plausibly "benefit" from radical intervention; later subjects were whoever was available. See [[Fallowhurst College | Fallowhurst College]] (Museum, room C).
 <!-- GM_INFO_END -->

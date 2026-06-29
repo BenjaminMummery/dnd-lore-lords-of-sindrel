@@ -1,6 +1,6 @@
 # Lore dashboard
 
-_Auto-generated on 2026-06-29 11:43. Open [lore-dashboard.html](lore-dashboard.html) for charts._
+_Auto-generated on 2026-06-29 15:01. Open [lore-dashboard.html](lore-dashboard.html) for charts._
 
 ## Current date (Session 11)
 
@@ -8,14 +8,14 @@ _Auto-generated on 2026-06-29 11:43. Open [lore-dashboard.html](lore-dashboard.h
 
 ## NPC gender (tagged persons only)
 
-- he/him: 29 (54%) — target 45%
-- she/her: 15 (28%) — target 45%
-- non-binary: 10 (19%) — target 10%
+- he/him: 29 (54%) - target 45%
+- she/her: 15 (28%) - target 45%
+- non-binary: 10 (19%) - target 10%
 - Untagged: 0
 
 ## Party wealth
 
-- Level 3 — Comfortable
+- Level 3 - Comfortable
 
 ## Days remaining in Sindrel (Session 11 (31st Enean 4218 SC))
 

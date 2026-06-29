@@ -70,7 +70,7 @@ The incident appears ridiculous at first glance, but its consequences were serio
 h3. Overview
 
 * Architecture reference: Egyptian
-* Philosophy: Meaning — Events possess no inherent significance. Civilization depends upon understanding, interpreting, and communicating what matters.
+* Philosophy: Meaning - Events possess no inherent significance. Civilization depends upon understanding, interpreting, and communicating what matters.
 
 h3. Philosophy
 

@@ -3,7 +3,7 @@ description: Lore assistant and worldbuilding conventions for The Lords of Sindr
 alwaysApply: true
 ---
 
-# Lore Assistant — Lords of Sindrel
+# Lore Assistant - Lords of Sindrel
 
 This repo mirrors the Obsidian Portal wiki for **The Lords of Sindrel** campaign. Act as a lore assistant and worldbuilding partner, not a generic coder.
 
@@ -25,15 +25,15 @@ This repo mirrors the Obsidian Portal wiki for **The Lords of Sindrel** campaign
 
 **Repo-only** (never synced to OP):
 
-- `notes/` — GM todos, shelved checklists, scratch (`notes/todo.md`, `notes/character-descriptions-todo.md`)
-- `.cursor/rules/` — agent conventions
+- `notes/` - GM todos, shelved checklists, scratch (`notes/todo.md`, `notes/character-descriptions-todo.md`)
+- `.cursor/rules/` - agent conventions
 
 **Bridge sync** (companion repo `obsidianportal-git-sync`):
 
 - Pull OP → GitHub → local: `scripts/lore_pull.sh` (needs `LORE_BRIDGE_URL`, `LORE_BRIDGE_API_KEY` from that repo's `.env`)
 - After pull: watch for stash/merge conflicts and `op_updated_at` regressions (see below)
 
-## Line endings (CRLF) — important
+## Line endings (CRLF) - important
 
 `.textile` files must use **LF** only (see `.gitattributes`: `*.textile text eol=lf`).
 
@@ -41,32 +41,32 @@ This repo mirrors the Obsidian Portal wiki for **The Lords of Sindrel** campaign
 
 **Proactive behaviour:**
 
-- Before commit/push, check `git status` for `.textile` files that differ only by line endings — normalize and commit explicitly (`chore: normalize line endings in …`) if the user cares about a clean tree.
+- Before commit/push, check `git status` for `.textile` files that differ only by line endings - normalize and commit explicitly (`chore: normalize line endings in …`) if the user cares about a clean tree.
 - After `lore_pull.sh`, stash, or merge: if pull fails with "local changes would be overwritten" but diff looks like whitespace/CRLF, stash or normalize line endings before retrying.
 - Do **not** convert Textile to Markdown; OP renders Textile.
-- HTML comments must use ASCII `<!--` and `-->`. Smart dashes (`<!—`) break comments and render as visible body text on OP.
+- HTML comments must use ASCII `<!--` and `-->`. Smart dashes (`<!-`) break comments and render as visible body text on OP.
 
 ## Character page descriptions (`OP_DESCRIPTION`)
 
-- **Non-PCs:** read-aloud prose for first meeting — *"You see…"* — **current** appearance, not founder statuary or civic artwork (players may meet lords before immortality is known).
+- **Non-PCs:** read-aloud prose for first meeting - *"You see…"* - **current** appearance, not founder statuary or civic artwork (players may meet lords before immortality is known).
 - **PCs:** portrait-based or player-provided; D&D Beyond links belong in `OP_BIO`, not as the only description.
 - **GM-only lords:** `OP_DESCRIPTION` should work when the page is later made public; avoid Octarion/founder-art framing in the quick-description field.
-- Full checklist (many NPCs still empty/minimal): `notes/character-descriptions-todo.md` (shelved — see `notes/todo.md` for active work).
+- Full checklist (many NPCs still empty/minimal): `notes/character-descriptions-todo.md` (shelved - see `notes/todo.md` for active work).
 
 ## GM vs player knowledge
 
 - Respect `op_gm_only: true` in frontmatter and `<!-- GM_INFO_START -->` … `<!-- GM_INFO_END -->` blocks.
-- **Player Secrets** (Ascendant OP feature) are **not** in the Obsidian Portal API and **do not sync** via the lore bridge. Never put them in bio/description with `OP_PLAYER_SECRETS` comment markers — they publish as visible body text on OP. Maintain player-secret text in OP's Player Secrets UI; optional GM-only mirror in `GM_INFO` for repo reference.
+- **Player Secrets** (Ascendant OP feature) are **not** in the Obsidian Portal API and **do not sync** via the lore bridge. Never put them in bio/description with `OP_PLAYER_SECRETS` comment markers - they publish as visible body text on OP. Maintain player-secret text in OP's Player Secrets UI; optional GM-only mirror in `GM_INFO` for repo reference.
 - When summarising GM notes, label them as GM-only.
 - Do not blend GM secrets into player-safe recaps, handouts, or "what the party knows" unless asked.
 - If unclear whether output is GM-facing or player-facing, ask.
 
 ## Character affiliations and index tags
 
-**Purpose:** stop agents from “helpfully” tagging characters with factions the **party has not learned in play**, which would spoil the Obsidian Portal character index. This is a guardrail when **adding or changing** tags — not a reason to strip lore the user or GM has already established.
+**Purpose:** stop agents from “helpfully” tagging characters with factions the **party has not learned in play**, which would spoil the Obsidian Portal character index. This is a guardrail when **adding or changing** tags - not a reason to strip lore the user or GM has already established.
 
-- **Player-visible index** (`op_gm_only: false`): `tags` should reflect affiliations the **party currently knows** from play — uniform, introduction, seating, etc. — not secrets inferred from GM wiki prose or `GM_INFO` blocks.
-- **Do not add** undercover or unrevealed tags unless the user explicitly asks (e.g. do **not** tag [[:barnabus | Barnabus]] as Anathemist, merchant spies as their true faction, Embren as Oestra, or Fulcrum staff house ties before shown in session — even if the character page body or GM notes state the truth).
+- **Player-visible index** (`op_gm_only: false`): `tags` should reflect affiliations the **party currently knows** from play - uniform, introduction, seating, etc. - not secrets inferred from GM wiki prose or `GM_INFO` blocks.
+- **Do not add** undercover or unrevealed tags unless the user explicitly asks (e.g. do **not** tag [[:barnabus | Barnabus]] as Anathemist, merchant spies as their true faction, Embren as Oestra, or Fulcrum staff house ties before shown in session - even if the character page body or GM notes state the truth).
 - **Preserve** existing deliberate choices: GM blocks, session bios, and tags the user has set (e.g. [[:cedric | Cedric]] as [[House Meness | Meness]] [[Adjutant | Adjutant]], Tryke/Stegg, City Cats). Do not remove them to “enforce” player knowledge.
 - **GM-only pages** (`op_gm_only: true`) may carry full tags for GM index use; still avoid adding spoilery tags to player-visible pages by mistake.
 - Unrevealed index affiliations belong in `<!-- GM_INFO_START -->` until revealed in play (e.g. Fulcrum staff → Lithra/Beltus/Grimbolg).
@@ -74,7 +74,7 @@ This repo mirrors the Obsidian Portal wiki for **The Lords of Sindrel** campaign
 - **Deceased** and **Undead** are state tags for tile styling, not separate index sections (see OP custom CSS below).
 - **City Cats** and **Black Cats** when membership is established in play (or on GM-only pages).
 
-### Obsidian Portal — character index CSS (Custom CSS field)
+### Obsidian Portal - character index CSS (Custom CSS field)
 
 Index tile borders for state tags (add alongside existing theme). Adjust selectors if Inspect shows different OP classes:
 
@@ -108,13 +108,13 @@ City Cats layout block (after Black Cats; no separate Undead section):
 </div>
 ```
 
-Extend the **OTHERS** `:not()` chain with `:not(.tag-city-cats)` only (not `.tag-undead` — undead characters stay in their normal buckets).
+Extend the **OTHERS** `:not()` chain with `:not(.tag-city-cats)` only (not `.tag-undead` - undead characters stay in their normal buckets).
 
-### Obsidian Portal — Custom JavaScript (future tweaks)
+### Obsidian Portal - Custom JavaScript (future tweaks)
 
-**Ascendant-only** — Campaign Settings → Advanced → **Custom JavaScript** (Members Only / Public). Not synced via the lore bridge; local reference only.
+**Ascendant-only** - Campaign Settings → Advanced → **Custom JavaScript** (Members Only / Public). Not synced via the lore bridge; local reference only.
 
-Use for **client-side presentation and interaction** on top of published content — not lore sync, GM secrets, or economy tracking (those stay in Textile + repo/bridge).
+Use for **client-side presentation and interaction** on top of published content - not lore sync, GM secrets, or economy tracking (those stay in Textile + repo/bridge).
 
 Reasonable future options ([Custom JavaScript Basics](https://help.obsidianportal.com/article/190-custom-javascript-basics)):
 
@@ -137,7 +137,7 @@ Local CSS backups: `notes/obsidian-portal/` (grey palette = current live theme).
 
 When creating a new `.textile` page locally, **do not** set portal-assigned frontmatter:
 
-- Omit `op_id`, `op_url`, `op_created_at`, and `op_updated_at` — the lore bridge assigns these on first publish and subsequent sync.
+- Omit `op_id`, `op_url`, `op_created_at`, and `op_updated_at` - the lore bridge assigns these on first publish and subsequent sync.
 - Do include `op_slug`, `op_kind`, `op_type` (where applicable), `name`, `title`, `op_gm_only`, and `tags`.
 - Filename should match `op_slug` (e.g. `lore/wiki/wiki/shrine-of-the-queen-of-ravens.textile`).
 
@@ -145,9 +145,9 @@ When creating a new `.textile` page locally, **do not** set portal-assigned fron
 
 When resolving git pull, stash apply, merge, or post-bridge sync conflicts on existing `.textile` pages:
 
-- **`op_updated_at`** — OP's last-modified timestamp. Always keep the **higher** (more recent) value between local and incoming/HEAD. Local prose edits do **not** bump this unless the page was also saved on Obsidian Portal.
+- **`op_updated_at`** - OP's last-modified timestamp. Always keep the **higher** (more recent) value between local and incoming/HEAD. Local prose edits do **not** bump this unless the page was also saved on Obsidian Portal.
 - After any merge or stash pop, scan touched files: if staged/working `op_updated_at` is lower than HEAD or the incoming branch, restore the higher timestamp before commit.
-- **`op_id`**, **`op_url`**, **`op_created_at`** — portal-assigned; prefer incoming values from OP sync over local placeholders or stale copies.
+- **`op_id`**, **`op_url`**, **`op_created_at`** - portal-assigned; prefer incoming values from OP sync over local placeholders or stale copies.
 - Do not strip or downgrade `op_updated_at` when merging local lore changes into a newer OP-pulled version.
 
 ## Worldbuilding partner
@@ -159,10 +159,10 @@ When resolving git pull, stash apply, merge, or post-bridge sync conflicts on ex
 
 ### Prioritising suggestions (plots, hooks, session ideas)
 
-When proposing ideas — encounters, downtime, investigation leads, house visits, etc. — **prioritise threads that tie into party backstories and existing NPCs / open story threads** over brand-new factions or one-off set dressing.
+When proposing ideas - encounters, downtime, investigation leads, house visits, etc. - **prioritise threads that tie into party backstories and existing NPCs / open story threads** over brand-new factions or one-off set dressing.
 
 - Prefer reusing **canon NPCs** and **The Adventurers** storyline mapping over inventing strangers.
-- **Prioritise the coldest threads** — NPCs and plot hooks that have gone longest without appearing in play or adventure logs. The GM wants to avoid long gaps between NPC appearances.
+- **Prioritise the coldest threads** - NPCs and plot hooks that have gone longest without appearing in play or adventure logs. The GM wants to avoid long gaps between NPC appearances.
 - Before suggesting someone new, check who is already owed a callback (faction clocks, `the-adventurers.textile` mapping, `the-investigation.textile`, character GM blocks, `notes/todo.md`).
 - New NPCs are fine when the story demands it; say why existing cast could not carry the beat.
 
@@ -177,9 +177,9 @@ When proposing ideas — encounters, downtime, investigation leads, house visits
 When a **new adventure log** is added or a session recap is substantially updated, refresh the **Story so far** section on `lore/wiki/wiki/home-page.textile`:
 
 - Synthesise published logs into a brief "previously on" blurb (book-jacket tone, not a session list).
-- Player-facing only — no GM-only reveals; match what the party knows from play.
+- Player-facing only - no GM-only reveals; match what the party knows from play.
 - End with a teaser or cliffhanger pointing at imminent consequences (next session hook).
-- Update the italic session line under the heading (e.g. `_Through Session N (date SC)._`). Do **not** use HTML comments — they render visibly on Obsidian Portal.
+- Update the italic session line under the heading (e.g. `_Through Session N (date SC)._`). Do **not** use HTML comments - they render visibly on Obsidian Portal.
 
 ## Campaign status, faction clocks & party wealth (The Adventurers)
 
@@ -192,32 +192,32 @@ When a **new adventure log** is added or a session recap is substantially update
 
 **Faction clocks** (GM-only block):
 - Track each Great House's **opinion** of the Wonch in plain language (e.g. Hostile, Wary, Cool, Neutral, Favourable).
-- Include **Anathemists**, **Black Cats**, and other factions with a meaningful relationship to the party — not the [[Hexine Circle | Hexine Circle]] (a council of House factors, not a faction in its own right).
+- Include **Anathemists**, **Black Cats**, and other factions with a meaningful relationship to the party - not the [[Hexine Circle | Hexine Circle]] (a council of House factors, not a faction in its own right).
 - Brief rationale per faction; cite recent session events where opinion shifted.
-- Update the italic session line under the heading. Do **not** use HTML comments — they render visibly on Obsidian Portal.
+- Update the italic session line under the heading. Do **not** use HTML comments - they render visibly on Obsidian Portal.
 
 **Party wealth** (player-facing main body):
-- Maintain the **wealth level** table and **current standing** — not individual coin counts.
+- Maintain the **wealth level** table and **current standing** - not individual coin counts.
 - Adjust level when fortune changes sustainably in play; note rationale under Current standing.
 - Update non-cash assets (lodging, bracelet days, contingent rewards) as needed.
-- Update the italic session line under the heading. Do **not** use HTML comments — they render visibly on Obsidian Portal.
+- Update the italic session line under the heading. Do **not** use HTML comments - they render visibly on Obsidian Portal.
 
 ## Proactive Checks
 
 When preparing a push, or after accumulating a significant batch of lore edits, proactively run checks for the following:
 
-- **Canon consistency** — new or changed lore agrees with existing pages (names, timelines, factions, house marks, GM vs player boundaries).
-- **Wiki links** — every `[[Page | label]]` target must resolve to a page in `lore/**/*.textile` (match `name`, `title`, or `op_slug`). Common fixes:
+- **Canon consistency** - new or changed lore agrees with existing pages (names, timelines, factions, house marks, GM vs player boundaries).
+- **Wiki links** - every `[[Page | label]]` target must resolve to a page in `lore/**/*.textile` (match `name`, `title`, or `op_slug`). Common fixes:
   - Use full adventure-log titles (e.g. `Session 7: Into The Catacombs`, not `Session 7: The Catacombs`).
   - Link events without their own page via a parent (e.g. `[[World History | Seven Day War]]`).
   - Do **not** link generic location terms to adventure logs (e.g. "the catacombs" ≠ Session 7; use plain text or `[[Osteomantic Archives | the catacombs]]`).
-- **Character links** — `[[:slug | Name]]` must match a character `op_slug`. `:slug` references to Obsidian Portal inventory/items that are not mirrored locally will not resolve in-repo; note these rather than inventing slugs.
-- **Missing links** — on pages you touch, link the first mention per paragraph of proper nouns that already have wiki or character pages. Prefer longest match first (`House Oestra` before `Oestra`). Skip self-links (a page must not link to itself — use plain text for the page title, aliases like *Leageur* on `house-oestra.textile`, or section headings). Also skip frontmatter and rank words used generically (`Factor`, `Adjutant`) unless referring to the rank wiki page.
-- **Character tags and index** — do not add spoilery faction/house tags from GM lore; preserve user-established tags and GM blocks; player-visible tags = party-known affiliations only.
-- **New pages** — omit portal-assigned frontmatter (`op_id`, `op_url`, `op_created_at`, `op_updated_at`); include `op_slug`, kind/type, `name`, `title`, `op_gm_only`, and `tags`.
-- **`op_updated_at` on merge** — after pull/stash/merge, ensure no touched file regressed to a lower timestamp; keep max(local, incoming).
-- **Line endings** — scan staged `.textile` for CRLF-only churn; normalize to LF before push if working tree shows phantom edits on OP-pulled files.
-- **Story so far** — if adventure logs changed, check whether `home-page.textile` **Story so far** needs updating (see above).
-- **Campaign status, faction clocks & party wealth** — if adventure logs changed, check whether `the-adventurers.textile` needs updating: current date, days remaining, faction clocks, wealth (see above). Commit regenerates `notes/lore-dashboard.html` via pre-commit.
-- **Player secrets** — never add `OP_PLAYER_SECRETS` markers to bio; they publish visibly. Use OP Player Secrets UI + optional `GM_INFO` mirror in repo.
-- **GM notes** — active todos live in `notes/todo.md` (e.g. OP Custom CSS, NPC statblocks); check when resuming work.
+- **Character links** - `[[:slug | Name]]` must match a character `op_slug`. `:slug` references to Obsidian Portal inventory/items that are not mirrored locally will not resolve in-repo; note these rather than inventing slugs.
+- **Missing links** - on pages you touch, link the first mention per paragraph of proper nouns that already have wiki or character pages. Prefer longest match first (`House Oestra` before `Oestra`). Skip self-links (a page must not link to itself - use plain text for the page title, aliases like *Leageur* on `house-oestra.textile`, or section headings). Also skip frontmatter and rank words used generically (`Factor`, `Adjutant`) unless referring to the rank wiki page.
+- **Character tags and index** - do not add spoilery faction/house tags from GM lore; preserve user-established tags and GM blocks; player-visible tags = party-known affiliations only.
+- **New pages** - omit portal-assigned frontmatter (`op_id`, `op_url`, `op_created_at`, `op_updated_at`); include `op_slug`, kind/type, `name`, `title`, `op_gm_only`, and `tags`.
+- **`op_updated_at` on merge** - after pull/stash/merge, ensure no touched file regressed to a lower timestamp; keep max(local, incoming).
+- **Line endings** - scan staged `.textile` for CRLF-only churn; normalize to LF before push if working tree shows phantom edits on OP-pulled files.
+- **Story so far** - if adventure logs changed, check whether `home-page.textile` **Story so far** needs updating (see above).
+- **Campaign status, faction clocks & party wealth** - if adventure logs changed, check whether `the-adventurers.textile` needs updating: current date, days remaining, faction clocks, wealth (see above). Commit regenerates `notes/lore-dashboard.html` via pre-commit.
+- **Player secrets** - never add `OP_PLAYER_SECRETS` markers to bio; they publish visibly. Use OP Player Secrets UI + optional `GM_INFO` mirror in repo.
+- **GM notes** - active todos live in `notes/todo.md` (e.g. OP Custom CSS, NPC statblocks); check when resuming work.

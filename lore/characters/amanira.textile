@@ -16,7 +16,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457470/sytqgzfrl5c41.jp
 ---
 
 <!-- OP_DESCRIPTION -->
-A drow woman with blue-violet skin and long platinum hair. Angular features, pointed ears, brown leather strapped over olive kit; a moss-trimmed green cloak and rune-marked stones at her belt — a druidic traveller plainly out of sympathy with a city of stone.
+A drow woman with blue-violet skin and long platinum hair. Angular features, pointed ears, brown leather strapped over olive kit; a moss-trimmed green cloak and rune-marked stones at her belt - a druidic traveller plainly out of sympathy with a city of stone.
 
 <!-- OP_BIO -->
 https://www.dndbeyond.com/characters/156196225

@@ -33,7 +33,7 @@ According to [[:nort|Nort]], he is rumoured to be connected to [[The Black Cats 
 <!-- GM_INFO_START -->
 Index affiliation when revealed: [[House Grimbolg | House Grimbolg]], [[Adjutant | Adjutant]].
 
-**[[The Black Cats | Black Cats]] — Gild** (true link, not a rumour). Fences [[The Fulcrum | Fulcrum]] shift rosters, servant-route patterns, and ceremony-night staffing to **Counters** / **Vault**. Nort's gossip is accurate. Vault protects him while he is useful; he knows fragments of who paid for extended shifts on bombing night but not the wider plot.
+**[[The Black Cats | Black Cats]] - Gild** (true link, not a rumour). Fences [[The Fulcrum | Fulcrum]] shift rosters, servant-route patterns, and ceremony-night staffing to **Counters** / **Vault**. Nort's gossip is accurate. Vault protects him while he is useful; he knows fragments of who paid for extended shifts on bombing night but not the wider plot.
 
-Unrelated to **City Cats** (actual felines) — he has never recruited them and does not think in those terms.
+Unrelated to **City Cats** (actual felines) - he has never recruited them and does not think in those terms.
 <!-- GM_INFO_END -->

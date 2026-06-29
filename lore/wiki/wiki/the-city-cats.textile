@@ -13,7 +13,7 @@ tags:
 - Organisation
 ---
 
-The informal network of actual felines living in [[Sindrel | Sindrel]] — not to be confused with [[The Black Cats | the Black Cats]] crime syndicate.
+The informal network of felines living in [[Sindrel | Sindrel]] - not to be confused with [[The Black Cats | the Black Cats]] crime syndicate.
 
 [[:amanira | Amanira]] can reach them in wild shape; [[:rossin-ros-greyhirst | Ros]] and others with _Speak with Animals_ can do the same. Known contacts include [[:pads-silently | Pads-Silently]] and [[:hunts-by-night | Hunts-By-Night]].
 

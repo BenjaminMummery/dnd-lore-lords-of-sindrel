@@ -75,7 +75,7 @@ _Late afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])
 
 They got lost.
 
-Away from the chalked routes, the finished masonry of the archives gave way to rough natural rock. Yet the pattern persisted — pillared halls and bone alcoves repeated as though the _idea_ of a catacomb were propagating outward through the necromantic fallout, imposing itself on the living stone. A solemn procession of rats placed one of their dead in an alcove with ritual care, as if the architecture had taught even vermin proper burial.
+Away from the chalked routes, the finished masonry of the archives gave way to rough natural rock. Yet the pattern persisted - pillared halls and bone alcoves repeated as though the _idea_ of a catacomb were propagating outward through the necromantic fallout, imposing itself on the living stone. A solemn procession of rats placed one of their dead in an alcove with ritual care, as if the architecture had taught even vermin proper burial.
 
 Following a whisper of wind through the dark, the party found a tangle of tree roots and blood moss breaking through from above. They cleared the blockage to reveal a hidden door.
 
@@ -83,7 +83,7 @@ h3. The [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]]
 
 _Late afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
-Beyond lay a massacre around a makeshift [[Shrine of the Queen of Ravens | shrine to the Queen of Ravens]]. Corpses in dark robes wore neck amulets bearing the sigil of [[The Eighth House | The Eighth House]]. They had died in agony, scattered across a small chapel draped in fabric that suggested wings engulfing the congregation. On the altar stood an idol of the [[The Gods | Queen of Ravens]] in her aspect as vengeful reaper — obsidian and electrum, wings swept back, taloned hands outstretched.
+Beyond lay a massacre around a makeshift [[Shrine of the Queen of Ravens | shrine to the Queen of Ravens]]. Corpses in dark robes wore neck amulets bearing the sigil of [[The Eighth House | The Eighth House]]. They had died in agony, scattered across a small chapel draped in fabric that suggested wings engulfing the congregation. On the altar stood an idol of the [[The Gods | Queen of Ravens]] in her aspect as vengeful reaper - obsidian and electrum, wings swept back, taloned hands outstretched.
 
 Daubed on the wall in ancient blood: _AVENGE US._
 
@@ -93,8 +93,8 @@ h3. Emergence
 
 _Evening of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
-Another route led onward and upward. The tunnels spat the party out through the [[Osteomantic Archives | Osteomantic Archives]] of [[House Oestra | House Oestra]] — not the [[The Wallarch District | Wallarch]] branch they had entered, but one within the [[House Oestra | Leageur]] itself.
+Another route led onward and upward. The tunnels spat the party out through the [[Osteomantic Archives | Osteomantic Archives]] of [[House Oestra | House Oestra]] - not the [[The Wallarch District | Wallarch]] branch they had entered, but one within the [[House Oestra | Leageur]] itself.
 
-That alone was enough to unsettle anyone who believed the archives were merely local ossuaries. They had crossed the city underground without a map, a guide, or permission. The thought that the same bone-lined passages might reach *outward* — back toward the plains, the [[Arkay Mountain Range | Arkay]], [[Fallowhurst | Fallowhurst]] — did not yet occur to them. It would, later, in the company of a much smaller witness.
+That alone was enough to unsettle anyone who believed the archives were merely local ossuaries. They had crossed the city underground without a map, a guide, or permission. The thought that the same bone-lined passages might reach *outward* - back toward the plains, the [[Arkay Mountain Range | Arkay]], [[Fallowhurst | Fallowhurst]] - did not yet occur to them. It would, later, in the company of a much smaller witness.
 
 [[:commander-locke | Prefect Locke]] marched over almost immediately, demanding to know how they had got in, why they had not followed his advice about weaponsmiths, and whether anything they intended to say could be considered the truth.
