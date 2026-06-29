@@ -18,3 +18,82 @@ Artresh is the Houdian name for the continent on which our story takes place.
 [[Sindrel | Sindrel]] is located at the extreme north-east of the continent.
 
 Until about 250 years ago, the continent was split between two major powers - the [[The Magedom of Houd | The Magedom of Houd]] in the north, and [[The Thaumocracy of Tellerin | The Thaumocracy of Tellerin]] in the south. After the [[World History | Seven Day War]], the Magedom gradually split into a network of city states, while the Thaumocracy closed its borders and became, for all intents and purposes, terra incognita.
+
+h2. Races of Artresh
+
+As magic has faded across [[Arcan | Arcan]], so too have the more magically-inclined ancestries. Where once tieflings, aasimar, and fey-touched peoples were common sights, they are now all but unheard of outside [[Sindrel | Sindrel]] and a handful of dying enclaves. Mundane peoples - humans, orcs, dwarves, and halflings - dominate the continent. Long-lived elves and their half-elven descendants linger in cities and trade towns, but their numbers fall with every generation.
+
+These tiers describe [[Artresh | Artresh]] as a whole. For the exception that proves every rule, see *Races of Sindrel* on the [[Sindrel | Sindrel]] page.
+
+h3. Core (common across the continent)
+
+Everyday ancestries - what most people in the Houdian successor states, caravan towns, and farmland are. No one remarks on them.
+
+* Human - the default majority almost everywhere.
+* Half-orc and orc - common on frontiers, in mercenary companies, mining, and hard labour; hardy and not magic-dependent.
+* Dwarf - widespread in mountains and cities; craft and trade survive the fade of magic better than enchantment.
+* Halfling - common in agricultural regions and trade networks.
+* Goblin - common in urban underclasses, service work, and marginal labour.
+* Hobgoblin - established in disciplined military and mercantile company cultures.
+
+h3. Common
+
+Regular sights in cities and on the roads - not the default, but no one stops to stare.
+
+* Half-elf - still seen along trade routes; *declining* as elven communities shrink and fewer children are born.
+* Elf (high, wood, sea) - *fading but present*; long lifespans mean elders and enclaves linger decades after births drop. Sea elves only on coasts.
+* Gnome (rock) - tinkers, clerks, and artisans; the mundane rock strain outlasts fey-touched variants.
+* Goliath - mountain and highland peoples; physical, not spell-dependent.
+* Kobold - mines, scrap trades, and dense cities.
+* Lizardfolk - regional (marsh, river, warm south); biological, not magical.
+* Tabaxi - caravan folk and port cities.
+* Kenku - urban and itinerant; often tied to old Tellarin trade networks.
+* Tortle - coastal and island pockets.
+* Bugbear - less common but established in certain mercenary and frontier bands.
+
+h3. Uncommon
+
+Still a few of them around, enough for small communities, but they'll typically get furtive glances or a raised eyebrow in a Houdian market town.
+
+* Dragonborn - old draconic lines; *no longer thriving* - survivors, not a growing people.
+* Duergar and deep gnome - underdark enclaves; isolated, not continent-spanning.
+* Drow - rare outside deep holdings; surface drow almost always have a story.
+* Minotaur - pockets in old Tellarin labyrinth-cults and border ruins.
+* Centaur - open country only; nearly gone from the north.
+* Shifter - old lycanthrope bloodlines; *dying out* as the curse and its magic weaken.
+* Changeling - few remaining; harder to sustain without strong magical identity.
+* Yuan-ti - remnants of serpent cults; mostly southern and Tellarin fringe lore.
+* Triton - small coastal minorities; elemental heritage muted.
+* Genasi - *uncommon and falling*; elemental infusion does not reproduce cleanly as magic dies.
+
+h3. Rare
+
+Almost unheard of - will earn a full double-take in a Houdian market town and are viable as an attraction in a traveling show on the basis of their existence alone. Invariably the result of an unusual personal journey (migration from [[Sindrel | Sindrel]], old bloodline, curse, or plot).
+
+* Tiefling - infernal heritage without active pact-magic; *nearly extinct* on Artresh.
+* Aasimar - celestial blood; same trajectory - *almost gone* outside legend and old portraits.
+* Fairy - feywild-linked; *practically extinct* on Arcan proper.
+* Satyr - fey; essentially gone from the continent.
+* Eladrin - fey elf strain; rarer than high elves; often mistaken for odd high elves.
+* Firbolg - fey-giant heritage; isolated deep-wood remnants only.
+* Harengon - fey-touched; essentially gone.
+* Aarakocra - elemental air-touched; rare migrants or highland myths.
+* Warforged - very rare relics of magical war-industry; no new construction.
+* Lineages (dhampir, hexblood, reborn) - individual cases tied to curses, necromancy, or the Fade; not stable populations.
+
+h3. Non-existent
+
+Present only in old stories and myths, no functioning presence on [[Arcan | Arcan]].
+
+* Githyanki and githzerai
+* Monstrous or custom fiendish ancestries - individuals, not peoples.
+* Planar visitors in mortal guise - demons, devils, angels.
+* Undead "peoples".
+* Spelljammer and off-world ancestries (autognome, giff, hadozee, plasmoid, thri-kreen).
+
+h3. Regional notes
+
+* *Houdian north* ([[Soulwind | Soulwind]], successor states, the road to [[Sindrel | Sindrel]]) - human, half-orc, dwarf, and halfling core; half-elf and elf in cities; tiefling, aasimar, and fairy essentially absent except Sindrel migrants.
+* *[[The Thaumocracy of Tellerin | Tellerin]]* (closed borders) - more magical ancestries may have survived longer in isolation; still rarer than a century ago. Currently unknown.
+* *Frontier and caravan routes* - orc, half-orc, goliath, tabaxi, and kobold over-represented relative to courtly cities.
+* *[[Sindrel | Sindrel]]* - a special case since magic still works; see that page for the distributions.

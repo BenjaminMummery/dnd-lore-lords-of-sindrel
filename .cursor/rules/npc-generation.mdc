@@ -7,70 +7,170 @@ alwaysApply: false
 
 Use when the user asks for a quick NPC, improvised character, or mid-session cast member.
 
-## Canon source
+**Speed rule:** This file is self-contained. Generate from the tables below **without opening wiki pages first**. **Do read lore** when the prompt names specific canon (people, places, factions, events)—e.g. *assistant to Emissary Halan* → read `lore/characters/emissary-halan.textile`. Full canon lives in `lore/wiki/wiki/artresh.textile`, `lore/wiki/wiki/sindrel.textile` (GM block), and `lore/wiki/wiki/house-*.textile`.
 
-- Continental species tiers: `lore/wiki/wiki/artresh.textile` (Races of Artresh)
-- Sindrel species tiers and district notes: `lore/wiki/wiki/sindrel.textile` (Races of Sindrel)
-- House culture (fashion, philosophy, ranks): `lore/wiki/wiki/house-*.textile`
-- Location tone: relevant wiki page (e.g. `the-wallarch-district.textile`)
-- Do **not** create `lore/characters/*.textile` files unless the user asks to persist the NPC.
+**Do not** create `lore/characters/*.textile` unless the user asks to **persist** the NPC.
 
-## Required fields
+## Prompt shorthand
 
-Return all of:
+Minimal prompts are enough when location + role are clear:
 
-1. **Name** - full name; epithet in quotes if used in play
-2. **Species** - from canon tiers in [[Artresh | Artresh]] / [[Sindrel | Sindrel]] (Races sections)
-3. **Pronouns** - he/him, she/her, or non-binary set (they/them, he/they, she/they); apply gender picking below
-4. **House** - Great House name, or *Unaffiliated*
-5. **Role** - job title; mark **Adjutant** or **Factor** when applicable ([[Adjutant | Adjutant]] wear a gold house bracelet)
-6. **Look** - read-aloud prose opening with *You see…* (2–4 sentences, current appearance only)
-7. **House tells** - one or two concrete details: dress, bearing, tool, speech habit (from house Fashion sections)
+- `Quick NPC: Leageur, Silas Oestra attendant`
+- `Quick NPC: Wallarch, Grimbolg adjutant porter`
+- `Quick NPC: Dockward, refugee dock labourer (silver)`
+- `Quick NPC: Fulcrum, visitor Factor, human ambassador`
 
-Optional when useful:
+Add house, rank, population, or pronouns only when you want to override defaults.
 
-8. **Hook** - one sentence plot seed; label GM-only if it reveals secrets the party has not learned
+## Workflow
 
-## Species picking
+1. **Location** → population (table below)
+2. **Population** → species tier (pick Core unless scene needs variety)
+3. **House / affiliation** → tells + naming nudge (native workers = Adjutant; Unaffiliated = visitors only)
+4. **Gender** → bias underrepresented buckets (see below); honour user override
+5. **Fill output template** → return to user
+6. **Hook** — player-safe by default; label **GM-only** if it uses secrets the party has not learned
 
-- Default to **Core** list on the relevant page unless location or role suggests otherwise.
-- **Wallarch** - see [[Sindrel | Sindrel]] (By district → Wallarch).
-- **Dockward / Fulcrum / Merrylane** - see [[Sindrel | Sindrel]] (Core + Common).
-- **Rare / Restricted** - only with an explicit in-scene reason; cite restriction from races sections.
-- Founder body types (dwarf Meness, tiefling Mabon, etc.) are **flavour**, not quotas.
+## Output template
+
+Return exactly this structure (omit Hook if nothing useful):
+
+```
+**Population:** … (one line — why this pool for this location/role)
+
+**Name:** …
+**Species:** …
+**Pronouns:** …
+**House:** … (or *Unaffiliated*)
+**Role:** … (**Adjutant** / **Factor** when applicable)
+
+**Look:** *You see…* (2–4 sentences, current appearance only)
+
+**House tells:** … (1–2 concrete details)
+
+**Hook:** … (optional; prefix **GM-only:** when needed)
+```
+
+## Location → population
+
+| Location / scene | Default population | Notes |
+|------------------|-------------------|--------|
+| **Leageur**, house precincts, upper city **staff** | Native | House adjutants, archive clerks, chamber attendants |
+| Upper city / house salons **guests** | Visitor | Wealthy Factors, ambassadors in public rooms |
+| **Merchant's Quarter**, airship terraces | Visitor (guests); native (clerks) | Match role |
+| **Fulcrum**, **Merrylane** | Native **Adjutant** (pick a house) | Hexine delegates = visitor **Factors**; desk staff = house adjutants on posting |
+| **Dockward** | Blend | Refugee labour (silver); native adjutants; visitor cargo owners |
+| **Wallarch** | Refugee (silver) or native **Adjutant** poor postings | Visitor traders on business only |
+| **Quarantine Zone** | Plot-driven | Not a random species pool |
+| Road / caravan / **Artresh** outside Sindrel | Visitor (Artresh tiers) | Mundane dominant |
+| **Radwasp House**, investigation base | Native adjutants (e.g. Lithra) | Party-adjacent; visiting Factors use house marks |
+
+**Staff vs guest:** In a Great House, *servants and adjutants* → native; *dignitaries in the salon* → visitor.
+
+## Species tiers (Sindrel)
+
+Pick **Core** for a random passer-by. Use Uncommon/Rare only when the scene needs variety or the prompt specifies.
+
+### Native Sindrellian (pre-Fade mix)
+
+- **Core:** human, elf, half-elf, dwarf, gnome, halfling
+- **Common:** tiefling, aasimar, dragonborn, genasi, half-orc
+- **Uncommon:** tabaxi, kenku, triton, changeling, shifter, duergar, drow, deep gnome
+- **Rare:** fairy, satyr, eladrin, firbolg, harengon
+- **Restricted:** plot-only (see Artresh Non-existent)
+
+### Visitor (current Artresh — mundane dominant)
+
+- **Core:** human, half-orc, orc, dwarf, halfling, goblin, hobgoblin
+- **Common:** half-elf, elf, gnome, goliath, kobold, lizardfolk, tabaxi, kenku, tortle, bugbear
+- **Uncommon:** dragonborn, duergar, deep gnome, drow, minotaur, centaur, shifter, changeling, yuan-ti, triton, genasi
+- **Rare:** tiefling, aasimar, fairy, satyr, eladrin, firbolg, harengon, aarakocra, warforged, lineages
+- **Non-existent:** gith, planar visitors, undead peoples, spelljammer kinds, monstrous ancestries
+
+### Refugee (highest magical proportion)
+
+- **Core:** tiefling, aasimar, genasi, half-elf, elf
+- **Common:** changeling, shifter, dragonborn, fairy, satyr, eladrin, firbolg, gnome
+- **Uncommon:** human, dwarf, halfling
+- **Rare:** orc, half-orc, goblin
+
+Founder statue body types are **flavour**, not quotas.
+
+## Naming nudge (house adjutants & Factors)
+
+Pick from examples or riff on the pattern:
+
+| House | Example names (adjutant tier) |
+|-------|-------------------------------|
+| **Oestra** | Cassia Drusken, Marco Valer, Livia Corin |
+| **Beltus** | Rostam Darvish, Shirin Anahita, Parviz Khorshid |
+| **Meness** | Eirik Tryke, Astrid Volva, Brokkr Stegg |
+| **Goela** | Nikias Orestes, Calliope Thessaly, Phaedra Mnemos |
+| **Lithra** | Senet Amunet, Kebi Neferu, Nashira Seti |
+| **Mabon** | Ren Kurogane, Yuki Matsura, Hana Mori |
+| **Grimbolg** | Sena Ott, Thistle Goodbarley, Bramwell Cobb |
+| **Visitor** (silver) | Bran Holloway, Mira Dunwick, Tomas Greymark |
+
+- **Oestra** — Latinate
+- **Beltus** — Persian grandeur
+- **Meness** — Norse
+- **Goela** — Greek (mundane names with heroic echo OK)
+- **Lithra** — Egyptian
+- **Mabon** — Japanese
+- **Grimbolg** — old Houdian / pastoral
+- **Unaffiliated** naming — match visitor origin (Artresh mundane names); silver-bracelet visitors only (see Affiliation)
+
+## Default house by scene (when prompt does not specify)
+
+Pick one; vary across sessions:
+
+| Scene | Typical houses |
+|-------|----------------|
+| Fulcrum registry / visitation / forms | Grimbolg, Lithra, Goela |
+| Fulcrum martial / security | Meness, Oestra |
+| Leageur / Oestra precinct | Oestra |
+| Wallarch trades / archives adjacency | Grimbolg, Meness |
+| Dockward labour (native) | Grimbolg, Mabon, Meness |
+| Merchant's Quarter clerks | Lithra, Mabon, Grimbolg |
+| Heptade / academy | Any (adjutant students) |
+
+## Affiliation
+
+Permanent residence in [[Sindrel | Sindrel]] requires **house patronage** (`lore/wiki/wiki/sindrel.textile` Politics). There is no long-term "unaffiliated" civil service class.
+
+- **Adjutant** — house patronage, **gold bracelet**; ranks: Meness Recruit–Serjeant; others Caller, Journeyman, Interpreter, Craftsman, … **Default for any native Sindrellian with a job in the city**, including Fulcrum clerks, Wallarch porters, and house staff.
+- **Factor** — senior house officer (Prefect, Emissary, Seer, …); enchanted house tattoo instead of or as well as bracelet.
+- **Unaffiliated** — **visitors only**: silver bracelet, ≤36-day stay; foreign traders, diplomats, pilgrims, recent arrivals, refugees not yet (or never) patronised. Also criminals off the books — not legitimate city employment.
+
+If the NPC lives and works in Sindrel long-term, assign a **House** and **Adjutant** (or Factor) unless they are explicitly a visitor the party just met.
 
 ## Gender picking
 
-Target distribution for **new quick NPCs** (steady state): **45% he/him**, **45% she/her**, **10% non-binary** (`they/them`, `he/they`, or `she/they`).
+Target for **new** quick NPCs: **45% he/him**, **45% she/her**, **10% non-binary**.
 
-Before generating, check current NPC gender stats in `notes/lore-dashboard.html` (or `.md` summary). The roster is historically male-heavy among tagged NPCs - **bias toward underrepresented genders** (she/her and non-binary) when inventing new characters.
+Glance at `notes/lore-dashboard.md` gender counts if unsure — roster is historically male-heavy; **bias she/her and non-binary** when inventing. Still use he/him ~25–35% of improvisations. Do not lecture the table about quotas.
 
-- Weight picks toward whichever bucket is **below** its target share.
-- Still include **some** he/him NPCs (~25–35% of improvisations) so the correction is not obvious at the table.
-- State pronouns in output only when natural (description prose or a **Pronouns** field); do not lecture the table about quotas.
-- If the user specifies gender, follow their instruction.
+## House cultural tells
 
-## House cultural tells (short)
-
-- **Oestra** - armour-first, crimson/black/bronze, weapon worn openly, martial bluntness.
-- **Meness** - white watch-coat, black trim, spotless visibility, lawful watchful bearing.
-- **Goela** - purple layers, veils or masks, careful or oracular speech.
-- **Grimbolg** - work-stained but orderly; moss green, brown wool, apron, tools; hands that look useful.
-- **Beltus** - black and gold, excessive layers, implies servants or bound entities.
-- **Mabon** - indigo/grey craft layers, hands free, maker's marks on clasps or belts.
-- **Lithra** - grey/silver, usekh or throat-piece, composed performance, controlled poise.
-
-## Affiliation rules
-
-- **Adjutant** - house patronage; rank-appropriate job (Meness: Recruit through Serjeant; others: Caller, Journeyman, Interpreter, Craftsman, etc.).
-- **Factor** - senior house officer (Emissary, Seer, Hydromancer, Prefect, Journeyman, Craftsman, …).
-- **Unaffiliated** - no bracelet; merchants, labourers, foreign visitors, criminals, Institute staff without patron === not adjutants.
+- **Oestra** — armour-first, crimson/black/bronze, weapon worn openly, martial bluntness
+- **Meness** — white watch-coat, black trim, spotless visibility, lawful watchful bearing
+- **Goela** — purple layers, veils or masks, careful or oracular speech
+- **Grimbolg** — work-stained but orderly; moss green, brown wool, apron, tools; useful hands
+- **Beltus** — black and gold, excessive layers, implies servants or bound entities
+- **Mabon** — indigo/grey craft layers, hands free, maker's marks on clasps or belts
+- **Lithra** — grey/silver, usekh or throat-piece, composed performance, controlled poise
 
 ## Player vs GM
 
-- Quick NPCs for the table are player-safe unless the user asks for GM notes.
-- Do not tag unrevealed factions (Anathemist, spy rings) in player-facing output.
+- Quick NPCs are **player-safe** unless the user asks for GM notes.
+- Do not reveal unrevealed factions (Anathemist, spy rings, true house ties) in player-facing output.
 
-## Example prompt
+## Persisting NPCs
 
-> Quick NPC: [[The Wallarch District | Wallarch]], Grimbolg adjutant, porter near the archives.
+Walk-ons stay in chat. If the user says **save**, **persist**, or **add to wiki**, create `lore/characters/<op_slug>.textile` with standard frontmatter (omit portal-assigned fields), `OP_DESCRIPTION`, and GM block as needed.
+
+## Deep canon (only when needed)
+
+- `lore/wiki/wiki/house-*.textile` — Fashion, philosophy, ranks
+- `lore/wiki/wiki/sindrel.textile` — GM block for races + Stay Ledger (do not spoil in player output)
+- `notes/quick-npc.md` — human-readable cheat sheet (same tables)

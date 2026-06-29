@@ -21,6 +21,24 @@ Through the centre of the city rises a narrow, white spire - a tower over a mile
 
 Sindrel is, so far as anyone knows, the last place on [[Arcan | Arcan]] where the death of magic has not taken hold. Why this is or how long this state of affairs will last is unclear. SIndrel has, naturally, become immensely wealthy and powerful off the back of trading in magical goods and services. It has also become a mixing pot and haven for all those seeking to pursue magic.
 
+h2. Races of Sindrel
+
+Sindrel's ancestry mix is *not* a single citywide average. Three populations overlap everywhere, but each dominates different streets and social levels. Continental baseline for outsiders: [[Artresh | Artresh]] (*Races of Artresh*).
+
+h3. Three populations
+
+h4. 1. Native Sindrellians
+
+Families and lines that have lived in the city for generations - house retainers, archive dynasties, old Wallarch trades, born citizens. Shielded from the death of magic, their makeup reflects *[[Artresh | Artresh]] before the Fade*: elves, tieflings, aasimar, and other magically inclined ancestries are unremarkable among established Sindrellian families. Wealth ranges from house Factors to honest craftspeople, but not the "just arrived with a caravan" poor. Densest in house precincts and older institutions.
+
+h4. 2. Visiting dignitaries and traders
+
+Ambassadors, merchant princes, pilgrimage sponsors, and anyone who can *afford* the journey to Sindrel. They arrive for business, spectacle, or politics and often leave again. Typically wealthy; poor people do not make the trip. Most visible in the upper city, house salons, airship terraces, and the [[Merchants Quarter | Merchant's Quarter]]. They look like *current* [[Artresh | Artresh]] - mundane ancestries dominant. A tiefling ambassador is a talking point; a human one is not.
+
+h4. 3. Refugees and the magically dispossessed
+
+Those who *cannot* make a life elsewhere as magic dies - tieflings, aasimar, genasi, fey-touched peoples, and others whose existence depends on ambient magic. Typically impoverished: last savings, house charity, or the informal economy. Clustered in lower tiers, [[The Wallarch District | Wallarch]], cheap [[Dockward | Dockward]] lodgings, and the edges of the [[Quarantine Zone | Quarantine Zone]]. Magically sustained ancestries are *over-represented* here even compared to native Sindrellians.
+
 h2. Geography
 
 Situated among the inhospitable [[Arkay Mountain Range | Arkay Mountains]], Sindrel is a remote destination for almost any traveller, and reaching it is no trivial feat. The nearest conurbation of any note is [[Soulwind | Soulwind]], 130 leagues to the South-West.
@@ -57,7 +75,7 @@ Being limited in both space and available resources, Sindrel operates tight popu
 
 Individuals in receipt of such patronage are known as _Adjutants_. Where it is necessary to differentiate, full members of the Houses are known as _Factors_, although it is more common simply to speak of such people as being 'of' their house. For example, [[:hielaman | Captain Hielaman]] would be referred to as being a Factor of [[House Meness | House Meness]], but it would be more common to refer to him as " [[:hielaman | Captain Hielaman]] of [[House Meness | House Meness]]."
 
-Patronage is displayed on the person. [[Adjutant | Adjutants]] wear gold bracelets bearing their house's mark. [[Factor | Factors]] bear an enchanted tattoo of their house sigil — often on the hand or forearm, where it can be shown at need. Visitors without patronage receive silver bracelets for the duration of their stay; raised, these display a map and the number of days remaining.
+Patronage is displayed on the person. [[Adjutant | Adjutants]] wear gold bracelets bearing their house's mark. [[Factor | Factors]] bear an enchanted tattoo of their house sigil - often on the hand or forearm, where it can be shown at need. Visitors without patronage receive silver bracelets for the duration of their stay; raised, these display a map and the number of days remaining.
 
 This system has created a de-facto class structure with the Houses in the role of aristocracy and their adjutants as proletariat.
 
@@ -138,34 +156,78 @@ At the centre of both cities stands [[The Fulcrum | The Fulcrum]]. Rising from t
 
 h3. Lower City Districts
 
-[[Merchant's Quarter | Merchant's Quarter]] — The principal point of arrival for overland travellers entering the city by way of [[The Mage Road | the Mage Road.]]
-[[Granary Ward | Granary Ward]] — The logistical heart of the city, centred on the Amalthean (colloquially the Cornucopia) and responsible for distributing food and supplies throughout Sindrel.
-[[Sevenways | Sevenways]] — A sprawling residential district built around an ancient network of ramps and bridges connecting the city's various levels.
-[[The Wallarch District | Wallarch]] — Sindrel's poorest district, pressed between the city's outer wall and the [[Quarantine Zone | Quarantine Zone]].
-[[Quarantine Zone | Quarantine Zone]] — The sealed ruins of [[The Eighth House | The Eighth House]], contaminated by dangerous necromantic energies since the fall of the Eighth.
-The [[House Oestra | Leageur]] — The fortified military enclave of [[House Oestra | House Oestra]].
+[[Merchant's Quarter | Merchant's Quarter]] - The principal point of arrival for overland travellers entering the city by way of [[The Mage Road | the Mage Road.]]
+[[Granary Ward | Granary Ward]] - The logistical heart of the city, centred on the Amalthean (colloquially the Cornucopia) and responsible for distributing food and supplies throughout Sindrel.
+[[Sevenways | Sevenways]] - A sprawling residential district built around an ancient network of ramps and bridges connecting the city's various levels.
+[[The Wallarch District | Wallarch]] - Sindrel's poorest district, pressed between the city's outer wall and the [[Quarantine Zone | Quarantine Zone]].
+[[Quarantine Zone | Quarantine Zone]] - The sealed ruins of [[The Eighth House | The Eighth House]], contaminated by dangerous necromantic energies since the fall of the Eighth.
+The [[House Oestra | Leageur]] - The fortified military enclave of [[House Oestra | House Oestra]].
 
 h3. Upper City Districts
 
-[[Merrylane | Merrylane]] — A district of embassies, parks, and elegant residences favoured by diplomats and visiting dignitaries.
-[[Scholars Ward | Scholars Ward]] — Home to [[The Heptade Academy | the Heptade Academy]] and much of Sindrel's academic and magical elite. Students, professors, researchers, and House scholars crowd its bridges, libraries, and lecture halls.
-[[Dockward | Dockward]] — The centre of Sindrel's airship trade, a mile-wide floating ring suspended around the upper reaches of [[The Fulcrum | the Fulcrum]] like a colossal halo. Colloquially called _the annulus_, it is the gateway through which much of the city's commerce enters and leaves.
+[[Merrylane | Merrylane]] - A district of embassies, parks, and elegant residences favoured by diplomats and visiting dignitaries.
+[[Scholars Ward | Scholars Ward]] - Home to [[The Heptade Academy | the Heptade Academy]] and much of Sindrel's academic and magical elite. Students, professors, researchers, and House scholars crowd its bridges, libraries, and lecture halls.
+[[Dockward | Dockward]] - The centre of Sindrel's airship trade, a mile-wide floating ring suspended around the upper reaches of [[The Fulcrum | the Fulcrum]] like a colossal halo. Colloquially called _the annulus_, it is the gateway through which much of the city's commerce enters and leaves.
 
 h3. Singular Landmarks
 
 Some locations exist outside the ordinary district structure.
 
-[[The Fulcrum | The Fulcrum]] — The political and symbolic heart of Sindrel.
-The Panopticon — The floating headquarters of [[House Meness | House Meness]], which continuously circles the city.
+[[The Fulcrum | The Fulcrum]] - The political and symbolic heart of Sindrel.
+The Panopticon - The floating headquarters of [[House Meness | House Meness]], which continuously circles the city.
 
 <!-- GM_INFO_START -->
-Roughly 1000 years ago (3500 by [[The Soulwind Calendar | the Soulwind Calendar]]), magical researchers discovered a naturally occuring tear in reality.
+h3. Races of Sindrel — NPC generation
+
+When generating or placing an NPC, decide *which population they belong to first* - then pick species from that profile.
+
+*Species profile (native tiers):*
+
+* *Core:* human, elf, half-elf, dwarf, gnome, halfling
+* *Common:* tiefling, aasimar, dragonborn, genasi, half-orc
+* *Uncommon:* tabaxi, kenku, triton, changeling, shifter, duergar, drow, deep gnome
+* *Rare:* fairy, satyr, eladrin, firbolg, harengon
+* *Restricted:* same as [[Artresh | Artresh]] (*Non-existent* and plot-only kinds)
+
+*Species profile (visitor tiers):* follow current [[Artresh | Artresh]] tiers (*Races of Artresh*).
+
+*Species profile (refugee tiers — higher magical proportion than natives):*
+
+* *Core:* tiefling, aasimar, genasi, half-elf, elf
+* *Common:* changeling, shifter, dragonborn, fairy, satyr, eladrin, firbolg, gnome
+* *Uncommon:* human, dwarf, halfling
+* *Rare:* orc, half-orc, goblin
+* *Restricted:* same as [[Artresh | Artresh]]
+
+*Restricted (all populations):* monstrous ancestries, planar entities in mortal guise, undead peoples, and off-world kinds - plot-only unless explicitly introduced.
+
+Founder statues and house art are *flavour*, not quotas. A room full of Lithran courtiers does not require eladrin.
+
+h4. By district (which population dominates)
+
+* *Upper city and house precincts* - **visitors** in public rooms; **native** staff behind the scenes. Refugees as petitioners or labour - not the default guest.
+* *[[Merchants Quarter | Merchant's Quarter]] and airship terraces* - **visitors** arriving and departing; **native** clerks running the counting-houses.
+* *[[Dockward | Dockward]]* - all three: **refugee** dock labour; **native** longshoremen; **visitor** cargo owners.
+* *[[The Fulcrum | Fulcrum]] and [[Merrylane | Merrylane]]* - **native** baseline; **visitor** Hexine Circle delegates; occasional **refugee** talent off the books.
+* *[[The Wallarch District | Wallarch]]* - **refugee** and **native** working poor; mundane **visitor** traders on business only.
+* *[[Quarantine Zone | Quarantine Zone]]* - do not treat as a species pool; plot-driven only.
+
+h4. Naming nudge
+
+Flavour by house architecture (not rules):
+* Oestra - Latinate
+* Beltus - Persian grandeur
+* Meness - Norse
+* Goela - Greek (bonus points for a mundane name that can be pronounced like a greek hero - spectacles to rhyme with hercules for example)
+* Lithra - Egyptian
+* Mabon - Japanese
+
 
 h3. The Stay Ledger
 
 Public belief: silver bracelets are visitor passes (map, countdown, stay limit); gold marks [[Adjutant | Adjutants]]; tattoos mark [[Factor | Factors]]. Nothing more.
 
-GM truth: the **Office of Visitation** (Fulcrum bureaucracy, [[House Grimbolg | Grimbolg]] forge, [[House Meness | Meness]] gate enforcement) maintains a secret **Stay Ledger** — serial, true name, entry gate, and timestamp for every silver binding. Ward-stones under the city log passage when a bound bracelet crosses a district threshold. Gold reports to patron house only; Factor tattoos are not on the guest ledger.
+GM truth: the **Office of Visitation** (Fulcrum bureaucracy, [[House Grimbolg | Grimbolg]] forge, [[House Meness | Meness]] gate enforcement) maintains a secret **Stay Ledger** - serial, true name, entry gate, and timestamp for every silver binding. Ward-stones under the city log passage when a bound bracelet crosses a district threshold. Gold reports to patron house only; Factor tattoos are not on the guest ledger.
 
 **Binding ritual** (not explained to visitors): spoken name on the manifest; putting on the band; brief contact with an attuned gold bracelet or Factor tattoo at the inner gate. The Wonch completed all of this at arrival without recognising it as magic.
 
@@ -173,7 +235,9 @@ Ledger access: gate clerks (partial), Meness intelligence, Lithra identity offic
 
 h2. The Great Houses of Sindrel
 
-The original 8 researchers, immortal and possessed of otherwordly power, set themselves up as the heads of great noble houses in their newly established city. While the leaders have, almost universally, fallen to a bad end, the houses continue in their duties.
+Roughly 1000 years ago (3500 by [[The Soulwind Calendar | the Soulwind Calendar]]), magical researchers discovered a naturally occuring tear in reality.
+
+The original 8 researchers, now immortal and possessed of otherwordly power, set themselves up as the heads of great noble houses in their newly established city. While the leaders have, almost universally, fallen to a bad end, the houses continue in their duties.
 
 The houses are:
 <div class="CSSTableGenerator" style="position:relative;left:0px;top:10px;>

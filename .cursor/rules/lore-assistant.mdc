@@ -7,6 +7,10 @@ alwaysApply: true
 
 This repo mirrors the Obsidian Portal wiki for **The Lords of Sindrel** campaign. Act as a lore assistant and worldbuilding partner, not a generic coder.
 
+## Quick NPC (mid-session)
+
+When the user's message begins with `NPC:` or `Quick NPC:` (case-insensitive), follow `.cursor/rules/npc-generation.mdc` exclusively — not general lore or wiki editing workflows. Generate from its tables without opening wiki files first; read lore when the prompt names specific canon (people, places, factions). Return the output template only unless they ask to persist.
+
 ## Source of truth
 
 - Treat `lore/**/*.textile` as canon unless the user marks content as draft or speculative.
@@ -25,7 +29,7 @@ This repo mirrors the Obsidian Portal wiki for **The Lords of Sindrel** campaign
 
 **Repo-only** (never synced to OP):
 
-- `notes/` - GM todos, shelved checklists, scratch (`notes/todo.md`, `notes/character-descriptions-todo.md`)
+- `notes/` - GM todos, shelved checklists, scratch (`notes/todo.md`, `notes/character-descriptions-todo.md`, `notes/quick-npc.md`)
 - `.cursor/rules/` - agent conventions
 
 **Bridge sync** (companion repo `obsidianportal-git-sync`):
@@ -56,6 +60,7 @@ This repo mirrors the Obsidian Portal wiki for **The Lords of Sindrel** campaign
 ## GM vs player knowledge
 
 - Respect `op_gm_only: true` in frontmatter and `<!-- GM_INFO_START -->` … `<!-- GM_INFO_END -->` blocks.
+- **Lore bridge GM blocks** (companion repo `obsidianportal-git-sync`): markers map to Obsidian Portal's single **`game_master_info`** field per page — content between the markers syncs to OP's GM Only box; the rest is public **body**. The bridge parses **only the first** `GM_INFO_START` / `GM_INFO_END` pair. A second pair on the same page is **not** extracted: everything after the first `GM_INFO_END` (including any later markers) stays in the public body on OP. **Use exactly one GM block per page, at the bottom of the file** (after all player-facing prose). On pull, the bridge re-appends that block to the file tail.
 - **Player Secrets** (Ascendant OP feature) are **not** in the Obsidian Portal API and **do not sync** via the lore bridge. Never put them in bio/description with `OP_PLAYER_SECRETS` comment markers - they publish as visible body text on OP. Maintain player-secret text in OP's Player Secrets UI; optional GM-only mirror in `GM_INFO` for repo reference.
 - When summarising GM notes, label them as GM-only.
 - Do not blend GM secrets into player-safe recaps, handouts, or "what the party knows" unless asked.
@@ -132,6 +137,28 @@ Local CSS backups: `notes/obsidian-portal/` (grey palette = current live theme).
 - **Speculation**: flag clearly as theory, not established fact.
 - **Draft wiki content**: match existing Textile style (frontmatter, `h2.`/`h3.`, blockquotes, accordions).
 - **Edits**: suggest or implement only when asked; keep diffs minimal.
+
+## Mechanical vs player-facing wiki content
+
+**Default:** *mechanical* information is **GM-only** unless the user explicitly asks for it in the main body.
+
+**Mechanical** (GM block or `op_gm_only: true` page):
+
+- Species / ancestry **tiers** (Core, Common, Rare, etc.) and pick tables for NPC generation
+- Instructions to the GM or to an agent ("when generating…", "plot-only", "not quotas", "do not treat as a pool")
+- District **placement** rules for cast composition (which population dominates where for prep)
+- Naming nudges, target distributions, and other prep tooling
+- Restricted / non-existent lists used to gate random generation
+
+**Player-facing** (main body on public pages):
+
+- In-world sociology and prose — what people in the setting know, see, and remark on
+- History, geography, culture, and observable facts the party could learn in play
+- Tables that describe the world as characters experience it (e.g. founder depictions on statues)
+
+Use `<!-- GM_INFO_START -->` … `<!-- GM_INFO_END -->` on mixed pages — **one block only, at the file bottom** (see *GM vs player knowledge* above). Whole pages that are prep-only may use `op_gm_only: true` in frontmatter instead.
+
+When splitting content, keep public prose readable without the GM block — agents and the GM still read both.
 
 ## New pages (Obsidian Portal sync)
 
