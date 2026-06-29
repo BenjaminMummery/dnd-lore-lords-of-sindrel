@@ -7,7 +7,7 @@ name: Pin
 title: Pin
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/pin
 op_created_at: '2025-12-14T17:12:16Z'
-op_updated_at: '2026-03-12T11:31:06Z'
+op_updated_at: '2026-06-29T14:03:32Z'
 op_gm_only: false
 is_player_character: true
 tags:
@@ -21,7 +21,6 @@ A lean human man with auburn hair and alert green eyes. A soldier's stoic alertn
 Carries a plain longsword with old, careful maintenance - a soldier's blade, not a noble's showpiece. The guard bears worn knotwork.
 
 <!-- OP_BIO -->
-
 * *28th Enean 4218 [[The Soulwind Calendar | SC]]* - During downtime in [[Sindrel | Sindrel]], asked magical shops about the [[The Fallowhurst Sigil | Fallowhurst sigil]] seen at [[Fallowhurst College | Fallowhurst College]]; could not reproduce it from memory. Later drank with [[:hielaman | Captain Hielaman]]; woke with a black eye after a [[Ditchquer | Ditchquer]] argument.
 
 <!-- GM_INFO_START -->

@@ -7,7 +7,7 @@ name: House Lithra
 title: House Lithra
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/house-lithra
 op_created_at: '2026-01-21T14:04:48Z'
-op_updated_at: '2026-06-25T12:20:41Z'
+op_updated_at: '2026-06-29T14:04:09Z'
 op_gm_only: false
 tags:
 - House of Sindrel

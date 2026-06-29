@@ -7,7 +7,7 @@ name: 'Session 2: Fallowhurst'
 title: 'Session 2: Fallowhurst'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-2-fallowhurst
 op_created_at: '2026-01-05T10:51:13Z'
-op_updated_at: '2026-06-27T18:15:55Z'
+op_updated_at: '2026-06-29T14:03:49Z'
 op_gm_only: false
 tags: []
 post_tagline: Let the Hunt Begin...

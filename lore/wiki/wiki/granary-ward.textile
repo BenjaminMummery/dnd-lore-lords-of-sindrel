@@ -7,7 +7,7 @@ name: Granary Ward
 title: Granary Ward
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/granary-ward
 op_created_at: '2026-06-24T10:18:11Z'
-op_updated_at: '2026-06-24T10:20:27Z'
+op_updated_at: '2026-06-29T14:04:03Z'
 op_gm_only: false
 tags:
 - location

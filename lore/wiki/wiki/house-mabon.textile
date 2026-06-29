@@ -7,7 +7,7 @@ name: House Mabon
 title: House Mabon
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/house-mabon
 op_created_at: '2026-01-27T11:53:54Z'
-op_updated_at: '2026-06-25T10:02:44Z'
+op_updated_at: '2026-06-29T14:04:10Z'
 op_gm_only: false
 tags:
 - House of Sindrel

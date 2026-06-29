@@ -7,7 +7,7 @@ name: Rossin "Ros" Greyhirst
 title: Rossin "Ros" Greyhirst
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/rossin-ros-greyhirst
 op_created_at: '2025-12-14T17:10:38Z'
-op_updated_at: '2026-03-12T11:31:51Z'
+op_updated_at: '2026-06-29T14:03:36Z'
 op_gm_only: false
 is_player_character: true
 tags:
@@ -19,3 +19,4 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457462/WhatsApp_Image_2
 A woman with pale skin and ice-coloured eyes, and silver-grey hair. Olive green and brown leather armour with feathered shoulder details - a ranger's kit worn with the confidence of someone who has already decided where the arrow goes.
 
 <!-- OP_BIO -->
+

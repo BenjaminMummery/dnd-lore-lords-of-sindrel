@@ -7,7 +7,7 @@ name: Session 10
 title: 'Session 10: Shakes Spear in the Park'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-10
 op_created_at: '2026-05-20T14:18:31Z'
-op_updated_at: '2026-06-27T21:56:39Z'
+op_updated_at: '2026-06-29T14:03:46Z'
 op_gm_only: false
 tags: []
 post_time: '2026-05-20T12:30:00Z'

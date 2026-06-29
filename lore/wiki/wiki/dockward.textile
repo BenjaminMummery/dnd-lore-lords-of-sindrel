@@ -7,7 +7,7 @@ name: Dockward
 title: Dockward
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/dockward
 op_created_at: '2026-06-24T10:13:27Z'
-op_updated_at: '2026-06-24T10:13:27Z'
+op_updated_at: '2026-06-29T14:03:59Z'
 op_gm_only: false
 tags:
 - location

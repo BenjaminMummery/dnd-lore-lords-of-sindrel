@@ -7,7 +7,7 @@ name: First of Mabon
 title: First of Mabon
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/first-of-mabon
 op_created_at: '2026-01-02T20:57:23Z'
-op_updated_at: '2026-06-25T09:42:21Z'
+op_updated_at: '2026-06-29T14:03:13Z'
 op_gm_only: true
 is_player_character: false
 tags:

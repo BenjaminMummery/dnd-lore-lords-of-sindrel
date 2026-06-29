@@ -7,10 +7,9 @@ name: 'Session 9: Downtime 2'
 title: 'Session 9: Downtime 2'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-9-downtime-2
 op_created_at: '2026-05-20T12:24:54Z'
-op_updated_at: '2026-06-26T21:28:08Z'
+op_updated_at: '2026-06-29T14:03:56Z'
 op_gm_only: false
 tags: []
-post_tagline: Home Is Where the Butler Is...
 post_time: '2026-05-20T12:30:00Z'
 ---
 
