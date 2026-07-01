@@ -7,7 +7,7 @@ name: The Adventurers
 title: The Adventurers
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-adventurers
 op_created_at: '2026-01-12T22:16:22Z'
-op_updated_at: '2026-06-29T12:49:01Z'
+op_updated_at: '2026-06-29T14:19:43Z'
 op_gm_only: false
 tags:
 - Organisation
