@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-06-28T19:40:28Z",
-  "last_portal_pull": "2026-07-01T12:41:13Z",
+  "last_portal_pull": "2026-07-01T13:04:11Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -457,9 +457,9 @@
       "op_id": "3dd6af69d11e4345a987028922d1e974",
       "op_kind": "Wiki",
       "op_slug": "sindrel",
-      "op_updated_at": "2026-06-29T15:13:42Z",
-      "repo_blob_sha": "f1fdda13d28bd4fe793b27703113fa01f1454dbd",
-      "repo_hash_at_sync": "e9491b059fd8ff5fe3755a6a7a8db061212946212d966b2d7a2a9c6a2100fac4",
+      "op_updated_at": "2026-07-01T12:42:23Z",
+      "repo_blob_sha": "649be103911584679b151b0779631476e60c5e0a",
+      "repo_hash_at_sync": "548dbb112aa782f2777a76f76772d1c3847e6bf1c6bce0226e0925f9166e05f9",
       "repo_path": "lore/wiki/wiki/sindrel.textile"
     },
     "4101f6ab35084d1e9b100cbb94da82cd": {
@@ -1027,9 +1027,9 @@
       "op_id": "a53977e64ce44d78869bea16f12b3c19",
       "op_kind": "Wiki",
       "op_slug": "artresh",
-      "op_updated_at": "2026-06-29T15:13:33Z",
-      "repo_blob_sha": "3761358976062216d0de75321714a3ae412f030e",
-      "repo_hash_at_sync": "676c7c03576f7e2d5b49a39a7ae098f69146d006658b41f04c0111ce16024f5b",
+      "op_updated_at": "2026-07-01T12:42:13Z",
+      "repo_blob_sha": "8da46982554f91e1e59d53394ef44740d1e581ab",
+      "repo_hash_at_sync": "159956568f36fcee40807469f92687e6ccd209f1daddfeb1352a08cfee2d7a87",
       "repo_path": "lore/wiki/wiki/artresh.textile"
     },
     "a89336819da9492ab3cf1d3cbda7436b": {

@@ -7,7 +7,7 @@ name: Sindrel
 title: Sindrel
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/sindrel
 op_created_at: '2025-11-24T22:43:41Z'
-op_updated_at: '2026-06-29T15:13:42Z'
+op_updated_at: '2026-07-01T12:42:23Z'
 op_gm_only: false
 tags:
 - location
