@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-06-28T19:40:28Z",
-  "last_portal_pull": "2026-07-01T17:07:09Z",
+  "last_portal_pull": "2026-07-01T21:21:04Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -307,9 +307,9 @@
       "op_id": "27142b6fc6b246bf9f2b6e8ea11dbfac",
       "op_kind": "Character",
       "op_slug": "kithrak-ii",
-      "op_updated_at": "2026-06-28T00:10:10Z",
-      "repo_blob_sha": "b98013c4da41aba66ed062de9926eed97989a618",
-      "repo_hash_at_sync": "47a5ccfeae7fa59142e54638c6e6da118ad446eefba63d9770f6fc783836d883",
+      "op_updated_at": "2026-07-01T17:07:35Z",
+      "repo_blob_sha": "89040cbf1dd8463508882d89ae60727efc3f1bc0",
+      "repo_hash_at_sync": "f19643a5e1ebacb987114031a688fbb431a31ecdc371750d5605f89d50bd8f63",
       "repo_path": "lore/characters/kithrak-ii.textile"
     },
     "296cf30dcb054a71bfcc585e8aedd604": {
@@ -467,9 +467,9 @@
       "op_id": "4101f6ab35084d1e9b100cbb94da82cd",
       "op_kind": "Character",
       "op_slug": "tama",
-      "op_updated_at": "2026-06-29T14:03:42Z",
-      "repo_blob_sha": "92b15c746a5003fe68fce968aaf716cbd53f43b2",
-      "repo_hash_at_sync": "0753aaa759f3685a045fdbcfaf8b467b97bac716dc21f5675ae818d93a9a72e4",
+      "op_updated_at": "2026-07-01T18:45:59Z",
+      "repo_blob_sha": "921b4a6bb2eda6f835c407d5601dd7f0998b69b6",
+      "repo_hash_at_sync": "b126b159bc9a84f3c5cf1d076f3487699196a1f9c21c3bc8731e1109509f0e80",
       "repo_path": "lore/characters/tama.textile"
     },
     "42cee9f0b8134dccab7714a196fd04d5": {
@@ -867,9 +867,9 @@
       "op_id": "7d77af4f53574b049e98cd0a3784f6af",
       "op_kind": "Character",
       "op_slug": "nakoma-deathwalker-mor-got-ha",
-      "op_updated_at": "2026-07-01T16:21:14Z",
-      "repo_blob_sha": "7326927bf1d2ab7768eb607026b9b488408cfa6f",
-      "repo_hash_at_sync": "141ab80201d23198e1d47e245f1eed86b9db6ccfa2c12a3db1df858a830acb71",
+      "op_updated_at": "2026-07-01T18:50:21Z",
+      "repo_blob_sha": "bc3ad6f32de16f67521db55723396d665263447f",
+      "repo_hash_at_sync": "f1f224eaf061145bb51a7690dde78757093d95529075a9e92e7ec62f1c943a55",
       "repo_path": "lore/characters/nakoma-deathwalker-mor-got-ha.textile"
     },
     "7f011f2f93db42fa949cd26d9d045dad": {
@@ -957,9 +957,9 @@
       "op_id": "9b1bca509edd4ffa87ef4ad7bcba70d4",
       "op_kind": "Character",
       "op_slug": "gillette-quill",
-      "op_updated_at": "2026-06-26T21:26:59Z",
-      "repo_blob_sha": "fb71f91cf152251487ffe631e43a6bb190b93c32",
-      "repo_hash_at_sync": "7c8a4c9a775fe84f8e413d10f6467ea93dcc211d75c0e300f6cadee3f8a843c6",
+      "op_updated_at": "2026-07-01T17:07:31Z",
+      "repo_blob_sha": "d82d38ab85f2b3c58470bc31dfe6c963b517c703",
+      "repo_hash_at_sync": "e71fce6de873123d4bd26835d55d461c663cced20ce4a55e89c15174901204dd",
       "repo_path": "lore/characters/gillette-quill.textile"
     },
     "9c9f7ee7fc5d449daad869fb0c972bd9": {
@@ -987,9 +987,9 @@
       "op_id": "a100cad56baf4ec69e4dd9fe6b59f396",
       "op_kind": "Character",
       "op_slug": "zalatan",
-      "op_updated_at": "2026-06-28T09:50:37Z",
-      "repo_blob_sha": "79b8577974fe9b05c24143fc631267ffed11b722",
-      "repo_hash_at_sync": "692788df3dc9008843ff7b480be578a1990a18d39238e856430c6746b977f43d",
+      "op_updated_at": "2026-07-01T17:07:52Z",
+      "repo_blob_sha": "7e8d28a81ca8920b1353a37f2f41611de7b448f0",
+      "repo_hash_at_sync": "e4d3fc9f165a2a8701e43f89ee3b33149879631a419a562e8e81e5647370bec6",
       "repo_path": "lore/characters/zalatan.textile"
     },
     "a2b2938e6334449ba46896f9d3375eeb": {
@@ -1037,9 +1037,9 @@
       "op_id": "a89336819da9492ab3cf1d3cbda7436b",
       "op_kind": "Character",
       "op_slug": "arise-to-victory-over-the-infidel-hoards",
-      "op_updated_at": "2026-07-01T11:03:29Z",
-      "repo_blob_sha": "3f63c172e6c1542da350e54794c657b76c14dd72",
-      "repo_hash_at_sync": "04f9625eecde1bb175024c34a212aca24721c4a9c48426ff19d439512ba0d660",
+      "op_updated_at": "2026-07-01T17:07:19Z",
+      "repo_blob_sha": "55fd00b2e72fec06b831ee94b4d86f098afbb3f0",
+      "repo_hash_at_sync": "2852f5cddf0cb61b27598727e74a84f2d1f8b5e279970803953ceaf2bbf220ea",
       "repo_path": "lore/characters/arise-to-victory-over-the-infidel-hoards.textile"
     },
     "acb373164a99443380d7b4a6aabc73fd": {
@@ -1167,9 +1167,9 @@
       "op_id": "ba31365df7b14eef9094b4a9527967ba",
       "op_kind": "Wiki",
       "op_slug": "anathemists",
-      "op_updated_at": "2026-07-01T11:04:28Z",
-      "repo_blob_sha": "11a761f7604fc15e3fb7f36460b8f9d7293ee8c8",
-      "repo_hash_at_sync": "98de3e95290e78b80768dc00113a0e12da46fe0099f4e2432ccb520c768b2ff5",
+      "op_updated_at": "2026-07-01T17:07:57Z",
+      "repo_blob_sha": "0fe8aa8606a87ec83c131e240ddd5632dcfc610a",
+      "repo_hash_at_sync": "0f5b243dae6b9ea053bcd31a22376f713704f3227f2cd7d62c6fcfed33cc35a9",
       "repo_path": "lore/wiki/wiki/anathemists.textile"
     },
     "ba70a1fc7e2545f58bdc5e1419cb44bc": {
@@ -1427,9 +1427,9 @@
       "op_id": "e2da37ba92ce4862a0165713a93c5a64",
       "op_kind": "Wiki",
       "op_slug": "osteomantic-archives",
-      "op_updated_at": "2026-07-01T11:04:48Z",
-      "repo_blob_sha": "499adb1b2abc7b4201460b26419882f4240ffa2c",
-      "repo_hash_at_sync": "d748dccfe398d48b10ecf156e8d5e05f79adf9643e4340602b714efc86f9fb88",
+      "op_updated_at": "2026-07-01T17:08:05Z",
+      "repo_blob_sha": "a363693f2ea03caa677d137f8a669d3c4b91dfd9",
+      "repo_hash_at_sync": "9d8ca3c895d7346aed2299ee98360080d2485237c634c29a7a41879081007626",
       "repo_path": "lore/wiki/wiki/osteomantic-archives.textile"
     },
     "e63be30a0288472a891adba197bc5e84": {
@@ -1467,9 +1467,9 @@
       "op_id": "f0cdec730cc34d19b2719b28128b7b2b",
       "op_kind": "Character",
       "op_slug": "dulcinia-von-phthasia",
-      "op_updated_at": "2026-06-26T21:26:50Z",
-      "repo_blob_sha": "2ea0b5996f4027d3caa05744f6bab629f822e3cf",
-      "repo_hash_at_sync": "a0225218b88c423393ef782caa131db5ac3e320c4dfd753c8251e656d8cf55b9",
+      "op_updated_at": "2026-07-01T17:07:27Z",
+      "repo_blob_sha": "439d72f0df76ba75a1af961c5b5de91e562fb1d1",
+      "repo_hash_at_sync": "91fe0879f0ac0bb6528b2a4f6ba81b70a6d77186d54e298aed3fca35409c64ed",
       "repo_path": "lore/characters/dulcinia-von-phthasia.textile"
     },
     "f393390121d346dc9be6ef37805492f0": {
@@ -1477,9 +1477,9 @@
       "op_id": "f393390121d346dc9be6ef37805492f0",
       "op_kind": "Character",
       "op_slug": "raymond-quill",
-      "op_updated_at": "2026-06-26T21:27:18Z",
-      "repo_blob_sha": "ad47544c3a90b02c1758d8e72c9d861fb935277a",
-      "repo_hash_at_sync": "3e7f61da015da7eabd397fdd7732f58fa109d6e5768399ab55ed437224fff59e",
+      "op_updated_at": "2026-07-01T17:07:46Z",
+      "repo_blob_sha": "5596b100d0c624741e559e7114ee1f1e48ddc578",
+      "repo_hash_at_sync": "d3600806b6918f6a8dc85ff8ebe154b298076c20786f295c875d0793d3c69b13",
       "repo_path": "lore/characters/raymond-quill.textile"
     },
     "f6968888c89c44bfa3db1aeb8781004d": {
@@ -1507,9 +1507,9 @@
       "op_id": "fab92a384bdb4e03bf8617366aa8ce71",
       "op_kind": "Wiki",
       "op_slug": "the-black-cats",
-      "op_updated_at": "2026-07-01T11:05:00Z",
-      "repo_blob_sha": "7df3c87da05559a38c66398d4f3f175731594985",
-      "repo_hash_at_sync": "20d76c5452017ab9193d51e592ae7441988f08c473260311cb520e86da311f60",
+      "op_updated_at": "2026-07-01T17:08:09Z",
+      "repo_blob_sha": "4f2c0e6b0aeca26f578e72410eab5e0c09af90f0",
+      "repo_hash_at_sync": "9d3f99f0d89cedaa00b510be9260640a4a873d9514dd1f897e04ef06f7c327a9",
       "repo_path": "lore/wiki/wiki/the-black-cats.textile"
     },
     "fb7afdff854544d5a53af88202ee65c9": {

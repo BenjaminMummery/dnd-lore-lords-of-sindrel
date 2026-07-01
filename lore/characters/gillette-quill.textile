@@ -7,7 +7,7 @@ name: Gillette Quill
 title: Gillette Quill
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/gillette-quill
 op_created_at: '2025-12-09T19:50:05Z'
-op_updated_at: '2026-03-12T11:32:32Z'
+op_updated_at: '2026-07-01T17:07:31Z'
 op_gm_only: false
 is_player_character: false
 tags:

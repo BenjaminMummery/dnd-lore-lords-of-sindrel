@@ -7,12 +7,12 @@ name: Kithrak II
 title: Kithrak II
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/kithrak-ii
 op_created_at: '2026-04-23T10:38:12Z'
-op_updated_at: '2026-06-03T17:23:56Z'
+op_updated_at: '2026-07-01T17:07:35Z'
 op_gm_only: false
 is_player_character: true
 tags:
-- Undead
 - in-party
+- Undead
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7516425/farp_small_wall_texture_product_750x1000.jpg
 ---
 

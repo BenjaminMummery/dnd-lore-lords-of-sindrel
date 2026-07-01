@@ -7,7 +7,7 @@ name: Osteomantic Archives
 title: Osteomantic Archives
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/osteomantic-archives
 op_created_at: '2026-01-27T15:24:42Z'
-op_updated_at: '2026-07-01T11:04:48Z'
+op_updated_at: '2026-07-01T17:08:05Z'
 op_gm_only: false
 tags:
 - location
@@ -83,7 +83,7 @@ A figure in a flowing robe stands with hands tucked into sleeves. An intricate f
 <br>
 A tiefling wears high trousers and a loose shirt open at the throat. Their hand rests loosely on the hilt of a shortsword at their side, hips canted in a louche swagger. An amulet of gleaming silver stars lies against the chest, each point sharp enough to cut.
 <br>
-A dwarf woman in heavy armour stands square to the room, hair cropped short above a stern, unyielding face. [[Swordbreaker | A shortsword]] rests at her side, notched with swordbreaker teeth along the back of the blade. Her hand rests atop a colossal tower shield almost as tall as she is, its face inlaid with silver knotwork.
+A dwarf woman in heavy armour stands square to the room, hair cropped short above a stern, unyielding face. A shortsword rests at her side, notched with swordbreaker teeth along the back of the blade. Her hand rests atop a colossal tower shield almost as tall as she is, its face inlaid with silver knotwork.
 <br>
 The eighth niche is wrong. There is no statue - only a bare plinth, a drift of fine grey dust at its foot, and scorch-pitting on the rear wall as if something inside the stone had been unmade in an instant. A few flecks of silver glitter in the dust.
 
@@ -91,7 +91,7 @@ A commemorative gallery of the eight founders of [[Sindrel | Sindrel]] - life-si
 
 The eighth niche - traditionally held by the Lord of Necromancy - is empty. The statue has been destroyed, reduced to dust and scorch marks on the stone. Local legend offers no consistent explanation; curators who know of the hall at all speak of an old "unsoundness" in that block of stone.
 
-[[:nakoma-deathwalker-mor-got-ha | Deathwalker]] removed the [[Oestra Effigy Blade | silver greatsword]] from the [[House Oestra | Oestra]] founder's effigy. It is statuary without a serviceable edge — cold weight and house ornament, not a weapon.
+[[:nakoma-deathwalker-mor-got-ha | Deathwalker]] removed the silver greatsword from the [[House Oestra | Oestra]] founder's effigy. It is a ceremonial prop without a serviceable edge - cold weight and house ornament, not a weapon.
 
 h4. The Battle Diorama
 
@@ -167,7 +167,7 @@ Possible caretaker behaviours:
 * misidentifying a living visitor as unprocessed remains or an overdue exhibit;
 * wheeling in a corpse from a conflict that happened decades after [[The Eighth House | House Samhain]]'s fall — Step 7 of the Fallen Display Protocol;
 * emitting distress tones because the [[World History | Seven Day War]] display lacks "sufficient eyewitness material" per accession quota;
-* attempting to return [[:ayr | Ayr]]'s [[The Unanswered Cry | The Unanswered Cry]], [[:pin | Pin]]'s [[Hesh | sword]], or [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s head to "the relevant collection";
+* attempting to return [[:ayr | Ayr]]'s buckler, [[:pin | Pin]]'s sword, or [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s head to "the relevant collection";
 * referring to the [[The Fall of the Eighth House | Fall of the Eighth House]] as a temporary interruption in staffing — literal programme text, not denial.
 
 h2. Encounter building
@@ -308,7 +308,7 @@ h3. Hall of the Founders (crossroads)
 * **Door:** [[House Goela | House Goela]] sigil at the nonagonal chamber.
 * **Layout:** vaulted gallery; eight niches; founder effigies in pale stone with signature items in silver (see [[The Octarion Circle | Octarion Circle]] GM table for canonical items and depictions).
 * **Samhain niche:** statue disintegrated by a post-Fall curse cast by [[:lord-ablas-oestra | Lord Ablas Oestra]] - an attempt to erase every depiction of [[The Eighth House | House Samhain]] from the archive. The magic unmade stone and silver alike; the name plaque was chiselled away later (likely Meness record-keeping or Oestra embarrassment). Dust and pitting remain; no restoration attempted.
-* **Oestra sword:** silver greatsword set in the founder effigy's hands. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] took it in Session 8 and wrapped the hilt. No edge, no balance, no evocation — a pale imitation of [[Gladius | Gladius]] (see [[Oestra Effigy Blade | Oestra Effigy Blade]] and [[:lord-ablas-oestra | Lord Ablas Oestra]]).[2]
+* **Oestra sword:** silver prop blade on the founder effigy. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] took it in Session 8 and wrapped the hilt. No edge, no balance, no evocation - a pale imitation of [[:the-gladius | Gladius]] (see [[:lord-ablas-oestra | Lord Ablas Oestra]).[2]
 
 h3. Outward Hazards
 

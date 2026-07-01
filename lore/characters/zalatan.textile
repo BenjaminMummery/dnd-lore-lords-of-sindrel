@@ -7,7 +7,7 @@ name: Zalatan
 title: Zalatan
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/zalatan
 op_created_at: '2026-04-23T12:54:28Z'
-op_updated_at: '2026-04-23T12:55:08Z'
+op_updated_at: '2026-07-01T17:07:52Z'
 op_gm_only: false
 is_player_character: false
 tags:
