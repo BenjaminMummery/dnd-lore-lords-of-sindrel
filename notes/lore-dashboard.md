@@ -1,10 +1,10 @@
 # Lore dashboard
 
-_Auto-generated on 2026-07-01 11:03. Open [lore-dashboard.html](lore-dashboard.html) for charts._
+_Auto-generated on 2026-07-01 12:02. Open [lore-dashboard.html](lore-dashboard.html) for charts._
 
 ## Current date (Session 11)
 
-- 31st Enean 4218 SC
+- 31st Enean 4218 ( SC)
 
 ## NPC gender (tagged persons only)
 
@@ -16,10 +16,6 @@ _Auto-generated on 2026-07-01 11:03. Open [lore-dashboard.html](lore-dashboard.h
 ## Party wealth
 
 - Level 3 - Comfortable
-
-## Days remaining in Sindrel (Session 11 (31st Enean 4218 SC))
-
-- ~31 of 36 days
 
 ## PC & faction mention proportions
 

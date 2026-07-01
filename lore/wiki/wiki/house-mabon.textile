@@ -18,6 +18,8 @@ _The Weavers of Enchantment_
 
 As the only place where it is possible to create them, [[Sindrel | Sindrel]] has an effective monopoly on enchanted items. These form the core of its economic power, and House Mabon are the people who create them.
 
+h2. Personnel
+
 h3. Known [[Factor | Factors]]
 
 * [[:journeyman-galoras | Journeyman Galoras]] - Member of the [[Hexine Circle | Hexine Circle]] formed to counter [[Anathemists | Anathemist]] infiltration of the city.
@@ -28,7 +30,7 @@ h3. Known [[Adjutant | Adjutants]]
 
 * [[:nielsenn | Nielsenn]] - vaporised when one of his own trapped locks backfired
 
-h3. Fashion and Workwear
+h2. Fashion and Workwear
 
 House Mabon clothing descends from forms worn in the eastern lands, but centuries in cold [[Sindrel | Sindrel]] have made it thicker, layered, and more practical. Where Beltus uses clothing to display effortless command, and Oestra uses armour to declare martial duty, Mabon dresses for making.
 
@@ -42,7 +44,7 @@ Mabon colours favour deep blue, steel blue, storm grey, frost white, silver, bla
 
 For House Mabon, elegance is not excess. Elegance is function so refined that it becomes beautiful.
 
-h3. Architecture
+h2. Architecture
 
 The echoes of the eastern lands remain in House Mabon's architecture, but the cold climate and magical construction have made it heavier, warmer, and more technically ambitious. It is architecture built by craftspeople for craftspeople: layered, adaptable, precise, and quietly beautiful.
 
@@ -56,13 +58,13 @@ Mabon ornamentation is restrained but exacting. Joinery, bracket-work, metal inl
 
 A Mabon district does not try to intimidate or dazzle. It hums. It measures. It improves. Every beam is set, every joint is considered, and every space exists so that something can be imagined, shaped, repaired, taught, or made.
 
-h3. Headquarters
+h2. Headquarters
 
 The Prow, on the seaward rim of [[Dockward | Dockward]], serves as the headquarters of House Mabon.
 
 bq). Atop [[Sindrel | Sindrel]] hangs [[Dockward | Dockward]], a mile-wide ring of arches, cranes, and bays that serves as the city's principal airship port. Colloquially it is called the annulus, for the halo it forms around the upper reaches of [[The Fulcrum | the Fulcrum]]. On the seaward side of the ring stands the building known as The Prow. Its name is well earned: the walls sweep steeply outwards, creating a structure resembling nothing more than the bow of a colossal ship jutting out over the waves far below. From this high seat, House Mabon oversees a trade empire that covers much of the continent.
 
-h3. Anathemist Sabotage
+h2. Anathemist Sabotage
 
 House Mabon has suffered at least two suspicious incidents linked to the wider Anathemist sabotage campaign.
 
@@ -73,16 +75,16 @@ The second occurred on _8th Enean_. [[:craftsman-shegrim | Craftsman Shegrim]] w
 Together, these incidents suggest that House Mabon's expertise in craft, enchantment, locks, armour, and magical objects has made it a particular target. The House's own tools and specialities have been turned against it.
 
 <!-- GM_INFO_START -->
-h3. Overview
+h2. Overview
 
 * Architecture reference: Japanese (Edo)
 * Philosophy: Creation - The highest calling is to build, improve, refine, and leave behind works of beauty and ingenuity.
 
-h3. Leader
+h2. Leader
 
 [[:first-of-mabon | First of Mabon]]
 
-h3. Ranks:
+h2. Ranks:
 
 Mabon have a strong master / apprentice culture
 
@@ -93,11 +95,11 @@ Mabon have a strong master / apprentice culture
 * Crafter
 * Apprentice
 
-h3. Factors:
+h2. Factors:
 
 * [[:craftsman-shegrim | Craftsman Shegrim]]
 
-h3. Anathemist Exploitation
+h2. Anathemist Exploitation
 
 House Mabon was exploited twice by the [[Anathemists | Anathemist]] cell.
 

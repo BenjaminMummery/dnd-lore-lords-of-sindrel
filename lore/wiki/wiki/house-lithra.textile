@@ -18,6 +18,8 @@ _The Ambassadors of Illusion_
 
 Possibly the most versatile of the Houses, charged with [[Sindrel | Sindrel]]'s image both internally and abroad. Most visible in the city's entertainers and diplomats, they also produce propaganda and manage the communication systems. They are [[Sindrel | Sindrel]]'s ambassadors, diplomats, entertainers, and message couriers.
 
+h2. Personnel
+
 h3. Known [[Factor | Factors]]
 
 * [[:emissary-halan | Emissary Halan]] - Member of the [[Hexine Circle | Hexine Circle]] formed to counter [[Anathemists | Anathemist]] infiltration of the city.
@@ -27,7 +29,7 @@ h3. Known [[Adjutant | Adjutants]]
 
 * [[:myrath | Agent Myrath]] - Stationed at [[Fallowhurst Outpost | Fallowhurst Outpost]]
 
-h3. Fashion and Attire
+h2. Fashion and Attire
 
 House Lithra clothing is as adaptable as the House itself, and is intended to be a cohesive part of whatever performance the wearer is putting on.
 
@@ -42,7 +44,7 @@ For field agents, messengers, and spies, the same visual language becomes darker
 The House symbol is worn with restraint. It may appear as a silver eye-clasp at the throat, a black glyph embroidered into a lining, a signet on a glove, a veil-pin, or a pattern worked into a hem where only another Lithran would notice. More formal representatives may wear the eye openly, but even then it is more warning than boast.
 In House Lithra, every ornament has a purpose, every veil changes the conversation, and every collar tells the room who is permitted to speak.
 
-h3. Architecture
+h2. Architecture
 
 House Lithra is the most flexible of the Great Houses, and its architecture reflects this. It does not have one public face. It has as many as are useful.
 
@@ -58,7 +60,7 @@ Lithran architecture is full of eyes, but rarely in crude repetition. The House 
 
 The guiding principle is not deception for its own sake, but controlled meaning. Lithra builds places where people reveal themselves, where every sightline is chosen, and where the difference between hospitality, theatre, diplomacy, and surveillance is mostly a matter of invitation.
 
-h3. Anathemist Sabotage
+h2. Anathemist Sabotage
 
 House Lithra was struck not by fire, flood, or poison, but by scandal.
 
@@ -67,22 +69,22 @@ On 21st Ostory, the punch ladle at a diplomatic function hosted by House Lithra 
 The incident appears ridiculous at first glance, but its consequences were serious. House Lithra's authority depends heavily on poise, secrecy, negotiation, and the careful management of what is said aloud. An enchantment forcing truth in the middle of a diplomatic function was therefore a direct attack on the House's reputation and methods.
 
 <!-- GM_INFO_START -->
-h3. Overview
+h2. Overview
 
 * Architecture reference: Egyptian
 * Philosophy: Meaning - Events possess no inherent significance. Civilization depends upon understanding, interpreting, and communicating what matters.
 
-h3. Philosophy
+h2. Philosophy
 
 House Lithra concerns itself not merely with information, but with _meaning_.
 
 Its ambassadors, entertainers, archivists, and messengers all share a common purpose: shaping how events are understood. Lithrans believe that facts alone possess little value. History must be interpreted, knowledge must be communicated, and events must be placed within a narrative before they can influence society. As a result, House Lithra concerns itself with diplomacy, public perception, education, and propaganda in equal measure. To its critics, the House manipulates the truth. To its defenders, it simply ensures that truth remains meaningful.
 
-h3. Leader
+h2. Leader
 
 [[:ambassador-thrawne-lithra | Ambassador Thrawne Lithra]]
 
-h3. Ranks
+h2. Ranks
 Lithra doesn't have a strict rank structure, titles are dependent on what a person does. However there is a rough hierarchy
 
 * Ambassador - can represent the city as a whole in international discourse
@@ -92,7 +94,7 @@ Lithra doesn't have a strict rank structure, titles are dependent on what a pers
 * Delegate
 * Agent
 
-h3. Headquarters - The Eidolon
+h2. Headquarters - The Eidolon
 
 bq). The Eidolon floats a hundred feet above the streets of [[Sindrel | Sindrel]]. Admittedly that in and of itself is not a notable achievement in a city where gravity is generally regarded as an old-fashioned custom. What is notable is that the design of the colossal structure somehow makes the viewer intensely aware of the sheer weight of such an edifice, and the immense achievement of its suspension. The real trick of the Eidolon is that in a city of floating buildings it somehow manages to float _impressively_.
 <br>

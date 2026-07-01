@@ -16,18 +16,20 @@ tags:
 [[File:1546933  | class=media-item-align-right | 300px | Oestra.png]]
 _The Warriors of Evocation_
 
+h2. Personnel
+
 h3. Known Factors
 
 * [[:commander-locke | Prefect Locke]] - Member of the [[Hexine Circle | Hexine Circle]] formed to counter [[Anathemists | Anathemist]] infiltration of the city.
 
 
-h3. Fashion
+h2. Fashion
 
 House Oestra dress is armour first and fashion second.
 
 The typical Oestran silhouette is upright, broad-shouldered, and hard-edged. Breastplates are common even away from battle, and the House symbol is proudly emblazoned across them in black, bronze, or dark enamel. To wear the Oestra mark on cloth is acceptable. To wear it on armour is proper.
 
-Oestra armour favours dark steel, bronze trim, black leather, red enamel, and crimson cloth. Officers wear long red cloaks, usually clasped at one shoulder and cut to leave the weapon arm free. Reinforced skirts in the style used by [[Soulwind | Soulwind]] at the height of its power are used when deployed to warmer climates, but in the cold north of [[Sindrel | Sindrel]]'s environs Oestrans favour heavy trousers tucked into greaves. Perhaps unwilling to break too far with tradition, these are paired with hip armour that maintains the older skirt sillhouette. Segmented plates at the shoulders and hips maintain mobility without sacrificing protection.
+Oestra armour favours dark steel, bronze trim, black leather, red enamel, and crimson cloth. Officers wear long red cloaks, usually clasped at one shoulder and cut to leave the weapon arm free. Reinforced skirts in the style used by [[Soulwind | Soulwind]] at the height of its power are used when deployed to warmer climates, but in the cold north of [[Sindrel | Sindrel]]'s environs Oestrans favour heavy trousers tucked into greaves. Perhaps unwilling to break too far with tradition, these are paired with hip armour that maintains the older skirt silhouette. Segmented plates at the shoulders and hips maintain mobility without sacrificing protection.
 
 Weapons are part of the uniform. Oestra soldiers openly carry large blades, spears, polearms, war-staves, or heavy sidearms according to rank and role. Even administrators and noble Factors often wear swords in council chambers. Shields are rare and faintly disdained. Oestra doctrine holds that the best defence is overwhelming offence, and that to hide behind a shield is to admit the enemy has already been allowed too much initiative.
 
@@ -36,7 +38,7 @@ Formal Oestra dress is not softer, only more polished. A Consul may wear a black
 Their ornament is martial: rank discs, command chains, laurel-like metal collars, military brooches, service marks engraved into armour, and blades whose hilts are more recognisable than faces. Oestra does not dress to charm. Oestra dresses to remind the room that civilisation survives because someone is willing to kill for it.
 
 
-h3. Architecture
+h2. Architecture
 
 House Oestra architecture is imperial grandeur wrapped around siege engineering.
 
@@ -47,7 +49,7 @@ The marble is usually a decorative skin over magically reinforced volcanic concr
 The influence of [[Soulwind | Soulwind]] is visible in its domes, senate halls, parade grounds, armouries, triumphal approaches, and disciplined use of civic space. But modern Oestra is no museum of old forms. Its architecture has evolved into a language of permanent readiness. Every building is part palace, part barracks, part tribunal, and part fortress.
 The House symbol is displayed with absolute confidence: on banners, gates, standards, floor mosaics, bronze doors, and the red pennants that snap above the walls of the Leageur. Oestra buildings do not ask to be admired. They expect to be obeyed.
 
-h3. Headquarters
+h2. Headquarters
 
 bq). The Leageur occupies an entire walled district of [[Sindrel | Sindrel]]'s ground level like a declaration of intent. While the headquarters of other Great Houses might resemble temples, libraries, palaces or occasionally architectural nervous breakdowns, the Leageur looks unmistakably like a fortress.
 <br>
@@ -79,7 +81,7 @@ bq). The archive stands within its own colonnaded sanctuary, a magnificent mauso
 
 The Leageur is a walled section of the city. Within, it is one part military barracks, one part imperial palace, and, strangely, almost empty. Parade grounds lead to senatorial halls, armouries are flanked by magnificent statues. It even contains its own Osteomantic Archive, albeit one with a more fittingly columned exterior, where the bones of the glorious dead are held in pride of place, gilded with gold and draped in banners of conquest.
 
-h3. Anathemist Sabotage
+h2. Anathemist Sabotage
 
 House Oestra has not publicly suffered a single confirmed House-specific sabotage incident in the same way as [[House Grimbolg | Grimbolg]], [[House Beltus | Beltus]], [[House Lithra | Lithra]], [[House Mabon | Mabon]], [[House Goela | Goela]], or [[House Meness | Meness]]. However, the House was drawn directly into the most public attack of the campaign.
 
@@ -88,24 +90,24 @@ On _25th Ostory_, explosive devices were found beneath [[The Fulcrum | The Fulcr
 The public interpretation remains uncertain. The attack may have been aimed at the gathered Factors, at [[The Fulcrum | the Fulcrum]] itself, at the stability of [[The Octarion Circle | the Octarion Circle]], or at the appearance of [[Sindrel | Sindrel]]'s invulnerability. Even without a confirmed Oestra casualty, the incident placed House Oestra at the centre of the response. It exposed how quickly the city's military arm could be forced to redeploy under pressure, and how vulnerable Sindrel feels when its most symbolic civic structure is threatened.
 
 <!-- GM_INFO_START -->
-h3. Overview
+h2. Overview
 
 Architecture reference: Roman
 Philosophy: Duty - Civilization survives because individuals accept responsibility for protecting something greater than themselves.
 
-h3. History
+h2. History
 
 Responsible for [[Sindrel | Sindrel]]'s standing army. They are also heavily involved with the city's [[Houses of Healing | Houses of Healing]], although the martial nature is in evidence even here as soldiers get preferential treatment.
 
 House Oestra was a noble house of [[Soulwind | Soulwind]] prior to the establishment of [[Sindrel | Sindrel]]. As masters of evocation, they are the militant arm of the magical city. As much of their might is required maintaining the city’s colonies in [[Kosmios | Kosmios]], they are suspiciously underrepresented in [[Arcan | Arcan]]. In their absence, much of the [[Sindrel | Sindrel]]'s defence is handled by[[House Meness | House Meness]].
 
-h3. Organisation
+h2. Organisation
 
 Factors are typically members of one of a few key families: Oestra, Locke, Nautia, Horation, and Tarqus. Not all have a role in the military, but all have a position within the chain of command should they choose to exercise their authority.
 
 In addition to the core legion, there are a number of specialist branches. These inlcude the Preatorian, Lord Oestra's personal guard, and the Orders Hospitium who serve in the [[Houses of Healing | Houses of Healing]].
 
-h3. Leadership
+h2. Leadership
 
 House Oestra is ruled by a hereditary lord, with the Oestra family occupying the role of royalty.
 
@@ -117,7 +119,7 @@ Only the Triumverine, Oestra's closest allies, know the truth, and they are well
 
 As [[:lord-ablas-oestra | Lord Oestra]] has grown more powerful, his magic has grown beyond his ability to control. He is now permanently encased in a suit of magical armour that contains and controls the waves of destructive magic emanating from his body.
 
-h3. Ranks
+h2. Ranks
 
 Oestra operate a split system - House factorship is typically reserved for members of a few 'noble' families: Oestra, Locke, Nautia, Horation, and Tarqus. Adjutants below these are typically either servants, healers, or members of the military. Servants and healers simply use Adjutant as their title, while the military use:
 

@@ -12,7 +12,7 @@ op_gm_only: false
 tags: []
 ---
 
-h3. Quick Links:
+h2. Quick Links:
 
 * [[The Adventurers | The Neighbourhood Wonch]]
 * [[The Investigation | The Investigation]]
@@ -21,7 +21,7 @@ h3. Quick Links:
 * "Characters":https://thelordsofsindrel.obsidianportal.com/characters
 * [[The Gods | The Gods]]
 
-h3. Locations
+h2. Locations
 
 Our tale takes place in the northern regions of the continent of [[Artresh | Artresh]] in the world of [[Arcan | Arcan]].
 
@@ -58,7 +58,7 @@ Our tale takes place in the northern regions of the continent of [[Artresh | Art
 *** [[Fallowhurst Outpost | Fallowhurst Outpost]]
 
 
-h3. The Great Houses of [[Sindrel | Sindrel]]
+h2. The Great Houses of [[Sindrel | Sindrel]]
 
 * [[House Beltus | House Beltus]]
 * [[House Goela | House Goela]]
@@ -69,14 +69,14 @@ h3. The Great Houses of [[Sindrel | Sindrel]]
 * [[House Oestra | House Oestra]]
 * [[The Eighth House | The Eighth House]] (defunct)
 
-h3. Organisations / Groups
+h2. Organisations / Groups
 
 * [[Anathemists | Anathemists]]
 * [[The Vermillion Company | Mercenaries]]
 * [[The Octarion Circle | The Octarion Circle]]
 * [[Hexine Circle | The Hexine Circle]]
 
-h3. Flora and Fauna
+h2. Flora and Fauna
 
 * [[Razorgrass | Razorgrass]]
 * [[Sporeshrooms | Sporeshrooms]]
@@ -92,20 +92,20 @@ h2. The Plan!
 h2. Story Threads
 
 * Wilrin's parents are currently children (timey wimey with [[The Fey | the fey]] bubble).
-* Having survived [[Fallowhurst | Fallowhurst]], [[House Meness | House Meness]] are interested in recruiting the party and sponsoring their citizenship. If they turn them down, the other houses may be amenible.
+* Having survived [[Fallowhurst | Fallowhurst]], [[House Meness | House Meness]] are interested in recruiting the party and sponsoring their citizenship. If they turn them down, the other houses may be amenable.
 * [[The Octarion Circle | The octarion circle]] need necromancers, and there simply aren't any. Potential angles:
 - Wilrin is linked to necromantic magic, maybe he could learn?
 - Send people into [[Thanismot | Thanismot]] to see if any necromancers or their affects survived.
 - Investigate any rumours of magic elsewhere in the world.
 * War with the [[Anathemists | anathemists]] -
 
-h4. Locations
+h3. Locations
 
 * [[Fallowhurst | Fallowhurst]]
 * [[The Thaumocracy of Tellerin | The Thaumocracy of Tellerin]]
 * [[The Magedom of Houd | The Magedom of Houd]]
 
-h4. Organisations / Groups
+h3. Organisations / Groups
 
 * [[The Octarion Circle | The Octarion Circle]]
 
@@ -114,7 +114,7 @@ h2. The Basics
 
 There exists a multiverse of worlds, each governed by a singular Form or Idea. Our point of origin is 'Arcanity', the world governed by Magic.
 
-[[Sindrel | Sindrel]] was founded as a magical research station to investigate the dimensional tear. ([[Soulwind | Soulwind]] INstitute Dimensional Research and Exploration Laboratory) The original 8 researchers briefly opened the portal to the realm of Vitality. There, seven of them consumed the Peaches of Immortality, extending their lifespans indefinitely. The eighth, Samhain, found her own path to escaping death in the realm of Mortality.
+[[Sindrel | Sindrel]] was founded as a magical research station to investigate the dimensional tear. ([[Soulwind | Soulwind]] Institute Dimensional Research and Exploration Laboratory) The original 8 researchers briefly opened the portal to the realm of Vitality. There, seven of them consumed the Peaches of Immortality, extending their lifespans indefinitely. The eighth, Samhain, found her own path to escaping death in the realm of Mortality.
 
 Over the next thousand years the researchers, now styling themselves as the Lords of [[Sindrel | Sindrel]], used their mastery of magic to carry out raids on the other worlds, taking resources, riches, and secrets to enrich and empower themselves. However, they could not keep the tear open for long.
 

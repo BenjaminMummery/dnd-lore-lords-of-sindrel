@@ -19,18 +19,20 @@ _The Summoners of Conjuration_
 
 A hoard of magically summoned servants perform the bulk of the city's labour - an uncompensated workforce that drives the more mundane manufacturing and service industries. The most visible of these are the shadowy horses that can be seen drawing cabs and carts throughout the city. House Beltus are responsible for summoning and controlling these entities, as well as the creation of teleportation gates for rapid transportation.
 
-h3. Know Factors
+h2. Personnel
+
+h3. Known Factors
 
 * [[:alandria | Caller Alandria]] - Member of the [[Hexine Circle | Hexine Circle]] formed to counter [[Anathemists | Anathemist]] infiltration of the city.
 * [[:caller-georg | Caller Johann Georg]] - Killed during a suspected Anathemist sabotage, see below.
 
-h3. The [[Beltan Institute | Beltan Institute]]
+h2. The [[Beltan Institute | Beltan Institute]]
 
 House Beltus maintains the [[Beltan Institute | Beltan Institute]] as its official centre for regulated summoning, binding, banishment, and pact-work. The Institute is located on [[The Canted Terrace | the Canted Terrace]] in the upper levels of [[Sindrel | Sindrel]], close enough to power to be respectable but carefully screened from [[Merrylane | Merrylane]] and the richest neighbourhoods.
 
 The Institute's existence is a point of pride for House Beltus: proof that even the most dangerous forms of calling can be made disciplined, supervised, and useful.
 
-h3. Fashion
+h2. Fashion
 
 House Beltus garments are dominated by black and gold, mostly because the black makes the gold stand out. Black silk, velvet, sheer smoke-coloured veils, gold embroidery, gilt chains, amber, jet, onyx, and lacquered ceremonial accessories. Their robes and coats tend to be long, vertical, and dramatic, with flowing outer robes, narrow fitted underlayers, high collars, sash-belts, jeweled cuffs, embroidered panels, and trailing fabric designed.
 
@@ -38,7 +40,7 @@ The decoration is dense and deliberate. Arabesque patterns, geometric borders, f
 
 Beltus presents power through excess. No self respecting Factor of the house would ever be seen in something that didn't require and entire team of servants to get into - and announcing that they have the capacity to conjure such a team is the exact point. A more senior summoner may wear a garment so elaborate that it requires the action of unseen servants or bound entities simply to enter a room without snagging on the furniture.
 
-h3. Architecture
+h2. Architecture
 
 House Beltus architecture is built to impress, disarm, and dominate. Where [[House Meness | House Meness]] builds in white stone to proclaim order, House Beltus builds in black marble, gold tile, perfumed shadow, and impossible luxury. Its buildings are palaces before they are offices, theatres before they are courts, and sanctuaries before they are workshops.
 
@@ -50,7 +52,7 @@ Public Beltan architecture favours spectacle. Audience halls are tall enough to 
 
 The House symbol is displayed in black against gold, or gold against black, above portals, on banners, in tile mosaics, and in the metalwork of gates and screens. In Beltus, beauty is not decoration. It is policy. A visitor is meant to feel honoured, overawed, seduced, and trapped before a single word is spoken.
 
-h3. Anathemist Sabotage
+h2. Anathemist Sabotage
 
 In recent months, House Beltus suffered a grotesque magical incident now believed to be part of the wider [[Anathemists | Anathemist]] sabotage campaign. On 14th Ostory, a summoning being carried out by [[:caller-georg | Caller Johann Georg]] went badly wrong. The demon broke free of the summoning circle and possessed the summoner. Under its influence, [[:caller-georg | Caller Georg]] ran amok through the halls of the [[Beltan Institute | Beltan Institute]], defacing portraits and other precious items before his heart finally gave out.
 
@@ -59,18 +61,18 @@ As a final sick joke, the demon enchanted its own sulphurous leavings, which exp
 Information recently uncovered by [[The Adventurers | the Wonch]] suggests that this event may have been a cover for the theft of a large quantity of sulfur.
 
 <!-- GM_INFO_START -->
-h3. Overview:
+h2. Overview:
 
 * Architecture/fashion reference: Persian
 * Philosophy: Command - Chaos becomes civilization when capable people impose order upon it. Authority is a virtue, not merely a tool.
 
-h3. Philosophy
+h2. Philosophy
 
 House Beltus concerns itself with the arts of summoning and command. To House Beltus, civilisation exists because capable individuals impose order upon a chaotic world. The ability to command is not merely a skill, but a virtue. A properly ordered society is one in which every individual understands their responsibilities, every servant understands their duties, and every command is obeyed.
 
 This worldview has earned the House a reputation for arrogance. Beltus members often regard themselves as the indispensable machinery that keeps [[Sindrel | Sindrel]] functioning, and many privately believe their contributions are insufficiently appreciated by the other Houses.
 
-h3. Headquarters
+h2. Headquarters
 
 Unlike the other Great Houses, House Beltus possesses no single headquarters.
 
@@ -80,13 +82,13 @@ A Beltus noble may leave their study, open a seemingly mundane door, and emerge 
 
 As a result, the leaders of House Beltus have little need for a central headquarters. They can walk into one another's offices as easily as walking into the next room.
 
-h3. The Doors
+h2. The Doors
 
 The teleportation doors of House Beltus are governed by the House's hierarchy.
 A door may be barred against equals or subordinates, allowing the summoners a degree of privacy. However, a sufficiently senior summoner may always override such restrictions.
 This arrangement allows every Beltus noble to maintain the appearance of sovereignty while ensuring that no member of the House is ever truly beyond the authority of their superiors.
 
-h3. Leader
+h2. Leader
 
 [[:high-summoner-nial-beltus | High Summoner Nial Beltus]]
 

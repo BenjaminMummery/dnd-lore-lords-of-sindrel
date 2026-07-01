@@ -32,16 +32,16 @@ Alicia's abjurative magic has become almost perfectly adaptive. It learns from e
 
 The tragedy is that her protection never truly recedes. Each defence remains. Each adaptation becomes another layer between Alicia and the world. She can no longer feel touch or heat. She can no longer hear. The world reaches her only through those channels her protections have not yet sealed away. She fears that if she were ever attacked by light, her magic would adapt again and blind her permanently.
 
-h4. The Founder’s Burden
+h2. The Founder’s Burden
 
 [[House Meness | House Meness]] prizes courage, defence, duty, and the protection of others. Alicia has become the perfect expression of that ideal and its prisoner. Nothing can reach her. That includes comfort, warmth, ordinary sensation, and perhaps eventually all companionship.
 Her shield has not failed. It has succeeded too completely.
 
-h4. Depictions
+h2. Depictions
 
 In paintings and statues of the founders, Alicia Meness is shown as a female dwarf in heavy plate armour. She carries a tower shield almost taller than she is, and sword with swordbreaker teeth. Her hair is steel grey and pulled back into a sensible ponytail. She is stoic and solid.
 
-h4. Current Day
+h2. Current Day
 
 She keeps the shield and sword of her adventuring days displayed on the wall behind her office desk.
 <!-- GM_INFO_END -->

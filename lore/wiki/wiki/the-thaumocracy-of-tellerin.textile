@@ -19,7 +19,7 @@ The Thaumocratic Empire of Tellerin once covered much of the south of the contin
 Following their failed attempt to invade [[The Magedom of Houd | The Magedom of Houd]] in [[World History | 3953]] [[The Soulwind Calendar | SC]], the empire withdrew. Most of the outer colonies were abandoned and the imperial core closed its borders to outsiders. Of their current political or social structure little is known.
 
 <!-- GM_INFO_START -->
-h3. History
+h2. History
 
 v3953 [[The Soulwind Calendar | SC]] (roughly 250 years ago
 
@@ -27,11 +27,11 @@ The death of magic was felt more swiftly and keenly in the south, which prompted
 
 The decisive battle was fought on the Planes of Herrman, where a stalemate between the attacking Tellerites and the beleagured Houdians was ended by the timely arrival of Houdian reinforcements. The bulk of the Tellerite forces were delayed by the Battle of Brassmeade Bridge where, according to the tales, a single bezerker held the narrow bridge against the vastly superior force for a full day.
 
-h3. Political Structure
+h2. Political Structure
 
 The position of Emperor of Tellerin was a lifetime appointment chosen by a contest of magical power, making the empire theoretically a meritocracy.
 
-h3. History
+h2. History
 
 The death of magic was felt more quickly in the south. In 3952 [[The Soulwind Calendar | SC]], growing desperate in the face of diminishing power, Emperor Virkine III launched an invasion of [[The Magedom of Houd | The Magedom of Houd]] to the north. This would become known as the [[World History | Seven Day War]].
 

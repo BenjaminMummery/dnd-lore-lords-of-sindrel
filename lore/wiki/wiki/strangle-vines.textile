@@ -18,6 +18,6 @@ tags:
 
 Strangle vines hunt live prey by mimicking regular vines, draping themselves between the branches of their host tree. Their tactic is to entangle and constrict any unsuspecting prey that wonders beneath them. The corpses of their victims are drawn high into the branches to serve as fertiliser for the vine.
 
-h3. Encounters
+h2. Encounters
 
 The fruit trees in the orchard at [[Fallowhurst College | Fallowhurst College]] were host to several strangle vine plants. One of these was destroyed by [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] and [[:wilrin-racenglade | Wilrin Ravenglade]] after attempting to ensnare the former. Another tried unsuccessfully to prey on [[:rossin-ros-greyhirst | Rossin Greyhirst]]. A third had succeeded in capturing a [[:tama | giant stoat]], but [[:rossin-ros-greyhirst | Ros]] and [[:ayr | Ayr]] intervened to free the creature.

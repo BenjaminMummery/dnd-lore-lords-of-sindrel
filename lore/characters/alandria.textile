@@ -27,7 +27,7 @@ Alandria is a Factor of [[House Beltus | House Beltus]].
 
 *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-* [[:hielaman | Hielaman's]] interrogation of [[:arise-to-victory-over-the-infidel-hoards | the Anathemist Leutenant]] having revealed that the [[Anathemists | Anathemists]] have access to privileged information, a [[Hexine Circle | Hexine Circle]] is convened. Unable to reach resolution, they enlist [[The Adventurers | The Wonch]] to root out the spies they suspect have infiltrated the city.
+* [[:hielaman | Hielaman's]] interrogation of [[:arise-to-victory-over-the-infidel-hoards | the Anathemist Lieutenant]] having revealed that the [[Anathemists | Anathemists]] have access to privileged information, a [[Hexine Circle | Hexine Circle]] is convened. Unable to reach resolution, they enlist [[The Adventurers | The Wonch]] to root out the spies they suspect have infiltrated the city.
 
 <!-- GM_INFO_START -->
 Spies lead:

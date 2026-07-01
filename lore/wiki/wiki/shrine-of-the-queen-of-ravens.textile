@@ -22,21 +22,21 @@ The party entered via a door blocked by tree roots and blood moss. Within they f
 fn1. [[Session 8: The Dark Shrine | Session 8: The Dark Shrine]] — discovered while lost in the outward catacombs.
 
 <!-- GM_INFO_START -->
-h3. Location
+h2. Location
 
 Deep in the outward catacombs, beyond finished archive masonry. There was once a hidden door; time decayed the mechanism. The door is obvious once the root blockage is cleared, but opening it is hard.
 
-h3. The Devotional Circle
+h2. The Devotional Circle
 
-A devotional circle formed within [[The Eighth House | HOuse Samhain]] who worshipped the [[The Gods | Queen of Ravens]] in her aspect as vengeful reaper. They stood outside the inner circle politically, which did not protect them when the house fell. Each corpse wears dark robes and the house amulet that marked Samhain service (see [[The Eighth House | The Eighth House]], GM *House Marks*). They died in agony; corpses are scattered across the room.
+A devotional circle formed within [[The Eighth House | House Samhain]] who worshipped the [[The Gods | Queen of Ravens]] in her aspect as vengeful reaper. They stood outside the inner circle politically, which did not protect them when the house fell. Each corpse wears dark robes and the house amulet that marked Samhain service (see [[The Eighth House | The Eighth House]], GM *House Marks*). They died in agony; corpses are scattered across the room.
 
-h3. The Chapel
+h2. The Chapel
 
 Small by catacomb standards, but large enough for makeshift pews and an altar to the [[The Gods | Queen of Ravens]] - a god of death. Dark fabric draped from the ceiling suggests a pair of wings reaching out to engulf the congregation.
 
 On the altar stands an idol - the [[The Gods | Queen of Ravens]] in her aspect as the vengeful reaper: wings swept back in a predatory dive, talon-tipped hands outstretched. The idol is obsidian with electrum details. Removing it is blasphemy against the [[The Gods | Carrion Queen]] and will have _consequences_.
 
-h3. The Lead Skeleton
+h2. The Lead Skeleton
 
 Sprawled at the base of a wall, outstretched hand at the end of a trail of dark stains that spell out _Avenge Us_. Wears the remains of armour including an elaborate buckler on the left wrist.
 

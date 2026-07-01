@@ -3,7 +3,7 @@ op_id: 64cea553e6254e388e39ac1abc75eb9f
 op_slug: session-8-
 op_kind: Wiki
 op_type: Post
-name: 'Session 8:'
+name: 'Session 8: The Dark Shrine'
 title: 'Session 8: The Dark Shrine'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-8-
 op_created_at: '2026-04-23T12:58:56Z'
@@ -14,48 +14,32 @@ post_tagline: I Have a Bad Feeling About This...
 post_time: '2026-04-23T13:00:00Z'
 ---
 
-h3. Dramatis Personae
+h2. Dramatis Personae
 
 [accordion]
-    [accordion-item]
-        [title] [[The Adventurers | The Adventurers]][end-title]
-        [content]
-            * [[:amanira | Amanira]], a drow druid.
-            * [[:ayr | Ayr]], gnome paladin.
-            * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
-            * [[:pin | Pin]], a human fighter.
-            * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
-            * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
-            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] Associates and Companions [end-title]
-        [content]
-            * [[:razorbeak | Chicken]] - a [[:razorbeak | chicken]].
-            * [[:hunts-by-night | Cat]] - a cat.
-            * [[:kithrak-ii | Kithrak II]] - an undead dragon
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] Inhabitants of the Catacombs [end-title]
-        [content]
-            * [[:zalatan | Zalatan]] - an undead beholder
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] [[House Oestra | House Oestra]] [end-title]
-        [content]
-            * [[:commander-locke | Prefect Locke]]
-        [end-content]
-    [end-accordion-item]
-
+[accordion-item] [title] [[The Adventurers | The Adventurers]] [end-title] [content]
+* [[:amanira | Amanira]], a drow druid.
+* [[:ayr | Ayr]], gnome paladin.
+* [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
+* [[:pin | Pin]], a human fighter.
+* [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
+* [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
+* [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
+[end-content] [end-accordion-item]
+[accordion-item] [title] Associates and Companions [end-title] [content]
+* [[:razorbeak | Chicken]] - a [[:razorbeak | chicken]].
+* [[:hunts-by-night | Cat]] - a cat.
+* [[:kithrak-ii | Kithrak II]] - an undead dragon
+[end-content] [end-accordion-item]
+[accordion-item] [title] Inhabitants of the Catacombs [end-title] [content]
+* [[:zalatan | Zalatan]] - an undead beholder
+[end-content] [end-accordion-item]
+[accordion-item] [title] [[House Oestra | House Oestra]] [end-title] [content]
+* [[:commander-locke | Prefect Locke]]
+[end-content] [end-accordion-item]
 [end-accordion]
 
-h3. The Crossroads
+h2. The Crossroads
 
 _Late afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -87,11 +71,11 @@ The eighth niche is wrong. There is no statue - only a bare plinth, a drift of f
 
 Behind the necromancy sigil lay a colossal diorama:
 
-bq). The passageway opens into an enormous space - the walls and ceiling almost lost in the haze of distance. The floor rises and falls in a stone simulacrum of rolling hills, you can even see the glint of the meagre light reflecting from the waves of what appears to be a river. You realise that you are surrounded by a motionless army of armed and armoured skeletons. Or rather, as you look closer, two armies frozen in the throws of a colossal conflict. A macabre diorama whose grandiose effect is spoiled only slightly by the fact that many of the skeletons are missing parts - the floor is littered with teeth and fingerbones that, presumably, were once part of the display. A clear path demarcated by bands of silver laid into the dark stone of the floor, wends its way between the posed skeletons.
+bq). The passageway opens into an enormous space - the walls and ceiling almost lost in the haze of distance. The floor rises and falls in a stone simulacrum of rolling hills, you can even see the glint of the meagre light reflecting from the waves of what appears to be a river. You realise that you are surrounded by a motionless army of armed and armoured skeletons. Or rather, as you look closer, two armies frozen in the throes of a colossal conflict. A macabre diorama whose grandiose effect is spoiled only slightly by the fact that many of the skeletons are missing parts - the floor is littered with teeth and fingerbones that, presumably, were once part of the display. A clear path demarcated by bands of silver laid into the dark stone of the floor, wends its way between the posed skeletons.
 
 With [[:rossin-ros-greyhirst | Ros]] needing respite, the [[The Adventurers | Wonch]] chose to leave by the [[House Oestra | Oestra]] door, following [[:razorbeak | their chicken]] guide into the deeper tunnels.
 
-h3. Wandering in the Dark
+h2. Wandering in the Dark
 
 _Late afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -101,7 +85,7 @@ Away from the chalked routes, the finished masonry of the archives gave way to r
 
 Following a whisper of wind through the dark, the party found a tangle of tree roots and blood moss breaking through from above. They cleared the blockage to reveal a hidden door.
 
-h3. The [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]]
+h2. The [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]]
 
 _Late afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -111,7 +95,7 @@ Daubed on the wall in ancient blood: _AVENGE US._
 
 The party looted what they could. [[:ayr | Ayr]] took an elaborate buckler from the lead corpse's wrist and found he could not remove it.
 
-h3. Emergence
+h2. Emergence
 
 _Evening of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 

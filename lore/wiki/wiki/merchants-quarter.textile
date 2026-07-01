@@ -19,7 +19,7 @@ For most visitors, the Merchant's Quarter _is_ [[Sindrel | Sindrel]]. Located ne
 
 Its existence is something of an unintended consequence of [[Sindrel | Sindrel]]'s economic power - the great trade empire operating out of [[Dockward | Dockward]] is designed to deal with governments and nobles, but smaller operators quickly realised that they could make a good living buying magical good in Sindrel and trading them elsewhere. The influx of such traders naturally necessitated that there be somewhere for them to stay.
 
-h3. Locations
+h2. Locations
 
 * [[The Pointed Hat | The Pointed Hat]]
 * [[Temple of the Dawn Father | Temple of the Dawn Father]]

@@ -18,7 +18,7 @@ The northern regions of the continent of [[Artresh | Artresh]] are a patchwork o
 
 To the south is the mysterious [[The Thaumocracy of Tellerin | Thaumocracy of Tellerin]], a once-great and expansionist empire. After their unsuccessful attempt to invade Houd, the empire retreated, closing its borders to outsiders.
 
-h3. *Historical Events*
+h2. *Historical Events*
 
 _Dates are estimated according to the [[The Soulwind Calendar | Soulwind calendar (SC)]].._
 
@@ -62,7 +62,7 @@ _Dates are estimated according to the [[The Soulwind Calendar | Soulwind calenda
 [end-accordion]
 
 
-h3. *Campaign Timeline* - Year 4218 (_current year_)
+h2. *Campaign Timeline* - Year 4218 (_current year_)
 
 [accordion]
     [accordion-item]
@@ -127,7 +127,7 @@ h3. *Campaign Timeline* - Year 4218 (_current year_)
             * The survivors of the ambush reach [[Fallowhurst Outpost | Fallowhurst Outpost]] and meet [[:sebastian-warwick | Private Sebastian Warwick]].
 
             *26th Enean*
-            * A small force of [[Anathemists | Anathemists]] attack the travellers on the plain outside [[Sindrel | SIndrel]]. Most of their number are slain and their [[:arise-to-victory-over-the-infidel-hoards | leader]] is captured.
+            * A small force of [[Anathemists | Anathemists]] attack the travellers on the plain outside [[Sindrel | Sindrel]]. Most of their number are slain and their [[:arise-to-victory-over-the-infidel-hoards | leader]] is captured.
             * [[:hielaman | Captain Hielaman]] leads a small force of [[House Meness | House Meness]] soldiers to escort the survivors to [[Sindrel | Sindrel]].
             * [[:dulcinia-von-phthasia | Dulcinia von Phthasia]] and [[:pthul | Pthul]] part company with [[The Adventurers | The Adventurers]].
 
@@ -135,7 +135,7 @@ h3. *Campaign Timeline* - Year 4218 (_current year_)
             * [[:hielaman | Captain Hielaman]] begins interrogating the captured [[:arise-to-victory-over-the-infidel-hoards | Anathemist]]
 
             *28th Enean*
-            * Under questioning,  [[:arise-to-victory-over-the-infidel-hoards | The Anathemist Leutenant]] lets slip that the [[Anathemists | Anathemists]] have access to highly sensitive information. A [[Hexine Circle | Hexine Circle]] is convened.</li>
+            * Under questioning,  [[:arise-to-victory-over-the-infidel-hoards | The Anathemist Lieutenant]] lets slip that the [[Anathemists | Anathemists]] have access to highly sensitive information. A [[Hexine Circle | Hexine Circle]] is convened.</li>
             * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] gambles against [[:emerich-surefoot | Emerich Surefoot]] in [[The Wallarch District | the Wallarch district]] and wins. She learns a route into the [[Quarantine Zone | Quarantine Zone]].</li>
             * [[:amanira | Amanira]], in cat form, befriends the city cat population and learns a route into the Amalthean, headquarters of [[House Grimbolg | House Grimbolg]].
             * [[:ayr | Ayr]], in disguise, infiltrates [[:emissary-halan | Emissary Halan]]'s soiree.

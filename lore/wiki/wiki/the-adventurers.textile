@@ -15,7 +15,7 @@ tags:
 
 Colloquially known as The Neighbourhood Wonch.
 
-h3. Current Lineup
+h2. Current Lineup
 
 * [[:amanira | Amanira]]
 * [[:ayr | Ayr]]
@@ -25,7 +25,7 @@ h3. Current Lineup
 * [[:silrie-aegiskiir | Silrie Aegiskiir]]
 * [[:wilrin-racenglade | Wilrin Ravenglade]]
 
-h3. Character Progression / Storyline Mapping
+h2. Character Progression / Storyline Mapping
 
 Below is an at-a-glance overview of which open plot thread will relate to which character(s) personal progression / backstory in the immediate future. I've omitted the emergent stuff such as [[:amanira | Amanira's]] alliance with the city cats and [[:rossin-ros-greyhirst | Ros's]] burgeoning relationship with [[House Grimbolg | House Grimbolg]], and instead focussed on the stuff that won't be immediately obvious.
 
@@ -35,15 +35,26 @@ Below is an at-a-glance overview of which open plot thread will relate to which 
 | The [[Quarantine Zone | quarantine zone]] | [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and [[:pin | Pin]] |
 | Recent arrivals in Sindrel as a potential vector for Anathemist infiltration | [[:ayr | Ayr]] |
 
-h3. Timeline
+h2. Campaign status
+
+_Through Session 11 (31st Enean 4218 SC)._
+
+**Current date:** 31st Enean 4218 ([[The Soulwind Calendar | SC]])
+**As of session:** 11
+
+h3. Days remaining in Sindrel
+
+**~31 days** (silver guest bracelets)
+
+h2. Timeline
 
 Chronology of [[The Adventurers | the Wonch]]'s adventures in [[Sindrel | Sindrel]], using the [[The Soulwind Calendar | Soulwind Calendar]] (SC). Grouped by date; session links in parentheses.
 
-h4. 24 Enean 4218
+h3. 24 Enean 4218
 
 * *Evening* - First meetings at [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]; Quill brothers apprehended ([[Session 1: The White Dragon | Session 1]])
 
-h4. 25 Enean 4218
+h3. 25 Enean 4218
 
 * *Morning through afternoon* - Coach journey; [[Anathemists | Anathemist]] ambush on [[The Mage Road | The Mage Road]] ([[Session 1: The White Dragon | Session 1]])
 * *Afternoon*
@@ -56,22 +67,22 @@ h4. 25 Enean 4218
 ** Regroup at the wheelbarrow; vow to return ([[Session 3: "Graduation" | Session 3]])
 * *Evening* - Leave [[Fallowhurst | Fallowhurst]]; [[Fallowhurst Outpost | outpost]]; overnight stay ([[Session 3: "Graduation" | Session 3]])
 
-h4. 26 Enean 4218
+h3. 26 Enean 4218
 
 * *Morning through afternoon* - Road to [[Sindrel | Sindrel]]; Anathemist patrol captured ([[Session 3: "Graduation" | Session 3]])
 * *Morning* - [[:hielaman | Captain Hielaman]]'s rescue; prisoners taken in charge ([[Session 4: Sindrel! | Session 4]])
 * *Afternoon* - Arrival at [[Sindrel | Sindrel]]; silver bracelets; [[:dulcinia-von-phthasia | Dulcinia]] and [[:pthul | Pthul]] part company ([[Session 4: Sindrel! | Session 4]])
 
-h4. 27 Enean 4218
+h3. 27 Enean 4218
 
 * *All day* - Rest day in [[Sindrel | Sindrel]]
 
-h4. 28 Enean 4218
+h3. 28 Enean 4218
 
 * *Daytime* - Individual downtime - soiree, gambling, temple, shops, [[:hielaman | Hielaman]] brawl ([[Session 4: Sindrel! | Session 4]])
 * *Evening* - [[Hexine Circle | Hexine Circle]] briefing; investigation commissioned ([[Session 4: Sindrel! | Session 4]])
 
-h4. 29 Enean 4218
+h3. 29 Enean 4218
 
 * *Morning* - House visits - Goela, Mabon, Meness, Lithra, Beltus, Oestra, Grimbolg ([[Session 5: The Investigation Begins | Session 5]])
 * *Noon* - [[The Wallarch District | Wallarch]] chase; [[:emerich-surefoot | Emerich]] and the [[The Cutthroat's Repose | Cutthroat's Repose]] lead ([[Session 6: Wallarch | Session 6]])
@@ -84,12 +95,12 @@ h4. 29 Enean 4218
 ** [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]]; buckler taken ([[Session 8: The Dark Shrine | Session 8]])
 * *Evening* - Emerge at [[House Oestra | Oestra Leageur]]; [[:commander-locke | Locke]] debrief; [[Radwasp House | Radwasp House]] keys passed (Hexine Circle / Lithra) ([[Session 8: The Dark Shrine | Session 8]] / [[Session 9: Downtime 2 | Session 9]])
 
-h4. 30 Enean 4218
+h3. 30 Enean 4218
 
 * *Morning through afternoon* - Downtime errands - shopping, knuckle-dusters, Kelferria quote pending, letters, temple vision ([[Session 9: Downtime 2 | Session 9]])
 * *Evening* - [[Radwasp House | Radwasp House]]; buckler dreams; [[The Heptade Academy | Heptade Academy]] acceptance ([[Session 9: Downtime 2 | Session 9]])
 
-h4. 31 Enean 4218
+h3. 31 Enean 4218
 
 * *Pre-dawn* - Party summoned; [[:cedric | Cedric]] and the door ([[Session 10: Shakes Spear in the Park | Session 10]])
 * *Dawn through early morning* - [[Merrylane | Merrylane Park]]; demon "pest control"; [[:tama | stoat]] bonded to [[:rossin-ros-greyhirst | Ros]] ([[Session 10: Shakes Spear in the Park | Session 10]])
@@ -98,13 +109,11 @@ h4. 31 Enean 4218
 * *Late morning* - Servants' quarters; [[:nort | Nort]] interviewed ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
 * *Late morning through midday* - Amalthean (Cornucopia) tour; nitre-theft theory ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
 
-h3. Party Wealth
-
-_Through Session 11 (31st Enean 4218 SC)._
+h2. Party Wealth
 
 Rather than tracking individual coins, we use a general **wealth level** — a rough gauge of what everyday spending looks like, what counts as a major financial commitment, and what quality of life the party can sustain in [[Sindrel | Sindrel]].
 
-h4. Wealth levels
+h3. Wealth levels
 
 |_. Level |_. Everyday spending |_. Major purchase |_. Quality of life |
 | <span style="background:#ffcdd2;padding:3px 8px;border-radius:3px;color:#7f0000;">1 — Strapped</span> | Shared beds, street food, mending kit; every purchase debated | One modest mundane item — a replacement blade, warm cloak | Hand-to-mouth; one bad week from broke |
@@ -115,7 +124,7 @@ h4. Wealth levels
 
 *When to change level:* A sustained shift in fortune — not a single transaction. Windfall or ruin, gain or loss of patronage and lodging, or a session's worth of spending clearly above or below your current band.
 
-h4. Current standing
+h3. Current standing
 
 **Wealth level:** <span style="background:#fff9c4;padding:3px 8px;border-radius:3px;color:#f57f17;">3 — Comfortable</span>
 
@@ -123,30 +132,30 @@ Pthul's escort fee and [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s gambli
 
 *Pending:* Formal quote from [[:kelferria-the-smith | Kelferria the Smith]] for [[:ayr | Ayr]]'s plate — accepting it would likely require a deliberate party decision and may move the wealth level.
 
-h4. Other assets
+h3. Other assets
 
-* Silver guest bracelets (~31 days' stay remaining as of Session 11)
+* Silver guest bracelets
 * [[Radwasp House | Radwasp House]] — investigation base ([[:cedric | Cedric]]); [[House Lithra | Lithra]] property via [[Hexine Circle | Hexine Circle]] agreement
 * [[The Heptade Academy | Heptade Academy]] — provisional acceptance for [[:wilrin-racenglade | Wilrin]] (contingent on completing [[The Investigation | the investigation]])
 * Patronage promise from the [[Hexine Circle | Hexine Circle]] on successful completion of [[The Investigation | the investigation]]
 
 
 
-h3. Known Associates
+h2. Known Associates
 
 * [[:dulcinia-von-phthasia | Dulcinia von Phthasia]]
 * [[:pthul | Pthul]]
 * [[:gillette-quill | Gillette Quill]]
 * [[:raymond-quill | Raymond Quill]]
 
-h3. Known Enemies
+h2. Known Enemies
 
 * [[:commander-wake | Anathemist Commander - Name Unknown]]
-* [[:arise-to-victory-over-the-infidel-hoards | Anathemist Leutenant - Name Unknown]]
+* [[:arise-to-victory-over-the-infidel-hoards | Anathemist Lieutenant - Name Unknown]]
 * Doors
 
 <!-- GM_INFO_START -->
-h3. Faction Clocks
+h2. Faction Clocks
 
 _Through Session 11 (31st Enean 4218 SC)._
 

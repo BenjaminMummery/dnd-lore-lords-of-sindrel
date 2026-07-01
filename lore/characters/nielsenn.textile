@@ -26,7 +26,7 @@ Vaporised when one of his own trapped locks misfired.
 <!-- GM_INFO_START -->
 Nielsenn was an older human with a lined face, dark eyebrows contrasting with a shock of white hair. He is a skilled craftsman, his hands moving with certainty and precision despite his age. He is missing the ring and pinkie fingers on his left hand, and has replaced them with a mechanical prosthetic.
 
-h3. True Fate
+h2. True Fate
 
 Nielsenn was not vaporised by one of his own trapped locks. His death was staged by the [[Anathemists | Anathemist]] cell.
 

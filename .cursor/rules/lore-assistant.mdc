@@ -164,7 +164,7 @@ When splitting content, keep public prose readable without the GM block — agen
 
 When a wiki page ties content to a specific adventure log, **do not** use inline `[[Session N: … | …]]` links in prose. Use Textile footnotes instead:
 
-1. Marker in prose: `[1]` (reuse the same number for the same session).
+1. Marker in prose: `[1]` immediately **after** sentence-ending punctuation — e.g. `routes.[1]`, not `routes[1].` (same for `?` / `!`). If the citation applies to a whole sentence, place the marker at the end of that sentence. Reuse the same number for the same session.
 2. Definition after the section (player body): `fn1. [[Session N: Title | Session N: Title]]` — optional em dash note for what happened there.
 3. Place all `fn*` lines **immediately before** `<!-- GM_INFO_START -->` on mixed pages. On GM-only pages (`op_gm_only: true`), place `fn*` lines at the end of the file before `<!-- GM_INFO_END -->`.
 4. GM-block prose may reference `[1]` etc. when the matching `fn*` is defined in the player body above the GM block.
@@ -198,6 +198,97 @@ When a wiki page ties content to a specific adventure log, **do not** use inline
    - **Missing on log** — wiki has prose the log never used (informational only; not always a problem).
    - **Deviation** — same scene, conflicting details; quote both sides and recommend wiki-aligned fix unless context explains the difference.
 3. Priorise locations the party has visited (`osteomantic-archives`, districts, key buildings).
+
+## Adventure log posts (template)
+
+All posts in `lore/wiki/adventure-log/` follow this structure:
+
+**Frontmatter (required):**
+- `post_tagline:` — short hook shown on the OP adventure log index (every session).
+- `post_time:` — in-game datetime for ordering.
+- `name` and `title` — must match (full session title, e.g. `Session 11: Gunpowder, Treason, and Plot`; no placeholder `?` names).
+
+**Body structure:**
+1. `h2. Dramatis Personae` — cast list in compact `[accordion]` markup (see `session-1-the-white-dragon.textile`: one line per `[accordion-item]`, no extra indentation).
+2. `h2.` top-level scene headings — narrative beats, locations, and day wrappers.
+3. `h3.` sub-sections **only where a scene previously had nested structure** (e.g. college rooms under `h2. Fallowhurst College`, house visits under `h2. …split up…`, downtime PCs under `h2. Downtime`). Do not flatten nested beats to `h2.`.
+4. Optional timestamp line under each scene heading: `_Morning of the Nth of Enean… ([[The Soulwind Calendar | SC]])_`
+5. Prose, optional `bq).` read-aloud blocks.
+6. `<!-- GM_INFO_START -->` … `<!-- GM_INFO_END -->` at file bottom **only** when the session has notes that do not belong on a wiki page; otherwise point to the relevant wiki GM section.
+
+**GM blocks on logs:** optional. Prefer wiki pages for location/navigation canon; use log GM blocks for session-only reminders and pointers.
+
+## Wiki page headings
+
+Public body and GM blocks use the same hierarchy:
+
+1. **`h2.`** — major sections (Geography, Catacombs, Personnel, Acts of Sabotage).
+2. **`h3.`** — subsections under an `h2.` (Known Factors / Known Adjutants under *Personnel*, individual halls, timeline dates, rank tables).
+3. **`h4.`** — only when nested under an `h3.` (e.g. hall names under *Halls of History*).
+
+Do not start the player body with `h3.` or skip levels (`h2.` → `h4.` without an intervening `h3.`). GM-only pages (`op_gm_only: true`) follow the same rule inside their single GM block.
+
+**Great House pages:** party-known officers live under `h2. Personnel` with `h3. Known Factors` and/or `h3. Known Adjutants` (not top-level `h2.`).
+
+## Character pages (template)
+
+All character files in `lore/characters/` share this layout:
+
+**Frontmatter:** `op_slug`, `name`, `title`, `op_gm_only`, `is_player_character`, `tags` (party-known affiliations only on public pages), optional `avatar_url`.
+
+**Body (in order):**
+
+1. `<!-- OP_DESCRIPTION -->` — read-aloud *"You see…"* for non-PCs; portrait-based or player-provided for PCs. Never empty on public NPCs the party has met.
+2. `<!-- OP_BIO -->` — chronological play history and in-world facts the party knows; wiki links; no GM secrets.
+3. `<!-- GM_INFO_START -->` … `<!-- GM_INFO_END -->` — plot role, investigative footprints, prep notes, and **stat blocks**. Use `h2.` / `h3.` like wiki pages. Omit the block only when there is genuinely no GM-only content.
+
+**Do not** use `h2.`/`h3.` in `OP_DESCRIPTION`. Headings belong in `OP_BIO` (rare) or `GM_INFO`.
+
+### DM stat blocks (GM block only)
+
+Combat stats belong in `GM_INFO`, never in `OP_DESCRIPTION` or `OP_BIO`. Use the **OP custom-stat HTML** (styled by campaign Custom CSS), not the legacy `<div class="stat-block">` wrapper or plain Markdown.
+
+Reference implementations: `lore/characters/pthul.textile`, `lore/characters/embren-oestra.textile`.
+
+**Skeleton** (close the outer wrapper before `<!-- GM_INFO_END -->`):
+
+```html
+<div contenteditable="true" style="width:310px; font-family:Arial,Helvetica,sans-serif;font-size:11px;">
+<div class="statname">Name</div>
+<div class="statdescription">Size type, alignment</div>
+<div class="statgradient"></div>
+<div class="statred">
+    <div><span class="bold statred">Armor Class</span><span> …</span></div>
+    <div><span class="bold statred">Hit Points</span><span> …</span></div>
+    <div><span class="bold statred">Speed</span><span> …</span></div>
+    <div><span class="bold statred">Initiative</span><span> …</span></div>
+</div>
+<div class="statgradient"></div>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>…</td><td>…</td><td>…</td><td>…</td><td>…</td><td>…</td></tr>
+</table>
+<div class="statgradient"></div>
+<div><span class="bold">Senses</span><span> …</span></div>
+<div><span class="bold">Languages</span><span> …</span></div>
+<div><span class="bold">Challenge</span><span> …</span></div>
+<div><span class="bold">Proficiency Bonus</span><span> …</span></div>
+<div class="statgradient"></div>
+<div class="statactions statred">Actions</div>
+<div class="stathr"></div>
+<div class="statattack">
+    <span class="statattackname">Attack name.</span>
+    <span class="statdescription"> Melee Weapon Attack:</span>
+    <span>+X to hit, …</span>
+    <span class="statdescription">Hit:</span>
+    <span>… damage.</span>
+</div>
+</div>
+```
+
+Optional sections: *Traits*, *Reactions*, *Legendary Actions* — same `statactions statred` / `statattack` pattern as *Actions*. Other GM prose (headings, bullets) may precede or follow the stat block in the same `GM_INFO` block.
+
+**Checklist for unification:** empty descriptions (`notes/character-descriptions-todo.md`), missing avatars/pronouns, GM blocks without headings, inconsistent bio date formatting, missing stat blocks for combat NPCs.
 
 ## New pages (Obsidian Portal sync)
 
@@ -251,22 +342,23 @@ When a **new adventure log** is added or a session recap is substantially update
 
 When a **new adventure log** is added or a session recap is substantially updated, refresh on `lore/wiki/wiki/the-adventurers.textile`:
 
-**Campaign status** (player-facing main body):
-- Set **Current date** and **As of session** to in-game calendar and latest log number.
-- Update **Days remaining in Sindrel** (~N days under the h4 heading) when time passes in play; keep the italic session line in sync.
+**Campaign status** (player-facing `h3. Campaign status`, before Timeline):
+- One italic `_Through Session N (date SC)._` line — **canonical** session marker for player-facing status (do not duplicate under Party Wealth).
+- **Current date** and **As of session** on the lines below the italic.
+- **Days remaining in Sindrel** under `h4.` as `**~N days** (silver guest bracelets)` when the count changes in play.
 - These fields feed **`notes/lore-dashboard.html`** via `scripts/generate_lore_dashboard.py` (also run by pre-commit on commit).
 
 **Faction clocks** (GM-only block):
 - Track each Great House's **opinion** of the Wonch in plain language (e.g. Hostile, Wary, Cool, Neutral, Favourable).
 - Include **Anathemists**, **Black Cats**, and other factions with a meaningful relationship to the party - not the [[Hexine Circle | Hexine Circle]] (a council of House factors, not a faction in its own right).
 - Brief rationale per faction; cite recent session events where opinion shifted.
-- Update the italic session line under the heading. Do **not** use HTML comments - they render visibly on Obsidian Portal.
+- Keep the italic `_Through Session N…_` under the Faction Clocks heading in sync (GM-only mirror of campaign status).
 
 **Party wealth** (player-facing main body):
 - Maintain the **wealth level** table and **current standing** - not individual coin counts.
 - Adjust level when fortune changes sustainably in play; note rationale under Current standing.
-- Update non-cash assets (lodging, bracelet days, contingent rewards) as needed.
-- Update the italic session line under the heading. Do **not** use HTML comments - they render visibly on Obsidian Portal.
+- **Other assets** lists bracelets, lodging, and contingent rewards without repeating the day count (that lives under Campaign status).
+- Do **not** use HTML comments - they render visibly on Obsidian Portal.
 
 ## Proactive Checks
 

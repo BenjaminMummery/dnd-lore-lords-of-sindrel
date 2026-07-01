@@ -19,7 +19,7 @@ bq). Sindrel sits on a high promontory jutting far out over the [[Norward Sea | 
 <br>
 Through the centre of the city rises a narrow, white spire - a tower over a mile tall. Ringing its point like a halo is a colossal circle of stone: a floating street studded with docks and warehouses serving the fleet of airships.
 
-Sindrel is, so far as anyone knows, the last place on [[Arcan | Arcan]] where the death of magic has not taken hold. Why this is or how long this state of affairs will last is unclear. SIndrel has, naturally, become immensely wealthy and powerful off the back of trading in magical goods and services. It has also become a mixing pot and haven for all those seeking to pursue magic.
+Sindrel is, so far as anyone knows, the last place on [[Arcan | Arcan]] where the death of magic has not taken hold. Why this is or how long this state of affairs will last is unclear. Sindrel has, naturally, become immensely wealthy and powerful off the back of trading in magical goods and services. It has also become a mixing pot and haven for all those seeking to pursue magic.
 
 h2. Races of Sindrel
 
@@ -33,7 +33,7 @@ Families and lines that have lived in the city for generations - house retainers
 
 h4. 2. Visiting dignitaries and traders
 
-Ambassadors, merchant princes, pilgrimage sponsors, and anyone who can *afford* the journey to Sindrel. They arrive for business, spectacle, or politics and often leave again. Typically wealthy; poor people do not make the trip. Most visible in the upper city, house salons, airship terraces, and the [[Merchants Quarter | Merchant's Quarter]]. They look like *current* [[Artresh | Artresh]] - mundane ancestries dominant. A tiefling ambassador is a talking point; a human one is not.
+Ambassadors, merchant princes, pilgrimage sponsors, and anyone who can *afford* the journey to Sindrel. They arrive for business, spectacle, or politics and often leave again. Typically wealthy; poor people do not make the trip. Most visible in the upper city, house salons, airship terraces, and the [[Merchant's Quarter | Merchant's Quarter]]. They look like *current* [[Artresh | Artresh]] - mundane ancestries dominant. A tiefling ambassador is a talking point; a human one is not.
 
 h4. 3. Refugees and the magically dispossessed
 
@@ -82,7 +82,7 @@ This system has created a de-facto class structure with the Houses in the role o
 h3. Overview of the Great Houses
 
 
-<div class="CSSTableGenerator" style="position:relative;left:0px;top:10px;>
+<div class="CSSTableGenerator" style="position:relative;left:0px;top:10px;">
     <table >
         <tr>
             <td>*Symbol*</td>
@@ -206,7 +206,7 @@ Founder statues and house art are *flavour*, not quotas. A room full of Lithran 
 h4. By district (which population dominates)
 
 * *Upper city and house precincts* - **visitors** in public rooms; **native** staff behind the scenes. Refugees as petitioners or labour - not the default guest.
-* *[[Merchants Quarter | Merchant's Quarter]] and airship terraces* - **visitors** arriving and departing; **native** clerks running the counting-houses.
+* *[[Merchant's Quarter | Merchant's Quarter]] and airship terraces* - **visitors** arriving and departing; **native** clerks running the counting-houses.
 * *[[Dockward | Dockward]]* - all three: **refugee** dock labour; **native** longshoremen; **visitor** cargo owners.
 * *[[The Fulcrum | Fulcrum]] and [[Merrylane | Merrylane]]* - **native** baseline; **visitor** Hexine Circle delegates; occasional **refugee** talent off the books.
 * *[[The Wallarch District | Wallarch]]* - **refugee** and **native** working poor; mundane **visitor** traders on business only.
@@ -240,7 +240,7 @@ Roughly 1000 years ago (3500 by [[The Soulwind Calendar | the Soulwind Calendar]
 The original 8 researchers, now immortal and possessed of otherwordly power, set themselves up as the heads of great noble houses in their newly established city. While the leaders have, almost universally, fallen to a bad end, the houses continue in their duties.
 
 The houses are:
-<div class="CSSTableGenerator" style="position:relative;left:0px;top:10px;>
+<div class="CSSTableGenerator" style="position:relative;left:0px;top:10px;">
     <table >
         <tr>
             <td>*House*</td>

@@ -19,7 +19,7 @@ A magic circle forming part of a binding spell. An incomplete version was found 
 [[:wilrin-racenglade | Wilrin Ravenglade]] attempted to use the sigil by employing [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]]'s blood. The discharge branded both with matching sigil scars - on Wilrin's face and Deathwalker's back.
 
 <!-- GM_INFO_START -->
-h3. The Binding
+h2. The Binding
 
 Wilrin's blood-magic attempt linked him and Deathwalker to the centuries-old binding spell. Both bear permanent sigil scars. The link has one known mechanical consequence:
 

@@ -18,7 +18,7 @@ Over the last century, the gradual decay of the supernatural has become undeniab
 
 As the old power structures crumble, new and ambitious ideologies compete for dominance. The chaos is growing, and the new shape of the world is up for grabs.
 
-Born into this world, you have lived the majority of your lives with the knowledge that once concrete certenties are eroding around you. And you have all, for your own reasons, made the long, arduous journey to the one place on earth where wonders persist - [[Sindrel | Sindrel]], the last city of magic.
+Born into this world, you have lived the majority of your lives with the knowledge that once concrete certainties are eroding around you. And you have all, for your own reasons, made the long, arduous journey to the one place on earth where wonders persist - [[Sindrel | Sindrel]], the last city of magic.
 
 h3. The story so far
 

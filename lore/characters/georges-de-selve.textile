@@ -24,7 +24,7 @@ Travelled with [[The Adventurers | The Adventurers]] in [[:sindrel-coach | the S
 <!-- GM_INFO_START -->
 Real name: Georges de Selve
 
-h3. Role in the Anathemist Plot
+h2. Role in the Anathemist Plot
 
 Georges de Selve is one of the [[Anathemists | Anathemist]] agents operating under the cover of a wealthy merchant. He entered [[Sindrel | Sindrel]] separately from [[:regnif-d-log | Regnif d'Log]]'s household, alongside Jean de Dinteville, allowing the spy cell to appear as two unrelated groups rather than a single conspiracy.
 
@@ -40,7 +40,7 @@ Georges, Jean, and the kidnapped locksmith [[:nielsenn | Nielsenn]] then emerge 
 
 Afterwards, Georges and Jean took [[:nielsenn | Nielsenn]] back to the Sacum, killed him, and left the city, returning to their cover identities as merchants. Thirty-five days later, they returned to [[Sindrel | Sindrel]] for more “merchanting”, this time accompanied by [[The Adventurers | The Adventurers]].
 
-h4. Investigative footprint
+h3. Investigative footprint
 
 Evidence pointing to Georges may include charcoal purchases, cart hires, merchant warehouse records, gate logs, unusually clean commercial paperwork, supplier testimony, or repeated proximity to loading yards and service entrances. His danger is not that he appears sinister, but that every suspicious movement can be explained as ordinary trade.
 <!-- GM_INFO_END -->

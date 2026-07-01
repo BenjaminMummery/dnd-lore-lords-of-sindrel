@@ -17,7 +17,7 @@ Organised crime in [[Sindrel | Sindrel]], concentrated in [[The Wallarch Distric
 
 [[:hielaman | Captain Hielaman]] of [[House Meness | House Meness]] treats them as the city's principal criminal syndicate and advised [[The Adventurers | the Wonch]] to lean on low-level operatives rather than assault leadership directly.
 
-h3. Known leads
+h2. Known leads
 
 * [[:emerich-surefoot | Emerich Surefoot]] - low-level enforcer.
 * [[The Cutthroat's Repose | The Cutthroat's Repose]] - back room; password "Swordfish"; Emerich's superior operates from here.
@@ -27,11 +27,11 @@ fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins
 fn2. [[Session 6: Wallarch | Session 6: Wallarch]] — Wallarch chase; Emerich assaulted.
 
 <!-- GM_INFO_START -->
-h3. Relation to City Cats (felines)
+h2. Relation to City Cats (felines)
 
 Unrelated. **City Cats** are actual felines - the informal network [[:amanira | Amanira]] can speak to via wild shape or [[:rossin-ros-greyhirst | Ros]]'s _Speak with Animals_ (see [[The City Cats | The City Cats]]; e.g. [[:pads-silently | Pads-Silently]], [[:hunts-by-night | Hunts-By-Night]]). **Black Cats** have never considered using them; from a cat's perspective Black Cats are just more people. Do not conflate the factions or tags.
 
-h3. Internal ranks
+h2. Internal ranks
 
 | Rank | Role |
 |---|---|
@@ -44,13 +44,13 @@ h3. Internal ranks
 
 **Cutthroat's Repose contact** - Vault-adjacent **Counter**; holds ledger extracts and adjutant kompromat; never commits on premises.
 
-h3. [[:hielaman | Captain Hielaman]]
+h2. [[:hielaman | Captain Hielaman]]
 
 Hielaman is a thorn in the side of the Cats. He's straight laced, dogged, and upstanding - annoyingly hard to find blackmail material on. His **superiors** in Meness are compromised - he feels institutional pressure not to move directly against Vault leadership, but interprets it as politics, not blackmail. That makes him dangerous to the Cats: an honest investigator with little to leverage if he starts poking past Strands and Counters. Vault should prefer to divert, discredit, or isolate him rather than try to own him.
 
-h3. The Black Cats and the Anathemist Investigation
+h2. The Black Cats and the Anathemist Investigation
 
-h4. What the Cats know
+h3. What the Cats know
 
 A small group with a surprising amount of cash and brutality muscled in on the garbage collection business - they roughed up a small-time drug pusher and took over his cart. The cart theft would ordinarily cause no alarm; the ruffian in question is making a stink, but that is nothing new. Some competition among the street-level riff-raff is healthy, and the Black Cats are adept at persuading new players to pay their dues. More concerning was when the newcomers started splashing around a lot of gold in return for info, mostly any means of accessing House properties. The Cats watched them closely, believing them to be trying to set up a rival crime syndicate.
 
@@ -60,21 +60,21 @@ The Cats are reasonably sure Hielaman has not yet been sniffing around the cart 
 
 **Gild link - [[:chuggaz | Chuggaz]]:** Vault's man at [[The Fulcrum | the Fulcrum]]. He fences shift rosters and servant-route gossip upward. The Cats do **not** know Chuggaz is tied to the bombing plot; they value him as paid infrastructure. If the Wonch press him hard, Vault will lean on Chuggaz to lie, transfer, or disappear before he talks about Cat business.
 
-h4. The Wonch (current - 31st Enean 4218 SC)
+h3. The Wonch (current - 31st Enean 4218 SC)
 
 [[The Adventurers | The Wonch]] worry Vault more than Hielaman right now:
 
-* [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] flashed a huge sum at [[:emerich-surefoot | Emerich Surefoot]][1], then returned with backup and assaulted him during the Wallarch chase[2].
-* The party is now [[The Hexine Circle | Hexine Circle]] investigators with official cover, digging into the Fulcrum bombing and servant routes.
+* [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] flashed a huge sum at [[:emerich-surefoot | Emerich Surefoot]].[1], then returned with backup and assaulted him during the Wallarch chase.[2]
+* The party is now [[Hexine Circle | Hexine Circle]] investigators with official cover, digging into the Fulcrum bombing and servant routes.
 * On the 31st they questioned [[:nort | Nort]] and have **Nans** and **Chuggaz** on the list - both Fulcrum staff; Chuggaz is a **Gild** asset.
 
 Vault reads this as an unpredictable outside faction muscling into Wallarch **and** the Fulcrum service layer. They do not know the Wonch's goals. They **do** know that heavy Wonch attention on Chuggaz could expose the garbage-cart pipeline and the paid access network the Anathemists used. Preferred response: misdirect, stall, or feed harmless gossip - not open war unless cornered.
 
-h4. Interaction with the party
+h3. Interaction with the party
 
 The Cats will not share much willingly. They want the cart away from Hielaman but will not say why. They will be happy with anything that achieves that: stealing the cart from impound, or getting enough dirt on Hielaman to bring him to heel. Once satisfied, they share what they know (descriptions below - not full truth about Vault kompromat or Chuggaz's Gild role unless bargained hard).
 
-h4. Leads
+h3. Leads
 
 * The Anathemists abandoned the cart in [[The Wallarch District | Wallarch]], near the break in the [[Quarantine Zone | quarantine wall]]. Traces of sulfur and saltpetre remained - leftovers from the thefts at [[House Beltus | Beltus]] and [[House Grimbolg | Grimbolg]].
 * Descriptions the Black Cats can give:

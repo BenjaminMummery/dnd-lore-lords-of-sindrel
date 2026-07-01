@@ -53,13 +53,13 @@ The northwest foundation pillar was cracked by the bombing and later repaired by
 The Wellspring water is not produced beneath the Fulcrum but channelled from the Amalthean (colloquially the [[House Grimbolg | Cornucopia]]).
 
 <!-- GM_INFO_START -->
-h3. [[Ditchquer | Ditchquer]] Diversion
+h2. [[Ditchquer | Ditchquer]] Diversion
 
 The explosives beneath The Fulcrum were spectacular, but their deeper purpose was diversion. The blast drew [[House Oestra | House Oestra]] attention and reinforcements away from the [[Osteomantic Archives | archive]] route and [[:silas-oestra | Silas Oestra]]'s rooms.
 
 The bombs were dangerous enough that a full simultaneous detonation might have caused catastrophic structural failure, but the conspirators’ primary objective was still diversion and panic rather than the destruction of the Fulcrum for its own sake.
 
-h3. Interior of the Fulcrum
+h2. Interior of the Fulcrum
 
 * the ground floors are a grand exhibition space, suitable for ceremonies and other civic events. The walls are decorated with a huge mural depicting the 7 founders, their characteristic items picked out in electrum inlaid into the walls.
 * Most of the building is beurocratic - meeting rooms, offices, archives, things of this nature.

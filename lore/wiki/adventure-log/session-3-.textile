@@ -3,7 +3,7 @@ op_id: 6adff637351c4101a96bffca2c5f294f
 op_slug: session-3-
 op_kind: Wiki
 op_type: Post
-name: 'Session 3: ?'
+name: 'Session 3: "Graduation"'
 title: 'Session 3: "Graduation"'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-3-
 op_created_at: '2026-01-21T14:05:29Z'

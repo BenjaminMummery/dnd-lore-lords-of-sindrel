@@ -3,7 +3,7 @@ op_id: 6a9b29c8be354a8894c6591017af56b6
 op_slug: the-catacombs
 op_kind: Wiki
 op_type: Post
-name: The Catacombs
+name: 'Session 7: Into The Catacombs'
 title: 'Session 7: Into The Catacombs'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-catacombs
 op_created_at: '2026-03-31T11:13:42Z'
@@ -14,50 +14,34 @@ post_tagline: Murder in the Dark...
 post_time: '2026-03-31T11:00:00Z'
 ---
 
-h3. Dramatis Personae
+h2. Dramatis Personae
 [accordion]
-    [accordion-item]
-        [title] [[The Adventurers | The Adventurers]][end-title]
-        [content]
-            * [[:amanira | Amanira]], a drow druid.
-            * [[:ayr | Ayr]], gnome paladin.
-            * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
-            * [[:pin | Pin]], a human fighter.
-            * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
-            * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
-            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] Associates and Companions [end-title]
-        [content]
-            * [[:razorbeak | Chicken]] - a [[:razorbeak | chicken]].
-            * [[:hunts-by-night | Cat]] - a cat.
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] Denizens of [[The Wallarch District | the Wallarch district]] [end-title]
-        [content]
-            * [[:emerich-surefoot | Emerich Surefoot]] - a ruffian.
-            * [[:micycle-smynth | Micycle Smynth, deceased]] - a corpse.
-            * Various mourners
-            * A [[:celebrant-alruna | celebrant]], [[:seelie-ophelan | Seelie Ophelan]], and [[:temperance-halke | Temperance Halke]] - staff of the [[Osteomantic Archives | Osteomantic Archives]]
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] Inhabitants of the Catacombs [end-title]
-        [content]
-            * [[:kithrak-ii | Kithrak II]] - an undead dragon
-            * [[:zalatan | Zalatan]] - an undead beholder
-        [end-content]
-    [end-accordion-item]
-
+[accordion-item] [title] [[The Adventurers | The Adventurers]] [end-title] [content]
+* [[:amanira | Amanira]], a drow druid.
+* [[:ayr | Ayr]], gnome paladin.
+* [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
+* [[:pin | Pin]], a human fighter.
+* [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
+* [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
+* [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
+[end-content] [end-accordion-item]
+[accordion-item] [title] Associates and Companions [end-title] [content]
+* [[:razorbeak | Chicken]] - a [[:razorbeak | chicken]].
+* [[:hunts-by-night | Cat]] - a cat.
+[end-content] [end-accordion-item]
+[accordion-item] [title] Denizens of [[The Wallarch District | the Wallarch district]] [end-title] [content]
+* [[:emerich-surefoot | Emerich Surefoot]] - a ruffian.
+* [[:micycle-smynth | Micycle Smynth, deceased]] - a corpse.
+* Various mourners
+* A [[:celebrant-alruna | celebrant]], [[:seelie-ophelan | Seelie Ophelan]], and [[:temperance-halke | Temperance Halke]] - staff of the [[Osteomantic Archives | Osteomantic Archives]]
+[end-content] [end-accordion-item]
+[accordion-item] [title] Inhabitants of the Catacombs [end-title] [content]
+* [[:kithrak-ii | Kithrak II]] - an undead dragon
+* [[:zalatan | Zalatan]] - an undead beholder
+[end-content] [end-accordion-item]
 [end-accordion]
 
-h3. Heading Down
+h2. Heading Down
 
 _Afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -67,11 +51,11 @@ The party's departure from the funeral of [[:micycle-smynth | Micycle Smynth]] l
 
 They chose the passageway that led toward the [[Quarantine Zone | quarantine zone]].
 
-h3. The Hall of Dragons
+h2. The Hall of Dragons
 
 _Late afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
-bq). The vault opens into a chamber built for scale. Above you, the articulated skeleton of a black dragon hangs from iron chains and calibrated counterweights, tail curled, wings spread in a posture of arrested flight. A narrow gallery rings the upper wall - bone railings, skull finials - as if scholars once observed the specimen from height. Below, on stepped plinths, smaller draconic remains lie arranged by lineage and size: wyrmling ribs no longer than your arm beside jawbones that could cradle a cart. Plaques name each display in a clerk's hand grown antique. The colossal skull dominates the room; in its hollow cranium something shifts - a scraping of claw on bone, too small for the beast that once owned it.
+bq). The vault opens into a chamber built for scale. Above you, the articulated skeleton of a black dragon hangs from iron chains and calibrated counterweights, tail curled, wings spread in a posture of arrested flight. A narrow gallery rings the upper wall - bone railings, skull finials - as if scholars once observed the specimen from height. Below, on stepped plinths, smaller draconic remains lie arranged by lineage and size: wyrmling ribs no longer than your arm beside jawbones that could cradle a cart. Plaques name each display giving both an identity and a specialty. The colossal skull dominates the room; in its hollow cranium something shifts - a scraping of claw on bone, too small for the beast that once owned it.
 
 This was [[:kithrak-the-black | Kithrak the Black]] - or what remained of him.
 
@@ -81,7 +65,7 @@ The deeper they went, the stronger the necromantic presence became - a slow, amb
 
 White chalk marked a path through the tunnels. [[:pin | Pin]], seeing an opportunity to confound an enemy, rubbed the marks away.
 
-h3. The Hall of Sages
+h2. The Hall of Sages
 
 _Late afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -89,13 +73,13 @@ bq). A circular seminar hall, or something close to it: a dozen high-backed chai
 
 [[:wilrin-racenglade | Wilrin]] acquired a fresh set of archive robes. Nobody touched the lecterns. Some lessons are learned the hard way; others are simply observed and filed under "later."
 
-h3. The Crossroads
+h2. The Crossroads
 
 _Late afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 The passageways opened into a nonagonal chamber with nine doors. Each bore a house sigil save the entrance they had used. Two doors were chalked: one marked [[House Oestra | House Oestra]], the other the sigil of [[The Eighth House | the defunct necromantic house]].
 
-h3. The Hall of Aberrations
+h2. The Hall of Aberrations
 
 _Late afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 

@@ -17,6 +17,6 @@ tags:
 
 Razorgrass is a carnivorous plant that feeds on the blood drawn by its bladed leaves. To the untrained eye it resembles tall, yellowish grass. It is only on closer inspection that the silvered edges give it away. The ability to draw sustenance from local fauna makes razorgrass one of the few plant species that grows well in the mountainous north.
 
-h3. Encounters
+h2. Encounters
 
 Patched of razorgrass were found in the orchard at [[Fallowhurst College | Fallowhurst College]]. Whether it was purposefully cultivated or simply invaded once the orchard was no longer tended is as yet unknown.

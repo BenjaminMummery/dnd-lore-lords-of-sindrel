@@ -17,19 +17,19 @@ tags:
 [[File:1543101  | class=media-item-align-right | 700px | Fallowhurst_img.png]]
 Fallowhurst, also known as "The Drowned Crossing" is an abandoned village and estate on [[The Mage Road | The Mage Road]]. The estate is the location of [[Fallowhurst College | Fallowhurst College]].
 
-h3. Geography
+h2. Geography
 
 The village sits within a boggy marshland formed by the flood plane of the River Deren.
 
-h3. Construction
+h2. Construction
 
 The village was constructed primarily of one or two story wooden buildings with stone foundations. The raised foundations of the estate restricted the river, causing a rise in water level that was held back by the construction of levees on the village side.
 
-h3. History
+h2. History
 
 At some point several centuries ago, the village was abandoned. The levees failed, and the Deren river flooded the village to a depth of several feet.
 
-On the 25th of Enean 4218 ([[The Soulwind Calendar | SC]]), the [[The Adventurers | Neighborhood Wonch]] passed through the village on their way to [[Sindrel | Sindrel]][1].
+On the 25th of Enean 4218 ([[The Soulwind Calendar | SC]]), the [[The Adventurers | Neighborhood Wonch]] passed through the village on their way to [[Sindrel | Sindrel]].[1]
 
 fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
 
@@ -37,7 +37,7 @@ fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
 
 <!-- GM_INFO_START -->
 
-h3. History
+h2. History
 
 Fallowhurst was founded as a small fishing village around a  shallow ford of the River Deren.
 

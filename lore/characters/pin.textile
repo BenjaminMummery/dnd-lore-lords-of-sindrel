@@ -24,7 +24,7 @@ Carries a plain longsword with old, careful maintenance - a soldier's blade, not
 * *28th Enean 4218 [[The Soulwind Calendar | SC]]* - During downtime in [[Sindrel | Sindrel]], asked magical shops about the [[The Fallowhurst Sigil | Fallowhurst sigil]] seen at [[Fallowhurst College | Fallowhurst College]]; could not reproduce it from memory. Later drank with [[:hielaman | Captain Hielaman]]; woke with a black eye after a [[Ditchquer | Ditchquer]] argument.
 
 <!-- GM_INFO_START -->
-h3. The sword
+h2. The sword
 
 Carries a plain longsword with old, careful maintenance - a soldier's blade, not a noble's showpiece. The guard bears worn knotwork that might be [[House Meness | Meness]] law-runes if you know what to look for.
 
@@ -35,13 +35,13 @@ Pin's longsword is a **misplaced Meness archive piece**, not a family heirloom o
 * **Why the Archives care:** Caretakers still maintain the First Watch roster. The blade is **checked out without return**. They will attempt to recover it politely before they attempt violence.
 * **Magic (depowered):** The sword was **abjuratively enchanted** - a Meness pattern that turned aside the first harm each day and remembered the force that struck it (a crude echo of founder-tier adaptation). A millennium outside [[Sindrel | Sindrel]]'s density, and decades more in the mundane world, has **drained it to mundane steel**. Pin may feel it is *almost* right - balance, temper - without knowing why.
 
-h4. Repowering (future thread)
+h3. Repowering (future thread)
 
 Restoration needs **Sindrel-scale magic** plus **knowledge of the original inscription** (Panopticon records, Alicia's displayed adventuring arms, or a caretaker's catalogue rubbings). Possible collaborators: [[:hielaman | Hielaman]] (Meness procedure), [[:kelferria-the-smith | Kelferria]] (metalwork channel), archive caretaker (correct shelf blessing).
 
 When repowered, aim for a **single clear benefit** - e.g. once per long rest, reduce damage from one weapon hit by a die step, or on first hit taken in combat gain resistance to that damage type until end of next turn (Meness "learns the blow"). Do not mirror [[:general-alicia-meness | Alicia]]'s full adaptation.
 
-h4. Distinction - Fallowhurst sigil
+h3. Distinction - Fallowhurst sigil
 
 The [[The Fallowhurst Sigil | Fallowhurst sigil]] is **unrelated** to the sword. Session 4 shop visits were about the binding circle from [[Fallowhurst College | Fallowhurst College]], not blade markings.
 <!-- GM_INFO_END -->

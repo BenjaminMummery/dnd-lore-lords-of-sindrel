@@ -21,7 +21,7 @@ You see a grey-haired man with a scarred cheek, dressed in fancy foreign clothes
 
 
 <!-- GM_INFO_START -->
-h3. Role in the Anathemist Plot
+h2. Role in the Anathemist Plot
 
 Barnabus is the **de-facto coordinator and cell lead** for the [[Anathemists | Anathemist]] infiltration of [[Sindrel | Sindrel]]. He is embedded in [[:regnif-d-log | Regnif d'Log]]'s household, outwardly serving as d'Log's butler.
 
@@ -37,7 +37,7 @@ During the [[Ditchquer | Ditchquer]] closing ceremony, Barnabus stole [[:silas-o
 
 After the [[Ditchquer | Ditchquer]] operation, Barnabus remained in [[Sindrel | Sindrel]] as part of d'Log's retinue, permitted to stay until his master's business is concluded. This makes him the spy cell's remaining embedded agent after Georges and Jean depart.
 
-h4. Investigative footprint
+h3. Investigative footprint
 
 Evidence pointing to Barnabus may include household account irregularities, messages sent in d'Log's name, servant testimony, the Kelferria armour order, charcoal purchases, unexplained knowledge of [[:silas-oestra | Silas Oestra]]'s movements, and any clue showing that d'Log's authority was used without d'Log's understanding.
 <!-- GM_INFO_END -->

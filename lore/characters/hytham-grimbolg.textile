@@ -33,21 +33,21 @@ He can no longer imagine beauty. When he attempts art, the result becomes useful
 
 His personal appetites mirror the same corruption. Hytham overproduces, stockpiles, and consumes. He spends his days surrounded by abundance, eating through stores before they spoil, unable to stop creating more and unable to experience the abundance as anything but need.
 
-h4. The Founder’s Burden
+h2. The Founder’s Burden
 
 [[House Grimbolg | House Grimbolg]] prizes growth, transformation, craft, and the provision of life’s necessities. Hytham has become the perfect servant of that ideal and its victim. He can make anything useful. That is the curse.
 
 The Shaper's Hands are no longer the hands of an artist. They are the hands of a city that must never stop eating.
 
-h4. Background
+h2. Background
 
 Hytham grew up on the streets of [[Soulwind | soulwind]], using transmutation to keep his family alive. This initial anxiety over scarcity has driven his corruption.
 
-h4. Depictions
+h2. Depictions
 
 In paintings and statues of the founders, Hytham is shown as a slim male half-orc wearing the simple, sturdy duty clothes of a craftsman or smith and a heavy leather apron. He wears the shaper's hands, stone gloves of surprising delicacy inscribed with arcane symbols. He is usually posed in the act of conjuring forth a twisting organic form between his hands.
 
-h4. Present day
+h2. Present day
 TODO: is hytham still slim given his corruption?
 
 <!-- GM_INFO_END -->

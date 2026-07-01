@@ -14,48 +14,40 @@ post_tagline: A Wretched Hive of Scum and Villainy...
 post_time: '2026-03-11T09:00:00Z'
 ---
 
-h3. Dramatis Personae
+h2. Dramatis Personae
 [accordion]
-    [accordion-item]
-        [title] [[The Adventurers | The Adventurers]][end-title]
-        [content]
-            * [[:amanira | Amanira]], a drow druid.
-            * [[:ayr | Ayr]], gnome paladin.
-            * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
-            * [[:pin | Pin]], a human fighter.
-            * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
-            * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
-            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] Denizens of [[The Wallarch District | the Wallarch district]] [end-title]
-        [content]
-            * [[:emerich-surefoot | Emerich Surefoot]] - a ruffian.
-            * [[:micycle-smynth | Micycle Smynth, deceased]] - a corpse.
-            * [[:razorbeak | Chicken]] - a [[:razorbeak | chicken]].
-            * [[:hunts-by-night | Cat]] - a cat.
-            * Various mourners
-            * A [[:celebrant-alruna | celebrant]], [[:seelie-ophelan | Seelie Ophelan]], and [[:temperance-halke | Temperance Halke]] - staff of the [[Osteomantic Archives | Osteomantic Archives]]
-        [end-content]
-    [end-accordion-item]
-
+[accordion-item] [title] [[The Adventurers | The Adventurers]] [end-title] [content]
+* [[:amanira | Amanira]], a drow druid.
+* [[:ayr | Ayr]], gnome paladin.
+* [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
+* [[:pin | Pin]], a human fighter.
+* [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
+* [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
+* [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
+[end-content] [end-accordion-item]
+[accordion-item] [title] Denizens of [[The Wallarch District | the Wallarch district]] [end-title] [content]
+* [[:emerich-surefoot | Emerich Surefoot]] - a ruffian.
+* [[:micycle-smynth | Micycle Smynth, deceased]] - a corpse.
+* [[:razorbeak | Chicken]] - a [[:razorbeak | chicken]].
+* [[:hunts-by-night | Cat]] - a cat.
+* Various mourners
+* A [[:celebrant-alruna | celebrant]], [[:seelie-ophelan | Seelie Ophelan]], and [[:temperance-halke | Temperance Halke]] - staff of the [[Osteomantic Archives | Osteomantic Archives]]
+[end-content] [end-accordion-item]
 [end-accordion]
 
-h3. The Chase
+h2. The Chase
 
 _Noon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
-bq). Sandwiched between the city's outer wall and the iron boundary of the [[Quarantine Zone | quarantine zone]], [[The Wallarch District | Wallarch]] feels enclosed on every side. The buildings are the same seamless stonework you've seen elsewhere in the city, but the forms are crude and weathered. Here and there you can see the signs of repairs made with more conventional building materials. You notice demons in higher numbers, openly going about their assigned tasks. You realise now how much care has been taking in the rest of the city to position the floating buildings in such a way as to leave the open sky above main thoroughfares, and how little care has been taken here - the streets are shadowed and gloomy even at the height of the day.
+bq). Sandwiched between the city's outer wall and the iron boundary of the [[Quarantine Zone | quarantine zone]], [[The Wallarch District | Wallarch]] feels enclosed on every side. The buildings are the same seamless stonework you've seen elsewhere in the city, but the forms are crude and weathered. Here and there you can see the signs of repairs made with more conventional building materials. You notice demons in higher numbers, openly going about their assigned tasks. You realise now how much care has been taken in the rest of the city to position the floating buildings in such a way as to leave the open sky above main thoroughfares, and how little care has been taken here - the streets are shadowed and gloomy even at the height of the day.
 
 Upon entering [[The Wallarch District | Wallarch]], the [[The Adventurers | Wonch]] quickly became aware that they were being observed - a figure in a hooded cloak who had been surveilling the street from an alleyway took note of [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and immediately headed off with some urgency. [[The Adventurers | The Wonch]] gave chase, and were ultimately successful in capturing their quarry. This endeavour resulted in them gaining one [[:razorbeak | chicken]] and one cat, while destroying one chicken crate, one large stained glass window being carried by two demons, and the equanimity of a passing mother and child.
 
-The running figure was revealed to be [[:emerich-surefoot | Emerich Surefoot]], one of the shady individuals with whom [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] had gambled for information[1].  Despite his utterly pathetic attempts at disassembling, he ultimately revealed that he was a low-level enforcer for [[The Black Cats | The Black Cats]], and had been on his way to set up an ambush for [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] since she had previously flashed around a large quantity of cash. He revealed that his contact in the Cats operated out of the back room of [[The Cutthroat's Repose | The Cutthroat's Repose]], and that the password to get in was "Swordfish".
+The running figure was revealed to be [[:emerich-surefoot | Emerich Surefoot]], one of the shady individuals with whom [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] had gambled for information.[1]  Despite his utterly pathetic attempts at dissembling, he ultimately revealed that he was a low-level enforcer for [[The Black Cats | The Black Cats]], and had been on his way to set up an ambush for [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] since she had previously flashed around a large quantity of cash. He revealed that his contact in the Cats operated out of the back room of [[The Cutthroat's Repose | The Cutthroat's Repose]], and that the password to get in was "Swordfish".
 
 [[The Adventurers | The adventurers]] allowed [[:emerich-surefoot | Emerich]] to leave, and chose to proceed to the [[Osteomantic Archives | Osteomantic Archives]], accompanied by one of the recently freed [[:razorbeak | Chicken]]s, and a [[:hunts-by-night | cat]], the latter very interested in [[:amanira | Amanira]]'s rat form.
 
-h3. The [[Osteomantic Archives | Osteomantic Archives]]
+h2. The [[Osteomantic Archives | Osteomantic Archives]]
 
 _Early Afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -73,7 +65,7 @@ Examining the room, [[:rossin-ros-greyhirst | Ros]] noted that the dates on the 
 
 The central alter was inscribed with an eight pointed star surrounding the symbol from the doorway. This closely resembles the [[The Fallowhurst Sigil | Fallowhurst Sigil]], albeit significantly simpler. The operation of this sigil was demonstrated at the end of the funeral when it was used to summon a cold flame that stripped away the flesh of the late mr [[:micycle-smynth | Smynth]] leaving a polished skeleton in its wake.
 
-In the side chamber, [[:nakoma-deathwalker-mor-got-ha | DW]] and [[:amanira | Amanira]] found vestments for numerous denominations, as well as sets of black robes for those who work at the archives themselves. The concluded that the Archives were are a non-denominational space that catered to various religions (and tried on said black robes). They also found a stairway leading downwards into an undercroft.
+In the side chamber, [[:nakoma-deathwalker-mor-got-ha | DW]] and [[:amanira | Amanira]] found vestments for numerous denominations, as well as sets of black robes for those who work at the archives themselves. They concluded that the Archives were a non-denominational space that catered to various religions (and tried on said black robes). They also found a stairway leading downwards into an undercroft.
 
 At the conclusion of the funeral, the [[:seelie-ophelan | two]] [[:temperance-halke | attendants]] gathered up the mortal remains of [[:micycle-smynth | Micycle]], and proceeded towards the room where [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and [[:amanira | Amanira]] were exploring.
 

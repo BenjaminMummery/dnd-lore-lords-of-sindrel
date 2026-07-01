@@ -33,11 +33,11 @@ The voices and suffering of the beings he summoned have accumulated within him. 
 
 Nial fears that one day the relationship will reverse completely, and he will find himself on the circle of the summoned rather than the summoner.
 
-h4. The Founder’s Burden
+h2. The Founder’s Burden
 
 [[House Beltus | House Beltus]] believes in command: call, bind, name, bargain, dismiss. Nial's curse is that every command leaves an answer behind. The Crown of Shadows is therefore an apt symbol. It marks sovereignty over the unseen, but also suggests that his authority has become crowded by everything he once forced into obedience.
 
-h4. Depictions
+h2. Depictions
 
 In statues and paintings of the founders, Nial Beltus is shown as a male Drow with ash-coloured skin and white hair. He wears a form-fitting robe with a high collar. Two demonic dogs walk at his heels.
 <!-- GM_INFO_END -->

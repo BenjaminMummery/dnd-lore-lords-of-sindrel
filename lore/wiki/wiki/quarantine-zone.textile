@@ -19,7 +19,7 @@ At the heart of the Quarantine Zone stand the ruins of [[The Eighth House | The 
 <!-- GM_INFO_START -->
 The [[The Eighth House | House Samhain]] hq is known as the Sacrum
 
-h3. Anathemist Staging Ground
+h2. Anathemist Staging Ground
 
 The Sacrum was used by the [[Anathemists | Anathemist]] cell as a staging ground inside the Quarantine Zone. The enchanted armour samples acquired through [[:kelferria-the-smith | Kelferria]] allow the conspirators to operate there with reduced risk.
 
@@ -27,7 +27,7 @@ Stolen sulfur, stolen nitre, purchased charcoal, false Oestra armour, kidnapped 
 
 The Sacrum contains evidence of repeated supply movement: charcoal residue, chemical traces, armour preparation, copied-route notes, and signs that people moved through the site in disguise rather than lived there openly.
 
-h3. The Layered Wound
+h2. The Layered Wound
 
 The Quarantine Zone is a real necromantic disaster zone, but not for the reason the public believes.
 
@@ -37,7 +37,7 @@ And then the Seven then made matters worse. Their attempts to purge, contain, st
 
 The Zone is also useful. Its danger made the public story believable. It stands as visible proof that Samhain had sacrificed her followers and cursed her own House.
 
-h3. What Remains
+h2. What Remains
 
 The Quarantine Zone still contains fragments of [[The Eighth House | House Samhain]]. These include broken civic infrastructure, old streets, courts, ossuaries, homes, academies, hospitals, memory-archives, and necromantic wards. Some undead within the Zone are not monsters, but custodians: librarians, witnesses, wardens, failed evacuees, or caretakers still trying to fulfil duties assigned centuries ago. The Zone also contains [[:the-red-mourning | The Red Mourning]], Samhain's ring which she modified to hold a black stone from [[Thanismot | Thanismot]]. It is not a portal or rift-key. It is a clue, a tool of remembrance, and a way to call to the dead.
 <!-- GM_INFO_END -->

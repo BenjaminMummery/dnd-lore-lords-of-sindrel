@@ -20,7 +20,7 @@ The calendar counts years since the (supposed) date of the city's founding. The 
 
 The [[Soulwind | Soulwind]] year is:
 
-<div class="CSSTableGenerator" style="position:relative;left:0px;top:10px;>
+<div class="CSSTableGenerator" style="position:relative;left:0px;top:10px;">
                 <table >
                     <tr>
                         <td>

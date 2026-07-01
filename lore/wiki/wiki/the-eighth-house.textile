@@ -17,7 +17,7 @@ The rumoured house of Necromancers in [[Sindrel | Sindrel]].
 
 Supposedly it was destroyed a thousand years ago in [[The Fall of the Eighth House | The Fall of the Eighth House]]. Today, only the [[Osteomantic Archives | Osteomantic Archives]] and the abandoned streets of the [[Quarantine Zone | Quarantine Zone]] remain of their contributions to the city.
 
-h3. Architecture
+h2. Architecture
 
 Gothic - dark stone bedecked with pointed arches, gargoyles, and tasteful skull motifs. So far this has been seen only in the non-house affiliated [[Osteomantic Archives | Osteomantic Archives]],
 

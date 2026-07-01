@@ -3,8 +3,8 @@ op_id: 6e743e303c85421f9e1f25a358416a6e
 op_slug: session-5-the-investigation-begins
 op_kind: Wiki
 op_type: Post
-name: 'Session 5: The Investigation Begins.'
-title: 'Session 5: The Investigation Begins.'
+name: 'Session 5: The Investigation Begins'
+title: 'Session 5: The Investigation Begins'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-5-the-investigation-begins
 op_created_at: '2026-02-13T22:54:27Z'
 op_updated_at: '2026-05-21T08:04:59Z'
@@ -77,7 +77,7 @@ The "incidents" [[:journeyman-galoras | Galoras]] mentioned were a series of sus
 * The control rod of one of [[House Grimbolg | House Grimbolg]]'s water generators was inverted, causing a water storage tank to overflow. This resulting in the drowning of one of their [[Factor | factors]], [[:dogara | Hydromancer D'gara]], as well as significant losses from the adjacent storage silos.
 * [[:nielsenn | Nielsenn]], [[Adjutant | adjutant]] of [[House Mabon | House Mabon]], was vaporised when one of his own trapped locks misfired.
 * A summoning being carried out by  [[:caller-georg |Caller Johann Georg]], [[Factor | factor]] of [[House Beltus | House Beltus]], went badly wrong. The demon was able to break free of the summoning circle and possess the summoner. Under its influence, [[:caller-georg | Caller Georg]] ran amok through the halls of the [[Beltan Institute | Beltan Institute]] defacing a number of portraits and other precious items before his heat finally gave out. As a final sick joke, the demon enchanted its own sulphurous leavings which, when gathered up with the rest of the day's refuse, exploded. The page of his newly purchased grimoire showing the appropriate summoning circle for a succubus was found to have been vandalised.
-* The punch ladle at a diplomatic function being hosted by [[House Lithra | House Lithra]] was exchanged with one that had been enchanted with a geis of truth speaking. This resulted in three major diplomatic incidents, the end of two miarrages, and a very awkward proposal. House [[Factor | factor]] [[:emissary-isius | Emissary Isius]] has had to withdraw from public life.
+* The punch ladle at a diplomatic function being hosted by [[House Lithra | House Lithra]] was exchanged with one that had been enchanted with a geis of truth speaking. This resulted in three major diplomatic incidents, the end of two marriages, and a very awkward proposal. House [[Factor | factor]] [[:emissary-isius | Emissary Isius]] has had to withdraw from public life.
 * A series of explosive devices were found in the sewers below [[The Fulcrum | The Fulcrum]] on the night of the [[Ditchquer | Ditchquer]] tournament closing ceremony. One detonated early, causing some minor structural damage. The others were discovered and diffused. High ranking [[Factor | Factors]] of each house were in attendance, any or all of whom may have been the intended target. Reinforcements from [[House Oestra | House Oestra]] were called in to support the [[House Meness | House Meness]] guards already in place.
 * [[:f-lar-mnementh | Tyromancer Pterath]], [[Factor | factor]] of [[House Goela | House Goela]], was poisoned. Investigators determined that a large dosage of hallucinogens had been added to his cheese. Pterath survived, but has been unwilling to attempt any further acts of divination.
 * [[:craftsman-shegrim | Craftsman Shegrim]], a high-level [[Factor | factor]] of [[House Mabon | House Mabon]], was  commissioned anonymously to place a spell of reflection on an amulet. The amulet had _already_ been enchanted with a spell of reflection, causing the enchantment to rebound. In a city where magic is everywhere, he's a walking danger to everyone around him.
@@ -129,7 +129,7 @@ bq). If they’re here, they must be planning to use their position to strike ag
 
 <hr>
 
-h4. [[House Grimbolg | House Grimbolg]]
+h3. [[House Grimbolg | House Grimbolg]]
 
 [[File:1554081  | class=media-item-align-right | 300px | Senetere.jpg]]
 
@@ -139,7 +139,7 @@ bq). There is no point closing the stable door when the horse has already bolted
 
 There followed an in-depth discussion around the ecology of the city. [[:navinea-senetera | Senetera]] was deeply interested in [[:rossin-ros-greyhirst | Ros's]] knowledge of natural systems, and was actively looking for insights that might improve the efficiency of [[House Grimbolg | House Grimbolg]]'s operation. They've been stretched pretty thin recently with increased demand.
 
-h3. Next Steps
+h2. Next Steps
 
 Given that [[The Black Cats | The Black Cats]] and the most likely [[Osteomantic Archives | Osteomantic Archive]] were both located in [[The Wallarch District | The Wallarch District]], [[The Adventurers | the Wonch]] elected to begin their investigation there.
 

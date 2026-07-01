@@ -69,4 +69,5 @@ A tall, thin figure in the dark robes and hooked mask of a plague doctor. They c
     <span>7 (2d4+2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
  </span>
 </div>
+</div>
 <!-- GM_INFO_END -->

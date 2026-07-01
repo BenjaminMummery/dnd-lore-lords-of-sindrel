@@ -23,7 +23,7 @@ tags:
 
 
 <!-- GM_INFO_START -->
-h3. Target of the [[Ditchquer | Ditchquer]] Heist
+h2. Target of the [[Ditchquer | Ditchquer]] Heist
 
 Silas's rooms were the true target of the [[Anathemists | Anathemist]] operation during the [[Ditchquer | Ditchquer]] closing ceremony.
 
@@ -31,7 +31,7 @@ Silas's rooms were the true target of the [[Anathemists | Anathemist]] operation
 
 The conspirators copied what they could and stole what they could not. The exact stolen material remains a key unresolved point, but the breach is directly connected to the [[Anathemists | Anathemists]]' knowledge of [[Kosmios | Kosmios]].
 
-h3. Silas's awareness (Session 12)
+h2. Silas's awareness (Session 12)
 
 * **Ditchquer night:** [[:barnabus | Barnabus]] lifted his key. Silas noticed the loss later; had it reissued. Did not search his rooms thoroughly - nothing looked disturbed.
 * **After the captured Anathemist interrogation:** general intelligence suggested a high-level security breach somewhere in the Houses.

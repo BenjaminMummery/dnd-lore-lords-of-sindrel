@@ -20,17 +20,17 @@ The informal network of felines living in [[Sindrel | Sindrel]] - not to be conf
 fn1. [[Session 10: Shakes Spear in the Park | Session 10: Shakes Spear in the Park]] — [[:pads-silently | Pads-Silently]] at [[Radwasp House | Radwasp House]].
 
 <!-- GM_INFO_START -->
-h3. Relation to [[The Black Cats | the Black Cats]]
+h2. Relation to [[The Black Cats | the Black Cats]]
 
 Unrelated organisations. [[The Black Cats | Black Cats]] are human criminals; City Cats are street cats with their own gossip, routes, and hierarchies. The syndicate has never tried to recruit them.
 
-h3. Faction clock notes
+h2. Faction clock notes
 
 Through Session 11 (31st Enean 4218 SC): **Favourable** toward [[The Adventurers | the Wonch]].
 
 * [[:amanira | Amanira]] befriended the local feline populace in cat form early in the campaign and learned routes into the [[House Grimbolg | Amalthean]].
 * The network knows [[:amanira | Amanira]] as **Walks-Among-Us** and treats her companions as extensions of that trust.
-* [[:pads-silently | Pads-Silently]] sought the party at [[Radwasp House | Radwasp House]][1] to warn of [[:tama | the giant stoat]] and ask for aid against a predator scenting the rooftops.
+* [[:pads-silently | Pads-Silently]] sought the party at [[Radwasp House | Radwasp House]] to warn of [[:tama | the giant stoat]] and ask for aid against a predator scenting the rooftops.[1]
 
 They share street intelligence when asked, not formal allegiance. Opinion drops if the party ignores cat warnings or treats ferals as disposable.
 <!-- GM_INFO_END -->

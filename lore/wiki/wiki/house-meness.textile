@@ -20,6 +20,8 @@ House Meness are primarily tasked with maintaining both the magical defences aro
 
 House Meness are often paired with [[House Oestra | House Oestra]] as both have a strong martial bent.
 
+h2. Personnel
+
 h3. Known Factors
 
 * [[:hielaman | Captain Hielaman]] - Member of the [[Hexine Circle | Hexine Circle]] formed to counter [[Anathemists | Anathemist]] infiltration of the city.
@@ -29,7 +31,7 @@ h3. Known Adjutants
 
 * [[:sebastian-warwick | Private Sebastian Warwick]] - Stationed at [[Fallowhurst Outpost | Fallowhurst Outpost]]
 
-h3. Architecture
+h2. Architecture
 
 House Meness buildings are designed to look lawful before they look beautiful. They are pale, symmetrical, and highly visible: white stone walls, dark timber framing, black iron hardware, and pale banners bearing the Meness symbol. Their civic buildings often borrow the long rooflines and heavy timberwork of old northern halls, but refine them into something more official: watch-houses, courts, gate stations, tribunal halls, and precinct fortresses.
 
@@ -41,7 +43,7 @@ Inside, Meness architecture is bright, echoing, and severe. Public halls have pa
 
 The best Meness buildings feel protective and oppressive at the same time. They are shelters, courts, barracks, and warnings.
 
-h3. Uniforms of The Watch
+h2. Uniforms of The Watch
 
 House Meness uniforms are severe, bright, and instantly recognisable. Their base uniform is a long white or off-white high-collared tunic-coat, cut close through the torso and falling to mid-thigh or knee depending on rank. The coat fastens with a vertical line of pale metal buttons, giving the wearer a formal, constabulary silhouette. The shoulders are squared but not flamboyant, often reinforced with hidden abjurative plates beneath the cloth. The tunic is accessorised with black details - A broad leather belt from which hands a shortsword and truncheon; gloves of black calfskin; charcoal trousers tucked into high polished black leather boots; the trident of House Meness embroidered into the back.
 
@@ -53,7 +55,7 @@ House Meness armour is integrated rather than ostentatious. A patrol uniform mig
 
 Worn over the heart is a silver badge shaped like a shield - the official mark of an officer of [[Sindrel | Sindrel]]'s law.
 
-h3. Headquarters
+h2. Headquarters
 
 The Panopticon serves as the headquarters of House Meness - a floating fortress that circles [[Sindrel | Sindrel]] continuously.
 
@@ -65,59 +67,59 @@ The core of the building is The Watchtower half as high again as the outer walls
 <br>
 Within its walls are barracks, prisons, courtrooms, administrative offices, and command facilities. Its unhurried patrol overhead serves as a visible reminder of House Meness's responsibility for law, security, and order.
 
-h3. Anathemist Sabotage
+h2. Anathemist Sabotage
 
 On _17th Enean_, [[:major-vindas | Major Vindas]] was killed by a piece of armour with an inverted reflection enchantment. Instead of reversing incoming force, the enchantment amplified it. When she invited an aide to help test the armour with a low-level firebolt spell, she was incinerated instantly.
 
 The death of [[:major-vindas | Major Vindas]] has deepened fears that the [[Anathemists | Anathemists]] are not merely attacking buildings or institutions, but turning ordinary magical safeguards into lethal traps.
 
 <!-- GM_INFO_START -->
-h3. Overview
+h2. Overview
 
 * Architecture reference: Norse
 * Philosophy: Courage - Safety and order exist only because someone is willing to stand in danger on behalf of others.
 
-h3. Leader
+h2. Leader
 
 [[:general-alicia-meness | General Alicia Meness]]
 
-h3. Ranks
+h2. Ranks
 
 House Meness operates a strict hierarchy, with a clear path to House membership. Adjutants start as recruits and gradually ascend to the rank of Serjeant Major. Their next promotion, to the rank of Ensign, brings them into the House proper. From there one can theoretically ascend all the way to the rank of General and official leadership of the House itself.
 
-h4. General Grade House Officers
+h3. General Grade House Officers
 
 * General
 * Lieutenant General
 * Major General
 * Brigadier General
 
-h4. Field Grade House Officers
+h3. Field Grade House Officers
 
 * Colonel
 * Lieutenant Colonel
 * Major
 
-h4. Company Grade House Officers
+h3. Company Grade House Officers
 
 * Captain
 * Lieutenant
 * Ensign
 
-h4. Senior Adjutant Officers
+h3. Senior Adjutant Officers
 
 * Serjeant Major
 * Quarter-Master Serjeant
 * Colour Serjeant
 * Serjeant
 
-h4. Junior Adjutant Officers
+h3. Junior Adjutant Officers
 
 * Lance Serjeant
 * Corporal
 * Lance Corporal
 
-h4. Enlisted Grade Adjutants
+h3. Enlisted Grade Adjutants
 
 * Fusilier / Kingsman / Highlander / Guardsman (specialists)
 * Private - Achieved once training is complete
@@ -125,7 +127,7 @@ h4. Enlisted Grade Adjutants
 * Fencible - Achieved after one battle
 * Recruit
 
-h3. Status
+h2. Status
 
 The warriors of [[House Oestra | House Oestra]] are largely absent from [[Sindrel | Sindrel]], deployed to protect and expand the colonisation of [[Kosmios | Kosmios]]. As a result, Meness are having to pull double duty, taking over Oestra's operations (for example, the garrison at [[Fallowhurst Outpost | Fallowhurst Outpost]]).
 

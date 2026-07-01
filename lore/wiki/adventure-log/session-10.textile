@@ -3,75 +3,60 @@ op_id: 689a5e01c2214591bcd30469314707f8
 op_slug: session-10
 op_kind: Wiki
 op_type: Post
-name: Session 10
+name: 'Session 10: Shakes Spear in the Park'
 title: 'Session 10: Shakes Spear in the Park'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-10
 op_created_at: '2026-05-20T14:18:31Z'
 op_updated_at: '2026-06-29T14:03:46Z'
 op_gm_only: false
 tags: []
+post_tagline: Exit, Pursued by a Stoat...
 post_time: '2026-05-20T12:30:00Z'
 ---
 
 h2. Dramatis Personae
 
 [accordion]
-    [accordion-item]
-        [title] [[The Adventurers | The Adventurers]][end-title]
-        [content]
-            * [[:amanira | Amanira]], a drow druid.
-            * [[:ayr | Ayr]], gnome paladin.
-            * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
-            * [[:pin | Pin]], a human fighter.
-            * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
-            * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
-            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] Associates and Companions [end-title]
-        [content]
-            * [[:kithrak-ii | Kithrak II]] - an undead dragon
-            * [[:cedric | Cedric]] - a butler
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] [[Sindrel | Sindrel]]'s Cats [end-title]
-        [content]
-            * [[:pads-silently | Pads-Silently]]
-            * [[:hunts-by-night | Hunts-By-Night]]
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] [[Merrylane | Merrylane]] Park [end-title]
-        [content]
-            * [[:tama | A giant stoat]]
-            * Assorted [[House Beltus | House Beltus]] demonic constructs
-        [end-content]
-    [end-accordion-item]
-
+[accordion-item] [title] [[The Adventurers | The Adventurers]] [end-title] [content]
+* [[:amanira | Amanira]], a drow druid.
+* [[:ayr | Ayr]], gnome paladin.
+* [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
+* [[:pin | Pin]], a human fighter.
+* [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
+* [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
+* [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
+[end-content] [end-accordion-item]
+[accordion-item] [title] Associates and Companions [end-title] [content]
+* [[:kithrak-ii | Kithrak II]] - an undead dragon
+* [[:cedric | Cedric]] - a butler
+[end-content] [end-accordion-item]
+[accordion-item] [title] [[Sindrel | Sindrel]]'s Cats [end-title] [content]
+* [[:pads-silently | Pads-Silently]]
+* [[:hunts-by-night | Hunts-By-Night]]
+[end-content] [end-accordion-item]
+[accordion-item] [title] [[Merrylane | Merrylane]] Park [end-title] [content]
+* [[:tama | A giant stoat]]
+* Assorted [[House Beltus | House Beltus]] demonic constructs
+[end-content] [end-accordion-item]
 [end-accordion]
 
-h3. Paws for Thought
+h2. Paws for Thought
 
 _Pre-dawn on the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 In the velvet dark before dawn, a silent visitor slipped through the shadows of [[Radwasp House | Radwasp House]] seeking [[:amanira | Amanira]]. The stealthy visitor was unexpectedly revealed to be one of the cats with whom she had formed a temporary friendship while exploring the city. Observing the clearly distressed cat, [[:amanira | Amanira]] sought out [[:rossin-ros-greyhirst | Ros]] to translate.
 
-Now able to be understood, the cat introduced themself as [[:pads-silently | Pads Silently]], and revealed that they came with a plea for aid: a new presence had begun stalking the city - a predator whose scent stirred an ancient fear in the hearts of cats. While no blood had yet been drawn, the cats of [[Sindrel | Sindrel]] knew knew they were outmatched. They called upon the one they knew as "Walks-Among-Us" and her formidable companions to face this unknown threat.
+Now able to be understood, the cat introduced themself as [[:pads-silently | Pads Silently]], and revealed that they came with a plea for aid: a new presence had begun stalking the city - a predator whose scent stirred an ancient fear in the hearts of cats. While no blood had yet been drawn, the cats of [[Sindrel | Sindrel]] knew they were outmatched. They called upon the one they knew as "Walks-Among-Us" and her formidable companions to face this unknown threat.
 
 In return for this boon, the sprawling, unseen network of [[Sindrel | Sindrel]]'s cats would become the party's eyes and ears, their whispers carrying secrets from every corner of the last magical city. At least as long as the cats remembered, or could be bothered.
 
-h3. The Rudest Awakening
+h2. The Rudest Awakening
 
 _Dawn on the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 Summoning [[The Adventurers | the Wonch]] was complicated somewhat by [[:nakoma-deathwalker-mor-got-ha | DW]]'s antagonistic relationship with doors. Her knock on the door to [[:wilrin-racenglade | Wilrin]]'s chambers sent it flying across the room, startling the sorcerer who instinctively let loose a firebolt. Despite DW's swift application of Chill Touch, the door and curtains were both badly singed, to the extreme consternation of [[:cedric | Cedric]]. The first fire-related mishap of the day, but not the last.
 
-h3. The Beast of [[Merrylane | Merrylane]] Park
+h2. The Beast of [[Merrylane | Merrylane]] Park
 
 _Early morning on the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -79,9 +64,9 @@ Guided by the cryptic directions of their new ally, the first glimmers of dawn s
 
 The path ended at a clearing, dominated by an ancient, hollow tree. Peering within, the party found not a monster, but a familiar face: the [[:tama | giant stoat]] they had freed from the cursed orchard of [[Fallowhurst | Fallowhurst]] - half a country and several lifetimes of adventure ago, or so it felt. [[:rossin-ros-greyhirst | Ros]] went very still. Whatever had been stalking the cats was not some nameless urban predator. It was *their* stoat. But as this reunion unfolded, a trio of demons entered the clearing. [[:silrie-aegiskiir | Silrie]] and [[:rossin-ros-greyhirst | Ros]], having scouted ahead, took immediate action to counter this threat, and as the rest of [[The Adventurers | the Wonch]] arrived battle was joined.
 
-This combat was the backdrop of two realisations: First, that these were not fiends from another plane, but magical constructs given form and purpose by the summoners of [[House Beltus | House Beltus]], as indeed are all of [[Sindrel | Sindrel]]'s demonic workforce. Second, that the demons were not acting to attack the part, only the stoat. Performing, in one of the demon's own words, "pest control". However, a diplomatic solution was not forthcoming, and a combination of the [[:tama | Stoat's]] wicked teach and [[:nakoma-deathwalker-mor-got-ha | Deathwalker's]] Godzilla impression left no demonic survivors. However, in the heat of battle, a stray fiery shot from [[:amanira | Amanira]] struck [[:nakoma-deathwalker-mor-got-ha | DW]].
+This combat was the backdrop of two realisations: First, that these were not fiends from another plane, but magical constructs given form and purpose by the summoners of [[House Beltus | House Beltus]], as indeed are all of [[Sindrel | Sindrel]]'s demonic workforce. Second, that the demons were not acting to attack the party, only the stoat. Performing, in one of the demon's own words, "pest control". However, a diplomatic solution was not forthcoming, and a combination of the [[:tama | Stoat's]] wicked teeth and [[:nakoma-deathwalker-mor-got-ha | Deathwalker's]] Godzilla impression left no demonic survivors. However, in the heat of battle, a stray fiery shot from [[:amanira | Amanira]] struck [[:nakoma-deathwalker-mor-got-ha | DW]].
 
-h3. Burning Bridges
+h2. Burning Bridges
 
 _Morning on the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -89,7 +74,7 @@ Surprise, pain, and betrayal swirled within [[:nakoma-deathwalker-mor-got-ha | D
 
 As [[:silrie-aegiskiir | Silrie]] sought to subdue her with precise strikes and [[:rossin-ros-greyhirst | Ros’s]] voice tried to anchor her to the present, it was [[:wilrin-racenglade | Wilrin]] who found the true path back. He wove an illusion not of fear, but of memory. Above Deathwalker’s head, a glowing cube of light flickered to life, its faces windows into shared moments: a quiet drink, the triumph of meeting [[:kithrak-ii | Kithrak]], the scrawled sign proclaiming their dominance of [[Fallowhurst | Fallowhurst]]. As the images washed over her, the blinding rage receded, leaving the trembling, horrified realisation of what had almost happened.
 
-h3. A Stoat's Tale
+h2. A Stoat's Tale
 
 _Morning on the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 

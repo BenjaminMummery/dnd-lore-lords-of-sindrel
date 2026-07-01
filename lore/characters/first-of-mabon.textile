@@ -33,7 +33,7 @@ To outsiders, First of Mabon may appear serene, remote, ceremonial, or strangely
 
 The current body being worn by First is that of a female human-tiefling halfbreed with dark hair.
 
-h3. Depiction
+h2. Depiction
 
 In paintings and statues of the founders, First is depicted as a Tiefling with pale blue skin and horns adorned with silver filigree, dressed in a swashbuckling style: high trousers and a loose shirt open enough to reveal the ornate amulet at their chest.They are languid, exuding a rakish confidence.
 <!-- GM_INFO_END -->

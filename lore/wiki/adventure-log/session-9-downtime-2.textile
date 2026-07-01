@@ -10,58 +10,39 @@ op_created_at: '2026-05-20T12:24:54Z'
 op_updated_at: '2026-06-29T14:03:56Z'
 op_gm_only: false
 tags: []
+post_tagline: Errands and Nightmares...
 post_time: '2026-05-20T12:30:00Z'
 ---
 
-h3. Dramatis Personae
+h2. Dramatis Personae
 
 [accordion]
-    [accordion-item]
-        [title] [[The Adventurers | The Adventurers]][end-title]
-        [content]
-            * [[:amanira | Amanira]], a drow druid.
-            * [[:ayr | Ayr]], gnome paladin.
-            * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
-            * [[:pin | Pin]], a human fighter.
-            * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
-            * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
-            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] Associates and Companions [end-title]
-        [content]
-            * [[:razorbeak | Chicken]] - a [[:razorbeak | chicken]].
-            * [[:hunts-by-night | Cat]] - a cat.
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] [[House Oestra | House Oestra]] [end-title]
-        [content]
-            * [[:commander-locke | Prefect Locke]]
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] [[House Mabon | House Mabon]] [end-title]
-        [content]
-            * [[:journeyman-galoras | Journeyman Galoras]]
-            * [[:kelferria-the-smith | Kelferria the Smith]]
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] [[Radwasp House | Radwasp House]] [end-title]
-        [content]
-            * [[:cedric | Cedric]] - butler
-        [end-content]
-    [end-accordion-item]
-
+[accordion-item] [title] [[The Adventurers | The Adventurers]] [end-title] [content]
+* [[:amanira | Amanira]], a drow druid.
+* [[:ayr | Ayr]], gnome paladin.
+* [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
+* [[:pin | Pin]], a human fighter.
+* [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
+* [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
+* [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
+[end-content] [end-accordion-item]
+[accordion-item] [title] Associates and Companions [end-title] [content]
+* [[:razorbeak | Chicken]] - a [[:razorbeak | chicken]].
+* [[:hunts-by-night | Cat]] - a cat.
+[end-content] [end-accordion-item]
+[accordion-item] [title] [[House Oestra | House Oestra]] [end-title] [content]
+* [[:commander-locke | Prefect Locke]]
+[end-content] [end-accordion-item]
+[accordion-item] [title] [[House Mabon | House Mabon]] [end-title] [content]
+* [[:journeyman-galoras | Journeyman Galoras]]
+* [[:kelferria-the-smith | Kelferria the Smith]]
+[end-content] [end-accordion-item]
+[accordion-item] [title] [[Radwasp House | Radwasp House]] [end-title] [content]
+* [[:cedric | Cedric]] - butler
+[end-content] [end-accordion-item]
 [end-accordion]
 
-h3. A Convenient Lie
+h2. A Convenient Lie
 
 _Evening of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -71,13 +52,13 @@ Locke seemed perturbed both at the apparently unknown breach in Oestran security
 
 Locke directed them to their new base of operations: [[Radwasp House | Radwasp House]], a [[House Lithra | Lithra]] townhouse in upper [[Sindrel | Sindrel]] set aside for [[Hexine Circle | Hexine Circle]] investigators - more rooms than strictly necessary, and a butler named [[:cedric | Cedric]] who received their arrival with the calm of a man who had seen worse. Locke had been tasked to pass on the keys; the lodging itself was the Circle's arrangement, not Oestra's hospitality.
 
-h3. Downtime
+h2. Downtime
 
 _Morning through afternoon of the 30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 After a much-needed rest, the party scattered across the city for a quieter day of errands and reflection.
 
-h4. [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]]
+h3. [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]]
 
 Ros sought materials for a new weapon - some manner of chain-and-spearhead contraption she hoped [[:journeyman-galoras | Journeyman Galoras]] might assemble. A letter arrived from [[:navinea-senetera | Navinea Senetera]]:
 
@@ -88,27 +69,27 @@ I extend my thanks for your conversation at the [[Hexine Circle | Hexine Circle]
 Yours,
 [[:navinea-senetera | Navinea Senetera]]
 
-h4. [[:silrie-aegiskiir | Silrie Aegiskiir]]
+h3. [[:silrie-aegiskiir | Silrie Aegiskiir]]
 
 Silrie sought magical knuckle-dusters, then visited the [[Temple of the Dawn Father | Temple of the Dawn Father]]. In meditation they received an ominous vision warning of dangers on the road ahead.
 
-h4. [[:amanira | Amanira]]
+h3. [[:amanira | Amanira]]
 
 [[:amanira | Amanira]] hunted for books on the city's history, piecing together the official story of seven great mages and the traitor eighth from tomes written by Sindrelians for Sindrelians.
 
 One book differed - _The Rise and Fall of Houd_ is a dense historical treatise on [[The Magedom of Houd | the Magedom of Houd]], the empire that once united the northern continent. Some of the contemporary documents it quotes make reference to a magical disturbance in the far north, and one refers to a party of investigators being dispatched from [[The Soulwind Institute | the Soulwind Institute]].
 
-h4. [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] and [[:wilrin-racenglade | Wilrin Ravenglade]]
+h3. [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] and [[:wilrin-racenglade | Wilrin Ravenglade]]
 
 The pair went clothes shopping. It was, by the standards of their recent adventures, almost peaceful.
 
-h4. [[:ayr | Ayr]]
+h3. [[:ayr | Ayr]]
 
 Always hunting for better gear, [[:ayr | Ayr]] met [[:kelferria-the-smith | Kelferria the Smith]] to discuss commissioning plate armour. She took his measurements and said she would send a formal quote in due course - she was already overworked by some large order, which is a detail worth remembering. No money changed hands; the Wonch have not yet decided whether to accept whatever she proposes.
 
 [[:journeyman-galoras | Journeyman Galoras]] called at [[Radwasp House | Radwasp House]] to deliver [[:ayr | Ayr]]'s new weapon: a force-multiplying sword that gathered a single charge each day and could, in principle, release considerably more power than any sane person ought to wield in a parlour.
 
-h4. [[:pin | Pin]]
+h3. [[:pin | Pin]]
 
 [[:pin | Pin]] received an invitation from [[:hielaman | Captain Hielaman]]:
 
@@ -118,7 +99,7 @@ Your ill informed and backwards-thinking opinions on [[Ditchquer | ditchquer]] m
 <br>
 Hielaman
 
-h3. [[Radwasp House | Radwasp House]]
+h2. [[Radwasp House | Radwasp House]]
 
 _Evening of the 30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 

@@ -36,16 +36,16 @@ Thrawne can no longer recall their original face, true name, gender, history, or
 
 To outsiders, Thrawne appears impossibly poised: the perfect ambassador, always exactly what the room requires. The truth is that there may no longer be anyone behind the performance, only the performances themselves, endlessly negotiating for precedence.
 
-h4. The Founder’s Burden
+h2. The Founder’s Burden
 
 [[House Lithra | House Lithra]] prizes illusion, meaning, diplomacy, interpretation, and the power to shape what others believe. Thrawne's curse is that they shaped themself too well.
 
 The Shadow's Vestment is therefore more than a cloak of disguise. It is the symbol of a life worn in layers until the wearer can no longer be found.
 
-h4. Depictions
+h2. Depictions
 
 In paintings and statues of the founders, Thrawne is an indistinct figure in a grey robe. These depictions once had features, but some strange twist of chance has erased them. Paintings are stained, statues have eroded. Even in the civic heart of [[Sindrel | Sindrel]] where such depictions are actively maintained, Thrawne's features little more than a rough sketch, as if generations of artisans have been unable to decide what they should look like.
 
-h4. Appearance
+h2. Appearance
 Anything. Anyone, anywhere could be Thrawn. How they appear to the players is 100% situational.
 <!-- GM_INFO_END -->

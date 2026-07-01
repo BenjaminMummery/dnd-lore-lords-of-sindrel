@@ -23,7 +23,16 @@ h2. Races of Artresh
 
 As magic has faded across [[Arcan | Arcan]], so too have the more magically-inclined ancestries. Where once tieflings, aasimar, and fey-touched peoples were common sights, they are now all but unheard of outside [[Sindrel | Sindrel]] and a handful of dying enclaves. Mundane peoples - humans, orcs, dwarves, and halflings - dominate the continent. Long-lived elves and their half-elven descendants linger in cities and trade towns, but their numbers fall with every generation.
 
-These tiers describe [[Artresh | Artresh]] as a whole. For the exception that proves every rule, see *Races of Sindrel* on the [[Sindrel | Sindrel]] page.
+In a Houdian market town, a half-elf or rock gnome draws little comment; a tiefling or aasimar earns stares and the assumption they came from [[Sindrel | Sindrel]] or carry an old bloodline. Dragonborn and genasi survive as dwindling lines, not growing peoples. Stories of gith, planar visitors in mortal guise, and undead "peoples" belong to legend - not to census rolls.
+
+The [[The Thaumocracy of Tellerin | Thaumocracy of Tellerin]] closed its borders after the [[World History | Seven Day War]]; whether more magical ancestries persisted there in isolation, the rest of [[Artresh | Artresh]] does not know.
+
+[[Sindrel | Sindrel]] is the exception - magic still works there, and the city's mix of peoples does not match the rest of the continent. See *Races of Sindrel* on the [[Sindrel | Sindrel]] page.
+
+<!-- GM_INFO_START -->
+h2. Races of Artresh — NPC generation
+
+Continent-wide species tiers for NPC generation outside [[Sindrel | Sindrel]]. For native, visitor, and refugee profiles plus district placement in the city, see [[Sindrel | Sindrel]] (GM section).
 
 h3. Core (common across the continent)
 
@@ -83,7 +92,7 @@ Almost unheard of - will earn a full double-take in a Houdian market town and ar
 
 h3. Non-existent
 
-Present only in old stories and myths, no functioning presence on [[Arcan | Arcan]].
+Present only in old stories and myths, no functioning presence on [[Arcan | Arcan]]. Plot-only unless explicitly introduced.
 
 * Githyanki and githzerai
 * Monstrous or custom fiendish ancestries - individuals, not peoples.
@@ -97,3 +106,4 @@ h3. Regional notes
 * *[[The Thaumocracy of Tellerin | Tellerin]]* (closed borders) - more magical ancestries may have survived longer in isolation; still rarer than a century ago. Currently unknown.
 * *Frontier and caravan routes* - orc, half-orc, goliath, tabaxi, and kobold over-represented relative to courtly cities.
 * *[[Sindrel | Sindrel]]* - a special case since magic still works; see that page for the distributions.
+<!-- GM_INFO_END -->

@@ -18,12 +18,14 @@ _The Oracles._
 
 House Goela are masters of the school of Divination. Of all the [[Sindrel | great houses]], their role is the most ephemeral, but possibly the most important - they provide guidance, foresight, and advice to all within the city.
 
+h2. Personnel
+
 h3. Known Factors
 
 * [[:seer-demeletas | Seer Demeletas]] - Member of the [[Hexine Circle | Hexine Circle]] formed to counter [[Anathemists | Anathemist]] infiltration of the city.
 * [[:f-lar-mnementh | Tyromancer Pterath]] - Poisoned as an act of [[Anathemists | Anathemist]] sabotage.
 
-h3. Fashion
+h2. Fashion
 
 House Goela clothing favours flowing, layered garments in purple, violet, dusk-blue, white, silver, and black. Wrapped mantles, belted tunics, shoulder-pinned robes, pleated skirts or panels, and long draped himations are typical. In deference to [[Sindrel | Sindrel]]’s cold these are often paired with quilted underlayers, lined cloaks, and heavy shawls embroidered with constellations, omen-marks, and branching decision-patterns.
 
@@ -35,7 +37,7 @@ Masks and veils are common. Among Goela, a covered face does not necessarily hid
 
 Interpreters and Factors dress more soberly, in heavy purple civic robes, annotated sashes, silver clasps, and practical winter mantles, but a Goelan in full ceremonial dress is intended to look less like a private citizen than a public instrument: a body arranged so that the future may speak through it, and so that nobody can be quite sure who is doing the speaking.
 
-h3. Architecture
+h2. Architecture
 
 Like [[House Oestra | House Oestra]], House Goela's  architecture descends from antiquity. In contrast to the more martial house, however, the diviners echo the styles of temples, oracle sanctuaries, philosophical schools, and civic courts rather than fortresses or palaces. Where Oestra build their architecture around a core of reinforced utilitarian structures, Goela try to create open, welcoming spaces. Internal divisions are typically created via drapes of purple silk rather than walls.
 
@@ -50,19 +52,19 @@ The Trisybiline has shaped much of Goela's inner architecture. Chambers of three
 Goela ornament favours laurel, branching paths, stars, eclipses, silver script, smooth masks, and the House glyph carved into lintels, pediments, mosaics, and purple banners.
 
 
-h3. Anathemist Sabotage
+h2. Anathemist Sabotage
 
 On 34th Ostory, [[:f-lar-mnementh | Tyromancer Pterath]], Factor of House Goela, was poisoned. Investigators determined that a large dosage of hallucinogens had been added to his cheese.
 
 Pterath survived the poisoning, but has been unwilling to attempt any further acts of divination since the attack. Given House Goela's reliance on prophecy, interpretation, and foresight, the incident has been read by some as an attempt to blind the city at a moment of danger. No public conclusion has yet been reached as to how the poison was introduced, who had access to the cheese, or whether Pterath was specifically targeted or merely a target of convenience.
 
 <!-- GM_INFO_START -->
-h3. Overview
+h2. Overview
 
 * Architecture reference: Greek
 * Philosophy: Wisdom - The world cannot be mastered by strength alone; understanding must guide action.
 
-h3. Leadership
+h2. Leadership
 
 The house is headed by [[:farseer-sybera-goela | Farseer Goela]] and her attendants. They present themselves as a trio of identical figures, their identities obscured behind hooded robes and eyeless bronze masks. Their pronouncements are are always made in concert - each voice expressing a different aspect of fate - past, present, or future. They are known as the Trisybiline, and are capable of the most profound and complete foretellings. As one of the three ages, a replacement will be sought allowing the three to continue uninterrupted by death.
 
@@ -70,7 +72,7 @@ While serving, a member of the Trisybiline wears a uniform of hooded purple robe
 
 In actuality the Trisybiline serves two purposes - to disguise the fact that Syberia Goela has been a member of the trio for over 1000 years, and to allow the other two members to cover for the fact that she can no longer distinguish her visions from her surroundings. In return for this service, they are able to iggyback on her prodigious power. The current sybillas are Phyto and Heraclides.
 
-h3. Headquarters
+h2. Headquarters
 
 The Pythiol appears from without to be a large ring of columns with purple silk draped between. Once a person enters the structure they find it to be a winding labyrinth of twisting routes, an effect heightened by a profusion of braziers burning psychoactive substances. Making it into the chamber of the Trisybiline is the first tests that a person must pass to be worthy of a reading by the oracles.
 

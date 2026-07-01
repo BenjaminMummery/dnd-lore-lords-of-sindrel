@@ -29,15 +29,15 @@ The Institute stands on the [[The Canted Terrace | Canted Terrace]], one of [[Si
 
 The public halls of the Institute are severe, old, and prestigious. They are lined with portraits of famous Callers, sealed contracts, ritual trophies, and relics taken from successful conjurations. Deeper within, the building becomes more practical: brass-inlaid circles, observation galleries, warded summoning theatres, purge-flues, emergency banishment stations, and sealed refuse routes leading down into the service levels beneath the upper city.
 
-h3. Location
+h2. Location
 
 The Institute is located on [[The Canted Terrace | the Canted Terrace]], an upper-level Beltus holding set back from [[Merrylane | Merrylane]] and screened from the richest neighbourhoods. Its public frontage is dignified and almost austere; its working sides are hidden behind blind walls, false facades, service galleries, and warded vents. The Institute is not secret, but it is discreetly placed so that the wealthy may benefit from Beltan expertise without being reminded too often of what that expertise requires.
 
-h3. Public reputation
+h2. Public reputation
 
 To [[House Beltus | House Beltus]], the Institute is proof of discipline. To its critics, it is a polite name for a building where monsters are invited indoors. Most citizens prefer not to think about it unless they need something summoned, bound, banished, interpreted, or contained.
 
-h3. Anathemist Sabotage
+h2. Anathemist Sabotage
 
 [[:caller-georg | Caller Johann Georg]]'s ill-fated summoning took place in one of the Institute's formal summoning halls. When the demon broke free, possessed him, and drove him through the portrait-lined corridors. It was not merely a magical accident, it was a humiliation inside the very institution meant to prove that [[House Beltus | House Beltus]] could make the impossible safe, respectable, and obedient.
 

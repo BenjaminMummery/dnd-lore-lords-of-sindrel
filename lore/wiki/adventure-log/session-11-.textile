@@ -3,68 +3,49 @@ op_id: b0db4ec29f794c878b0d38dc76dd3c6d
 op_slug: session-11-
 op_kind: Wiki
 op_type: Post
-name: 'Session 11: ?'
+name: 'Session 11: Gunpowder, Treason, and Plot'
 title: 'Session 11: Gunpowder, Treason, and Plot'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-11-
 op_created_at: '2026-06-01T17:09:20Z'
 op_updated_at: '2026-06-29T14:03:48Z'
 op_gm_only: false
 tags: []
+post_tagline: Remember, Remember...
 post_time: '2026-06-01T17:00:00Z'
 ---
 
-h3. Dramatis Personae
+h2. Dramatis Personae
 
 [accordion]
-    [accordion-item]
-        [title] [[The Adventurers | The Adventurers]][end-title]
-        [content]
-            * [[:amanira | Amanira]], a drow druid.
-            * [[:ayr | Ayr]], gnome paladin.
-            * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
-            * [[:pin | Pin]], a human fighter.
-            * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
-            * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
-            * [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] Associates and Companions [end-title]
-        [content]
-            * [[:kithrak-ii | Kithrak II]] - an undead dragon
-            * [[:tama | A Stoat]]
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] [[House Meness | House Meness]] Guards [end-title]
-        [content]
-            * [[:corporal-brokkr-stegg | Corporal Brokkr Stegg]]
-            * [[:serjeant-eirik-tryke | Serjeant Eirik Tryke]]
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] [[Hexine Circle | Hexine Circle]] Members [end-title]
-        [content]
-            * [[:alandria | Caller Alandria]]
-            * [[:navinea-senetera | Navinea Senetera]]
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] Fulcrum Servants [end-title]
-        [content]
-            * [[:nort | Nort]]
-            * [[:chuggaz | Chugan "Chuggaz" Velm]]
-            * [[:nans | Nanthelia "Nans" Surn]]
-        [end-content]
-    [end-accordion-item]
-
+[accordion-item] [title] [[The Adventurers | The Adventurers]] [end-title] [content]
+* [[:amanira | Amanira]], a drow druid.
+* [[:ayr | Ayr]], gnome paladin.
+* [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
+* [[:pin | Pin]], a human fighter.
+* [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
+* [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
+* [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
+[end-content] [end-accordion-item]
+[accordion-item] [title] Associates and Companions [end-title] [content]
+* [[:kithrak-ii | Kithrak II]] - an undead dragon
+* [[:tama | A Stoat]]
+[end-content] [end-accordion-item]
+[accordion-item] [title] [[House Meness | House Meness]] Guards [end-title] [content]
+* [[:corporal-brokkr-stegg | Corporal Brokkr Stegg]]
+* [[:serjeant-eirik-tryke | Serjeant Eirik Tryke]]
+[end-content] [end-accordion-item]
+[accordion-item] [title] [[Hexine Circle | Hexine Circle]] Members [end-title] [content]
+* [[:alandria | Caller Alandria]]
+* [[:navinea-senetera | Navinea Senetera]]
+[end-content] [end-accordion-item]
+[accordion-item] [title] Fulcrum Servants [end-title] [content]
+* [[:nort | Nort]]
+* [[:chuggaz | Chugan "Chuggaz" Velm]]
+* [[:nans | Nanthelia "Nans" Surn]]
+[end-content] [end-accordion-item]
 [end-accordion]
 
-h3. Tea in the Park
+h2. Tea in the Park
 
 _Morning of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -92,7 +73,7 @@ Alandria's patience thinned to a razor's edge, but [[:wilrin-racenglade | Wilrin
 
 The party left [[:alandria | Alandria]] behind them, her attendants packing away the tea service, and turned towards the true business of the day: the attempted bombing of [[The Fulcrum | the Fulcrum]].
 
-h3. [[The Fulcrum | The Fulcrum]]
+h2. [[The Fulcrum | The Fulcrum]]
 
 _Mid-morning of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -110,7 +91,7 @@ The entrance to the fulcrum is a series of wide arches, open and inviting. There
 <br>
 This is the Fulcrum - a structure whose every fibre is designed to embody and broadcast the power, dominance, and invulnerability of Sindrel. And a little over a month ago, someone very nearly blew it up.
 
-[[The Hexine Circle | The Hexine Circle]] had told the party that explosive devices had been planted in the tunnels beneath [[The Fulcrum | the Fulcrum]]. One had detonated early. The others had been found and destroyed before they could bring the tower down. Now, standing before the immaculate face of the city's administrative heart, the party saw no obvious damage. [[Sindrel | Sindrel]] has hidden its wound well.
+[[Hexine Circle | The Hexine Circle]] had told the party that explosive devices had been planted in the tunnels beneath [[The Fulcrum | the Fulcrum]]. One had detonated early. The others had been found and destroyed before they could bring the tower down. Now, standing before the immaculate face of the city's administrative heart, the party saw no obvious damage. [[Sindrel | Sindrel]] has hidden its wound well.
 
 But perfection is often only the upper layer. [[:rossin-ros-greyhirst | Ros]] soon noticed what the architecture tried to conceal: small service structures tucked among nearby buildings, just large enough to house doors and stairways leading below. The hidden entrances were guarded by [[House Meness | House Meness]] soldiers. The public face of [[The Fulcrum | the Fulcrum]] welcomes all. Its veins, it seemed, are more carefully watched. Approaching with their usual mixture of official authority and complete lack of subtlety, the party hailed [[:serjeant-eirik-tryke | Serjeant Tryke]], one of the guards. Fortunately, their reputation had preceded them. Tryke accepted that these were the [[Hexine Circle | Hexine Circle']]s investigators and, with some relief at finally being asked, began to explain.
 
@@ -136,7 +117,7 @@ Someone had exploited not merely the tunnels, but the culture of the city itself
 
 While the others examined the bomb fragments, [[:amanira | Amanira]], [[:silrie-aegiskiir | Silrie]], and [[:rossin-ros-greyhirst | Ros]] turned their attention to the machinery of the Wellspring. The water, they discovered, was not created beneath the [[The Fulcrum | Fulcrum]]. It was being channelled in from elsewhere, through arcane infrastructure that pointed back towards [[House Grimbolg | House Grimbolg]]. [[:amanira | Amanira]] and [[:silrie-aegiskiir | Silrie]] each tasted a drip from the system and found it unsettling. It was not foul. It was not poisoned. It was worse: it was empty. No mineral tang, no soil, no riverbed, no life. Water with no memory in it. Distilled. Conjured. Processed. Useful. Dead, perhaps, in the quiet way a city teaches things to be dead.
 
-h3. Wilrin Attempts Forensics
+h2. Wilrin Attempts Forensics
 
 _Mid-morning of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -146,7 +127,7 @@ There was not enough gunpowder left to cause a true disaster, but there was enou
 
 [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] decided otherwise. Stepping into the light so that her shadow loomed vast against the tunnel wall, she reminded the corporal that his superiors had instructed him to assist the Hexine investigators. The reminder was delivered less as an argument than as an omen. [[:corporal-brokkr-stegg | Stegg]], pale and cowed, provided the party with what they needed: the layout of the tunnels.
 
-h3. The Servants' Door
+h2. The Servants' Door
 
 _Late morning of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -162,7 +143,7 @@ On the night of the closing ceremony, shifts had been extended and overlapped. S
 
 [[:nans | Nans]] and [[:chuggaz | Chuggaz]] were on duty at [[The Fulcrum | The Fulcrum]]. [[:nort | Nort]], having worked nights, was asleep. So naturally, the party went to wake her.
 
-h3. [[:nort | Nort]]'s Tea
+h2. [[:nort | Nort]]'s Tea
 
 _Late morning of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -172,7 +153,7 @@ _Late morning of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 The [[:arouraios | coachman]] had a neatly trimmed beard and small, fussy glasses. "Poncy" in [[:nort | Nort's]] words. She could not name him, nor the dignitary he served, but the shape of the lead was clear. Someone purporting to be from outside [[Sindrel | Sindrel]]'s normal House machinery had moved through the servants' routes at the right time, in the right confusion, with access enough to carry death beneath the [[The Fulcrum | Fulcrum]]. [[:kithrak-ii | Kithrak II]] gave [[:nort | Nort]] a small payment of shiny things for her trouble. It may have been the most interesting morning she had ever had, which is not necessarily a recommendation.
 
-h3. The [[House Grimbolg | Cornucopia]]
+h2. The [[House Grimbolg | Cornucopia]]
 
 _Late morning through midday of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
@@ -209,6 +190,6 @@ The bombing of the [[The Fulcrum | Fulcrum]], the demon sulphur, the sabotaged s
 <!-- GM_INFO_START -->
 * Alandria was initially pissed at the party interfering in her task, but after a moment saw the potential embarrassment for Halan - the threat is out of the park, so her request is fulfilled. If [[The Adventurers | the Wonch]] fuck up, then Alandria gains some leverage having argued against their inclusion while Halan supported it.
 * The amber-robed figures were demons, of course.
-* The poncy coachman was [[:arouraios | Arouraios]] on his way back to the cart having been recieved [[:silas-oestra | Silas Oestra]]'s stolen key from [[:barnabus | Barnabus]].
+* The poncy coachman was [[:arouraios | Arouraios]] on his way back to the cart having been received [[:silas-oestra | Silas Oestra]]'s stolen key from [[:barnabus | Barnabus]].
 * [[The Black Cats | The Black Cats]] are concerned. From their point of view, Deathwalker showed up in their territory flashing about a huge amount of cash and demanding information. She then reappeared with backup, and assaulted one of their enforcers. Now she and her friends are sniffing around _another_ low level member (Chuggaz). They don't know what she's up to, but she and the rest of the wonch are clearly a threat.
 <!-- GM_INFO_END -->

@@ -26,16 +26,7 @@ Pthul is utterly devoted to his charge, [[:dulcinia-von-phthasia | Dulcinia von 
 * *25th Enean 4218 SC*: Pthul and Dulcinia's coach is ambushed by [[Anathemists | Anathemists]].
 
 <!-- GM_INFO_START -->
-<div class="stat-block">
-  <h3>Barovian Revenant</h3>
-  <p><strong>Armor Class</strong> 16<br>
-  <strong>Hit Points</strong> 136<br>
-  <strong>Speed</strong> 30 ft.</p>
-  <hr>
-  <p><strong>Traits.</strong> The revenant knows the direction and distance to its quarry.</p>
-</div>
-
-<div contenteditable="true"  style="width:310px; font-family:Arial,Helvetica,sans-serif;font-size:11px;">
+<div contenteditable="true" style="width:310px; font-family:Arial,Helvetica,sans-serif;font-size:11px;">
 <div class="statname">Pthul</div>
 <div class="statdescription">Medium human, lawful neutral</div>
 
@@ -52,7 +43,7 @@ Pthul is utterly devoted to his charge, [[:dulcinia-von-phthasia | Dulcinia von 
 
 <table>
     <tr><th>STR    </th><th>DEX   </th><th>CON    </th><th>INT   </th><th>WIS   </th><th>CHA   </th></tr>
-    <tr><td>16 (+3)</td><td>11 (+0)</td><td>14 (+2)</td><td>11 +0)</td><td>11 (+0)</td><td>15 (+2)</td></tr>
+    <tr><td>16 (+3)</td><td>11 (+0)</td><td>14 (+2)</td><td>11 (+0)</td><td>11 (+0)</td><td>15 (+2)</td></tr>
 </table>
 
 <div class="statgradient"></div>
@@ -95,5 +86,6 @@ Pthul is utterly devoted to his charge, [[:dulcinia-von-phthasia | Dulcinia von 
 <div class="statattack">
     <span class="statattackname">Leadership (recharges after a Short or Long Rest)</span>
     <span> For 1 minute, Pthul can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand him. A creature can benefit from only one Leadership die at a time. This effect ends if Pthul is incapacitated.</span>
+</div>
 </div>
 <!-- GM_INFO_END -->

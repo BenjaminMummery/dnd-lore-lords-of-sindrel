@@ -462,6 +462,12 @@ def parse_adventurers() -> dict:
     )
     if wealth_as_of:
         stay_as_of = f"Session {wealth_as_of.group(1)} ({wealth_as_of.group(2)})"
+    else:
+        status_as_of = re.search(
+            r"h3\. Campaign status\s*\n\n_Through Session (\d+) \(([^)]+)\)\._", text
+        )
+        if status_as_of:
+            stay_as_of = f"Session {status_as_of.group(1)} ({status_as_of.group(2)})"
 
     limit_match = re.search(r"(\d+)-day visitor limit", text, re.I)
     if limit_match:

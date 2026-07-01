@@ -21,7 +21,7 @@ The circle was originally made up of the original founders of [[Sindrel | Sindre
 Membership:
 
 
-<div class="CSSTableGenerator" style="position:relative;left:0px;top:10px;>
+<div class="CSSTableGenerator" style="position:relative;left:0px;top:10px;">
     <table >
         <tr>
             <td>*Character*</td>
@@ -101,7 +101,7 @@ Membership:
 
 
 
-h3. The Founders' True Origin
+h2. The Founders' True Origin
 
 The Octarion Circle did not begin as a ruling council. What would become the Octarion Circle began as [[The Soulwind Institute | the Soulwind Institute]] Dimensional Research Group (SiNDReG) - eight high-level magicians of different schools of magic specialising in interplanar research. They were sent north to investigate a dimensional disturbance. They were already powerful mages before [[Sindrel | Sindrel]] existed, but their later positions in the city elevated, concentrated, and eventually corrupted that power.
 
@@ -109,13 +109,13 @@ The expedition discovered that the disturbance could lead to other worlds. What 
 
 The Great Houses were built around the founders' philosophies. They are not merely administrative divisions; each House is the institutionalised shadow of one founder's ideals.
 
-h3. The Founders' Secrecy
+h2. The Founders' Secrecy
 
 The public believes the founders died roughly a thousand years ago. This is false.
 
 The founders survive behind successors, titles, ritualised offices, controlled appearances, and carefully managed House traditions. Each House has mechanisms for maintaining the fiction of ordinary continuity, though the number of people involved varies by House.
 
-h3. Current State of the Octarion
+h2. Current State of the Octarion
 
 The founders meet increasingly rarely. [[Sindrel | Sindrel]] now largely runs itself through House hierarchies, civic habit, and the momentum of institutions built over a millennium.
 
@@ -125,7 +125,7 @@ Each founder conceals their affliction as best they can. They are so consumed by
 
 The founders' curses are not mechanically related to [[Sindrel | Sindrel]]'s operation, that is sustained by extractive magical colonialism in [[Kosmios | Kosmios]]. Rather the curses are symbolically linked to the city: both arise from consumption at the cost of other lives, worlds, and powers.
 
-h3. The Seven-House Limitation
+h2. The Seven-House Limitation
 
 The Octarion Circle can function without Samhain, but only imperfectly.
 
@@ -133,7 +133,7 @@ The modern plan to physically move [[Sindrel | Sindrel]] into [[Kosmios | Kosmio
 
 This is one of the hidden reasons Samhain's betrayal still matters. The founders removed the one House whose magic they now require.
 
-h3. Fear of Samhain
+h2. Fear of Samhain
 
 All of the surviving founders fear Samhain's return.
 

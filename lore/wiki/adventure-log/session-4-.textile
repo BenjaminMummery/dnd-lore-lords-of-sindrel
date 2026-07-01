@@ -3,7 +3,7 @@ op_id: a42fa95fde774607b64cf67722e9f1db
 op_slug: session-4-
 op_kind: Wiki
 op_type: Post
-name: 'Session 4: ?'
+name: 'Session 4: Sindrel!'
 title: 'Session 4: Sindrel!'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-4-
 op_created_at: '2026-01-27T13:36:39Z'
@@ -49,7 +49,7 @@ h2. Dramatis Personae
 
 [accordion-item] [title] The [[Anathemists | Anathemist]] Patrol [end-title]
 [content]
-* [[:arise-to-victory-over-the-infidel-hoards | Anathemist Leutenant - Name Unknown]]
+* [[:arise-to-victory-over-the-infidel-hoards | Anathemist Lieutenant - Name Unknown]]
 [end-content] [end-accordion-item]
 [end-accordion]
 
@@ -114,7 +114,7 @@ Ros accompanied [[:silrie-aegiskiir | Silrie]] to the [[Temple of the Dawn Fathe
 
 h3. [[:silrie-aegiskiir | Silrie Aegiskiir]]
 
-Alongside [[:rossin-ros-greyhirst | Ros]], sought out a temple. Temples are mildly uncommon in [[Sindrel | Sindrel]] - the city runs on organised magic rather much more than organised religion, and the looming threat of the Anathamists has left people feeling somewhat ambivalent about religion. As a result, faith is typically practiced privately. Nonetheless there are a few, and SIlrie found themself at the [[Temple of the Dawn Father | Temple of the Dawn Father]].
+Alongside [[:rossin-ros-greyhirst | Ros]], sought out a temple. Temples are mildly uncommon in [[Sindrel | Sindrel]] - the city runs on organised magic rather much more than organised religion, and the looming threat of the Anathemists has left people feeling somewhat ambivalent about religion. As a result, faith is typically practiced privately. Nonetheless there are a few, and Silrie found themself at the [[Temple of the Dawn Father | Temple of the Dawn Father]].
 
 After a period of meditation, they were able to sense something close to the connection they had once enjoyed with their kin and deities. They also sensed the presence of a significant _something_ in the heart of the city.
 
@@ -146,9 +146,9 @@ The circle turned out to be a lesser council comprised of mid-ranking representa
 
 bq). Thank you for coming. Allow me to make the introductions. I am [[:emissary-halan | Emissary Halan]] of [[House Lithra | House Lithra]]. I believe you already know [[:hielaman | Captain Hielaman]] of [[House Meness | House Meness]]. The rest of our company are [[:commander-locke | Prefect Locke]] representing [[House Oestra | House Oestra]], [[:alandria | Caller Alandria]] of [[House Beltus | House Beltus]], [[:seer-demeletas | Seer Demeletas]] of [[House Goela | House Goela]], [[:navinea-senetera | Navinea Senetera]] representing [[House Grimbolg | House Grimbolg]], and finally representing [[House Mabon | House Mabon,]] [[:journeyman-galoras | Journeyman Galoras]]. We are the [[Hexine Circle | Hexine Circle]], a council of representatives of each House convened in order to address a specific threat to our city. Convened, in fact, as a direct result of your actions.
 <br>
-We understand that you are the brave travellers who not only survived [[Fallowhurst | Fallowhurst]] but brought us an Anathamist Lieutenant, this is no small feat and you have both our admiration and our gratitude. It was the results of [[:hielaman | Captain Hielaman]]'s preliminary interrogation that brought to light the necessity for this council. Captain?
+We understand that you are the brave travellers who not only survived [[Fallowhurst | Fallowhurst]] but brought us an Anathemist Lieutenant, this is no small feat and you have both our admiration and our gratitude. It was the results of [[:hielaman | Captain Hielaman]]'s preliminary interrogation that brought to light the necessity for this council. Captain?
 
- _Captian Hielaman_:
+ _Captain Hielaman_:
 bq). Indeed. Amid a slew of invective and hollow defiance, not to mention a number of imaginative speculations as to my ancestry, our prisoner made reference to some highly privileged information. Information that could only be acquired from a high ranking member of one of the houses.
 
  _Halan_:
