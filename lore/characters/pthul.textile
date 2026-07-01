@@ -7,7 +7,7 @@ name: Pthul
 title: Pthul
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/pthul
 op_created_at: '2025-12-09T19:59:43Z'
-op_updated_at: '2026-07-01T11:04:05Z'
+op_updated_at: '2026-07-01T13:04:41Z'
 op_gm_only: false
 is_player_character: false
 tags:
