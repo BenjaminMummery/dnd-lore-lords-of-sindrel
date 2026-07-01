@@ -20,3 +20,35 @@ A stoat the size of a large dog - long-bodied, russet-and-cream fur, bright pred
 
 <!-- OP_BIO -->
 Tama was first encountered by the [[The Adventurers | Neighbourhood Wonch]] in the orchard of [[Fallowhurst College | Fallowhurst College]].
+
+*31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- Reunited with the party in [[Merrylane | Merrylane Park]]; bonded to [[:rossin-ros-greyhirst | Ros]] as her animal companion.
+
+<!-- GM_INFO_START -->
+<div class="stat-block">
+<h3>Tama</h3>
+<p><em>Medium beast, unaligned</em></p>
+<p><strong>Armor Class</strong> 13<br>
+<strong>Hit Points</strong> 13 (2d8 + 4)<br>
+<strong>Speed</strong> 40 ft.<br>
+<strong>Initiative</strong> +3</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>12 (+1)</td><td>16 (+3)</td><td>12 (+1)</td><td>4 (-3)</td><td>12 (+1)</td><td>6 (-2)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> Perception +3, Stealth +5<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 13<br>
+<strong>Languages</strong> —<br>
+<strong>Challenge</strong> 1/2 (100 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Keen Hearing and Smell.</strong> Tama has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
+<p><strong>Pack Tactics.</strong> Tama has advantage on an attack roll against a creature if at least one of Tama's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Bite.</strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (2d4 + 3) piercing damage.</p>
+</div>
+<!-- GM_INFO_END -->

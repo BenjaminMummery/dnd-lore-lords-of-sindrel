@@ -27,3 +27,31 @@ A miniature undead black dragon adopted in the [[Osteomantic Archives | catacomb
 *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
 - With [[The Adventurers | the Wonch]] at [[The Fulcrum | The Fulcrum]] and [[:nort | Nort]]'s interview; paid [[:nort | Nort]] shiny things for her trouble.
+
+<!-- GM_INFO_START -->
+<div class="stat-block">
+<h3>Kithrak II</h3>
+<p><em>Small undead, unaligned</em></p>
+<p><strong>Armor Class</strong> 13<br>
+<strong>Hit Points</strong> 9 (2d6 + 2)<br>
+<strong>Speed</strong> 15 ft., fly 60 ft.<br>
+<strong>Initiative</strong> +2</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>6 (-2)</td><td>15 (+2)</td><td>13 (+1)</td><td>10 (+0)</td><td>12 (+1)</td><td>10 (+0)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> Perception +3<br>
+<strong>Senses</strong> blindsight 10 ft., darkvision 60 ft., passive Perception 13<br>
+<strong>Languages</strong> understands Common and Draconic but can't speak<br>
+<strong>Challenge</strong> 1/2 (100 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Magic Resistance.</strong> Kithrak II has advantage on saving throws against spells and other magical effects.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Bite.</strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage.</p>
+<p><strong>Necrotic Breath (Recharge 4–6).</strong> Kithrak II exhales deathly flame in a 10-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 10 (3d6) necrotic damage on a failed save, or half as much damage on a successful one.</p>
+</div>
+<!-- GM_INFO_END -->
