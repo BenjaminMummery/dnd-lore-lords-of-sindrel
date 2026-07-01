@@ -17,7 +17,7 @@ The informal network of felines living in [[Sindrel | Sindrel]] - not to be conf
 
 [[:amanira | Amanira]] can reach them in wild shape; [[:rossin-ros-greyhirst | Ros]] and others with _Speak with Animals_ can do the same. Known contacts include [[:pads-silently | Pads-Silently]] and [[:hunts-by-night | Hunts-By-Night]].
 
-
+fn1. [[Session 10: Shakes Spear in the Park | Session 10: Shakes Spear in the Park]] — [[:pads-silently | Pads-Silently]] at [[Radwasp House | Radwasp House]].
 
 <!-- GM_INFO_START -->
 h3. Relation to [[The Black Cats | the Black Cats]]
@@ -30,7 +30,7 @@ Through Session 11 (31st Enean 4218 SC): **Favourable** toward [[The Adventurers
 
 * [[:amanira | Amanira]] befriended the local feline populace in cat form early in the campaign and learned routes into the [[House Grimbolg | Amalthean]].
 * The network knows [[:amanira | Amanira]] as **Walks-Among-Us** and treats her companions as extensions of that trust.
-* [[:pads-silently | Pads-Silently]] sought the party at [[Radwasp House | Radwasp House]] (Session 10) to warn of [[:tama | the giant stoat]] and ask for aid against a predator scenting the rooftops.
+* [[:pads-silently | Pads-Silently]] sought the party at [[Radwasp House | Radwasp House]][1] to warn of [[:tama | the giant stoat]] and ask for aid against a predator scenting the rooftops.
 
 They share street intelligence when asked, not formal allegiance. Opinion drops if the party ignores cat warnings or treats ferals as disposable.
 <!-- GM_INFO_END -->

@@ -29,8 +29,9 @@ h3. History
 
 At some point several centuries ago, the village was abandoned. The levees failed, and the Deren river flooded the village to a depth of several feet.
 
-On the 25th of Enean 4218 ([[The Soulwind Calendar | SC]]), the [[The Adventurers | Neighborhood Wonch]] passed through the village on their way to [[Sindrel | Sindrel]] (see [[Session 2: Fallowhurst | Session 2: Fallowhurst]])
+On the 25th of Enean 4218 ([[The Soulwind Calendar | SC]]), the [[The Adventurers | Neighborhood Wonch]] passed through the village on their way to [[Sindrel | Sindrel]][1].
 
+fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
 
 [[File:1543102  | class=media-item-align-center | Fallowhurst.png]]
 

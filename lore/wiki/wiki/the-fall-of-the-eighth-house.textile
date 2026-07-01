@@ -29,5 +29,7 @@ While the world at large saw Samhain's act as one of destructive rage, she had a
 
 In the intervening centuries, the Lords of [[Sindrel | Sindrel]] have painted Samhain as their boogyman. In their telling, she is the great betrayer - a trusted friend who turned against them, slaughtered her house in a dark ritual, and was sealed away after a heroic battle.
 
+[[:lord-ablas-oestra | Lord Ablas Oestra]] went further in the immediate aftermath: a powerful curse aimed at every likeness of Samhain. The statue were reduced to dust, paintings rent asunder, and every instance of her name in writing struck out.
+
 As the Circel have developed their ambitions, it has become clear that with their number incomplete they will be unable to carry out the high-level reality warping required to move the entire city into [[Kosmios | Kosmios]]. They have begun searching for a high-level necromancer but so far have come up empty. [[:high-summoner-nial-beltus | Nial Beltus]] believes that mounting an expedition into [[Thanismot | Thanismot]] to recruit one of the [[The Eighth House | House Samhain]] necromancers (if any have survived) or recover their training materials is the correct choice. He is stridently opposed by [[:general-alicia-meness | Alicia Meness]] who views Samhain as too dangerous to ever risk releasing.
 <!-- GM_INFO_END -->

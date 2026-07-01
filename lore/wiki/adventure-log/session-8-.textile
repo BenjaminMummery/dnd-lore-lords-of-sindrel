@@ -63,7 +63,29 @@ _Late afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])
 
 Back in the room of many doors, necrotic harm continued to press upon [[:rossin-ros-greyhirst | Ros]], [[:wilrin-racenglade | Wilrin]], and the assorted animals in their company. A trail in the disturbed dust showed comparatively recent passage between the [[The Wallarch District | Wallarch]] entrance, the door marked with [[The Eighth House | the defunct necromantic sigil]], and the door bearing the crest of [[House Oestra | House Oestra]].
 
-[[:nakoma-deathwalker-mor-got-ha | Deathwalker]] opened several doors by percussive means. Behind the necromancy sigil lay a colossal diorama:
+[[:nakoma-deathwalker-mor-got-ha | Deathwalker]] opened several doors by percussive means. Behind the sigil of [[House Goela | House Goela]] lay a vaulted gallery of founders:
+
+bq). The passageway opens into a long hall whose ceiling is lost in shadow. Eight tall niches line the walls, each holding a life-size statue carved from pale grey stone. Every figure wears the solemn grandeur of civic monument - founders posed for eternity, not for battle. What catches the light is silver: each statue's signature regalia has been rendered in metal so bright it seems almost liquid against the matte stone.
+<br>
+Nearest the door, a broad-shouldered figure in a craftsman's apron, sleeves rolled for work that will never finish. The hands are the marvel: gauntlets of silver so finely chased they might be gloves, fingers slightly curled as if shaping clay that is not there.
+<br>
+Next, a robed figure stands with hands folded beneath a deep hood. The face is a smooth mask of silver polished to a mirror finish - eyeless, inscrutable, reflecting only a distorted image of the observed.
+<br>
+Then a human warrior in full plate, chin lifted, visor raised to show a proud, hard face. His hands rest before him on the pommel of a silver greatsword so large it rises nearly to the height of his shoulder.
+<br>
+An elf in close-fitted robes with a high collar wears a circlet of silver at the brow. At the statue's feet, two lean hounds crouch in stone - jaws open, ribs showing - every tooth picked out in a darker vein of rock, their collars traced in silver thread.
+<br>
+A figure in a flowing robe stands with hands tucked into sleeves. An intricate filigree of silver has been inlaid into the stone robe - only the face is free of its tracery, and a steady drip of water running down the folds of the hood has weathered that beyond recognition.
+<br>
+A tiefling wears high trousers and a loose shirt open at the throat. Their hand rests loosely on the hilt of a shortsword at their side, hips canted in a louche swagger. An amulet of gleaming silver stars lies against the chest, each point sharp enough to cut.
+<br>
+A dwarf woman in heavy armour stands square to the room, hair cropped short above a stern, unyielding face. A shortsword rests at her side, notched with swordbreaker teeth along the back of the blade. Her hand rests atop a colossal tower shield almost as tall as she is, its face inlaid with silver knotwork.
+<br>
+The eighth niche is wrong. There is no statue - only a bare plinth, a drift of fine grey dust at its foot, and scorch-pitting on the rear wall as if something inside the stone had been unmade in an instant. A few flecks of silver glitter in the dust.
+
+[[:nakoma-deathwalker-mor-got-ha | Deathwalker]] took the silver greatsword from the Oestra figure's hands. It came away with a dull scrape; she wrapped cloth around the distinctive cross-guard and hilt until the house geometry was hidden. The blade had no edge worth speaking of and no balance a fighter would trust - cold ceremonial weight, useful only as loot or display.
+
+Behind the necromancy sigil lay a colossal diorama:
 
 bq). The passageway opens into an enormous space - the walls and ceiling almost lost in the haze of distance. The floor rises and falls in a stone simulacrum of rolling hills, you can even see the glint of the meagre light reflecting from the waves of what appears to be a river. You realise that you are surrounded by a motionless army of armed and armoured skeletons. Or rather, as you look closer, two armies frozen in the throws of a colossal conflict. A macabre diorama whose grandiose effect is spoiled only slightly by the fact that many of the skeletons are missing parts - the floor is littered with teeth and fingerbones that, presumably, were once part of the display. A clear path demarcated by bands of silver laid into the dark stone of the floor, wends its way between the posed skeletons.
 

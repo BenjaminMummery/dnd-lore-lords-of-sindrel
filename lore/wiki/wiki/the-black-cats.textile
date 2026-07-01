@@ -23,6 +23,9 @@ h3. Known leads
 * [[The Cutthroat's Repose | The Cutthroat's Repose]] - back room; password "Swordfish"; Emerich's superior operates from here.
 * [[:chuggaz | Chugan "Chuggaz" Velm]] - [[The Fulcrum | Fulcrum]] servant; rumoured links (see [[The Investigation | The Investigation]]).
 
+fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]] — [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] gambled with [[:emerich-surefoot | Emerich Surefoot]].
+fn2. [[Session 6: Wallarch | Session 6: Wallarch]] — Wallarch chase; Emerich assaulted.
+
 <!-- GM_INFO_START -->
 h3. Relation to City Cats (felines)
 
@@ -61,7 +64,7 @@ h4. The Wonch (current - 31st Enean 4218 SC)
 
 [[The Adventurers | The Wonch]] worry Vault more than Hielaman right now:
 
-* [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] flashed a huge sum at [[:emerich-surefoot | Emerich Surefoot]] (Session 5), then returned with backup and assaulted him during the Wallarch chase (Session 6).
+* [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] flashed a huge sum at [[:emerich-surefoot | Emerich Surefoot]][1], then returned with backup and assaulted him during the Wallarch chase[2].
 * The party is now [[The Hexine Circle | Hexine Circle]] investigators with official cover, digging into the Fulcrum bombing and servant routes.
 * On the 31st they questioned [[:nort | Nort]] and have **Nans** and **Chuggaz** on the list - both Fulcrum staff; Chuggaz is a **Gild** asset.
 

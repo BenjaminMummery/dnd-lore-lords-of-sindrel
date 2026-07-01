@@ -35,9 +35,70 @@ Even less well known still, in fact potentially unknown to anyone in [[Sindrel |
 
 h4. Halls of History
 
-Deeper still lie thematic galleries devoted to historical events. The party encountered one such chamber during their exploration - a colossal diorama of the [[World History | Seven Day War]]:
+Deeper still lie thematic galleries devoted to historical events or notable dead. The party encountered several such chambers during their exploration.[1]
+
+h5. The Crossroads
+
+A nonogonal room with nine doors. Each is marked with the crest of one of the Houses except the ninth that leads to the route back to Wallarch.
+
+Whether this is a centerpoint of the catacombs or simply one of many such intersections remains to be seen.
+
+h5. The Hall of Dragons
+
+On the inward route toward the [[Quarantine Zone | quarantine zone]], before the crossroads.
+
+bq). The vault opens into a chamber built for scale. Above you, the articulated skeleton of a black dragon hangs from iron chains and calibrated counterweights, tail curled, wings spread in a posture of arrested flight. A narrow gallery rings the upper wall - bone railings, skull finials - as if scholars once observed the specimen from height. Below, on stepped plinths, smaller draconic remains lie arranged by lineage and size: wyrmling ribs no longer than your arm beside jawbones that could cradle a cart. Plaques name each display giving both an identity and a specialty. The colossal skull dominates the room; in its hollow cranium something shifts - a scraping of claw on bone, too small for the beast that once owned it.
+
+This was [[:kithrak-the-black | Kithrak the Black]] - or what remained of him. In a city where _Speak with Dead_ was once commonplace, each skeleton was an expert waiting to be consulted; dragons were catalogued with the same reverence as sages.
+
+The party entered and adopted [[:kithrak-ii | Kithrak II]][1].
+
+h5. The Hall of Aberrations
+
+A side room off the **Hall of Dragons**
+
+bq). The air changes before the architecture explains why - a faint pressure at the temples, the sense of being observed from directions geometry does not admit. The chamber is a taxidermist's nightmare rendered in bone: bulbous craniums and too many limbs suspended on wire and bracket, labels written in scripts that hurt to read sidelong. An illithid hangs splayed like a student's nightmare made permanent. An otyugh's rib cage is grotesquely ornate. Slaad bones are chalked in colours the pigment has long lost. At the centre, tethered by brass chains to a ring in the ceiling, a beholder skeleton hangs - the whole array glowing faintly with a necromantic residue that has outlived the flesh.
+
+Sigils on the walls record binding formulae and acquisition dates. Here the party woke and fought the undead beholder [[:zalatan | Zalatan]].[1]
+
+h5. The Hall of Sages
+
+Further inward on the same route.
+
+bq). A circular seminar hall, or something close to it: a dozen high-backed chairs arranged in a loose crescent, each occupied by a skeleton in the remains of scholar's robes. Before every seat stands a lectern of dark wood banded in silver; the papers are long since rotted away, the ink wells dry as dust. One figure gestures mid-argument, finger bone extended; another rests chin on knotted hands; a third has slumped as if asleep at the height of a dull lecture. The arrangement is too purposeful for mass burial - this is a faculty meeting stopped in amber.
+
+h5. The Hall of the Founders
+
+bq). The passageway opens into a long hall whose ceiling is lost in shadow. Eight tall niches line the walls, each holding a life-size statue carved from pale grey stone. Every figure wears the solemn grandeur of civic monument - founders posed for eternity, not for battle. What catches the light is silver: each statue's signature regalia has been rendered in metal so bright it seems almost liquid against the matte stone.
+<br>
+Nearest the door, a broad-shouldered figure in a craftsman's apron, sleeves rolled for work that will never finish. The hands are the marvel: gauntlets of silver so finely chased they might be gloves, fingers slightly curled as if shaping clay that is not there.
+<br>
+Next, a robed figure stands with hands folded beneath a deep hood. The face is a smooth mask of silver polished to a mirror finish - eyeless, inscrutable, reflecting only a distorted image of the observed.
+<br>
+Then a human warrior in full plate, chin lifted, visor raised to show a proud, hard face. His hands rest before him on the pommel of a silver greatsword so large it rises nearly to the height of his shoulder.
+<br>
+An elf in close-fitted robes with a high collar wears a circlet of silver at the brow. At the statue's feet, two lean hounds crouch in stone - jaws open, ribs showing - every tooth picked out in a darker vein of rock, their collars traced in silver thread.
+<br>
+A figure in a flowing robe stands with hands tucked into sleeves. An intricate filigree of silver has been inlaid into the stone robe - only the face is free of its tracery, and a steady drip of water running down the folds of the hood has weathered that beyond recognition.
+<br>
+A tiefling wears high trousers and a loose shirt open at the throat. Their hand rests loosely on the hilt of a shortsword at their side, hips canted in a louche swagger. An amulet of gleaming silver stars lies against the chest, each point sharp enough to cut.
+<br>
+A dwarf woman in heavy armour stands square to the room, hair cropped short above a stern, unyielding face. A shortsword rests at her side, notched with swordbreaker teeth along the back of the blade. Her hand rests atop a colossal tower shield almost as tall as she is, its face inlaid with silver knotwork.
+<br>
+The eighth niche is wrong. There is no statue - only a bare plinth, a drift of fine grey dust at its foot, and scorch-pitting on the rear wall as if something inside the stone had been unmade in an instant. A few flecks of silver glitter in the dust.
+
+A commemorative gallery of the eight founders of [[Sindrel | Sindrel]] - life-size stone effigies with each figure's signature regalia rendered in silver. The party discovered it here[2] - the first time any of them had seen visual depictions of the founders.
+
+The eighth niche - traditionally held by the Lord of Necromancy - is empty. The statue has been destroyed, reduced to dust and scorch marks on the stone. Local legend offers no consistent explanation; curators who know of the hall at all speak of an old "unsoundness" in that block of stone.
+
+[[:nakoma-deathwalker-mor-got-ha | Deathwalker]] removed the silver greatsword from the [[House Oestra | Oestra]] founder's effigy. It is a ceremonial prop without a serviceable edge - cold weight and house ornament, not a weapon.
+
+h5. The Battle Diorama
+
+Behind the [[The Eighth House | Eighth House]] sigil at the crossroads. The party investigated briefly before deciding that the necromantic radiation was too great a danger and turning back[2].
 
 bq). The passageway opens into an enormous space - the walls and ceiling almost lost in the haze of distance. The floor rises and falls in a stone simulacrum of rolling hills, you can even see the glint of the meagre light reflecting from the waves of what appears to be a river. You realise that you are surrounded by a motionless army of armed and armoured skeletons. Or rather, as you look closer, two armies frozen in the throws of a colossal conflict. A macabre diorama whose grandiose effect is spoiled only slightly by the fact that many of the skeletons are missing parts - the floor is littered with teeth and fingerbones that, presumably, were once part of the display. A clear path demarcated by bands of silver laid into the dark stone of the floor, wends its way between the posed skeletons.
+
 
 h4. Necromantic Contamination
 
@@ -63,6 +124,10 @@ On the wall opposite stand a pair of ornate doors, silver filigree glinting at t
 Only after a moment does the full extent of the decoration become apparent. The chandeliers, the ornamentation around the pillars, even the decorative inlay worked into the floor are all fashioned from bone.
 <br>
 Each alcove bears a small plaque naming the deceased. The remainder of each skeleton is carefully arranged around the skull in a compact display.
+
+fn1. [[Session 7: Into The Catacombs | Session 7: Into The Catacombs]] — Hall of Dragons, Hall of Sages, Hall of Aberrations.
+fn2. [[Session 8: The Dark Shrine | Session 8: The Dark Shrine]] — Hall of the Founders, Seven Day War diorama, Queen of Ravens shrine.
+fn3. [[Session 4: Sindrel! | Session 4: Sindrel!]] — Pin's sigil shop hunt ([[The Fallowhurst Sigil | Fallowhurst]], not witness-weapon inscriptions).
 
 <!-- GM_INFO_START -->
 This system was set up by [[The Eighth House | Samhain]], but she didn't see fit to share the knowledge with her compatriots. The labyrinthine nature of the catacombs has successfully obscured this fact from all but the highest level curators.
@@ -111,7 +176,8 @@ h4. [[:pin | Pin]]'s sword - *Hall of the First Watch*
 
 * **Recognition:** Meness knotwork on the guard (worn); catalogue notch on the pommel (easy to miss). A caretaker asks for **return chit 1-W/0412** or the name of the lending officer.
 * **Behaviour:** Prefer negotiation - "This item belongs on display 1-W, bay 7." May follow Pin at a distance until he enters an archive branch, then insist. Will not grab it in a Meness precinct without causing a scene.
-* **Not the Fallowhurst sigil:** If the party mentions sigils, caretakers distinguish **binding circles** (college sorcery) from **witness-weapon inscriptions** (Meness abjuration). Pin's shop hunt in Session 4 was about [[The Fallowhurst Sigil | Fallowhurst]], not this blade.
+* **Not the Fallowhurst sigil:** If the party mentions sigils, caretakers distinguish **binding circles** (college sorcery) from **witness-weapon inscriptions** (Meness abjuration). Pin's shop hunt in Session 4[3] was about [[The Fallowhurst Sigil | Fallowhurst]], not this blade.
+* **Oestra sword:** silver prop blade on the founder effigy. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] took it in Session 8[2] and wrapped the hilt. No edge, no balance, no evocation - a pale imitation of [[:the-gladius | Gladius]] (see [[:lord-ablas-oestra | Lord Ablas Oestra]]).
 * **Repowering hook:** Caretakers know the **original shelf blessing** required to wake the enchantment; they will not teach it until the sword is back on the rack - unless bargained (catalogue favour, new witness for First Watch, etc.).
 
 h3. Catacomb Exploration
@@ -134,6 +200,13 @@ h4. Navigation
 * Anathemist chalk trails become easy to follow once recognised.
 * Turning back from deep radiation may reveal the _other_ chalk route toward the [[House Oestra | Oestra]] archive.
 
+h4. Hall of the Founders (crossroads)
+
+* **Door:** [[House Goela | House Goela]] sigil at the nonagonal chamber.
+* **Layout:** vaulted gallery; eight niches; founder effigies in pale stone with signature items in silver (see [[The Octarion Circle | Octarion Circle]] GM table for canonical items and depictions).
+* **Samhain niche:** statue disintegrated by a post-Fall curse cast by [[:lord-ablas-oestra | Lord Ablas Oestra]] - an attempt to erase every depiction of [[The Eighth House | House Samhain]] from the archive. The magic unmade stone and silver alike; the name plaque was chiselled away later (likely Meness record-keeping or Oestra embarrassment). Dust and pitting remain; no restoration attempted.
+* **Oestra sword:** silver prop blade on the founder effigy. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] took it in Session 8[2] and wrapped the hilt. No edge, no balance, no evocation - a pale imitation of [[:the-gladius | Gladius]] (see [[:lord-ablas-oestra | Lord Ablas Oestra]]).
+
 h4. Outward Hazards
 
 * *Areas of disrepair* - tree roots breaking through from above, threatening to choke passageways.
@@ -147,11 +220,16 @@ h4. [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]]
 
 See [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]] (GM section).
 
-h4. Unvisited Halls
+h4. Catacomb halls (party progress)
 
+* *Hall of the Founders* - eight founder effigies in stone and silver behind the [[House Goela | Goela]] door at the crossroads; party visited[2].
 * *Hall of Sages* - skeleton experts; lecterns yield broken words only.
 * *Hall of Dragons* - colossal black dragon suspended; miniature dragon nesting in its skull.
-* *Hall of Aberrations* - illithid, otyugh, slaad, beholder (see [[Session 7: Into The Catacombs | Session 7]] for the party's encounter with [[:zalatan | Zalatan]]).
+* *Hall of Aberrations* - illithid, otyugh, slaad, beholder; party fought [[:zalatan | Zalatan]][1].
+
+h5. The Hall of Sages
+
+The lecterns once yielded testimony. Touching them now, if one is foolish enough to try, produces only broken words and necromantic ache.
 
 h3. Unvisited Exhibits
 
@@ -171,10 +249,9 @@ There is room to cross between the giant's legs. Using the bridge destabilises t
 
 h4. The Hall of the First Watch
 
-Commemorates the founding of [[House Meness | House Meness]].
-This is where the caretakes will attempt to take Pin's sword if given the chance.
+Commemorates the founding of [[House Meness | House Meness]]. The party has not visited. This is where caretakers will attempt to reclaim [[:pin | Pin]]'s sword if given the chance (see GM section).
 
-Description TODO.
+bq). The hall is built like a Meness courthouse enlarged for the dead. Pale stone, black timber crossbeams, a central aisle flanked by ranked alcoves rather than pews. In each alcove stands - or kneels, or lies in state - a skeleton in the remains of watch-coats and garrison armour, short swords or tower shields held with ritual stiffness. The plaques record rank, date, and the obligation that brought each officer to the archive: testimony preserved beside the blade that once lent weight to their word. At the far end a raised dais holds empty weapon racks arranged with obsessive care; one bay is marked *overdue* in chalk that no living hand admits to refreshing.
 
 h4. The Founding of [[The Magedom of Houd | the Magedom of Houd]]
 

@@ -160,6 +160,45 @@ Use `<!-- GM_INFO_START -->` … `<!-- GM_INFO_END -->` on mixed pages — **one
 
 When splitting content, keep public prose readable without the GM block — agents and the GM still read both.
 
+## Wiki session citations (footnotes)
+
+When a wiki page ties content to a specific adventure log, **do not** use inline `[[Session N: … | …]]` links in prose. Use Textile footnotes instead:
+
+1. Marker in prose: `[1]` (reuse the same number for the same session).
+2. Definition after the section (player body): `fn1. [[Session N: Title | Session N: Title]]` — optional em dash note for what happened there.
+3. Place all `fn*` lines **immediately before** `<!-- GM_INFO_START -->` on mixed pages. On GM-only pages (`op_gm_only: true`), place `fn*` lines at the end of the file before `<!-- GM_INFO_END -->`.
+4. GM-block prose may reference `[1]` etc. when the matching `fn*` is defined in the player body above the GM block.
+
+**Exceptions (keep inline text or links):**
+
+- **Adventure log posts** — they _are_ the session; inline links and headers stay as-is.
+- **`the-adventurers.textile` timeline** — the chronology table is an index of sessions; inline log links are intentional.
+- **Campaign status lines** — e.g. `_Through Session 11 (date SC)._` on `home-page`, `the-adventurers`, faction clocks; these are “current as of” markers, not scene citations.
+- **Bare session numbers in GM meta** — e.g. “What's Changed Since Session 2” as a **heading** (no link needed); footnote the first prose citation in that section instead.
+
+**Proactive check:** when editing wiki pages, grep for `[[Session` and `(Session N)` in player body and GM blocks; convert citations that point at adventure logs. Report pages still using inline session links.
+
+## Read-aloud descriptions (wiki vs adventure logs)
+
+**Wiki pages are the authoritative source** for set-piece read-aloud (`bq).` blocks and location descriptions. Adventure logs may carry the same prose for narrative flow at the table, but when editing canon, **update the wiki first** (or together), then align logs to match.
+
+**Do not** introduce snippet/include tooling — copy-and-paste duplication between log and wiki is acceptable; avoid drift through deliberate checks (below).
+
+**Log vs wiki expectations:**
+
+- **Wiki** — stable reference prose; no session-specific beats (who took what, combat outcomes) unless they permanently changed the location.
+- **Log** — may add contextual framing ("With Ros needing respite…") or party actions around a shared `bq).` block; the block itself should match the wiki unless the scene *changed* the location in play.
+- **Direct contradiction** between log and wiki read-aloud (layout, objects, counts, who is depicted how) should be flagged and resolved — wiki wins unless the user says the log reflects a deliberate in-play change.
+
+**Proactive check (run when editing adventure logs, location wiki pages, or before a lore push):**
+
+1. Scan touched adventure logs for `bq).` blocks describing places that have (or should have) a wiki page.
+2. Compare each block to the matching wiki section. Report:
+   - **Missing on wiki** — read-aloud exists in log only; suggest copying to wiki.
+   - **Missing on log** — wiki has prose the log never used (informational only; not always a problem).
+   - **Deviation** — same scene, conflicting details; quote both sides and recommend wiki-aligned fix unless context explains the difference.
+3. Priorise locations the party has visited (`osteomantic-archives`, districts, key buildings).
+
 ## New pages (Obsidian Portal sync)
 
 When creating a new `.textile` page locally, **do not** set portal-assigned frontmatter:
@@ -248,3 +287,5 @@ When preparing a push, or after accumulating a significant batch of lore edits, 
 - **Campaign status, faction clocks & party wealth** - if adventure logs changed, check whether `the-adventurers.textile` needs updating: current date, days remaining, faction clocks, wealth (see above). Commit regenerates `notes/lore-dashboard.html` via pre-commit.
 - **Player secrets** - never add `OP_PLAYER_SECRETS` markers to bio; they publish visibly. Use OP Player Secrets UI + optional `GM_INFO` mirror in repo.
 - **GM notes** - active todos live in `notes/todo.md` (e.g. OP Custom CSS, NPC statblocks); check when resuming work.
+- **Read-aloud alignment** - when adventure logs or location wiki pages change, run the *Read-aloud descriptions* check (wiki authoritative; flag missing wiki prose and log/wiki contradictions).
+- **Session footnotes** - when wiki pages change, grep for inline `[[Session` / `(Session N)` citations; convert per *Wiki session citations* unless an exception applies.

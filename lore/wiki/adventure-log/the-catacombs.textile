@@ -71,19 +71,23 @@ h3. The Hall of Dragons
 
 _Late afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
-The first great chamber held the skeleton of a colossal black dragon suspended from the ceiling, with a gallery above and smaller draconic remains arranged below. This was [[:kithrak-the-black | Kithrak the Black]] - or what remained of him.
+bq). The vault opens into a chamber built for scale. Above you, the articulated skeleton of a black dragon hangs from iron chains and calibrated counterweights, tail curled, wings spread in a posture of arrested flight. A narrow gallery rings the upper wall - bone railings, skull finials - as if scholars once observed the specimen from height. Below, on stepped plinths, smaller draconic remains lie arranged by lineage and size: wyrmling ribs no longer than your arm beside jawbones that could cradle a cart. Plaques name each display in a clerk's hand grown antique. The colossal skull dominates the room; in its hollow cranium something shifts - a scraping of claw on bone, too small for the beast that once owned it.
+
+This was [[:kithrak-the-black | Kithrak the Black]] - or what remained of him.
 
 Movement came from the skull. A miniature black dragon, nesting inside the colossal one, scrambled down to investigate the intruders. The party adopted [[:kithrak-ii | Kithrak II]], slayer of mice, on the spot.
 
 The deeper they went, the stronger the necromantic presence became - a slow, ambient harm that seemed to reanimate stored remains in inverse proportion to their size. [[:kithrak-ii | Kithrak II]], being the smallest, was the liveliest. [[:rossin-ros-greyhirst | Ros]] and [[:silrie-aegiskiir | Silrie]], reading the labels and arrangements, pieced together the archives' original purpose: in a society where _Speak with Dead_ was commonplace, the dead themselves were a library. Each skeleton was an expert waiting to be consulted.
 
-White chalk marked a path through the tunnels. [[:pin | Pin]], deciding discretion was the better part of leaving evidence for whoever had come before, rubbed the marks away.
+White chalk marked a path through the tunnels. [[:pin | Pin]], seeing an opportunity to confound an enemy, rubbed the marks away.
 
 h3. The Hall of Sages
 
 _Late afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
-A dozen skeletons sat in grand chairs before lecterns, scholars frozen mid-seminar. [[:wilrin-racenglade | Wilrin]] acquired a fresh set of archive robes. Nobody touched the lecterns. Some lessons are learned the hard way; others are simply observed and filed under "later."
+bq). A circular seminar hall, or something close to it: a dozen high-backed chairs arranged in a loose crescent, each occupied by a skeleton in the remains of scholar's robes. Before every seat stands a lectern of dark wood banded in silver; the papers are long since rotted away, the ink wells dry as dust. One figure gestures mid-argument, finger bone extended; another rests chin on knotted hands; a third has slumped as if asleep at the height of a dull lecture. The arrangement is too purposeful for mass burial - this is a faculty meeting stopped in amber.
+
+[[:wilrin-racenglade | Wilrin]] acquired a fresh set of archive robes. Nobody touched the lecterns. Some lessons are learned the hard way; others are simply observed and filed under "later."
 
 h3. The Crossroads
 
@@ -95,7 +99,7 @@ h3. The Hall of Aberrations
 
 _Late afternoon of the 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
-Beyond lay stranger bones - illithid, otyugh, slaad, and a beholder suspended among them like a malignant pearl.
+bq). The air changes before the architecture explains why - a faint pressure at the temples, the sense of being observed from directions geometry does not admit. The chamber is a taxidermist's nightmare rendered in bone: bulbous craniums and too many limbs suspended on wire and bracket, labels written in scripts that hurt to read sidelong. An illithid hangs splayed like a student's nightmare made permanent. An otyugh's rib cage is grotesquely ornate. Slaad bones are chalked in colours the pigment has long lost. At the centre, tethered by brass chains to a ring in the ceiling, a beholder skeleton hangs - the whole array glowing faintly with a necromantic residue that has outlived the flesh.
 
 [[:ayr | Ayr]] woke [[:zalatan | the beholder]] with an ill-considered stretch. Combat followed. [[:ayr | Ayr]] landed a solid blow before [[:amanira | Amanira]]'s thunderwave caught friend and foe alike; [[:ayr | Ayr]] failed to dodge his own party and dropped into unconsciousness with unfortunate thoroughness.
 

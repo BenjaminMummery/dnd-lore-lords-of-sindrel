@@ -27,6 +27,8 @@ h3. Mysteries and Clues
 
 [[File:1543100  | class=media-item-align-right | 490954184_1243446153797378_5596828094446578458_n.jpg]]
 
+fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]] — first visit; lecture hall sigil; Operating Theatre chanting.
+
 <!-- GM_INFO_START -->
 Originally the estate of [[House Oestra | House Oestra]], it was converted to a medical college at the direction of [[:embren-oestra | Embren Oestra]].
 
@@ -48,7 +50,7 @@ bq). Something has been growing in here. The window isn't just obscured by plant
 
 h3. Return Visits
 
-The party's first visit ([[Session 2: Fallowhurst | Session 2]]) covered the village, orchard, entrance hall, preparation room, lecture hall, and museum. They triggered the [[The Fallowhurst Sigil | binding sigil]] in the lecture hall and on Carlos Winterborn's body; chanting from the Operating Theatre (D) ended the session. Most of the college - the theatre itself, Embren's suite, and the upper floors - remains unexplored.
+The party's first visit[1] covered the village, orchard, entrance hall, preparation room, lecture hall, and museum. They triggered the [[The Fallowhurst Sigil | binding sigil]] in the lecture hall and on Carlos Winterborn's body; chanting from the Operating Theatre (D) ended the session. Most of the college - the theatre itself, Embren's suite, and the upper floors - remains unexplored.
 
 Likely return motives: seek out a source of necromantic power for the [[The Octarion Circle | Octarion Circle]]; lay [[:embren-oestra | the Plague Doctor]] to rest; undo the [[The Fallowhurst Sigil | Fallowhurst sigil]].
 

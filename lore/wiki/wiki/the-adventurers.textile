@@ -79,6 +79,7 @@ h4. 29 Enean 4218
 * *Afternoon* - Descent into the catacombs; funeral disruption ([[Session 7: Into The Catacombs | Session 7]])
 * *Late afternoon*
 ** Hall of Dragons; [[:kithrak-ii | Kithrak II]] adopted; Hall of Sages; Crossroads; [[:zalatan | Zalatan]] slain ([[Session 7: Into The Catacombs | Session 7]])
+** Hall of the Founders; silver sword taken from Oestra statue ([[Session 8: The Dark Shrine | Session 8]])
 ** Skeleton diorama; lost in natural tunnels ([[Session 8: The Dark Shrine | Session 8]])
 ** [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]]; buckler taken ([[Session 8: The Dark Shrine | Session 8]])
 * *Evening* - Emerge at [[House Oestra | Oestra Leageur]]; [[:commander-locke | Locke]] debrief; [[Radwasp House | Radwasp House]] keys passed (Hexine Circle / Lithra) ([[Session 8: The Dark Shrine | Session 8]] / [[Session 9: Downtime 2 | Session 9]])
