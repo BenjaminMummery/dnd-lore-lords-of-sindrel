@@ -7,7 +7,7 @@ name: Silas Oestra
 title: Silas Oestra
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/silas-oestra
 op_created_at: '2026-02-13T22:16:51Z'
-op_updated_at: '2026-06-29T14:03:40Z'
+op_updated_at: '2026-07-01T11:04:11Z'
 op_gm_only: true
 is_player_character: false
 tags:

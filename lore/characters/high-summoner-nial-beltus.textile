@@ -7,7 +7,7 @@ name: High Summoner Nial Beltus
 title: High Summoner Nial Beltus
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/high-summoner-nial-beltus
 op_created_at: '2025-12-22T16:52:21Z'
-op_updated_at: '2026-06-24T16:35:53Z'
+op_updated_at: '2026-07-01T11:03:47Z'
 op_gm_only: true
 is_player_character: false
 tags:

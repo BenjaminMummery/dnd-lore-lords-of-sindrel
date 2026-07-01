@@ -7,7 +7,7 @@ name: Anathemists
 title: Anathemists
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/anathemists
 op_created_at: '2025-11-25T15:41:41Z'
-op_updated_at: '2025-12-22T01:32:00Z'
+op_updated_at: '2026-07-01T11:04:28Z'
 op_gm_only: false
 tags:
 - Organisation

@@ -7,7 +7,7 @@ name: Merchant's Quarter
 title: Merchant's Quarter
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/merchants-quarter
 op_created_at: '2026-06-24T10:09:43Z'
-op_updated_at: '2026-06-24T10:14:59Z'
+op_updated_at: '2026-07-01T11:04:45Z'
 op_gm_only: false
 tags:
 - location

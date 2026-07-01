@@ -7,7 +7,7 @@ name: Pthul
 title: Pthul
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/pthul
 op_created_at: '2025-12-09T19:59:43Z'
-op_updated_at: '2026-06-27T18:03:04Z'
+op_updated_at: '2026-07-01T11:04:05Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -26,31 +26,66 @@ Pthul is utterly devoted to his charge, [[:dulcinia-von-phthasia | Dulcinia von 
 * *25th Enean 4218 SC*: Pthul and Dulcinia's coach is ambushed by [[Anathemists | Anathemists]].
 
 <!-- GM_INFO_START -->
-<div class="stat-block">
-<h3>Pthul</h3>
-<p><em>Medium human, lawful neutral</em></p>
-<p><strong>Armor Class</strong> 18 (plate)<br>
-<strong>Hit Points</strong> 52 (8d8 + 16)<br>
-<strong>Speed</strong> 30 ft.<br>
-<strong>Initiative</strong> +0</p>
-<hr>
+<div contenteditable="true" style="width:310px; font-family:Arial,Helvetica,sans-serif;font-size:11px;">
+<div class="statname">Pthul</div>
+<div class="statdescription">Medium human, lawful neutral</div>
+
+<div class="statgradient"></div>
+
+<div class="statred">
+    <div ><span class="bold statred">Armor Class</span><span> 18 (plate)</span></div>
+    <div><span class="bold statred">Hit Points</span><span> 52 (8d8 + 16)</span></div>
+    <div><span class="bold statred">Speed</span><span> 30 ft.</span></div>
+    <div><span class="bold statred">Initiative</span><span> +0 </span></div>
+</div>
+
+<div class="statgradient"></div>
+
 <table>
-    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><th>STR    </th><th>DEX   </th><th>CON    </th><th>INT   </th><th>WIS   </th><th>CHA   </th></tr>
     <tr><td>16 (+3)</td><td>11 (+0)</td><td>14 (+2)</td><td>11 (+0)</td><td>11 (+0)</td><td>15 (+2)</td></tr>
 </table>
-<hr>
-<p><strong>Saving Throws</strong> CON +4, WIS +2<br>
-<strong>Senses</strong> passive Perception 10<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 3 (700 XP)<br>
-<strong>Proficiency Bonus</strong> +2</p>
-<hr>
-<p><strong>Brave.</strong> Pthul has advantage on saving throws against being frightened.</p>
-<hr>
-<h4>Actions</h4>
-<p><strong>Multiattack.</strong> Pthul makes two melee attacks.</p>
-<p><strong>Greatsword.</strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (2d6 + 3) slashing damage.</p>
-<p><strong>Heavy Crossbow.</strong> <em>Ranged Weapon Attack:</em> +2 to hit, range 100/400 ft., one target. <em>Hit:</em> 5 (1d10) piercing damage.</p>
-<p><strong>Leadership (Recharges after a Short or Long Rest).</strong> For 1 minute, Pthul can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand him. A creature can benefit from only one Leadership die at a time. This effect ends if Pthul is incapacitated.</p>
+
+<div class="statgradient"></div>
+
+<div><span class="bold">Saving Throws</span><span> CON +4, WIS +2</span></div>
+<div><span class="bold">Senses</span><span> passive Perception 10</span></div>
+<div><span class="bold">Languages</span><span> Common</span></div>
+<div><span class="bold">Challenge</span><span>3</span></div>
+<div><span class="bold">Proficiency Bonus</span><span>+2</span></div>
+
+<div class="statgradient"></div>
+
+<div class="statactions statred">Traits</div>
+<div class="stathr"></div>
+<div class="statattack">
+    <span class="statattackname">Brave.</span>
+    <span>Pthul has advantage on saving throws against being frightened.</span>
+</div>
+
+<div class="statactions statred">Actions</div>
+<div class="stathr"></div>
+<div class="statattack">
+    <span class="statattackname">Multiattack.</span>
+    <span>Pthul makes two melee attacks.</span>
+</div>
+<div class="statattack">
+    <span class="statattackname">Greatsword.</span>
+    <span class="statdescription"> Melee Weapon Attack:</span>
+    <span>+5 to hit, reach 5 ft., one target.</span>
+    <span class="statdescription">Hit:</span>
+    <span>10 (2d6+3) bludgeoning damage.</span>
+</div>
+<div class="statattack">
+    <span class="statattackname">Heavy Crossbow.</span>
+    <span class="statdescription"> Ranged Weapon Attack:</span>
+    <span>+2 to hit, reach 100/400 ft., one target.</span>
+    <span class="statdescription">Hit:</span>
+    <span>5 (1d10) piercing damage.</span>
+</div>
+<div class="statattack">
+    <span class="statattackname">Leadership (recharges after a Short or Long Rest)</span>
+    <span> For 1 minute, Pthul can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand him. A creature can benefit from only one Leadership die at a time. This effect ends if Pthul is incapacitated.</span>
+</div>
 </div>
 <!-- GM_INFO_END -->

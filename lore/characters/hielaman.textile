@@ -7,7 +7,7 @@ name: Captain Hielaman
 title: Captain Hielaman
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/hielaman
 op_created_at: '2026-01-27T11:33:21Z'
-op_updated_at: '2026-06-29T14:03:16Z'
+op_updated_at: '2026-07-01T11:03:46Z'
 op_gm_only: false
 is_player_character: false
 tags:

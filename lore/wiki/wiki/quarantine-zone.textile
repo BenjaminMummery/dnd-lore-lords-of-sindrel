@@ -7,7 +7,7 @@ name: Quarantine Zone
 title: Quarantine Zone
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/quarantine-zone
 op_created_at: '2026-02-01T21:34:49Z'
-op_updated_at: '2026-06-24T19:08:08Z'
+op_updated_at: '2026-07-01T11:04:50Z'
 op_gm_only: false
 tags:
 - location

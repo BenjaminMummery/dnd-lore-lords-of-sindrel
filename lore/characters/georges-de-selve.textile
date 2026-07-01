@@ -7,7 +7,7 @@ name: Merchant 1
 title: Merchant 1
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/georges-de-selve
 op_created_at: '2026-02-01T16:45:57Z'
-op_updated_at: '2026-06-29T14:03:15Z'
+op_updated_at: '2026-07-01T11:03:45Z'
 op_gm_only: false
 is_player_character: false
 tags:

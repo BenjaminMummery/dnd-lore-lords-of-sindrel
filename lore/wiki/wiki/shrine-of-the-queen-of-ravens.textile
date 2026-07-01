@@ -7,7 +7,7 @@ name: Shrine of the Queen of Ravens
 title: Shrine of the Queen of Ravens
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/shrine-of-the-queen-of-ravens
 op_created_at: '2026-06-26T21:28:08Z'
-op_updated_at: '2026-06-29T14:19:40Z'
+op_updated_at: '2026-07-01T11:04:53Z'
 op_gm_only: false
 tags:
 - location

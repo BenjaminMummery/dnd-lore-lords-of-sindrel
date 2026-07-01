@@ -7,7 +7,7 @@ name: Ambassador Thrawne Lithra
 title: Ambassador Thrawne Lithra
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/ambassador-thrawne-lithra
 op_created_at: '2025-12-22T23:38:29Z'
-op_updated_at: '2026-06-24T16:51:11Z'
+op_updated_at: '2026-07-01T11:03:27Z'
 op_gm_only: true
 is_player_character: false
 tags:

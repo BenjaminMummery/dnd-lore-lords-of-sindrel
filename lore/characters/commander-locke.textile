@@ -7,7 +7,7 @@ name: Prefect Locke
 title: Prefect Locke
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/commander-locke
 op_created_at: '2026-01-27T21:09:57Z'
-op_updated_at: '2026-05-27T14:38:54Z'
+op_updated_at: '2026-07-01T11:03:37Z'
 op_gm_only: false
 is_player_character: false
 tags:

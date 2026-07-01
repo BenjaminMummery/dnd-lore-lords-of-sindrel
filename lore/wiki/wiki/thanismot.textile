@@ -7,7 +7,7 @@ name: Thanismot
 title: Thanismot
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/thanismot
 op_created_at: '2025-12-16T08:26:50Z'
-op_updated_at: '2026-06-24T19:03:25Z'
+op_updated_at: '2026-07-01T11:04:56Z'
 op_gm_only: true
 tags:
 - World
