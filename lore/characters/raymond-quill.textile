@@ -22,3 +22,41 @@ Large, burly, and a complete bastard
 *  *4218 [[The Soulwind Calendar | SC]]*: Along with his brother [[:gillette-quill | Gillette]], Raymond spends most of the year carrying out a series of petty and uninspired thieveries targetting travellers up and down [[The Mage Road | The Mage Road]].
 * *24th of Enean 4218 [[The Soulwind Calendar | SC]]*: The brothers are interrupted by [[:wilrin-racenglade | Wilrin Ravenglade]] while plotting to rob the patrons of [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]. During the altercation, Raymond is incapacitated by [[The Adventurers | the Adventurers]]. That evening he is guarded by [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] and [[:silrie-aegiskiir | Silrie Aegiskiir]], the latter of whom attempts to teach him the basics of meditation.
 * *25th of Enean 4218 [[The Soulwind Calendar | SC]]*: Now under the custody of the Adventurers, Raymond rides the coach to [[Sindrel | Sindrel]] while trying to convey his new meditation knowledge to Gillette. During the Anathemist ambush, he remains pinned down in the coach unwilling to risk the archers above.
+
+<!-- GM_INFO_START -->
+The strong brother — large, burly, and brutal. Fights beside [[:gillette-quill | Gillette]].
+
+<div class="stat-block">
+<h3>Raymond Quill</h3>
+<p><em>Medium human, neutral evil</em></p>
+<p><strong>Armor Class</strong> 14 (hide, shield)<br>
+<strong>Hit Points</strong> 32 (5d8 + 10)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +0</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>16 (+3)</td><td>10 (+0)</td><td>16 (+3)</td><td>9 (-1)</td><td>10 (+0)</td><td>11 (+0)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> Athletics +5, Intimidation +2<br>
+<strong>Senses</strong> passive Perception 10<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 1 (200 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Brute.</strong> A melee weapon deals one extra die of its damage when Raymond hits with it (included below).</p>
+<p><strong>Brothers' Grift.</strong> While Raymond and [[:gillette-quill | Gillette Quill]] are within 30 feet of each other and can see each other, each has advantage on attack rolls against a creature if the other brother is within 5 feet of that creature and isn't incapacitated.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> Raymond makes two warhammer attacks.</p>
+<p><strong>Warhammer.</strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 12 (2d8 + 3) bludgeoning damage.</p>
+<p><strong>Shove.</strong> Raymond can shove a creature within 5 feet (Athletics +5 vs. target's Athletics or Acrobatics). On a success, he pushes the target up to 10 feet or knocks it prone.</p>
+</div>
+
+| Composition | Adjusted XP |
+|---|---|
+| 1 **Gillette** + 1 **Raymond** | 600 |
+
+*Pair at level 3 (seven PCs): easy (1,400 threshold). With pack tactics they punch above weight in a brawl.*
+<!-- GM_INFO_END -->

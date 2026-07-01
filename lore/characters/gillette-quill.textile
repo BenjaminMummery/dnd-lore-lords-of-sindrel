@@ -22,3 +22,34 @@ Small, wily, and a complete bastard
 *  *4218 [[The Soulwind Calendar | SC]]*: Along with his brother [[:raymond-quill | Raymond]], Gillette spends most of the year carrying out a series of petty and uninspired thieveries targetting travellers up and down [[The Mage Road | The Mage Road]].
 * *24th of Enean 4218 [[The Soulwind Calendar | SC]]*: The brothers are interrupted by [[:wilrin-racenglade | Wilrin Ravenglade]] while plotting to rob the patrons of [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]. During the altercation, Gillette is knocked unconscious.
 * *25th of Enean 4218 [[The Soulwind Calendar | SC]]*: Now under the custody of [[The Adventurers | the Adventurers]], Gillette rides the coach to [[Sindrel | Sindrel]]. During the Anathemist ambush, he remains pinned down in the coach unwilling to risk the archers above.
+
+<!-- GM_INFO_START -->
+The fast brother — small, wiry, and vicious. Fights beside [[:raymond-quill | Raymond]]; see *Brothers' Grift* on Raymond's stat block.
+
+<div class="stat-block">
+<h3>Gillette Quill</h3>
+<p><em>Small human, neutral evil</em></p>
+<p><strong>Armor Class</strong> 15 (studded leather)<br>
+<strong>Hit Points</strong> 21 (6d6 + 6)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +4</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>8 (-1)</td><td>18 (+4)</td><td>12 (+1)</td><td>11 (+0)</td><td>10 (+0)</td><td>14 (+2)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> Acrobatics +6, Deception +4, Sleight of Hand +6, Stealth +6<br>
+<strong>Senses</strong> passive Perception 10<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 1 (200 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Nimble.</strong> Gillette can take the Disengage or Hide action as a bonus action on each of his turns.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> Gillette makes two shortsword attacks.</p>
+<p><strong>Shortsword.</strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage.</p>
+<p><strong>Light Crossbow.</strong> <em>Ranged Weapon Attack:</em> +6 to hit, range 80/320 ft., one target. <em>Hit:</em> 7 (1d8 + 3) piercing damage.</p>
+</div>
+<!-- GM_INFO_END -->

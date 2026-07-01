@@ -151,33 +151,137 @@ h2. The Caretakers
 
 The lower Osteomantic Archives are not abandoned in the ordinary sense. [[The Eighth House | House Samhain]] is gone, but some of its custodial systems remain active.
 
-Most disturbing are the so-called caretakers: undead archivists, porters, arrangers, docents, menders, cleaners, and preparators who still follow instructions issued by masters who have been dead for centuries. They do not hate the living. They do not scheme. They do not understand that their work is over. They simply maintain the Archive.
+Most disturbing are the so-called caretakers: Samhain-era **necromantic automata** — lacquered bone animated by masterwork binding, not revenants with unfinished business. Each unit's custodial programme is **carved into the bones themselves** — necromantic script on skull, rib cage, and long bones — plus a belt of enchanted mortuary tools. They do not think, choose, or remember. They execute those carved instructions and loop until a trigger fires: missing accession chit, damaged display, contamination alarm, or living flesh classified as unprocessed remains.
 
-A caretaker might reassemble bones into the correct historical posture, replace a missing skull, polish a commemorative plaque, sort corpse-tags, repair a cracked display case, retrieve an escaped specimen, or drag a newly delivered body into its proper thematic chamber. Some are little more than skeletal servants with ritual tools. Others retain enough skill to embalm, annotate, bind spirits to bone, or construct new interpretive displays from battlefield remains.
+A caretaker might reassemble bones into the correct historical posture, replace a missing skull, polish a commemorative plaque, sort corpse-tags, repair a cracked display case, retrieve an escaped specimen, or drag a newly delivered body into its proper thematic chamber. Higher-tier **preparators** bear **deeper inscription** — the same lacquered skeleton, but more bone surface given over to binding, stitching, and room-level containment subroutines.
 
-This explains how later historical material, including exhibits connected to the [[World History | Seven Day War]], can appear in archive spaces that originated with [[The Eighth House | House Samhain]]. The chamber may be Samhain-built, but the display was updated after the House's fall by contractors, old collection channels, or undead custodians continuing their orders. The Archive's dead bureaucracy outlived the institution that created it.
+This explains how later historical material, including exhibits connected to the [[World History | Seven Day War]], can appear in archive spaces that originated with [[The Eighth House | House Samhain]]. The chamber may be Samhain-built, but the display was updated after the House's fall by contractors, old collection channels, or caretaker units still executing post-Fall accession orders. The Archive's dead machinery outlived the institution that created it.
 
 h3. GM Notes
 
-The caretakers should feel less like monsters than civil servants of a vanished atrocity. They may ignore intruders who behave like visitors, become agitated if displays are damaged, or attempt to incorporate fresh corpses into the nearest appropriate exhibit. Their politeness, where present, should make them worse.
+Caretakers should feel like **magical automata with ancient programming** — unsettling because they are precise, patient, and utterly without interior life. They may ignore intruders who match visitor parameters (visible livery, accession chit, curator seal), escalate through fixed protocol when displays are damaged, or attempt to file living visitors as exhibits. Any speech is a **preset catalogue phrase**, not conversation. The wrong tone is not menace but bureaucracy: a unit that recites overdue-loan script while reaching for manacles.
 
 Possible caretaker behaviours:
-* silently correcting a fallen skeleton while combat continues around them;
-* asking intruders for a catalogue number, donation chit, or next-of-kin release;
-* misidentifying a living visitor as an overdue exhibit;
-* wheeling in a corpse from a conflict that happened decades after [[The Eighth House | House Samhain]]'s fall;
-* becoming distressed because the [[World History | Seven Day War]] display lacks "sufficient eyewitness material";
+* silently correcting a fallen skeleton while combat continues around them — maintenance loop takes priority over ambient noise;
+* reciting requests for a catalogue number, donation chit, or next-of-kin release on a fixed loop until acknowledged or overridden;
+* misidentifying a living visitor as unprocessed remains or an overdue exhibit;
+* wheeling in a corpse from a conflict that happened decades after [[The Eighth House | House Samhain]]'s fall — Step 7 of the Fallen Display Protocol;
+* emitting distress tones because the [[World History | Seven Day War]] display lacks "sufficient eyewitness material" per accession quota;
 * attempting to return [[:ayr | Ayr]]'s buckler, [[:pin | Pin]]'s sword, or [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s head to "the relevant collection";
-* referring to the [[The Fall of the Eighth House | Fall of the Eighth House]] as a temporary interruption in staffing.
+* referring to the [[The Fall of the Eighth House | Fall of the Eighth House]] as a temporary interruption in staffing — literal programme text, not denial.
+
+h2. Encounter building
+
+Samhain-era **necromantic automata** — masterwork animations with no will of their own. Programmes are **carved into lacquered bone**; tools are enchanted mortuary gear (no spellcasting). Units loop through custodial routines until a trigger fires: missing accession chit, damaged display, or living flesh in a closed collection. Then the programme escalates.
+
+Sum creature XP, apply the DMG group multiplier (×2 for 3–6 enemies, ×2.5 for 7–10, etc.), then compare the total to the thresholds below.
+
+| Level | Easy | Medium | Hard | Deadly |
+|---|---|---|---|---|
+| 3 | 1,400 | 2,800 | 4,200 | 7,350 |
+| 4 | 1,925 | 3,850 | 5,775 | 9,800 |
+| 5 | 4,375 | 8,750 | 13,125 | 19,600 |
+| 6 | 5,250 | 10,500 | 15,750 | 23,100 |
+| 7 | 6,125 | 12,250 | 18,375 | 27,300 |
+| 8 | 7,000 | 14,000 | 21,000 | 30,800 |
+| 9 | 7,700 | 15,400 | 23,100 | 33,600 |
+| 10 | 8,400 | 16,800 | 25,200 | 36,400 |
+
+*Adjusted XP thresholds for a party of seven (DMG p. 82).*
+
+| Composition | Adjusted XP |
+|---|---|
+| 2 **Archive Caretakers** | 1,900 |
+| 3 **Archive Caretakers** | 2,850 |
+| 4 **Archive Caretakers** | 3,800 |
+| 2 **Archive Caretakers** + 1 **Chief Preparator** | 3,300 |
+| 3 **Archive Caretakers** + 1 **Chief Preparator** | 4,250 |
+| 2 **Chief Preparators** | 2,800 |
+
+*Baseline medium patrol (level 3): **three Archive Caretakers** (2,850 adjusted).*
+
+h3. Archive Caretaker
+
+Standard custodial unit — lacquered bone in mortuary livery, tool belt, custodial script carved across skull and rib cage.
+
+<div class="stat-block">
+<p><em>Medium undead, unaligned</em></p>
+<p><strong>Armor Class</strong> 15 (lacquered ossuary vestments)<br>
+<strong>Hit Points</strong> 45 (10d8)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +1</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>14 (+2)</td><td>12 (+1)</td><td>16 (+3)</td><td>6 (-2)</td><td>14 (+2)</td><td>5 (-3)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> History +4, Investigation +4, Perception +4<br>
+<strong>Damage Resistances</strong> Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks<br>
+<strong>Damage Immunities</strong> Poison<br>
+<strong>Condition Immunities</strong> Charmed, Exhaustion, Frightened, Poisoned<br>
+<strong>Senses</strong> Darkvision 60 ft., passive Perception 14<br>
+<strong>Languages</strong> Understands Common but can't speak except preset catalogue phrases<br>
+<strong>Challenge</strong> 2 (475 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Samhain Automaton.</strong> The caretaker is not alive and does not think. It executes a fixed custodial programme carved into its lacquered bones at animation.</p>
+<p><strong>Programmed Priority.</strong> While the caretaker can see a bone exhibit, display case, or catalogue fixture within 30 feet, it cannot be forced to abandon maintenance tasks by magical means (it is immune to charmed and frightened while this condition is met).</p>
+<p><strong>Display Sanctity Protocol.</strong> When a creature the caretaker can see within 30 feet damages an exhibit, display case, or catalogue fixture, the caretaker must move up to half its speed and make one bone setter's trowel or accession manacles attack against that creature if possible.</p>
+<p><strong>Misfiling Recognition.</strong> The caretaker treats any living creature without visible archive livery, an accession chit, or a curator's seal as <em>unprocessed remains</em> for the purpose of its attacks and grapples.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> The caretaker makes two attacks, using Bone Setter's Trowel, Accession Manacles, or both.</p>
+<p><strong>Bone Setter's Trowel.</strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d8 + 2) bludgeoning damage. If the target is an undead or a construct, it regains 7 (1d8 + 2) hit points instead.</p>
+<p><strong>Accession Manacles.</strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 10 ft., one target. <em>Hit:</em> 5 (1d6 + 2) bludgeoning damage, and the target is grappled (escape DC 12). While grappling a creature classified as unprocessed remains, the caretaker moves at its full speed toward the nearest appropriate chamber without being slowed by the drag.</p>
+<p><strong>Preservation Sprayer (Recharge 5-6).</strong> The caretaker vents embalming mist from a belted canister on a fixed arc. Each creature in a 15-foot cone must make a DC 12 Constitution saving throw, taking 10 (3d6) necrotic damage on a failed save, or half as much on a successful one. A creature that fails the save has its speed halved until the end of its next turn.</p>
+</div>
+
+h3. Chief Preparator
+
+Higher-tier unit — same lacquered bone, but inscription covers sternum, ribs, and long bones; tools for binding, stitching, and room-level containment.
+
+<div class="stat-block">
+<p><em>Medium undead, unaligned</em></p>
+<p><strong>Armor Class</strong> 16 (reinforced ossuary vestments)<br>
+<strong>Hit Points</strong> 58 (9d8 + 18)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +2</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>15 (+2)</td><td>14 (+2)</td><td>16 (+3)</td><td>6 (-2)</td><td>16 (+3)</td><td>5 (-3)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> History +5, Investigation +5, Medicine +5, Perception +5<br>
+<strong>Damage Resistances</strong> Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks<br>
+<strong>Damage Immunities</strong> Poison<br>
+<strong>Condition Immunities</strong> Charmed, Exhaustion, Frightened, Poisoned<br>
+<strong>Senses</strong> Darkvision 60 ft., passive Perception 15<br>
+<strong>Languages</strong> Understands Common and Necril but can't speak except preset catalogue phrases<br>
+<strong>Challenge</strong> 3 (700 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Samhain Automaton.</strong> As the archive caretaker.</p>
+<p><strong>Programmed Priority.</strong> As the archive caretaker.</p>
+<p><strong>Display Sanctity Protocol.</strong> As the archive caretaker.</p>
+<p><strong>Misfiling Recognition.</strong> As the archive caretaker.</p>
+<p><strong>Contamination Alarm (Recharge 6).</strong> When the preparator takes damage or completes a catalogue seal attack, a bell-tone encoded in its carved sternum vibrates free. Each archive caretaker within 60 feet that can hear the tone executes Step 7 of the Fallen Display Protocol on its next turn: it moves up to 15 feet toward the nearest creature without visible accession livery and makes one accession manacles attack. Each caretaker can respond to Contamination Alarm only once per hour.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> The preparator makes two spirit-stitch needle attacks.</p>
+<p><strong>Spirit-Stitch Needle.</strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (1d8 + 4) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be paralyzed until the end of the preparator's next turn.</p>
+<p><strong>Catalogue Seal.</strong> <em>Ranged Weapon Attack:</em> +5 to hit, range 30 ft., one creature. <em>Hit:</em> The target must succeed on a DC 13 Wisdom saving throw or be unable to willingly leave the room it is in for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on the save is immune to this preparator's Catalogue Seal for 24 hours. <em>Miss:</em> The adhesive label falls harmlessly to the floor. Completing this attack triggers Contamination Alarm.</p>
+</div>
 
 h3. [[:pin | Pin]]'s sword - *Hall of the First Watch*
 
 [[:pin | Pin]] carries a Meness adjutant sidearm catalogued roughly **a thousand years ago** for the *Hall of the First Watch* - founding-era officers and garrison dead whose witness testimony the Archives once preserved alongside their arms. The blade's accession chit was never closed; caretakers treat it as **overdue**.
 
-* **Recognition:** Meness knotwork on the guard (worn); catalogue notch on the pommel (easy to miss). A caretaker asks for **return chit 1-W/0412** or the name of the lending officer.
-* **Behaviour:** Prefer negotiation - "This item belongs on display 1-W, bay 7." May follow Pin at a distance until he enters an archive branch, then insist. Will not grab it in a Meness precinct without causing a scene.
-* **Not the Fallowhurst sigil:** If the party mentions sigils, caretakers distinguish **binding circles** (college sorcery) from **witness-weapon inscriptions** (Meness abjuration). Pin's shop hunt in Session 4 was about [[The Fallowhurst Sigil | Fallowhurst]], not this blade.[3]
-* **Repowering hook:** Caretakers know the **original shelf blessing** required to wake the enchantment; they will not teach it until the sword is back on the rack - unless bargained (catalogue favour, new witness for First Watch, etc.).
+* **Recognition:** Meness knotwork on the guard (worn); catalogue notch on the pommel (easy to miss). A caretaker recites the overdue-loan script and requests **return chit 1-W/0412** or the name of the lending officer.
+* **Behaviour:** Executes the accession script — "This item belongs on display 1-W, bay 7." May follow Pin at a distance until he enters an archive branch, then repeat the script. Will not grab it in a Meness precinct without causing a scene.
+* **Not the Fallowhurst sigil:** If the party mentions sigils, caretakers run a misfiled-sigil subroutine — binding circles (college sorcery) vs. witness-weapon inscriptions (Meness abjuration). Pin's shop hunt in Session 4 was about [[The Fallowhurst Sigil | Fallowhurst]], not this blade.[3]
+* **Repowering hook:** Caretaker programmes include the **original shelf blessing** required to wake the enchantment; they will not output it until the sword is back on the rack — unless the party satisfies a catalogue-favour subroutine (new witness for First Watch, etc.).
 
 h2. Catacomb Exploration
 

@@ -20,4 +20,49 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7516441/elfsjecs.jpg
 The colossal skull of a beholder, reanimated by the unchained necromancy of the quarantine zone.
 
 <!-- OP_BIO -->
-An undead Beholder stored in the [[Osteomantic Archives | Osteomantic Archives]].
+An undead Beholder stored in the [[Osteomantic Archives | Osteomantic Archives]]. The party fought Zalatan in the Hall of Aberrations.[1]
+
+fn1. [[Session 8: The Dark Shrine | Session 8: The Dark Shrine ]]
+
+<!-- GM_INFO_START -->
+Colossal beholder skull reanimated by quarantine necromancy. Three random eye rays each turn; *Undead Fortitude* can prolong the fight after a big nova.
+
+<div class="stat-block">
+<h3>Zalatan</h3>
+<p><em>Large undead, lawful evil</em></p>
+<p><strong>Armor Class</strong> 15 (natural armor)<br>
+<strong>Hit Points</strong> 93 (11d10 + 33)<br>
+<strong>Speed</strong> 0 ft., fly 20 ft. (hover)<br>
+<strong>Initiative</strong> -1</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>10 (+0)</td><td>8 (-1)</td><td>16 (+3)</td><td>3 (-4)</td><td>8 (-1)</td><td>5 (-3)</td></tr>
+</table>
+<hr>
+<p><strong>Saving Throws</strong> CON +6, WIS +1<br>
+<strong>Skills</strong> Perception +1<br>
+<strong>Damage Immunities</strong> Poison<br>
+<strong>Condition Immunities</strong> Poisoned<br>
+<strong>Senses</strong> Darkvision 60 ft., passive Perception 11<br>
+<strong>Languages</strong> Deep Speech, Undercommon<br>
+<strong>Challenge</strong> 5 (1,800 XP)<br>
+<strong>Proficiency Bonus</strong> +3</p>
+<hr>
+<p><strong>Undead Fortitude.</strong> If damage reduces Zalatan to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, Zalatan drops to 1 hit point instead.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Bite.</strong> <em>Melee Weapon Attack:</em> +3 to hit, reach 5 ft., one target. <em>Hit:</em> 4 (1d4 + 2) piercing damage.</p>
+<p><strong>Eye Ray.</strong> Zalatan shoots three random magical eye rays, choosing one to three targets it can see within 120 feet. Roll a d10 for each ray and reroll duplicates. Each target of a ray must succeed on a DC 14 saving throw or suffer the effect:</p>
+<p>1. <strong>Charm.</strong> Wisdom save. Charmed for 1 hour or until Zalatan harms the target.<br>
+2. <strong>Paralyzing.</strong> Constitution save. Paralyzed for 1 minute; repeat save at end of each turn.<br>
+3. <strong>Fear.</strong> Wisdom save. Frightened for 1 minute; repeat save at end of each turn.<br>
+4. <strong>Slow.</strong> Dexterity save. Speed halved, −2 AC and Dex saves, no reactions; only action or bonus action; one attack or cantrip if action used to Attack. Lasts 1 minute; repeat save at end of each turn.<br>
+5. <strong>Enervation.</strong> Constitution save. 36 (8d8) necrotic damage on failed save, half on success.<br>
+6. <strong>Telekinetic.</strong> Strength save. Move target up to 60 feet in any direction; restrained until start of Zalatan's next turn if object, or knocked prone if creature.<br>
+7. <strong>Sleep.</strong> Wisdom save. As <em>sleep</em> (affects up to 4d4 + 4 hit points of creatures in a 20-foot-radius sphere centred on the target).<br>
+8. <strong>Petrification.</strong> Dexterity save. Restrained on first failed save; repeat save at end of next turn or petrified permanently.<br>
+9. <strong>Disintegration.</strong> Dexterity save. 45 (10d8) force damage on failed save; if reduced to 0 hit points, the body becomes dust.<br>
+10. <strong>Death.</strong> Dexterity save. 55 (10d10) necrotic damage on failed save, half on success.</p>
+</div>
+<!-- GM_INFO_END -->

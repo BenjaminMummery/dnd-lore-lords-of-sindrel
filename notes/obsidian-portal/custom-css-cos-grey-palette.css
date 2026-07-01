@@ -382,26 +382,30 @@ input:focus, textarea:focus, select:focus {
   border-color: #4b0c0f;
 }
 
-/* Tags */
-.tag, .tags a, .label, .badge {
-  display: inline-block;
-  padding: 3px 7px;
-  margin: 2px;
+/* Tags - text only, no pill/box */
+.tag, .tags a, .label, .badge,
+.campaign-public-layout a[data-tag] {
+  display: inline;
+  padding: 0;
+  margin: 0 0.35em 0 0;
   font-family: "Cinzel", "IM Fell English SC", Georgia, serif;
   font-size: 12px;
   font-weight: bold;
   letter-spacing: 1px;
   text-transform: uppercase;
-  color: #ece8df;
-  background-color: #3b0709;
-  border: 1px solid #6d6862;
+  color: #5f574b;
+  background: none;
+  background-color: transparent;
+  border: none;
   text-decoration: none;
 }
 
-.tags a:hover, .tag:hover, .label:hover, .badge:hover {
-  color: #deded8;
-  background-color: #721217;
-  text-decoration: none;
+.tags a:hover, .tag:hover, .label:hover, .badge:hover,
+.campaign-public-layout a[data-tag]:hover {
+  color: #3b0709;
+  background: none;
+  background-color: transparent;
+  text-decoration: underline;
 }
 
 /* Sidebar table of contents */
@@ -427,19 +431,19 @@ input:focus, textarea:focus, select:focus {
 }
 
 .sidebar-table-of-contents a {
-  color: #211b18;
+  color: #4b0c0f;
   font-weight: bold;
-  text-decoration: none;
+  text-decoration: underline;
   border-bottom: 0;
 }
 
 .sidebar-table-of-contents a:hover {
-  color: #3b0709;
-  text-decoration: none;
+  color: #721217;
+  text-decoration: underline;
   border-bottom: 0;
 }
 
-/* Nav, character index, and wiki lists - restore pre-emphasis link styling */
+/* Index lists, breadcrumbs, page chrome - not emphasis red */
 .character-list-item a:link,
 .character-list-item a:visited,
 .character-list-item a:active,
@@ -452,9 +456,6 @@ input:focus, textarea:focus, select:focus {
 .adventure-log-list a:link,
 .adventure-log-list a:visited,
 .adventure-log-list a:active,
-.sidebar-table-of-contents a:link,
-.sidebar-table-of-contents a:visited,
-.sidebar-table-of-contents a:active,
 .wiki-page-show .post-main .page-options a:link,
 .wiki-page-show .post-main .page-options a:visited,
 .wiki-page-show .post-main .page-options a:active,
@@ -483,7 +484,6 @@ input:focus, textarea:focus, select:focus {
 .content-list a:hover,
 .wiki-page-list a:hover,
 .adventure-log-list a:hover,
-.sidebar-table-of-contents a:hover,
 .wiki-page-show .post-main .page-options a:hover,
 .adventure-log-show .post-main .page-options a:hover,
 .character-show .main-content a:hover,
@@ -495,7 +495,78 @@ input:focus, textarea:focus, select:focus {
   border-bottom: 0 !important;
 }
 
-/* Links - player body prose and GM-only sections only */
+/* Top bar and side nav panels only - not main content column or TOC */
+.campaign-public-layout #header a:link,
+.campaign-public-layout #header a:visited,
+.campaign-public-layout #header a:active,
+.campaign-public-layout .campaign-public-header a:link,
+.campaign-public-layout .campaign-public-header a:visited,
+.campaign-public-layout .campaign-public-header a:active,
+.campaign-public-layout .front-nav-container a:link,
+.campaign-public-layout .front-nav-container a:visited,
+.campaign-public-layout .front-nav-container a:active,
+.campaign-public-layout #sidebar a:link,
+.campaign-public-layout #sidebar a:visited,
+.campaign-public-layout #sidebar a:active,
+#header a:link,
+#header a:visited,
+#header a:active,
+.campaign-public-header a:link,
+.campaign-public-header a:visited,
+.campaign-public-header a:active,
+.front-nav-container a:link,
+.front-nav-container a:visited,
+.front-nav-container a:active,
+#sidebar a:link,
+#sidebar a:visited,
+#sidebar a:active {
+  color: #ece8df !important;
+  font-weight: bold;
+  text-decoration: none !important;
+  border-bottom: 0 !important;
+}
+
+.campaign-public-layout #header a:hover,
+.campaign-public-layout .campaign-public-header a:hover,
+.campaign-public-layout .front-nav-container a:hover,
+.campaign-public-layout #sidebar a:hover,
+#header a:hover,
+.campaign-public-header a:hover,
+.front-nav-container a:hover,
+#sidebar a:hover {
+  color: #deded8 !important;
+  text-decoration: none !important;
+  border-bottom: 0 !important;
+}
+
+/* Emphasis red - main body and GM sections */
+body.campaign-public-layout .main-content-container .wiki-page-content a:link,
+body.campaign-public-layout .main-content-container .wiki-page-content a:visited,
+body.campaign-public-layout .main-content-container .wiki-page-content a:active,
+body.campaign-public-layout .main-content-container .game-master-info a:link,
+body.campaign-public-layout .main-content-container .game-master-info a:visited,
+body.campaign-public-layout .main-content-container .game-master-info a:active,
+body.campaign-public-layout .post-section.post-main .wiki-page-content a:link,
+body.campaign-public-layout .post-section.post-main .wiki-page-content a:visited,
+body.campaign-public-layout .post-section.post-main .wiki-page-content a:active,
+body.campaign-public-layout .post-section.post-main .game-master-info a:link,
+body.campaign-public-layout .post-section.post-main .game-master-info a:visited,
+body.campaign-public-layout .post-section.post-main .game-master-info a:active,
+body.campaign-public-layout .main-content-container .post-section.post-main p a:link,
+body.campaign-public-layout .main-content-container .post-section.post-main p a:visited,
+body.campaign-public-layout .main-content-container .post-section.post-main p a:active,
+body.campaign-public-layout .main-content-container .post-section.post-main li a:link,
+body.campaign-public-layout .main-content-container .post-section.post-main li a:visited,
+body.campaign-public-layout .main-content-container .post-section.post-main li a:active,
+body.campaign-public-layout .main-content-container .post-section.post-main blockquote a:link,
+body.campaign-public-layout .main-content-container .post-section.post-main blockquote a:visited,
+body.campaign-public-layout .main-content-container .post-section.post-main blockquote a:active,
+body.campaign-public-layout .main-content-container .post-section.post-main dd a:link,
+body.campaign-public-layout .main-content-container .post-section.post-main dd a:visited,
+body.campaign-public-layout .main-content-container .post-section.post-main dd a:active,
+body.campaign-public-layout .main-content-container .post-section.post-main td a:link,
+body.campaign-public-layout .main-content-container .post-section.post-main td a:visited,
+body.campaign-public-layout .main-content-container .post-section.post-main td a:active,
 .wiki-page-content a:link,
 .wiki-page-content a:visited,
 .wiki-page-content a:active,
@@ -538,6 +609,15 @@ input:focus, textarea:focus, select:focus {
   border-bottom: 0 !important;
 }
 
+body.campaign-public-layout .main-content-container .wiki-page-content a:hover,
+body.campaign-public-layout .main-content-container .game-master-info a:hover,
+body.campaign-public-layout .post-section.post-main .wiki-page-content a:hover,
+body.campaign-public-layout .post-section.post-main .game-master-info a:hover,
+body.campaign-public-layout .main-content-container .post-section.post-main p a:hover,
+body.campaign-public-layout .main-content-container .post-section.post-main li a:hover,
+body.campaign-public-layout .main-content-container .post-section.post-main blockquote a:hover,
+body.campaign-public-layout .main-content-container .post-section.post-main dd a:hover,
+body.campaign-public-layout .main-content-container .post-section.post-main td a:hover,
 .wiki-page-content a:hover,
 .game-master-info a:hover,
 .character-show .character-game-master-info a:hover,
@@ -551,101 +631,106 @@ input:focus, textarea:focus, select:focus {
 .adventure-log-show .post-main td a:hover,
 .stat-block a:hover {
   color: #721217 !important;
+  text-decoration: underline !important;
 }
 
-/* Top bar and side panels - must come last to beat prose rules above */
-.campaign-public-layout #header a:link,
-.campaign-public-layout #header a:visited,
-.campaign-public-layout #header a:active,
-.campaign-public-layout .campaign-public-header a:link,
-.campaign-public-layout .campaign-public-header a:visited,
-.campaign-public-layout .campaign-public-header a:active,
-.campaign-public-layout .front-nav-container a:link,
-.campaign-public-layout .front-nav-container a:visited,
-.campaign-public-layout .front-nav-container a:active,
-.campaign-public-layout .collapsable-nav-row a:link,
-.campaign-public-layout .collapsable-nav-row a:visited,
-.campaign-public-layout .collapsable-nav-row a:active,
-.campaign-public-layout .collapsible-nav-row a:link,
-.campaign-public-layout .collapsible-nav-row a:visited,
-.campaign-public-layout .collapsible-nav-row a:active,
-.campaign-public-layout #sidebar a:link,
-.campaign-public-layout #sidebar a:visited,
-.campaign-public-layout #sidebar a:active,
-.campaign-public-layout .sidebar a:link,
-.campaign-public-layout .sidebar a:visited,
-.campaign-public-layout .sidebar a:active,
-.campaign-public-layout .side-nav a:link,
-.campaign-public-layout .side-nav a:visited,
-.campaign-public-layout .side-nav a:active,
-.campaign-public-layout .campaign-nav a:link,
-.campaign-public-layout .campaign-nav a:visited,
-.campaign-public-layout .campaign-nav a:active,
-.campaign-public-layout .navbar a:link,
-.campaign-public-layout .navbar a:visited,
-.campaign-public-layout .navbar a:active,
-.campaign-public-layout .top-bar a:link,
-.campaign-public-layout .top-bar a:visited,
-.campaign-public-layout .top-bar a:active,
-#header a:link,
-#header a:visited,
-#header a:active,
-.front-nav-container a:link,
-.front-nav-container a:visited,
-.front-nav-container a:active,
-.collapsable-nav-row a:link,
-.collapsable-nav-row a:visited,
-.collapsable-nav-row a:active,
-.collapsible-nav-row a:link,
-.collapsible-nav-row a:visited,
-.collapsible-nav-row a:active,
-#sidebar a:link,
-#sidebar a:visited,
-#sidebar a:active,
-.sidebar a:link,
-.sidebar a:visited,
-.sidebar a:active,
-.side-nav a:link,
-.side-nav a:visited,
-.side-nav a:active,
-.campaign-nav a:link,
-.campaign-nav a:visited,
-.campaign-nav a:active,
-.navbar a:link,
-.navbar a:visited,
-.navbar a:active,
-.top-bar a:link,
-.top-bar a:visited,
-.top-bar a:active {
-  color: #ece8df !important;
+/* Index lists - beat main-body red on list pages */
+body.campaign-public-layout .main-content-container .wiki-page-list a:link,
+body.campaign-public-layout .main-content-container .wiki-page-list a:visited,
+body.campaign-public-layout .main-content-container .wiki-page-list a:active,
+body.campaign-public-layout .main-content-container .character-list-item a:link,
+body.campaign-public-layout .main-content-container .character-list-item a:visited,
+body.campaign-public-layout .main-content-container .character-list-item a:active,
+body.campaign-public-layout .main-content-container .content-list a:link,
+body.campaign-public-layout .main-content-container .content-list a:visited,
+body.campaign-public-layout .main-content-container .content-list a:active,
+body.campaign-public-layout .main-content-container .adventure-log-list a:link,
+body.campaign-public-layout .main-content-container .adventure-log-list a:visited,
+body.campaign-public-layout .main-content-container .adventure-log-list a:active,
+body.campaign-public-layout .main-content-container .post-section.post-main .page-options a:link,
+body.campaign-public-layout .main-content-container .post-section.post-main .page-options a:visited,
+body.campaign-public-layout .main-content-container .post-section.post-main .page-options a:active {
+  color: #3b0709 !important;
   font-weight: bold;
   text-decoration: none !important;
   border-bottom: 0 !important;
 }
 
-.campaign-public-layout #header a:hover,
-.campaign-public-layout .campaign-public-header a:hover,
-.campaign-public-layout .front-nav-container a:hover,
-.campaign-public-layout .collapsable-nav-row a:hover,
-.campaign-public-layout .collapsible-nav-row a:hover,
-.campaign-public-layout #sidebar a:hover,
-.campaign-public-layout .sidebar a:hover,
-.campaign-public-layout .side-nav a:hover,
-.campaign-public-layout .campaign-nav a:hover,
-.campaign-public-layout .navbar a:hover,
-.campaign-public-layout .top-bar a:hover,
-#header a:hover,
-.front-nav-container a:hover,
-.collapsable-nav-row a:hover,
-.collapsible-nav-row a:hover,
-#sidebar a:hover,
-.sidebar a:hover,
-.side-nav a:hover,
-.campaign-nav a:hover,
-.navbar a:hover,
-.top-bar a:hover {
-  color: #deded8 !important;
+body.campaign-public-layout .main-content-container .wiki-page-list a:hover,
+body.campaign-public-layout .main-content-container .character-list-item a:hover,
+body.campaign-public-layout .main-content-container .content-list a:hover,
+body.campaign-public-layout .main-content-container .adventure-log-list a:hover,
+body.campaign-public-layout .main-content-container .post-section.post-main .page-options a:hover {
+  color: #7a1116 !important;
   text-decoration: none !important;
   border-bottom: 0 !important;
+}
+
+/* Table of contents - beat #sidebar nav grey */
+body.campaign-public-layout #sidebar .sidebar-table-of-contents a:link,
+body.campaign-public-layout #sidebar .sidebar-table-of-contents a:visited,
+body.campaign-public-layout #sidebar .sidebar-table-of-contents a:active,
+body.campaign-public-layout .main-content-container .sidebar-table-of-contents a:link,
+body.campaign-public-layout .main-content-container .sidebar-table-of-contents a:visited,
+body.campaign-public-layout .main-content-container .sidebar-table-of-contents a:active,
+#sidebar .sidebar-table-of-contents a:link,
+#sidebar .sidebar-table-of-contents a:visited,
+#sidebar .sidebar-table-of-contents a:active,
+.sidebar-table-of-contents a:link,
+.sidebar-table-of-contents a:visited,
+.sidebar-table-of-contents a:active {
+  color: #4b0c0f !important;
+  font-weight: bold;
+  text-decoration: underline !important;
+  border-bottom: 0 !important;
+}
+
+body.campaign-public-layout #sidebar .sidebar-table-of-contents a:hover,
+body.campaign-public-layout .main-content-container .sidebar-table-of-contents a:hover,
+#sidebar .sidebar-table-of-contents a:hover,
+.sidebar-table-of-contents a:hover {
+  color: #721217 !important;
+  text-decoration: underline !important;
+}
+
+/* Tags - beat emphasis red and any legacy pill styles */
+.campaign-public-layout .tags a:link,
+.campaign-public-layout .tags a:visited,
+.campaign-public-layout .tags a:active,
+.campaign-public-layout a[data-tag]:link,
+.campaign-public-layout a[data-tag]:visited,
+.campaign-public-layout a[data-tag]:active,
+.character-show .tags a:link,
+.character-show .tags a:visited,
+.character-show .tags a:active,
+.wiki-page-show .tags a:link,
+.wiki-page-show .tags a:visited,
+.wiki-page-show .tags a:active,
+.adventure-log-show .tags a:link,
+.adventure-log-show .tags a:visited,
+.adventure-log-show .tags a:active,
+.item-show .tags a:link,
+.item-show .tags a:visited,
+.item-show .tags a:active {
+  color: #5f574b !important;
+  font-weight: bold;
+  text-decoration: none !important;
+  background: none !important;
+  background-color: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  display: inline !important;
+}
+
+.campaign-public-layout .tags a:hover,
+.campaign-public-layout a[data-tag]:hover,
+.character-show .tags a:hover,
+.wiki-page-show .tags a:hover,
+.adventure-log-show .tags a:hover,
+.item-show .tags a:hover {
+  color: #3b0709 !important;
+  text-decoration: underline !important;
+  background: none !important;
+  background-color: transparent !important;
 }
 
