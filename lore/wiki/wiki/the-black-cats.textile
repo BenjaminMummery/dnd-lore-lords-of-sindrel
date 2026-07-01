@@ -44,6 +44,165 @@ h2. Internal ranks
 
 **Cutthroat's Repose contact** - Vault-adjacent **Counter**; holds ledger extracts and adjutant kompromat; never commits on premises.
 
+h2. Encounter building
+
+A mage syndicate that preys on servants, debtors, and lone travellers — cantrips and cheap tricks to intimidate, not archmage duels. **Vault** leaders rarely join a street brawl; patrols are mostly **Strands** with **Counter** or **Gild** oversight. Sum creature XP, apply the DMG group multiplier (×2 for 3–6 enemies, ×2.5 for 7–10, etc.), then compare the total to the thresholds below. Casting and control spells raise effective difficulty beyond the raw XP.
+
+| Level | Easy | Medium | Hard | Deadly |
+|---|---|---|---|---|
+| 3 | 1,400 | 2,800 | 4,200 | 7,350 |
+| 4 | 1,925 | 3,850 | 5,775 | 9,800 |
+| 5 | 4,375 | 8,750 | 13,125 | 19,600 |
+| 6 | 5,250 | 10,500 | 15,750 | 23,100 |
+| 7 | 6,125 | 12,250 | 18,375 | 27,300 |
+| 8 | 7,000 | 14,000 | 21,000 | 30,800 |
+| 9 | 7,700 | 15,400 | 23,100 | 33,600 |
+| 10 | 8,400 | 16,800 | 25,200 | 36,400 |
+
+*Adjusted XP thresholds for a party of seven (DMG p. 82).*
+
+| Composition | Adjusted XP |
+|---|---|
+| 7 **Strands** | 1,400 |
+| 6 **Strands** + 1 **Counter** | 1,600 |
+| 8 **Strands** | 1,600 |
+| 6 **Strands** + 2 **Counters** | 2,000 |
+| 2 **Strands** + 2 **Counters** + 2 **Gild** | 2,800 |
+| 8 **Strands** + 2 **Counters** | 3,000 |
+| 6 **Counters** + 2 **Gild** | 4,200 |
+| 1 **Vault** + 2 **Gild** + 3 **Counters** | 4,400 |
+| 1 **Vault** + 4 **Gild** + 2 **Counters** | 7,250 |
+| 6 **Gild** + 1 **Vault** | 8,500 |
+
+Typical ambush against the Wonch: **6 Strands** + **1 Counter** (1,600 adjusted) — Emerich-tier muscle with a fixer calling shots.
+
+h3. Black Cat Strand
+
+Street muscle; hammer and *chill touch*.
+
+<div class="stat-block">
+<p><em>Medium humanoid (any race), neutral evil</em></p>
+<p><strong>Armor Class</strong> 13 (leather armor)<br>
+<strong>Hit Points</strong> 18 (4d8)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +2</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>12 (+1)</td><td>14 (+2)</td><td>10 (+0)</td><td>10 (+0)</td><td>11 (+0)</td><td>13 (+1)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> Intimidation +3, Sleight of Hand +4<br>
+<strong>Senses</strong> passive Perception 10<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 1/2 (100 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Pack Tactics.</strong> The strand has advantage on an attack roll against a creature if at least one of the strand's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> The strand makes two melee attacks.</p>
+<p><strong>Light Hammer.</strong> <em>Melee Weapon Attack:</em> +3 to hit, reach 5 ft., one target. <em>Hit:</em> 3 (1d4 + 1) bludgeoning damage.</p>
+<p><strong>Chill Touch (Cantrip).</strong> <em>Melee Spell Attack:</em> +3 to hit, reach 5 ft., one creature. <em>Hit:</em> 4 (1d8) necrotic damage, and the target can't regain hit points until the start of the strand's next turn.</p>
+</div>
+
+h3. Black Cat Counter
+
+Fixer; *sleep* and *disguise self* for shakedowns and escapes.
+
+<div class="stat-block">
+<p><em>Medium humanoid (any race), neutral evil</em></p>
+<p><strong>Armor Class</strong> 14 (studded leather)<br>
+<strong>Hit Points</strong> 27 (5d8 + 5)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +2</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>11 (+0)</td><td>14 (+2)</td><td>12 (+1)</td><td>12 (+1)</td><td>11 (+0)</td><td>14 (+2)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> Deception +4, Insight +2, Sleight of Hand +4<br>
+<strong>Senses</strong> passive Perception 10<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 1 (200 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Spellcasting.</strong> The counter's spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has two 1st-level spell slots and knows the following spells:</p>
+<p><em>1st level (2 slots):</em> <em>disguise self</em>, <em>sleep</em></p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> The counter makes two melee attacks.</p>
+<p><strong>Shortsword.</strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage.</p>
+<p><strong>Fire Bolt (Cantrip).</strong> <em>Ranged Spell Attack:</em> +4 to hit, range 120 ft., one target. <em>Hit:</em> 5 (1d10) fire damage.</p>
+</div>
+
+h3. Black Cat Gild
+
+House-adjacent operative — [[:chuggaz | Chuggaz]]'s rank. Rapier and 2nd-level tricks.
+
+<div class="stat-block">
+<p><em>Medium humanoid (any race), neutral evil</em></p>
+<p><strong>Armor Class</strong> 15 (studded leather)<br>
+<strong>Hit Points</strong> 32 (5d8 + 10)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +3</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>10 (+0)</td><td>16 (+3)</td><td>14 (+2)</td><td>13 (+1)</td><td>12 (+1)</td><td>15 (+2)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> Arcana +3, Deception +4, Persuasion +4<br>
+<strong>Senses</strong> passive Perception 11<br>
+<strong>Languages</strong> Common plus one other language<br>
+<strong>Challenge</strong> 2 (450 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Spellcasting.</strong> The gild's spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has three 2nd-level spell slots and knows the following spells:</p>
+<p><em>1st level (at will):</em> <em>mage hand</em><br>
+<em>2nd level (3 slots):</em> <em>hold person</em>, <em>misty step</em>, <em>scorching ray</em></p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> The gild makes two rapier attacks, or it makes one rapier attack and casts <em>scorching ray</em>.</p>
+<p><strong>Rapier.</strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d8 + 3) piercing damage.</p>
+</div>
+
+h3. Black Cat Vault
+
+Leadership tier; kompromat and counterspelling. Cutthroat's Repose contact is Vault-adjacent.
+
+<div class="stat-block">
+<p><em>Medium humanoid (any race), neutral evil</em></p>
+<p><strong>Armor Class</strong> 16 (breastplate)<br>
+<strong>Hit Points</strong> 45 (7d8 + 14)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +2</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>12 (+1)</td><td>14 (+2)</td><td>14 (+2)</td><td>14 (+2)</td><td>13 (+1)</td><td>16 (+3)</td></tr>
+</table>
+<hr>
+<p><strong>Saving Throws</strong> WIS +3, CHA +5<br>
+<strong>Skills</strong> Arcana +4, Deception +5, Insight +3, Intimidation +5<br>
+<strong>Senses</strong> passive Perception 11<br>
+<strong>Languages</strong> Common plus two other languages<br>
+<strong>Challenge</strong> 3 (700 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Spellcasting.</strong> The vault's spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It has two 2nd-level spell slots and one 3rd-level spell slot, and knows the following spells:</p>
+<p><em>1st level (at will):</em> <em>friends</em><br>
+<em>2nd level (2 slots):</em> <em>hold person</em>, <em>suggestion</em><br>
+<em>3rd level (1 slot):</em> <em>counterspell</em>, <em>hypnotic pattern</em></p>
+<p><strong>Kompromat (Recharges after a Short or Long Rest).</strong> As a bonus action, the vault names a shameful secret, real or invented, about one creature that can hear it within 30 feet. The target must succeed on a DC 13 Wisdom saving throw or be frightened of the vault until the end of the vault's next turn.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> The vault makes two scimitar attacks.</p>
+<p><strong>Scimitar.</strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) slashing damage.</p>
+<p><strong>Chill Touch (Cantrip).</strong> <em>Melee Spell Attack:</em> +5 to hit, reach 5 ft., one creature. <em>Hit:</em> 9 (2d8) necrotic damage, and the target can't regain hit points until the start of the vault's next turn.</p>
+</div>
+
 h2. [[:hielaman | Captain Hielaman]]
 
 Hielaman is a thorn in the side of the Cats. He's straight laced, dogged, and upstanding - annoyingly hard to find blackmail material on. His **superiors** in Meness are compromised - he feels institutional pressure not to move directly against Vault leadership, but interprets it as politics, not blackmail. That makes him dangerous to the Cats: an honest investigator with little to leverage if he starts poking past Strands and Counters. Vault should prefer to divert, discredit, or isolate him rather than try to own him.

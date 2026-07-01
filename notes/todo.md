@@ -7,6 +7,9 @@ Repo-only. **Not synced to Obsidian Portal** (see `notes/README.md`).
 - [X] **Obsidian Portal CSS styling** - names on the characters page are too big; tune Custom CSS.
 - [ ] **Obsidian Portal CSS styling** - use emphasis colour for links. Maybe drop underlines?
 - [ ] **Statblocks for NPCs** - add stat blocks where appropriate.
+  - [ ] **Black Cats ranks** - review rank names (Strands, Counters, Gild, Vault); not settled.
+  - [ ] **Zalatan** - `.stat-block` from beholder zombie base (catacombs).
+  - [ ] **Quill brothers** ([[:gillette-quill | Gillette]] & [[:raymond-quill | Raymond]]) - bandit + bandit captain, rebalanced: one slim/fast, one large/strong; equally dangerous, different roles.
 
 ## From repo (inline `TODO:` markers)
 

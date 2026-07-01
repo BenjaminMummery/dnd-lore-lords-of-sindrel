@@ -26,39 +26,24 @@ Her illness has prevented her from any form of travelling or outdoors activities
 * *25th Enean 4218 SC*: Pthul and Dulcinia's coach is ambushed by [[Anathemists | Anathemists]].
 
 <!-- GM_INFO_START -->
-<div contenteditable="true"  style="width:310px; font-family:Arial,Helvetica,sans-serif;font-size:11px;">
-<div class="statname">Dulcinia von Phthasia</div>
-<div class="statdescription">Medium human, neutral good</div>
-
-<div class="statgradient"></div>
-
-<div class="statred">
-    <div ><span class="bold statred">Armor Class</span><span> 1 </span></div>
-    <div><span class="bold statred">Hit Points</span><span> 1 (1d1)</span></div>
-    <div><span class="bold statred">Speed</span><span> 20 ft.</span></div>
-    <div><span class="bold statred">Initiative</span><span> 0 </span></div>
-</div>
-
-<div class="statgradient"></div>
-
+<div class="stat-block">
+<h3>Dulcinia von Phthasia</h3>
+<p><em>Medium human, neutral good</em></p>
+<p><strong>Armor Class</strong> 1<br>
+<strong>Hit Points</strong> 1 (1d1)<br>
+<strong>Speed</strong> 20 ft.<br>
+<strong>Initiative</strong> +0</p>
+<hr>
 <table>
-    <tr><th>STR    </th><th>DEX   </th><th>CON    </th><th>INT   </th><th>WIS   </th><th>CHA   </th></tr>
-    <tr><td>8 (-1)</td><td>8 (-1)</td><td>8 (-3)</td><td>8 (-1)</td><td>8 (-1)</td><td>8 (-1)</td></tr>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>8 (-1)</td><td>8 (-1)</td><td>8 (-1)</td><td>8 (-1)</td><td>8 (-1)</td><td>8 (-1)</td></tr>
 </table>
-
-<div class="statgradient"></div>
-
-<div><span class="bold">Senses</span><span> passive Perception 9</span></div>
-<div><span class="bold">Languages</span><span> Common</span></div>
-<div><span class="bold">Challenge</span><span>0</span></div>
-
-<div class="statgradient"></div>
-
-<div class="statactions statred">Actions</div>
-
-<div class="stathr"></div>
-
-<div class="statattack"><span class="statattackname">Greatclub.</span><span class="description"> Melee Weapon Attack:</span><span>+6 to hit, reach 5 ft., one target.</span><span class="description">Hit:</span><span>13 (2d8+4) bludgeoning damage.</span></div>
-<div class="statattack"><span class="statattackname">Javelin.</span><span class="description"> Melee or Ranged Weapon Attack:</span><span>+6 to hit, reach 5 ft. or 30ft./120, one target.</span><span class="description">Hit:</span><span>11 (2d6+4) piercing damage.</span></div>
+<hr>
+<p><strong>Senses</strong> passive Perception 9<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 0 (10 XP)</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Faint.</strong> Dulcinia falls prone and is unconscious. She wakes at the start of her next turn if she takes any damage, or if a creature within 5 feet uses an action to rouse her.</p>
 </div>
 <!-- GM_INFO_END -->
