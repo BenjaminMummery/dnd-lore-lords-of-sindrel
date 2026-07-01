@@ -1,0 +1,85 @@
+---
+op_slug: items
+op_kind: Wiki
+op_type: WikiPage
+name: Items
+title: Items
+op_gm_only: false
+tags: []
+---
+
+Campaign items grouped by type.
+
+h2. Documents
+
+* [[Private Warwick's Report | Private Warwick's Report]]
+
+h2. Jewelry
+
+* [[Silver Guest Bracelet | Silver Guest Bracelet]]
+
+h2. Musical instruments
+
+* [[Pipes of Faunal Calling | Pipes of Faunal Calling]]
+
+h2. Other
+
+* [[Bone Dice | Bone Dice]]
+* [[Dragonborn Skull | Dragonborn Skull]]
+* [[Spoon of Digging | Spoon of Digging]]
+* [[The Fallowhurst Sigil | The Fallowhurst Sigil]]
+
+h2. Shield
+
+* [[The Unanswered Cry | The Unanswered Cry]]
+
+h2. Vehicle
+
+* [[Sindrel Coach | Sindrel Coach]]
+
+h2. Weapon
+
+* [[Anasthetic Scalpel | Anasthetic Scalpel]]
+* [[Knuckledusters | Knuckledusters]]
+* [[The Gentleman's Greeting | The Gentleman's Greeting]]
+* [[Hesh | Hesh]]
+* [[Oestra Effigy Blade | Oestra Effigy Blade]]
+* [[The Gonne | The Gonne]]
+
+<!-- GM_INFO_START -->
+h2. Clothing
+
+* [[Mask of Foreknowledge | Mask of Foreknowledge]]
+* [[The Shadow's Vestment | The Shadow's Vestment]]
+* [[The Shaper's Hands | The Shaper's Hands]]
+
+h2. Documents
+
+* [[Letter from Lord Oestra to Embren Oestra | Letter from Lord Oestra to Embren Oestra]]
+* [[Map of Fallowhurst College | Map of Fallowhurst College]]
+* [[Notes on Triffid Research | Notes on Triffid Research]]
+
+h2. Jewelry
+
+* [[The Amulet of Stars | The Amulet of Stars]]
+* [[The Crown of Shadows | The Crown of Shadows]]
+* [[The Red Mourning | The Red Mourning]]
+
+h2. Keys
+
+* [[Fallowhurst College Master Key | Fallowhurst College Master Key]]
+* [[Silas Oestra's Chamber Key | Silas Oestra's Chamber Key]]
+
+h2. Shield
+
+* [[Celæs | Celæs]]
+
+h2. Weapon
+
+* [[Gladius | Gladius]]
+* [[Swordbreaker | Swordbreaker]]
+
+h2. Other
+
+* [[Peaches of Immortality | Peaches of Immortality]]
+<!-- GM_INFO_END -->

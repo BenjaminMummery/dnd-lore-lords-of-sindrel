@@ -46,13 +46,13 @@ h2. Over the Edge
 
 _Afternoon of the 25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
-bq). As the [[:sindrel-coach | coach]] teeters on the edge of the cliff, a moment of stillness falls over the scene. With the echoes of the [[:commander-wake | Anathemist Commander]]'s weapon ringing in your ears, you have a chance to assess the battle. Two things become pressingly apparent.
+bq). As the [[Sindrel Coach | coach]] teeters on the edge of the cliff, a moment of stillness falls over the scene. With the echoes of the [[:commander-wake | Anathemist Commander]]'s weapon ringing in your ears, you have a chance to assess the battle. Two things become pressingly apparent.
 <br>
 First, this fight is not winnable - the [[Anathemists | Anathemists]] have you outnumbered with reinforcements incoming, and whatever that weapon is has just turned an experienced and heavily armoured warrior into a red mist in an instant.
 <br>
 Second, the coach's centre of gravity is too far out - one way or another it is going over the cliff. As it is, it will roll edgewise down the steep slope, dashing itself to splinters on the rocks and scree and almost certainly killing everyone within. If you manage to turn it there is a chance it will stay on its wheels, and small but promising chance that it will make it to the bottom intact.
 
-[[:silrie-aegiskiir | Silrie]] misty stepped from the top of the cliff to take the reigns of the [[:sindrel-coach | coach]] - even with the horses gone they could still be used to turn the front wheels, providing a modicum of steering. [[:ayr | Ayr]] leapt from the top of the cutting to be caught by [[:nakoma-deathwalker-mor-got-ha |Deathwalker]] (with some assistance from [[:wilrin-racenglade | Wilrin]]'s mage hand). [[:rossin-ros-greyhirst | Ros]] succeeded in tying a rope to the railing atop the coach, providing herself, [[:pin | Pin]], and [[:wilrin-racenglade | Wilrin]] with a way to secure themselves. These, combined with [[:amanira | Amanira]]'s use of ensnaring vines was sufficient to mitigate the descent of the coach, turning a death-drop into a survivable, if rough, ride. With the furious and despairing cries of the [[Anathemists | Anathemists]] and [[The Vermillion Company | Mercenaries]] respectively fading behind them, the [[:sindrel-coach | coach]] and all of its passengers went plunging over the edge of the cliff.
+[[:silrie-aegiskiir | Silrie]] misty stepped from the top of the cliff to take the reigns of the [[Sindrel Coach | coach]] - even with the horses gone they could still be used to turn the front wheels, providing a modicum of steering. [[:ayr | Ayr]] leapt from the top of the cutting to be caught by [[:nakoma-deathwalker-mor-got-ha |Deathwalker]] (with some assistance from [[:wilrin-racenglade | Wilrin]]'s mage hand). [[:rossin-ros-greyhirst | Ros]] succeeded in tying a rope to the railing atop the coach, providing herself, [[:pin | Pin]], and [[:wilrin-racenglade | Wilrin]] with a way to secure themselves. These, combined with [[:amanira | Amanira]]'s use of ensnaring vines was sufficient to mitigate the descent of the coach, turning a death-drop into a survivable, if rough, ride. With the furious and despairing cries of the [[Anathemists | Anathemists]] and [[The Vermillion Company | Mercenaries]] respectively fading behind them, the [[Sindrel Coach | coach]] and all of its passengers went plunging over the edge of the cliff.
 
 The coach came to rest at the bottom of the slope in a boggy marsh under sparse tree cover. Miraculously, injuries were minimal - the only notable casualties were [[:pthul | Pthul]] who was cradling an obviously broken arm, and [[:dulcinia-von-phthasia | Dulcinia]] who had fainted. Despite [[:pthul | Pthul]]'s insistence that he was fine and that all medical attention should be on [[:dulcinia-von-phthasia | Dulcinia]], [[:silrie-aegiskiir | Silrie]] did some sneaky healing on him.
 
@@ -121,7 +121,7 @@ One wall of the entrance hall was decorated with a brass version of the shield c
 
 h3. Preparation Room (B)
 
-The party follow the trail into the Preparation Room. Besides some rusted gurneys and preserved specimens, the only objects of interest are two articulated skeletons on metal stands - one elvish and the other dragonborn. [[:wilrin-racenglade | Wilrin]] purloined the dragonborn skull.
+The party follow the trail into the Preparation Room. Besides some rusted gurneys and preserved specimens, the only objects of interest are two articulated skeletons on metal stands - one elvish and the other dragonborn. [[:wilrin-racenglade | Wilrin]] purloined the [[Dragonborn Skull | dragonborn skull]].
 
 h3. Lecture Hall (C )
 
@@ -143,7 +143,7 @@ At the far end of the room, beneath three shattered windows, is displayed a fina
 
 Things did not go well _at all_ in the museum.
 
-It is here that [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] found part of the [[:map-of-fallowhurst-college-1 | Map of Fallowhurst College]]. From this they learned that the trail in the grime was leading to the Operating Theatre (D).
+It is here that [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] found part of the [[Map of Fallowhurst College | Map of Fallowhurst College]]. From this they learned that the trail in the grime was leading to the Operating Theatre (D).
 
 Examining the "displays" revealed the following:
 * Each body was accompanied by a "label" - small piece of wood with markings on it.

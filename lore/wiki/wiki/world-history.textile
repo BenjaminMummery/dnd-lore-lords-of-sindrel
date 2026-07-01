@@ -106,7 +106,7 @@ h2. *Campaign Timeline* - Year 4218 (_current year_)
     [accordion-item]
         [title] Enean (_9th Month_) [end-title]
         [content]
-            * In response to increasing [[Anathemists | Anathemist]] attacks, [[The Vermillion Company | The Vermillion Company]] under the command of [[:lacerta-kirrahe | Captain Kirrahe]] are hired to protect the [[:sindrel-coach | Sindrel Coach]].
+            * In response to increasing [[Anathemists | Anathemist]] attacks, [[The Vermillion Company | The Vermillion Company]] under the command of [[:lacerta-kirrahe | Captain Kirrahe]] are hired to protect the [[Sindrel Coach | Sindrel Coach]].
 
             *8th Enean*
             * [[:craftsman-shegrim | Craftsman Shegrim]], a high-level [[Factor | factor]] of [[House Mabon | House Mabon]], is commissioned anonymously to place a spell of reflection on an amulet. The amulet has _already_ been enchanted with a spell of reflection, causing the enchantment to rebound. In a city where magic is everywhere, he becomes a walking danger to everyone around him.
@@ -121,7 +121,7 @@ h2. *Campaign Timeline* - Year 4218 (_current year_)
             * The [[The Adventurers | The Adventurers]] meet at the [[The White Dragon Coaching Inn | White Dragon]]. They capture the ruffians [[:raymond-quill | Raymond]] and [[:gillette-quill | Gillette Quill]], and befriend [[:dulcinia-von-phthasia | Dulcinia von Phthasia]] and [[:pthul | Pthul]].
 
             *25th Enean*
-            * A force of [[Anathemists | Anathemists]] ambushes the [[:sindrel-coach | Sindrel Coach]]. [[:lacerta-kirrahe | Captain Kirrahe]] is slain by [[:commander-wake | the anathemist commander]] utilising an [[:the-gun | unknown weapon]].
+            * A force of [[Anathemists | Anathemists]] ambushes the [[Sindrel Coach | Sindrel Coach]]. [[:lacerta-kirrahe | Captain Kirrahe]] is slain by [[:commander-wake | the anathemist commander]] utilising an [[The Gonne | unknown weapon]].
             * Escaping the ambush, [[The Adventurers | The Adventurers]], [[:dulcinia-von-phthasia | Dulcinia]], [[:pthul | Pthul]], [[:raymond-quill | Raymond]] and [[:gillette-quill | Gillett]], and the merchants journey through [[Fallowhurst | Fallowhurst]].
             * [[:wilrin-racenglade | Wilrin Ravenglade]] and [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] are branded with [[The Fallowhurst Sigil | The Fallowhurst Sigil]]
             * The survivors of the ambush reach [[Fallowhurst Outpost | Fallowhurst Outpost]] and meet [[:sebastian-warwick | Private Sebastian Warwick]].

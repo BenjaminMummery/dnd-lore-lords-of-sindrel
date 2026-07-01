@@ -19,13 +19,17 @@ tags:
 <!-- OP_DESCRIPTION -->
 You see a woman who might be human or tiefling - dark hair, small horns easy to miss, an ornate star-amulet at her throat. Her face is calm, but sharp eyes peer into everything around her as if mentally dissecting its operation.
 
+h3. Key Items
+
+* [[The Amulet of Stars | The Amulet of Stars]]
+
 <!-- OP_BIO -->
 
 
 <!-- GM_INFO_START -->
-First of Mabon is the ancient head of [[House Mabon | House Mabon]] and one of the surviving [[The Octarion Circle | founders of Sindrel]]. Their symbolic item is [[:the-amulet-of-stars | The Amulet of Stars]].
+First of Mabon is the ancient head of [[House Mabon | House Mabon]] and one of the surviving [[The Octarion Circle | founders of Sindrel]]. Their symbolic item is [[The Amulet of Stars | The Amulet of Stars]].
 
-Unlike the other [[The Octarion Circle | founders]], First did not eat the [[:peaches-of-immortality | peaches of immortality]]. Instead, they attempted to reproduce the peaches' effects through enchantment. The result was not true bodily immortality, but preservation by artifice. The Amulet of Stars holds First's soul and life force, while their original body has long since decayed.
+Unlike the other [[The Octarion Circle | founders]], First did not eat the [[Peaches of Immortality | peaches of immortality]]. Instead, they attempted to reproduce the peaches' effects through enchantment. The result was not bodily immortality — vessels age and die as any mortal flesh would — but preservation of First's soul within the amulet while the original body decayed long ago.
 
 First continues by possessing the bodies of those who wear the amulet. These vessels are descendants, heirs, or specially prepared successors, allowing [[House Mabon | House Mabon]] to preserve continuity of rule while concealing the full horror of that continuity.
 

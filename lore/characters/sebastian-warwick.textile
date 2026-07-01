@@ -31,5 +31,5 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469931/ba348eb47975d34b
 
 *26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- Warwick records [[The Adventurers | the adventurers]]'s account of their journey in a [[:private-warwick-s-report | report]] for his superiors.
+- Warwick records [[The Adventurers | the adventurers]]'s account of their journey in a [[Private Warwick's Report | report]] for his superiors.
 - [[The Adventurers | The Adventurers]] depart for [[Sindrel | Sindrel]].

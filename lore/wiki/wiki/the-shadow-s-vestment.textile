@@ -1,0 +1,34 @@
+---
+op_slug: the-shadow-s-vestment
+op_kind: Wiki
+op_type: WikiPage
+name: The Shadow's Vestment
+title: The Shadow's Vestment
+op_gm_only: false
+tags:
+- item
+- clothing
+---
+
+The symbolic cloak of [[House Lithra | House Lithra]]. Founder effigies show a grey-robed figure; civic art of the Lithran founder has a strange habit of losing its features over time.
+
+<!-- GM_INFO_START -->
+Symbolic item of [[:ambassador-thrawne-lithra | Ambassador Thrawne Lithra]], founder of [[House Lithra | House Lithra]].
+
+Thrawne survived for centuries by becoming whatever a moment required — ambassador, confessor, stranger, threat. Each role was performed so completely that it remained. They can no longer recall their original face, true name, or history. The vestment is more than disguise: it is the symbol of a life worn in layers until the wearer can no longer be found.
+
+**Current holder:** [[:ambassador-thrawne-lithra | Ambassador Thrawne Lithra]].
+
+<div class="stat-block">
+<h3>The Shadow's Vestment</h3>
+<p><em>Wondrous item, artifact</em></p>
+<hr>
+<p><strong>Rarity</strong> Artifact<br>
+<strong>Attunement</strong> Required (founder or with DM approval)</p>
+<hr>
+<p><strong>Perfect mask.</strong> You can cast <em>disguise self</em> at will while wearing this cloak. Once per day, you can cast <em>alter self</em> without expending a spell slot.</p>
+<p><strong>Ambassador's mantle.</strong> While you are playing a defined role you have assumed with the vestment (spy, envoy, servant, etc.), you have advantage on Charisma (Deception) and Charisma (Persuasion) checks made to sustain that role.</p>
+<p><strong>Layered selves.</strong> You can imprint up to three distinct identities into the vestment. While wearing a stored identity, you gain proficiency in one skill associated with that persona if you lack it.</p>
+<p><strong>Detrimental — Erasure.</strong> Each time you finish a long rest attuned to this vestment, make a DC 15 Wisdom saving throw. On a failure, you forget one personal detail (name, face, relationship, or origin) of the DM's choice. Thrawne has failed this save so many times that no original self remains.</p>
+</div>
+<!-- GM_INFO_END -->

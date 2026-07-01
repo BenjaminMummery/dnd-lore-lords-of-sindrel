@@ -1,0 +1,37 @@
+---
+op_slug: the-cel-s
+op_kind: Wiki
+op_type: WikiPage
+name: Celæs
+title: Celæs
+op_gm_only: false
+tags:
+- item
+- shield
+---
+
+The symbolic tower shield of [[House Meness | House Meness]]. Founder effigies and the [[Osteomantic Archives | Osteomantic Archives]] show a dwarf in heavy armour with a colossal shield almost as tall as she is, its face inlaid with angular silver knotwork.
+
+<!-- GM_INFO_START -->
+Symbolic item of [[:general-alicia-meness | General Alicia Meness]], founder of [[House Meness | House Meness]].
+
+Alicia's abjuration adapts to every harm and never fully recedes — touch, heat, and hearing are already gone. Her shield has not failed; it has succeeded too completely.
+
+**Current holder:** [[:general-alicia-meness | General Alicia Meness]] (displayed with [[Swordbreaker | Swordbreaker]] behind her office desk; she relies on layered magic rather than steel in public).
+
+<div class="stat-block">
+<h3>Celæs</h3>
+<p><em>Armor (tower shield), artifact</em></p>
+<p><strong>AC</strong> +3<br>
+<strong>Properties</strong> Tower shield (you have disadvantage on attack rolls and Dexterity saving throws while wielding this shield)</p>
+<hr>
+<p><strong>Rarity</strong> Artifact<br>
+<strong>Attunement</strong> Required (founder or with DM approval)</p>
+<hr>
+<p>While wielding this shield, you gain a +3 bonus to AC. This bonus is in addition to the shield's normal AC.</p>
+<p><strong>Adaptive bulwark.</strong> The first time each round you take damage from a source you have not been damaged by since your last long rest, you reduce that damage by 2d10. After you do so, you have resistance to that damage type until you finish a long rest.</p>
+<p><strong>Aegis of the First Watch.</strong> While you wield this shield, allies within 10 feet of you gain a +1 bonus to AC.</p>
+<p><strong>Witness remembered.</strong> When a creature within 30 feet of you that you can see is reduced to 0 hit points, you know the damage type and school of magic (if any) of the killing blow.</p>
+<p><strong>Detrimental — Succeeded too completely.</strong> While you are attuned to this shield, resistances and immunities granted by its adaptive bulwark do not fade when you end attunement — they persist until removed by a wish spell or divine intervention. Each month attuned, the DM may call for a DC 15 Wisdom saving throw; on a failure, you lose sensitivity to one sense of the DM's choice (touch, heat, or sound) until the curse is broken.</p>
+</div>
+<!-- GM_INFO_END -->

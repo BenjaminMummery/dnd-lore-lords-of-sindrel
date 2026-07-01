@@ -76,7 +76,7 @@ A bored beaurocrat asked the new arrivals whether they had evidence of a patrona
 * Permanent residence requires house patronage. [[Adjutant | Adjutants]] wear gold bracelets; full [[Factor | Factors]] bear enchanted house tattoos.
 * As guests of the city, they may remain for 36 days.
 
-The clerk took the travellers names and gave each of them a silver bracelet. [[:hielaman | Captain Hielaman]]'s soldiers shepherded the queue toward the inner gate; gold bracelets and tattooed hands brushed past the newcomers in the ordinary jostle of "move along,".
+The clerk took the travellers names and gave each of them a [[Silver Guest Bracelet | silver bracelet]]. [[:hielaman | Captain Hielaman]]'s soldiers shepherded the queue toward the inner gate; gold bracelets and tattooed hands brushed past the newcomers in the ordinary jostle of "move along,".
 
 When raised, each bracelet displayed both a map and the number of days for which they may remain in the city. Having accepted these, they were permitted to enter the city proper. [[:dulcinia-von-phthasia | Dulcinia]] and [[:pthul | Pthul]] parted company with the group - the former heading directly to the [[Houses of Healing | Houses of Healing]] while the latter made for [[The Pointed Hat | The Pointed Hat]].
 
@@ -97,7 +97,7 @@ In disguise as "Fenton Woofrunner", Ayr infiltrated a soiree of nobles. From tal
 
 He also made the acquaintance of the host, [[:emissary-halan | Emissary Halan]] of [[House Lithra | House Lithra]].
 
-On the way out he stole a [[:spoon-of-digging | tea spoon]]. Later, in tinkering with the tea spoon, he unlocked its abilities of digging.
+On the way out he stole a [[Spoon of Digging | tea spoon]]. Later, in tinkering with the tea spoon, he unlocked its abilities of digging.
 
 h3. [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]]
 
@@ -110,7 +110,7 @@ h3. [[:pin | Pin]]
 
 h3. [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]]
 
-Ros accompanied [[:silrie-aegiskiir | Silrie]] to the [[Temple of the Dawn Father | Temple of the Dawn Father]]. While Silrie prayed, Ros found a local market - a [[House Mabon | House Mabon]] Journeyman fair. There she purchased a [[:pipes-of-faunal-calling | set of pan flutes]].
+Ros accompanied [[:silrie-aegiskiir | Silrie]] to the [[Temple of the Dawn Father | Temple of the Dawn Father]]. While Silrie prayed, Ros found a local market - a [[House Mabon | House Mabon]] Journeyman fair. There she purchased a [[Pipes of Faunal Calling | set of pan flutes]].
 
 h3. [[:silrie-aegiskiir | Silrie Aegiskiir]]
 
@@ -120,7 +120,7 @@ After a period of meditation, they were able to sense something close to the con
 
 h3. [[:wilrin-racenglade | Wilrin Ravenglade]]
 
-[[:wilrin-racenglade | Wilrin]] had rather more luck than [[:pin | Pin]] in locating a magical shop.  From a bin of random items he got a a skin bag containing a set of polyhedral dice carved out of bone. In asking the shopkeep about spellcasting foci, he learned that [[The Heptade Academy | The Heptade Academy]] is known to use such things for their more powerful but less controlled students, although entry to such is restricted to [[Adjutant | Adjutants]] and [[Factor | Factors]].
+[[:wilrin-racenglade | Wilrin]] had rather more luck than [[:pin | Pin]] in locating a magical shop. From a bin of random items he got a skin bag containing [[Bone Dice | a set of polyhedral dice carved out of bone]]. In asking the shopkeep about spellcasting foci, he learned that [[The Heptade Academy | The Heptade Academy]] is known to use such things for their more powerful but less controlled students, although entry to such is restricted to [[Adjutant | Adjutants]] and [[Factor | Factors]].
 
 h2. The [[Hexine Circle | Hexine Circle]]
 

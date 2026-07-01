@@ -1,0 +1,17 @@
+---
+op_slug: fallowhurst-college-master-key
+op_kind: Wiki
+op_type: WikiPage
+name: Fallowhurst College Master Key
+title: Fallowhurst College Master Key
+op_gm_only: true
+tags:
+- item
+- key
+---
+
+A heavy iron master key to the interior doors of [[Fallowhurst College | Fallowhurst College]]. It opens most administrative and residential locks in the ruined college; some suites (including [[:embren-oestra | Embren Oestra]]'s) may require their own keys.
+
+The party did not recover it on their first visit. It remains somewhere in the college for a return expedition.
+
+**Current holder:** At [[Fallowhurst College | Fallowhurst College]] (not yet found by [[The Adventurers | the Wonch]]).

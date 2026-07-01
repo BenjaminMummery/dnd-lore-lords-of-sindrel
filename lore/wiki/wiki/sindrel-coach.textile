@@ -1,0 +1,17 @@
+---
+op_slug: sindrel-coach
+op_kind: Wiki
+op_type: WikiPage
+name: Sindrel Coach
+title: Sindrel Coach
+op_gm_only: false
+tags:
+- item
+- vehicle
+---
+
+A large, double-levelled stagecoach that conveyed travellers between [[The White Dragon Coaching Inn | the White Dragon Coaching Inn]] and [[Sindrel | Sindrel]] along [[The Mage Road | the Mage Road]].
+
+On the 25th of Enean 4218 SC the coach was ambushed by [[Anathemists | Anathemists]], teetered over a cliff after [[:lacerta-kirrahe | Captain Kirrahe]] was slain, and was sent over the edge with [[The Adventurers | the Wonch]] aboard. It came to rest in a bog at the foot of the slope. The party cannibalised its remains to build a wheelbarrow for [[:dulcinia-von-phthasia | Dulcinia]]'s luggage and the coach gold.
+
+**Current holder:** Destroyed / abandoned at the [[The Mage Road | Mage Road]] cutting (25 Enean 4218 SC).

@@ -1,0 +1,35 @@
+---
+op_slug: swordbreaker
+op_kind: Wiki
+op_type: WikiPage
+name: Swordbreaker
+title: Swordbreaker
+op_gm_only: false
+tags:
+- item
+- weapon
+---
+
+The personal shortsword of [[House Meness | House Meness]]'s founder, depicted beside [[Celæs | Celæs]] on effigies in the [[Osteomantic Archives | Osteomantic Archives]] and [[The Fulcrum | the Fulcrum]] mural. The back of the blade bears notched *swordbreaker* teeth — a fighter's tool for catching and ruining an opponent's steel, distinct from the tower shield that serves as the House's symbolic regalia.
+
+<!-- GM_INFO_START -->
+Personal weapon of [[:general-alicia-meness | General Alicia Meness]], not her formal symbol of office — that role belongs to [[Celæs | Celæs]]. Swordbreaker is the blade she carried in her adventuring days, before layered abjuration made armour redundant.
+
+Alicia no longer wears steel in public; she relies on adaptive magic that learns from every harm and never fully recedes. The sword and shield of her youth are displayed together on the wall behind her office desk.
+
+**Current holder:** [[:general-alicia-meness | General Alicia Meness]] (office display; not carried in public).
+
+<div class="stat-block">
+<h3>Swordbreaker</h3>
+<p><em>Weapon (shortsword), very rare</em></p>
+<p><strong>Damage</strong> 1d6 piercing<br>
+<strong>Properties</strong> Finesse, light</p>
+<hr>
+<p><strong>Rarity</strong> Very rare<br>
+<strong>Attunement</strong> Required</p>
+<hr>
+<p>You have a +2 bonus to attack and damage rolls made with this magic weapon.</p>
+<p><strong>Swordbreaker teeth.</strong> When you hit a creature with a melee attack using this weapon, you can force the target to make a DC 16 Strength saving throw. On a failed save, the target drops one melee weapon it is holding of your choice.</p>
+<p><strong>Adaptive ward.</strong> While you are attuned to this weapon, the first time each round you take damage from a source you have not been damaged by since your last long rest, you reduce that damage by 1d8. This property echoes the founder's abjuration at a fraction of its full power.</p>
+</div>
+<!-- GM_INFO_END -->

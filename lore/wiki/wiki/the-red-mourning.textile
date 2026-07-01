@@ -1,0 +1,39 @@
+---
+op_slug: the-red-mourning
+op_kind: Wiki
+op_type: WikiPage
+name: The Red Mourning
+title: The Red Mourning
+op_gm_only: true
+tags:
+- item
+- jewelry
+---
+
+The symbolic ring of [[The Eighth House | House Samhain]]. A silver band set with a magnificent jet-black stone. Depicted in surviving founder art where Samhain is not erased from civic memory.
+
+Public history treats the ring as a relic of the fallen House. A connection to it also lingers in the [[Quarantine Zone | Quarantine Zone]], where fragments of Samhain's domain still lie sealed.
+
+<!-- GM_INFO_START -->
+Symbolic item of [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]], founder of [[The Eighth House | House Samhain]]. The stone was later modified to hold a fragment from [[Thanismot | Thanismot]].
+
+Samhain was already immortal as a vampire and did not eat the [[Peaches of Immortality | peaches of Zotikó]]. The ring is not a portal or rift-key. It is a tool of remembrance and a way to call to the dead.
+
+**Current holder:** [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]] (in [[Thanismot | Thanismot]], since the Seven sealed the rift behind her).
+
+Note: not married to this, think about it more later.
+
+<div class="stat-block">
+<h3>The Red Mourning</h3>
+<p><em>Ring, artifact</em></p>
+<hr>
+<p><strong>Rarity</strong> Artifact<br>
+<strong>Attunement</strong> Required (founder or with DM approval)</p>
+<hr>
+<p><strong>Stone of Thanismot.</strong> The jet-black gem holds a fragment tied to [[Thanismot | Thanismot]]. While attuned, you have advantage on saving throws against necrotic damage and effects that would drain life force or maximum hit points.</p>
+<p><strong>Remembrance.</strong> When you touch a corpse, you learn its name, approximate time of death, and the emotional tenor of its last conscious moment.</p>
+<p><strong>Call the mournful dead.</strong> You can cast <em>speak with dead</em> at will, requiring no spell slot or material components. The corpse need not have a mouth; the stone asks, and memory answers.</p>
+<p><strong>Answer the fallen (1/day).</strong> You can cast <em>raise dead</em> without material components on a creature that has been dead no longer than 100 years, provided some fragment of its body or soul remains reachable from your plane.</p>
+<p><strong>Detrimental — Grief that answers.</strong> While attuned in a region thick with death magic (including [[Thanismot | Thanismot]] and the [[Quarantine Zone | Quarantine Zone]]), hostile undead within 1 mile are drawn toward you unless you succeed on a DC 16 Wisdom saving throw at dawn each day.</p>
+</div>
+<!-- GM_INFO_END -->

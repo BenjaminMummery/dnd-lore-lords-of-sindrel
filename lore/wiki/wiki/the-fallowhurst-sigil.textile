@@ -9,14 +9,18 @@ op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-fallowhurst-
 op_created_at: '2026-01-14T11:06:05Z'
 op_updated_at: '2026-01-14T18:17:09Z'
 op_gm_only: false
-tags: []
+tags:
+- item
+- wondrous
 ---
 
 [[File:1544264  | class=media-item-align-right | 600px | fallowhurst_sigil.jpeg]]
 
 A magic circle forming part of a binding spell. An incomplete version was found on the blackboard in the Lecture Hall of [[Fallowhurst College | Fallowhurst College]].
 
-[[:wilrin-racenglade | Wilrin Ravenglade]] attempted to use the sigil by employing [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]]'s blood. The discharge branded both with matching sigil scars - on Wilrin's face and Deathwalker's back.
+[[:wilrin-racenglade | Wilrin Ravenglade]] attempted to use the sigil by employing [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]]'s blood. The discharge branded both with matching sigil scars — on Wilrin's face and Deathwalker's back.
+
+**Current holders:** The binding links [[:wilrin-racenglade | Wilrin Ravenglade]] and [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] (permanent scars; incomplete circle remains on the [[Fallowhurst College | college]] blackboard).
 
 <!-- GM_INFO_START -->
 h2. The Binding

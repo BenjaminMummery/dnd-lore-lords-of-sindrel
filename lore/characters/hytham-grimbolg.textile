@@ -18,12 +18,15 @@ tags:
 
 <!-- OP_DESCRIPTION -->
 
+h3. Key Items
+
+* [[The Shaper's Hands | The Shaper's Hands]]
 
 <!-- OP_BIO -->
 
 
 <!-- GM_INFO_START -->
-Hytham Grimbolg is the ancient head of [[House Grimbolg | House Grimbolg]] and one of the surviving [[House Oestra | founders]] of [[Sindrel | Sindrel]]. His symbolic item is [[:the-shaper-s-hands | The Shaper's Hands]], and the colour of his House is green.
+Hytham Grimbolg is the ancient head of [[House Grimbolg | House Grimbolg]] and one of the surviving [[House Oestra | founders]] of [[Sindrel | Sindrel]]. His symbolic item is [[The Shaper's Hands | The Shaper's Hands]], and the colour of his House is green.
 
 Hytham began as a creator in the truest Grimbolg sense: someone who saw transformation not merely as utility, but as art. To shape matter was to reveal possibility. To grow food, raise structures, alter substances, and improve the world was a creative act. Centuries of civic necessity have consumed that joy.
 

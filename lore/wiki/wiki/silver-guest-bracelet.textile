@@ -1,0 +1,19 @@
+---
+op_slug: silver-guest-bracelet
+op_kind: Wiki
+op_type: WikiPage
+name: Silver Guest Bracelet
+title: Silver Guest Bracelet
+op_gm_only: false
+tags:
+- item
+- jewelry
+---
+
+A silver band issued to visitors entering [[Sindrel | Sindrel]] without Great House patronage. When raised, it displays a map of the city and the number of days remaining on the wearer's authorised stay.
+
+[[The Adventurers | The Wonch]] received silver bracelets on arrival (26 Enean 4218 SC) with **36 days** to find a patron or leave.
+
+<!-- GM_INFO_START -->
+Binding at the inner gate — spoken name, putting on the band, brief contact with an attuned gold bracelet or [[Factor | Factor]] tattoo — completes a ritual visitors rarely recognise as magic.
+<!-- GM_INFO_END -->

@@ -1,0 +1,19 @@
+---
+op_slug: peaches-of-immortality
+op_kind: Wiki
+op_type: WikiPage
+name: Peaches of Immortality
+title: Peaches of Immortality
+op_gm_only: true
+tags:
+- item
+- consumable
+---
+
+Fruit of [[Zotikó | Zotikó]], the world of Vitality. When the original SiNDReG expedition briefly opened a way to that realm, seven of the eight researchers each consumed a peach, extending their lifespans indefinitely.
+
+The eighth founder, [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]], was already a vampire and did not partake. [[:first-of-mabon | First of Mabon]] declined the peaches and pursued artificial immortality instead via [[The Amulet of Stars | The Amulet of Stars]].
+
+No peaches are known to remain. Public history claims the founders died a millennium ago; in truth the peach-eaters survive behind House machinery.
+
+**Current holder:** None (consumed circa founding of [[Sindrel | Sindrel]]).

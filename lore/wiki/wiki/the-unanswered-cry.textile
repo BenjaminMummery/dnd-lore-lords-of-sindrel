@@ -1,0 +1,37 @@
+---
+op_slug: the-unanswered-cry
+op_kind: Wiki
+op_type: WikiPage
+name: The Unanswered Cry
+title: The Unanswered Cry
+op_gm_only: false
+tags:
+- item
+- shield
+---
+
+An elaborate buckler taken from the lead corpse at the [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]] in the outward [[Osteomantic Archives | Osteomantic Archives]]. The dead wore the dark robes and [[House Samhain | House Samhain]] neck amulets of a devotional circle who worshipped the [[The Gods | Queen of Ravens]] in her aspect as vengeful reaper. They died calling for vengeance — _Avenge Us_ — when the Eighth House fell.
+
+Sculpted wings lie close and compact on the bearer's arm until battle calls them open.
+
+Once donned, the buckler cannot be removed by ordinary means. [[:ayr | Ayr]] has dreamed of wings and rivers of blood beneath the upper city's streets.
+
+**Current holder:** [[:ayr | Ayr]].
+
+<div class="stat-block">
+<h3>The Unanswered Cry</h3>
+<p><em>Armor (shield), rare (requires attunement)</em></p>
+<p><strong>AC</strong> +2<br>
+<strong>Properties</strong> Does not occupy a hand</p>
+<hr>
+<p><strong>Rarity</strong> Rare<br>
+<strong>Attunement</strong> Required</p>
+<hr>
+<p><strong>Wingfold.</strong> While you are out of combat, the shield appears as wing-sculptured bands clasped to your forearm. When you roll initiative or enter combat, it unfurls into a full buckler. You gain the AC bonus while the shield is worn, whether furled or unfurled.</p>
+<p><strong>Unanswered grip.</strong> The shield cannot be removed willingly unless you succeed on a DC 15 Wisdom saving throw. On a failure, you cannot attempt again until you finish a long rest.</p>
+<p><strong>Cry for vengeance.</strong> While you wear this shield, you are drawn toward vengeance for the unjustly slain. When you learn of a concrete wrong that fits that charge, you must succeed on a DC 14 Wisdom saving throw or feel compelled to pursue vengeance if a reasonable path exists. You have advantage on checks made to uncover the perpetrators of such wrongs.</p>
+</div>
+
+<!-- GM_INFO_START -->
+Archive caretakers may attempt to return this buckler to "the relevant collection" if the party revisit the Samhain strata (see [[Osteomantic Archives | Osteomantic Archives]] GM).
+<!-- GM_INFO_END -->

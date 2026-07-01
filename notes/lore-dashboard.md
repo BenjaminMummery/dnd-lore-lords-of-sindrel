@@ -1,6 +1,6 @@
 # Lore dashboard
 
-_Auto-generated on 2026-07-01 18:05. Open [lore-dashboard.html](lore-dashboard.html) for charts._
+_Auto-generated on 2026-07-01 22:20. Open [lore-dashboard.html](lore-dashboard.html) for charts._
 
 ## Current date (Session 11)
 
@@ -16,6 +16,15 @@ _Auto-generated on 2026-07-01 18:05. Open [lore-dashboard.html](lore-dashboard.h
 ## Party wealth
 
 - Level 3 - Comfortable
+
+## Days remaining in Sindrel (Session 11 (31st Enean 4218 SC))
+
+- ~31 of 36 days
+
+## The Gentleman's Greeting
+
+- 2 stored charge(s)
+- as of Session 11, 31st Enean 4218 SC — 1 at delivery on 30th Enean; +1 at each dawn since
 
 ## PC & faction mention proportions
 

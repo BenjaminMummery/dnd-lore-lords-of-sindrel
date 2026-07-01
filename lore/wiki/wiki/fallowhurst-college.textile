@@ -73,7 +73,7 @@ If he *is* present, pick a location and activity; he does not need to seek the p
 | 3 | Orchard / greenhouses | Tending [[Triffid | triffids]]; avoids [[:tama | Tama]] |
 | 4 | Operating Theatre (D) | Chanting at the bench; "lecturing" the skeleton audience |
 | 5 | Museum (E) | Adjusting labels or preparing a new display |
-| 6 | Embren's Suite (X) or Laboratory (K) | Reading [[:letter-from-lord-oestra-to-embren-oestra | Lord Oestra's letter]]; feeding the [[Triffid | triffid]] |
+| 6 | Embren's Suite (X) or Laboratory (K) | Reading [[Letter from Lord Oestra to Embren Oestra | Lord Oestra's letter]]; feeding the [[Triffid | triffid]] |
 
 When the party do encounter him: shallow phrases from his former life ("We'll get that fixed right up." "The best care on the continent."). Given opportunity, he attempts to strap a victim down in the Operating Theatre and resume the binding procedure. He may stalk the rear of the marching order rather than attack openly; if denied a subject for long enough, he grows desperate and attempts abduction. When killed, bound scholar-skeletons rebuild themselves over several minutes.
 
@@ -99,10 +99,10 @@ Originally ornamental, later repurposed for medicinal herb beds. Dangers include
 
 h3. Items of Importance
 
-* [[:map-of-fallowhurst-college | Map of Fallowhurst College]]
-* [[:letter-from-lord-oestra-to-embren-oestra | Letter from Lord Oestra]] - Embren's Suite (X)
-* [[:notes-on-triffid-research | Notes on Triffid Research]] - Laboratory or Specimen Room
-* [[:fallowhurst-college-master-key | Fallowhurst College Master Key]]
+* [[Map of Fallowhurst College | Map of Fallowhurst College]]
+* [[Letter from Lord Oestra to Embren Oestra | Letter from Lord Oestra]] - Embren's Suite (X)
+* [[Notes on Triffid Research | Notes on Triffid Research]] - Laboratory or Specimen Room
+* [[Fallowhurst College Master Key | Fallowhurst College Master Key]]
 
 h3. Museum (E)
 

@@ -1,0 +1,34 @@
+---
+op_slug: the-crown-of-shadows
+op_kind: Wiki
+op_type: WikiPage
+name: The Crown of Shadows
+title: The Crown of Shadows
+op_gm_only: false
+tags:
+- item
+- jewelry
+---
+
+The symbolic circlet of [[House Beltus | House Beltus]]. Founder art shows a mithril circlet at the brow; in [[The Fulcrum | the Fulcrum]] mural it is picked out in electrum among the Seven.
+
+<!-- GM_INFO_START -->
+Symbolic item of [[:high-summoner-nial-beltus | High Summoner Nial Beltus]], founder of [[House Beltus | House Beltus]].
+
+[[House Beltus | House Beltus]] believes in command — call, bind, name, bargain, dismiss. Nial conjured workers, soldiers, and slaves on an industrial scale for centuries. The crown marks sovereignty over the unseen; his curse is that every command left an answer behind, and the suffering of the summoned now crowds his own mind.
+
+**Current holder:** [[:high-summoner-nial-beltus | High Summoner Nial Beltus]].
+
+<div class="stat-block">
+<h3>The Crown of Shadows</h3>
+<p><em>Wondrous item, artifact</em></p>
+<hr>
+<p><strong>Rarity</strong> Artifact<br>
+<strong>Attunement</strong> Required (founder or with DM approval)</p>
+<hr>
+<p><strong>Sovereignty of the circle.</strong> When you cast a conjuration spell that summons or creates creatures, the spell's level is treated as 2 higher for the purpose of determining how many creatures appear or the CR of a single summoned creature (maximum CR 10).</p>
+<p><strong>Bound answer.</strong> Creatures you summon with a conjuration spell must succeed on a DC 18 Wisdom saving throw at the end of each of their turns or obey one verbal command you issue that round. On a success, they act freely until the end of their next turn.</p>
+<p><strong>Shadow coronation.</strong> You have advantage on Charisma checks made to bargain with, command, or intimidate fiends, fey, and elementals.</p>
+<p><strong>Detrimental — Echoed torment.</strong> While attuned, you hear the voices of beings you have summoned. You have disadvantage on Constitution saving throws to maintain concentration on spells unless you have summoned at least one creature within the last hour. After a century of industrial conjuration, Nial no longer passes this save reliably without aid.</p>
+</div>
+<!-- GM_INFO_END -->

@@ -1,0 +1,18 @@
+---
+op_slug: pipes-of-faunal-calling
+op_kind: Wiki
+op_type: WikiPage
+name: Pipes of Faunal Calling
+title: Pipes of Faunal Calling
+op_gm_only: false
+tags:
+- item
+- musical instrument
+- wondrous
+---
+
+A set of pan flutes sold at a [[House Mabon | House Mabon]] journeyman fair near the [[Temple of the Dawn Father | Temple of the Dawn Father]]. They carry a minor enchantment that allows a beast who has heard their song once to hear it from any distance and instantly know the location of the player.
+
+[[:rossin-ros-greyhirst | Ros]] purchased them on the 28th of Enean 4218 SC while [[:silrie-aegiskiir | Silrie]] prayed at the temple.
+
+**Current holder:** [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]].

@@ -18,10 +18,15 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457450/WhatsApp_Image_2
 <!-- OP_DESCRIPTION -->
 A young, quiet warrior seeking community, purpose and answers: does his sword contain the spirit of his dead friend, or is he losing his mind?
 
-<!-- OP_BIO -->
-Sold into slavery before he’d even learned to speak, the boy was in his early teens before knowing the warmth of family and kinship. On the run after lashing out and killing his master, he stole away with a band of mercenaries, the Black Bloods, and was soon enamoured with their life of battle, bloodshed, gambling and carousing. They gave him a name, his first: Pin, so called for his keen wit and tactical mind, hidden beneath a slim stature and quiet demeanour. 
+h3. Key Items
 
-In an ever deepening quest for power and coin, their charismatic leader, Killig, pushed his men down dark and dangerous paths. The group splintered when he sold their skills to a mad king who tasked them with aiding in the quelling of a rebel uprising. Despite misgivings, Pin owed everything to Killig, and he and his close friend Essen made a blood oath to stay until the bitter end. 
+* [[Hesh | Hesh]]
+* [[Silver Guest Bracelet | Silver Guest Bracelet]]
+
+<!-- OP_BIO -->
+Sold into slavery before he’d even learned to speak, the boy was in his early teens before knowing the warmth of family and kinship. On the run after lashing out and killing his master, he stole away with a band of mercenaries, the Black Bloods, and was soon enamoured with their life of battle, bloodshed, gambling and carousing. They gave him a name, his first: Pin, so called for his keen wit and tactical mind, hidden beneath a slim stature and quiet demeanour.
+
+In an ever deepening quest for power and coin, their charismatic leader, Killig, pushed his men down dark and dangerous paths. The group splintered when he sold their skills to a mad king who tasked them with aiding in the quelling of a rebel uprising. Despite misgivings, Pin owed everything to Killig, and he and his close friend Essen made a blood oath to stay until the bitter end.
 
 That end came soon enough on the field of battle.
 
@@ -43,7 +48,7 @@ h3. The sword
 
 Carries a plain longsword with old, careful maintenance - a soldier's blade, not a noble's showpiece. The guard bears worn knotwork that might be [[House Meness | Meness]] law-runes if you know what to look for.
 
-Pin's longsword is a **misplaced Meness archive piece**, not a family heirloom or recent purchase.
+Pin's longsword is a **misplaced Meness archive piece** — see [[Hesh | Hesh]].
 
 * **Origin:** An adjutant officer's sidearm from the first century of [[Sindrel | Sindrel]] - commissioned when [[House Meness | House Meness]] still lent witness-weapons to the [[Osteomantic Archives | Osteomantic Archives]] for the *Hall of the First Watch* (founding-era law officers and garrison dead). Catalogue mark filed under Meness, not Samhain.
 * **How Pin has it:** Left circulation centuries ago (battlefield recovery, lost-property chit never closed, or a contractor "temporary loan" that outlived everyone who signed). Pin acquired it **before the campaign** - treat as player backstory unless you establish otherwise in play.
@@ -55,6 +60,8 @@ h4. Repowering (future thread)
 Restoration needs **Sindrel-scale magic** plus **knowledge of the original inscription** (Panopticon records, Alicia's displayed adventuring arms, or a caretaker's catalogue rubbings). Possible collaborators: [[:hielaman | Hielaman]] (Meness procedure), [[:kelferria-the-smith | Kelferria]] (metalwork channel), archive caretaker (correct shelf blessing).
 
 When repowered, aim for a **single clear benefit** - e.g. once per long rest, reduce damage from one weapon hit by a die step, or on first hit taken in combat gain resistance to that damage type until end of next turn (Meness "learns the blow"). Do not mirror [[:general-alicia-meness | Alicia]]'s full adaptation.
+
+Soul-trap impressions (confirmed / possible / ruled out): see [[Hesh | Hesh]] GM *Impression log*.
 
 h4. Distinction - Fallowhurst sigil
 

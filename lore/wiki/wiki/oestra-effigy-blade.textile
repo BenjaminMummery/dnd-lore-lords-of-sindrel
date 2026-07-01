@@ -1,0 +1,25 @@
+---
+op_slug: oestra-effigy-blade
+op_kind: Wiki
+op_type: WikiPage
+name: Oestra Effigy Blade
+title: Oestra Effigy Blade
+op_gm_only: false
+tags:
+- item
+- weapon
+---
+
+The silver greatsword set in the hands of the [[House Oestra | House Oestra]] founder effigy in the Hall of Founders, [[Osteomantic Archives | Osteomantic Archives]] — part of the statuary. Cold ornamental weight: no edge worth speaking of, no balance a fighter would trust, no evocation.
+
+[[:nakoma-deathwalker-mor-got-ha | Deathwalker]] pried it from the figure's grip in Session 8 and wrapped cloth around the distinctive cross-guard and hilt to hide the house geometry.[1]
+
+**Current holder:** [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]].
+
+fn1. [[Session 8: The Dark Shrine | Session 8]]
+
+<!-- GM_INFO_START -->
+A pale imitation of [[Gladius | Gladius]] — silver inset on pale stone, not a blade meant ever to be drawn.
+
+Archive caretakers may attempt to return this sword to the Oestra effigy's hands (see [[Osteomantic Archives | Osteomantic Archives]] GM).
+<!-- GM_INFO_END -->

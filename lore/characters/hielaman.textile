@@ -22,6 +22,10 @@ A gruff half-elf with short-cropped hair. His knuckles bear the scars of frequen
 
 Hielaman carries a kite shield and short-sword. He speaks gruffly and authoritatively - a man accustomed to command.
 
+h3. Key Items
+
+* [[Private Warwick's Report | Private Warwick's Report]] (official custody)
+
 <!-- OP_BIO -->
 Hielaman is a [[Factor | Factor]] of [[House Meness | House Meness]]. He fulfills a role similar to 'captain of the guard'.
 
@@ -29,7 +33,7 @@ Hielaman is a [[Factor | Factor]] of [[House Meness | House Meness]]. He fulfill
 
 - An explosion is observed on the plane outside [[Sindrel | Sindrel]]. Hielaman and his squad are dispatched via portal to investigate.
 - On arrival, they encounter the aftermath of [[The Adventurers | The Neighbourhood Wonch]]'s conflict with a small force of [[Anathemists | Anathemists]].
-- Hielaman takes custody of the surviving [[:arise-to-victory-over-the-infidel-hoards | Anathemist Lieutenant]], receives the [[:private-warwick-s-report | report]] of [[:sebastian-warwick | Private Sebastian Warwick]], and escorts [[The Adventurers | the Wonch]] back to [[Sindrel | Sindrel]].
+- Hielaman takes custody of the surviving [[:arise-to-victory-over-the-infidel-hoards | Anathemist Lieutenant]], receives the [[Private Warwick's Report | report]] of [[:sebastian-warwick | Private Sebastian Warwick]], and escorts [[The Adventurers | the Wonch]] back to [[Sindrel | Sindrel]].
 
 *28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 

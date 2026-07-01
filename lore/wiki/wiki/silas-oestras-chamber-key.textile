@@ -1,0 +1,19 @@
+---
+op_slug: silas-oestras-chamber-key
+op_kind: Wiki
+op_type: WikiPage
+name: Silas Oestra's Chamber Key
+title: Silas Oestra's Chamber Key
+op_gm_only: true
+tags:
+- item
+- key
+---
+
+Personal key to [[:silas-oestra | Silas Oestra]]'s chambers within the [[House Oestra | Oestra Leageur]], usable via the [[Osteomantic Archives | archive]] route as well as conventional doors.
+
+During the [[Ditchquer | Ditchquer]] closing ceremony, [[:barnabus | Barnabus]] pickpocketed this key and passed it to [[:arouraios | Arouraios]] (disguised as a coachman). [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] collected it, entered with [[:nielsenn | Nielsenn]]'s locksmith skills and false [[House Oestra | Oestra]] armour, copied classified files from Silas's rooms, and stole what they could not copy. The breach is tied to [[Anathemists | Anathemist]] knowledge of [[Kosmios | Kosmios]].
+
+Silas noticed the loss later and had the lock reissued; he did not search thoroughly until after further intelligence pointed to a high-level breach. He now knows the theft was through **his** custody but will not volunteer that fact.
+
+**Current holder:** Unknown — likely with the departed conspirators ([[:georges-de-selve | Georges de Selve]] / [[:jean-de-dinteville | Jean de Dinteville]]). Silas carries a **replacement** key.

@@ -67,7 +67,7 @@ A dwarf woman in heavy armour stands square to the room, hair cropped short abov
 <br>
 The eighth niche is wrong. There is no statue - only a bare plinth, a drift of fine grey dust at its foot, and scorch-pitting on the rear wall as if something inside the stone had been unmade in an instant. A few flecks of silver glitter in the dust.
 
-[[:nakoma-deathwalker-mor-got-ha | Deathwalker]] took the silver greatsword from the Oestra figure's hands. It came away with a dull scrape; she wrapped cloth around the distinctive cross-guard and hilt until the house geometry was hidden. The blade had no edge worth speaking of and no balance a fighter would trust - cold ceremonial weight, useful only as loot or display.
+[[:nakoma-deathwalker-mor-got-ha | Deathwalker]] took the [[Oestra Effigy Blade | silver greatsword]] from the Oestra figure's hands. It came away with a dull scrape; she wrapped cloth around the distinctive cross-guard and hilt until the house geometry was hidden. The blade had no edge worth speaking of and no balance a fighter would trust — the dead weight of statuary, useful only as loot or display.
 
 Behind the necromancy sigil lay a colossal diorama:
 
@@ -93,7 +93,7 @@ Beyond lay a massacre around a makeshift [[Shrine of the Queen of Ravens | shrin
 
 Daubed on the wall in ancient blood: _AVENGE US._
 
-The party looted what they could. [[:ayr | Ayr]] took an elaborate buckler from the lead corpse's wrist and found he could not remove it.
+The party looted what they could. [[:ayr | Ayr]] took an elaborate buckler from the lead corpse's wrist — later known as [[The Unanswered Cry | The Unanswered Cry]] — and found he could not remove it.
 
 h2. Emergence
 

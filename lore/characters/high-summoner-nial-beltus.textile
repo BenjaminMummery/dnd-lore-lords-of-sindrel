@@ -18,12 +18,15 @@ tags:
 
 <!-- OP_DESCRIPTION -->
 
+h3. Key Items
+
+* [[The Crown of Shadows | The Crown of Shadows]]
 
 <!-- OP_BIO -->
 
 
 <!-- GM_INFO_START -->
-High Summoner Nial Beltus is the ancient head of [[House Beltus | House Beltus]] and one of the surviving [[The Octarion Circle | founders]] of [[Sindrel | Sindrel]]. His symbolic item is [[:the-crown-of-shadows | The Crown of Shadows]], and the colour of his House is yellow, although this is typically styled as gold.
+High Summoner Nial Beltus is the ancient head of [[House Beltus | House Beltus]] and one of the surviving [[The Octarion Circle | founders]] of [[Sindrel | Sindrel]]. His symbolic item is [[The Crown of Shadows | The Crown of Shadows]], and the colour of his House is yellow, although this is typically styled as gold.
 
 Nial's power was built on conjuration at a scale no ordinary Caller could imagine. For centuries, he commanded, bound, bargained with, and exploited beings drawn from elsewhere. [[House Beltus | House Beltus]]'s great civic works rely on the idea that the summoned can be controlled, contracted, and made useful.
 

@@ -1,0 +1,60 @@
+---
+op_slug: hesh
+op_kind: Wiki
+op_type: WikiPage
+name: Hesh
+title: Hesh
+op_gm_only: false
+tags:
+- item
+- weapon
+---
+
+A plain longsword with old, careful maintenance — a soldier's blade, not a noble's showpiece. The guard bears worn knotwork.
+
+[[:pin | Pin]] took the sword from a battlefield after the death of his friend Essen. Pin believes that Essen's voice sometimes whispers from the steel. Whether that is spirit, curse, or madness is unresolved.
+
+**Current holder:** [[:pin | Pin]].
+
+<!-- GM_INFO_START -->
+Formal name: **Hjársvar** (*the edge that answers*). Centuries of lexical drift have rendered this as "Hesh".
+
+Meness **witness-weapon** — an adjutant sidearm from the founding era, filed for the *Hall of the First Watch*. The House enchantment had two layers:
+
+1. **Abjuration (active):** turn aside the first harm each day; remember the force that struck — a crude echo of founder-tier adaptation.
+2. **Soul-trap (passive / archival):** an echo of those slain by the blade remain within it. Meness intended this as an analogue of a modern body-cam: even the dead could be called to provide testimony. Impressions were meant to be read at the Archives beside the arms on the rack.
+
+A millennium outside [[Sindrel | Sindrel]]'s magical density has **drained the abjuration to mundane steel**. The soul-trap may still be **latent** — dormant, fragmentary, or misfiring. Pin’s vision on picking up the sword (executioner’s blow on Essen) may be the last impression stored in the blade; Essen’s whispers may be misheard playback, grief, or a partial imprint from his death near the steel — leave unresolved in play.
+
+Archive caretakers treat it as **overdue** (chit 1-W/0412). Repowering needs Sindrel-scale magic plus the original inscription / shelf blessing. See [[:pin | Pin]] GM block.
+
+Unrelated to the [[The Fallowhurst Sigil | Fallowhurst sigil]] Pin asked shops about in Session 4.
+
+h4. Soul-trap trigger (GM)
+
+An impression is stored when **Hesh deals a lethal blow with drawn steel in earnest** — slashing or piercing, not bludgeoning improvised violence. Mercy kills, constructs, undead without a soul to trap, and animals do not register. Shared finishes count only if Pin's blow was the one that ended the target; if unclear at the table, leave *possible* until confirmed.
+
+Playback is fragmentary while the enchantment is depowered: flashes of sight, intent, the strike — not full testimony. Essen's whispers may be the oldest imprint, misheard playback, grief, or a partial imprint from his death near the steel.
+
+h4. Impression log (through Session 11)
+
+*Confirmed*
+
+* **Essen's executioner** (pre-campaign) — Pin's vision on picking up the blade: a giant of a figure, features lost in shadow, Hesh brought down on Essen's neck. Pin did not wield the sword. Treat as the **last full impression** stored before Pin acquired Hesh; may explain Essen's voice.
+
+*Possible* — Pin fought in these scenes; logs never name Hesh or attribute killing blows to Pin. Confirm or strike at the table if soul-trap matters.
+
+* **Anathemist patrol** ([[Session 3: "Graduation" | Session 3]], 26 Enean) — most of the patrol slain; Pin "brought down another by targeting the mount." Rider's fate and whether Pin's longsword finished anyone are unstated.
+* **Animated scholars** ([[Session 3: "Graduation" | Session 3]], 25 Enean) — two skeletons destroyed at the college; Pin was outside for part of the fight. Undead may not register even if Pin struck the killing blow.
+
+*Not counted* — ruled out or no Pin kill credited in canon.
+
+* **Wounded horse** ([[Session 4: Sindrel! | Session 4]]) — Pin slew it; animal, not soul-trap material.
+* **[[:zalatan | Zalatan]]** ([[Session 7: Into The Catacombs | Session 7]]) — Pin helped finish the undead beholder; shared finish, no edged kill attributed to Pin.
+* **Beltus pest-control constructs** ([[Session 10: Shakes Spear in the Park | Session 10]]) — no kills credited to Pin; constructs regardless.
+* **Mage Road ambush** ([[Session 1: The White Dragon | Session 1]] / [[Session 2: Fallowhurst | Session 2]]) — Pin nearly died; party escaped without a logged body count from Pin.
+
+*Unknown / track forward*
+
+No further lethal Hesh kills are recorded in published logs after Session 11. Add entries here as play confirms them.
+<!-- GM_INFO_END -->

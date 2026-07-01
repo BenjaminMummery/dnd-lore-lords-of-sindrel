@@ -1,0 +1,34 @@
+---
+op_slug: mask-of-foreknowledge
+op_kind: Wiki
+op_type: WikiPage
+name: Mask of Foreknowledge
+title: Mask of Foreknowledge
+op_gm_only: true
+tags:
+- item
+- clothing
+---
+
+The symbolic mask of [[House Goela | House Goela]]. Founder art shows a hooded figure in an eyeless bronze or silver mask — distance from ordinary perception made literal.
+
+<!-- GM_INFO_START -->
+Symbolic item of [[:farseer-sybera-goela | Farseer Sybera Goela]], founder of [[House Goela | House Goela]].
+
+Sybera can no longer distinguish past, present, or future. [[House Goela | House Goela]]'s public "triumvirate" of three masked seers exists partly so outsiders never speak with her directly and learn the truth. The other two interpreters are skilled diviners who take point on social contact and parse their charge's rambling.
+
+**Current holder:** [[:farseer-sybera-goela | Farseer Sybera Goela]] (worn; decoys wear matching masks).
+
+<div class="stat-block">
+<h3>Mask of Foreknowledge</h3>
+<p><em>Wondrous item, artifact</em></p>
+<hr>
+<p><strong>Rarity</strong> Artifact<br>
+<strong>Attunement</strong> Required (founder or with DM approval)</p>
+<hr>
+<p><strong>Timestream sight.</strong> You can cast <em>augury</em> at will. Once per day, you can cast <em>divination</em> without expending a spell slot.</p>
+<p><strong>Foreknowledge.</strong> Once per short rest, you can ask the DM one question about events that may occur within the next 24 hours. The answer is truthful but may be symbolic, as if seen through running water.</p>
+<p><strong>Unmoored from now.</strong> You have advantage on initiative rolls. You can see faint after-images of actions a creature took in the previous round and intends in the next, granting you advantage on one attack roll per turn against that creature.</p>
+<p><strong>Detrimental — Oracle's blur.</strong> You have disadvantage on Dexterity saving throws and on Wisdom saving throws to distinguish vision, prophecy, and memory. Sybera can no longer tell past, present, and future apart without interpreter aid.</p>
+</div>
+<!-- GM_INFO_END -->

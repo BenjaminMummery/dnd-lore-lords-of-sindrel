@@ -18,5 +18,9 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457462/WhatsApp_Image_2
 <!-- OP_DESCRIPTION -->
 A woman with pale skin and ice-coloured eyes, and silver-grey hair. Olive green and brown leather armour with feathered shoulder details - a ranger's kit worn with the confidence of someone who has already decided where the arrow goes.
 
-<!-- OP_BIO -->
+h3. Key Items
 
+* [[Pipes of Faunal Calling | Pipes of Faunal Calling]]
+* [[Silver Guest Bracelet | Silver Guest Bracelet]]
+
+<!-- OP_BIO -->

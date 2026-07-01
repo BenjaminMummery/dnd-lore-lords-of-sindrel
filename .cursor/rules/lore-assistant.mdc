@@ -277,6 +277,35 @@ Reference implementations: `lore/characters/pthul.textile`, `lore/characters/emb
 
 Optional *Traits*, *Reactions*, and *Legendary Actions* sections use `<p><strong>Name.</strong> …</p>` or `<h4>` subheadings inside the same `.stat-block` div. Other GM prose may precede or follow the stat block.
 
+### Wiki weapon items (`tags: weapon`)
+
+On wiki item pages tagged **`weapon`**, add a 5e-style stat block after the opening lore paragraph. Use the same `<div class="stat-block">` wrapper as NPC stats. Reference: `anasthetic-scalpel.textile`, `the-gonne.textile`, `the-gladius.textile`.
+
+**Skeleton:**
+
+```html
+<div class="stat-block">
+<h3>Item name</h3>
+<p><em>Weapon category (e.g. martial melee weapon, martial ranged weapon)</em></p>
+<p><strong>Damage</strong> …<br>
+<strong>Properties</strong> …</p>
+<hr>
+<p><strong>Rarity</strong> …<br>
+<strong>Attunement</strong> …</p>
+<hr>
+<p><strong>Special property.</strong> …</p>
+</div>
+```
+
+- **Magic weapons** — state rarity and attunement; use *Weapon (type), rarity* on the type line when helpful.
+- **Mundane weapons** — omit rarity; note origin (e.g. Anathemist) in prose or a trait.
+- **Special properties** — one `<p><strong>Name.</strong> …</p>` per ability; match canon from sessions or NPC stat blocks where the item already appeared.
+- Do not duplicate inner `<h3>` titles when the page title is already the item name (same rule as faction `h3.` stat blocks).
+
+### Founder symbolic items (GM stat blocks)
+
+The eight House regalia (plus [[The Red Mourning | The Red Mourning]] for Samhain) are **artifact**-tier items. Stat blocks live in each item page's `GM_INFO` block — not on public item blurbs. Tie abilities to the founder's curse and House philosophy; include at least one **Detrimental** property reflecting the millennium-long affliction. Personal founder gear that is not regalia (e.g. [[Swordbreaker | Swordbreaker]]) stays lower rarity. Reference: `the-gladius.textile`, `the-cel-s.textile`, `the-amulet-of-stars.textile`.
+
 ### Wiki encounter building (multi-stat factions)
 
 On wiki pages with faction combat stats (e.g. `anathemists.textile`, `the-black-cats.textile`), use **`h2. Encounter building`** in the GM block:
@@ -358,7 +387,7 @@ When a **new adventure log** is added or a session recap is substantially update
 **Campaign status** (player-facing `h3. Campaign status`, before Timeline):
 - One italic `_Through Session N (date SC)._` line — **canonical** session marker for player-facing status (do not duplicate under Party Wealth).
 - **Current date** and **As of session** on the lines below the italic.
-- **Days remaining in Sindrel** under `h4.` as `**~N days** (silver guest bracelets)` when the count changes in play.
+- **Days remaining in Sindrel** under `h3.` or `h4.` as `**~N days** (silver guest bracelets)` when the count changes in play.
 - These fields feed **`notes/lore-dashboard.html`** via `scripts/generate_lore_dashboard.py` (also run by pre-commit on commit).
 
 **Faction clocks** (GM-only block):

@@ -92,12 +92,12 @@ h3. 29 Enean 4218
 ** Hall of Dragons; [[:kithrak-ii | Kithrak II]] adopted; Hall of Sages; Crossroads; [[:zalatan | Zalatan]] slain ([[Session 7: Into The Catacombs | Session 7]])
 ** Hall of the Founders; silver sword taken from Oestra statue ([[Session 8: The Dark Shrine | Session 8]])
 ** Skeleton diorama; lost in natural tunnels ([[Session 8: The Dark Shrine | Session 8]])
-** [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]]; buckler taken ([[Session 8: The Dark Shrine | Session 8]])
+** [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]]; [[The Unanswered Cry | The Unanswered Cry]] taken ([[Session 8: The Dark Shrine | Session 8]])
 * *Evening* - Emerge at [[House Oestra | Oestra Leageur]]; [[:commander-locke | Locke]] debrief; [[Radwasp House | Radwasp House]] keys passed (Hexine Circle / Lithra) ([[Session 8: The Dark Shrine | Session 8]] / [[Session 9: Downtime 2 | Session 9]])
 
 h3. 30 Enean 4218
 
-* *Morning through afternoon* - Downtime errands - shopping, knuckle-dusters, Kelferria quote pending, letters, temple vision ([[Session 9: Downtime 2 | Session 9]])
+* *Morning through afternoon* - Downtime errands - shopping, [[Knuckledusters | knuckle-dusters]], Kelferria quote pending, letters, temple vision ([[Session 9: Downtime 2 | Session 9]])
 * *Evening* - [[Radwasp House | Radwasp House]]; buckler dreams; [[The Heptade Academy | Heptade Academy]] acceptance ([[Session 9: Downtime 2 | Session 9]])
 
 h3. 31 Enean 4218
@@ -128,13 +128,13 @@ h3. Current standing
 
 **Wealth level:** <span style="background:#fff9c4;padding:3px 8px;border-radius:3px;color:#f57f17;">3 — Comfortable</span>
 
-Pthul's escort fee and [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s gambling win lifted the party out of *Scraping by*. Session 9 errands — clothes, [[:silrie-aegiskiir | Silrie]]'s knuckle-dusters, [[:journeyman-galoras | Galoras]]'s delivered sword — cost something, but [[:kelferria-the-smith | Kelferria]]'s plate quote is still outstanding and no deposit has been paid. [[Radwasp House | Radwasp House]] and the investigation brief cover lodging and many day-to-day costs, so disposable income goes further than the raw purse suggests.
+Pthul's escort fee and [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s gambling win lifted the party out of *Scraping by*. Session 9 errands — clothes, [[:silrie-aegiskiir | Silrie]]'s [[Knuckledusters | knuckle-dusters]], [[:journeyman-galoras | Galoras]]'s delivered [[The Gentleman's Greeting | The Gentleman's Greeting]] — cost something, but [[:kelferria-the-smith | Kelferria]]'s plate quote is still outstanding and no deposit has been paid. [[Radwasp House | Radwasp House]] and the investigation brief cover lodging and many day-to-day costs, so disposable income goes further than the raw purse suggests.
 
 *Pending:* Formal quote from [[:kelferria-the-smith | Kelferria the Smith]] for [[:ayr | Ayr]]'s plate — accepting it would likely require a deliberate party decision and may move the wealth level.
 
 h3. Other assets
 
-* Silver guest bracelets
+* Silver [[Silver Guest Bracelet | guest bracelets]]
 * [[Radwasp House | Radwasp House]] — investigation base ([[:cedric | Cedric]]); [[House Lithra | Lithra]] property via [[Hexine Circle | Hexine Circle]] agreement
 * [[The Heptade Academy | Heptade Academy]] — provisional acceptance for [[:wilrin-racenglade | Wilrin]] (contingent on completing [[The Investigation | the investigation]])
 * Patronage promise from the [[Hexine Circle | Hexine Circle]] on successful completion of [[The Investigation | the investigation]]

@@ -19,12 +19,15 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7441229/lithra.jpg
 
 <!-- OP_DESCRIPTION -->
 
+h3. Key Items
+
+* [[The Shadow's Vestment | The Shadow's Vestment]]
 
 <!-- OP_BIO -->
 
 
 <!-- GM_INFO_START -->
-Ambassador Thrawne Lithra is the ancient head of [[House Lithra | House Lithra]] and one of the surviving [[The Octarion Circle | founders]] of [[Sindrel | Sindrel]]. Their symbolic item is [[:the-shadow-s-vestment | The Shadow's Vestment]], and the colour of their House is grey.
+Ambassador Thrawne Lithra is the ancient head of [[House Lithra | House Lithra]] and one of the surviving [[The Octarion Circle | founders]] of [[Sindrel | Sindrel]]. Their symbolic item is [[The Shadow's Vestment | The Shadow's Vestment]], and the colour of their House is grey.
 
 Thrawne is the supreme practitioner of [[House Lithra | House Lithra]]'s arts of illusion, disguise, meaning, diplomacy, and controlled perception. For centuries, they have survived by becoming whatever a moment required: ambassador, lover, enemy, friend, monarch's confidant, servant, confessor, stranger, threat, comfort, witness, and lie.
 

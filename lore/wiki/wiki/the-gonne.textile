@@ -1,0 +1,27 @@
+---
+op_slug: the-gonne
+op_kind: Wiki
+op_type: WikiPage
+name: The Gonne
+title: The Gonne
+op_gm_only: false
+tags:
+- item
+- weapon
+---
+
+An [[Anathemists | Anathemist]] arquebus used on the [[The Mage Road | Mage Road]] ambush. It is mundane — clockwork, flint, and gunpowder, not sorcery — and shares its explosive family with the devices found beneath [[The Fulcrum | the Fulcrum]].
+
+**Current holder:** [[:commander-wake | the Anathemist Commander]] (at large).
+
+<div class="stat-block">
+<h3>The Gonne</h3>
+<p><em>Martial ranged weapon (Anathemist arquebus)</em></p>
+<p><strong>Damage</strong> 2d12 piercing<br>
+<strong>Properties</strong> Ammunition (range 80/320 ft.), loading, two-handed</p>
+<hr>
+<p><strong>Attunement</strong> None (mundane)</p>
+<hr>
+<p><strong>Overpressured round.</strong> Ammunition for this weapon is scarce and specially prepared. When you hit with an attack using this weapon, roll the damage dice twice and use either total.</p>
+<p><strong>Reload.</strong> After you fire, you must take an action to reload before you can fire again.</p>
+</div>

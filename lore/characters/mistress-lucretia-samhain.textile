@@ -20,13 +20,17 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7437630/1000025155.jpg
 <!-- OP_DESCRIPTION -->
 You see a tall, pale woman with straight black hair and an unsettling poise, dressed in black with crimson lining at the collar and cuffs. A dark gem catches the light at her hand. She looks as though she has not hurried in a very long time.
 
+h3. Key Items
+
+* [[The Red Mourning | The Red Mourning]]
+
 <!-- OP_BIO -->
 
 
 <!-- GM_INFO_START -->
-Mistress Lucretia Samhain is the ancient head of [[The Eighth House | House Samhain]] and one of the original [[The Octarion Circle | founders]] of [[Sindrel | Sindrel]]. Her House colour is black. Her symbolic item is [[:the-red-mourning | The Red Mourning]], a silver ring set with a magnificent jet black stone.
+Mistress Lucretia Samhain is the ancient head of [[The Eighth House | House Samhain]] and one of the original [[The Octarion Circle | founders]] of [[Sindrel | Sindrel]]. Her House colour is black. Her symbolic item is [[The Red Mourning | The Red Mourning]], a silver ring set with a magnificent jet black stone.
 
-Samhain was already immortal before the [[:peaches-of-immortality | peaches of Zotikó]] were stolen. As a vampire, she had no need of them, and so did not eat one.
+Samhain was already immortal before the [[Peaches of Immortality | peaches of Zotikó]] were stolen. As a vampire, she had no need of them, and so did not eat one.
 
 When the rift-control infrastructure was later repurposed for colonial ambitions, Samhain opposed the project. The Seven planned to lure her into [[Thanismot | Thanismot]] and stabilise the rift behind her, trapping her there and removing the only founder willing to resist [[Sindrel | Sindrel]]'s expansion. Samhain anticipated the betrayal. Loyal members of [[The Eighth House | House Samhain]] had already been moved into Thanismot. As the rift sealed behind her, she wove a spell around those of her House who remained in Sindrel. They died, denying the Seven access to necromantic expertise.
 

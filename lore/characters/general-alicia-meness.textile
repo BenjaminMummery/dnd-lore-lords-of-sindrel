@@ -22,11 +22,16 @@ General Meness is a compact dwarven woman with steel-grey hair. She wears the cr
 
 She wears no armour, but keen eyes catch the spider thead tracery of magical shimmer across her skin. She is the head of the house of protection magic, and clearly has more faith in her art than in steel and chain.
 
+h3. Key Items
+
+* [[Celæs | Celæs]]
+* [[Swordbreaker | Swordbreaker]]
+
 <!-- OP_BIO -->
 
 
 <!-- GM_INFO_START -->
-General Alicia Meness is the ancient head of [[House Meness | House Meness]] and one of the surviving [[The Octarion Circle | founders of Sindrel]]. Her symbolic item is the shield [[:the-cel-s | Celæs]] , and the colour of her House is white.
+General Alicia Meness is the ancient head of [[House Meness | House Meness]] and one of the surviving [[The Octarion Circle | founders of Sindrel]]. Her symbolic item is the shield [[Celæs | Celæs]] , and the colour of her House is white.
 
 Alicia's abjurative magic has become almost perfectly adaptive. It learns from every harm, every threat, every force brought against her, and alters itself to ensure that such a thing can never hurt her in the same way again.
 
@@ -39,9 +44,9 @@ Her shield has not failed. It has succeeded too completely.
 
 h2. Depictions
 
-In paintings and statues of the founders, Alicia Meness is shown as a female dwarf in heavy plate armour. She carries a tower shield almost taller than she is, and sword with swordbreaker teeth. Her hair is steel grey and pulled back into a sensible ponytail. She is stoic and solid.
+In paintings and statues of the founders, Alicia Meness is shown as a female dwarf in heavy plate armour. She carries a tower shield almost taller than she is, and [[Swordbreaker | a shortsword with swordbreaker teeth]]. Her hair is steel grey and pulled back into a sensible ponytail. She is stoic and solid.
 
 h2. Current Day
 
-She keeps the shield and sword of her adventuring days displayed on the wall behind her office desk.
+She keeps [[Celæs | Celæs]] and [[Swordbreaker | Swordbreaker]] — the shield and sword of her adventuring days — displayed on the wall behind her office desk.
 <!-- GM_INFO_END -->

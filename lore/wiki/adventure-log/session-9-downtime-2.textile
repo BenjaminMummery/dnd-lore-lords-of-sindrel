@@ -70,7 +70,7 @@ Yours,
 
 h3. [[:silrie-aegiskiir | Silrie Aegiskiir]]
 
-Silrie sought magical knuckle-dusters, then visited the [[Temple of the Dawn Father | Temple of the Dawn Father]]. In meditation they received an ominous vision warning of dangers on the road ahead.
+Silrie sought [[Knuckledusters | magical knuckle-dusters]], then visited the [[Temple of the Dawn Father | Temple of the Dawn Father]]. In meditation they received an ominous vision warning of dangers on the road ahead.
 
 h3. [[:amanira | Amanira]]
 
@@ -86,7 +86,7 @@ h3. [[:ayr | Ayr]]
 
 Always hunting for better gear, [[:ayr | Ayr]] met [[:kelferria-the-smith | Kelferria the Smith]] to discuss commissioning plate armour. She took his measurements and said she would send a formal quote in due course - she was already overworked by some large order, which is a detail worth remembering. No money changed hands; the Wonch have not yet decided whether to accept whatever she proposes.
 
-[[:journeyman-galoras | Journeyman Galoras]] called at [[Radwasp House | Radwasp House]] to deliver [[:ayr | Ayr]]'s new weapon: a force-multiplying sword that gathered a single charge each day and could, in principle, release considerably more power than any sane person ought to wield in a parlour.
+[[:journeyman-galoras | Journeyman Galoras]] called at [[Radwasp House | Radwasp House]] to deliver [[:ayr | Ayr]]'s new weapon: [[The Gentleman's Greeting | The Gentleman's Greeting]] — a force-multiplying blade that gathered a single charge each day and could, in principle, release considerably more power than any sane person ought to wield in a parlour.
 
 h3. [[:pin | Pin]]
 
@@ -106,7 +106,7 @@ Back at the townhouse, [[:cedric | Cedric]] had built a like-for-like miniature 
 
 A letter for [[:wilrin-racenglade | Wilrin]] announced provisional acceptance at [[The Heptade Academy | The Heptade Academy]], contingent on completion of the party's current investigation. Spurred by the news, Wilrin spent the evening in [[Radwasp House | Radwasp House]]'s magical training room practising control of the wild energies that coursed through him.
 
-[[:ayr | Ayr]] attempted to remove the buckler taken from the [[Shrine of the Queen of Ravens | shrine of the Queen of Ravens]] and found he could not. That night he dreamed of wings and rivers of blood running through the streets of the upper city - the vital fluids of the rich, pumping beneath pavements the poor were trodden into.
+[[:ayr | Ayr]] attempted to remove [[The Unanswered Cry | The Unanswered Cry]], taken from the [[Shrine of the Queen of Ravens | shrine of the Queen of Ravens]], and found he could not. That night he dreamed of wings and rivers of blood running through the streets of the upper city - the vital fluids of the rich, pumping beneath pavements the poor were trodden into.
 
 [[:amanira | Amanira]], deep in meditation, was visited by a cat.
 

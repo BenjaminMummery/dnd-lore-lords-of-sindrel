@@ -18,6 +18,9 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7440581/download.jpeg
 
 <!-- OP_DESCRIPTION -->
 
+h3. Key Items
+
+* [[The Gonne | The Gonne]]
 
 <!-- OP_BIO -->
 * 25th of Enean, 4218 [[The Soulwind Calendar | SC]]: Led the ambush of the coach to [[Sindrel | Sindrel]], bringing him into direct conflict with [[The Adventurers | the Adventurers]]. During this ill-fated assault, he killed the [[:lacerta-kirrahe | Captain]] of the [[The Vermillion Company | Vermillion Company]].

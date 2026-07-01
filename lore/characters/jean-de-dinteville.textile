@@ -19,7 +19,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469575/Ambassadors-Dint
 You see a large man in merchant's finery - tall, heavy-set, and built like someone who does his own lifting rather than paying porters.
 
 <!-- OP_BIO -->
-Travelled with [[The Adventurers | The Adventurers]] in [[:sindrel-coach | the Sindrel Coach]] from [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]. Following the [[Anathemists | Anathemist]] ambush, he continued to travel with the group until they reached [[Sindrel | Sindrel]].
+Travelled with [[The Adventurers | The Adventurers]] in [[Sindrel Coach | the Sindrel Coach]] from [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]. Following the [[Anathemists | Anathemist]] ambush, he continued to travel with the group until they reached [[Sindrel | Sindrel]].
 
 <!-- GM_INFO_START -->
 real name: Jean de Dinteville

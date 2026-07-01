@@ -35,7 +35,7 @@ Membership:
             <td>[[:farseer-sybera-goela | Farseer Sybera Goela]] (she/her)</td>
             <td>Divination</td>
             <td>A woman in a long hooded robe, her face concealed behind a mask with no eye holes. She is flanked by two identical figures.</td>
-            <td> The Mask of Foreknowledge.</td>
+            <td>[[Mask of Foreknowledge | The Mask of Foreknowledge]]</td>
             <td>Purple</td>
             <td>Can no longer distinguish past present or future. Her house masks this fact by concealing her among decoys, whose task is the interpret her ramblings.</td>
         </tr>
@@ -75,7 +75,7 @@ Membership:
             <td>[[:first-of-mabon | First of Mabon]] (they/them)</td>
             <td>Enchantment</td>
             <td>Tiefling of pale blue skin, their horns adorned with silver filigree. Their dress is reminiscent of a pirate swashbuckler - high trousers and a loose shirt, open enough to see the ornate amulet that hangs at their throat.</td>
-            <td>[[:the-amulet-of-stars | The Amulet of Stars]]</td>
+            <td>[[The Amulet of Stars | The Amulet of Stars]]</td>
             <td>Blue</td>
             <td>Unlike the others, 'first', as they were known, did not consume the peaches of immortality. Instead they attempted to replicate their effects via enchantment. They were partially successful, the amulet maintains their soul and life force, but their body decayed. They have persisted by possessing the body of each of the amulet's wearers. To the rest of the world, 'first' is a title. To [[House Mabon | house Mabon]], it is a name. They've been doing the Flemeth thing - having children only to possess the body of their descendent.</td>
         </tr>

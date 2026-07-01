@@ -1,0 +1,19 @@
+---
+op_slug: map-of-fallowhurst-college
+op_kind: Wiki
+op_type: WikiPage
+name: Map of Fallowhurst College
+title: Map of Fallowhurst College
+op_gm_only: true
+tags:
+- item
+- document
+---
+
+Floor plan of [[Fallowhurst College | Fallowhurst College]], bearing the legend "Fallowhurst College of Healing." A large framed map once hung in the inner lobby; only the ground floor remained legible even before the college fell.
+
+In the Museum, [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] recovered a partial section. It was enough to show that the grime trail through the entrance hall led to the Operating Theatre.[1]
+
+**Current holder:** [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] (partial map only).
+
+fn1. Session 2

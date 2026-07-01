@@ -16,14 +16,21 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457474/572fdc897647939e
 ---
 
 <!-- OP_DESCRIPTION -->
-Nakoma is a 8ft tall Goliath from one of the mountain clans. In looks she appears to be around mid 40s but she either will not tell people or does not remember her exact age. Her skin is a stony grey reminiscent of granite. She is covered in a collection of faded tattoos which have symbolic meaning to her clan but they have not been maintained so it appears that whichever clan she is/was a part of it has been a long time since she has been in contact with them. In addition to her tattoos she is covered in scars, some scars are small, but some are large an deadly looking. Her hair is made up of a combination of dreads and plaits with quills, feathers and metal adornments woven into them. Her manner of dress is similar to Native American warrirors, made of mostly leathers, and some bone pieces. 
+Nakoma is a 8ft tall Goliath from one of the mountain clans. In looks she appears to be around mid 40s but she either will not tell people or does not remember her exact age. Her skin is a stony grey reminiscent of granite. She is covered in a collection of faded tattoos which have symbolic meaning to her clan but they have not been maintained so it appears that whichever clan she is/was a part of it has been a long time since she has been in contact with them. In addition to her tattoos she is covered in scars, some scars are small, but some are large an deadly looking. Her hair is made up of a combination of dreads and plaits with quills, feathers and metal adornments woven into them. Her manner of dress is similar to Native American warrirors, made of mostly leathers, and some bone pieces.
 
 Since the 'incident' in Fallowhurst she also sports a sigil burned into the skin of her back which mirrors the one burnt into [[:wilrin-racenglade | Wilrin's]] eye.
 
-<!-- OP_BIO -->
-There have been varied sightings and mentions of Deathwalker over the last few decades. No one appears to know exactly where she is from or her exact age. It is unknown how many Deathwalkers there have been from the Mor'got'ha clan. Indeed there is some speculation that the Deathwalker line might have some relation to Deathbringer, one of the most mightiest warriors from ancient history who was pivotal in the battle against the necromantic [[The Thaumocracy of Tellerin | Tellerites]] for the description of Deathbringers tattoos have a familial resemblance to Deathwalkers, and indeed the entire Deathwalker line. If this is the case then Deathwalker is descended from what might be the Goliath equivalent of royalty. 
+h3. Key Items
 
-Deathwalker, herself, has only been recorded in a handful of major battles. The most recent being a rebel uprising against the Mad King where she brought devastation to the Mad Kings forces. Since then she has been sighted travelling, sometimes alone, sometimes within a small group but she never remains with any group too long. Her movements are sporadic but correlating the most recent sightings put her trajectory, like all pilgrims, towards Sindrel. 
+* [[Map of Fallowhurst College | Map of Fallowhurst College]] (partial)
+* [[Oestra Effigy Blade | Oestra Effigy Blade]]
+* [[Silver Guest Bracelet | Silver Guest Bracelet]]
+* [[The Fallowhurst Sigil | The Fallowhurst Sigil]] (bound — sigil scar)
+
+<!-- OP_BIO -->
+There have been varied sightings and mentions of Deathwalker over the last few decades. No one appears to know exactly where she is from or her exact age. It is unknown how many Deathwalkers there have been from the Mor'got'ha clan. Indeed there is some speculation that the Deathwalker line might have some relation to Deathbringer, one of the most mightiest warriors from ancient history who was pivotal in the battle against the necromantic [[The Thaumocracy of Tellerin | Tellerites]] for the description of Deathbringers tattoos have a familial resemblance to Deathwalkers, and indeed the entire Deathwalker line. If this is the case then Deathwalker is descended from what might be the Goliath equivalent of royalty.
+
+Deathwalker, herself, has only been recorded in a handful of major battles. The most recent being a rebel uprising against the Mad King where she brought devastation to the Mad Kings forces. Since then she has been sighted travelling, sometimes alone, sometimes within a small group but she never remains with any group too long. Her movements are sporadic but correlating the most recent sightings put her trajectory, like all pilgrims, towards Sindrel.
 
 Her most recent travelling companions seem to be an eclectic bunch.
 

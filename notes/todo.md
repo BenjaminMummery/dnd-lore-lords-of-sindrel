@@ -6,11 +6,10 @@ Repo-only. **Not synced to Obsidian Portal** (see `notes/README.md`).
 
 - [X] **Obsidian Portal CSS styling** - names on the characters page are too big; tune Custom CSS.
 - [ ] **Obsidian Portal CSS styling** - use emphasis colour for links. Maybe drop underlines?
-- [ ] **Statblocks for NPCs** - add stat blocks where appropriate.
-  - [ ] **Black Cats ranks** - review rank names (Strands, Counters, Gild, Vault); not settled.
-  - [x] **Zalatan** - `.stat-block` from beholder zombie base (catacombs).
-  - [x] **Quill brothers** ([[:gillette-quill | Gillette]] & [[:raymond-quill | Raymond]]) - bandit + bandit captain, rebalanced: one slim/fast, one large/strong; equally dangerous, different roles.
-  - [x] **Archive caretaker** - stat block(s) on `lore/wiki/wiki/osteomantic-archives.textile` under existing `h2. The Caretakers` → new `h2. Encounter building` (skeleton porter + senior arranger tiers; see GM prose there).
+- [ ] **Items → wiki pages** - migrate OP inventory items to syncable wiki pages tagged `item`.
+  - [x] Step 1: identify item links (`[[:slug | …]]` not in `characters/`), create wiki stubs, retarget links (see `notes/items-migration.md`).
+  - [x] Step 2: copy item body text from OP into each new wiki page.
+  - [ ] Step 3: delete old OP item pages; verify sync.
 
 ## From repo (inline `TODO:` markers)
 
@@ -23,6 +22,9 @@ Scanned `lore/**` - resolve in canon, then remove the inline marker (especially 
 ## Shelved
 
 - [Character descriptions](character-descriptions-todo.md) - paused; Phase 1 partial work in repo.
+- [ ] **Statblocks for NPCs** - paused; resume when ready.
+  - [ ] **Black Cats ranks** - review rank names (Strands, Counters, Gild, Vault); not settled.
+  - [x] Zalatan, Quill brothers, archive caretakers (drafts in repo).
 
 ## Scratch
 

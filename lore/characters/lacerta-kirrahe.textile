@@ -23,7 +23,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7440781/fef5e54185b45d48
 <!-- OP_BIO -->
 * *Enean of 4218 [[The Soulwind Calendar | SC]]*: [[The Vermillion Company | the Vermillion Company]] are hired by the proprietors of [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]] to protect the coach to [[Sindrel | Sindrel]].
 * *24th Enean 4218 [[The Soulwind Calendar | SC]]*: the captain is peripherally involved in the altercation between the [[The Adventurers | Adventurers]], [[:pthul | Pthul]], and the [[:gillette-quill | Quill]] [[:raymond-quill | brothers]].
-* *25th Enean 4218 SC*: During an [[Anathemists | Anathemist]] ambush of the [[:sindrel-coach | Sindrel coach]], the captain is shot and killed by [[:commander-wake | the Anathemist Leader]] using an unknown weapon.
+* *25th Enean 4218 SC*: During an [[Anathemists | Anathemist]] ambush of the [[Sindrel Coach | Sindrel coach]], the captain is shot and killed by [[:commander-wake | the Anathemist Leader]] using an unknown weapon.
 
 <!-- GM_INFO_START -->
 lacerta-kirrahe

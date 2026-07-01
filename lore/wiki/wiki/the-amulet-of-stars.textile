@@ -1,0 +1,35 @@
+---
+op_slug: the-amulet-of-stars
+op_kind: Wiki
+op_type: WikiPage
+name: The Amulet of Stars
+title: The Amulet of Stars
+op_gm_only: false
+tags:
+- item
+- jewelry
+---
+
+The symbolic relic of [[House Mabon | House Mabon]]. An ornate star-amulet of gleaming silver, depicted on founder effigies and the mural in [[The Fulcrum | the Fulcrum]].
+
+<!-- GM_INFO_START -->
+Symbolic item of [[:first-of-mabon | First of Mabon]], founder of [[House Mabon | House Mabon]].
+
+Unlike the other [[The Octarion Circle | founders]], First did not eat the [[Peaches of Immortality | peaches of immortality]]. They attempted to reproduce that immortality through enchantment instead. The amulet holds First's soul — not the wearer's. The original body decayed long ago; every vessel since has aged and died as any mortal flesh would. First persists by wearing the bodies of heirs and successors of [[House Mabon | House Mabon]], one life after another. Immortality, of a sort — bought at the cost of countless lives.
+
+**Current holder:** [[:first-of-mabon | First of Mabon]] (worn at the throat).
+
+<div class="stat-block">
+<h3>The Amulet of Stars</h3>
+<p><em>Wondrous item, artifact</em></p>
+<hr>
+<p><strong>Rarity</strong> Artifact<br>
+<strong>Attunement</strong> Required (founder, heir, or with DM approval)</p>
+<hr>
+<p><strong>Star-vessel.</strong> The amulet preserves the soul of First of Mabon. First's consciousness endures within the silver stars regardless of which body wears the chain. The amulet does not preserve flesh — only the soul.</p>
+<p><strong>Succession by wearing.</strong> A descendant or prepared successor of [[House Mabon | House Mabon]] who attunes to the amulet while First's soul occupies it must succeed on a DC 18 Wisdom saving throw or become a vessel. On a failed save, First's personality supplants their own. The vessel ages, sickens, and dies as any mortal body would; when it perishes, First's soul returns to the amulet until another body takes the chain.</p>
+<p><strong>Artifice immortality.</strong> First's soul cannot be destroyed while the amulet exists. It does not age, does not suffer disease, and does not die when a vessel perishes. This is not bodily immortality — it is continuity purchased one consumed life at a time.</p>
+<p><strong>First's insight.</strong> While First wears a vessel, they have advantage on Intelligence (Arcana) and Intelligence (Investigation) checks to understand how a device, enchantment, or mechanism functions.</p>
+<p><strong>Detrimental — Hollow succession.</strong> Each year a vessel bears the amulet on First's behalf, the host makes a DC 15 Charisma saving throw. On a failure, a fragment of a prior vessel's personality surfaces, imposing disadvantage on one Charisma check of the DM's choice until the host finishes a long rest. First has failed this save so many times that countless dead voices crowd every reflection.</p>
+</div>
+<!-- GM_INFO_END -->

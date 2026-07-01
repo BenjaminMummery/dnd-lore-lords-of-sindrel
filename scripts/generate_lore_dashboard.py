@@ -16,6 +16,7 @@ LOG_DIR = ROOT / "lore" / "wiki" / "adventure-log"
 OUT_MD = ROOT / "notes" / "lore-dashboard.md"
 OUT_HTML = ROOT / "notes" / "lore-dashboard.html"
 ADVENTURERS = ROOT / "lore" / "wiki" / "wiki" / "the-adventurers.textile"
+GREETING_ITEM = ROOT / "lore" / "wiki" / "wiki" / "the-gentlemans-greeting.textile"
 
 PRONOUN_TAGS = {
     "he/him",
@@ -421,7 +422,7 @@ def parse_adventurers() -> dict:
 
     summary = ""
     sm = re.search(
-        r"h4\. Current standing\s*\n\n\*\*Wealth level:\*\*.*?\n\n(.+?)(?=\n\*Pending:|\nh4\.)",
+        r"h[34]\. Current standing\s*\n+\*\*Wealth level:\*\*.*?\n\n(.+?)(?=\n\*Pending:|\nh[234]\.)",
         text,
         re.S,
     )
@@ -429,12 +430,12 @@ def parse_adventurers() -> dict:
         summary = strip_textile(sm.group(1).strip())
 
     pending = ""
-    pm = re.search(r"\*Pending:\*\s*(.+?)(?=\n\nh4\.)", text, re.S)
+    pm = re.search(r"\*Pending:\*\s*(.+?)(?=\n\nh[234]\.)", text, re.S)
     if pm:
         pending = strip_textile(pm.group(1).strip())
 
     assets: list[str] = []
-    am = re.search(r"h4\. Other assets\s*\n\n((?:\* .+\n?)+)", text)
+    am = re.search(r"h[34]\. Other assets\s*\n\n((?:\* .+\n?)+)", text)
     if am:
         for line in am.group(1).splitlines():
             if line.startswith("* "):
@@ -445,26 +446,28 @@ def parse_adventurers() -> dict:
     stay_as_of = ""
     stay_detail = ""
     stay_match = re.search(
-        r"h4\. Days remaining in Sindrel\s*\n\n\*\*~?(\d+)\s*days?\*\*(.*?)(?=\n\n_|\nh4\.)",
+        r"h[34]\. Days remaining in Sindrel\s*\n+\*\*~?(\d+)\s*days?\*\*(.*)",
         text,
         re.S | re.I,
     )
     if stay_match:
         stay_days = int(stay_match.group(1))
-        stay_detail = strip_textile(stay_match.group(2).strip())
+        detail_line = stay_match.group(2).strip().split("\n")[0]
+        stay_detail = strip_textile(detail_line)
     else:
         fallback = re.search(r"~(\d+)\s*days'? stay remaining", text, re.I)
         if fallback:
             stay_days = int(fallback.group(1))
 
     wealth_as_of = re.search(
-        r"h3\. Party Wealth\s*\n\n_Through Session (\d+) \(([^)]+)\)\._", text
+        r"h[23]\. Party Wealth\s*\n\n_Through Session (\d+) \(([^)]+)\)\._", text
     )
     if wealth_as_of:
         stay_as_of = f"Session {wealth_as_of.group(1)} ({wealth_as_of.group(2)})"
     else:
         status_as_of = re.search(
-            r"h3\. Campaign status\s*\n\n_Through Session (\d+) \(([^)]+)\)\._", text
+            r"h[23]\. Campaign status\s*\n\n_Through Session (\d+) \(([^)]+)\)\._",
+            text,
         )
         if status_as_of:
             stay_as_of = f"Session {status_as_of.group(1)} ({status_as_of.group(2)})"
@@ -537,6 +540,20 @@ def parse_adventurers() -> dict:
         "campaign": campaign,
         "factions": {"as_of": as_of, "entries": factions},
     }
+
+
+def parse_gentlemans_greeting_charges() -> dict:
+    if not GREETING_ITEM.exists():
+        return {}
+    text = GREETING_ITEM.read_text(encoding="utf-8")
+    m = re.search(
+        r"\*\*Stored charges:\*\*\s*(\d+)\s*(?:_\(([^)]+)\)_)?",
+        text,
+    )
+    if not m:
+        return {}
+    as_of = strip_textile(m.group(2).strip()) if m.group(2) else ""
+    return {"charges": int(m.group(1)), "as_of": as_of}
 
 
 def faction_chart_data(adventurers: dict) -> dict:
@@ -616,6 +633,7 @@ def markdown_summary(
     wealth: dict,
     stay: dict,
     campaign: dict,
+    greeting: dict,
     generated: str,
 ) -> str:
     counts = gender["counts"]
@@ -656,6 +674,17 @@ def markdown_summary(
                 "",
             ]
         )
+    if greeting.get("charges") is not None:
+        lines.extend(
+            [
+                "## The Gentleman's Greeting",
+                "",
+                f"- {greeting['charges']} stored charge(s)",
+            ]
+        )
+        if greeting.get("as_of"):
+            lines.append(f"- {greeting['as_of']}")
+        lines.append("")
     lines.extend(
         [
             "## PC & faction mention proportions",
@@ -883,6 +912,11 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       <section class="panel wealth-panel">
         <h2>Wonch wealth</h2>
         __WEALTH_BLOCK__
+      </section>
+
+      <section class="panel item-tracker-panel">
+        <h2>Gentleman's Greeting</h2>
+        __GREETING_BLOCK__
       </section>
     </div>
 
@@ -1189,6 +1223,23 @@ def wealth_block(wealth: dict) -> str:
     return badge + pending + detail
 
 
+def greeting_block(greeting: dict) -> str:
+    if greeting.get("charges") is None:
+        return '<p class="note">No charge data found.</p>'
+    charges = greeting["charges"]
+    label = "charge" if charges == 1 else "charges"
+    sub = f"stored {label} · +1 at dawn"
+    as_of = greeting.get("as_of") or ""
+    as_of_html = (
+        f'<div class="stat-sub">{html.escape(as_of)}</div>' if as_of else ""
+    )
+    return (
+        f'<div class="stay-number" style="color:#efe9e0">{charges}</div>'
+        f'<div class="stat-sub">{sub}</div>'
+        f"{as_of_html}"
+    )
+
+
 def faction_chart_height(count: int) -> int:
     return max(240, count * 26 + 32)
 
@@ -1201,6 +1252,7 @@ def render_html(
     wealth: dict,
     stay: dict,
     campaign: dict,
+    greeting: dict,
     generated: str,
 ) -> str:
     untagged_list = ""
@@ -1225,6 +1277,7 @@ def render_html(
         .replace("__DATE_BLOCK__", date_block(campaign))
         .replace("__STAY_BLOCK__", stay_block(stay))
         .replace("__WEALTH_BLOCK__", wealth_block(wealth))
+        .replace("__GREETING_BLOCK__", greeting_block(greeting))
         .replace("__GENDER_JSON__", json.dumps(gender))
         .replace("__MENTIONS_JSON__", json.dumps(mentions))
         .replace("__FACTION_MENTIONS_JSON__", json.dumps(faction_mentions))
@@ -1243,10 +1296,13 @@ def main() -> None:
     wealth = adventurers["wealth"]
     stay = adventurers["stay"]
     campaign = adventurers["campaign"]
+    greeting = parse_gentlemans_greeting_charges()
 
     OUT_MD.parent.mkdir(parents=True, exist_ok=True)
     OUT_MD.write_text(
-        markdown_summary(gender, mentions, faction, wealth, stay, campaign, generated),
+        markdown_summary(
+            gender, mentions, faction, wealth, stay, campaign, greeting, generated
+        ),
         encoding="utf-8",
     )
     OUT_HTML.write_text(
@@ -1258,6 +1314,7 @@ def main() -> None:
             wealth,
             stay,
             campaign,
+            greeting,
             generated,
         ),
         encoding="utf-8",

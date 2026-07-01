@@ -1,0 +1,35 @@
+---
+op_slug: the-gladius
+op_kind: Wiki
+op_type: WikiPage
+name: Gladius
+title: Gladius
+op_gm_only: false
+tags:
+- item
+- weapon
+---
+
+The symbolic longsword of [[House Oestra | House Oestra]]. Depicted on founder effigies and the mural in [[The Fulcrum | the Fulcrum]]. The silver greatsword on the Oestra effigy in the [[Osteomantic Archives | Osteomantic Archives]] is a pale imitation — see [[Oestra Effigy Blade | Oestra Effigy Blade]].
+
+<!-- GM_INFO_START -->
+Symbolic item of [[:lord-ablas-oestra | Lord Ablas Oestra]], founder of [[House Oestra | House Oestra]]. The real Gladius is borne by his retinue and is tied to the containment of his uncontrolled evocation.
+
+**Current holder:** [[:lord-ablas-oestra | Lord Ablas Oestra]] (carried by his retinue when he appears in public).
+
+<div class="stat-block">
+<h3>Gladius</h3>
+<p><em>Weapon (longsword), artifact</em></p>
+<p><strong>Damage</strong> 1d8 slashing (1d10 versatile)<br>
+<strong>Properties</strong> Versatile</p>
+<hr>
+<p><strong>Rarity</strong> Artifact<br>
+<strong>Attunement</strong> Required (founder or with DM approval)</p>
+<hr>
+<p>You have a +3 bonus to attack and damage rolls made with this magic weapon.</p>
+<p><strong>Founder's edge.</strong> When you hit with a melee attack using this weapon, the target takes an extra 3d6 fire damage.</p>
+<p><strong>Contained inferno.</strong> While you are attuned to this weapon and you cast a spell of 1st level or higher, each creature of your choice within 15 feet of you must succeed on a DC 19 Dexterity saving throw or take fire damage equal to twice the spell's level. This property reflects Ablas Oestra's evocation running beyond safe limits; he relies on containment armour to endure it.</p>
+<p><strong>Decree of ash (1/day).</strong> When you hit a creature with this weapon, you can command the stored fire to erupt. The target and each creature within 20 feet of it must make a DC 19 Dexterity saving throw, taking 8d6 fire damage on a failed save, or half as much on a successful one.</p>
+<p><strong>Detrimental — Furnace without a hearth.</strong> If you are attuned to this weapon and not wearing magical containment armour designed for Oestran evocation, you take 2d6 fire damage whenever you cast a spell of 1st level or higher.</p>
+</div>
+<!-- GM_INFO_END -->

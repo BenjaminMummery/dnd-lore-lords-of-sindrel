@@ -1,0 +1,23 @@
+---
+op_slug: letter-from-lord-oestra-to-embren-oestra
+op_kind: Wiki
+op_type: WikiPage
+name: Letter from Lord Oestra to Embren Oestra
+title: Letter from Lord Oestra to Embren Oestra
+op_gm_only: true
+tags:
+- item
+- document
+---
+
+bq). My Son,<br/><br/>
+Your continued reticence on this matter is a source of no little disappointment to me. I have borne your ongoing dabbles and fancies with a great deal of patience, but understand that my beneficence is not without limits, and nor is my purse.<br/><br/>
+Do not forget that the funding for your little college, your patronage with the Soulwind Institute, and your ongoing use of the Fallowhurst Estate are contingent entirely on my ongoing generosity, and represent a considerable investment on my part. An investment on which I expect returns rather more substantial than novel methods of fixing the maladies of a few common fishermen. And no, to address your last letter, I do not regard developing "promising new medicinal and food crops" as a satisfactory outcome. We are not farmers nor hedge doctors, we are _House Oestra_ - our station is to shape the destiny of this world and I will not see you squander your potential nor drag our name into disrepute by whiling away your time on these sideshows. The binding procedure is your opportunity to achieve something of note in this world, and if I must step in to save you from your own cowardice in this matter then so be it.<br/><br/>
+My business in Soulwind nears completion - I have assured both the Soulwind Institute Senate and the rest of the Octarion Circle that the procedure will be perfected in good time. I will be departing for Sindrel at the end of the month, and I expect to be greeted with good news when I break my journey in Fallowhirst. Otherwise, we shall have to discuss the future viability of your little endeavour.<br/><br/>
+Do not disappoint me.<br/><br/>
+*Lord Ablas Oestra*<br/><br/>
+_Impetus Est Optima Protectio_
+
+The letter is dated 14 Penderus 3715 — 503 years before the Wonch's visit. It remains in [[:embren-oestra | Embren Oestra]]'s suite (X) at [[Fallowhurst College | Fallowhurst College]].
+
+**Current holder:** At [[Fallowhurst College | Fallowhurst College]], Embren's Suite (X) (not yet recovered by [[The Adventurers | the Wonch]]).

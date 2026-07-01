@@ -17,7 +17,11 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2
 
 <!-- OP_DESCRIPTION -->
 h3. Key Items
-* [[:anasthetic-scalpel | Anasthetic Scalpel]]
+* [[Anasthetic Scalpel | Anasthetic Scalpel]]
+* [[Bone Dice | Bone Dice]]
+* [[Dragonborn Skull | Dragonborn Skull]]
+* [[Silver Guest Bracelet | Silver Guest Bracelet]]
+* [[The Fallowhurst Sigil | The Fallowhurst Sigil]] (bound — sigil scar)
 
 <!-- OP_BIO -->
 

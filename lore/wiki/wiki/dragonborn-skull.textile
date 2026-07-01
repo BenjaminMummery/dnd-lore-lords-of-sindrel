@@ -1,0 +1,17 @@
+---
+op_slug: dragonborn-skull
+op_kind: Wiki
+op_type: WikiPage
+name: Dragonborn Skull
+title: Dragonborn Skull
+op_gm_only: false
+tags:
+- item
+- other
+---
+
+The skull from an articulated teaching skeleton in the Preparation Room of [[Fallowhurst College | Fallowhurst College]]. The display paired an elven skeleton with a dragonborn one among rusted gurneys and preserved specimens.
+
+[[:wilrin-racenglade | Wilrin Ravenglade]] purloined it during the party's first visit on the 25th of Enean 4218 SC.
+
+**Current holder:** [[:wilrin-racenglade | Wilrin Ravenglade]].

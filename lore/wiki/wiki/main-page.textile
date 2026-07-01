@@ -17,7 +17,7 @@ h2. Quick Links:
 * [[The Adventurers | The Neighbourhood Wonch]]
 * [[The Investigation | The Investigation]]
 * [[World History | World History]]
-* "Items":https://thelordsofsindrel.obsidianportal.com/items
+* [[Items | Items]]
 * "Characters":https://thelordsofsindrel.obsidianportal.com/characters
 * [[The Gods | The Gods]]
 

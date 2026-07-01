@@ -1,0 +1,17 @@
+---
+op_slug: spoon-of-digging
+op_kind: Wiki
+op_type: WikiPage
+name: Spoon of Digging
+title: Spoon of Digging
+op_gm_only: false
+tags:
+- item
+- wondrous
+---
+
+A ordinary-looking tea spoon, enchanted so that it can excavate solid rock as easily as lift sugar (albeit in teaspoon-sized helpings).
+
+[[:ayr | Ayr]] stole it from a noble soiree in [[Sindrel | Sindrel]] while disguised as "Fenton Woofrunner" on the 28th of Enean 4218 SC. Later tinkering unlocked its digging properties.
+
+**Current holder:** [[:ayr | Ayr]].

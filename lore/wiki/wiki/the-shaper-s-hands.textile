@@ -1,0 +1,34 @@
+---
+op_slug: the-shaper-s-hands
+op_kind: Wiki
+op_type: WikiPage
+name: The Shaper's Hands
+title: The Shaper's Hands
+op_gm_only: false
+tags:
+- item
+- clothing
+---
+
+The symbolic gauntlets of [[House Grimbolg | House Grimbolg]]. Stone gloves of surprising delicacy, inscribed with arcane symbols — worn in founder statues with hands curled as if shaping clay.
+
+<!-- GM_INFO_START -->
+Symbolic item of [[:hytham-grimbolg | Hytham Grimbolg]], founder of [[House Grimbolg | House Grimbolg]].
+
+Hytham began as a creator who saw transmutation as art. Centuries feeding [[Sindrel | Sindrel]] narrowed that gift until output replaced beauty. The Shaper's Hands are no longer the hands of an artist; they are the hands of a city that must never stop eating.
+
+**Current holder:** [[:hytham-grimbolg | Hytham Grimbolg]] (worn).
+
+<div class="stat-block">
+<h3>The Shaper's Hands</h3>
+<p><em>Wondrous item, artifact</em></p>
+<hr>
+<p><strong>Rarity</strong> Artifact<br>
+<strong>Attunement</strong> Required (founder or with DM approval)</p>
+<hr>
+<p><strong>Grimbolg shaper.</strong> While wearing these gauntlets, you can cast <em>fabricate</em> once per day without expending a spell slot or material components, creating only common or mundane objects.</p>
+<p><strong>Transmuter's touch.</strong> As an action, you can touch a nonmagical object or volume of matter no larger than a 5-foot cube and transform it as if by <em>transmute rock</em> or <em>create food and water</em> (your choice). Once you use this property, you cannot use it again until the next dawn.</p>
+<p><strong>Abundance without beauty.</strong> Objects you create with these gauntlets are always serviceable and durable, but never merely decorative — a sculpture becomes a brace, a song arranges itself for labour rhythm, a garden lays out for yield.</p>
+<p><strong>Detrimental — Output over art.</strong> You cannot use these gauntlets to create something whose only purpose is aesthetic. Each time you use a property after the second in a single day, you must succeed on a DC 14 Constitution saving throw or gain one level of exhaustion.</p>
+</div>
+<!-- GM_INFO_END -->

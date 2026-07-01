@@ -1,0 +1,33 @@
+---
+op_slug: the-gentlemans-greeting
+op_kind: Wiki
+op_type: WikiPage
+name: The Gentleman's Greeting
+title: The Gentleman's Greeting
+op_gm_only: false
+tags:
+- item
+- weapon
+---
+
+A force-multiplying sword commissioned by [[:ayr | Ayr]] from [[:journeyman-galoras | Journeyman Galoras]] of [[House Mabon | House Mabon]] during the [[Hexine Circle | Hexine Circle]] investigation. Galoras spoke cryptically of "force multipliers"; the finished blade gathers a single charge each day and can release considerably more power than any sane person ought to wield in a parlour.
+
+[[:ayr | Ayr]] calls it *The Gentleman's Greeting*.
+
+Delivered to [[Radwasp House | Radwasp House]] on the 30th of Enean 4218 SC.
+
+**Current holder:** [[:ayr | Ayr]].
+
+**Stored charges:** 2 _(as of Session 11, 31st Enean 4218 SC — 1 at delivery on 30th Enean; +1 at each dawn since)_
+
+<div class="stat-block">
+<h3>The Gentleman's Greeting</h3>
+<p><em>Weapon (longsword), uncommon</em></p>
+<p><strong>Damage</strong> 1d8 slashing (1d10 versatile)<br>
+<strong>Properties</strong> Versatile</p>
+<hr>
+<p><strong>Rarity</strong> Uncommon<br>
+<strong>Attunement</strong> Not required</p>
+<hr>
+<p><strong>Stored charge.</strong> The sword gains one charge per day, at dawn. When you hit with a melee attack using this weapon, you can expend one or more charges. For each expended charge, roll the damage dice again and add their value to the total damage. There is no upper limit to the number of charges the sword may accumulate.</p>
+</div>

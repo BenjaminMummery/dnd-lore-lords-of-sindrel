@@ -1,0 +1,15 @@
+---
+op_slug: bone-dice
+op_kind: Wiki
+op_type: WikiPage
+name: Bone Dice
+title: Bone Dice
+op_gm_only: false
+tags:
+- item
+- wondrous
+---
+
+A skin bag containing a set of polyhedral dice carved from bone, bought from a bin of random curios in a [[Sindrel | Sindrel]] magical shop on the 28th of Enean 4218 SC. The shopkeep noted that [[The Heptade Academy | The Heptade Academy]] uses similar foci for students who need help channelling unstable magic — though academy entry is restricted to [[Adjutant | Adjutants]] and [[Factor | Factors]].
+
+**Current holder:** [[:wilrin-racenglade | Wilrin Ravenglade]].

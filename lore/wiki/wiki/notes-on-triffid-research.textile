@@ -1,0 +1,17 @@
+---
+op_slug: notes-on-triffid-research
+op_kind: Wiki
+op_type: WikiPage
+name: Notes on Triffid Research
+title: Notes on Triffid Research
+op_gm_only: true
+tags:
+- item
+- document
+---
+
+Research notes on [[Triffid | triffid]] cultivation at [[Fallowhurst College | Fallowhurst College]]. Scholars bred aggressive greenhouse strains for medicinal oil and attempted hardier crops for the [[Arkay Mountain Range | Arkay]] soils; the latter produced hunting plants instead of food.
+
+Found in the Specimen Room (L) alongside preserved samples. The Laboratory (K) holds the mature triffid grown from an experimental seed.
+
+**Current holder:** At [[Fallowhurst College | Fallowhurst College]], Specimen Room (L) (not yet recovered by [[The Adventurers | the Wonch]]).
