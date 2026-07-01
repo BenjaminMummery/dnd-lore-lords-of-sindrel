@@ -58,7 +58,7 @@ h2, .adventure-log-title {
 h3 {
   font-family: "Cinzel", "IM Fell English SC", Georgia, serif;
   font-size: 22px;
-  color: #2a211d;
+  color: #4b0c0f;
   font-weight: bold;
   letter-spacing: 1px;
 }
@@ -74,20 +74,24 @@ h4, h5, h6 {
 .wiki-page-show .post-main h3:not(.ui-accordion-header),
 .wiki-page-content h3:not(.ui-accordion-header),
 body.campaign-public-layout .post-section.post-main h3:not(.ui-accordion-header),
-.adventure-log-show .post-main h3:not(.ui-accordion-header) {
-  border-left: none;
-  padding-left: 0;
-  border-bottom: 2px solid #6d6862;
-  padding-bottom: 5px;
+.adventure-log-show .post-main h3:not(.ui-accordion-header),
+.character-show .character-game-master-info h3 {
+  border-left: 6px solid #4b0c0f;
+  padding-left: 10px;
+  border-bottom: none;
+  padding-bottom: 0;
   margin-top: 24px;
+  color: #4b0c0f;
 }
 
 .wiki-page-show .post-main h4,
 .wiki-page-content h4,
 body.campaign-public-layout .post-section.post-main h4,
-.adventure-log-show .post-main h4 {
-  border-left: 6px solid #5e1013;
-  padding-left: 10px;
+.adventure-log-show .post-main h4,
+.character-show .character-game-master-info h4 {
+  border-left: none;
+  padding-left: 0;
+  color: #4b0c0f;
 }
 
 /* OP wiki page title - not a section heading */
@@ -171,17 +175,6 @@ blockquote a {
 
 blockquote strong {
   color: #3b0709;
-}
-
-/* Links and dividers */
-a {
-  color: #5e1013;
-  font-weight: bold;
-  text-decoration: underline;
-}
-
-a:hover {
-  color: #8a171b;
 }
 
 hr {
@@ -330,7 +323,7 @@ img {
 }
 
 .sidebar a, .side-nav a, #sidebar a, .campaign-nav a, .navbar a, .top-bar a {
-  color: #3b0709;
+  color: #ece8df;
   font-family: "Cinzel", "IM Fell English SC", Georgia, serif;
   font-weight: bold;
   letter-spacing: 1px;
@@ -340,7 +333,7 @@ img {
 }
 
 .sidebar a:hover, .side-nav a:hover, #sidebar a:hover, .campaign-nav a:hover, .navbar a:hover, .top-bar a:hover {
-  color: #7a1116;
+  color: #deded8;
   text-decoration: none;
   border-bottom: 0;
 }
@@ -434,14 +427,225 @@ input:focus, textarea:focus, select:focus {
 }
 
 .sidebar-table-of-contents a {
-  color: #4b0c0f;
+  color: #211b18;
   font-weight: bold;
   text-decoration: none;
   border-bottom: 0;
 }
 
 .sidebar-table-of-contents a:hover {
-  color: #721217;
+  color: #3b0709;
   text-decoration: none;
   border-bottom: 0;
 }
+
+/* Nav, character index, and wiki lists - restore pre-emphasis link styling */
+.character-list-item a:link,
+.character-list-item a:visited,
+.character-list-item a:active,
+.content-list a:link,
+.content-list a:visited,
+.content-list a:active,
+.wiki-page-list a:link,
+.wiki-page-list a:visited,
+.wiki-page-list a:active,
+.adventure-log-list a:link,
+.adventure-log-list a:visited,
+.adventure-log-list a:active,
+.sidebar-table-of-contents a:link,
+.sidebar-table-of-contents a:visited,
+.sidebar-table-of-contents a:active,
+.wiki-page-show .post-main .page-options a:link,
+.wiki-page-show .post-main .page-options a:visited,
+.wiki-page-show .post-main .page-options a:active,
+.adventure-log-show .post-main .page-options a:link,
+.adventure-log-show .post-main .page-options a:visited,
+.adventure-log-show .post-main .page-options a:active,
+.character-show .main-content a:link,
+.character-show .main-content a:visited,
+.character-show .main-content a:active,
+.item-show .main-content a:link,
+.item-show .main-content a:visited,
+.item-show .main-content a:active,
+.breadcrumb a:link,
+.breadcrumb a:visited,
+.breadcrumb a:active,
+.post-header a:link,
+.post-header a:visited,
+.post-header a:active {
+  color: #3b0709 !important;
+  font-weight: bold;
+  text-decoration: none !important;
+  border-bottom: 0 !important;
+}
+
+.character-list-item a:hover,
+.content-list a:hover,
+.wiki-page-list a:hover,
+.adventure-log-list a:hover,
+.sidebar-table-of-contents a:hover,
+.wiki-page-show .post-main .page-options a:hover,
+.adventure-log-show .post-main .page-options a:hover,
+.character-show .main-content a:hover,
+.item-show .main-content a:hover,
+.breadcrumb a:hover,
+.post-header a:hover {
+  color: #7a1116 !important;
+  text-decoration: none !important;
+  border-bottom: 0 !important;
+}
+
+/* Links - player body prose and GM-only sections only */
+.wiki-page-content a:link,
+.wiki-page-content a:visited,
+.wiki-page-content a:active,
+.game-master-info a:link,
+.game-master-info a:visited,
+.game-master-info a:active,
+.character-show .character-game-master-info a:link,
+.character-show .character-game-master-info a:visited,
+.character-show .character-game-master-info a:active,
+.character-show .character-description a:link,
+.character-show .character-description a:visited,
+.character-show .character-description a:active,
+.character-show .character-bio a:link,
+.character-show .character-bio a:visited,
+.character-show .character-bio a:active,
+.item-show .item-description a:link,
+.item-show .item-description a:visited,
+.item-show .item-description a:active,
+.adventure-log-show .post-main p a:link,
+.adventure-log-show .post-main p a:visited,
+.adventure-log-show .post-main p a:active,
+.adventure-log-show .post-main li a:link,
+.adventure-log-show .post-main li a:visited,
+.adventure-log-show .post-main li a:active,
+.adventure-log-show .post-main blockquote a:link,
+.adventure-log-show .post-main blockquote a:visited,
+.adventure-log-show .post-main blockquote a:active,
+.adventure-log-show .post-main dd a:link,
+.adventure-log-show .post-main dd a:visited,
+.adventure-log-show .post-main dd a:active,
+.adventure-log-show .post-main td a:link,
+.adventure-log-show .post-main td a:visited,
+.adventure-log-show .post-main td a:active,
+.stat-block a:link,
+.stat-block a:visited,
+.stat-block a:active {
+  color: #4b0c0f !important;
+  font-weight: bold;
+  text-decoration: underline !important;
+  border-bottom: 0 !important;
+}
+
+.wiki-page-content a:hover,
+.game-master-info a:hover,
+.character-show .character-game-master-info a:hover,
+.character-show .character-description a:hover,
+.character-show .character-bio a:hover,
+.item-show .item-description a:hover,
+.adventure-log-show .post-main p a:hover,
+.adventure-log-show .post-main li a:hover,
+.adventure-log-show .post-main blockquote a:hover,
+.adventure-log-show .post-main dd a:hover,
+.adventure-log-show .post-main td a:hover,
+.stat-block a:hover {
+  color: #721217 !important;
+}
+
+/* Top bar and side panels - must come last to beat prose rules above */
+.campaign-public-layout #header a:link,
+.campaign-public-layout #header a:visited,
+.campaign-public-layout #header a:active,
+.campaign-public-layout .campaign-public-header a:link,
+.campaign-public-layout .campaign-public-header a:visited,
+.campaign-public-layout .campaign-public-header a:active,
+.campaign-public-layout .front-nav-container a:link,
+.campaign-public-layout .front-nav-container a:visited,
+.campaign-public-layout .front-nav-container a:active,
+.campaign-public-layout .collapsable-nav-row a:link,
+.campaign-public-layout .collapsable-nav-row a:visited,
+.campaign-public-layout .collapsable-nav-row a:active,
+.campaign-public-layout .collapsible-nav-row a:link,
+.campaign-public-layout .collapsible-nav-row a:visited,
+.campaign-public-layout .collapsible-nav-row a:active,
+.campaign-public-layout #sidebar a:link,
+.campaign-public-layout #sidebar a:visited,
+.campaign-public-layout #sidebar a:active,
+.campaign-public-layout .sidebar a:link,
+.campaign-public-layout .sidebar a:visited,
+.campaign-public-layout .sidebar a:active,
+.campaign-public-layout .side-nav a:link,
+.campaign-public-layout .side-nav a:visited,
+.campaign-public-layout .side-nav a:active,
+.campaign-public-layout .campaign-nav a:link,
+.campaign-public-layout .campaign-nav a:visited,
+.campaign-public-layout .campaign-nav a:active,
+.campaign-public-layout .navbar a:link,
+.campaign-public-layout .navbar a:visited,
+.campaign-public-layout .navbar a:active,
+.campaign-public-layout .top-bar a:link,
+.campaign-public-layout .top-bar a:visited,
+.campaign-public-layout .top-bar a:active,
+#header a:link,
+#header a:visited,
+#header a:active,
+.front-nav-container a:link,
+.front-nav-container a:visited,
+.front-nav-container a:active,
+.collapsable-nav-row a:link,
+.collapsable-nav-row a:visited,
+.collapsable-nav-row a:active,
+.collapsible-nav-row a:link,
+.collapsible-nav-row a:visited,
+.collapsible-nav-row a:active,
+#sidebar a:link,
+#sidebar a:visited,
+#sidebar a:active,
+.sidebar a:link,
+.sidebar a:visited,
+.sidebar a:active,
+.side-nav a:link,
+.side-nav a:visited,
+.side-nav a:active,
+.campaign-nav a:link,
+.campaign-nav a:visited,
+.campaign-nav a:active,
+.navbar a:link,
+.navbar a:visited,
+.navbar a:active,
+.top-bar a:link,
+.top-bar a:visited,
+.top-bar a:active {
+  color: #ece8df !important;
+  font-weight: bold;
+  text-decoration: none !important;
+  border-bottom: 0 !important;
+}
+
+.campaign-public-layout #header a:hover,
+.campaign-public-layout .campaign-public-header a:hover,
+.campaign-public-layout .front-nav-container a:hover,
+.campaign-public-layout .collapsable-nav-row a:hover,
+.campaign-public-layout .collapsible-nav-row a:hover,
+.campaign-public-layout #sidebar a:hover,
+.campaign-public-layout .sidebar a:hover,
+.campaign-public-layout .side-nav a:hover,
+.campaign-public-layout .campaign-nav a:hover,
+.campaign-public-layout .navbar a:hover,
+.campaign-public-layout .top-bar a:hover,
+#header a:hover,
+.front-nav-container a:hover,
+.collapsable-nav-row a:hover,
+.collapsible-nav-row a:hover,
+#sidebar a:hover,
+.sidebar a:hover,
+.side-nav a:hover,
+.campaign-nav a:hover,
+.navbar a:hover,
+.top-bar a:hover {
+  color: #deded8 !important;
+  text-decoration: none !important;
+  border-bottom: 0 !important;
+}
+

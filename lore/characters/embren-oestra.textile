@@ -22,52 +22,28 @@ A tall, thin figure in the dark robes and hooked mask of a plague doctor. They c
 
 
 <!-- GM_INFO_START -->
-<div contenteditable="true"  style="width:310px; font-family:Arial,Helvetica,sans-serif;font-size:11px;">
-<div class="statname">Embren Oestra</div>
-<div class="statdescription">Medium undead, lawful evil</div>
-
-<div class="statgradient"></div>
-
-<div class="statred">
-    <div ><span class="bold statred">Armor Class</span><span> 12</span></div>
-    <div><span class="bold statred">Hit Points</span><span> 22 (5d8)</span></div>
-    <div><span class="bold statred">Speed</span><span> 30 ft.</span></div>
-    <div><span class="bold statred">Initiative</span><span> +2 </span></div>
-</div>
-
-<div class="statgradient"></div>
-
+<div class="stat-block">
+<h3>Embren Oestra</h3>
+<p><em>Medium undead, lawful evil</em></p>
+<p><strong>Armor Class</strong> 12<br>
+<strong>Hit Points</strong> 22 (5d8)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +2</p>
+<hr>
 <table>
-    <tr><th>STR    </th><th>DEX   </th><th>CON    </th><th>INT   </th><th>WIS   </th><th>CHA   </th></tr>
-    <tr><td>13 (+1)</td><td>15 (+2)</td><td>10 (0)</td><td>7 (-2)</td><td>6 (-2)</td><td>15 (+2)</td></tr>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>13 (+1)</td><td>15 (+2)</td><td>10 (+0)</td><td>7 (-2)</td><td>6 (-2)</td><td>15 (+2)</td></tr>
 </table>
-
-<div class="statgradient"></div>
-
-<div><span class="bold">Damage Immunities</span><span> Poison</span></div><div><span class="bold">Condition Immunities</span><span> Charmed, Exhaustion, Poisoned</span></div>
-<div><span class="bold">Senses</span><span> Darkvision 60ft., passive Perception 10</span></div>
-<div><span class="bold">Languages</span><span> Common</span></div>
-<div><span class="bold">Challenge</span><span>1</span></div>
-<div><span class="bold">Proficiency Bonus</span><span>+2</span></div>
-
-<div class="statgradient"></div>
-
-<div class="statactions statred">Actions</div>
-<div class="stathr"></div>
-<div class="statattack">
-    <span class="statattackname">Cane.</span>
-    <span class="statdescription"> Melee Weapon Attack:</span>
-    <span>+2 to hit, reach 5 ft., one target.</span>
-    <span class="statdescription">Hit:</span>
-    <span>9 (2d6+2) bludgeoning damage.</span>
-</div>
-<div class="statattack">
-    <span class="statattackname">Scalpel.</span>
-    <span class="statdescription"> Melee Weapon Attack:</span>
-    <span>+4 to hit, reach 5 ft., one target.</span>
-    <span class="statdescription">Hit:</span>
-    <span>7 (2d4+2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
- </span>
-</div>
+<hr>
+<p><strong>Damage Immunities</strong> poison<br>
+<strong>Condition Immunities</strong> charmed, exhaustion, poisoned<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 10<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 1 (200 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Cane.</strong> <em>Melee Weapon Attack:</em> +2 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (2d6 + 2) bludgeoning damage.</p>
+<p><strong>Scalpel.</strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>
 </div>
 <!-- GM_INFO_END -->
