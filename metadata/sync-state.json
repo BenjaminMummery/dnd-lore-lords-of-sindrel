@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-07-02T15:57:46Z",
-  "last_portal_pull": "2026-07-02T15:56:06Z",
+  "last_portal_pull": "2026-07-02T20:16:23Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -47,7 +47,7 @@
       "op_id": "037537b82ad74782ae351618ebb57f95",
       "op_kind": "Wiki",
       "op_slug": "shrine-of-the-queen-of-ravens",
-      "op_updated_at": "2026-07-01T21:22:27Z",
+      "op_updated_at": "2026-07-02T15:57:41Z",
       "repo_blob_sha": "9541fba26b569f918cec8cada02f23d4d4aeb1ba",
       "repo_hash_at_sync": "eb355f759c8760f5ac60c4320bca97385bdc2036d2d21a8d0ae4a7deae710bd4",
       "repo_path": "lore/wiki/wiki/shrine-of-the-queen-of-ravens.textile"
@@ -167,7 +167,7 @@
       "op_id": "11f333ae2b974be3b709e4022a731416",
       "op_kind": "Character",
       "op_slug": "mistress-lucretia-samhain",
-      "op_updated_at": "2026-07-01T21:22:24Z",
+      "op_updated_at": "2026-07-02T15:57:34Z",
       "repo_blob_sha": "bbe84840cec0532103b699e647422bbd9a4aa8d2",
       "repo_hash_at_sync": "2d8a4c26d163ef06c93d92b3494e79ccef8788c0fddb3fe64724f6c2d58d3d4a",
       "repo_path": "lore/characters/mistress-lucretia-samhain.textile"
@@ -557,7 +557,7 @@
       "op_id": "4218123e54f44a588e83d83288cfc883",
       "op_kind": "Wiki",
       "op_slug": "knuckledusters",
-      "op_updated_at": "2026-07-01T21:22:18Z",
+      "op_updated_at": "2026-07-02T15:57:26Z",
       "repo_blob_sha": "005d22e43001d197d12c298e3189d52ce888ba76",
       "repo_hash_at_sync": "e9e7d050edfdd3cf007c5e7763bda18b9cd65cd1e259686375638e1c172678e3",
       "repo_path": "lore/wiki/wiki/knuckledusters.textile"
@@ -567,7 +567,7 @@
       "op_id": "42cee9f0b8134dccab7714a196fd04d5",
       "op_kind": "Character",
       "op_slug": "ayr",
-      "op_updated_at": "2026-07-01T21:22:31Z",
+      "op_updated_at": "2026-07-02T15:57:41Z",
       "repo_blob_sha": "a841aa0251a51e396688bbc19f7d869c8ffb7b6c",
       "repo_hash_at_sync": "3d5d6b2f9925c2003005e14f2c9f788e0b408dcd28e44fd6bfa32c7f08348d06",
       "repo_path": "lore/characters/ayr.textile"
@@ -617,7 +617,7 @@
       "op_id": "4a5e190c4caf45fe9f822c4acdc9f5ac",
       "op_kind": "Character",
       "op_slug": "commander-wake",
-      "op_updated_at": "2026-07-01T21:21:25Z",
+      "op_updated_at": "2026-07-02T15:57:29Z",
       "repo_blob_sha": "af205cf6f41702ebe6a8aa55de46e9a15fc853c4",
       "repo_hash_at_sync": "1a927a3210998a486015923a6de0ab65892899bcade06c78159cd8051456cf5a",
       "repo_path": "lore/characters/commander-wake.textile"
@@ -667,8 +667,8 @@
       "op_id": "55a496d64bfa4a7589f23affa1fd3064",
       "op_kind": "Wiki",
       "op_slug": "items",
-      "op_updated_at": "2026-07-01T21:22:34Z",
-      "repo_blob_sha": "71e32f1e4de6b9ee0aeae4e8c05c4b11a7e397ea",
+      "op_updated_at": "2026-07-02T15:57:41Z",
+      "repo_blob_sha": "2e31901229248487f0b9757ea63fe98850add323",
       "repo_hash_at_sync": "63806416671d9e673b7e40734ed51b732c49c84be88925bd185d9792e1dc5a28",
       "repo_path": "lore/wiki/wiki/items.textile"
     },
@@ -807,7 +807,7 @@
       "op_id": "64cea553e6254e388e39ac1abc75eb9f",
       "op_kind": "Wiki",
       "op_slug": "session-8-",
-      "op_updated_at": "2026-07-01T21:22:23Z",
+      "op_updated_at": "2026-07-02T15:57:41Z",
       "repo_blob_sha": "4c1279ad435ee1f2ddd6c6b3b59dfeb9f99fe084",
       "repo_hash_at_sync": "bfa32a46df5498e8b3d60c9b4ca7dcf145be25154d52d330e6baacb4b2f96c9c",
       "repo_path": "lore/wiki/adventure-log/session-8-.textile"
@@ -847,7 +847,7 @@
       "op_id": "67eba7e39ae04122816cdeebeeb61d45",
       "op_kind": "Character",
       "op_slug": "ambassador-thrawne-lithra",
-      "op_updated_at": "2026-07-01T21:21:17Z",
+      "op_updated_at": "2026-07-02T15:57:35Z",
       "repo_blob_sha": "4156f6b109889ed943290545d26e94d405934e96",
       "repo_hash_at_sync": "72e503a0b57c13e9ccb6fd1d2914c168742c3ed20c11943afc4edab85bb3a8a0",
       "repo_path": "lore/characters/ambassador-thrawne-lithra.textile"
@@ -907,7 +907,7 @@
       "op_id": "6e743e303c85421f9e1f25a358416a6e",
       "op_kind": "Wiki",
       "op_slug": "session-5-the-investigation-begins",
-      "op_updated_at": "2026-07-02T15:52:20Z",
+      "op_updated_at": "2026-07-02T15:57:26Z",
       "repo_blob_sha": "dbd6de7026eab92d2a058bedafbb5e99f6afe69f",
       "repo_hash_at_sync": "8043d51cb70847f3fbcaaefd6b1c725e14faecb81aa6f331a5e59668b78db48c",
       "repo_path": "lore/wiki/adventure-log/session-5-the-investigation-begins.textile"
@@ -1147,7 +1147,7 @@
       "op_id": "93388607d1634c4da77ab0cd6103fbf7",
       "op_kind": "Wiki",
       "op_slug": "the-adventurers",
-      "op_updated_at": "2026-07-01T21:22:32Z",
+      "op_updated_at": "2026-07-02T15:57:41Z",
       "repo_blob_sha": "882f82544a12cf7496b7cbc728ce846f49eef17f",
       "repo_hash_at_sync": "1fb2dc4398432ba66528bb68af385541d375ad702a9c1c8c7f87d690014180d4",
       "repo_path": "lore/wiki/wiki/the-adventurers.textile"
@@ -1207,7 +1207,7 @@
       "op_id": "9ded0d990e7843c0aba38af113a1435d",
       "op_kind": "Wiki",
       "op_slug": "oestra-effigy-blade",
-      "op_updated_at": "2026-07-01T21:22:23Z",
+      "op_updated_at": "2026-07-02T15:57:27Z",
       "repo_blob_sha": "8edbae2023b90bd1d71dec4d0559e260283c4cf3",
       "repo_hash_at_sync": "bc7b9273816967bc501eaf3ee79242a0f82665aff0eb6bcba032c0f756500fb5",
       "repo_path": "lore/wiki/wiki/oestra-effigy-blade.textile"
@@ -1337,7 +1337,7 @@
       "op_id": "b5905d329c974734a0bf65293f730993",
       "op_kind": "Character",
       "op_slug": "lord-ablas-oestra",
-      "op_updated_at": "2026-07-01T21:21:41Z",
+      "op_updated_at": "2026-07-02T15:57:27Z",
       "repo_blob_sha": "f9700b2a36959fb67b054df1068b5f90822ca452",
       "repo_hash_at_sync": "ac9209b340be83e851c5b104decb867b9c64eb863f5d328b13ba83a3d6f14c9b",
       "repo_path": "lore/characters/lord-ablas-oestra.textile"
@@ -1467,7 +1467,7 @@
       "op_id": "bec37da3d0fa4328b69c7331ade9d219",
       "op_kind": "Character",
       "op_slug": "hytham-grimbolg",
-      "op_updated_at": "2026-07-01T21:21:36Z",
+      "op_updated_at": "2026-07-02T15:57:37Z",
       "repo_blob_sha": "b6ee3d9fb10fab711227361e67975220a973de74",
       "repo_hash_at_sync": "ffe35d5bd65cb7b0f18fdbad46012ff739370f6a9997bf62b32c986d9424896e",
       "repo_path": "lore/characters/hytham-grimbolg.textile"
@@ -1487,7 +1487,7 @@
       "op_id": "bfca45581bef4281987c4945c4d5f2a7",
       "op_kind": "Wiki",
       "op_slug": "quarantine-zone",
-      "op_updated_at": "2026-07-01T21:22:26Z",
+      "op_updated_at": "2026-07-02T15:57:34Z",
       "repo_blob_sha": "8fe6a940333dc1a78765f8f5f179ba9e87dbf301",
       "repo_hash_at_sync": "69dcfb6027a007a7073f3f9b6cedb458bbe9a140341093addc2fdeb0ba71e913",
       "repo_path": "lore/wiki/wiki/quarantine-zone.textile"
@@ -1737,7 +1737,7 @@
       "op_id": "e7ad041dba144a5b9b50fa5cc8bb6f8a",
       "op_kind": "Wiki",
       "op_slug": "session-9-downtime-2",
-      "op_updated_at": "2026-07-01T21:22:18Z",
+      "op_updated_at": "2026-07-02T15:57:41Z",
       "repo_blob_sha": "ff76f96cb9f28e5e7005b1b82baac3c6e346d5e0",
       "repo_hash_at_sync": "171919f84c878d1d41ef223ae2b7ac4cdcc68f4b2aa054f5952b302773cf54d0",
       "repo_path": "lore/wiki/adventure-log/session-9-downtime-2.textile"
@@ -1757,7 +1757,7 @@
       "op_id": "eee373837b7b42ae83fffb913d22290c",
       "op_kind": "Character",
       "op_slug": "high-summoner-nial-beltus",
-      "op_updated_at": "2026-07-01T21:21:34Z",
+      "op_updated_at": "2026-07-02T15:57:19Z",
       "repo_blob_sha": "d9ddf9a412203c27f3253cc02068ab8ca82b878b",
       "repo_hash_at_sync": "848ed647ec50e0fc626b8423bf471cfeb8dd9324e547670b31702e3642de4894",
       "repo_path": "lore/characters/high-summoner-nial-beltus.textile"
@@ -1817,7 +1817,7 @@
       "op_id": "fab92a384bdb4e03bf8617366aa8ce71",
       "op_kind": "Wiki",
       "op_slug": "the-black-cats",
-      "op_updated_at": "2026-07-01T17:08:09Z",
+      "op_updated_at": "2026-07-02T15:57:18Z",
       "repo_blob_sha": "e14daf43731b2d1d29cda60494f0874dea7eceb9",
       "repo_hash_at_sync": "9d3f99f0d89cedaa00b510be9260640a4a873d9514dd1f897e04ef06f7c327a9",
       "repo_path": "lore/wiki/wiki/the-black-cats.textile"

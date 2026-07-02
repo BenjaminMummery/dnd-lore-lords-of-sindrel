@@ -7,7 +7,7 @@ name: Oestra Effigy Blade
 title: Oestra Effigy Blade
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/oestra-effigy-blade
 op_created_at: '2026-07-01T21:22:23Z'
-op_updated_at: '2026-07-01T21:22:23Z'
+op_updated_at: '2026-07-02T15:57:27Z'
 op_gm_only: false
 tags:
 - item

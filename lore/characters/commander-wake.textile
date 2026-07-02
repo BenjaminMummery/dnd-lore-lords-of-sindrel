@@ -7,7 +7,7 @@ name: Anathemist Commander - Name Unknown
 title: Anathemist Commander - Name Unknown
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/commander-wake
 op_created_at: '2025-12-21T09:56:02Z'
-op_updated_at: '2026-07-01T21:21:25Z'
+op_updated_at: '2026-07-02T15:57:29Z'
 op_gm_only: false
 is_player_character: false
 tags:
