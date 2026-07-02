@@ -1,16 +1,20 @@
 ---
+op_id: d103a4f09cf541cf9431c175d81cdc1b
 op_slug: anasthetic-scalpel
 op_kind: Wiki
 op_type: WikiPage
 name: Anasthetic Scalpel
 title: Anasthetic Scalpel
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/anasthetic-scalpel
+op_created_at: '2026-07-01T21:22:07Z'
+op_updated_at: '2026-07-01T21:22:07Z'
 op_gm_only: false
 tags:
 - item
 - weapon
 ---
 
-A scalpel originally wielded by [[:embren-oestra | the Plague Doctor]] of [[Fallowhurst | Fallowhurst]].
+A scalpel originally wielded by [[Embren Oestra | the Plague Doctor]] of [[Fallowhurst | Fallowhurst]].
 
 Following an encounter with The Wonch, the scalpel came into the possession of [[:wilrin-racenglade | Wilrin Ravenglade]].
 

@@ -7,7 +7,7 @@ name: High Summoner Nial Beltus
 title: High Summoner Nial Beltus
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/high-summoner-nial-beltus
 op_created_at: '2025-12-22T16:52:21Z'
-op_updated_at: '2026-07-01T11:03:47Z'
+op_updated_at: '2026-07-01T21:21:34Z'
 op_gm_only: true
 is_player_character: false
 tags:
@@ -17,7 +17,6 @@ tags:
 ---
 
 <!-- OP_DESCRIPTION -->
-
 h3. Key Items
 
 * [[The Crown of Shadows | The Crown of Shadows]]

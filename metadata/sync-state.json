@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-06-28T19:40:28Z",
-  "last_portal_pull": "2026-07-01T21:21:04Z",
+  "last_portal_pull": "2026-07-02T14:36:08Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -11,6 +11,26 @@
       "repo_blob_sha": "29670112981493c811b41eac255ae3479c3c64e9",
       "repo_hash_at_sync": "88afe65213224d62657c98b12fd7a4601ba68beecdbf8bae660d23a3187f5201",
       "repo_path": "lore/characters/pthul.textile"
+    },
+    "012d92825b8a4b7fa7bf134f23f6bcb1": {
+      "last_synced_title": "Dragonborn Skull",
+      "op_id": "012d92825b8a4b7fa7bf134f23f6bcb1",
+      "op_kind": "Wiki",
+      "op_slug": "dragonborn-skull",
+      "op_updated_at": "2026-07-01T21:22:10Z",
+      "repo_blob_sha": "23120e0a817abe825f9dc3a1a8fc9ff5e8d65c56",
+      "repo_hash_at_sync": "c048dcd6e7692d01cdd949d80ab55ffa43ff91c954cc9d6b5f76e8727df4f33e",
+      "repo_path": "lore/wiki/wiki/dragonborn-skull.textile"
+    },
+    "02e6627c096142f595dcedfec7e7017f": {
+      "last_synced_title": "Silas Oestra's Chamber Key",
+      "op_id": "02e6627c096142f595dcedfec7e7017f",
+      "op_kind": "Wiki",
+      "op_slug": "silas-oestras-chamber-key",
+      "op_updated_at": "2026-07-01T21:22:28Z",
+      "repo_blob_sha": "1c601c8d4ea617e978f8d255b066f9931087122f",
+      "repo_hash_at_sync": "822425799df2197224e958297cf9f10c32a411d1b2b9ddc7d27faa518a005a35",
+      "repo_path": "lore/wiki/wiki/silas-oestras-chamber-key.textile"
     },
     "02e749ad465941d782f2882a4148cf89": {
       "last_synced_title": "House Lithra",
@@ -27,9 +47,9 @@
       "op_id": "037537b82ad74782ae351618ebb57f95",
       "op_kind": "Wiki",
       "op_slug": "shrine-of-the-queen-of-ravens",
-      "op_updated_at": "2026-07-01T11:04:53Z",
-      "repo_blob_sha": "e43eebbc85b3d0db08167e74db14231fb68717f2",
-      "repo_hash_at_sync": "c45842650b9acdedf941da0b4a5cebd1cb61e536331502a4e3af743749dd875f",
+      "op_updated_at": "2026-07-01T21:22:27Z",
+      "repo_blob_sha": "a1b86e426bb16a01f7c2d8dfa0e5d1368e0856e8",
+      "repo_hash_at_sync": "eb355f759c8760f5ac60c4320bca97385bdc2036d2d21a8d0ae4a7deae710bd4",
       "repo_path": "lore/wiki/wiki/shrine-of-the-queen-of-ravens.textile"
     },
     "05558ea14cca40638bb288ab87cec7da": {
@@ -47,9 +67,9 @@
       "op_id": "064086d8f0834860a1c5a93dd3d5eefb",
       "op_kind": "Character",
       "op_slug": "lacerta-kirrahe",
-      "op_updated_at": "2026-06-26T21:27:09Z",
-      "repo_blob_sha": "4459b273a576c4ef50d9522fe497a869417034be",
-      "repo_hash_at_sync": "0b6b676f765532f34fd20de146e56cdc6a66f85cc2d19bfd06aac1f1b212082b",
+      "op_updated_at": "2026-07-01T21:22:30Z",
+      "repo_blob_sha": "7145ba29fc9dcc3d0366289e76b51946d0866e9b",
+      "repo_hash_at_sync": "f64610ffc876dddfda6b487658a3ba665e6fc8a4cd43125a921c02c341c4315f",
       "repo_path": "lore/characters/lacerta-kirrahe.textile"
     },
     "06b4daf7b52c4d618a723c0727cc1a15": {
@@ -147,10 +167,20 @@
       "op_id": "11f333ae2b974be3b709e4022a731416",
       "op_kind": "Character",
       "op_slug": "mistress-lucretia-samhain",
-      "op_updated_at": "2026-07-01T11:03:56Z",
-      "repo_blob_sha": "d1f06cd59ac649c23cc4b64b129d3696721e7a5a",
-      "repo_hash_at_sync": "85d11a31f328c38bb931f13d104209d357afa326fb3a7a68d746103b24009894",
+      "op_updated_at": "2026-07-01T21:22:24Z",
+      "repo_blob_sha": "d133effe2d01abb4f1fce3608a3e6e562d1d8ade",
+      "repo_hash_at_sync": "2d8a4c26d163ef06c93d92b3494e79ccef8788c0fddb3fe64724f6c2d58d3d4a",
       "repo_path": "lore/characters/mistress-lucretia-samhain.textile"
+    },
+    "17581080547b4499b9490d9c22bbe3c7": {
+      "last_synced_title": "Letter from Lord Oestra to Embren Oestra",
+      "op_id": "17581080547b4499b9490d9c22bbe3c7",
+      "op_kind": "Wiki",
+      "op_slug": "letter-from-lord-oestra-to-embren-oestra",
+      "op_updated_at": "2026-07-01T21:22:19Z",
+      "repo_blob_sha": "b98cb8cddf240f877f93a4556e972efc2fc28359",
+      "repo_hash_at_sync": "9476d104a3f29e390176e6bad1754314b45647f442306544600eb3e127dd6c81",
+      "repo_path": "lore/wiki/wiki/letter-from-lord-oestra-to-embren-oestra.textile"
     },
     "17acf0ad45ba4a5bab815367bac73fce": {
       "last_synced_title": "House Beltus",
@@ -167,9 +197,9 @@
       "op_id": "17e89067cf1744788929bebbc0c1da15",
       "op_kind": "Wiki",
       "op_slug": "home-page",
-      "op_updated_at": "2026-07-01T11:04:35Z",
-      "repo_blob_sha": "803539f28e9ff6cc4989e717e55c90752c022e30",
-      "repo_hash_at_sync": "5bdfbfb5219a02455381b339268aa28217f0500f754e8400f3b3aba42eeade55",
+      "op_updated_at": "2026-07-01T21:22:29Z",
+      "repo_blob_sha": "e22eef6d6cd07b03acd78b013bc6443a8a42aeeb",
+      "repo_hash_at_sync": "ac62a6bc38b76aa908d24028001edf4b990c70ea3921ba0241ce1261dfda1c49",
       "repo_path": "lore/wiki/wiki/home-page.textile"
     },
     "17ffd36aadad4daaa25fd3e2f196ad2a": {
@@ -201,6 +231,16 @@
       "repo_blob_sha": "8fdaefefddbc9eda08bf187234709d5f3858fb2e",
       "repo_hash_at_sync": "0bc5c96662e15f634b27d09eb26e382ae45a283de8f12788341a7acfce64f720",
       "repo_path": "lore/wiki/wiki/the-thaumocracy-of-tellerin.textile"
+    },
+    "1be27c0d45f44e39a9f2a6ef113428e0": {
+      "last_synced_title": "Peaches of Immortality",
+      "op_id": "1be27c0d45f44e39a9f2a6ef113428e0",
+      "op_kind": "Wiki",
+      "op_slug": "peaches-of-immortality",
+      "op_updated_at": "2026-07-01T21:22:33Z",
+      "repo_blob_sha": "02799b91de3aca071b9c14d30ec7a575f0230a90",
+      "repo_hash_at_sync": "f048adc5d65ab2f3131132a54cde070ca03c950383ca286e4d2f2f15aac7b2d6",
+      "repo_path": "lore/wiki/wiki/peaches-of-immortality.textile"
     },
     "1cb4e852c161448fb5111f85a43e3b5d": {
       "last_synced_title": "Soulwind",
@@ -257,9 +297,9 @@
       "op_id": "1fa4c6baa1344fd2860a41f7c01e76c9",
       "op_kind": "Character",
       "op_slug": "sebastian-warwick",
-      "op_updated_at": "2026-06-26T21:27:21Z",
-      "repo_blob_sha": "de7707a4b6666d3d3ce9b647cfb98053dc192970",
-      "repo_hash_at_sync": "f5ddb89769bc5ff9c9e093cad4b612bfee164c8965f8a28ab250125a715ec4c6",
+      "op_updated_at": "2026-07-01T21:22:25Z",
+      "repo_blob_sha": "3226dd7e9e75da2a850597fb5e25091a1cbcbae6",
+      "repo_hash_at_sync": "e15cd78b76275a3f2d6b502bc9324d061bae4da0bcc31939b97f70cae9c71590",
       "repo_path": "lore/characters/sebastian-warwick.textile"
     },
     "21343bc1f8dd40eaaa874e7adc967454": {
@@ -272,14 +312,24 @@
       "repo_hash_at_sync": "1eb766c8bf2b9b38e80545c14c5156ab40b8a3e1cf2f83d9bd1689e9ae947eec",
       "repo_path": "lore/wiki/wiki/fallowhurst-outpost.textile"
     },
+    "2331248c506f45219ef1eb541a19a750": {
+      "last_synced_title": "Spoon of Digging",
+      "op_id": "2331248c506f45219ef1eb541a19a750",
+      "op_kind": "Wiki",
+      "op_slug": "spoon-of-digging",
+      "op_updated_at": "2026-07-01T21:22:30Z",
+      "repo_blob_sha": "94a49ee3fc476c646603bdfe37084a65e78f6b25",
+      "repo_hash_at_sync": "a7356d0310637314155e146e870ec15ef1673ff355fcfa8e412c5caa40e66524",
+      "repo_path": "lore/wiki/wiki/spoon-of-digging.textile"
+    },
     "2460ccd9ff50422286d81cbfc2483262": {
       "last_synced_title": "Rossin \"Ros\" Greyhirst",
       "op_id": "2460ccd9ff50422286d81cbfc2483262",
       "op_kind": "Character",
       "op_slug": "rossin-ros-greyhirst",
-      "op_updated_at": "2026-06-29T14:03:36Z",
-      "repo_blob_sha": "0604442872d129c8c04fd4a74667c2055fc47f0c",
-      "repo_hash_at_sync": "d173eb34cfc894b2dcd5b6cb24355559d00071c626d432cf575d1e38579c14d8",
+      "op_updated_at": "2026-07-01T21:22:29Z",
+      "repo_blob_sha": "16a5b39e901c4168abfbc1691eb2dc2954ce7f57",
+      "repo_hash_at_sync": "514fc53dfbe49ef8e780903d861688d9e97921a333069b5bccab97b027649736",
       "repo_path": "lore/characters/rossin-ros-greyhirst.textile"
     },
     "24a9fb6a96c34deeadf8c99ef0524f0c": {
@@ -327,9 +377,9 @@
       "op_id": "298ff1b7fdc04f039d4ffff29710204a",
       "op_kind": "Character",
       "op_slug": "general-alicia-meness",
-      "op_updated_at": "2026-07-01T11:03:43Z",
-      "repo_blob_sha": "a27df1add0db2e78c9ce507c650dd9fda84564f2",
-      "repo_hash_at_sync": "46e317b2d9a3e504b20483f0bdfca5132cefd2666b8723e2cce0dfe170560970",
+      "op_updated_at": "2026-07-01T21:22:34Z",
+      "repo_blob_sha": "7208cbee6652642e1c2257e85fcb82979d3900f3",
+      "repo_hash_at_sync": "373d85f203d029d298fa64c0d27447ed6ab062f8fbd38fbd0b85934634bf7625",
       "repo_path": "lore/characters/general-alicia-meness.textile"
     },
     "2c1f8ab6f5cd43099dae06c42dd6fec3": {
@@ -397,10 +447,20 @@
       "op_id": "33029cfe72f344979629473df4d746da",
       "op_kind": "Character",
       "op_slug": "silrie-aegiskiir",
-      "op_updated_at": "2026-06-29T14:03:41Z",
-      "repo_blob_sha": "5ecebcf06d0cc40903bcf3932cc8b06cf63c991f",
-      "repo_hash_at_sync": "1ebf25046f623aed9374c26b2df284021a672a1b55e5bf415bffc1e098544149",
+      "op_updated_at": "2026-07-01T21:22:29Z",
+      "repo_blob_sha": "c4a9dc38e63d8d34743fbacba07b42a9851c1ceb",
+      "repo_hash_at_sync": "099bfa5693656ceec18af4466cacf39faea1884272333fabfd82bc5f64a13279",
       "repo_path": "lore/characters/silrie-aegiskiir.textile"
+    },
+    "332a5b69220d4e359890169765108480": {
+      "last_synced_title": "Cel\u00e6s",
+      "op_id": "332a5b69220d4e359890169765108480",
+      "op_kind": "Wiki",
+      "op_slug": "cel-s",
+      "op_updated_at": "2026-07-01T21:22:34Z",
+      "repo_blob_sha": null,
+      "repo_hash_at_sync": "d95c74bd5677e5f47463b5a2d2ae5275df15e4b21b53b7eeab8d3804a835ea44",
+      "repo_path": "lore/wiki/wiki/cel-s.textile"
     },
     "33f4c3b14f8741a4932389bd489b11c2": {
       "last_synced_title": "The Fall of the Eighth House",
@@ -447,9 +507,9 @@
       "op_id": "3c19f65bedc54691941c6fa9030ae710",
       "op_kind": "Character",
       "op_slug": "pin",
-      "op_updated_at": "2026-07-01T11:04:04Z",
-      "repo_blob_sha": "cd4a6c05857f284ba4a66e906d861b44bb315b01",
-      "repo_hash_at_sync": "5e881a3654787cce35410b183658ed56f192f458e1e8501b7cccead6fa794a9c",
+      "op_updated_at": "2026-07-01T21:22:29Z",
+      "repo_blob_sha": "f990af78f8c4a9b654b705ffc95148a46931887c",
+      "repo_hash_at_sync": "e3cc745709170ee8dcf594d10eca1ac1e6feeec7e60c4b8ebd950fa9a3b5da36",
       "repo_path": "lore/characters/pin.textile"
     },
     "3dd6af69d11e4345a987028922d1e974": {
@@ -467,19 +527,29 @@
       "op_id": "4101f6ab35084d1e9b100cbb94da82cd",
       "op_kind": "Character",
       "op_slug": "tama",
-      "op_updated_at": "2026-07-01T18:45:59Z",
-      "repo_blob_sha": "921b4a6bb2eda6f835c407d5601dd7f0998b69b6",
-      "repo_hash_at_sync": "b126b159bc9a84f3c5cf1d076f3487699196a1f9c21c3bc8731e1109509f0e80",
+      "op_updated_at": "2026-07-01T21:21:57Z",
+      "repo_blob_sha": "a1d5b5c462a0da351ce12a2daa08d2e5735eee63",
+      "repo_hash_at_sync": "56e384cde0a82736e028892029f4a0f6172eb5c072fc0bd777f08ee6807b0a4a",
       "repo_path": "lore/characters/tama.textile"
+    },
+    "4218123e54f44a588e83d83288cfc883": {
+      "last_synced_title": "Knuckledusters",
+      "op_id": "4218123e54f44a588e83d83288cfc883",
+      "op_kind": "Wiki",
+      "op_slug": "knuckledusters",
+      "op_updated_at": "2026-07-01T21:22:18Z",
+      "repo_blob_sha": "92ccb6db10690304e427ef83e7b857e674d0df5e",
+      "repo_hash_at_sync": "e9e7d050edfdd3cf007c5e7763bda18b9cd65cd1e259686375638e1c172678e3",
+      "repo_path": "lore/wiki/wiki/knuckledusters.textile"
     },
     "42cee9f0b8134dccab7714a196fd04d5": {
       "last_synced_title": "Ayr",
       "op_id": "42cee9f0b8134dccab7714a196fd04d5",
       "op_kind": "Character",
       "op_slug": "ayr",
-      "op_updated_at": "2026-06-29T14:02:59Z",
-      "repo_blob_sha": "8020a887b4f2c484f70251a7b20982ae34659829",
-      "repo_hash_at_sync": "35b4774ef919d1160d29d81f9101a225611751f5e8dfc1d9a97407c6e4c76b16",
+      "op_updated_at": "2026-07-01T21:22:31Z",
+      "repo_blob_sha": "6f6deb0c8e16bb25eb28917b95a48a7daaba8f29",
+      "repo_hash_at_sync": "3d5d6b2f9925c2003005e14f2c9f788e0b408dcd28e44fd6bfa32c7f08348d06",
       "repo_path": "lore/characters/ayr.textile"
     },
     "47ec9df6a50e4f70b99301d075ae2e4a": {
@@ -517,9 +587,9 @@
       "op_id": "4a5e190c4caf45fe9f822c4acdc9f5ac",
       "op_kind": "Character",
       "op_slug": "commander-wake",
-      "op_updated_at": "2026-06-29T14:03:08Z",
-      "repo_blob_sha": "b7a5d37126edfc6e84e1ae240cef8e748d4d4f32",
-      "repo_hash_at_sync": "f5879fcb43df08405ff2c7e1d9ab792f947b7695b9a535340e9995c7039f0b29",
+      "op_updated_at": "2026-07-01T21:21:25Z",
+      "repo_blob_sha": "9f2d9042e06662a2a22f65aa3eb65c23c7a72d0d",
+      "repo_hash_at_sync": "1a927a3210998a486015923a6de0ab65892899bcade06c78159cd8051456cf5a",
       "repo_path": "lore/characters/commander-wake.textile"
     },
     "4b956b3b793641ce80656e74c1fa02a1": {
@@ -561,6 +631,16 @@
       "repo_blob_sha": "b0b2bf6041e1a436477cb7b890250763c290c75a",
       "repo_hash_at_sync": "bed52afa550e6dd6e38837a54bf7d52d53fcb21146cd84644a1d8941368d8d10",
       "repo_path": "lore/characters/kelferria-the-smith.textile"
+    },
+    "55a496d64bfa4a7589f23affa1fd3064": {
+      "last_synced_title": "Items",
+      "op_id": "55a496d64bfa4a7589f23affa1fd3064",
+      "op_kind": "Wiki",
+      "op_slug": "items",
+      "op_updated_at": "2026-07-01T21:22:34Z",
+      "repo_blob_sha": "2fc993954d2d38311f0a8b49a8ebc3d53148fef4",
+      "repo_hash_at_sync": "63806416671d9e673b7e40734ed51b732c49c84be88925bd185d9792e1dc5a28",
+      "repo_path": "lore/wiki/wiki/items.textile"
     },
     "561a2ff21c324eeaacac0753f504bfa2": {
       "last_synced_title": "Tyromancer Pterath",
@@ -622,6 +702,16 @@
       "repo_hash_at_sync": "e75f7f16c02a2fe5c6443f56fd4efba7cf7dcd61345b1ff84f672b42b5cfd9e8",
       "repo_path": "lore/characters/embren-oestra.textile"
     },
+    "618b4a6b80ed422c8817e3098513251a": {
+      "last_synced_title": "Pipes of Faunal Calling",
+      "op_id": "618b4a6b80ed422c8817e3098513251a",
+      "op_kind": "Wiki",
+      "op_slug": "pipes-of-faunal-calling",
+      "op_updated_at": "2026-07-01T21:22:24Z",
+      "repo_blob_sha": "1d8063ec0b4505ba1c2ad22b80793e1efd379ca0",
+      "repo_hash_at_sync": "cac7e378e226b31a36171a0427afdf4eb3c1e34e6973ed5c1afa852ca0a408c2",
+      "repo_path": "lore/wiki/wiki/pipes-of-faunal-calling.textile"
+    },
     "628d1fa3b69f45a08b3907e53d22ae3b": {
       "last_synced_title": "Beltan Institute",
       "op_id": "628d1fa3b69f45a08b3907e53d22ae3b",
@@ -667,9 +757,9 @@
       "op_id": "64cea553e6254e388e39ac1abc75eb9f",
       "op_kind": "Wiki",
       "op_slug": "session-8-",
-      "op_updated_at": "2026-07-01T11:04:25Z",
-      "repo_blob_sha": "42faa58c32e64106b9afde9ffd8a13052f826969",
-      "repo_hash_at_sync": "32cf79734638a429e25bd46cee49f7d1770e2396d086101de97412d4d3a715d8",
+      "op_updated_at": "2026-07-01T21:22:23Z",
+      "repo_blob_sha": "86fc818eb9eba690ae01116508af47069fd9bb68",
+      "repo_hash_at_sync": "a17e0fd86ef0220642b97ad295535cc1877fb7605ac4ccaeebbaa944550c0311",
       "repo_path": "lore/wiki/adventure-log/session-8-.textile"
     },
     "64d58a7081f64048b0990df87d7239b4": {
@@ -697,9 +787,9 @@
       "op_id": "67eba7e39ae04122816cdeebeeb61d45",
       "op_kind": "Character",
       "op_slug": "ambassador-thrawne-lithra",
-      "op_updated_at": "2026-07-01T11:03:27Z",
-      "repo_blob_sha": "017611ab70ce2405f8aebcd4389d0db1b2dc0610",
-      "repo_hash_at_sync": "5a081fd32fb0380dde54d998693049141bf19cd4296c16aa1113ac5be6996eaa",
+      "op_updated_at": "2026-07-01T21:21:17Z",
+      "repo_blob_sha": "0f377b6dc34e7285badd0e24ce5dbb1429448dc1",
+      "repo_hash_at_sync": "72e503a0b57c13e9ccb6fd1d2914c168742c3ed20c11943afc4edab85bb3a8a0",
       "repo_path": "lore/characters/ambassador-thrawne-lithra.textile"
     },
     "684c57a053864975b1a77f2842946c08": {
@@ -707,9 +797,9 @@
       "op_id": "684c57a053864975b1a77f2842946c08",
       "op_kind": "Character",
       "op_slug": "amanira",
-      "op_updated_at": "2026-06-29T14:02:54Z",
-      "repo_blob_sha": "07d022fbe176f41fb8f6d4b31f4d0790da0da997",
-      "repo_hash_at_sync": "baf1f0868bc6045b70f2ab3247cbe0b55e4e78a8fb12c20de095aaeaddd08bb9",
+      "op_updated_at": "2026-07-01T21:22:29Z",
+      "repo_blob_sha": "db1582f05676966d9811d5e2d2f2cfdb22646c71",
+      "repo_hash_at_sync": "f54b0078b8e9e732ad662b3abd0c6f5e303f03e0d6a3928a55e635deda3c21ac",
       "repo_path": "lore/characters/amanira.textile"
     },
     "689a5e01c2214591bcd30469314707f8": {
@@ -757,9 +847,9 @@
       "op_id": "6e743e303c85421f9e1f25a358416a6e",
       "op_kind": "Wiki",
       "op_slug": "session-5-the-investigation-begins",
-      "op_updated_at": "2026-07-01T11:04:22Z",
-      "repo_blob_sha": "f46f07810a869c31df9a0baef5d99b2996dece71",
-      "repo_hash_at_sync": "0bc9e7a0d89ffedafd7d4da15ddf226823a289e1281112b884b2b1cea11b179d",
+      "op_updated_at": "2026-07-01T21:22:04Z",
+      "repo_blob_sha": "eedc63f599cb0e8ee1b14313ef67249e226d2d89",
+      "repo_hash_at_sync": "942c698570c08670c3bec09c80b62be0edd4f293467ce4daadb847f8d7eccfca",
       "repo_path": "lore/wiki/adventure-log/session-5-the-investigation-begins.textile"
     },
     "6eacb1bcf1914d3ab6564eada8c4d045": {
@@ -767,9 +857,9 @@
       "op_id": "6eacb1bcf1914d3ab6564eada8c4d045",
       "op_kind": "Character",
       "op_slug": "jean-de-dinteville",
-      "op_updated_at": "2026-07-01T11:03:49Z",
-      "repo_blob_sha": "a60c295bb2dc3a9f8776567a1606c4ac11c55f8f",
-      "repo_hash_at_sync": "ad60d9f0f1ffce4e333bae0d7829b189bfe7d267ac9c986eef28ab4243b9d7f8",
+      "op_updated_at": "2026-07-01T21:22:30Z",
+      "repo_blob_sha": "93f4e9ddc48c8986e33d85fd8300d4a1392df010",
+      "repo_hash_at_sync": "03bbcf83df4abe1e2e219ddaf0b225e5c02d790a51aa5d041b50737537110f38",
       "repo_path": "lore/characters/jean-de-dinteville.textile"
     },
     "6f9dfa0ebbf147a791ed50efe8aceb19": {
@@ -777,9 +867,9 @@
       "op_id": "6f9dfa0ebbf147a791ed50efe8aceb19",
       "op_kind": "Wiki",
       "op_slug": "main-page",
-      "op_updated_at": "2026-07-01T11:04:44Z",
-      "repo_blob_sha": "1a8192d568c29d839dc60fa6faffffbef57d9621",
-      "repo_hash_at_sync": "653cf8255085ce73d09f920ae2601d9938183a16c4e6c005d4c6e7bcc11704ee",
+      "op_updated_at": "2026-07-01T21:22:20Z",
+      "repo_blob_sha": "da373d68e9b1abc3a900f645e1557a899663ee4d",
+      "repo_hash_at_sync": "7da57da21db89f15d4f44e4fc0bbcebc2fbbb0b184abddbc4fa60a1823498cf7",
       "repo_path": "lore/wiki/wiki/main-page.textile"
     },
     "6fa7cadf93784d9885bb792317fc8305": {
@@ -837,9 +927,9 @@
       "op_id": "72799128ec3843bbb489b2f8b72126af",
       "op_kind": "Character",
       "op_slug": "wilrin-racenglade",
-      "op_updated_at": "2026-06-28T09:50:36Z",
-      "repo_blob_sha": "dba459de0ff63feb694274741baeb25715e87bd8",
-      "repo_hash_at_sync": "42c5514edb4c0bd1e5ad663d440402356137dd5d27cdf88d3f3fa268dee7a200",
+      "op_updated_at": "2026-07-01T21:22:29Z",
+      "repo_blob_sha": "550c42d68589a2c7d17e05a54c3dfc49b98eaf39",
+      "repo_hash_at_sync": "1d260f1066ad87f4a1b527466fb44e3f3ae1488a556136d78871b1275291dc53",
       "repo_path": "lore/characters/wilrin-racenglade.textile"
     },
     "72c6d96ea30544f5b06f749d4aa2b5b2": {
@@ -847,10 +937,30 @@
       "op_id": "72c6d96ea30544f5b06f749d4aa2b5b2",
       "op_kind": "Character",
       "op_slug": "farseer-sybera-goela",
-      "op_updated_at": "2026-07-01T11:03:41Z",
-      "repo_blob_sha": "fe796acf51f305c59e5b4734002f038d7868c5da",
-      "repo_hash_at_sync": "f77d37cd827166b221049ad6a0a5131207c88f08e901e752051dcc57127f687a",
+      "op_updated_at": "2026-07-01T21:22:21Z",
+      "repo_blob_sha": "66dbe46999f324e5507ae8f10478d01a46d4d023",
+      "repo_hash_at_sync": "245f2286e1fe837ecdd343a96b72822740588adf3b06a6682fe45d5d23d671ca",
       "repo_path": "lore/characters/farseer-sybera-goela.textile"
+    },
+    "79cbc0a6018d4ba5a786a06a88825cf1": {
+      "last_synced_title": "Mask of Foreknowledge",
+      "op_id": "79cbc0a6018d4ba5a786a06a88825cf1",
+      "op_kind": "Wiki",
+      "op_slug": "mask-of-foreknowledge",
+      "op_updated_at": "2026-07-01T21:22:21Z",
+      "repo_blob_sha": "97b077be87f32f29ba3d415aa6f66775df5deb50",
+      "repo_hash_at_sync": "1d27d3e678a0667745e94c9cd3260e441685711848c632ae4172fa8c91f67bad",
+      "repo_path": "lore/wiki/wiki/mask-of-foreknowledge.textile"
+    },
+    "79eeb800243548f1842060e3b561b51a": {
+      "last_synced_title": "Swordbreaker",
+      "op_id": "79eeb800243548f1842060e3b561b51a",
+      "op_kind": "Wiki",
+      "op_slug": "swordbreaker",
+      "op_updated_at": "2026-07-01T21:22:34Z",
+      "repo_blob_sha": "471ae36ae12dcd835c556ae6b2fdc64a01bebb66",
+      "repo_hash_at_sync": "b1ffb71a3839ade8457b2d94766dd4da9048ab304d136134981ed38668fd3b4c",
+      "repo_path": "lore/wiki/wiki/swordbreaker.textile"
     },
     "7cf12b84564c445d8675e08194aad0d7": {
       "last_synced_title": "Kosmios",
@@ -867,9 +977,9 @@
       "op_id": "7d77af4f53574b049e98cd0a3784f6af",
       "op_kind": "Character",
       "op_slug": "nakoma-deathwalker-mor-got-ha",
-      "op_updated_at": "2026-07-01T18:50:21Z",
-      "repo_blob_sha": "bc3ad6f32de16f67521db55723396d665263447f",
-      "repo_hash_at_sync": "f1f224eaf061145bb51a7690dde78757093d95529075a9e92e7ec62f1c943a55",
+      "op_updated_at": "2026-07-02T11:38:24Z",
+      "repo_blob_sha": "03d9bc041ec6d49c136a07dd3187a3236051a4f5",
+      "repo_hash_at_sync": "b31c57303bb57c2c2a106e481c2adbb3146ed7db01a7c0322b61066a11c50198",
       "repo_path": "lore/characters/nakoma-deathwalker-mor-got-ha.textile"
     },
     "7f011f2f93db42fa949cd26d9d045dad": {
@@ -882,6 +992,16 @@
       "repo_hash_at_sync": "d66647000c62c329c9018314e687fceec4e61131009ee4cabc9abc9035d5d605",
       "repo_path": "lore/wiki/wiki/the-soulwind-calendar.textile"
     },
+    "81a1978b34424c498d06a44d2789cae5": {
+      "last_synced_title": "The Amulet of Stars",
+      "op_id": "81a1978b34424c498d06a44d2789cae5",
+      "op_kind": "Wiki",
+      "op_slug": "the-amulet-of-stars",
+      "op_updated_at": "2026-07-01T21:22:33Z",
+      "repo_blob_sha": "c01971b67828a58706eb24d5acf791df20ccda39",
+      "repo_hash_at_sync": "b2832303fc1e255c2a63756624ac1510bc8c81ef16391f690d025e09faf13bd3",
+      "repo_path": "lore/wiki/wiki/the-amulet-of-stars.textile"
+    },
     "8341c21d83f044fe8782f4d9656fc711": {
       "last_synced_title": "The White Dragon Coaching Inn",
       "op_id": "8341c21d83f044fe8782f4d9656fc711",
@@ -891,6 +1011,16 @@
       "repo_blob_sha": "8abeb3c07d29c01f456ae51253a13f53090b5d34",
       "repo_hash_at_sync": "843caf0296de46113e38fba0075803fd474b1843daa68dd0ea13059dc5cb2796",
       "repo_path": "lore/wiki/wiki/the-white-dragon-coaching-inn.textile"
+    },
+    "8357e6869b7a4e9783dab95f8af3bd25": {
+      "last_synced_title": "Bone Dice",
+      "op_id": "8357e6869b7a4e9783dab95f8af3bd25",
+      "op_kind": "Wiki",
+      "op_slug": "bone-dice",
+      "op_updated_at": "2026-07-01T21:22:09Z",
+      "repo_blob_sha": "550a64787e46005b8e9d5647c4674845bee120f3",
+      "repo_hash_at_sync": "60602919f70d060fed5fe97102eb3e3085fbcc831b8e711c48db1c4cb58a29af",
+      "repo_path": "lore/wiki/wiki/bone-dice.textile"
     },
     "868125b0dd1142c6b4c48fdf7cec741d": {
       "last_synced_title": "Dockward",
@@ -922,6 +1052,16 @@
       "repo_hash_at_sync": "cb1bb8e1444901cb0ff4de11f2460cb98e84d9286de7908d3c6a545fef5196be",
       "repo_path": "lore/wiki/wiki/scholars-ward.textile"
     },
+    "8cf52dfa5e534fda887040bcd4ad028b": {
+      "last_synced_title": "Notes on Triffid Research",
+      "op_id": "8cf52dfa5e534fda887040bcd4ad028b",
+      "op_kind": "Wiki",
+      "op_slug": "notes-on-triffid-research",
+      "op_updated_at": "2026-07-01T21:22:22Z",
+      "repo_blob_sha": "db31cd6606b16fa51930397293317e1a3633e7a1",
+      "repo_hash_at_sync": "ff1c64fe51c11c71943dd6bf0a6c35cc7d744a10d776665dd87f017566ed340d",
+      "repo_path": "lore/wiki/wiki/notes-on-triffid-research.textile"
+    },
     "9158c4ccd78347b48128359de14bb4c7": {
       "last_synced_title": "The Vermillion Company",
       "op_id": "9158c4ccd78347b48128359de14bb4c7",
@@ -937,10 +1077,20 @@
       "op_id": "93388607d1634c4da77ab0cd6103fbf7",
       "op_kind": "Wiki",
       "op_slug": "the-adventurers",
-      "op_updated_at": "2026-07-01T11:04:59Z",
-      "repo_blob_sha": "e960f653fa025f0012e1abb5d1a612e4253e7b76",
-      "repo_hash_at_sync": "0fe98db9637e42d14dec150ee9576ec6d11570da8f54876b84e9c925c3c6e1c1",
+      "op_updated_at": "2026-07-01T21:22:32Z",
+      "repo_blob_sha": "b1aac384123245b81f8e123d46f8ea7a90c9ff11",
+      "repo_hash_at_sync": "1fb2dc4398432ba66528bb68af385541d375ad702a9c1c8c7f87d690014180d4",
       "repo_path": "lore/wiki/wiki/the-adventurers.textile"
+    },
+    "95647ec6164e450f98ffe7b168db8b6e": {
+      "last_synced_title": "Private Warwick's Report",
+      "op_id": "95647ec6164e450f98ffe7b168db8b6e",
+      "op_kind": "Wiki",
+      "op_slug": "private-warwicks-report",
+      "op_updated_at": "2026-07-01T21:22:24Z",
+      "repo_blob_sha": null,
+      "repo_hash_at_sync": "2796a91cc7b690ebd4959ddeabd49f405cf3d412d28190771d402c43534db223",
+      "repo_path": "lore/wiki/wiki/private-warwicks-report.textile"
     },
     "9915ce65e3cb41caacd36bafb491a11a": {
       "last_synced_title": "Celebrant",
@@ -967,9 +1117,9 @@
       "op_id": "9c9f7ee7fc5d449daad869fb0c972bd9",
       "op_kind": "Character",
       "op_slug": "barnabus",
-      "op_updated_at": "2026-07-01T11:03:32Z",
-      "repo_blob_sha": "31419b51cd4bb5d9331e3230448b7c23c3377226",
-      "repo_hash_at_sync": "f33fe5c63f673064fcfaa969bfcd0b5cd9a90fb83cb4e1512a4802ecbc88ca6d",
+      "op_updated_at": "2026-07-01T21:22:28Z",
+      "repo_blob_sha": "cb643cb4c602796bf248f975edfe34851d344c27",
+      "repo_hash_at_sync": "c284e46f565dc9d7f1aaf835325a9a4432054cc47bbb3fbc47ba8a1389687042",
       "repo_path": "lore/characters/barnabus.textile"
     },
     "9d238159f301494ea08cd185326fe371": {
@@ -981,6 +1131,16 @@
       "repo_blob_sha": "665dd1138780033ee9e01407b031032630ca70ad",
       "repo_hash_at_sync": "f2a439cd54abf32a2ea5f67e63afaeef08cae4bbcc01668e211a4034a0124be3",
       "repo_path": "lore/characters/arouraios.textile"
+    },
+    "9ded0d990e7843c0aba38af113a1435d": {
+      "last_synced_title": "Oestra Effigy Blade",
+      "op_id": "9ded0d990e7843c0aba38af113a1435d",
+      "op_kind": "Wiki",
+      "op_slug": "oestra-effigy-blade",
+      "op_updated_at": "2026-07-01T21:22:23Z",
+      "repo_blob_sha": "8ba366e7d2f7ec765672bd5867356c5c52a9bca6",
+      "repo_hash_at_sync": "bc7b9273816967bc501eaf3ee79242a0f82665aff0eb6bcba032c0f756500fb5",
+      "repo_path": "lore/wiki/wiki/oestra-effigy-blade.textile"
     },
     "a100cad56baf4ec69e4dd9fe6b59f396": {
       "last_synced_title": "Zalatan",
@@ -1007,9 +1167,9 @@
       "op_id": "a42fa95fde774607b64cf67722e9f1db",
       "op_kind": "Wiki",
       "op_slug": "session-4-",
-      "op_updated_at": "2026-07-01T11:04:21Z",
-      "repo_blob_sha": "c00073f269e89c41d84fecbf8e17a6d0b00dac4a",
-      "repo_hash_at_sync": "06a4c8c9d1310d4e878073b82a639d035e06f97aa57046123b0540a27ec26367",
+      "op_updated_at": "2026-07-01T21:22:30Z",
+      "repo_blob_sha": "720d5c121b139d58e2a41fc559d6fb2b546412c9",
+      "repo_hash_at_sync": "fa6b471c7cfef9ff8713ce1cd8e7459e487050ff53f80cf024fef01c5001e666",
       "repo_path": "lore/wiki/adventure-log/session-4-.textile"
     },
     "a47b6e3ea9444853a1dd4ee5452f4b72": {
@@ -1087,9 +1247,9 @@
       "op_id": "b5169502faac497fb610e7d86f095561",
       "op_kind": "Character",
       "op_slug": "silas-oestra",
-      "op_updated_at": "2026-07-01T11:04:11Z",
-      "repo_blob_sha": "df4bb856f58c2477e61aef202b6b017a24593dc4",
-      "repo_hash_at_sync": "8cd8be341556f4ab5977cd4a86c9ee198d4b87d40a512800876c180c1e8f6930",
+      "op_updated_at": "2026-07-01T21:22:28Z",
+      "repo_blob_sha": "84e35362682c768ea6c98c5f0493f8aaa9cb230f",
+      "repo_hash_at_sync": "a2b1881b7c2c6ed6fd2c1620edea104c3df606b309056b49fce99b88b356909c",
       "repo_path": "lore/characters/silas-oestra.textile"
     },
     "b5905d329c974734a0bf65293f730993": {
@@ -1097,9 +1257,9 @@
       "op_id": "b5905d329c974734a0bf65293f730993",
       "op_kind": "Character",
       "op_slug": "lord-ablas-oestra",
-      "op_updated_at": "2026-07-01T11:03:55Z",
-      "repo_blob_sha": "c12f15aa5de30698f5072e1af212681f2b66c86b",
-      "repo_hash_at_sync": "10a7a5b44c0cff085c3011e9eb3e68235a6b30e988a302aaa6f39357164ce56c",
+      "op_updated_at": "2026-07-01T21:21:41Z",
+      "repo_blob_sha": "dcc49da5de8ea281854ddf8dfc82fc591afc5fc7",
+      "repo_hash_at_sync": "ac9209b340be83e851c5b104decb867b9c64eb863f5d328b13ba83a3d6f14c9b",
       "repo_path": "lore/characters/lord-ablas-oestra.textile"
     },
     "b6c4ec741a1547ac97e99c2c501e7434": {
@@ -1111,6 +1271,16 @@
       "repo_blob_sha": "e5ec99766598d48bf9c67b99b3df36dffd358868",
       "repo_hash_at_sync": "76c4dba18a6fe4281401c8e586faede51892e1b05fbddd97d4e7baba498eb070",
       "repo_path": "lore/wiki/wiki/the-octarion-circle.textile"
+    },
+    "b78d55b651ad4291b1fc08ac17abba36": {
+      "last_synced_title": "Sindrel Coach",
+      "op_id": "b78d55b651ad4291b1fc08ac17abba36",
+      "op_kind": "Wiki",
+      "op_slug": "sindrel-coach",
+      "op_updated_at": "2026-07-01T21:22:29Z",
+      "repo_blob_sha": "a3ca751f61e703035a04e5b62b1ef9bbcf973b61",
+      "repo_hash_at_sync": "a2a43d39832dd8710daab7c551e84974b282e7e6293c7bbb8719d33cb2790508",
+      "repo_path": "lore/wiki/wiki/sindrel-coach.textile"
     },
     "b7f1701bb8d4490598741896a5d2fdf1": {
       "last_synced_title": "Hexine Circle",
@@ -1147,9 +1317,9 @@
       "op_id": "b98a65653b164125a107c0b7e65305a6",
       "op_kind": "Character",
       "op_slug": "georges-de-selve",
-      "op_updated_at": "2026-07-01T11:03:45Z",
-      "repo_blob_sha": "9c500b4c3df1299390c9cfd5687ace9ff6fcec9a",
-      "repo_hash_at_sync": "fd94b89d05196b455bae837ce3cb71246780e6afbf512bdcba20583ecc68fd63",
+      "op_updated_at": "2026-07-01T21:22:30Z",
+      "repo_blob_sha": "3c66e75ff1f07bf6cbd16cd1cbd65527ae116480",
+      "repo_hash_at_sync": "2e3d678544ac58f9c58426a1f354e11a5b3881490a2e966d7801073c25f25268",
       "repo_path": "lore/characters/georges-de-selve.textile"
     },
     "ba04065d82a84b0bb7719d137b915843": {
@@ -1217,19 +1387,29 @@
       "op_id": "bec37da3d0fa4328b69c7331ade9d219",
       "op_kind": "Character",
       "op_slug": "hytham-grimbolg",
-      "op_updated_at": "2026-07-01T11:03:48Z",
-      "repo_blob_sha": "c6b4648729ecbc6edd35227deff25e32e850c23b",
-      "repo_hash_at_sync": "792da68f5e572b43fd37958ad6bf7f708030f70ca439856986538b672a1d509e",
+      "op_updated_at": "2026-07-01T21:21:36Z",
+      "repo_blob_sha": "606d472659a31eb27ce1a0e7f38ff9900d5e85df",
+      "repo_hash_at_sync": "ffe35d5bd65cb7b0f18fdbad46012ff739370f6a9997bf62b32c986d9424896e",
       "repo_path": "lore/characters/hytham-grimbolg.textile"
+    },
+    "bf30dab3b2a14a709f0d7b962a87bf20": {
+      "last_synced_title": "Hesh",
+      "op_id": "bf30dab3b2a14a709f0d7b962a87bf20",
+      "op_kind": "Wiki",
+      "op_slug": "hesh",
+      "op_updated_at": "2026-07-01T21:22:13Z",
+      "repo_blob_sha": "88973bf9a74d5cef7ad2fec1335adefef70f1df2",
+      "repo_hash_at_sync": "ff32d2e03c90f983cc0bf5278c88255a336be98996db5c262a4bd3ba4f10d72d",
+      "repo_path": "lore/wiki/wiki/hesh.textile"
     },
     "bfca45581bef4281987c4945c4d5f2a7": {
       "last_synced_title": "Quarantine Zone",
       "op_id": "bfca45581bef4281987c4945c4d5f2a7",
       "op_kind": "Wiki",
       "op_slug": "quarantine-zone",
-      "op_updated_at": "2026-07-01T11:04:50Z",
-      "repo_blob_sha": "8a7f271f7fb69f118e72dc407ff84c4930a69923",
-      "repo_hash_at_sync": "0f9f053c926936394b8c373706928e3107bcd970c9e0cb81a5b119e45e2cf77b",
+      "op_updated_at": "2026-07-01T21:22:26Z",
+      "repo_blob_sha": "dda093f79d2ad49ca23da2c896d536ed49eb6748",
+      "repo_hash_at_sync": "69dcfb6027a007a7073f3f9b6cedb458bbe9a140341093addc2fdeb0ba71e913",
       "repo_path": "lore/wiki/wiki/quarantine-zone.textile"
     },
     "c02b0d7de3e649d6a322a9c890478e85": {
@@ -1287,9 +1467,9 @@
       "op_id": "c725789526cf4344afa123ca83d9e4b7",
       "op_kind": "Character",
       "op_slug": "first-of-mabon",
-      "op_updated_at": "2026-07-01T11:03:42Z",
-      "repo_blob_sha": "54568443ba272d967b71d2602fe32aecff0bf117",
-      "repo_hash_at_sync": "370eece07f3dcb426263b406f40dc3617ff393714f114922647b1de9217ce426",
+      "op_updated_at": "2026-07-01T21:22:33Z",
+      "repo_blob_sha": "e04dcb3b009c62e9b6b1ae709a810ed3c2c88080",
+      "repo_hash_at_sync": "014f6276f8ec164d9847011b1e1c232dc97e7abc454f368f6ad6dc81aaf2c45b",
       "repo_path": "lore/characters/first-of-mabon.textile"
     },
     "c81a1f5fa5854aa3b3ba2e29eb089cab": {
@@ -1307,9 +1487,9 @@
       "op_id": "c81fb8888f854632a2f5bcafa7b89e5a",
       "op_kind": "Wiki",
       "op_slug": "fallowhurst-college",
-      "op_updated_at": "2026-07-01T11:04:32Z",
-      "repo_blob_sha": "74ffda05d128ac369a905f1806c4cc9fa05ba44e",
-      "repo_hash_at_sync": "767076a5d648efab212d55da0a6ec0c817dcc23aa059596fec15e7db8288214b",
+      "op_updated_at": "2026-07-01T21:22:22Z",
+      "repo_blob_sha": "e8df838057926881fffec83dc4403d3bf3ef58f5",
+      "repo_hash_at_sync": "4fb4458515941053cf1aa07993b7d36a767fb21c6afd78d8d4a17b7e993141ac",
       "repo_path": "lore/wiki/wiki/fallowhurst-college.textile"
     },
     "c86f013976e7444682e3b40e86194b63": {
@@ -1341,6 +1521,26 @@
       "repo_blob_sha": "e2b9d52ba27b233c3c358f1180e2f0e523873f69",
       "repo_hash_at_sync": "93b8811c6e8495c714d17bbe7e97616d550e69ebc185c774a8a2f8612fa50019",
       "repo_path": "lore/wiki/wiki/the-fey.textile"
+    },
+    "cddd1f14cf6147b0829393b2f5e02ec9": {
+      "last_synced_title": "Silver Guest Bracelet",
+      "op_id": "cddd1f14cf6147b0829393b2f5e02ec9",
+      "op_kind": "Wiki",
+      "op_slug": "silver-guest-bracelet",
+      "op_updated_at": "2026-07-01T21:22:28Z",
+      "repo_blob_sha": "47415ea7698bf495713456745775a9c2087e9cf4",
+      "repo_hash_at_sync": "27e5701b74fc441a0211705f21c75da95a8718a7bb6900fb5107b8368aec4b36",
+      "repo_path": "lore/wiki/wiki/silver-guest-bracelet.textile"
+    },
+    "d103a4f09cf541cf9431c175d81cdc1b": {
+      "last_synced_title": "Anasthetic Scalpel",
+      "op_id": "d103a4f09cf541cf9431c175d81cdc1b",
+      "op_kind": "Wiki",
+      "op_slug": "anasthetic-scalpel",
+      "op_updated_at": "2026-07-01T21:22:07Z",
+      "repo_blob_sha": "cbbdecbd3cf77798bb1ebb5f36f0c6391d33ed34",
+      "repo_hash_at_sync": "a9081cc699ba4585d6d217ce83c50551d8f47a71099c255c3941665a5b8fba70",
+      "repo_path": "lore/wiki/wiki/anasthetic-scalpel.textile"
     },
     "d4679ff89d864234a7270fd50dcb74eb": {
       "last_synced_title": "Session 1: The White Dragon",
@@ -1397,9 +1597,9 @@
       "op_id": "dee245ec8f0b4a82baf00118cd29ce33",
       "op_kind": "Wiki",
       "op_slug": "session-2-fallowhurst",
-      "op_updated_at": "2026-07-01T11:04:18Z",
-      "repo_blob_sha": "503dcc71df155fc6fac530b25ef11858126b3020",
-      "repo_hash_at_sync": "26f8f3ca81a52c6b7b3b10fd38787669ca1a437651c948d3ad24a5ff12ce13ca",
+      "op_updated_at": "2026-07-01T21:22:30Z",
+      "repo_blob_sha": "5b1d50623e8acbb59044fd119ee2f22cedff9ed8",
+      "repo_hash_at_sync": "df7e7e43423a7f802dbd391de511e2300c52f5c405246d9edff2bfd991b43278",
       "repo_path": "lore/wiki/adventure-log/session-2-fallowhurst.textile"
     },
     "e0ce8b55356e42aca44de9ebc35e33cf": {
@@ -1407,9 +1607,9 @@
       "op_id": "e0ce8b55356e42aca44de9ebc35e33cf",
       "op_kind": "Wiki",
       "op_slug": "house-goela",
-      "op_updated_at": "2026-07-01T11:04:37Z",
-      "repo_blob_sha": "f60a530d3478671980da39dd3410dc8db619e67b",
-      "repo_hash_at_sync": "cf91e40da8ce6985ff469f4fedf0c4bacc8f4f2665912a13fe5b0444973ea492",
+      "op_updated_at": "2026-07-01T21:22:21Z",
+      "repo_blob_sha": "d107508845e7d7654b6920d87f53d3d105375580",
+      "repo_hash_at_sync": "78ad93ffe84aca421c1b4ac610f6386d9c6e226b7af22f0b2cf2b2f4524e353b",
       "repo_path": "lore/wiki/wiki/house-goela.textile"
     },
     "e12cd3da90b44b63a004da5715927ff5": {
@@ -1417,9 +1617,9 @@
       "op_id": "e12cd3da90b44b63a004da5715927ff5",
       "op_kind": "Character",
       "op_slug": "hielaman",
-      "op_updated_at": "2026-07-01T11:03:46Z",
-      "repo_blob_sha": "5f101b3c3d554232708863ebff0110cd542c33c9",
-      "repo_hash_at_sync": "812cf35c39411225086ddc293f913f64e7fc7a72cd98477febaeaa84a83f197c",
+      "op_updated_at": "2026-07-01T21:22:25Z",
+      "repo_blob_sha": "3a716514836192bf241e69fd59cec71e399674f0",
+      "repo_hash_at_sync": "e5d0f8cc18e6fbf25ab30f431127bbac666fa965cefdc23844f8d0c1f493a9da",
       "repo_path": "lore/characters/hielaman.textile"
     },
     "e2da37ba92ce4862a0165713a93c5a64": {
@@ -1447,19 +1647,29 @@
       "op_id": "e7ad041dba144a5b9b50fa5cc8bb6f8a",
       "op_kind": "Wiki",
       "op_slug": "session-9-downtime-2",
-      "op_updated_at": "2026-07-01T11:04:26Z",
-      "repo_blob_sha": "f0d0e677e4766fd2ef46e6526dc294b63c785b11",
-      "repo_hash_at_sync": "f8fdd029d642a36b2d3a091ed9cbe13ffaca3148d88a7b01343401b387dd63be",
+      "op_updated_at": "2026-07-01T21:22:18Z",
+      "repo_blob_sha": "6cc1ad7e02cf300a653e01a9ee77885fc65c19dc",
+      "repo_hash_at_sync": "e37e370700ec850aa807043485166e2764b79c4b4aa2c6029a30786fbad960e3",
       "repo_path": "lore/wiki/adventure-log/session-9-downtime-2.textile"
+    },
+    "e7d265e981124e65ac33a9516d0dce1d": {
+      "last_synced_title": "Map of Fallowhurst College",
+      "op_id": "e7d265e981124e65ac33a9516d0dce1d",
+      "op_kind": "Wiki",
+      "op_slug": "map-of-fallowhurst-college",
+      "op_updated_at": "2026-07-01T21:22:20Z",
+      "repo_blob_sha": "a42a48b4a3923dbafcecf0c3d2aed79e6865e074",
+      "repo_hash_at_sync": "c01e3d50384838c9bf8a2da1bd553a3426b1d2efbd5eb5f67cf5ab19cb35d138",
+      "repo_path": "lore/wiki/wiki/map-of-fallowhurst-college.textile"
     },
     "eee373837b7b42ae83fffb913d22290c": {
       "last_synced_title": "High Summoner Nial Beltus",
       "op_id": "eee373837b7b42ae83fffb913d22290c",
       "op_kind": "Character",
       "op_slug": "high-summoner-nial-beltus",
-      "op_updated_at": "2026-07-01T11:03:47Z",
-      "repo_blob_sha": "33a663b9d4839cc63bc7e32fd39d8f64ac8b071b",
-      "repo_hash_at_sync": "cb36714aed4a9e90fa93db4565b02d865676d56da9e226aab23ee40f82131662",
+      "op_updated_at": "2026-07-01T21:21:34Z",
+      "repo_blob_sha": "e613faa8f1b68e8fb75daa534cae8af7c0660236",
+      "repo_hash_at_sync": "848ed647ec50e0fc626b8423bf471cfeb8dd9324e547670b31702e3642de4894",
       "repo_path": "lore/characters/high-summoner-nial-beltus.textile"
     },
     "f0cdec730cc34d19b2719b28128b7b2b": {
@@ -1481,6 +1691,16 @@
       "repo_blob_sha": "5596b100d0c624741e559e7114ee1f1e48ddc578",
       "repo_hash_at_sync": "d3600806b6918f6a8dc85ff8ebe154b298076c20786f295c875d0793d3c69b13",
       "repo_path": "lore/characters/raymond-quill.textile"
+    },
+    "f3e49e3e606a4bf390a24ae1c3f75c89": {
+      "last_synced_title": "Fallowhurst College Master Key",
+      "op_id": "f3e49e3e606a4bf390a24ae1c3f75c89",
+      "op_kind": "Wiki",
+      "op_slug": "fallowhurst-college-master-key",
+      "op_updated_at": "2026-07-01T21:22:11Z",
+      "repo_blob_sha": "823737794b9a47e014b408777698cd7292e03546",
+      "repo_hash_at_sync": "3b2b78db5f288795386998ad8c6af792fe6185195ef73285d5909aa7c49c74b1",
+      "repo_path": "lore/wiki/wiki/fallowhurst-college-master-key.textile"
     },
     "f6968888c89c44bfa3db1aeb8781004d": {
       "last_synced_title": "The Pointed Hat",

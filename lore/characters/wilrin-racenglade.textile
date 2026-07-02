@@ -7,7 +7,7 @@ name: Wilrin Ravenglade
 title: Wilrin Ravenglade
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/wilrin-racenglade
 op_created_at: '2025-12-14T17:07:18Z'
-op_updated_at: '2026-06-28T00:14:35Z'
+op_updated_at: '2026-07-01T21:22:29Z'
 op_gm_only: false
 is_player_character: true
 tags:

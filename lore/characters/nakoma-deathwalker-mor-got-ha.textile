@@ -7,7 +7,7 @@ name: Nakoma Deathwalker Mor'got'ha
 title: Nakoma Deathwalker Mor'got'ha
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/nakoma-deathwalker-mor-got-ha
 op_created_at: '2025-12-14T19:32:39Z'
-op_updated_at: '2026-07-01T18:50:21Z'
+op_updated_at: '2026-07-02T11:38:24Z'
 op_gm_only: false
 is_player_character: true
 tags:
@@ -35,4 +35,31 @@ h2. [[The Fallowhurst Sigil | The Fallowhurst Sigil]]
 You and [[:wilrin-racenglade | Wilrin Ravenglade]] were branded with matching sigil scars when his blood-magic attempt with the [[The Fallowhurst Sigil | Fallowhurst sigil]] at [[Fallowhurst College | Fallowhurst College]] backfired. The binding still has teeth:
 
 Whenever you take damage, Wilrin rolls a d8. On a 1, you take half damage and he takes the rest.
+
+h2. Backstory v1
+
+Slain in the battle of Brass Meade Bridge where she and a handful of goliath warriors held the bridge to delay the [[The Thaumocracy of Tellerin | Tellerites]]. Was revived by [[:nitherfang-gilfrarrin | Nitherfang Gilfrarrin]] who sought to use the legendary warrior of Brass Meade Bridge to bring death on his enemies. He manipulated Nakoma into doing his bidding however before he could request his final task Nakoma broke free of his will and beheaded the necromancer. For a long while she wandered the world but soon all around her had died or moved on and now she seeks her final rest but in order to die she must first resurrect Nitherfang. Nakoma carries the shrunken head of her former master on her belt in hopes she will find someone willing to take the risk of resurrecting him.
+
+Nitherfang Gilfarrin is a necromancer who was ousted from the guild of (whatever you called necromancer) for crimes most nefarious. He is generally considered evil which makes finding a necromancer to revive his shrunken head difficult. On top of that there is the necromancers code which explicitly forbids resurrecting another necromancer. Also anyone who takes the risk of resurrecting Nitherfang must be able to overcome the will of one of the most evil necromancers from the past 100 years.
+
+GROWL (Goliath Regiment Of War Leaders)
+
+h2. Backstory v2
+
+Nakoma was born to the Mor'got'ha mountain clan. She quickly distinguished herself as a warrior of mighty prowess winning renown in the small clan skirmishes of her home range. She quickly moved beyond the squabbles of the inter-clan relations and joined GROWL (Goliath Regiment Of War Leaders) where she became a highly regarded military commander. She commanded vast legions of the  Combined Interspecies Battalion Against Evil Doers Army (CIBAEDA). Their most significant campaign was fought against the Necromantic army of the Tellerites. There she got the name Deathbringer, for where she walked the field of battle death would follow, leading several battalions through impossible odds to victory. 
+
+Due to her renown she was stationed at the Brass Meade Bridge, and it was there that she finally met her end for the notorious necromancer Nitherfang Gilfrarrin came for her soul. Having heard of her great deeds and impossible strength he sought her out to pull her into his army of the undead. The battle of Brass Meade Bridge is remembered as one of the most bloody campaigns of the Wars of the Dead. Nakoma and her warriors held the bridge for 10 days of consistent fighting, battling the necromantic armies and then their fellow fallen soldiers as the were resurrected from their graves. Eventually it was one such resurrection that spelt the end for Nakoma, her oathsworn had been killed on the 7th day and on the 10th she faced them in battle. Nakoma knew she could not bring herself to dessicate the corpse of the one she had sworn her life to, Minara, and so instead she blew the bridge she had been asked to hold allowing the rushing white waters of Brass Meade to wash away the dead of both sides and forcing the necromantic army to retreat. To find a crossing elsewhere. 
+
+However that was not to be Nakoma's end. Nitherfang hunted down Nakoma's body and bound her soul to his service as his personal bodyguard and military adviser. This caused a significant advance for the necromantic armies. Nakoma spent many years as a slave to Nitherfang, acting as his executioner. It took many years for Nakoma to develop the willpower to resist her masters influence, but with every execution she was forced to perform she began drawing power from her rage at the actions forced on her by his hand and was eventually able to overpower and behead Nitherfang and she took his head as her trophy. Sadly that was not the end for Nakoma as the spell that held her to the world did not break with Nitherfangs death. For a while she lost herself to the rage at her situation, kill every necromancer she could find as she believed them all to carry the same evil in them as Nitherfang, and she believed this to be the reason she still walked the earth. But eventually she realised that everyone she knew was dying of old age or battle but she remained. 
+
+For a while she wandered as a sell sword, lending her skills for any who could pay the coin. She made friends, took lovers, fought monsters, but as everyone continued to live their lives and grow old she remained preserved like a corpse. Eventually she sought out a Deathsigner, one of her people who tended the souls of the death. 
+
+"Will I ever die?"
+"One who is not alive cannot die, you walk the paths of the dead but you are not one of them."
+
+It was at this time she took the name Deathwalker. Deathwalker spent many years in the company of the Deathsinger, and it was with her that she found companionship again but it was ever tainted by the knowledge that Deathwalker would remain and Deathsinger would eventually die. When the day came, Deathsinger revealed that she had known how Deathwalker could die, but had kept the knowledge from her so that she could keep her company and Deathsinger wouldn't have to tend to her soul before she passed from the world. The Deathsinger informed Deathwalker that in order for her to die it meant bringing a great evil back into it and it would be the hardest battle she would ever fight. She could bring back Nitherfang to force him to release her soul from his spell and then she would be free to die, but to do so bring back the most evil necromancer known to history. 
+
+Emotionally betrayed and battling with the morality of her choice Deathwalker set out to find a necromancer that might help her. But her reputation preceded her, the Slayer of Death was not welcome among reputable necromantic houses and they would never revive the worst of their order for any price. The Death markets were no used either as their necromancers had little power and none had the knowledge of necromantic revival for a corpse so far gone and so steeped in its own dark desires. 
+
+As magic began to fade Deathwalker trekked across the world seeking a solution. As such she witnessed first hand the fading of magic. She bartered her travels by falling back on her mercenary days, lending aid to those who could pay and those who could not depending on her mood. What need of money did she have when she couldn't be killed by starvation or the elements. She saw kings rise and fall, even aided a rebellion or two resigned to her fate. But then she heard tell of the last bastion of magic that was Sindrel. And in hushed whispers she heard about the necromantic ruins within the city which may hold a solution to her eternal problem.
 <!-- GM_INFO_END -->

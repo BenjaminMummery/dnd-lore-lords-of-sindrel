@@ -1,9 +1,13 @@
 ---
+op_id: 1be27c0d45f44e39a9f2a6ef113428e0
 op_slug: peaches-of-immortality
 op_kind: Wiki
 op_type: WikiPage
 name: Peaches of Immortality
 title: Peaches of Immortality
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/peaches-of-immortality
+op_created_at: '2026-07-01T21:22:24Z'
+op_updated_at: '2026-07-01T21:22:33Z'
 op_gm_only: true
 tags:
 - item

@@ -1,9 +1,13 @@
 ---
+op_id: cddd1f14cf6147b0829393b2f5e02ec9
 op_slug: silver-guest-bracelet
 op_kind: Wiki
 op_type: WikiPage
 name: Silver Guest Bracelet
 title: Silver Guest Bracelet
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/silver-guest-bracelet
+op_created_at: '2026-07-01T21:22:28Z'
+op_updated_at: '2026-07-01T21:22:28Z'
 op_gm_only: false
 tags:
 - item

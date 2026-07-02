@@ -1,0 +1,30 @@
+---
+op_id: 95647ec6164e450f98ffe7b168db8b6e
+op_slug: private-warwicks-report
+op_kind: Wiki
+op_type: WikiPage
+name: Private Warwick's Report
+title: Private Warwick's Report
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/private-warwicks-report
+op_created_at: '2026-07-01T21:22:24Z'
+op_updated_at: '2026-07-01T21:22:24Z'
+op_gm_only: false
+tags:
+- item
+- document
+---
+
+A report of the adventurer's journey from the White Dragon to the Fallowhurst Outpost compiled by Private Sebastian Warwick.
+
+The Adventurers elected not to read the report before delivering it to Captain Hielaman, so its precise contents are unknown. Based on their conversation with Private Sebastian Warwick, they can infer that it includes the following:
+
+The adventurers departed The White Dragon Coaching Inn in the company of Dulcinea, Pthul, and two merchants.
+They were ambushed by Anathemists. The Mercenary Captain was slain by an Anathemist Commander utilising an unknown weapon.
+Diverting from the main road, they journeyed through Fallowhurst, exploring part of Fallowhurst College and survivng an encounter with The Plague Doctor.
+
+The following details were omitted from their discussion with Warwick, so are likely absent from the report:
+
+* The full name of [[Carlos Winterborne | Subject 1]]
+* The recovery of the [[Anasthetic Scalpel | Anasthetic Scalpel]].
+
+**Current holder:** [[:hielaman | Captain Hielaman]] (received unopened from [[The Adventurers | the Wonch]], 26 Enean 4218 SC).

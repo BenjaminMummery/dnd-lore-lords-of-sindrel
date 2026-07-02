@@ -1,9 +1,13 @@
 ---
+op_id: 79cbc0a6018d4ba5a786a06a88825cf1
 op_slug: mask-of-foreknowledge
 op_kind: Wiki
 op_type: WikiPage
 name: Mask of Foreknowledge
 title: Mask of Foreknowledge
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/mask-of-foreknowledge
+op_created_at: '2026-07-01T21:22:21Z'
+op_updated_at: '2026-07-01T21:22:21Z'
 op_gm_only: true
 tags:
 - item

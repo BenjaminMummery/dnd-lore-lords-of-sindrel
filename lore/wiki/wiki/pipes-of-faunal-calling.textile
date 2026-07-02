@@ -1,9 +1,13 @@
 ---
+op_id: 618b4a6b80ed422c8817e3098513251a
 op_slug: pipes-of-faunal-calling
 op_kind: Wiki
 op_type: WikiPage
 name: Pipes of Faunal Calling
 title: Pipes of Faunal Calling
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/pipes-of-faunal-calling
+op_created_at: '2026-07-01T21:22:24Z'
+op_updated_at: '2026-07-01T21:22:24Z'
 op_gm_only: false
 tags:
 - item

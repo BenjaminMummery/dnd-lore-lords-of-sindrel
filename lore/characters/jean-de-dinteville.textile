@@ -7,7 +7,7 @@ name: Merchant 2
 title: Merchant 2
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/jean-de-dinteville
 op_created_at: '2026-02-01T16:44:52Z'
-op_updated_at: '2026-07-01T11:03:49Z'
+op_updated_at: '2026-07-01T21:22:30Z'
 op_gm_only: false
 is_player_character: false
 tags:

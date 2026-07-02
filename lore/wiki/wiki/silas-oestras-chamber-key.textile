@@ -1,9 +1,13 @@
 ---
+op_id: 02e6627c096142f595dcedfec7e7017f
 op_slug: silas-oestras-chamber-key
 op_kind: Wiki
 op_type: WikiPage
 name: Silas Oestra's Chamber Key
 title: Silas Oestra's Chamber Key
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/silas-oestras-chamber-key
+op_created_at: '2026-07-01T21:22:28Z'
+op_updated_at: '2026-07-01T21:22:28Z'
 op_gm_only: true
 tags:
 - item

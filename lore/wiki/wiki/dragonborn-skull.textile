@@ -1,9 +1,13 @@
 ---
+op_id: 012d92825b8a4b7fa7bf134f23f6bcb1
 op_slug: dragonborn-skull
 op_kind: Wiki
 op_type: WikiPage
 name: Dragonborn Skull
 title: Dragonborn Skull
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/dragonborn-skull
+op_created_at: '2026-07-01T21:22:10Z'
+op_updated_at: '2026-07-01T21:22:10Z'
 op_gm_only: false
 tags:
 - item

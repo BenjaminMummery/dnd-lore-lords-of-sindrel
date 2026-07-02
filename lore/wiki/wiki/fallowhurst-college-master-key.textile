@@ -1,9 +1,13 @@
 ---
+op_id: f3e49e3e606a4bf390a24ae1c3f75c89
 op_slug: fallowhurst-college-master-key
 op_kind: Wiki
 op_type: WikiPage
 name: Fallowhurst College Master Key
 title: Fallowhurst College Master Key
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/fallowhurst-college-master-key
+op_created_at: '2026-07-01T21:22:11Z'
+op_updated_at: '2026-07-01T21:22:11Z'
 op_gm_only: true
 tags:
 - item

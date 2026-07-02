@@ -7,7 +7,7 @@ name: Lord Ablas Oestra
 title: Lord Ablas Oestra
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/lord-ablas-oestra
 op_created_at: '2025-11-26T18:29:51Z'
-op_updated_at: '2026-07-01T11:03:55Z'
+op_updated_at: '2026-07-01T21:21:41Z'
 op_gm_only: true
 is_player_character: false
 tags:

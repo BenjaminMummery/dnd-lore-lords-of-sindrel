@@ -1,9 +1,13 @@
 ---
+op_id: 4218123e54f44a588e83d83288cfc883
 op_slug: knuckledusters
 op_kind: Wiki
 op_type: WikiPage
 name: Knuckledusters
 title: Knuckledusters
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/knuckledusters
+op_created_at: '2026-07-01T21:22:18Z'
+op_updated_at: '2026-07-01T21:22:18Z'
 op_gm_only: false
 tags:
 - item

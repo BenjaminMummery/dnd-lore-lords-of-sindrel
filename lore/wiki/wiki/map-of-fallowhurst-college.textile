@@ -1,9 +1,13 @@
 ---
+op_id: e7d265e981124e65ac33a9516d0dce1d
 op_slug: map-of-fallowhurst-college
 op_kind: Wiki
 op_type: WikiPage
 name: Map of Fallowhurst College
 title: Map of Fallowhurst College
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/map-of-fallowhurst-college
+op_created_at: '2026-07-01T21:22:20Z'
+op_updated_at: '2026-07-01T21:22:20Z'
 op_gm_only: true
 tags:
 - item

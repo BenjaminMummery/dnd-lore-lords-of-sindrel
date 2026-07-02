@@ -1,9 +1,13 @@
 ---
+op_id: 79eeb800243548f1842060e3b561b51a
 op_slug: swordbreaker
 op_kind: Wiki
 op_type: WikiPage
 name: Swordbreaker
 title: Swordbreaker
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/swordbreaker
+op_created_at: '2026-07-01T21:22:30Z'
+op_updated_at: '2026-07-01T21:22:34Z'
 op_gm_only: false
 tags:
 - item
