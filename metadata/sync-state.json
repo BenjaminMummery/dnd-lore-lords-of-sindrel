@@ -458,7 +458,7 @@
       "op_kind": "Wiki",
       "op_slug": "cel-s",
       "op_updated_at": "2026-07-01T21:22:34Z",
-      "repo_blob_sha": null,
+      "repo_blob_sha": "c707dd75f4a91b02be8ec054708160341488957a",
       "repo_hash_at_sync": "d95c74bd5677e5f47463b5a2d2ae5275df15e4b21b53b7eeab8d3804a835ea44",
       "repo_path": "lore/wiki/wiki/cel-s.textile"
     },
@@ -1088,7 +1088,7 @@
       "op_kind": "Wiki",
       "op_slug": "private-warwicks-report",
       "op_updated_at": "2026-07-01T21:22:24Z",
-      "repo_blob_sha": null,
+      "repo_blob_sha": "666f0fd51d39bdc1b6265a5eacbb7292772ddde1",
       "repo_hash_at_sync": "2796a91cc7b690ebd4959ddeabd49f405cf3d412d28190771d402c43534db223",
       "repo_path": "lore/wiki/wiki/private-warwicks-report.textile"
     },
