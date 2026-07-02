@@ -1,9 +1,13 @@
 ---
-op_slug: the-gladius
+op_id: 65fe644e7b0e4ed0ac5a4469601a8f73
+op_slug: gladius
 op_kind: Wiki
 op_type: WikiPage
 name: Gladius
 title: Gladius
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/gladius
+op_created_at: '2026-07-02T15:57:27Z'
+op_updated_at: '2026-07-02T15:57:27Z'
 op_gm_only: false
 tags:
 - item
