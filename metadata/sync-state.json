@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-06-28T19:40:28Z",
-  "last_portal_pull": "2026-07-02T15:51:34Z",
+  "last_portal_pull": "2026-07-02T15:56:06Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -843,13 +843,13 @@
       "repo_path": "lore/wiki/wiki/the-griffons-talon.textile"
     },
     "6e743e303c85421f9e1f25a358416a6e": {
-      "last_synced_title": "Session 5: The Investigation Begins.",
+      "last_synced_title": "Session 5: The Investigation Begins",
       "op_id": "6e743e303c85421f9e1f25a358416a6e",
       "op_kind": "Wiki",
       "op_slug": "session-5-the-investigation-begins",
-      "op_updated_at": "2026-07-01T21:22:04Z",
-      "repo_blob_sha": "eedc63f599cb0e8ee1b14313ef67249e226d2d89",
-      "repo_hash_at_sync": "942c698570c08670c3bec09c80b62be0edd4f293467ce4daadb847f8d7eccfca",
+      "op_updated_at": "2026-07-02T15:52:20Z",
+      "repo_blob_sha": "0844712ad5ce594378864489c995e8578415a2db",
+      "repo_hash_at_sync": "8043d51cb70847f3fbcaaefd6b1c725e14faecb81aa6f331a5e59668b78db48c",
       "repo_path": "lore/wiki/adventure-log/session-5-the-investigation-begins.textile"
     },
     "6eacb1bcf1914d3ab6564eada8c4d045": {
