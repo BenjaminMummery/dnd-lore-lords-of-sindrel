@@ -1,13 +1,13 @@
 ---
-op_id: a3f8c2d91e4b4a6f9c0d1e2f3a4b5c6d
+op_id: aa02ab3ce62f4689aa31a1de853374b9
 op_slug: the-city-cats
 op_kind: Wiki
 op_type: WikiPage
 name: The City Cats
 title: The City Cats
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-city-cats
-op_created_at: '2026-06-26T12:00:00Z'
-op_updated_at: '2026-06-26T12:00:00Z'
+op_created_at: '2026-07-02T15:57:18Z'
+op_updated_at: '2026-07-02T15:57:18Z'
 op_gm_only: false
 tags:
 - Organisation

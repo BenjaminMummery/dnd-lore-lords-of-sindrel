@@ -1,9 +1,13 @@
 ---
+op_id: c8478d23d0c846acbe6807329bdfff94
 op_slug: the-gentlemans-greeting
 op_kind: Wiki
 op_type: WikiPage
 name: The Gentleman's Greeting
 title: The Gentleman's Greeting
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-gentlemans-greeting
+op_created_at: '2026-07-02T15:57:25Z'
+op_updated_at: '2026-07-02T15:57:25Z'
 op_gm_only: false
 tags:
 - item

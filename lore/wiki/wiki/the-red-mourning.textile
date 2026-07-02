@@ -1,9 +1,13 @@
 ---
+op_id: 46e3468d573f4714bd7ff0fb59d65696
 op_slug: the-red-mourning
 op_kind: Wiki
 op_type: WikiPage
 name: The Red Mourning
 title: The Red Mourning
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-red-mourning
+op_created_at: '2026-07-02T15:57:34Z'
+op_updated_at: '2026-07-02T15:57:34Z'
 op_gm_only: true
 tags:
 - item
