@@ -10,7 +10,7 @@ tags:
 - weapon
 ---
 
-A scalpel originally wielded by [[Embren Oestra | the Plague Doctor]] of [[Fallowhurst | Fallowhurst]].
+A scalpel originally wielded by [[:embren-oestra | the Plague Doctor]] of [[Fallowhurst | Fallowhurst]].
 
 Following an encounter with The Wonch, the scalpel came into the possession of [[:wilrin-racenglade | Wilrin Ravenglade]].
 

@@ -11,6 +11,12 @@ repos:
         files: \.textile$
   - repo: local
     hooks:
+      - id: check-wiki-links
+        name: check wiki links
+        entry: python3 scripts/check_wiki_links.py
+        language: system
+        files: ^lore/.*\.textile$
+        pass_filenames: false
       - id: generate-lore-dashboard
         name: generate lore dashboard
         entry: python3 scripts/generate_lore_dashboard.py
