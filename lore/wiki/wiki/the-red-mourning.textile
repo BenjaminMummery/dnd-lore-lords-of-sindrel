@@ -14,11 +14,13 @@ tags:
 - jewelry
 ---
 
-The symbolic ring of [[The Eighth House | House Samhain]]. A silver band set with a magnificent jet-black stone. Depicted in surviving founder art where Samhain is not erased from civic memory.
+The symbolic ring of [[The Eighth House | House Samhain]]. A silver band set with a magnificent jet-black stone.
 
 Public history treats the ring as a relic of the fallen House. A connection to it also lingers in the [[Quarantine Zone | Quarantine Zone]], where fragments of Samhain's domain still lie sealed.
 
 <!-- GM_INFO_START -->
+Depicted in surviving founder art where Samhain is not erased from civic memory — [[:lord-ablas-oestra | Lord Oestra]] cursed every likeness from the record after the Fall (party has only seen one destroyed effigy in the [[Osteomantic Archives | Osteomantic Archives]]; they have not extrapolated to a city-wide curse).
+
 Symbolic item of [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]], founder of [[The Eighth House | House Samhain]]. The stone was later modified to hold a fragment from [[Thanismot | Thanismot]].
 
 Samhain refused the [[Peaches of Immortality | peaches of Zotikó]] when they were stolen (~3242 SC). The ring is not a portal or rift-key. It is a tool of remembrance and a way to call to the dead.

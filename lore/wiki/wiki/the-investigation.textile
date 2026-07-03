@@ -138,7 +138,7 @@ I jest of course, I have confirmed the Lady Von Pthasia's identity myself, and e
     [end-accordion-item]
 [end-accordion]
 
-We know that the [[Anathemists | Anathemists]] ended up with highly classified information. The current working assumption is that they are the masterminds of all of these events, but the evidence does not yet rule out another faction, a false-flag operation, or [[Anathemists | Anathemists]] using non-obvious proxies.
+We know that the [[Anathemists | Anathemists]] ended up with highly classified information. The [[Hexine Circle | Hexine Circle]]'s working assumption is that Anathemist spies are responsible — but they have not yet identified who passed them the information or how deep the infiltration runs.
 
 h3. Acts of Sabotage
 
@@ -258,6 +258,10 @@ h3. Answers to "Which other House is the most likely to be involved?"
 [end-accordion]
 
 <!-- GM_INFO_START -->
+h2. GM meta
+
+The public wiki states the Hexine Circle assumes Anathemist spies are responsible. GM truth: evidence does not yet rule out another faction, a false-flag operation, or [[Anathemists | Anathemists]] using non-obvious proxies.
+
 h2. The Spies
 
 * [[:barnabus | Barnabus]] - butler; **cell lead / coordinator**

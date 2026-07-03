@@ -155,6 +155,8 @@ h2. Known Enemies
 * Doors
 
 <!-- GM_INFO_START -->
+The timeline above is the **canonical party chronology** — update here after each session (not on [[World History | World History]]). Narrative detail in `lore/wiki/adventure-log/`.
+
 h2. Faction Clocks
 
 _Through Session 11 (31st Enean 4218 SC)._

@@ -12,9 +12,16 @@ op_gm_only: false
 tags: []
 ---
 
-**~3245 SC** (~973 years before the present). The eighth founder — [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]], Lord of Necromancy — fell in the same crisis as **Riftlock**, still within the founding generation.
+The destruction of the eighth founder house — [[The Eighth House | necromancers]] — in the founding era of [[Sindrel | Sindrel]].
 
-After rift stabilisation (~**3228 SC**), earnest exploration revealed [[Zotikó | Zotikó]]'s guarded peaches, [[Thanismot | Thanismot]]'s sustenance for the undead, and [[Kosmios | Kosmios]]'s defenceless wealth. Trade from Kosmios made [[Sindrel | Sindrel]] independent and ambitious. The Circle debated **Project Riftlock** — permanently locking the rift toward Kosmios for extractive colonisation. Samhain dissented.
+Civic history — the version taught in sermons and repeated at the [[The Heptade Academy | Heptade]] — runs like this: the eight greatest mages ruled in peace until one of their number, the great necromancer, grew jealous and plotted the others' downfall. In a **dark ritual** they betrayed the compact of the Octarion, sacrificed their followers and rose toward something approaching godhood. The other seven houses formed a desperate alliance and defeated the threat. The eighth house was destroyed; necromancy was driven from civic life.
+
+The [[Quarantine Zone | Quarantine Zone]] and the [[Osteomantic Archives | Osteomantic Archives]] are what remain of their work in the city.
+
+<!-- GM_INFO_START -->
+h2. What actually happened
+
+**~3245 SC.** After rift stabilisation (~**3228 SC**), earnest exploration revealed [[Zotikó | Zotikó]]'s guarded peaches, [[Thanismot | Thanismot]]'s sustenance for the undead, and [[Kosmios | Kosmios]]'s defenceless wealth. Trade from Kosmios made [[Sindrel | Sindrel]] independent and ambitious. The Circle debated **Project Riftlock** — permanently locking the rift toward Kosmios for extractive colonisation. [[:mistress-lucretia-samhain | Samhain]] dissented.
 
 At **Fallowhurst** (~**3238 SC**), [[:lord-ablas-oestra | Lord Oestra]] — still mortal — had already pushed [[Fallowhurst College | Fallowhurst College]] toward dangerous work in his pursuit of immortality. An early **Riftlock prototype** (~**3242 SC**) let the founders steal the peaches from [[Zotikó | Zotikó]], leaving devastation behind. Six ate; [[:first-of-mabon | First of Mabon]] achieved immortality through peach-based artifice; Samhain refused and revealed her vampirism. Distrust grew.
 
@@ -22,8 +29,9 @@ At **Fallowhurst** (~**3238 SC**), [[:lord-ablas-oestra | Lord Oestra]] — stil
 
 [[:lord-ablas-oestra | Lord Oestra]] cursed every likeness of Samhain from the record. Civic sermons compress the sequence into a founding-era “dark ritual”; the generation is right, but Riftlock, peach theft, and imprisonment blur together.
 
-[[:mistress-lucretia-samhain | Samhain]] remains imprisoned in [[Thanismot | Thanismot]]. The [[Quarantine Zone | Quarantine Zone]] marks what her house left behind in the city.
+[[:mistress-lucretia-samhain | Samhain]] remains imprisoned in [[Thanismot | Thanismot]].
 
-<!-- GM_INFO_START -->
+h2. Consequences today
+
 Denied access to the Osteomantic Archives and a full eighth of magical expertise, the seven-house Circle cannot perform the highest-order reality-warping required for [[Project Kosmios | Project Kosmios]]. [[:high-summoner-nial-beltus | Nial Beltus]] favours an expedition into Thanismot to recruit a survivor or recover training materials; [[:general-alicia-meness | Alicia Meness]] opposes any risk of releasing Samhain.
 <!-- GM_INFO_END -->

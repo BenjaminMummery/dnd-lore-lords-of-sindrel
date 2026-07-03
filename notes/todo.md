@@ -18,6 +18,8 @@ Scanned `lore/**` - resolve in canon, then remove the inline marker (especially 
 - [ ] **`lore/wiki/wiki/the-black-cats.textile`** (GM block) - what the Black Cats know (party intel / syndicate awareness).
 - [ ] **`lore/characters/hytham-grimbolg.textile`** (GM block) - is Hytham still slim given his corruption? (affects current `OP_DESCRIPTION` when written).
 - [ ] **`lore/characters/arouraios.textile`** (`OP_DESCRIPTION`, **public**) - flesh out read-aloud description beyond coachman/beard/glasses.
+- [ ] **`lore/characters/nakoma-deathwalker-mor-got-ha.textile`** (`OP_BIO`, **public**) - remove Mad King of Corvus (~4217) rebel-side mention; keep in `GM_INFO` / Player Secrets only.
+- [ ] **Campaign timeline dedup** - `world-history` Campaign Timeline vs `the-adventurers` Timeline overlap (see `notes/gm-secrets.md` or thread notes). **Done:** city events on `world-history`; party days on `the-adventurers` only (`lore-assistant.mdc`).
 
 ## Shelved
 

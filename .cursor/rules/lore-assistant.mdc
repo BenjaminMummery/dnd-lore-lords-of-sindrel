@@ -79,29 +79,11 @@ When the user's message begins with `NPC:` or `Quick NPC:` (case-insensitive), f
 - **Deceased** and **Undead** are state tags for tile styling, not separate index sections (see OP custom CSS below).
 - **City Cats** and **Black Cats** when membership is established in play (or on GM-only pages).
 
-### Obsidian Portal - character index CSS (Custom CSS field)
+### Obsidian Portal - Custom CSS (SSOT)
 
-Index tile borders for state tags (add alongside existing theme). Adjust selectors if Inspect shows different OP classes:
+**Single file:** `notes/obsidian-portal/custom-css.css` - paste entire file into Campaign Settings → Advanced → Custom CSS. Includes CoS grey palette, character index tile borders (Deceased / Undead), `.wonch-timeline-*`, and item wiki tiles. Alternate theme only: `custom-css-cos-theme-safe.css` (not appended).
 
-```css
-.content-list-item.tag-deceased,
-.character-index .content-list-item.tag-deceased {
-  border: 3px solid #6d6862;
-  opacity: 0.88;
-}
-
-.content-list-item.tag-undead,
-.character-index .content-list-item.tag-undead {
-  border: 3px solid #4b0c0f;
-  box-shadow: inset 0 0 0 1px #3b0709;
-}
-
-.content-list-item.tag-deceased.tag-undead,
-.character-index .content-list-item.tag-deceased.tag-undead {
-  border: 3px solid #4b0c0f;
-  box-shadow: inset 0 0 0 1px #6d6862;
-}
-```
+Index tile borders for state tags live in that file; adjust selectors if Inspect shows different OP classes.
 
 City Cats layout block (after Black Cats; no separate Undead section):
 
@@ -246,7 +228,7 @@ All character files in `lore/characters/` share this layout:
 
 ### DM stat blocks (GM block only)
 
-Combat stats belong in `GM_INFO`, never in `OP_DESCRIPTION` or `OP_BIO`. Use a `<div class="stat-block">` wrapper so campaign Custom CSS applies (grey CoS palette in `notes/obsidian-portal/custom-css-cos-grey-palette.css`). Do not use the unstyled `statname` / `contenteditable` OP export markup unless you also add matching CSS.
+Combat stats belong in `GM_INFO`, never in `OP_DESCRIPTION` or `OP_BIO`. Use a `<div class="stat-block">` wrapper so campaign Custom CSS applies (`notes/obsidian-portal/custom-css.css`). Do not use the unstyled `statname` / `contenteditable` OP export markup unless you also add matching CSS.
 
 Reference implementations: `lore/characters/pthul.textile`, `lore/characters/embren-oestra.textile`.
 
@@ -276,6 +258,37 @@ Reference implementations: `lore/characters/pthul.textile`, `lore/characters/emb
 ```
 
 Optional *Traits*, *Reactions*, and *Legendary Actions* sections use `<p><strong>Name.</strong> …</p>` or `<h4>` subheadings inside the same `.stat-block` div. Other GM prose may precede or follow the stat block.
+
+### World timeline (SC)
+
+**Anchor:** current year **4218 SC** (adventure log dates). Measure “years ago” from 4218. Founding ~**3218 SC**.
+
+| Year (SC) | Years ago | Event |
+|-----------|----------:|-------|
+| ~3010 | ~1208 | Magedom of Houd established |
+| ~3180 | ~1038 | Fallowhurst village; Oestra estate (predates rift) |
+| 3218 | 1000 | SinDReL camp founded (Sindrel founding) |
+| ~3220s | ~990s | Rift stabilisation planned; city grows |
+| ~3226 | ~992 | Soulwind conduit (two-way) |
+| ~3228 | ~990 | Rift stabilisation complete |
+| ~3230s | ~980s | Exploration; Kosmios trade; Great Houses |
+| ~3234 | ~984 | Oestra seat → Sindrel; Fallowhurst College |
+| ~3238 | ~980 | Fallowhurst calamity (Oestra mortal) |
+| ~3242 | ~976 | Peach theft; founder immortality |
+| ~3245 | ~973 | Riftlock; Samhain fall; conduit destroyed |
+| ~3288 | ~930 | Fallowhurst village abandoned |
+| ~3298 | ~920 | Levees fail; village flooded |
+| ~3850 | ~368 | Death of magic stirrings |
+| ~3900 | ~318 | Soulwind decline; Sindrel magic centre |
+| 3958 | 260 | Seven Day War (Brassmeade: 10 days) |
+| ~3960s–4020s | | Archives Seven Day War diorama installed gradually |
+| ~4150 | ~68 | Project Kosmios |
+| ~4185 | ~33 | Anathemists emerge (fringe for decades) |
+| ~4217 | ~1 | Mad King of Corvus (Pin / Deathwalker) |
+| ~4213 | ~5 | Anathemist escalation |
+| 4218 | 0 | Campaign present |
+
+Master chronology: `world-history.textile`. Six peach-eaters plus First (artifice); Samhain imprisoned in Thanismot since Riftlock (~3245 SC).
 
 ### Wiki weapon items (`tags: weapon`)
 
@@ -401,6 +414,19 @@ When a **new adventure log** is added or a session recap is substantially update
 - Adjust level when fortune changes sustainably in play; note rationale under Current standing.
 - **Other assets** lists bracelets, lodging, and contingent rewards without repeating the day count (that lives under Campaign status).
 - Do **not** use HTML comments - they render visibly on Obsidian Portal.
+
+**Timeline** (player-facing `h2. Timeline`):
+- **Sole owner** of Wonch day-by-day chronology from arrival in 4218 onward.
+- After each session: add or extend dated bullets here; link the adventure log in parentheses.
+- Do **not** duplicate party-day beats on `world-history.textile` Campaign Timeline.
+
+## Campaign Timeline (World History)
+
+`lore/wiki/wiki/world-history.textile` — **Campaign Timeline** accordion = **city/world events** in the current year only (sabotage dates, festivals, hires, deaths of Factors, etc.).
+
+- **Do not** list party actions, downtime, or investigation beats here once the Wonch is in play.
+- At most one bridge line under Enean (e.g. *24th Enean onward — see [[The Adventurers | The Adventurers]]*) pointing at the party timeline.
+- When a **city-wide** dated event occurs in play, add it here; when only the party acts, update **The Adventurers** only.
 
 ## Proactive Checks
 
