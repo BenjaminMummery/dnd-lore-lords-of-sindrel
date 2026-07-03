@@ -29,3 +29,40 @@ Low-level enforcer for [[The Black Cats | The Black Cats]].
 *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
 * Caught running near the [[Osteomantic Archives | Osteomantic Archives]] at noon; after pathetic dissembling, revealed his Black Cats affiliation and that his contact uses the back room of [[The Cutthroat's Repose | The Cutthroat's Repose]] (password: "Swordfish"). [[The Adventurers | The Wonch]] let him go.
+
+<!-- GM_INFO_START -->
+h2. Prep
+
+* **Counters**-tier muscle — runs errands and lean-on work, not leadership. Knows the Repose password route; will fold fast if cornered again.
+* Same cash-in-plain-wraps economy as [[:chuggaz | Chuggaz]]'s Gild payroll; does not know who funded the Fulcrum roster buys.
+
+h2. Stat block
+
+<div class="stat-block">
+<h3>Emerich Surefoot</h3>
+<p><em>Medium humanoid (half-elf), neutral</em></p>
+<p><strong>Armor Class</strong> 13 (leather armour)<br>
+<strong>Hit Points</strong> 18 (4d8)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +3</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>10 (+0)</td><td>16 (+3)</td><td>10 (+0)</td><td>11 (+0)</td><td>10 (+0)</td><td>12 (+1)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> Deception +3, Sleight of Hand +5, Stealth +5<br>
+<strong>Senses</strong> passive Perception 10<br>
+<strong>Languages</strong> Common, Elvish<br>
+<strong>Challenge</strong> 1 (200 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Runner.</strong> Emerich can take the Disengage action as a bonus action on each of his turns.</p>
+<p><strong>Knows When to Run (1/Day).</strong> When Emerich is reduced to half his hit points or fewer, he can take the Dash action as a bonus action. Opportunity attacks provoked by this movement are made with disadvantage.</p>
+<p><strong>Grovel.</strong> When Emerich is reduced to 9 hit points or fewer, he can use his action to surrender and plead for his life. A character who succeeds on a DC 13 Wisdom (Insight) check can tell he is sincere — and that he knows more than he has said if bought with safety.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Shortsword.</strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
+<p><strong>Dagger.</strong> <em>Melee or Ranged Weapon Attack:</em> +5 to hit, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> 5 (1d4 + 3) piercing damage.</p>
+</div>
+<!-- GM_INFO_END -->

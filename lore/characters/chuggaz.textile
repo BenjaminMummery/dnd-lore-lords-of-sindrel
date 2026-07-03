@@ -26,7 +26,7 @@ According to [[:nort | Nort]], he is rumoured to be connected to [[The Black Cat
 
 *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- On duty at [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] questioned staff about the bombing.
+* On duty at [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] questioned staff about the bombing.
 
 <!-- GM_INFO_START -->
 h2. Black Cats link
@@ -34,4 +34,51 @@ h2. Black Cats link
 **[[The Black Cats | Black Cats]] — Gild** (true link, not rumour). Fences [[The Fulcrum | Fulcrum]] shift rosters, servant-route patterns, and ceremony-night staffing to **Counters** / **Vault**. Nort's gossip is accurate. Vault protects him while he is useful; he knows fragments of who paid for extended shifts on bombing night but not the wider plot.
 
 Unrelated to **City Cats** (actual felines).
+
+h2. Session 12
+
+* Evasive under accusation — roster fraud and cash-for-shift, not the bombing plot. See `notes/session-12-plan.md` for interview beats and clue table.
+* Will not name Black Cats or Vault unless broken, bought off, or the party earns trust via the Cats path.
+* Under hard pressure → Cutthroat's Repose, impound cart, or a Counter watching — not a confession that he helped bomb the Fulcrum.
+
+h2. Stat block
+
+<p><em>Not Hexine-tier.</em> Session 12 is an interview and misdirection beat — he looks like the spy Nans flagged, but the thread is syndicate corruption. Combat baseline: <strong>Black Cat Gild</strong> ([[The Black Cats | the-black-cats]] wiki); traits below are Chuggaz-specific.</p>
+
+<div class="stat-block">
+<h3>Chugan "Chuggaz" Velm</h3>
+<p><em>Medium humanoid (dragonborn), neutral</em></p>
+<p><strong>Armor Class</strong> 15 (studded leather under livery)<br>
+<strong>Hit Points</strong> 32 (5d8 + 10)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +3</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>10 (+0)</td><td>16 (+3)</td><td>14 (+2)</td><td>13 (+1)</td><td>12 (+1)</td><td>15 (+2)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> Arcana +3, Deception +4, Persuasion +4<br>
+<strong>Damage Resistance</strong> lightning<br>
+<strong>Senses</strong> passive Perception 11<br>
+<strong>Languages</strong> Common, Draconic<br>
+<strong>Challenge</strong> 2 (450 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Knows When to Run (1/Day).</strong> When Chuggaz is reduced to half his hit points or fewer, he can take the Dash action as a bonus action. Opportunity attacks provoked by this movement are made with disadvantage.</p>
+<hr>
+<h4>Spellcasting</h4>
+<p>Chuggaz's spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). He has three 2nd-level spell slots and knows the following spells:</p>
+<p><em>1st level (at will):</em> <em>mage hand</em><br>
+<em>2nd level (3 slots):</em> <em>hold person</em>, <em>misty step</em>, <em>scorching ray</em></p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> Chuggaz makes two rapier attacks, or one rapier attack and casts <em>scorching ray</em>.</p>
+<p><strong>Rapier.</strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d8 + 3) piercing damage.</p>
+<p><strong>Lightning Breath (Recharge 5–6).</strong> Chuggaz exhales lightning in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 9 (2d8) lightning damage on a failed save, or half as much damage on a successful one. He uses this only when cornered — not in the middle of the Fulcrum lobby if he can help it.</p>
+<p><strong>Cut a Deal.</strong> Chuggaz offers a fragment of truth (see Session 12 clue table in `notes/session-12-plan.md`) in exchange for being left alone, paid, or not handed to [[House Meness | Meness]]. A character who succeeds on a DC 14 Wisdom (Insight) check knows he is still holding back the words "Black Cats" and "Vault."</p>
+<hr>
+<h4>Reactions</h4>
+<p><strong>Evasive Answer.</strong> When Chuggaz is questioned by a creature he can hear, he can give an evasive reply. The questioner must succeed on a DC 14 Wisdom (Insight) check to tell he is lying by omission; on a failure, Chuggaz's deflection seems plausible until corroborated (e.g. by [[:nans | Nans]]'s paperwork or [[:nort | Nort]]'s coachman sighting).</p>
+</div>
 <!-- GM_INFO_END -->

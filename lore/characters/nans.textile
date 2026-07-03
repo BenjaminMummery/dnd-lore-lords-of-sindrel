@@ -24,11 +24,56 @@ Nans is a lean elf woman with medium-brown skin and a neat, economical build, he
 
 *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- On duty at [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] questioned staff about the bombing; one of three staff named as worth interviewing after the extended ceremony-night shifts.
+* On duty at [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] questioned staff about the bombing; one of three staff named as worth interviewing after the extended ceremony-night shifts.
 
 <!-- GM_INFO_START -->
 h2. Prep
 
-* May have seen servant-route traffic on bombing night; has not yet given a lead comparable to [[:nort | Nort]]'s coachman sighting.
-* Honest staff — no spy connection.
+* Honest staff — no spy connection. Session 12: volunteers [[:chuggaz | Chuggaz]] as suspicious if asked who behaved oddly (integrity, not setup).
+* East-service corridor liaison — processed Beltus requisitions on ceremony night. See `notes/session-12-plan.md` clue table (overtime flood, Chuggaz red flag, dignitary movement, Oestra exodus, wrong uniforms).
+* Will not name sulphur, bombs, Kosmios, or Black Cats — she suspects **corruption**, not ideology.
+
+h2. Stat block
+
+<p><em>Non-combatant.</em> Defeated by a single adventurer if it comes to blows; she yields or calls [[House Meness | Meness]] guards.</p>
+
+<div class="stat-block">
+<h3>Nanthelia "Nans" Surn</h3>
+<p><em>Medium humanoid (elf), lawful neutral</em></p>
+<p><strong>Armor Class</strong> 10<br>
+<strong>Hit Points</strong> 7 (2d8 - 2)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +0</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>8 (-1)</td><td>10 (+0)</td><td>8 (-1)</td><td>13 (+1)</td><td>15 (+2)</td><td>11 (+0)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> Investigation +3, Insight +4, Perception +6<br>
+<strong>Senses</strong> passive Perception 16<br>
+<strong>Languages</strong> Common, Elvish<br>
+<strong>Challenge</strong> 0 (10 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Fey Ancestry.</strong> Nans has advantage on saving throws against being charmed, and magic can't put her to sleep.</p>
+<p><strong>Procedure First.</strong> Nans has advantage on Intelligence checks to recall requisition chits, shift rosters, and signatures from ceremony night.</p>
+<p><strong>Keen Observer.</strong> Nans has advantage on Wisdom (Perception) checks that rely on sight or hearing.</p>
+<p><strong>Non-combatant.</strong> Nans does not attack. If threatened, she submits or raises an alarm.</p>
+<hr>
+<h4>Spellcasting (Conjuration)</h4>
+<p>Nans is a 3rd-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 11). [[House Beltus | Beltus]] servant training — invisible labour, not battle summoning.</p>
+<p><strong>Cantrips (at will):</strong> <em>mage hand</em>, <em>prestidigitation</em></p>
+<p><strong>1st level (2 slots):</strong> <em>unseen servant</em>, <em>Tenser's floating disk</em></p>
+</div>
+
+h3. Spell descriptions
+
+p. *Mage hand* (cantrip). Spectral hand within 30 feet (see PHB).
+
+p. *Prestidigitation* (cantrip). Minor servant-work effects within 10 feet (see PHB).
+
+p. *Unseen servant* (1st level, 1 hour). Invisible servant performs simple tasks within 60 feet (see PHB).
+
+p. *Tenser's floating disk* (1st level, 1 hour). Horizontal floating disk follows Nans and carries up to 500 lb (see PHB).
 <!-- GM_INFO_END -->

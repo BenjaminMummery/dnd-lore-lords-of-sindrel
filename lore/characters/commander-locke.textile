@@ -40,4 +40,78 @@ h2. Spies Lead
 bq). If they’re here, they must be planning to use their position to strike against the city. That means weapons, either smuggled in or acquired here. We should be checking out every armoury and weapon shop in the city, see if any shipments have come up short or inventory has gone missing.
 
 - Armoury or Weapon Shop.
-<!-- GM_INFO_END -->
+
+h2. Session 12
+
+* Present at Silas's summons; embarrassed by the catacomb breach; may blame the Wonch to protect Oestra face. **Does not know** Kosmios details unless Silas slips in front of him — then Locke is as blindsided as the party.
+* Unlikely to draw steel unless Silas orders it or the Wonch assault Factor staff.
+
+h2. Stat block
+
+<p><em>Hexine-tier benchmark:</em> each Factor alone should be a <strong>hard</strong> fight for seven 4th-level PCs (~5,250 XP budget). Locke is the Oestra template — martial first, but every Factor of the evocation house carries attack magic; pure casters (Goela, Lithra, etc.) swap the steel for fuller spell lists at similar CR.</p>
+
+<div class="stat-block">
+<h3>Prefect Locke</h3>
+<p><em>Medium humanoid (half-orc), lawful neutral</em></p>
+<p><strong>Armor Class</strong> 19 (Oestran half plate)<br>
+<strong>Hit Points</strong> 172 (20d8 + 80)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +2</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>20 (+5)</td><td>14 (+2)</td><td>18 (+4)</td><td>14 (+2)</td><td>14 (+2)</td><td>12 (+1)</td></tr>
+</table>
+<hr>
+<p><strong>Saving Throws</strong> Str +10, Con +9, Wis +7<br>
+<strong>Skills</strong> Athletics +10, Arcana +6, Intimidation +6, Perception +7<br>
+<strong>Senses</strong> passive Perception 17<br>
+<strong>Languages</strong> Common, Orc<br>
+<strong>Challenge</strong> 10 (5,900 XP)<br>
+<strong>Proficiency Bonus</strong> +4</p>
+<hr>
+<p><strong>Legendary Resistance (3/Day).</strong> If Locke fails a saving throw, he can choose to succeed instead.</p>
+<p><strong>Oestran Discipline.</strong> Locke has advantage on saving throws against being frightened or charmed.</p>
+<p><strong>Relentless Endurance (1/Day).</strong> When Locke is reduced to 0 hit points but not killed outright, he drops to 1 hit point instead.</p>
+<p><strong>Parry.</strong> Locke adds 4 to AC against one melee attack that would hit him. Locke must see the attacker and be wielding a melee weapon.</p>
+<hr>
+<h4>Spellcasting (Evocation)</h4>
+<p>Locke is a 10th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). All of his prepared evocations target a single creature — he leaves crowds to steel, Parrying Step, and Hold the Line.</p>
+<p><strong>Cantrips (at will):</strong> <em>booming blade</em>, <em>fire bolt</em></p>
+<p><strong>1st level (4 slots):</strong> <em>chromatic orb</em>, <em>magic missile</em> (Locke always directs all darts at one creature), <em>searing smite</em></p>
+<p><strong>2nd level (3 slots):</strong> <em>Melf's acid arrow</em>, <em>scorching ray</em></p>
+<p><strong>3rd level (2 slots):</strong> <em>immolation</em></p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> Locke makes three longsword attacks, or two longsword attacks and one <em>fire bolt</em> or <em>booming blade</em> cantrip.</p>
+<p><strong>Longsword.</strong> <em>Melee Weapon Attack:</em> +10 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 5) slashing damage, or 11 (1d10 + 5) slashing damage if used with two hands.</p>
+<p><strong>War Leader's Challenge (Recharge 5–6).</strong> Each hostile creature within 30 feet of Locke that can see or hear him must succeed on a DC 16 Wisdom saving throw or be frightened until the end of Locke's next turn. A creature that succeeds is immune to Locke's War Leader's Challenge for 24 hours.</p>
+<hr>
+<h4>Legendary Actions</h4>
+<p>Locke can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Locke regains spent legendary actions at the start of his turn.</p>
+<p><strong>Longsword Attack.</strong> Locke makes one longsword attack.</p>
+<p><strong>Parrying Step (Costs 1 Action).</strong> Locke gains a +5 bonus to AC until the start of his next turn and can move up to 10 feet without provoking opportunity attacks.</p>
+<p><strong>Hold the Line (Costs 2 Actions).</strong> One creature Locke can see within 30 feet must succeed on a DC 16 Strength saving throw or be knocked prone. Until the start of Locke's next turn, the target has disadvantage on attack rolls against creatures other than Locke.</p>
+<p><strong>Evocation (Costs 2 Actions).</strong> Locke casts a spell of 2nd level or lower from his spell list.</p>
+<hr>
+<h4>Reactions</h4>
+<p><strong>Riposte.</strong> When a creature Locke can see misses him with a melee attack, Locke makes one longsword attack against that creature.</p>
+</div>
+
+h3. Spell descriptions
+
+p. *Booming blade* (cantrip). _Melee spell attack (+10 to hit when delivered through a longsword attack as part of Multiattack)._ On hit, the target takes the weapon's damage and becomes sheathed in booming energy. If the target willingly moves 5 feet or more before the start of Locke's next turn, it takes 2d8 thunder damage.
+
+p. *Fire bolt* (cantrip). _Ranged spell attack (+7 to hit), range 120 ft._ On hit: 2d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
+
+p. *Chromatic orb* (1st level). _Ranged spell attack (+7 to hit), range 90 ft._ On hit: 3d8 damage of a type Locke chooses (acid, cold, fire, lightning, poison, or thunder).
+
+p. *Magic missile* (1st level). Three darts of magical force strike one creature Locke can see within 120 feet. Each dart deals 1d4 + 1 force damage (3d4 + 3 total). The darts all strike simultaneously.
+
+p. *Searing smite* (1st level). When Locke hits with a melee weapon attack, the target takes an extra 1d6 fire damage and catches fire. At the start of each of its turns until the spell ends, the target takes 1d6 fire damage and then repeats a Constitution saving throw (DC 15). On a success, the spell ends.
+
+p. *Melf's acid arrow* (2nd level). _Ranged spell attack (+7 to hit), range 90 ft._ On hit: 4d4 acid damage immediately and 2d4 acid damage at the end of the target's next turn.
+
+p. *Scorching ray* (2nd level). Three rays of fire strike one creature Locke can see within 120 feet. _Ranged spell attack (+7 to hit)_ for each ray; each ray that hits deals 2d6 fire damage.
+
+p. *Immolation* (3rd level, concentration, up to 1 minute). One creature Locke can see within 150 feet must make a Dexterity saving throw (DC 15). On a failed save, the target takes 8d6 fire damage and catches fire. On a successful save, it takes half as much damage and does not catch fire. A target on fire takes 4d6 fire damage at the end of each of its turns until the spell ends. The target repeats a Dexterity saving throw at the end of each of its turns, ending the spell on a success.

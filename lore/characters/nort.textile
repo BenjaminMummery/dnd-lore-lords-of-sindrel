@@ -20,12 +20,12 @@ tags:
 You see a tired young halfling woman with warm brown skin and a slight build, her chestnut curls loose and flattened on one side from the pillow. She wears [[The Fulcrum | Fulcrum]] service livery from the night shift: a pale marble-grey tunic and practical black trousers, the eight-pointed star embroidered discreetly at the collar — the standard dress of staff who keep the tower's machinery invisible. She presents as practical rather than alarmed — someone who has learned that strange mornings can still be survived with tea. Once awake, she speaks plainly and without flourish, recalling details in the order they happened.
 
 <!-- OP_BIO -->
-[[House Lithra | HOuse Lithra]] [[Adjutant | Adjutant]] on [[The Fulcrum | Fulcrum]] staff — quartered in [[Sevenways |Sevenways]] and used to walking the service routes beneath the tower.
+[[House Lithra | House Lithra]] [[Adjutant | Adjutant]] on [[The Fulcrum | Fulcrum]] staff — quartered in [[Sevenways | Sevenways]] and used to walking the service routes beneath the tower.
 
 *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- Woken by [[The Adventurers | the Wonch]]; given good tea by [[:amanira | Amanira]] and interviewed over breakfast.
-- Recalled a lost-looking [[:arouraios | coachman]] with a neatly trimmed beard and small, fussy glasses, bringing a carriage down near the entrance service tunnels on the night of the closing ceremony. Could not name him or his dignitary; described the carriage coat of arms as something with a bird on it.
+* Woken by [[The Adventurers | the Wonch]]; given good tea by [[:amanira | Amanira]] and interviewed over breakfast.
+* Recalled a lost-looking [[:arouraios | coachman]] with a neatly trimmed beard and small, fussy glasses, bringing a carriage down near the entrance service tunnels on the night of the closing ceremony. Could not name him or his dignitary; described the carriage coat of arms as something with a bird on it.
 
 <!-- GM_INFO_START -->
 h2. Role
@@ -35,4 +35,45 @@ Key witness tying the bomb plot to servant-route access and [[:arouraios | Arour
 h2. Prep
 
 * Rumoured connection between [[:chuggaz | Chuggaz]] and [[The Black Cats | the Black Cats]] — gossip only from her perspective; see Chuggaz's page for truth.
+* Coachman / bird crest lead is her unique contribution; sends deeper corridor questions to [[:nans | Nans]].
+
+h2. Stat block
+
+<p><em>Non-combatant.</em> Defeated by a single adventurer if it comes to blows; she flees or talks fast.</p>
+
+<div class="stat-block">
+<h3>Nort</h3>
+<p><em>Small humanoid (halfling), neutral good</em></p>
+<p><strong>Armor Class</strong> 10<br>
+<strong>Hit Points</strong> 4 (1d8)<br>
+<strong>Speed</strong> 25 ft.<br>
+<strong>Initiative</strong> +0</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>8 (-1)</td><td>10 (+0)</td><td>10 (+0)</td><td>12 (+1)</td><td>14 (+2)</td><td>12 (+1)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> Insight +4, Perception +4, Persuasion +3<br>
+<strong>Senses</strong> passive Perception 14<br>
+<strong>Languages</strong> Common, Halfling<br>
+<strong>Challenge</strong> 0 (10 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Halfling Nimbleness.</strong> Nort can move through the space of any creature that is of a size larger than hers.</p>
+<p><strong>Reliable Memory.</strong> Nort has advantage on Intelligence checks made to recall shift rosters, faces, or timings from the night of the closing ceremony.</p>
+<p><strong>Tea and Privacy.</strong> Nort has advantage on Charisma checks during a calm interview if food or drink is shared — she opens up over breakfast, not at shouting distance.</p>
+<p><strong>Non-combatant.</strong> Nort does not attack. If threatened, she yields or runs for help.</p>
+<hr>
+<h4>Spellcasting (Illusion)</h4>
+<p>Nort is a 2nd-level spellcaster. Her spellcasting ability is Charisma (spell save DC 11). [[House Lithra | Lithra]] servant training — discretion and misdirection, not combat glamour.</p>
+<p><strong>Cantrips (at will):</strong> <em>minor illusion</em></p>
+<p><strong>1st level (1 slot):</strong> <em>silent image</em></p>
+</div>
+
+h3. Spell descriptions
+
+p. *Minor illusion* (cantrip). Nort creates a faint sound or small image within 30 feet — muffling a corridor echo, masking a door knock (see PHB).
+
+p. *Silent image* (1st level, concentration, up to 10 minutes). Nort creates an illusory screen or object within 60 feet, no larger than a 15-foot cube — privacy curtain, false "closed for cleaning" sign, etc. (see PHB).
 <!-- GM_INFO_END -->

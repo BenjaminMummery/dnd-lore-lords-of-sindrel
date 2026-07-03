@@ -31,10 +31,65 @@ Silas's rooms were the true target of the [[Anathemists | Anathemist]] operation
 
 The conspirators copied what they could and stole what they could not. The exact stolen material remains a key unresolved point, but the breach is directly connected to the [[Anathemists | Anathemists]]' knowledge of [[Kosmios | Kosmios]].
 
+h2. Role in the succession
+
+Silas is the public heir — a **sacrificial lamb raised for the slaughter**. [[:lord-ablas-oestra | Ablas]] has given him enough sword-work and evocation to pass as Oestran nobility, not the war-machine training [[:commander-locke | Locke]] received. The coronation rite is a private murder; Silas's competence is real but provincial next to a Hexine Factor.
+
 h2. Silas's awareness (Session 12)
 
 * **Ditchquer night:** [[:barnabus | Barnabus]] lifted his key. Silas noticed the loss later; had it reissued. Did not search his rooms thoroughly - nothing looked disturbed.
 * **After the captured Anathemist interrogation:** general intelligence suggested a high-level security breach somewhere in the Houses.
 * **Silas's audit:** found **missing files** from his chambers. He now knows the breach was **his** - his key, his custody, his failure to report.
 * **Current state:** furious that [[The Adventurers | the Wonch]] have trampled Oestra security (catacomb exit); **terrified** that anyone else will learn he lost classified material. Will not volunteer key loss, file theft, or Kosmios.
+
+h2. Session 12
+
+* Summons the Wonch to the Leageur with [[:commander-locke | Locke]] present. Opens furious; may leak the word **Kosmios** if pressed, then backpedal.
+* Fights only if humiliation becomes unbearable — prefers to dismiss them and let [[:commander-locke | Locke]] handle violence.
+
+h2. Stat block
+
+<p><em>Not Hexine-tier.</em> A competent heir and duellist (CR 3). If the Wonch force a fight in the Leageur, [[:commander-locke | Locke]] is the real threat; Silas is the brittle noble who should not win alone against seven adventurers.</p>
+
+<div class="stat-block">
+<h3>Silas Oestra</h3>
+<p><em>Medium humanoid (human), lawful neutral</em></p>
+<p><strong>Armor Class</strong> 17 (breastplate)<br>
+<strong>Hit Points</strong> 45 (7d8 + 14)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +2</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>16 (+3)</td><td>14 (+2)</td><td>14 (+2)</td><td>15 (+2)</td><td>11 (+0)</td><td>13 (+1)</td></tr>
+</table>
+<hr>
+<p><strong>Saving Throws</strong> Wis +2, Cha +3<br>
+<strong>Skills</strong> Athletics +5, Arcana +4, History +4, Persuasion +3<br>
+<strong>Senses</strong> passive Perception 10<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 3 (700 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Heir's Pride.</strong> Silas has advantage on saving throws against being charmed while an ally he can see within 30 feet of him is not incapacitated.</p>
+<p><strong>Riposte.</strong> When a creature Silas can see misses him with a melee attack, he can make one longsword attack against that creature (no action required). He can use this reaction once per turn.</p>
+<hr>
+<h4>Spellcasting (Evocation)</h4>
+<p>Silas is a 5th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). He knows the house's basics — single-target evocation only, no area spells.</p>
+<p><strong>Cantrips (at will):</strong> <em>fire bolt</em></p>
+<p><strong>1st level (2 slots):</strong> <em>chromatic orb</em>, <em>searing smite</em></p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> Silas makes two longsword attacks, or one longsword attack and one <em>fire bolt</em>.</p>
+<p><strong>Longsword.</strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d8 + 3) slashing damage.</p>
+<p><strong>Disdainful Dismissal (Recharge 6).</strong> Silas ends the audience. Each hostile creature within 30 feet that can hear him must succeed on a DC 13 Wisdom saving throw or be unable to attack Silas until the start of his next turn. A creature that succeeds is immune for 24 hours. This represents social authority and Locke's presence more than magic — use it to end the scene, not to win a brawl.</p>
+</div>
+
+h3. Spell descriptions
+
+p. *Fire bolt* (cantrip). _Ranged spell attack (+5 to hit), range 120 ft._ On hit: 2d10 fire damage.
+
+p. *Chromatic orb* (1st level). _Ranged spell attack (+5 to hit), range 90 ft._ On hit: 3d8 damage of a type Silas chooses (acid, cold, fire, lightning, poison, or thunder).
+
+p. *Searing smite* (1st level). When Silas hits with a melee weapon attack, the target takes an extra 1d6 fire damage and catches fire. At the start of each of its turns until the spell ends, the target takes 1d6 fire damage and then repeats a Constitution saving throw (DC 13). On a success, the spell ends.
 <!-- GM_INFO_END -->
