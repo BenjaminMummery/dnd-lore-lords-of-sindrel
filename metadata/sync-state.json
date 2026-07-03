@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-07-02T20:17:21Z",
+  "last_git_publish": "2026-07-03T09:07:27Z",
   "last_portal_pull": "2026-07-02T20:16:23Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -1157,9 +1157,9 @@
       "op_id": "95647ec6164e450f98ffe7b168db8b6e",
       "op_kind": "Wiki",
       "op_slug": "private-warwicks-report",
-      "op_updated_at": "2026-07-02T20:17:08Z",
-      "repo_blob_sha": "6a13f09d228b03975fc44f4eb08abb174ebcd706",
-      "repo_hash_at_sync": "f25ec00963dbfe7f93ebf2a18aaa2c8852f9e724b83facf5c83f11f868d322e8",
+      "op_updated_at": "2026-07-03T09:07:15Z",
+      "repo_blob_sha": "fa3cf5db2379e9d81eac73b1d3a6c25c012cff17",
+      "repo_hash_at_sync": "6c4500a7c6ae2ea434288a18df26478ccc8c9c5cb1cac5725384b6d684e6b3f7",
       "repo_path": "lore/wiki/wiki/private-warwicks-report.textile"
     },
     "9915ce65e3cb41caacd36bafb491a11a": {
