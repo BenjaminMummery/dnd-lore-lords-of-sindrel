@@ -12,8 +12,10 @@ ROOT = Path(__file__).resolve().parents[1]
 WIKI = ROOT / "lore" / "wiki" / "wiki"
 ITEMS_PAGE = WIKI / "items.textile"
 
-MARKER_START = "<!-- ITEMS_INDEX_AUTO_START -->"
-MARKER_END = "<!-- ITEMS_INDEX_AUTO_END -->"
+MARKER_START = "###. ITEMS_INDEX_AUTO_START"
+MARKER_END = "###. ITEMS_INDEX_AUTO_END"
+LEGACY_MARKER_START = "<!-- ITEMS_INDEX_AUTO_START -->"
+LEGACY_MARKER_END = "<!-- ITEMS_INDEX_AUTO_END -->"
 IMAGE_MARKER_START = "<!-- ITEM_IMAGE_AUTO_START -->"
 IMAGE_MARKER_END = "<!-- ITEM_IMAGE_AUTO_END -->"
 
@@ -39,24 +41,20 @@ for _, heading in CATEGORY_SECTIONS:
         SECTION_ORDER.append(heading)
         _seen.add(heading)
 
-# Public index lists party-relevant gear; founder/regalia and op_gm_only pages go in GM block.
-GM_INDEX_SLUGS = {
-    "fallowhurst-college-master-key",
-    "letter-from-lord-oestra-to-embren-oestra",
-    "map-of-fallowhurst-college",
+# Party-relevant gear on the public index; founder regalia and op_gm_only pages in GM block.
+FOUNDER_SIGNATURE_SLUGS = {
+    "cel-s",
     "mask-of-foreknowledge",
-    "notes-on-triffid-research",
-    "peaches-of-immortality",
-    "silas-oestras-chamber-key",
-    "swordbreaker",
     "the-amulet-of-stars",
-    "the-cel-s",
     "the-crown-of-shadows",
     "the-gladius",
     "the-red-mourning",
     "the-shaper-s-hands",
     "the-shadow-s-vestment",
 }
+
+# GM index tiles for pages that stay public but should not appear on the player index.
+GM_INDEX_SLUGS: set[str] = set()
 
 
 def parse_frontmatter(text: str) -> dict:
@@ -125,13 +123,24 @@ def load_items() -> list[dict]:
     return rows
 
 
+def escape_text(s: str) -> str:
+    """Visible tile text - do not encode apostrophes (OP shows &#x27; literally)."""
+    return html.escape(s, quote=False)
+
+
+def escape_attr(s: str) -> str:
+    """HTML attribute values in double-quoted attributes."""
+    return html.escape(s, quote=False).replace('"', "&quot;")
+
+
 def render_tile(item: dict) -> str:
-    href = f"/wikis/{html.escape(item['op_slug'], quote=True)}"
-    name = html.escape(item["name"])
+    href = f"/wikis/{escape_attr(item['op_slug'])}"
+    name_text = escape_text(item["name"])
+    name_attr = escape_attr(item["name"])
     if item.get("image_url"):
         img = (
-            f'<img class="item-wiki-tile-img" src="{html.escape(item["image_url"], quote=True)}" '
-            f'alt="{name}">'
+            f'<img class="item-wiki-tile-img" src="{escape_attr(item["image_url"])}" '
+            f'alt="{name_attr}">'
         )
         tile_class = "item-wiki-tile"
     else:
@@ -139,9 +148,9 @@ def render_tile(item: dict) -> str:
         tile_class = "item-wiki-tile item-wiki-tile-no-img"
     return (
         f'<div class="{tile_class}">\n'
-        f'  <a class="item-wiki-tile-link" href="{href}" title="{name}">\n'
+        f'  <a class="item-wiki-tile-link" href="{href}" title="{name_attr}">\n'
         f"    {img}\n"
-        f'    <span class="item-wiki-tile-name">{name}</span>\n'
+        f'    <span class="item-wiki-tile-name">{name_text}</span>\n'
         f"  </a>\n"
         f"</div>"
     )
@@ -183,8 +192,8 @@ def render_index(items: list[dict]) -> str:
 
 
 def render_item_image_block(name: str, image_url: str) -> str:
-    safe_name = html.escape(name)
-    safe_url = html.escape(image_url, quote=True)
+    safe_name = escape_attr(name)
+    safe_url = escape_attr(image_url)
     return (
         f"{IMAGE_MARKER_START}\n"
         f'<div class="item-portrait"><img src="{safe_url}" alt="{safe_name}"></div>\n'
@@ -223,6 +232,20 @@ def update_item_page_image(item: dict) -> bool:
     return True
 
 
+def strip_index_blocks(text: str) -> str:
+    """Remove generated index blocks (current Textile markers and legacy HTML comments)."""
+    for start, end in (
+        (MARKER_START, MARKER_END),
+        (LEGACY_MARKER_START, LEGACY_MARKER_END),
+    ):
+        pattern = re.compile(
+            re.escape(start) + r".*?" + re.escape(end) + r"\n?",
+            re.S,
+        )
+        text = pattern.sub("", text)
+    return text.rstrip() + "\n"
+
+
 def update_items_page(items: list[dict]) -> bool:
     if not ITEMS_PAGE.exists():
         print("generate_items_index: items.textile not found", file=sys.stderr)
@@ -231,18 +254,19 @@ def update_items_page(items: list[dict]) -> bool:
     text = ITEMS_PAGE.read_text(encoding="utf-8")
     generated = render_index(items)
 
-    if MARKER_START in text and MARKER_END in text:
-        pattern = re.compile(
-            re.escape(MARKER_START) + r".*?" + re.escape(MARKER_END) + r"\n?",
-            re.S,
-        )
-        new_text = pattern.sub(generated, text)
-    else:
-        intro_end = text.find("\n\n", text.find("---", 3) + 3)
-        if intro_end == -1:
-            new_text = text.rstrip() + "\n\n" + generated
+    if text.startswith("---"):
+        parts = text.split("---", 2)
+        if len(parts) >= 3:
+            body = strip_index_blocks(parts[2])
+            intro = body.strip()
+            if intro:
+                new_text = f"---{parts[1]}---\n\n{intro}\n\n{generated}"
+            else:
+                new_text = f"---{parts[1]}---\n\n{generated}"
         else:
-            new_text = text[: intro_end + 2] + "\n" + generated + text[intro_end + 2 :]
+            new_text = strip_index_blocks(text) + "\n" + generated
+    else:
+        new_text = strip_index_blocks(text) + "\n" + generated
 
     if new_text == text:
         return False

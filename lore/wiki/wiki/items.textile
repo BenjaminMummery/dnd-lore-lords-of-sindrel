@@ -12,21 +12,14 @@ op_gm_only: false
 tags: []
 ---
 
-
-<!-- ITEMS_INDEX_AUTO_START -->
+###. ITEMS_INDEX_AUTO_START
 h2. Documents
 
 <div class="item-wiki-grid">
 <div class="item-wiki-tile item-wiki-tile-no-img">
-  <a class="item-wiki-tile-link" href="/wikis/private-warwick-s-report" title="Private Warwick&#x27;s Report">
+  <a class="item-wiki-tile-link" href="/wikis/private-warwicks-report" title="Private Warwick's Report">
     <span class="item-wiki-tile-placeholder" aria-hidden="true"></span>
-    <span class="item-wiki-tile-name">Private Warwick&#x27;s Report</span>
-  </a>
-</div>
-<div class="item-wiki-tile item-wiki-tile-no-img">
-  <a class="item-wiki-tile-link" href="/wikis/private-warwicks-report" title="Private Warwick&#x27;s Report">
-    <span class="item-wiki-tile-placeholder" aria-hidden="true"></span>
-    <span class="item-wiki-tile-name">Private Warwick&#x27;s Report</span>
+    <span class="item-wiki-tile-name">Private Warwick's Report</span>
   </a>
 </div>
 </div>
@@ -97,12 +90,6 @@ h2. Shield
 
 <div class="item-wiki-grid">
 <div class="item-wiki-tile item-wiki-tile-no-img">
-  <a class="item-wiki-tile-link" href="/wikis/cel-s" title="Celæs">
-    <span class="item-wiki-tile-placeholder" aria-hidden="true"></span>
-    <span class="item-wiki-tile-name">Celæs</span>
-  </a>
-</div>
-<div class="item-wiki-tile item-wiki-tile-no-img">
   <a class="item-wiki-tile-link" href="/wikis/the-unanswered-cry" title="The Unanswered Cry">
     <span class="item-wiki-tile-placeholder" aria-hidden="true"></span>
     <span class="item-wiki-tile-name">The Unanswered Cry</span>
@@ -138,9 +125,9 @@ h2. Weapon
   </a>
 </div>
 <div class="item-wiki-tile item-wiki-tile-no-img">
-  <a class="item-wiki-tile-link" href="/wikis/the-gentlemans-greeting" title="The Gentleman&#x27;s Greeting">
+  <a class="item-wiki-tile-link" href="/wikis/the-gentlemans-greeting" title="The Gentleman's Greeting">
     <span class="item-wiki-tile-placeholder" aria-hidden="true"></span>
-    <span class="item-wiki-tile-name">The Gentleman&#x27;s Greeting</span>
+    <span class="item-wiki-tile-name">The Gentleman's Greeting</span>
   </a>
 </div>
 <div class="item-wiki-tile item-wiki-tile-no-img">
@@ -208,9 +195,9 @@ h2. Keys
   </a>
 </div>
 <div class="item-wiki-tile item-wiki-tile-no-img">
-  <a class="item-wiki-tile-link" href="/wikis/silas-oestras-chamber-key" title="Silas Oestra&#x27;s Chamber Key">
+  <a class="item-wiki-tile-link" href="/wikis/silas-oestras-chamber-key" title="Silas Oestra's Chamber Key">
     <span class="item-wiki-tile-placeholder" aria-hidden="true"></span>
-    <span class="item-wiki-tile-name">Silas Oestra&#x27;s Chamber Key</span>
+    <span class="item-wiki-tile-name">Silas Oestra's Chamber Key</span>
   </a>
 </div>
 </div>
@@ -225,15 +212,15 @@ h2. Clothing
   </a>
 </div>
 <div class="item-wiki-tile item-wiki-tile-no-img">
-  <a class="item-wiki-tile-link" href="/wikis/the-shadows-vestment" title="The Shadow&#x27;s Vestment">
+  <a class="item-wiki-tile-link" href="/wikis/the-shadows-vestment" title="The Shadow's Vestment">
     <span class="item-wiki-tile-placeholder" aria-hidden="true"></span>
-    <span class="item-wiki-tile-name">The Shadow&#x27;s Vestment</span>
+    <span class="item-wiki-tile-name">The Shadow's Vestment</span>
   </a>
 </div>
 <div class="item-wiki-tile item-wiki-tile-no-img">
-  <a class="item-wiki-tile-link" href="/wikis/the-shapers-hands" title="The Shaper&#x27;s Hands">
+  <a class="item-wiki-tile-link" href="/wikis/the-shapers-hands" title="The Shaper's Hands">
     <span class="item-wiki-tile-placeholder" aria-hidden="true"></span>
-    <span class="item-wiki-tile-name">The Shaper&#x27;s Hands</span>
+    <span class="item-wiki-tile-name">The Shaper's Hands</span>
   </a>
 </div>
 </div>
@@ -253,7 +240,7 @@ h2. Shield
 
 <div class="item-wiki-grid">
 <div class="item-wiki-tile item-wiki-tile-no-img">
-  <a class="item-wiki-tile-link" href="/wikis/the-cel-s" title="Celæs">
+  <a class="item-wiki-tile-link" href="/wikis/cel-s" title="Celæs">
     <span class="item-wiki-tile-placeholder" aria-hidden="true"></span>
     <span class="item-wiki-tile-name">Celæs</span>
   </a>
@@ -277,4 +264,4 @@ h2. Weapon
 </div>
 </div>
 <!-- GM_INFO_END -->
-<!-- ITEMS_INDEX_AUTO_END -->
+###. ITEMS_INDEX_AUTO_END

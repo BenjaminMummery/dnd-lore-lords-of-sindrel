@@ -22,14 +22,18 @@ After editing locally, paste `custom-css.css` back into OP to apply.
 
 ## OP CSS sanitizer (known blockers)
 
-Avoid in Custom CSS or OP rejects the save:
+OP rejects the whole paste if these appear **anywhere** in the file (including comments):
 
-- `>` anywhere (including comments)
-- the word `description`
-- `@import`
+- `>` (child combinator; also avoid in comments)
+- the substring `description` (including `.character-description` - use `.main-content p a` instead)
+- the substring `@import` (including in comments that mention it)
 - CSS variables (`:root`, `var()`)
-- Unicode in comments (em dashes, curly quotes)
+- Unicode in comments (em dashes, arrows, curly quotes)
 - `content:` in `:before` / `:after`
+
+Also avoid if save still fails: `calc()`, `object-fit`, `:focus-within`.
+
+Before pasting into OP, run: `scripts/check_op_custom_css.py notes/obsidian-portal/custom-css.css`
 
 See [OP custom CSS basics](https://help.obsidianportal.com/article/183-custom-css-basics).
 

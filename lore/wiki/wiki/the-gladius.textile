@@ -8,7 +8,7 @@ title: Gladius
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/gladius
 op_created_at: '2026-07-02T15:57:27Z'
 op_updated_at: '2026-07-02T15:57:27Z'
-op_gm_only: false
+op_gm_only: true
 tags:
 - item
 - weapon

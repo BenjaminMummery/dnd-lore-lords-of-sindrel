@@ -317,7 +317,7 @@ On wiki item pages tagged **`weapon`**, add a 5e-style stat block after the open
 
 ### Founder symbolic items (GM stat blocks)
 
-The eight House regalia (plus [[The Red Mourning | The Red Mourning]] for Samhain) are **artifact**-tier items. Stat blocks live in each item page's `GM_INFO` block — not on public item blurbs. Tie abilities to the founder's curse and House philosophy; include at least one **Detrimental** property reflecting the millennium-long affliction. Personal founder gear that is not regalia (e.g. [[Swordbreaker | Swordbreaker]]) stays lower rarity. Reference: `the-gladius.textile`, `the-cel-s.textile`, `the-amulet-of-stars.textile`.
+The eight House regalia (plus [[The Red Mourning | The Red Mourning]] for Samhain) are **artifact**-tier items. Each has its own wiki page with **`op_gm_only: true`** (whole page GM-only on OP). Stat blocks live in each page's `GM_INFO` block. Tie abilities to the founder's curse and House philosophy; include at least one **Detrimental** property reflecting the millennium-long affliction. Personal founder gear that is not regalia (e.g. [[Swordbreaker | Swordbreaker]]) uses **`op_gm_only: true`** as well. Reference: `the-gladius.textile`, `the-cel-s.textile`, `the-amulet-of-stars.textile`.
 
 ### Wiki encounter building (multi-stat factions)
 

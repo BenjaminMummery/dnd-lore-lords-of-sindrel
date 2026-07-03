@@ -158,7 +158,7 @@ Facts learned in play — safe in player-facing wiki sections and adventure log:
 
 Whole-page prep — never public on OP:
 
-`project-kosmios`, `peaches-of-immortality`, `the-octarion-circle`, `kosmios`, `zotikó`, `thanismot`, `the-soulwind-institute`, `barnabus`, `silas-oestra`, `regnif-d-log`, `letter-from-oestra-to-embren-oestra`, founder character pages (check frontmatter), `the-red-mourning`, etc.
+`project-kosmios`, `peaches-of-immortality`, `the-octarion-circle`, `kosmios`, `zotikó`, `thanismot`, `the-soulwind-institute`, `barnabus`, `silas-oestra`, `regnif-d-log`, `letter-from-oestra-to-embren-oestra`, founder character pages (check frontmatter), **founder signature item pages** (`the-gladius`, `the-amulet-of-stars`, `cel-s`, `the-shaper-s-hands`, `the-crown-of-shadows`, `the-shadow-s-vestment`, `mask-of-foreknowledge`, `the-red-mourning`, `swordbreaker`), etc.
 
 Re-check frontmatter when creating new wiki pages.
 
