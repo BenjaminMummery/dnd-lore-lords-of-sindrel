@@ -18,21 +18,11 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481287/ksenia-kozhevnik
 ---
 
 <!-- OP_DESCRIPTION -->
-[[Factor | Factor]] of [[House Mabon | House Mabon]].
-
-Kelferria is a Fire Genasi. She wears specially made leather clothing enchanted to be fireproof.
+Kelferria is a fire genasi woman with copper-bronze skin and a broad, smith's build, her hair a living corona of ember-orange flame tied back for the forge. She wears a fireproof variant of [[House Mabon | Mabon]] work dress: deep indigo wool and enchanted leather, a split apron, reinforced gauntlets tucked at her belt, and steel-blue maker's bindings at the wrists — practical layers that leave her hands free. She is as overworked but unbowed, a master craftswoman with no patience for small talk while an order backlog looms. She speaks bluntly and professionally, measuring clients the way she measures plate.
 
 <!-- OP_BIO -->
-Kelfarria holds the rank of Craftsman, and has a handful of apprentices.
+[[Factor | Factor]] of [[House Mabon | House Mabon]] (rank: Craftsman); keeps a handful of apprentices.
 
-<!-- GM_INFO_START -->
-h2. Connection to the Anathemist Plot
+*30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-Kelferria was approached by [[:barnabus | Barnabus]], supposedly acting as [[:regnif-d-log | Regnif d'Log']]s agent, regarding a large order of enchanted armour. The promised order was lucrative, and Barnabus made a large enough down payment to make the request seem serious.
-
-The samples were the true objective. Because Kelferria supplies [[House Oestra | House Oestra]], her armour could be modified to pass as Oestra gear at a distance. Once crude Oestra markings were added, the armour allowed the [[Anathemists | Anathemist]] agents to move through darkness and confusion during the [[Ditchquer | Ditchquer]] operation without immediately drawing suspicion.
-
-Kelferria did not know the true purpose of the order. Her importance to the plot is that her craft, her [[House Mabon | House Mabon]] reputation, and her connection to [[House Oestra | House Oestra]] made the disguise credible. A month later, she continues to be busy manufacturing armour, oblivious to the fact that the order has already done its work.
-
-Investigative clues may include the down payment, an unusually urgent sample request, correspondence in d'Log's name, [[:barnabus | Barnabus]] acting as intermediary, and Kelferria's embarrassment or defensiveness once she realises how her work was used.
-<!-- GM_INFO_END -->
+* Took [[:ayr | Ayr]]'s measurements for commissioned plate; promised a formal quote — already committed to a large order.

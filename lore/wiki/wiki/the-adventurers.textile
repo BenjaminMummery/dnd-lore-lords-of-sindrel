@@ -80,11 +80,10 @@ h3. 27 Enean 4218
 h3. 28 Enean 4218
 
 * *Daytime* - Individual downtime - soiree, gambling, temple, shops, [[:hielaman | Hielaman]] brawl ([[Session 4: Sindrel! | Session 4]])
-* *Evening* - [[Hexine Circle | Hexine Circle]] briefing; investigation commissioned ([[Session 4: Sindrel! | Session 4]])
 
 h3. 29 Enean 4218
 
-* *Morning* - House visits - Goela, Mabon, Meness, Lithra, Beltus, Oestra, Grimbolg ([[Session 5: The Investigation Begins | Session 5]])
+* *Morning* - [[Hexine Circle | Hexine Circle]] briefing; investigation commissioned; house interviews immediately after ([[Session 5: The Investigation Begins | Session 5]])
 * *Noon* - [[The Wallarch District | Wallarch]] chase; [[:emerich-surefoot | Emerich]] and the [[The Cutthroat's Repose | Cutthroat's Repose]] lead ([[Session 6: Wallarch | Session 6]])
 * *Early afternoon* - [[Osteomantic Archives | Osteomantic Archives]]; [[:micycle-smynth | Micycle Smynth]] funeral ([[Session 6: Wallarch | Session 6]])
 * *Afternoon* - Descent into the catacombs; funeral disruption ([[Session 7: Into The Catacombs | Session 7]])
@@ -168,7 +167,7 @@ How each faction currently views [[The Adventurers | the Wonch]]. Update when pl
 | [[House Lithra | House Lithra]] | Favourable | [[:emissary-halan | Halan]] convened the [[Hexine Circle | Hexine Circle]], backed outside investigators, and gave [[:silrie-aegiskiir | Silrie]] blueprints. [[:ayr | Ayr]] as "Fenton Woofrunner" is watched, not yet trusted. |
 | [[House Mabon | House Mabon]] | Favourable | [[:journeyman-galoras | Galoras]] is eager to help — gifts, gadgets, commissioned sword to [[Radwasp House | Radwasp House]]. House treats the Wonch as allies against sabotage. |
 | [[House Grimbolg | House Grimbolg]] | Favourable | [[:navinea-senetera | Navinea]] warmed to [[:rossin-ros-greyhirst | Ros]]; invitation to the Amalthean; open Cornucopia tour in Session 11. Hospitality doubles as keeping tabs on the investigation. |
-| [[House Beltus | House Beltus]] | Cool | [[:alandria | Alandria]] was irritable at the Hexine Circle and in Session 5, but her Wallarch tip paid off. Session 11: furious at park interference, then satisfied — transactional, watching for leverage. |
+| [[House Beltus | House Beltus]] | Cool | [[:alandria | Alandria]] was irritable in the morning's Hexine interviews, but her Wallarch tip paid off. Session 11: furious at park interference, then satisfied — transactional, watching for leverage. |
 | [[House Oestra | House Oestra]] | Wary | [[:commander-locke | Locke]] is embarrassed by the catacomb breach and armoury bullying. Kirrahe vendetta still open. |
 | [[House Goela | House Goela]] | Neutral | [[:seer-demeletas | Demeletas]] offered cryptic bone-readings, not hostility. Goela's Mabon-paranoia not yet linked to the Wonch. |
 | [[Anathemists | Anathemists]] | Hostile | Active enemy. Lieutenant in custody; [[:commander-wake | Wake]] at large. Wonch closing on gunpowder trail and [[:arouraios | Arouraios]] / [[:chuggaz | Chuggaz]] links. |

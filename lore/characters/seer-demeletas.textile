@@ -21,11 +21,12 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469951/tief.jpeg
 A tiefling man with deep purple skin and a slender build, his swept-back black hair framing long horns and a neatly trimmed pointed beard. An ornamented silver chain hangs between the horns, giving him a halo of stars. He wears sober [[House Goela | Goelan]] civic dress: heavy purple robes layered over pale inner linen, an annotated sash at the waist, and silver clasps at the shoulder. His eyes are milky white, yet he moves without hesitation. He presents as serenely oracular — unhurried, faintly amused, as though he already knows how your question ends. He speaks in polished declaratives that sound like fortune-cookie platitudes, their sense usually clear only in hindsight.
 
 <!-- OP_BIO -->
-Demeletas is a Factor of [[House Goela | House Goela]].
+[[Factor | Factor]] of [[House Goela | House Goela]].
 
 *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- [[:hielaman | Hielaman's]] interrogation of [[:arise-to-victory-over-the-infidel-hoards | the Anathemist Lieutenant]] having revealed that the [[Anathemists | Anathemists]] have access to privileged information, a [[Hexine Circle | Hexine Circle]] is convened. Unable to reach resolution, they enlist [[The Adventurers | The Wonch]] to root out the spies they suspect have infiltrated the city.
+* Joined the [[Hexine Circle | Hexine Circle]] convened in the morning after the Anathemist leak was discovered.
+* Gave [[:silrie-aegiskiir | Silrie]] and [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] a cryptic prophecy after "reading the bones" during the house interviews that followed immediately; Deathwalker secured a date with him.
 
 <!-- GM_INFO_START -->
 h2. Spies lead

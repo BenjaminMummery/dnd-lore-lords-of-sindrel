@@ -25,15 +25,14 @@ She is invariably elegantly dressed in [[House Lithra | Lithra]]'s grey-and-silv
 <!-- OP_BIO -->
 [[Factor | Factor]] of [[House Lithra | House Lithra]].
 
+*28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+* [[:ayr | Ayr]], disguised as "Fenton Woofrunner", met Halan at a Lithran soiree during the day's downtime.
+
 *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- Convened the [[Hexine Circle | Hexine Circle]] after [[:hielaman | Captain Hielaman]]'s interrogation exposed a leak; introduced the house representatives and tasked [[The Adventurers | the Wonch]] with finding spies in [[Sindrel | Sindrel]].
-
-*30th–31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-- Hosted the Hexine investigators at [[Radwasp House | Radwasp House]] during the Fulcrum bombing inquiry.
-- Agreed to help [[:silrie-aegiskiir | Silrie]] locate blueprints of the city's oldest structures (each house keeps its own records).
-- Noted [[:ayr | Ayr]]'s appearance as "Fenton Woofrunner" at her soiree — an oddity to watch, not yet a trusted ally.
+* Convened the [[Hexine Circle | Hexine Circle]] in the morning after [[:hielaman | Captain Hielaman]]'s interrogation exposed a leak; introduced the house representatives and tasked [[The Adventurers | the Wonch]] with finding spies in [[Sindrel | Sindrel]].
+* Agreed to help [[:silrie-aegiskiir | Silrie]] locate blueprints of the city's oldest structures during the house interviews that followed immediately (each house keeps its own records).
 
 <!-- GM_INFO_START -->
 h2. Spies lead

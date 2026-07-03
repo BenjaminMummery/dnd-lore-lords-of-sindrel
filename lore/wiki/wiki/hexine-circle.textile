@@ -15,7 +15,7 @@ tags:
 
 Hexine Circles are one level of the hierarchy of inter-house councils that may be established to address issues in [[Sindrel | Sindrel]] without requiring the attention of the full [[The Octarion Circle | Octarion Circle]].
 
-In [[World History | 4218]] [[The Soulwind Calendar | SC]], a Hexine Circle was formed to address indications of [[Anathemists | Anathemist]] infiltration of [[Sindrel | Sindrel]]. This consisted of :
+In [[World History | 4218]] [[The Soulwind Calendar | SC]], a Hexine Circle was formed on the morning of the 29th of Enean to address indications of [[Anathemists | Anathemist]] infiltration of [[Sindrel | Sindrel]]. This consisted of :
 * [[:seer-demeletas | Seer Demeletas]] ([[House Goela | House Goela]])
 * [[:hielaman | Captain Hielaman]] ([[House Meness | House Meness]])
 * [[:alandria | Caller Alandria]]  ([[House Beltus | House Beltus]])

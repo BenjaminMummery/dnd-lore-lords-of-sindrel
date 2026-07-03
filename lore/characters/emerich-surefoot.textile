@@ -17,6 +17,15 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7492296/emerich.jpg
 ---
 
 <!-- OP_DESCRIPTION -->
-
+You see a half-elf man with sun-browned skin and a wiry, runner's build, his long black hair worn greasy and unkempt, his chin perpetually stubbled. He dresses like [[The Wallarch District | Wallarch]] trouble — scuffed leather jerkin, dark trousers, soft boots, no house colours — the sort of clothes chosen for alleys rather than salons. He presents as shifty and overconfident by turns, a low-tier enforcer trying to look harder than he is. He speaks in rushed half-truths, backtracking when caught, voice climbing when cornered.
 
 <!-- OP_BIO -->
+Low-level enforcer for [[The Black Cats | The Black Cats]].
+
+*28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+* Gambled with [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] in a Wallarch dive; lost and revealed lore linking the [[Osteomantic Archives | Osteomantic Archives]] to the old [[The Eighth House | necromantic House]] and a route toward the [[Quarantine Zone | quarantine zone]].
+
+*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+* Caught running near the [[Osteomantic Archives | Osteomantic Archives]] at noon; after pathetic dissembling, revealed his Black Cats affiliation and that his contact uses the back room of [[The Cutthroat's Repose | The Cutthroat's Repose]] (password: "Swordfish"). [[The Adventurers | The Wonch]] let him go.

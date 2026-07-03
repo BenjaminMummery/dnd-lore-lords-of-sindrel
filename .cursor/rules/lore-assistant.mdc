@@ -263,11 +263,11 @@ Do not invent duplicate spy-lead headings (`Spies lead:` vs `Spies Lead`); use *
 
 ### Bio dating
 
-Chronological `OP_BIO` entries use italic session dates:
+Chronological `OP_BIO` entries use italic session dates from the adventure logs:
 
 `*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*`
 
-followed by `-` bullets. One-line role intro (rank + house) may precede the first date block.
+followed by `*` bullets. One-line role intro (rank + house) may precede the first date block. **Every in-play event drawn from an adventure log must sit under the log's dated heading** — do not lump events under the wrong day.
 
 ### DM stat blocks (GM block only)
 

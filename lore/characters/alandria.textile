@@ -21,11 +21,17 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469955/beltus.jpg
 You see a human woman with dark skin and a slender, upright build, her head shaved smooth. She wears [[House Beltus | Beltus]] formal dress: a long black silk robe with gold embroidery at collar and cuffs, sheer smoke-coloured veils at the shoulders, and a high starched collar — the sort of garment that implies unseen servants helping her through every doorway. A mephit perches on her shoulder, the mark of a Beltus summoner. She presents as effortlessly confident and personable, though irritation shows quickly when bureaucracy wastes her time. Her voice stays soft and even, yet carries an authority that expects to be heard without repetition.
 
 <!-- OP_BIO -->
-Alandria is a Factor of [[House Beltus | House Beltus]].
+[[Factor | Factor]] of [[House Beltus | House Beltus]].
 
 *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-* [[:hielaman | Hielaman's]] interrogation of [[:arise-to-victory-over-the-infidel-hoards | the Anathemist Lieutenant]] having revealed that the [[Anathemists | Anathemists]] have access to privileged information, a [[Hexine Circle | Hexine Circle]] is convened. Unable to reach resolution, they enlist [[The Adventurers | The Wonch]] to root out the spies they suspect have infiltrated the city.
+* Joined the [[Hexine Circle | Hexine Circle]] convened in the morning after the Anathemist leak was discovered.
+* Interviewed by [[:wilrin-racenglade | Wilrin]] and [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] immediately afterward; the conversation turned contentious when frustration with the investigation process showed.
+
+*31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+* Met [[The Adventurers | the Wonch]] at the edge of [[Merrylane | Merrylane Park]] after they destroyed Beltus pest-control constructs; furious at the interference, then grudgingly accepted that the stoat threat was resolved.
+* [[:wilrin-racenglade | Wilrin]] magically retrieved her teacup and traded it back for a pouch of fine imported tea.
 
 <!-- GM_INFO_START -->
 h2. Spies lead

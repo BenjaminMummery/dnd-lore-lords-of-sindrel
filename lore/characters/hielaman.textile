@@ -31,17 +31,17 @@ Hielaman is a [[Factor | Factor]] of [[House Meness | House Meness]]. He fulfill
 
 *26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- An explosion is observed on the plane outside [[Sindrel | Sindrel]]. Hielaman and his squad are dispatched via portal to investigate.
-- On arrival, they encounter the aftermath of [[The Adventurers | The Neighbourhood Wonch]]'s conflict with a small force of [[Anathemists | Anathemists]].
-- Hielaman takes custody of the surviving [[:arise-to-victory-over-the-infidel-hoards | Anathemist Lieutenant]], receives the [[Private Warwick's Report | report]] of [[:sebastian-warwick | Private Sebastian Warwick]], and escorts [[The Adventurers | the Wonch]] back to [[Sindrel | Sindrel]].
+* An explosion was observed on the plane outside [[Sindrel | Sindrel]]. Hielaman and his squad were dispatched via portal to investigate.
+* On arrival, they encountered the aftermath of [[The Adventurers | The Neighbourhood Wonch]]'s conflict with a small force of [[Anathemists | Anathemists]].
+* Hielaman took custody of the surviving [[:arise-to-victory-over-the-infidel-hoards | Anathemist Lieutenant]], received the [[Private Warwick's Report | report]] of [[:sebastian-warwick | Private Sebastian Warwick]], and escorted [[The Adventurers | the Wonch]] back to [[Sindrel | Sindrel]].
 
 *28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- Encountering [[:pin | Pin]] in a bar, Hielaman enters into a heated discussion of the performance of his favoured Diechquer team - The Griffon's Talons. This discussion devolves rapidly, and Hieleman and Pin part on acrimonious terms, the former receiving a split lip to match the latter's black eye.
+* Encountering [[:pin | Pin]] in a bar, Hielaman entered into a heated discussion of the performance of his favoured Diechquer team - The Griffon's Talons. This discussion devolved rapidly, and Hieleman and Pin parted on acrimonious terms, the former receiving a split lip to match the latter's black eye.
 
 *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- Hielaman's interrogation of [[:arise-to-victory-over-the-infidel-hoards | the Anathemist Lieutenant]] having revealed that the [[Anathemists | Anathemists]] have access to privileged information, a [[Hexine Circle | Hexine Circle]] is convened. Unable to reach resolution, they enlist [[The Adventurers | The Wonch]] to root out the spies they suspect have infiltrated the city.
+* Hielaman's interrogation of [[:arise-to-victory-over-the-infidel-hoards | the Anathemist Lieutenant]] having revealed that the [[Anathemists | Anathemists]] have access to privileged information, a [[Hexine Circle | Hexine Circle]] is convened in the morning. Unable to reach resolution, the council enlists [[The Adventurers | the Wonch]] to root out the spies they suspect have infiltrated the city.
 
 <!-- GM_INFO_START -->
 h2. Spies lead

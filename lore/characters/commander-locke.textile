@@ -25,11 +25,14 @@ The Oestran representative is a half-orc with grey-green skin and a heavy, muscu
 
 *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- Joined the [[Hexine Circle | Hexine Circle]] after the Anathemist leak; tasked [[The Adventurers | the Wonch]] with finding spies.
+**Morning**
+* Joined the [[Hexine Circle | Hexine Circle]] convened in the morning after the Anathemist leak was discovered.
+* Advised the Wonch to check armouries and weapon shops for missing inventory; asked after any lead on who killed [[:lacerta-kirrahe | Captain Kirrahe]].
 
-*30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-- Passed keys to [[Radwasp House | Radwasp House]], the Circle's investigator lodging in upper [[Sindrel | Sindrel]].
+**Evening**
+* Encountered the Wonch emerging from the Leageur Osteomantic Archive.
+* Under some duress, permitted them to inspect the Oestra armoury.
+* Informed them of the provisioning of [[Radwasp House | Radwasp House]], the [[Hexine Circle | Hexine Circle]]'s investigator lodging in upper [[Sindrel | Sindrel]].
 
 <!-- GM_INFO_START -->
 h2. Spies Lead

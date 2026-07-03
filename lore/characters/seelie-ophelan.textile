@@ -15,17 +15,19 @@ tags:
 ---
 
 <!-- OP_DESCRIPTION -->
-Black-robed attendant at the [[Osteomantic Archives | Wallarch Osteomantic Archives]].
+You see a young human man with light brown skin and a slight, scholarly build, his black hair tied back and his cheeks clean-shaven. He wears the [[Osteomantic Archives | Osteomantic Archives]] mortuary dress common to Wallarch staff: black layered robes with a white sash at the waist — [[House Goela | Goela]]'s colour showing in the trim — and soft gloves for handling remains. He presents as quiet and dutiful, eyes down during the rite. He speaks rarely and softly when he must, as though volume might disturb the dead.
 
 <!-- OP_BIO -->
 *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-Present at the funeral of [[:micycle-smynth | Micycle Smynth]], presided over by the [[:celebrant-alruna | celebrant]]. [[:rossin-ros-greyhirst | Ros]] noticed two figures in archive robes among the mourners; at the rite's end, Seelie and [[:temperance-halke | Temperance Halke]] gathered the mortal remains and carried them toward the undercroft.
+* Present at the funeral of [[:micycle-smynth | Micycle Smynth]], presided over by the [[:celebrant-alruna | celebrant]]. [[:rossin-ros-greyhirst | Ros]] noticed two figures in archive robes among the mourners; at the rite's end, Seelie and [[:temperance-halke | Temperance Halke]] gathered the mortal remains and carried them toward the undercroft.
 
 <!-- GM_INFO_START -->
+h2. True role
+
 Full name: Seelie Ophelan
 
-Suggested house affiliation (index when revealed): [[House Goela | House Goela]]. Junior curator attached to [[:celebrant-alruna | Alruna]] - rites, vestments, and the liturgical side of interment. The archives are house-independent on paper; Ophelan was seconded from Goela's bridge archive as part of a long-standing exchange. Her given name is family tradition, not fey heritage.
+Suggested house affiliation (index when revealed): [[House Goela | House Goela]]. Junior curator attached to [[:celebrant-alruna | Alruna]] — rites, vestments, and the liturgical side of interment. The archives are house-independent on paper; Ophelan was seconded from Goela's bridge archive as part of a long-standing exchange. His given name is family tradition, not fey heritage.
 
 Works alongside [[:temperance-halke | Temperance Halke]], who handles physical cataloguing and bone-work.
 <!-- GM_INFO_END -->

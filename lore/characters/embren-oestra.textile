@@ -16,12 +16,25 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7441221/embren.jpg
 ---
 
 <!-- OP_DESCRIPTION -->
-A tall, thin figure in the dark robes and hooked mask of a plague doctor. They carry a cane, and speak in a breathless rasp.
+You see a tall, gaunt figure of indeterminate ancestry beneath a wide-brimmed hat and a hooked-beak plague mask — waxed black robes layered over leather, long gloves, and a walking cane. They walk slowly but with purpose. They speak in a breathless rasp, as though each sentence cost more air than they possess.
 
 <!-- OP_BIO -->
 
+*25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+* Encountered in [[Fallowhurst | Fallowhurst]] village in plague-doctor garb; examined [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s arrow wounds and directed the party toward the estate, then entered the manor without further conversation.
+
+*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+* Seen in the [[Osteomantic Archives | catacombs]] during the funeral chaos — a vision that sent archive staff fleeing when [[The Adventurers | the Wonch]] disturbed [[:micycle-smynth | Micycle Smynth]]'s rite.
 
 <!-- GM_INFO_START -->
+h2. True identity
+
+Embren Oestra — [[House Oestra | House Oestra]] scion, undead, masked cover.
+
+h2. Stat block
+
 <div class="stat-block">
 <h3>Embren Oestra</h3>
 <p><em>Medium undead, lawful evil</em></p>

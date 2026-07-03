@@ -17,7 +17,7 @@ tags:
 ---
 
 <!-- OP_DESCRIPTION -->
-
+You see a human man of about 25 with fair skin and a lean, restless build, his dark hair worn longer than strict [[House Oestra | Oestra]] fashion and his jaw clean-shaven. He dresses in the House's polished martial style: a blackened breastplate over crimson cloth, bronze trim at the shoulders, and a long sword worn openly — heir's kit not yet settled into the full gravitas of office. He presents as brilliant, brittle, and furious when crossed. He speaks fast in a slightly nasal voice, as though afraid that he will be interrupted if he leaves a space.
 
 <!-- OP_BIO -->
 

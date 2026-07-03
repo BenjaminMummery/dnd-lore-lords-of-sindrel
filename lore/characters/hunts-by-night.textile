@@ -16,15 +16,15 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7494097/hq720.jpg
 ---
 
 <!-- OP_DESCRIPTION -->
-A street cat encountered in [[The Wallarch District | The Wallarch District]].
+You see a lean domestic cat with soot-grey tabby fur and pale green eyes — rangy muscle under a dusty coat, one ear nicked, no collar. They move with the unhurried confidence of a predator that owns the alley. When magic bridges the communication gap, they present as grave and urgent, a scout delivering bad news. They "speak" in terse impressions and sharp images rather than polished sentences.
 
 <!-- OP_BIO -->
 A [[Sindrel | Sindrel]] street cat. Part of the informal network known to [[:amanira | Amanira]] as the City Cats.
 
 *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- Accompanied [[The Adventurers | the Wonch]] through the [[Osteomantic Archives | catacombs]].
+* Accompanied [[The Adventurers | the Wonch]] through the [[Osteomantic Archives | catacombs]].
 
 *30th–31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- At [[Radwasp House | Radwasp House]], tried to warn the party about [[:tama | the giant stoat]]; sought out [[:pads-silently | Pads-Silently]] when unsuccessful.
+* At [[Radwasp House | Radwasp House]], tried to warn the party about [[:tama | the giant stoat]]; sought out [[:pads-silently | Pads-Silently]] when unsuccessful (morning of the 31st).

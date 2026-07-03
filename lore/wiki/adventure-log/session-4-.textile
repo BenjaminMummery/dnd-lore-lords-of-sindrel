@@ -36,17 +36,6 @@ h2. Dramatis Personae
 * A pair of [[:jean-de-dinteville | merc]][[:georges-de-selve | hants]].
  [end-content] [end-accordion-item]
 
-[accordion-item] [title] [[Hexine Circle | The Hexine Circle]] [end-title]
-[content]
-* [[:alandria | Alandria]] - [[Factor | Factor]] of [[House Beltus | House Beltus]].
-* [[:hielaman | Captain Hielaman]] - [[Factor | Factor]] of [[House Meness | House Meness]].
-* [[:commander-locke | Prefect Locke]] - [[Factor | Factor]] of [[House Oestra | House Oestra]].
-* [[:emissary-halan | Emissary Halan]] - [[Factor | Factor]] of [[House Lithra | House Lithra]].
-* [[:journeyman-galoras | Journeyman Galoras]] - [[Factor | Factor]] of [[House Mabon | House Mabon]].
-* [[:navinea-senetera | Navinea Senetera]] - [[Factor | Factor]] of [[House Grimbolg | House Grimbolg]].
-* [[:seer-demeletas | Seer Demeletas]] - [[Factor | Factor]] of [[House Goela | House Goela]]
-[end-content] [end-accordion-item]
-
 [accordion-item] [title] The [[Anathemists | Anathemist]] Patrol [end-title]
 [content]
 * [[:arise-to-victory-over-the-infidel-hoards | Anathemist Lieutenant - Name Unknown]]
@@ -121,46 +110,6 @@ After a period of meditation, they were able to sense something close to the con
 h3. [[:wilrin-racenglade | Wilrin Ravenglade]]
 
 [[:wilrin-racenglade | Wilrin]] had rather more luck than [[:pin | Pin]] in locating a magical shop. From a bin of random items he got a skin bag containing [[Bone Dice | a set of polyhedral dice carved out of bone]]. In asking the shopkeep about spellcasting foci, he learned that [[The Heptade Academy | The Heptade Academy]] is known to use such things for their more powerful but less controlled students, although entry to such is restricted to [[Adjutant | Adjutants]] and [[Factor | Factors]].
-
-h2. The [[Hexine Circle | Hexine Circle]]
-
-_Evening of the 28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
-
-[[The Adventurers | The Adventurers]]  were summoned by the [[Hexine Circle | Hexine Circle]].
-
-bq). The building to which you have been summoned is several levels up - the messenger has a carriage ready - a two-wheeled affair drawn by a horse made of shadows. Such conveyances are a common sight in the city, although this one is conspicuous in its finery.
-<br>
-The journey takes about 15 minutes. You leave the comparatively mundane merchants quarter behind, the buildings becoming noticeably grander as you wend your way upwards. Finally you arrive at a building on one of the upper levels. The structure is a hexagonal tower topped by four inward curving spires. At the apex hangs a large bell.
-<br>
-
-The circle turned out to be a lesser council comprised of mid-ranking representatives of each of the Houses. Specifically:
-    * [[:seer-demeletas | Seer Demeletas]] ([[House Goela | House Goela]])
-    * [[:hielaman | Captain Hielaman]] ([[House Meness | House Meness]])
-    * [[:alandria | Caller Alandria]]  ([[House Beltus | House Beltus]])
-    * [[:commander-locke | Prefect Locke]] ([[House Oestra | House Oestra]])
-    * [[:emissary-halan | Emissary Halan]] ([[House Lithra | House Lithra]])
-    * [[:journeyman-galoras | Journeyman Galoras]] ([[House Mabon | House Mabon]])
-    * [[:navinea-senetera | Navinea Senetera]] ([[House Grimbolg | House Grimbolg]])
-
-[[:emissary-halan | _Emissary Halan_]]:
-
-bq). Thank you for coming. Allow me to make the introductions. I am [[:emissary-halan | Emissary Halan]] of [[House Lithra | House Lithra]]. I believe you already know [[:hielaman | Captain Hielaman]] of [[House Meness | House Meness]]. The rest of our company are [[:commander-locke | Prefect Locke]] representing [[House Oestra | House Oestra]], [[:alandria | Caller Alandria]] of [[House Beltus | House Beltus]], [[:seer-demeletas | Seer Demeletas]] of [[House Goela | House Goela]], [[:navinea-senetera | Navinea Senetera]] representing [[House Grimbolg | House Grimbolg]], and finally representing [[House Mabon | House Mabon,]] [[:journeyman-galoras | Journeyman Galoras]]. We are the [[Hexine Circle | Hexine Circle]], a council of representatives of each House convened in order to address a specific threat to our city. Convened, in fact, as a direct result of your actions.
-<br>
-We understand that you are the brave travellers who not only survived [[Fallowhurst | Fallowhurst]] but brought us an Anathemist Lieutenant, this is no small feat and you have both our admiration and our gratitude. It was the results of [[:hielaman | Captain Hielaman]]'s preliminary interrogation that brought to light the necessity for this council. Captain?
-
- _Captain Hielaman_:
-bq). Indeed. Amid a slew of invective and hollow defiance, not to mention a number of imaginative speculations as to my ancestry, our prisoner made reference to some highly privileged information. Information that could only be acquired from a high ranking member of one of the houses.
-
- _Halan_:
-bq). Quite. You see our problem - we have long suspected that anathamist spies have infiltrated the city, but now it appears that they have gained access to highly sensitive individuals and information. We have a pressing need to route out this corruption. And that is where you come in.
-<br>
-We also understand that you have not, as of yet, secured the patronage of one of the houses, and that your time in our great city is therefore limited. You are also clearly capable, resilient, and no friends to the anathamists. As new arrivals you are comparatively unknown and therefore able to go places and gain confidences that our more official agents would find impossible. Our offer to you is this: seek out the spies, bring them to justice, and you may have your pick of patronages. What say you?
-
-[[:emissary-halan | Halan]] added, when the party asked where they should begin:
-
-bq). Ah. This is another motiviation for our decision to bring in outside help. The council has failed to reach a consensus on the best approach. I'd advise that you discuss the matter with each of my colleagues at your convenience.
-
-The [[Hexine Circle | Hexine Circle]] requested the aid of [[The Adventurers | The Adventurers]] in rooting out Anathemist Spies. The [[:arise-to-victory-over-the-infidel-hoards | leutenant]] they captured made reference to highly sensitive information that could only be obtain by infiltrating one of the houses.
 
 <!-- GM_INFO_START -->
 * The local feline population will recognise [[:amanira | Amanira]] ("Amazing Maurice?").

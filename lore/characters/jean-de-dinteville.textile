@@ -16,13 +16,24 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469575/Ambassadors-Dint
 ---
 
 <!-- OP_DESCRIPTION -->
-You see a large man in merchant's finery - tall, heavy-set, and built like someone who does his own lifting rather than paying porters.
+You see a tall human man with fair skin and a wiry, narrow-shouldered build, his dark beard trimmed to a merchant's neatness and his hair worn shoulder-length under a fur-trimmed travelling cap. He dresses as a wealthy visitor from [[Artresh | Artresh]] — brocade doublet, wine-coloured cloak, good boots — the costume of someone who expects invitations. He presents as sociable and self-assured, a man comfortable in any dining hall. He speaks in easy, cultivated phrases, always sounding as though he is offering a favour.
 
 <!-- OP_BIO -->
-Travelled with [[The Adventurers | The Adventurers]] in [[Sindrel Coach | the Sindrel Coach]] from [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]. Following the [[Anathemists | Anathemist]] ambush, he continued to travel with the group until they reached [[Sindrel | Sindrel]].
+
+*24th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+* Travelled with [[The Adventurers | the Wonch]] in [[Sindrel Coach | the Sindrel Coach]] from [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]] (evening departure).
+
+*25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+* Continued with the party through the [[Anathemists | Anathemist]] ambush on the Deren bridge.
+
+*26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+* Arrived in [[Sindrel | Sindrel]] with the group (afternoon).
 
 <!-- GM_INFO_START -->
-real name: Jean de Dinteville
+Real name: Jean de Dinteville
 
 h2. Role in the Anathemist Plot
 
@@ -36,8 +47,7 @@ In the sabotage campaign before the [[Ditchquer | Ditchquer]] closing ceremony, 
 
 Jean also helped select the [[House Lithra | House Lithra]] diplomatic incident as a useful piece of destabilisation. By identifying a social function where an enchanted punch ladle could create scandal rather than obvious violence, he contributed to the pattern of accidents that seemed strange, embarrassing, or alarming without immediately revealing a coherent military objective.
 
-During the [[Ditchquer | Ditchquer]] closing ceremony, Jean and Georges planted the explosive devices beneath [[The Fulcrum | The Fulcrum]]. After [[:barnabus | Barnabus]] stole [[:
-silas-oestra | Silas Oestra]]'s key and passed it to [[:arouraios | Arouraios]], Jean and Georges emerged from the tunnels and collected it.
+During the [[Ditchquer | Ditchquer]] closing ceremony, Jean and Georges planted the explosive devices beneath [[The Fulcrum | The Fulcrum]]. After [[:barnabus | Barnabus]] stole [[:silas-oestra | Silas Oestra]]'s key and passed it to [[:arouraios | Arouraios]], Jean and Georges emerged from the tunnels and collected it.
 
 Jean and Georges then travelled through the [[Osteomantic Archives | archives]], collected [[:nielsenn | Nielsenn]] from the [[Quarantine Zone | Sacrum]], then emerged within the [[House Oestra | Leageur]] wearing armour whose painted symbol passed as [[House Oestra | House Oestra]] in the dark. With Silas's key and Nielsenn's locksmith skills, they accessed [[:silas-oestra | Silas Oestra]]'s rooms, copied what they could, and stole what they could not. Jean and Georges then took Nielsenn back to the cell's headquarters, killed him, and left [[Sindrel | Sindrel]], returning to their merchant identities.
 

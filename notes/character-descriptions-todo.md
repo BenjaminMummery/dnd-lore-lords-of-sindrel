@@ -20,20 +20,20 @@ Hexine Circle + Fulcrum bombing witnesses. **Done** (template pass: read-aloud d
 
 ---
 
-## Tier 2 — Session-regular NPCs
+## Tier 2 — Session-regular NPCs ✅
 
-- [ ] journeyman-galoras
-- [ ] emerich-surefoot
-- [ ] embren-oestra
-- [ ] micycle-smynth
-- [ ] celebrant-alruna (GM-only)
-- [ ] hunts-by-night
-- [ ] pads-silently
-- [ ] kelferria-the-smith
-- [ ] jean-de-dinteville, georges-de-selve
-- [ ] seelie-ophelan
-- [ ] temperance
-- [ ] silas-oestra (GM-only)
+- [x] journeyman-galoras
+- [x] emerich-surefoot
+- [x] embren-oestra
+- [x] micycle-smynth
+- [x] celebrant-alruna (GM-only)
+- [x] hunts-by-night
+- [x] pads-silently
+- [x] kelferria-the-smith
+- [x] jean-de-dinteville, georges-de-selve
+- [x] seelie-ophelan
+- [x] temperance-halke
+- [x] silas-oestra (GM-only)
 
 ---
 

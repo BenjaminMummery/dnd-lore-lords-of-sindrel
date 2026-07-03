@@ -27,11 +27,17 @@ She is concerned with system failure, entropy, and [[Sindrel | Sindrel]]'s resou
 
 *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- Joined the [[Hexine Circle | Hexine Circle]] convened after the Anathemist leak; tasked [[The Adventurers | the Wonch]] with finding spies.
+* Joined the [[Hexine Circle | Hexine Circle]] convened in the morning after the Anathemist leak was discovered.
+* Discussed city ecology at length with [[:rossin-ros-greyhirst | Ros]] during the Wonch's house interviews immediately afterward.
 
 *30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- [[:pin | Pin]] noticed she assumed [[Anathemists | Anathemist]] sabotage without proof — an assumption, not a demonstrated fact.
+* Wrote to [[:rossin-ros-greyhirst | Ros]] inviting her to the Amalthean to meet leading transmuters.
+
+*31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+* Hosted the Wonch at The Amalthean where she continued her discussion with Ros and explained the mechanism of D'gara's death.
+* [[:pin | Pin]] noticed she assumed [[Anathemists | Anathemist]] cascade-failure sabotage without proof — an assumption, not a demonstrated fact.
 
 <!-- GM_INFO_START -->
 h2. Spies lead

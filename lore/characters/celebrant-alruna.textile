@@ -18,16 +18,22 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7495130/alruna.jpg
 ---
 
 <!-- OP_DESCRIPTION -->
+You see an elf woman with pale gold skin and a tall, straight-backed build, her silver-white hair braided for ceremony and her face bare. She wears black robes layered over white linen - the colours of the Archive workers, although the cut and hang of the fabric are noticably [[House Goela | Goelan]]. A silver clasp at the shoulder, and a sheer dark veil pushed back from her brow complete the look — formal, sombre, precise.
 
+She speaks in measured liturgical cadence, each phrase placed like a stone - the officiant of a rite that must not be interrupted.
 
 <!-- OP_BIO -->
-Celebrant who presided over the funeral of [[:micycle-smynth | Micycle Smynth]] at the [[Osteomantic Archives | Wallarch Osteomantic Archives]] when [[The Adventurers | the Wonch]] visited.
+
+*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- Presided over the funeral of [[:micycle-smynth | Micycle Smynth]] at the [[Osteomantic Archives | Wallarch Osteomantic Archives]] when [[The Adventurers | the Wonch]] visited.
 
 <!-- GM_INFO_START -->
+h2. True role
+
 Head curator of the Wallarch [[Osteomantic Archives | Osteomantic Archives]].
 
 Real name: Alruna
 
 House affiliation (not yet known to players): [[House Goela | House Goela]], [[Adjutant | Adjutant]]. Post-fall archives are interdisciplinary; Goela fits her divination and funerary role.
-
 <!-- GM_INFO_END -->
