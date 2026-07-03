@@ -22,6 +22,8 @@ tags:
 <!-- OP_DESCRIPTION -->
 You see a …
 
+Cover all eight: race; skin tone; build; hair / facial hair; clothing (Factor → house Fashion wiki; Adjutant → house cues or uniform); how they present; how they talk.
+
 <!-- OP_BIO -->
 [[Factor | Factor]] of [[House Lithra | House Lithra]].
 

@@ -17,10 +17,19 @@ tags:
 ---
 
 <!-- OP_DESCRIPTION -->
-[[House Meness | House Meness]] corporal; explosives specialist at the [[The Fulcrum | Fulcrum]] blast site.
+You see a weary dwarf man with fair, ruddy skin and a stocky build, his russet beard braided tight and his scalp mostly bare beneath a sweat-darkened cap. He wears a [[House Meness | Meness]] watch-coat — white and high-collared, now powder-stained at the cuffs — over charcoal trousers and black boots, a black belt and truncheon at his hip marking him as member of the watch. He presents as a tired professional — competent, easily exasperated, protective of his evidence. He speaks in blunt, technical bursts, sighing often, as though he has already explained all of this to someone stupider.
 
 <!-- OP_BIO -->
+[[Adjutant | Adjutant]] of [[House Meness | House Meness]]; explosives specialist assigned to the damaged northwest foundation beneath [[The Fulcrum | The Fulcrum]].
+
 *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- Assigned to the damaged support pillar beneath [[The Fulcrum | The Fulcrum]]. Showed [[The Adventurers | the Wonch]] what remained of the triggered device and confirmed [[:ayr | Ayr]]'s clockwork-and-gunpowder theory after a live spark test.
-- Ordered the party to leave after [[:wilrin-racenglade | Wilrin]]'s wild magic scorched evidence and bystanders; yielded tunnel layouts when [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] invoked their Hexine authority.
+- Showed [[The Adventurers | the Wonch]] charred device fragments and confirmed [[:ayr | Ayr]]'s clockwork-and-gunpowder theory after a live spark test.
+- Ordered the party to leave after [[:wilrin-racenglade | Wilrin]]'s wild magic scorched evidence and bystanders; provided tunnel layouts when [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] invoked their Hexine authority.
+
+<!-- GM_INFO_START -->
+h2. Prep
+
+* Genuinely baffled by mundane bombs in a magical city — useful voice for underscoring how alien the plot feels to locals.
+* Will cooperate when Hexine authority is explicit; otherwise protective of his evidence chain.
+<!-- GM_INFO_END -->

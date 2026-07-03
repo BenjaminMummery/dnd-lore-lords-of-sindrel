@@ -18,18 +18,18 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7467310/hiidra-studio-ja
 ---
 
 <!-- OP_DESCRIPTION -->
-A half-orc sporting an eyepatch and a neatly trimmed goatee tinged with white.
-
-Even within the city they wear half plate armour and carry a longsword.
-
-They speak rarely and abruptly, preferring to let their sword do the communication. They constantly give the impression of having been dragged away from much more important and rewarding affairs.
+The Oestran representative is a half-orc with grey-green skin and a heavy, muscular build; their scalp is shaved close, their goatee neatly trimmed and streaked with white, and an eyepatch covers one eye. They wear [[House Oestra | Oestra]] armour even indoors: dark steel half plate with the House mark across the breast, black leather and bronze trim, a crimson cloak clasped at one shoulder to leave the sword arm free, and a longsword worn openly at the hip. They present as permanently interrupted — terse, martial, visibly eager to be elsewhere. When they speak at all, it is in abrupt, economical phrases, as though conversation were a duty poorly discharged.
 
 <!-- OP_BIO -->
-Locke is a [[Factor | Factor]] of [[House Oestra | House Oestra]].
+[[Factor | Factor]] of [[House Oestra | House Oestra]].
 
 *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- [[:hielaman | Hielaman's]] interrogation of [[:arise-to-victory-over-the-infidel-hoards | the Anathemist Lieutenant]] having revealed that the [[Anathemists | Anathemists]] have access to privileged information, a [[Hexine Circle | Hexine Circle]] is convened. Unable to reach resolution, they enlist [[The Adventurers | The Wonch]] to root out the spies they suspect have infiltrated the city.
+- Joined the [[Hexine Circle | Hexine Circle]] after the Anathemist leak; tasked [[The Adventurers | the Wonch]] with finding spies.
+
+*30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- Passed keys to [[Radwasp House | Radwasp House]], the Circle's investigator lodging in upper [[Sindrel | Sindrel]].
 
 <!-- GM_INFO_START -->
 h2. Spies Lead

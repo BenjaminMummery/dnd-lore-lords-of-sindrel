@@ -17,21 +17,21 @@ tags:
 ---
 
 <!-- OP_DESCRIPTION -->
-Fulcrum service staff.
+You see a stocky dragonborn man with bronze scales and a broad-shouldered, work-hardened build, his horned head and dorsal frill catching the light. He wears [[The Fulcrum | Fulcrum]] service livery: the same pale marble-grey tunic and apron as the rest of the tower staff, black trousers, soft shoes, and the eight-pointed star at the collar. He presents as watchful and streetwise — friendly enough on the surface, always measuring who is asking and why. He answers in a low, careful voice, giving no more detail than the question seems to deserve.
 
 <!-- OP_BIO -->
-Works at [[The Fulcrum | The Fulcrum]].
+[[Adjutant | Adjutant]] on [[The Fulcrum | Fulcrum]] staff ([[House Grimbolg | House Grimbolg]] affiliation).
 
-According to [[:nort|Nort]], he is rumoured to be connected to [[The Black Cats | Black Cats]].
+According to [[:nort | Nort]], he is rumoured to be connected to [[The Black Cats | the Black Cats]].
 
 *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- On duty at the [[The Fulcrum | Fulcrum]] when [[The Adventurers | the Wonch]] began questioning staff about the bombing.
+- On duty at [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] questioned staff about the bombing.
 
 <!-- GM_INFO_START -->
-Index affiliation when revealed: [[House Grimbolg | House Grimbolg]], [[Adjutant | Adjutant]].
+h2. Black Cats link
 
-**[[The Black Cats | Black Cats]] - Gild** (true link, not a rumour). Fences [[The Fulcrum | Fulcrum]] shift rosters, servant-route patterns, and ceremony-night staffing to **Counters** / **Vault**. Nort's gossip is accurate. Vault protects him while he is useful; he knows fragments of who paid for extended shifts on bombing night but not the wider plot.
+**[[The Black Cats | Black Cats]] — Gild** (true link, not rumour). Fences [[The Fulcrum | Fulcrum]] shift rosters, servant-route patterns, and ceremony-night staffing to **Counters** / **Vault**. Nort's gossip is accurate. Vault protects him while he is useful; he knows fragments of who paid for extended shifts on bombing night but not the wider plot.
 
-Unrelated to **City Cats** (actual felines) - he has never recruited them and does not think in those terms.
+Unrelated to **City Cats** (actual felines).
 <!-- GM_INFO_END -->

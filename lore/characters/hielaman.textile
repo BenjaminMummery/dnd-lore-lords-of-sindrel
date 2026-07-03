@@ -18,9 +18,9 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7467306/Half-Elf-Illustr
 ---
 
 <!-- OP_DESCRIPTION -->
-A gruff half-elf with short-cropped hair. His knuckles bear the scars of frequent sword training.
+The captain is a gruff half-elf man with pale skin and an athletic, square-shouldered build, his pale hair cropped short and his jaw clean-shaven, his knuckles scarred from sword work. On duty he wears the [[House Meness | Meness]] watch uniform: a long white high-collared tunic-coat squared at the shoulders, charcoal trousers tucked into polished black boots, black calfskin gloves, and a broad belt from which hang a shortsword and truncheon — the House trident embroidered on the coat's back. He carries a standard-issue kite shield when armed for the field.
 
-Hielaman carries a kite shield and short-sword. He speaks gruffly and authoritatively - a man accustomed to command.
+Hielaman carries himself with poise and precision — a man accustomed to command and conscious that he represents his House in every interaction. He is watchful, impatient with nonsense. He speaks in clipped, authoritative sentences, as though every word were an order waiting to be obeyed.
 
 h3. Key Items
 
@@ -44,9 +44,9 @@ Hielaman is a [[Factor | Factor]] of [[House Meness | House Meness]]. He fulfill
 - Hielaman's interrogation of [[:arise-to-victory-over-the-infidel-hoards | the Anathemist Lieutenant]] having revealed that the [[Anathemists | Anathemists]] have access to privileged information, a [[Hexine Circle | Hexine Circle]] is convened. Unable to reach resolution, they enlist [[The Adventurers | The Wonch]] to root out the spies they suspect have infiltrated the city.
 
 <!-- GM_INFO_START -->
-h2. Spies lead:
+h2. Spies lead
 
-bq). Shake down the local criminals. Our spies need ways to move about the city, ways to get their hands on information, equipment, resources, all without being noticed. That requires a lot of familiarity with the city. Why start from scratch when you can use whats already here? Somewhere out there are some mid- to high-level crooks who are suddenly much better paid as a reward for the treason. Below them are petty scum looking to get rich. They’re the weak link, find them and lean on them.
+bq). Shake down the local criminals. Our spies need ways to move about the city, ways to get their hands on information, equipment, resources, all without being noticed. That requires a lot of familiarity with the city. Why start from scratch when you can use whats already here? Somewhere out there are some mid- to high-level crooks who are suddenly much better paid as a reward for the treason. Below them are petty scum looking to get rich. They're the weak link, find them and lean on them. Our spies need ways to move about the city, ways to get their hands on information, equipment, resources, all without being noticed. That requires a lot of familiarity with the city. Why start from scratch when you can use whats already here? Somewhere out there are some mid- to high-level crooks who are suddenly much better paid as a reward for the treason. Below them are petty scum looking to get rich. They’re the weak link, find them and lean on them.
 
 Should lead to [[The Black Cats | the Black Cats]] (see [[The Black Cats | Black Cats]] wiki). Hielaman is personally straight-lace and unaware of Vault kompromat; his superiors are compromised, which is why he counsels against a head-on leadership strike but will happily push the Wonch at **Strands** and **Counters**. If he investigates seriously past that, Vault will treat him as a threat - hard to blackmail, dangerous to ignore.
 

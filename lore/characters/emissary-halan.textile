@@ -18,8 +18,32 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469963/dwarf.jpg
 ---
 
 <!-- OP_DESCRIPTION -->
-Halan is an educated, dignified young dwarfess of [[House Lithra | House Lithra]]. She is a consumate diplomat, shifting between sparkling wit and incisive detail orientation at a moment's notice.
+Halan is an educated, dignified young dwarfess of [[House Lithra | House Lithra]]. She is a consummate diplomat, shifting between sparkling wit and incisive detail orientation at a moment's notice.
 
-She is inariably elegantly dressed, favouring flowing gowns of silver-grey. Her dark hair is typically styled into an elegant halo of decorative, flowing curls.
+She is invariably elegantly dressed in [[House Lithra | Lithra]]'s grey-and-silver palette: layered ash-coloured silk and fine wool, a pleated silver mantle, and a beaded usekh at her throat framing her face. Her dark hair is styled into an elegant halo of decorative curls and her beard neatly trimmed to match. She speaks with the hint of a smile in her voice, always slightly amused, slightly charmed, giving every outward sign of enjoying the conversation.
 
 <!-- OP_BIO -->
+[[Factor | Factor]] of [[House Lithra | House Lithra]].
+
+*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- Convened the [[Hexine Circle | Hexine Circle]] after [[:hielaman | Captain Hielaman]]'s interrogation exposed a leak; introduced the house representatives and tasked [[The Adventurers | the Wonch]] with finding spies in [[Sindrel | Sindrel]].
+
+*30th–31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- Hosted the Hexine investigators at [[Radwasp House | Radwasp House]] during the Fulcrum bombing inquiry.
+- Agreed to help [[:silrie-aegiskiir | Silrie]] locate blueprints of the city's oldest structures (each house keeps its own records).
+- Noted [[:ayr | Ayr]]'s appearance as "Fenton Woofrunner" at her soiree — an oddity to watch, not yet a trusted ally.
+
+<!-- GM_INFO_START -->
+h2. Spies lead
+
+bq). The only true power is information, and the key to information is access. They can only have learned what they know from highly placed individuals - 20 or so in the entire city I suspect. If you want to get access to those sorts of social circles, you need to seem like you belong. I'd imaging you could get into one of my soirees with a wink and a suitably daring fake name, but the upper circles are a different story. You would need money, and lots of it. Enough for an opulent lifestyle  and even more for bribes and other social lubrication. So too you would need to appear to be socially influential and reliably stable - old money gentry, or hereditary nobility, but with a legend that is unlikely to contradict anyone's experiences. They couldn't risk changing alias within the city, they'll have arrived in character. I would suggest looking at recent arrivals, within the last few months. Focus on the nobility and wealthier merchants - people who can move large amounts of money without arousing suspicion. Finally look for people who are obviously harmless, someone around whom it would be easy to drop your guard. For example, a young naive noblewoman with a disarmingly eager affect travelling with a fortune in gold and an almost comically proficient bodyguard...
+<br>
+I jest of course, I have confirmed the Lady Von Pthasia's identity myself, and either way she only arrived in the city _after_ the information loss had occurred. Although, I must confess may be inclined to use certain details of her life the next time I myself have to go undercover.
+
+h2. Prep
+
+* Visitor records at the main gate ([[House Lithra | Lithra]] building) are a legitimate lead vector.
+* Recognises [[:ayr | Ayr]] beneath the "Fenton" disguise if he reappears at Lithran events.
+<!-- GM_INFO_END -->

@@ -17,17 +17,22 @@ tags:
 ---
 
 <!-- OP_DESCRIPTION -->
-Butler of [[Radwasp House | Radwasp House]].
+You see a human man with light brown skin and a lean, precise build, his black hair combed flat and his face clean-shaven. He is turned out as a [[House Lithra | Lithra]] household adjutant: charcoal tailcoat and silver-grey waistcoat, white gloves, and a discreet silver throat-pin — the monochrome palette and framed throat of Lithra dress, adapted to butler's livery. He presents as composed and unflappable — a man who has seen worse than burned curtains and intends to keep the townhouse running regardless. He speaks in formal, measured phrases, dry and faintly reproachful when guests threaten the upholstery.
 
 <!-- OP_BIO -->
-[[Adjutant | Adjutant]] of [[House Lithra | House Lithra]].
+[[Adjutant | Adjutant]] of [[House Lithra | House Lithra]]; butler of [[Radwasp House | Radwasp House]], the [[Hexine Circle | Hexine Circle]] townhouse in upper [[Sindrel | Sindrel]].
 
-Butler of [[Radwasp House | Radwasp House]], a [[House Lithra | House Lithra]] townhouse assigned to [[Hexine Circle | Hexine Circle]] investigators in upper [[Sindrel | Sindrel]].
+*30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- Received [[The Adventurers | the Wonch]] when [[:commander-locke | Prefect Locke]] passed over the keys to Radwasp House.
 
 *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- Summoned the party before dawn. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s approach to [[:wilrin-racenglade | Wilrin]]'s door left both the door and the curtains badly singed; Cedric was visibly consternated.
+- Summoned the party before dawn. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s knock sent [[:wilrin-racenglade | Wilrin]]'s door flying; Wilrin's firebolt and Deathwalker's Chill Touch left door and curtains badly singed — Cedric was extremely consternated.
+- Built a like-for-like miniature of the townhouse for [[:razorbeak | Razorbeak]].
 
 <!-- GM_INFO_START -->
-Cedric is actually a Factor - his typical role is to spy on visiting dignitaries for House Lithra.
+h2. True role
+
+Cedric is actually a [[Factor | Factor]] — his typical assignment is to spy on visiting dignitaries for [[House Lithra | House Lithra]]. The butler cover at Radwasp House lets him observe the Wonch without appearing to be one of Halan's overt agents.
 <!-- GM_INFO_END -->

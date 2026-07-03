@@ -17,15 +17,18 @@ tags:
 ---
 
 <!-- OP_DESCRIPTION -->
-Fulcrum service staff.
+Nans is a lean elf woman with medium-brown skin and a neat, economical build, her black hair drawn into a tight bun. She wears [[The Fulcrum | Fulcrum]] service livery: a pale marble-grey tunic and apron over practical black trousers, soft-soled shoes, and the eight-pointed star embroidered at the collar. She presents as watchful and professionally discreet — the sort of servant who notices everything and comments on little. She speaks carefully, in short, exact sentences, as though every word might be quoted later.
 
 <!-- OP_BIO -->
-Works at [[The Fulcrum | The Fulcrum]].
+[[Adjutant | Adjutant]] on [[The Fulcrum | Fulcrum]] staff ([[House Beltus | House Beltus]] affiliation).
 
 *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- On duty at the [[The Fulcrum | Fulcrum]] when [[The Adventurers | the Wonch]] began questioning staff about the bombing.
+- On duty at [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] questioned staff about the bombing; one of three staff named as worth interviewing after the extended ceremony-night shifts.
 
 <!-- GM_INFO_START -->
-Index affiliation when revealed: [[House Beltus | House Beltus]], [[Adjutant | Adjutant]].
+h2. Prep
+
+* May have seen servant-route traffic on bombing night; has not yet given a lead comparable to [[:nort | Nort]]'s coachman sighting.
+* Honest staff — no spy connection.
 <!-- GM_INFO_END -->

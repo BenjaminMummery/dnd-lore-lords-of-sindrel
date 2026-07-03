@@ -18,12 +18,12 @@ Scanned `lore/**` - resolve in canon, then remove the inline marker (especially 
 - [ ] **`lore/wiki/wiki/the-black-cats.textile`** (GM block) - what the Black Cats know (party intel / syndicate awareness).
 - [ ] **`lore/characters/hytham-grimbolg.textile`** (GM block) - is Hytham still slim given his corruption? (affects current `OP_DESCRIPTION` when written).
 - [ ] **`lore/characters/arouraios.textile`** (`OP_DESCRIPTION`, **public**) - flesh out read-aloud description beyond coachman/beard/glasses.
-- [ ] **`lore/characters/nakoma-deathwalker-mor-got-ha.textile`** (`OP_BIO`, **public**) - remove Mad King of Corvus (~4217) rebel-side mention; keep in `GM_INFO` / Player Secrets only.
+- [x] **`lore/characters/nakoma-deathwalker-mor-got-ha.textile`** (`OP_BIO`, **public**) - Corvus rebel-side moved to `GM_INFO`.
 - [ ] **Campaign timeline dedup** - `world-history` Campaign Timeline vs `the-adventurers` Timeline overlap (see `notes/gm-secrets.md` or thread notes). **Done:** city events on `world-history`; party days on `the-adventurers` only (`lore-assistant.mdc`).
 
 ## Shelved
 
-- [Character descriptions](character-descriptions-todo.md) - paused; Phase 1 partial work in repo.
+- [Character descriptions & NPC tiers](character-descriptions-todo.md) — template: `character-template.textile`
 - [ ] **Statblocks for NPCs** - paused; resume when ready.
   - [ ] **Black Cats ranks** - review rank names (Strands, Counters, Gild, Vault); not settled.
   - [x] Zalatan, Quill brothers, archive caretakers (drafts in repo).

@@ -52,6 +52,12 @@ The northwest foundation pillar was cracked by the bombing and later repaired by
 
 The Wellspring water is not produced beneath the Fulcrum but channelled from the Amalthean (colloquially the [[House Grimbolg | Cornucopia]]).
 
+h3. Service livery
+
+Staff who work the public halls, kitchens, and service tunnels beneath the tower wear **Fulcrum service livery** — distinct from any single Great House uniform. The dress is deliberately plain next to the marble above: a pale marble-grey tunic and matching apron, practical black trousers, and soft-soled shoes for polished floors and damp tunnels. The only prominent mark is the **eight-pointed star** embroidered at the collar (sometimes repeated at the cuff), small enough to read as administration rather than heraldry.
+
+House patronage still shows in the wearer — gold bracelets on [[Adjutant | Adjutants]], subtle house colours at the belt or undershirt — but at a glance the livery identifies someone as **Fulcrum staff**, not a Factor's household retainer. Night-shift and tunnel crews often roll sleeves, add wool wraps for the cold below, or stain aprons with kitchen and maintenance work; ceremony nights extend shifts and crowd routes, which is when unfamiliar faces in correct livery draw the least notice.
+
 <!-- GM_INFO_START -->
 h2. [[Ditchquer | Ditchquer]] Diversion
 

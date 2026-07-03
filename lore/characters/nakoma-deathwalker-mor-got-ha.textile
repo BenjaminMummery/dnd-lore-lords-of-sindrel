@@ -23,7 +23,7 @@ Since the 'incident' in Fallowhurst she also sports a sigil burned into the skin
 <!-- OP_BIO -->
 There have been varied sightings and mentions of Deathwalker over the last few decades. No one appears to know exactly where she is from or her exact age. It is unknown how many Deathwalkers there have been from the Mor'got'ha clan. Indeed there is some speculation that the Deathwalker line might have some relation to Deathbringer, one of the most mightiest warriors from ancient history who was pivotal in the battle against the necromantic [[The Thaumocracy of Tellerin | Tellerites]] for the description of Deathbringers tattoos have a familial resemblance to Deathwalkers, and indeed the entire Deathwalker line. If this is the case then Deathwalker is descended from what might be the Goliath equivalent of royalty.
 
-Deathwalker, herself, has only been recorded in a handful of major battles. The most recent before [[Sindrel | Sindrel]] was the **rebel uprising against the Mad King of [[World History | Corvus]]** (~**4217 SC**), where she fought on the **rebel** side — the same battle where [[:pin | Pin]]'s Black Bloods died in the King's service. Since then she has been sighted traveling, sometimes alone, sometimes within a small group but she never remains with any group too long. Her movements are sporadic but correlating the most recent sightings put her trajectory, like all pilgrims, towards Sindrel.
+Deathwalker has only been recorded in a handful of major battles. Accounts disagree on which was most recent before her arrival in [[Sindrel | Sindrel]]; mercenary rolls and traveller gossip place her on several distant fields in the years before the pilgrimage routes turned toward the city. Since then she has been sighted traveling, sometimes alone, sometimes within a small group, but she never remains with any group too long.
 
 Her most recent traveling companions seem to be an eclectic bunch.
 
@@ -62,4 +62,8 @@ It was at this time she took the name Deathwalker. Deathwalker spent many years 
 Emotionally betrayed and battling with the morality of her choice Deathwalker set out to find a necromancer that might help her. But her reputation preceded her, the Slayer of Death was not welcome among reputable necromantic houses and they would never revive the worst of their order for any price. The Death markets were no used either as their necromancers had little power and none had the knowledge of necromantic revival for a corpse so far gone and so steeped in its own dark desires.
 
 As magic began to fade Deathwalker trekked across the world seeking a solution. As such she witnessed first hand the fading of magic. She bartered her travels by falling back on her mercenary days, lending aid to those who could pay and those who could not depending on her mood. What need of money did she have when she couldn't be killed by starvation or the elements. She saw kings rise and fall, even aided a rebellion or two resigned to her fate. But then she heard tell of the last bastion of magic that was Sindrel. And in hushed whispers she heard about the necromantic ruins within the city which may hold a solution to her eternal problem.
+
+h2. Corvus (~4217 SC)
+
+Fought on the **rebel** side of the uprising against the Mad King of [[World History | Corvus]] — the same battle where [[:pin | Pin]]'s Black Bloods died in the King's service. Pin does not know this unless Nakoma or someone else reveals it.
 <!-- GM_INFO_END -->

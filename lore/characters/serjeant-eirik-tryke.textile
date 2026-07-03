@@ -17,10 +17,19 @@ tags:
 ---
 
 <!-- OP_DESCRIPTION -->
-[[House Meness | House Meness]] serjeant guarding [[The Fulcrum | Fulcrum]] service access.
+A half-elf man with fair skin and a medium, soldier's build, his sandy hair kept regulation-short and his chin clean-shaven. He wears the [[House Meness | Meness]] watch uniform: a long white high-collared tunic-coat with black leather belt, shortsword, and truncheon, charcoal trousers tucked into polished black boots, and a stiff white constable's cap with the Meness shield badge at the front. He presents as alert and professionally relieved — a gatekeeper who has been waiting for someone competent to ask the right questions. He speaks clearly and without fuss, explaining what he knows in the order a good report should run.
 
 <!-- OP_BIO -->
+[[Adjutant | Adjutant]] of [[House Meness | House Meness]]; guards hidden service access to [[The Fulcrum | The Fulcrum]].
+
 *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 
-- Guarding a hidden service entrance to [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] arrived. Recognised them as [[Hexine Circle | Hexine Circle]] investigators and led them into the service tunnels.
+- Recognised [[The Adventurers | the Wonch]] as [[Hexine Circle | Hexine Circle]] investigators and led them into the service tunnels.
 - Showed the northwest foundation blast site and explained that twelve devices, correctly placed, might have brought the tower down.
+
+<!-- GM_INFO_START -->
+h2. Prep
+
+* Professional gatekeeper — validates the party's mandate if they identify themselves clearly.
+* Knows the public/private split of the Fulcrum better than most visitors.
+<!-- GM_INFO_END -->

@@ -18,17 +18,25 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481335/5ff2734b2cc3bb61
 ---
 
 <!-- OP_DESCRIPTION -->
-An enormous, no-nonsense earth genassi in hard-wearing leathers.
+Navinea is an enormous earth genasi woman whose skin is the colour of weathered clay — brown-grey, faintly granular — with a broad-shouldered, heavyset build. Her hair is coarse and iron-grey, cropped short like bundled mineral fibre. She wears [[House Grimbolg | Grimbolg]] work dress even at council: moss-green wool and bark-brown linen in layered, reinforced panels, a leather apron stamped with green-black House knotwork, heavy boots, and work gloves — the cut of a Factor who still looks ready to walk into a waterworks failure. She presents as unhurried and contemplative, weighing every answer as though the city were a machine that might fail if given incorrect information. She speaks slowly and deliberately, blunt when she reaches a conclusion.
 
 <!-- OP_BIO -->
-[[:rossin-ros-greyhirst | Ros]]'s insight into interconnected natural systems and their application to [[Sindrel | Sindrel]] are of particular interest to Navinea. She intends to organise a roundtable with Ros and senior transmuters.
+[[Factor | Factor]] of [[House Grimbolg | House Grimbolg]]. [[:rossin-ros-greyhirst | Ros]]'s insight into interconnected natural systems is of particular interest; Navinea intends to organise a roundtable with Ros and senior transmuters.
 
-She is concerned with system failure, entropy, and [[Sindrel | Sindrel]]’s resource vulnerability.
+She is concerned with system failure, entropy, and [[Sindrel | Sindrel]]'s resource vulnerability.
 
-She assumes that the [[Anathemists | Anathemists]] are responsible for the incidents of sabotage, but [[:pin | Pin]] noticed this was an assumption rather than a proven fact.
+*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- Joined the [[Hexine Circle | Hexine Circle]] convened after the Anathemist leak; tasked [[The Adventurers | the Wonch]] with finding spies.
+
+*30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- [[:pin | Pin]] noticed she assumed [[Anathemists | Anathemist]] sabotage without proof — an assumption, not a demonstrated fact.
 
 <!-- GM_INFO_START -->
-Spies Leads:
+h2. Spies lead
 
 bq). There is no point closing the stable door when the horse has already bolted. We should be focussing on increasing security around critical infrastructure in order to prevent the _next_ attack.
+
+Believes the [[Anathemists | Anathemists]] seek a cascade failure in [[Sindrel | Sindrel]]'s ecosystem — her read on motive, not confirmed fact.
 <!-- GM_INFO_END -->

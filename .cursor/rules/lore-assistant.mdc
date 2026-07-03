@@ -53,6 +53,7 @@ When the user's message begins with `NPC:` or `Quick NPC:` (case-insensitive), f
 ## Character page descriptions (`OP_DESCRIPTION`)
 
 - **Non-PCs:** read-aloud prose for first meeting - *"You see…"* - **current** appearance, not founder statuary or civic artwork (players may meet lords before immortality is known).
+- **NPC description checklist** (all eight in `OP_DESCRIPTION`): **race**; **skin tone**; **build**; **hair / facial hair** (or equivalent for horned / scaled ancestries); **clothing** — Factors from the relevant `house-*.textile` **Fashion** section; Adjutants show house influence unless they wear a dedicated uniform (e.g. [[The Fulcrum | Fulcrum]] service livery, [[House Meness | Meness]] watch-coat); **how they present** (demeanour / bearing); **how they talk** (pace, register, habits).
 - **PCs:** portrait-based or player-provided; D&D Beyond links belong in `OP_BIO`, not as the only description.
 - **GM-only lords:** `OP_DESCRIPTION` should work when the page is later made public; avoid Octarion/founder-art framing in the quick-description field.
 - Full checklist and tier rollout: `notes/character-descriptions-todo.md` (repo only).
@@ -229,6 +230,8 @@ All character files in `lore/characters/` share this layout:
 3. `<!-- GM_INFO_START -->` … `<!-- GM_INFO_END -->` — plot role, investigative footprints, prep notes, and **stat blocks**. Use `h2.` / `h3.` like wiki pages. Omit the block only when there is genuinely no GM-only content.
 
 **Do not** use `h2.`/`h3.` in `OP_DESCRIPTION` except optional `h3. Key Items` on lords and PCs. Headings belong in `OP_BIO` (rare) or `GM_INFO`.
+
+**Clothing:** Great House **Factors** — dress from that house's Fashion section (`lore/wiki/wiki/house-*.textile`). **Adjutants** — house colours and details in practical cuts (apron, tool belt, throat-pin) unless they wear an institutional uniform ([[The Fulcrum | Fulcrum]] service livery, [[House Meness | Meness]] watch-coat). Fulcrum staff share pale marble-grey tunics with the eight-pointed star at the collar (table canon until a wiki entry exists).
 
 ### Founders (exception)
 

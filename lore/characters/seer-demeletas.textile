@@ -18,9 +18,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469951/tief.jpeg
 ---
 
 <!-- OP_DESCRIPTION -->
-Demeletas is a Tiefling, his purple skin almost the same shade as the robes he wears. Although his eyes are a milky white, he appears to have no issue navigating his surroundings.
-
-He speaks in declaratives that sound a lot like fortune cookie platitudes. What wisdom they contain is typically only clear in hindsight.
+A tiefling man with deep purple skin and a slender build, his swept-back black hair framing long horns and a neatly trimmed pointed beard. An ornamented silver chain hangs between the horns, giving him a halo of stars. He wears sober [[House Goela | Goelan]] civic dress: heavy purple robes layered over pale inner linen, an annotated sash at the waist, and silver clasps at the shoulder. His eyes are milky white, yet he moves without hesitation. He presents as serenely oracular — unhurried, faintly amused, as though he already knows how your question ends. He speaks in polished declaratives that sound like fortune-cookie platitudes, their sense usually clear only in hindsight.
 
 <!-- OP_BIO -->
 Demeletas is a Factor of [[House Goela | House Goela]].
@@ -30,7 +28,7 @@ Demeletas is a Factor of [[House Goela | House Goela]].
 - [[:hielaman | Hielaman's]] interrogation of [[:arise-to-victory-over-the-infidel-hoards | the Anathemist Lieutenant]] having revealed that the [[Anathemists | Anathemists]] have access to privileged information, a [[Hexine Circle | Hexine Circle]] is convened. Unable to reach resolution, they enlist [[The Adventurers | The Wonch]] to root out the spies they suspect have infiltrated the city.
 
 <!-- GM_INFO_START -->
-Spies lead:
+h2. Spies lead
 
-bq). Your path leads through earth and ash and brimstone, but beware the fire and fury - its blinding light hides the spectre of death.  It is easy to get lost in the dark, but remember to trust in righteousness. Your lucky number is eight. Your lucky colour is red. Pay close attention to your friends, you may find yourself looking to them at times you don't expect. Avoid shellfish, but be open to trying new experiences.
+bq). Your path leads through earth and ash and brimstone, but beware the fire and fury – its blinding light hides the spectre of death. It is easy to get lost in the dark, but remember to trust in righteousness. Your lucky number is eight. Your lucky colour is red. Pay close attention to your friends, you may find yourself looking to them at times you don't expect. Avoid shellfish, but be open to trying new experiences.
 <!-- GM_INFO_END -->
