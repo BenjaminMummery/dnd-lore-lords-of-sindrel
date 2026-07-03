@@ -14,7 +14,7 @@ tags:
 - Sindrel
 ---
 
-At the heart of the Quarantine Zone stand the ruins of [[The Eighth House | The Eighth House]], sealed away since the fall. The district remains contaminated by dangerous necromantic energies that have resisted every attempt at reclamation for nearly a thousand years. Though the walls surrounding the Zone are maintained, breaches inevitably appear, drawing scavengers, treasure hunters, and the desperate into its abandoned streets. Most never return. For the rest of [[Sindrel | Sindrel]], the Quarantine Zone serves as both a physical hazard and a permanent uncomfortable reminder that even the greatest of the Founders could fail.
+At the heart of the Quarantine Zone stand the ruins of [[The Eighth House | The Eighth House]], sealed since **~3245 SC**. The district remains contaminated by dangerous necromantic energies that have resisted every attempt at reclamation for nearly a thousand years. Though the walls surrounding the Zone are maintained, breaches inevitably appear, drawing scavengers, treasure hunters, and the desperate into its abandoned streets. Most never return. For the rest of [[Sindrel | Sindrel]], the Quarantine Zone serves as both a physical hazard and a permanent uncomfortable reminder that even the greatest of the Founders could fail.
 
 <!-- GM_INFO_START -->
 The [[The Eighth House | House Samhain]] hq is known as the Sacrum

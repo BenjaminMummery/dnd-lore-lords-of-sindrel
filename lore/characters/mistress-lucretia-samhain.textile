@@ -30,9 +30,9 @@ h3. Key Items
 <!-- GM_INFO_START -->
 Mistress Lucretia Samhain is the ancient head of [[The Eighth House | House Samhain]] and one of the original [[The Octarion Circle | founders]] of [[Sindrel | Sindrel]]. Her House colour is black. Her symbolic item is [[The Red Mourning | The Red Mourning]], a silver ring set with a magnificent jet black stone.
 
-Samhain was already immortal before the [[Peaches of Immortality | peaches of Zotikó]] were stolen. As a vampire, she had no need of them, and so did not eat one.
+Samhain refused the [[Peaches of Immortality | peaches of Zotikó]] when they were stolen (~3242 SC), inadvertently revealing her vampirism. She was imprisoned in [[Thanismot | Thanismot]] in **~3245 SC** when **Riftlock** closed the gate behind her.
 
-When the rift-control infrastructure was later repurposed for colonial ambitions, Samhain opposed the project. The Seven planned to lure her into [[Thanismot | Thanismot]] and stabilise the rift behind her, trapping her there and removing the only founder willing to resist [[Sindrel | Sindrel]]'s expansion. Samhain anticipated the betrayal. Loyal members of [[The Eighth House | House Samhain]] had already been moved into Thanismot. As the rift sealed behind her, she wove a spell around those of her House who remained in Sindrel. They died, denying the Seven access to necromantic expertise.
+When **Riftlock** was proposed, Samhain opposed the project. The Seven planned to trap her in [[Thanismot | Thanismot]]. Anticipating their plan, Samhain began moving loyal members of her house to Thanismot and bound the rest to a deadly spell. As the rift sealed behind her, the remaining necromancers died, denying the Seven access to necromantic expertise.
 
 The Seven believed that by sealing Samhain in the world of mortality they had condemned her to starvation, decay, or eventual death. They were wrong. [[Thanismot | Thanismot]]'s death-energy sustains her. It is the first place where she has ever been free of the thirst for blood. Samhain has lived in Thanismot with the loyal remnants of [[The Eighth House | House Samhain]] ever since her betrayal.
 
@@ -40,5 +40,7 @@ Samhain is unaware of the modern plan to move [[Sindrel | Sindrel]] bodily into 
 
 h2. Depictions
 
-In most statues and paintings of the founders, Samhain is omitted or, if the artwork depicts [[The Fall of the Eighth House | the fall of the eighth house]], has been erased. In surviving artworks, she is a shown as a tall, slim woman with jet black hair wearing a form fitting dress, corset, and bolo jacket. She's the most vampire who ever vampired.
+In most statues and paintings of the founders, Samhain is omitted or, if the artwork predates [[The Fall of the Eighth House | the fall of the eighth house]], has been erased by [[:lord-ablas-oestra | Lord Oestra's]] petty revenge. The only known representations of her are in propagnadistic depictions of the Fall of the Eighth House, where she is shown as a dark and terrifying figure, less a person and more a force of nature threatening to swallow the entire world.
+
+In surviving artworks that were shielded from Oestra's spell, she is a shown as a tall, slim woman with jet black hair wearing a form fitting dress, corset, and bolo jacket. She's the most vampire who ever vampired.
 <!-- GM_INFO_END -->

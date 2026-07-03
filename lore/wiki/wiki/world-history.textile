@@ -20,43 +20,173 @@ To the south is the mysterious [[The Thaumocracy of Tellerin | Thaumocracy of Te
 
 h2. *Historical Events*
 
-_Dates are estimated according to the [[The Soulwind Calendar | Soulwind calendar (SC)]].._
+_Dates use the [[The Soulwind Calendar | Soulwind calendar (SC)]]. Current year: **4218 SC** (adventure log canon). “Years ago” figures are measured from 4218._
 
 [accordion]
     [accordion-item]
-        [title] 3200s (_~1000 years ago_) - The Founding of [[Sindrel | Sindrel]] [end-title]
+        [title] ~3010 SC (_~1208 years ago_) — [[The Magedom of Houd | The Magedom of Houd]] [end-title]
         [content]
-            * Eight great mages found the city of [[Sindrel | Sindrel]].
-            * One of their number ultimately betrays the rest and threatens the destruction of the world. The remaining seven are forced to band together to defeat this threat.
+            * The northern kingdoms of [[Artresh | Artresh]] unite under the Mage Lord Council as the [[The Magedom of Houd | Magedom of Houd]] — well established by the time the rift is discovered two centuries later.
         [end-content]
     [end-accordion-item]
 
     [accordion-item]
-        [title] 3850s (~350 years ago_) [end-title]
+        [title] ~3180 SC (_~1038 years ago_) — [[Fallowhurst | Fallowhurst]] and [[House Oestra | House Oestra]] [end-title]
         [content]
-            * The first stirrings of the death of magic are felt.
+            * Long before the rift: [[Fallowhurst | Fallowhurst]] exists as a fishing village on a shallow ford of the River Deren.
+            * [[House Oestra | House Oestra]] establishes a family estate — manor, bridge toll, and levees to drain land for the build. The village predates everything that follows.
         [end-content]
     [end-accordion-item]
 
     [accordion-item]
-        [title] 3900s (_~300 years ago_) [end-title]
+        [title] 3218 SC (_~1000 years ago_) — Founding of [[Sindrel | Sindrel]] [end-title]
         [content]
-            * [[Soulwind | Soulwind's]] population begins to diminish. Once a seat of magical learning, it falls on hard times as magic users drift towards [[Sindrel | Sindrel]].
+            * A dimensional tear is discovered in the far north. The Soulwind Institute Dimensional Research Group (SinDReG) is dispatched to investigate.
+            * They establish a semi-permanent camp — the Soulwind Institute Dimensional Research Laboratory ([[Sindrel | SinDReL]]) — around the rift. This camp is the founding of [[Sindrel | Sindrel]].
+            * Early forays through the tear prove other worlds exist, but the rift is too unstable for sustained use.
         [end-content]
     [end-accordion-item]
 
     [accordion-item]
-        [title] Year 3953 (_roughly 250 years ago_) - The Seven Day War [end-title]
+        [title] ~3220s SC (_~990s years ago_) — Rift control and growth [end-title]
         [content]
-            * Fought between [[The Magedom of Houd | The Magedom of Houd]] and [[The Thaumocracy of Tellerin | The Thaumocracy of Tellerin]]. The Tellerites are generally remembered as the aggressors, while the defending Houdis were ultimately victorious.
+            * The Circle plans **rift stabilisation** — a project to bring the tear under direct control.
+            * Small numbers of additional mages and supplies arrive; the camp begins to grow into a city.
         [end-content]
     [end-accordion-item]
 
     [accordion-item]
-        [title] 4000s to 4200s [end-title]
+        [title] ~3226 SC (_~992 years ago_) — [[The Mage Road | Soulwind conduit]] [end-title]
         [content]
-            * [[The Thaumocracy of Tellerin | The Thaumocracy of Tellerin]] retreats within its borders and breaks off communication with the wider world
-            * Drained by the Seven Day War and the slow death of magic, [[The Magedom of Houd | The Magedom of Houd]] gradually disintegrates into a patchwork of city states.
+            * [[Sindrel | Sindrel]] persuades [[The Soulwind Institute | the Soulwind Institute]] to link [[Soulwind | Soulwind]] and the city with a **two-way** magical conduit along [[The Mage Road | the Mage Road]] — pitched as mutual aid, in practice the backbone of Sindrel's growing power.
+            * Transference towers dot the route. Once stabilisation is complete, the conduit will also supply short, intense bursts of power to refocus the rift between targets.
+        [end-content]
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] ~3228 SC (_~990 years ago_) — Rift stabilisation [end-title]
+        [content]
+            * Stabilisation succeeds. The rift is under Circle control: it can only stay open for short periods, but long enough for earnest exploration.
+            * The conduit operates as promised — two-way travel and trade with [[Soulwind | Soulwind]], plus burst refocusing when a new world must be targeted.
+        [end-content]
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] ~3230s SC (_~980s years ago_) — Exploration and the Great Houses [end-title]
+        [content]
+            * Earnest exploration of the linked worlds. [[Zotikó | Zotikó]] (Vitality): the [[Peaches of Immortality | peaches]] are discovered, guarded, and not accessible without bloodshed. [[Thanismot | Thanismot]]: [[:mistress-lucretia-samhain | Samhain]] finds it nullifies her vampiric thirst and sunlight vulnerability. [[Kosmios | Kosmios]]: a goldmine of resources, functionally defenceless against magic. Brief forays to other worlds; gods and demons are too dangerous to tangle with routinely.
+            * Wealth from [[Kosmios | Kosmios]] allows [[Sindrel | Sindrel]] to support itself and grow independent of [[Soulwind | Soulwind]], while keeping close ties and the conduit.
+            * The Great Houses are established as training institutions for arriving mages.
+        [end-content]
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] ~3234 SC (_~984 years ago_) — [[Fallowhurst College | Fallowhurst College]] [end-title]
+        [content]
+            * [[:lord-ablas-oestra | Lord Oestra]] moves the seat of [[House Oestra | House Oestra]] from [[Fallowhurst | Fallowhurst]] to [[Sindrel | Sindrel]].
+            * [[:embren-oestra | Embren Oestra]] establishes [[Fallowhurst College | Fallowhurst College]] at the family estate to study healing magic.
+        [end-content]
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] ~3238 SC (_~980 years ago_) — Calamity at [[Fallowhurst | Fallowhurst]] [end-title]
+        [content]
+            * Founders' ambition grows; the Circle debates **Project Riftlock** — permanently targeting the rift to [[Kosmios | Kosmios]] for extractive colonisation. [[:mistress-lucretia-samhain | Samhain]] dissents.
+            * [[:lord-ablas-oestra | Lord Oestra]], still mortal and desperate for immortality, pushes the college toward dangerous experimentation. See [[Letter from Lord Oestra to Embren Oestra | Lord Oestra's letter]] (14 Penderus 3238).
+            * The college suffers a magical disaster.
+        [end-content]
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] ~3242 SC (_~976 years ago_) — Peach theft and founder immortality [end-title]
+        [content]
+            * An early test of enhanced rift control — prototyping for **Riftlock** — lets the founders **steal** the [[Peaches of Immortality | peaches]] from [[Zotikó | Zotikó]], leaving devastation behind.
+            * **Six** founders eat the fruit. [[:first-of-mabon | First of Mabon]] achieves immortality through peach-based artifice ([[The Amulet of Stars | The Amulet of Stars]]) instead of eating.
+            * [[:mistress-lucretia-samhain | Samhain]] refuses and reveals her vampirism. Distrust grows.
+        [end-content]
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] ~3245 SC (_~973 years ago_) — Riftlock and [[The Fall of the Eighth House | the Fall of the Eighth House]] [end-title]
+        [content]
+            * **Riftlock** is executed: the rift is locked toward [[Kosmios | Kosmios]]. The seven conspire to trap [[:mistress-lucretia-samhain | Samhain]]; she outmaneuvers them, but is ultimately imprisoned in [[Thanismot | Thanismot]] when the lock closes the Mortality gate behind her.
+            * The huge initial power draw **destroys the Soulwind conduit**. Only the [[The Mage Road | Mage Road]] tower ruins remain.
+            * Her deadwoman switch kills every necromancer still in [[Sindrel | Sindrel]]. [[:lord-ablas-oestra | Lord Oestra]] curses her likeness from the record. See [[The Fall of the Eighth House | The Fall of the Eighth House]].
+        [end-content]
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] ~3288 SC (_~930 years ago_) — [[Fallowhurst | Fallowhurst]] abandoned [end-title]
+        [content]
+            * ~fifty years after the college calamity, the last villagers leave. The bound scholars in the operating theatre continue to abduct **travellers** along [[The Mage Road | the Mage Road]] — the fresher corpses mistaken for recent village dead.
+        [end-content]
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] ~3298 SC (_~920 years ago_) — The Drowned Crossing [end-title]
+        [content]
+            * Within a decade of abandonment, the levees fail. The Deren floods [[Fallowhurst | Fallowhurst]] to a depth of several feet — the estate survives on raised foundations; the village does not.
+        [end-content]
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] ~3250–3800 SC — Kosmios trade empire [end-title]
+        [content]
+            * [[Sindrel | Sindrel]] thrives as the heart of an extractive trade empire. Colonial wealth flows through the locked rift.
+            * The outpouring of magic from [[Arcan | Arcan]] into [[Kosmios | Kosmios]] begins to destabilise the Wheel of Forms — the long decline known as the death of magic.
+        [end-content]
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] ~3850 SC (_~368 years ago_) — Death of magic [end-title]
+        [content]
+            * The first stirrings of the death of magic are felt across [[Arcan | Arcan]].
+        [end-content]
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] ~3900 SC (_~318 years ago_) — [[Soulwind | Soulwind]]'s decline [end-title]
+        [content]
+            * As magic fades, [[Soulwind | Soulwind]]'s population diminishes. [[Sindrel | Sindrel]] becomes the centre of magical power on [[Arcan | Arcan]].
+        [end-content]
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] 3958 SC (_260 years ago_) — The Seven Day War [end-title]
+        [content]
+            * Scarcity of magical resources drives conflict between [[The Magedom of Houd | The Magedom of Houd]] and [[The Thaumocracy of Tellerin | The Thaumocracy of Tellerin]]. The Tellerites are generally remembered as the aggressors; the Houdis were ultimately victorious.
+            * Decisive fighting on the Planes of Herrman. Tellerite advance delayed at the Battle of Brassmeade Bridge — [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] and a handful of goliath warriors hold the crossing for **ten days** before the bridge is destroyed; she is slain and later resurrected by [[:nitherfang-gilfrarrin | Nitherfang Gilfrarrin]].
+            * Defeated Tellerites retreat and close their borders. The weakened Magedom gradually disintegrates into northern city-states.
+            * Over the following decades, contractor networks begin delivering war dead to the [[Osteomantic Archives | Osteomantic Archives]]; the **Seven Day War** diorama is installed piecemeal and expanded across the **3960s–4020s SC**.
+        [end-content]
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] ~4185 SC (_~33 years ago_) — The [[Anathemists | Anathemists]] [end-title]
+        [content]
+            * Inter-faith cells emerge in the north, preaching that hubristic magic caused the gods to withdraw. For decades they remain fringe.
+        [end-content]
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] ~4213 SC (_~5 years ago_) — [[Anathemists | Anathemist]] escalation [end-title]
+        [content]
+            * As magic fades faster, [[Anathemists | Anathemist]] cells grow bolder — probing [[The Mage Road | the Mage Road]], openly hostile to traffic bound for [[Sindrel | Sindrel]]. Infiltration of the city accelerates in the run-up to **4218 SC**.
+        [end-content]
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] 4217 SC (_~1 year ago_) — The Mad King of [[Corvus | Corvus]] [end-title]
+        [content]
+            * In the city-state of **Corvus** — one of the petty kingdoms fractured from [[The Magedom of Houd | Houd]] after the Seven Day War — a tyrant known as the Mad King hires mercenaries (including the Black Bloods) to crush a rebel uprising.
+            * The rebels devastate the royal army; [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] fights on the rebel side. [[:pin | Pin]] (~**21**) and the Black Bloods fight for the King; [[:pin | Pin]]'s friend Essen is executed on the field. See [[Hesh | Hesh]].
+        [end-content]
+    [end-accordion-item]
+
+    [accordion-item]
+        [title] ~4150 SC (_~68 years ago_) — [[Project Kosmios | Project Kosmios]] [end-title]
+        [content]
+            * Realising their position on a fading [[Arcan | Arcan]] is unsustainable, the founders plan to move the entire city of [[Sindrel | Sindrel]] into [[Kosmios | Kosmios]].
         [end-content]
     [end-accordion-item]
 [end-accordion]
@@ -153,48 +283,13 @@ h2. *Campaign Timeline* - Year 4218 (_current year_)
 [end-accordion]
 
 <!-- GM_INFO_START -->
-h2. Timeline of World History
+h2. GM notes
 
-Dates are estimated according to the [[The Soulwind Calendar | Soulwind calendar]] (SE). Current year: 4193
-
-h3. *3200s [[The Soulwind Calendar | SC]]* (roughly 1000 years ago)
-
-* _Researchers from [[The Soulwind Institute | the Soulwind Institute]] discover a dimensional tear in the far north of the continent. The Soulwind Institute Dimensional Research and Exploration Laboratory ([[Sindrel | SInDREL]]) is established to study it._
-* _The researchers find their way to Vitality and consume the Peaches of Immortality._
-* _Forseeing the profitability of Sindrel and growing tired of travelling between Soulwind and Sindrel, [[:lord-ablas-oestra | Lord Ablas Oestra]] establishes the Oestra estate at [[Fallowhurst | Fallowhurst]]._
-* _The researchers harvest resources and riches from the other worlds, establishing Sindrel as an economic hub._
-
-*3500s [[The Soulwind Calendar | SC]]* (roughly 700 years ago)
-* _Growing frustrated by the limitations of the dimensional tear, the Lords of [[Sindrel | Sindrel]] persuade [[The Soulwind Institute | the Soulwind Institute]] to establish the magical conduit between their cities. What they originally pitched as a two-way connection allowing the two sites to easily share power as needed was in fact designed to quietly harvest power for Sindrel._
-
-*3700s [[The Soulwind Calendar | SC]]* (roughly 500 years ago)
-* _Having harvested sufficient power from the conduit, the Lords of [[Sindrel | Sindrel]] pour massive amounts of energy into the tear in order to stabilise it._
-* _Now able to control which worlds they travel too, they bias towards [[Kosmios | Kosmios]] for extractive purposes. The compounding magical intrusion causes the Wheel of Forms to destabilise._
-* _[[:lord-ablas-oestra | Lord Oestra]] moves the seat of his family to Sindrel, turning the [[Fallowhurst | Fallowhurst]] estate over to his son [[:embren-oestra | Embren]]_
-
-*3702 [[The Soulwind Calendar | SC]]* (491 years ago)
-* _[[:embren-oestra | Embren Oestra]] establishes the [[Fallowhurst College | Fallowhurst College]] to study healing magic._
-
-*3715 [[The Soulwind Calendar | SC]]* (503 years ago)
-* _The calamity at [[Fallowhurst | Fallowhurst]] - pushed by [[:lord-ablas-oestra | Lord Oestra]] to experiment with dangerous magics, the scholars of the [[Fallowhurst College | Fallowhurst College]] are killed in a magical disaster._
-
-*3760s [[The Soulwind Calendar | SC]]* (roughly 450 years ago)
-* _The last survivors of [[Fallowhurst | Fallowhurst]] leave._
-
-*3850s [[The Soulwind Calendar | SC]]* (roughly 350 years ago)
-* The first stirrings of the death of magic are felt.
-
-*circa 3900 [[The Soulwind Calendar | SC]]* (roughly 300 years ago)
-* _With magic becoming rarer in [[Arcan | Arcan]] and beginning to appear naturally in [[Kosmios | Kosmios]], [[Sindrel | Sindrel]] seeks to lock the rift permanently to Kosmios and begin harvesting magical resources as well as the more mundane offerings to bolster their diminishing powers._
-* [[Soulwind | Soulwind]]'s population begins to diminish as magic users drift towards Sindrel.
-* [[The Fall of the Eighth House | The Fall of the Eighth House]] - [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]] becomes disaffected with Sindrel's colonial ambitions and prepares to move against the circle. They imprison her in [[Thanismot | Thanismot]].
-
-*3953 [[The Soulwind Calendar | SC]]* (roughly 250 years ago) - The Seven Day War
-* Fought between the The Mage lords of Houd and [[The Thaumocracy of Tellerin | the Thaumocracy of Tellerin]]
-* _With magical power growing scarce, especially in the south, the Tellerites launched an invasion of Houd._
-* The decisive battle was fought on the Planes of Herrman, where a stalemate between the attacking Tellerites and the beleagured Houdians was ended by the timely arrival of Houdian reinforcements. The bulk of the Tellerite forces were delayed by the Battle of Brassmeade Bridge where, according to the tales, a single bezerker held the narrow bridge against the vastly superior force for a full day.
-* [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] character is slain and resurrected.
-
-*~4150 [[The Soulwind Calendar | SC]]* (roughly 50 years ago)
-* [[Project Kosmios | Project Kosmios]] is instantiated - the Lords of [[Sindrel | Sindrel]] begin to plan to move the entire city into the now magical world of Kosmios.
+* **Anchor year:** 4218 SC (31st Enean) — all “years ago” on this page are from 4218.
+* **Founders:** Six peach-eaters and [[:first-of-mabon | First of Mabon]] (peach-based artifice) survive; immortality dates to ~3242 SC (founding generation). Samhain imprisoned in [[Thanismot | Thanismot]] since ~3245 SC (Riftlock).
+* **Conduit:** Destroyed at Riftlock (~3245 SC); tower ruins remain on [[The Mage Road | the Mage Road]].
+* **3958:** Seven Day War (~260 years before 4218). Archives war diorama grows **3960s–4020s** via contractor dead-delivery networks.
+* **~4217:** Mad King of **Corvus** — [[:pin | Pin]] (~21) and [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] on opposite sides.
+* **~4185 / ~4213:** [[Anathemists | Anathemists]] emerge (~33 years ago); escalate sharply ~5 years before present.
+* **~4150:** [[Project Kosmios | Project Kosmios]] — move [[Sindrel | Sindrel]] bodily into [[Kosmios | Kosmios]]; see [[The Octarion Circle | Octarion Circle]] for founder afflictions and the seven-house limitation.
 <!-- GM_INFO_END -->

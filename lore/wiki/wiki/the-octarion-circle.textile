@@ -93,7 +93,7 @@ Membership:
             <td>The most vampiric vampire you can possibly imagine. High black boots, high black trousers, ruffled white shirt</td>
             <td></td>
             <td>Black</td>
-            <td>Imprisoned in [[Thanismot | Thanismot]] by the rest of the council when she opposed their expansionist plans.</td>
+            <td>Imprisoned in [[Thanismot | Thanismot]] (~3245 SC) when **Riftlock** closed the rift behind her; conduit destroyed in the same working.</td>
         </tr>
     </table>
 </div>
@@ -109,11 +109,9 @@ The expedition discovered that the disturbance could lead to other worlds. What 
 
 The Great Houses were built around the founders' philosophies. They are not merely administrative divisions; each House is the institutionalised shadow of one founder's ideals.
 
-h2. The Founders' Secrecy
+h2. The Founders' Continuity
 
-The public believes the founders died roughly a thousand years ago. This is false.
-
-The founders survive behind successors, titles, ritualised offices, controlled appearances, and carefully managed House traditions. Each House has mechanisms for maintaining the fiction of ordinary continuity, though the number of people involved varies by House.
+The six peach-eaters and [[:first-of-mabon | First of Mabon]] (peach-based artifice via [[The Amulet of Stars | the Amulet of Stars]]) survive. Each Great House maintains ceremonies of succession that conceal the fact that the founding generation still holds ultimate authority. Immortality dates to ~**3242 SC** (founding generation).
 
 h2. Current State of the Octarion
 

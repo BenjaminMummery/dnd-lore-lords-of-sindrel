@@ -155,7 +155,7 @@ Most disturbing are the so-called caretakers: Samhain-era **necromantic automata
 
 A caretaker might reassemble bones into the correct historical posture, replace a missing skull, polish a commemorative plaque, sort corpse-tags, repair a cracked display case, retrieve an escaped specimen, or drag a newly delivered body into its proper thematic chamber. Higher-tier **preparators** bear **deeper inscription** — the same lacquered skeleton, but more bone surface given over to binding, stitching, and room-level containment subroutines.
 
-This explains how later historical material, including exhibits connected to the [[World History | Seven Day War]], can appear in archive spaces that originated with [[The Eighth House | House Samhain]]. The chamber may be Samhain-built, but the display was updated after the House's fall by contractors, old collection channels, or caretaker units still executing post-Fall accession orders. The Archive's dead machinery outlived the institution that created it.
+This explains how later historical material, including exhibits connected to the [[World History | Seven Day War]], can appear in archive spaces that originated with [[The Eighth House | House Samhain]]. The chamber may be Samhain-built, but the **Seven Day War diorama** was not installed wholesale after **3958 SC** — contractor networks trickled war dead in across the **3960s–4020s SC**, and caretakers expanded the display as accession orders arrived. The Archive's dead machinery outlived the institution that created it.
 
 h3. GM Notes
 
@@ -340,7 +340,7 @@ The deeper catacombs contain further historical dioramas the party has not yet r
 
 h3. Deeper into the seven-day war exhibit
 
-The display recreates the Battle of the Planes of Herrman, roughly 250 years ago. The room is laid out as a *reverse timeline* - the party enter where the [[The Thaumocracy of Tellerin | Tellerite]] forces are fighting a desperate rearguard action. Passing through, they read the battle backwards: Tellerite reinforcements arriving too late; the [[The Magedom of Houd | Houd]] defenders defeating the Tellerite expeditionary force; and finally, near the exit, the Battle of Brassmeade Bridge recreated in propagandistic grandeur.
+The display recreates the Battle of the Planes of Herrman (**3958 SC**, ~260 years ago). Installed **piecemeal from the 3960s onward** as contractor networks delivered war dead; expanded across decades. The room is laid out as a *reverse timeline* - the party enter where the [[The Thaumocracy of Tellerin | Tellerite]] forces are fighting a desperate rearguard action. Passing through, they read the battle backwards: Tellerite reinforcements arriving too late; the [[The Magedom of Houd | Houd]] defenders defeating the Tellerite expeditionary force; and finally, near the exit, the Battle of Brassmeade Bridge recreated in propagandistic grandeur.
 
 Some skeletons along the silver path bear symbols inlaid in their skulls. Touching one brings an eerie light to empty eye sockets and broken fragments of speech from the battle - Tellerite cries to retreat, Houd soldiers calling for ranks against late reinforcements.
 

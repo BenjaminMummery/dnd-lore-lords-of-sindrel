@@ -21,7 +21,7 @@ Public history treats the ring as a relic of the fallen House. A connection to i
 <!-- GM_INFO_START -->
 Symbolic item of [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]], founder of [[The Eighth House | House Samhain]]. The stone was later modified to hold a fragment from [[Thanismot | Thanismot]].
 
-Samhain was already immortal as a vampire and did not eat the [[Peaches of Immortality | peaches of Zotikó]]. The ring is not a portal or rift-key. It is a tool of remembrance and a way to call to the dead.
+Samhain refused the [[Peaches of Immortality | peaches of Zotikó]] when they were stolen (~3242 SC). The ring is not a portal or rift-key. It is a tool of remembrance and a way to call to the dead.
 
 **Current holder:** [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]] (in [[Thanismot | Thanismot]], since the Seven sealed the rift behind her).
 

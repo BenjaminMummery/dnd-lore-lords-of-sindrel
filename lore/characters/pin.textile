@@ -26,7 +26,7 @@ h3. Key Items
 <!-- OP_BIO -->
 Sold into slavery before he’d even learned to speak, the boy was in his early teens before knowing the warmth of family and kinship. On the run after lashing out and killing his master, he stole away with a band of mercenaries, the Black Bloods, and was soon enamoured with their life of battle, bloodshed, gambling and carousing. They gave him a name, his first: Pin, so called for his keen wit and tactical mind, hidden beneath a slim stature and quiet demeanour.
 
-In an ever deepening quest for power and coin, their charismatic leader, Killig, pushed his men down dark and dangerous paths. The group splintered when he sold their skills to a mad king who tasked them with aiding in the quelling of a rebel uprising. Despite misgivings, Pin owed everything to Killig, and he and his close friend Essen made a blood oath to stay until the bitter end.
+In an ever deepening quest for power and coin, their charismatic leader, Killig, pushed his men down dark and dangerous paths. The group splintered when he sold their skills to the **Mad King of [[Corvus | Corvus]]** (~**4217 SC**) — a northern city-state broken from [[The Magedom of Houd | Houd]] after the Seven Day War — who tasked them with quelling a rebel uprising. Despite misgivings, Pin owed everything to Killig, and he and his close friend Essen made a blood oath to stay until the bitter end.
 
 That end came soon enough on the field of battle.
 
@@ -40,10 +40,16 @@ Essen.
 
 The sword continued to speak in low whispers, snatches and fragments here and there over the coming weeks, audible only to Pin. At times it was a comfort. But a dangerous one, for sorcery of any kind was to be feared. Perhaps he was going mad.
 
-Seeking answers, though unsure if he could bring himself to ask the necessary questions, Pin set out for Sindril, the city of magic.
+Seeking answers, though unsure if he could bring himself to ask the necessary questions, Pin set out for [[Sindrel | Sindrel]], the city of magic.
+
+h4. Recent Events
+
 * *28th Enean 4218 [[The Soulwind Calendar | SC]]* - During downtime in [[Sindrel | Sindrel]], asked magical shops about the [[The Fallowhurst Sigil | Fallowhurst sigil]] seen at [[Fallowhurst College | Fallowhurst College]]; could not reproduce it from memory. Later drank with [[:hielaman | Captain Hielaman]]; woke with a black eye after a [[Ditchquer | Ditchquer]] argument.
 
 <!-- GM_INFO_START -->
+
+Pin is **22** in **4218 SC**. The battle at **Corvus** (~**4217 SC**) fell when he was **~21** — the year before the campaign.
+
 h3. The sword
 
 Carries a plain longsword with old, careful maintenance - a soldier's blade, not a noble's showpiece. The guard bears worn knotwork that might be [[House Meness | Meness]] law-runes if you know what to look for.

@@ -114,13 +114,11 @@ h2. The Basics
 
 There exists a multiverse of worlds, each governed by a singular Form or Idea. Our point of origin is 'Arcanity', the world governed by Magic.
 
-[[Sindrel | Sindrel]] was founded as a magical research station to investigate the dimensional tear. ([[Soulwind | Soulwind]] Institute Dimensional Research and Exploration Laboratory) The original 8 researchers briefly opened the portal to the realm of Vitality. There, seven of them consumed the Peaches of Immortality, extending their lifespans indefinitely. The eighth, Samhain, found her own path to escaping death in the realm of Mortality.
+[[Sindrel | Sindrel]] began as SinDReL — a semi-permanent research camp around the dimensional tear (**3218 SC**). After rift stabilisation (~**3228 SC**) and the **Soulwind conduit** (~**3226 SC**), earnest exploration opened [[Zotikó | Zotikó]], [[Thanismot | Thanismot]], and [[Kosmios | Kosmios]]. Kosmios wealth made the city independent; the Great Houses began as training institutions for arriving mages.
 
-Over the next thousand years the researchers, now styling themselves as the Lords of [[Sindrel | Sindrel]], used their mastery of magic to carry out raids on the other worlds, taking resources, riches, and secrets to enrich and empower themselves. However, they could not keep the tear open for long.
+[[:lord-ablas-oestra | Lord Oestra]]'s pursuit of immortality drove [[Fallowhurst College | Fallowhurst College]] toward disaster (~**3238 SC**). A **Riftlock** prototype (~**3242 SC**) allowed the theft of the [[Peaches of Immortality | peaches]] from [[Zotikó | Zotikó]]; six founders became immortal by eating the peaches, [[:first-of-mabon | First of Mabon]] by artifice. [[:mistress-lucretia-samhain | Samhain]] refused. **Riftlock** (~**3245 SC**) locked the rift to [[Kosmios | Kosmios]], trapped Samhain in [[Thanismot | Thanismot]], and destroyed the conduit.
 
-A few hundred years ago, the Lords embarked on a new project - pouring magical energy into the fabric of the tear directly in order to stabilise it. This allowed them to embark on a campaign of conquest, into Mundanity, establishing mining colonies and slave camps.
-
-The intrusion of magic into the non-magicial realm destabilised the balance of forms. As a result, the forms are inverting - Arcanity is becoming Mundanity. As magic has vanished from Arcanity and arisen in Mundanity, the Lords have doubled down. Their efforts have turned to extracting magic from their colonies in order to maintain their own power.
+Colonial extraction destabilised the Wheel of Forms. Magic is dying on [[Arcan | Arcan]] and arising in [[Kosmios | Kosmios]]; the founders now pursue [[Project Kosmios | Project Kosmios]] — moving the entire city into Kosmios.
 
 h2. Known Worlds
 
@@ -156,13 +154,19 @@ The nature of a god is that they exist across all possible worlds simultaniously
 
 h2. The Real History of [[Sindrel | Sindrel]]
 
-* The founders were assembled by [[The Soulwind Institute | the Soulwind Institute]].
-* They began as an academic expedition to investigate a dimensional disturbance in the far north.
-* The expedition discovered other worlds.
-* A semi-permanent research camp formed around the rift.
-* That camp gradually became [[Sindrel | Sindrel]].
-* The Houses were built around the founders’ philosophies.
-* Public history of the founders’ deaths is false.
-* The public believes the founders died a thousand years ago.
-* The founders survive behind titles, successors, and House machinery.
+* SinDReG dispatched (**3218 SC**); SinDReL camp founded around the rift.
+* **~3226 SC:** Soulwind conduit (two-way link).
+* **~3228 SC:** Rift stabilisation — short windows, controlled exploration.
+* **~3230s SC:** Kosmios trade; Great Houses as training institutions.
+* **~3234 SC:** Oestra seat moves to Sindrel; [[Fallowhurst College | Fallowhurst College]] established.
+* **~3238 SC:** Fallowhurst calamity — Oestra (mortal) pushes dangerous magic.
+* **~3242 SC:** Peach theft (Riftlock prototype); six founders immortal; First by artifice; Samhain refuses.
+* **~3245 SC:** Riftlock; [[The Fall of the Eighth House | Samhain's fall]]; conduit destroyed.
+* **~3288 SC:** Fallowhurst village abandoned (~50 yr after calamity).
+* **~3298 SC:** Levees fail; the Drowned Crossing.
+* **3958 SC:** Seven Day War (~260 years ago).
+* **~4185 SC:** Anathemists emerge.
+* **~4217 SC:** Mad King of Corvus (Pin / Deathwalker).
+* **~4213 SC:** Anathemist escalation.
+* **~4150 SC:** [[Project Kosmios | Project Kosmios]].
 <!-- GM_INFO_END -->

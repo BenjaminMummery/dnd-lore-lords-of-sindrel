@@ -14,10 +14,14 @@ tags:
 - consumable
 ---
 
-Fruit of [[Zotikó | Zotikó]], the world of Vitality. When the original SiNDReG expedition briefly opened a way to that realm, seven of the eight researchers each consumed a peach, extending their lifespans indefinitely.
+Fruit of [[Zotikó | Zotikó]], the world of Vitality.
 
-The eighth founder, [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]], was already a vampire and did not partake. [[:first-of-mabon | First of Mabon]] declined the peaches and pursued artificial immortality instead via [[The Amulet of Stars | The Amulet of Stars]].
+During earnest post-stabilisation exploration (~**3230s SC**), the founders discovered the peaches on [[Zotikó | Zotikó]] — guarded, and not accessible without bloodshed. They were not taken then.
 
-No peaches are known to remain. Public history claims the founders died a millennium ago; in truth the peach-eaters survive behind House machinery.
+After the calamity at [[Fallowhurst | Fallowhurst]] (~**3238 SC**), an early **Riftlock** prototype (~**3242 SC**) let the Circle steal the fruit by force, leaving devastation in [[Zotikó | Zotikó]]. **Six** founders consumed peaches within the founding generation. [[:first-of-mabon | First of Mabon]] achieved immortality through peach-based artifice ([[The Amulet of Stars | The Amulet of Stars]]) instead of eating.
 
-**Current holder:** None (consumed circa founding of [[Sindrel | Sindrel]]).
+[[:mistress-lucretia-samhain | Mistress Lucretia Samhain]] refused and revealed her vampirism — [[Thanismot | Thanismot]] already nullified her thirst and sunlight vulnerability; she would not bind herself to Vitality's gift.
+
+No peaches are known to remain.
+
+**Current holder:** None (consumed ~3242 SC).

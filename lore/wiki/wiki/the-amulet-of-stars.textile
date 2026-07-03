@@ -19,7 +19,7 @@ The symbolic relic of [[House Mabon | House Mabon]]. An ornate star-amulet of gl
 <!-- GM_INFO_START -->
 Symbolic item of [[:first-of-mabon | First of Mabon]], founder of [[House Mabon | House Mabon]].
 
-Unlike the other [[The Octarion Circle | founders]], First did not eat the [[Peaches of Immortality | peaches of immortality]]. They attempted to reproduce that immortality through enchantment instead. The amulet holds First's soul — not the wearer's. The original body decayed long ago; every vessel since has aged and died as any mortal flesh would. First persists by wearing the bodies of heirs and successors of [[House Mabon | House Mabon]], one life after another. Immortality, of a sort — bought at the cost of countless lives.
+Unlike the other [[The Octarion Circle | founders]], First did not eat the [[Peaches of Immortality | peaches of immortality]] when they were stolen (~3242 SC). They reproduced that immortality through peach-based enchantment instead. The amulet holds First's soul — not the wearer's. The original body decayed long ago; every vessel since has aged and died as any mortal flesh would. First persists by wearing the bodies of heirs and successors of [[House Mabon | House Mabon]], one life after another. Immortality, of a sort — bought at the cost of countless lives.
 
 **Current holder:** [[:first-of-mabon | First of Mabon]] (worn at the throat).
 

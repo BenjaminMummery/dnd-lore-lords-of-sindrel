@@ -45,11 +45,11 @@ Situated among the inhospitable [[Arkay Mountain Range | Arkay Mountains]], Sind
 
 h2. History
 
-Sindrel was founded some time in the 3200s [[The Soulwind Calendar | SC]], approximately 1000 ago. As such, its early days are remembered primarily as a myth.
+Sindrel was founded in **3218 SC**, approximately a thousand years ago. Its early days are remembered primarily as myth.
 
 The story goes that the eight greatest mages of their day, each an unassailable master of their chosen school of magic, founded the city as a haven of magical study, free from the petty politics of the surrounding kingdoms. They formed the first Octarion Circle, and ruled over a period of peace and prosperity. But their golden age was not to last - one of their number, the great necromancer, grew jealous of the rest and plotted their downfall. In a dark ritual they sacrificed every one of their followers, ascending to something approaching godhood. Faced with this necromantic apotheosis, the other seven mages and their great houses of magic formed a desperate alliance. It took all of their power, but they were ultimately able to defeat the new god of death and save the world.
 
-While the original seven are, of course, long gone, their legacy and names live on in the Great Houses that now rule Sindrel.
+While the original seven are a millennium gone, their legacy and names live on in the Great Houses that now rule Sindrel.
 
 h2. Religion
 
@@ -235,9 +235,9 @@ Ledger access: gate clerks (partial), Meness intelligence, Lithra identity offic
 
 h2. The Great Houses of Sindrel
 
-Roughly 1000 years ago (3500 by [[The Soulwind Calendar | the Soulwind Calendar]]), magical researchers discovered a naturally occuring tear in reality.
+In **3218 SC** (~1000 years ago), magical researchers from [[The Soulwind Institute | the Soulwind Institute]] discovered a naturally occurring tear in reality and founded [[Sindrel | Sindrel]] around it.
 
-The original 8 researchers, now immortal and possessed of otherwordly power, set themselves up as the heads of great noble houses in their newly established city. While the leaders have, almost universally, fallen to a bad end, the houses continue in their duties.
+The original eight researchers became the heads of the Great Houses — initially training institutions for arriving mages. Six ate the [[Peaches of Immortality | peaches]] stolen in the founding generation (~**3242 SC**); [[:mistress-lucretia-samhain | Samhain]] was imprisoned in **~3245 SC** when **Riftlock** closed the rift behind her.
 
 The houses are:
 <div class="CSSTableGenerator" style="position:relative;left:0px;top:10px;">
@@ -308,13 +308,13 @@ Leader: [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]]
 
 Like [[House Oestra | House Oestra]], [[The Eighth House | House Samhain]] was a noble house of [[Soulwind | Soulwind]]. Unlike [[House Oestra | House Oestra]], the scions of [[The Eighth House | Samhain]] were, in fact, vampiric necromancers.
 
-Unlike the other members of the octet, [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]] did not partake of the peaches of immortality - being undead she was concerned that their effect on her might not be quite so positive. Having been effectively immortal for some time, she also had a somewhat different perspective than the rest of her compatriots. Where they grew ambitious and covetous, she was already jaded. During the early exploration, Samhain realised that the realm of [[Thanismot | Thanismot]] was something of a paradise for vampires - the sunlight did not burn her skin and the endless thirst for blood was absent as the deathly energies of the realm sustained her. She began spending more and more time there, ultimately moving her entire house into the realm full time. From that base, she began actively recruiting necromancers. Never a popular bunch, a majority were more than happy to accept her offer, especially once they had tasted the power of [[Thanismot | Mortality]].
+Unlike the other members of the octet, [[:mistress-lucretia-samhain | Mistress Lucretia Samhain]] refused the [[Peaches of Immortality | peaches]] when they were stolen (~**3242 SC**) — revealing her vampirism to the Circle. [[Thanismot | Thanismot]] already nullified her thirst and sunlight vulnerability; she would not bind herself to [[Zotikó | Vitality]]'s gift. She had moved her house there full time during early exploration. From that base she actively recruited necromancers.
 
-When the rest of the Octet decided to focus on exploiting Mundanity, Samhain was the sole dissenting voice. In secret the rest of the council conspired to seal the entry to [[Thanismot | Mortality]], trapping her and her house in that realm.
+When the Circle planned **Riftlock** (~**3230s–3240s**), Samhain was the sole dissenting voice. When it was **executed (~3245 SC)**, the seven conspired to trap her; she outmaneuvered them, but the rift locked to [[Kosmios | Kosmios]] and closed the Thanismot gate behind her.
 
-An initial but brief period of infighting followed as the more ambitious or evil necromancers returned to their old ways, vying for power.
+An initial but brief period of infighting followed among the necromancers who remained in [[Sindrel | Sindrel]].
 
-Over the next 500 years, the members of [[The Eighth House | house Samhain]] abandoned the great hall they had originally built around the portal and drifted into small scattered communities. Surrounded by death, their necromantic abilities allowed them to live safely and comfortably, and they have turned their abilities towards grand works of the magical art. As a result, the landscape of [[Thanismot | Mortality]] is adorned with impossible architecture, majestic statuary, and elegant gardens of undead plants.
+Over the next five centuries, the members of [[The Eighth House | House Samhain]] who survived in Thanismot abandoned the great hall they had originally built around the portal and drifted into small scattered communities. Surrounded by death, their necromantic abilities allowed them to live safely and comfortably, and they have turned their abilities towards grand works of the magical art. As a result, the landscape of [[Thanismot | Mortality]] is adorned with impossible architecture, majestic statuary, and elegant gardens of undead plants.
 
 * [[The Eighth House | House Samhain]] - the necromancers. They originally maintained a great archive of the dead, using the ability to summon shades of the past as an information retrieval system. Over time, more and more of them took up residence in the [[Thanismot | realm of death]], and ultimately Samhain was betrayed by the other houses and imprisoned. The practice of placing the bones of the dead in the great ossuaries persists, but it serves no practical purpose.
 

@@ -151,7 +151,7 @@ Examining the "displays" revealed the following:
 * Each legible label included an experiment number, a name, a description of an injury or disease, and an outcome. All except the pristine body were marked as 'failure'.
 * The pristine body was labelled _"Subject 1: [[:carlos-winterborn | Carlos Winterborn]]. 25 M. Occupation: Noble. Affliction: Cervical Fracture. Outcome: Partial Success."_ (Due to a bad roll, [[:nakoma-deathwalker-mor-got-ha | DW]] is convinced this mad died of a venereal disease).
 * [[:wilrin-racenglade | Wilrin]] determined that the body had in some way been magically altered.
-* While the village was emptied centuries ago, the newest bodies are mere decades old.
+* The village emptied ~**3288 SC** (~930 years ago); fresher corpses are **travellers** abducted by undead scholars within the last few decades.
 
 [[:wilrin-racenglade | Wilrin]] decided to try and recreate the [[The Fallowhurst Sigil | binding sigil]] on the body. The discharge of magical energy healed both him and [[:nakoma-deathwalker-mor-got-ha | DW]], causing the latter to start bleeding profusely from her multiple wounds. It also caused some ominous chanting to start emanating from the Operating Theatre (D).
 

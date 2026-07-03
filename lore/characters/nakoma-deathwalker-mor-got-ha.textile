@@ -23,9 +23,9 @@ Since the 'incident' in Fallowhurst she also sports a sigil burned into the skin
 <!-- OP_BIO -->
 There have been varied sightings and mentions of Deathwalker over the last few decades. No one appears to know exactly where she is from or her exact age. It is unknown how many Deathwalkers there have been from the Mor'got'ha clan. Indeed there is some speculation that the Deathwalker line might have some relation to Deathbringer, one of the most mightiest warriors from ancient history who was pivotal in the battle against the necromantic [[The Thaumocracy of Tellerin | Tellerites]] for the description of Deathbringers tattoos have a familial resemblance to Deathwalkers, and indeed the entire Deathwalker line. If this is the case then Deathwalker is descended from what might be the Goliath equivalent of royalty.
 
-Deathwalker, herself, has only been recorded in a handful of major battles. The most recent being a rebel uprising against the Mad King where she brought devastation to the Mad Kings forces. Since then she has been sighted travelling, sometimes alone, sometimes within a small group but she never remains with any group too long. Her movements are sporadic but correlating the most recent sightings put her trajectory, like all pilgrims, towards Sindrel.
+Deathwalker, herself, has only been recorded in a handful of major battles. The most recent before [[Sindrel | Sindrel]] was the **rebel uprising against the Mad King of [[Corvus | Corvus]]** (~**4217 SC**), where she fought on the **rebel** side — the same battle where [[:pin | Pin]]'s Black Bloods died in the King's service. Since then she has been sighted traveling, sometimes alone, sometimes within a small group but she never remains with any group too long. Her movements are sporadic but correlating the most recent sightings put her trajectory, like all pilgrims, towards Sindrel.
 
-Her most recent travelling companions seem to be an eclectic bunch.
+Her most recent traveling companions seem to be an eclectic bunch.
 
 <!-- GM_INFO_START -->
 **Player secret (OP Player Secrets UI only - do not put in bio; not API-synced):**
