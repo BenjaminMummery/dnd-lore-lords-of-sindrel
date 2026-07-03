@@ -55,7 +55,7 @@ When the user's message begins with `NPC:` or `Quick NPC:` (case-insensitive), f
 - **Non-PCs:** read-aloud prose for first meeting - *"You see…"* - **current** appearance, not founder statuary or civic artwork (players may meet lords before immortality is known).
 - **PCs:** portrait-based or player-provided; D&D Beyond links belong in `OP_BIO`, not as the only description.
 - **GM-only lords:** `OP_DESCRIPTION` should work when the page is later made public; avoid Octarion/founder-art framing in the quick-description field.
-- Full checklist (many NPCs still empty/minimal): `notes/character-descriptions-todo.md` (shelved - see `notes/todo.md` for active work).
+- Full checklist and tier rollout: `notes/character-descriptions-todo.md` (repo only).
 
 ## GM vs player knowledge
 
@@ -214,6 +214,10 @@ Do not start the player body with `h3.` or skip levels (`h2.` → `h4.` without 
 
 ## Character pages (template)
 
+**Scaffold (repo only, not synced):** `notes/character-template.textile` — copy to `lore/characters/<op_slug>.textile` for new pages.
+
+Do **not** put a `_template.textile` under `lore/characters/`: the lore bridge publishes all `lore/characters/*.textile` on push to `main`; there is no documented underscore exclude, so a template there would create a junk Character on OP.
+
 All character files in `lore/characters/` share this layout:
 
 **Frontmatter:** `op_slug`, `name`, `title`, `op_gm_only`, `is_player_character`, `tags` (party-known affiliations only on public pages), optional `avatar_url`.
@@ -224,7 +228,43 @@ All character files in `lore/characters/` share this layout:
 2. `<!-- OP_BIO -->` — chronological play history and in-world facts the party knows; wiki links; no GM secrets.
 3. `<!-- GM_INFO_START -->` … `<!-- GM_INFO_END -->` — plot role, investigative footprints, prep notes, and **stat blocks**. Use `h2.` / `h3.` like wiki pages. Omit the block only when there is genuinely no GM-only content.
 
-**Do not** use `h2.`/`h3.` in `OP_DESCRIPTION`. Headings belong in `OP_BIO` (rare) or `GM_INFO`.
+**Do not** use `h2.`/`h3.` in `OP_DESCRIPTION` except optional `h3. Key Items` on lords and PCs. Headings belong in `OP_BIO` (rare) or `GM_INFO`.
+
+### Founders (exception)
+
+Octarion / Great House founder pages (`op_gm_only: true`):
+
+- **No combat stat blocks** — founders are not encounter stat lines.
+- **`OP_DESCRIPTION`** — current appearance when the party might meet them (not founder-statuary framing).
+- **`OP_BIO`** — often empty; chronology lives on house and history wiki pages.
+- **`GM_INFO`** — full lore, afflictions, `h2. Depictions` for civic art, key items in prose. Reference: `lord-ablas-oestra.textile`.
+
+Hexine Circle Factors use `h2. Spies lead` in `GM_INFO` for their investigation accordion quote (see `hielaman.textile`, `commander-locke.textile`).
+
+### GM block headings (`h2.` vocabulary)
+
+Use Textile `h2.` inside the single `GM_INFO` block. Pick what applies; omit unused sections.
+
+| Heading | When to use | Examples |
+|---------|-------------|----------|
+| **Spies lead** | Hexine Circle Factor — paste `bq).` quote from `the-investigation.textile` | `hielaman.textile`, `emissary-halan.textile` |
+| **Prep** | Session notes, motives, how they react to the Wonch | `cedric.textile`, `nort.textile` |
+| **True role** | Cover identity or hidden assignment | `cedric.textile` |
+| **Black Cats link** | Confirmed syndicate tie (not player-facing until revealed) | `chuggaz.textile` |
+| **Depictions** | Founder civic art, statuary, propaganda (founders only) | `lord-ablas-oestra.textile` |
+| **Backstory** / **History** | Deep lore when bio is intentionally thin | PCs, associates |
+| **Stat block** | Combat NPCs — precede `<div class="stat-block">` | `pthul.textile`, `embren-oestra.textile` |
+| **Player secret** | Mirror of OP Player Secrets UI (optional; not API-synced) | `nakoma-deathwalker-mor-got-ha.textile` |
+
+Do not invent duplicate spy-lead headings (`Spies lead:` vs `Spies Lead`); use **`h2. Spies lead`** exactly.
+
+### Bio dating
+
+Chronological `OP_BIO` entries use italic session dates:
+
+`*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*`
+
+followed by `-` bullets. One-line role intro (rank + house) may precede the first date block.
 
 ### DM stat blocks (GM block only)
 
@@ -343,7 +383,7 @@ Single-NPC character pages keep the name inside `.stat-block` (see Pthul).
 | 9 | 7,700 | 15,400 | 23,100 | 33,600 |
 | 10 | 8,400 | 16,800 | 25,200 | 36,400 |
 
-**Checklist for unification:** empty descriptions (`notes/character-descriptions-todo.md`), missing avatars/pronouns, GM blocks without headings, inconsistent bio date formatting, missing stat blocks for combat NPCs.
+**Checklist for unification:** `notes/character-descriptions-todo.md` (tier rollout + description gaps), missing avatars/pronouns, GM blocks without headings, inconsistent bio date formatting, missing stat blocks for combat NPCs.
 
 ## New pages (Obsidian Portal sync)
 

@@ -28,10 +28,20 @@ h3. Key Items
 <!-- OP_BIO -->
 https://www.dndbeyond.com/characters/156087500
 
-<!-- GM_INFO_START -->
-2. What do they most regret leaving behind?
-- He really liked a good card game, and living this new life isn't nearly as fun as what he had before.  He misses his old "family" and bonds, and wishes he could have that once again.
+Presents as a pious sellsword in silver plate — holy symbols from several traditions at his belt, jokes at the ready, prayers offered to whichever god might prove useful in the moment. Claims no fixed patron.
 
-3. What rumour(s) might somebody else have heard about your character? (true or false, although please let me know which are which!)
-- The whole bit about being a thief in a previous life and how he came to lose his eye while taking on a job, versus just being a mislaid adventurer exploring for fun.  His past dark life stands stands to tarnish his shiny new armour should this become well known.
+<!-- GM_INFO_START -->
+h2. Player sheet (D&D Beyond)
+
+* *Faith:* No fixed faith — happy to pray to whomever might be most useful at the time.
+* *Personality:* Keeps multiple holy symbols and invokes whatever deity might help; a joke for every occasion, especially when humour is inappropriate; does not heed risk — never tell him the odds.
+* *Ideals:* Independence — a free spirit; no one tells him what to do (Chaotic). Charity — steals from the wealthy to help people in need (Good).
+* *Bonds:* A powerful enemy killed someone he was closest to; someday he will have revenge on all their kind. Someone he loved died because of a mistake he made — that will never happen again.
+* *Flaws:* Too greedy for his own good; cannot resist a risk if money is involved.
+
+h2. Player questionnaire
+
+*What do they most regret leaving behind?* — He misses card games and the bonds of his old life; this path is not as fun as before.
+
+*Rumours (party may not know):* **True:** a former thief; lost his eye on a job. **False:** merely a mislaid adventurer exploring for fun. If the dark past surfaces, it tarnishes the polished armour and pious act.
 <!-- GM_INFO_END -->

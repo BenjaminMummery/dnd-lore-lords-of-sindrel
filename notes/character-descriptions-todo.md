@@ -1,76 +1,100 @@
-# Character descriptions (shelved)
+# Character page rollout
 
-Full checklist for `OP_DESCRIPTION` work. **Paused** - see `todo.md` for active items.
+Template: `notes/character-template.textile` (repo only — **not** synced to OP). Rules: `.cursor/rules/lore-assistant.mdc` § Character pages.
 
-## Conventions (agreed)
+## Conventions
 
-- **Non-PCs:** read-aloud prose - *"You see…"* for first meeting at the table.
-- **Current appearance**, not founder statuary or civic artwork (players may meet lords before immortality is known).
-- **PCs:** portrait-based or player-provided; not necessarily read-aloud style.
-- **Player secrets:** OP Player Secrets UI only - never in bio with comment markers.
+- **NPCs:** read-aloud `OP_DESCRIPTION` — *"You see…"*, current appearance.
+- **PCs:** portrait- or player-provided description; DDB links in `OP_BIO`.
+- **Founders** (`op_gm_only: true`): no combat stat blocks; `h2. Depictions` in GM.
+- **Player secrets:** OP Player Secrets UI only — never comment markers in bio.
 
-## Done (Phase 1 - has description)
+---
 
-- [x] lord-ablas-oestra
-- [x] general-alicia-meness
-- [x] first-of-mabon
-- [x] mistress-lucretia-samhain
-- [x] farseer-sybera-goela
-- [x] arouraios
-- [x] zalatan
-- [x] tama
-- [x] amanira, ayr, pin, rossin-ros-greyhirst, silrie-aegiskiir, wilrin-racenglade (PC - avatar-based)
+## Tier 1 — Investigation cast ✅
 
-## Priority 1 - Lords / founders (empty)
+Hexine Circle + Fulcrum bombing witnesses. **Done** (template pass: read-aloud desc, dated bio, `h2. Spies lead` / `h2. Prep`).
 
-- [ ] **high-summoner-nial-beltus** (GM-only)
-- [ ] **hytham-grimbolg** (GM-only)
-- [ ] **ambassador-thrawne-lithra** (GM-only)
+- [x] navinea-senetera, hielaman, alandria, commander-locke, nort, emissary-halan
+- [x] chuggaz, nans, corporal-brokkr-stegg, serjeant-eirik-tryke, seer-demeletas, cedric
 
-## Priority 2 - Empty `OP_DESCRIPTION`
+---
 
-### Investigation / Anathemists / Sindrel plot
+## Tier 2 — Session-regular NPCs
 
-- [ ] barnabus (GM-only)
-- [ ] silas-oestra (GM-only)
-- [ ] regnif-d-log (GM-only)
-- [ ] georges-de-selve
-- [ ] emerich-surefoot
 - [ ] journeyman-galoras
-- [ ] major-vindas
-- [ ] nitherfang-gilfrarrin (GM-only)
+- [ ] emerich-surefoot
+- [ ] embren-oestra
+- [ ] micycle-smynth
+- [ ] celebrant-alruna (GM-only)
+- [ ] hunts-by-night
+- [ ] pads-silently
+- [ ] kelferria-the-smith
+- [ ] jean-de-dinteville, georges-de-selve
+- [ ] seelie-ophelan
+- [ ] temperance
+- [ ] silas-oestra (GM-only)
 
-### Adventure log / early campaign
+---
+
+## Tier 3 — Antagonists & casualties
 
 - [ ] commander-wake
 - [ ] arise-to-victory-over-the-infidel-hoards
 - [ ] lacerta-kirrahe
-- [ ] sebastian-warwick
-- [ ] micycle-smynth
-
-### Wallarch / Goela / misc NPCs
-
-- [ ] celebrant-alruna (GM-only)
+- [ ] gillette-quill, raymond-quill
 - [ ] dogara (GM-only)
+- [ ] caller-georg (if character page exists)
+- [ ] major-vindas
 - [ ] craftsman-shegrim
+- [ ] f-lar-mnementh
+- [ ] emissary-isius
+- [ ] nielsenn
+- [ ] arouraios — **priority:** flesh out read-aloud beyond coachman/beard/glasses
+- [ ] barnabus (GM-only)
+- [ ] myrath
+- [ ] razorbeak
+- [ ] kithrak-the-black
 
-### Lore / worldbuilding (may never be met)
+---
 
-- [ ] king-titan (GM-only)
-- [ ] queen-aubryn (GM-only)
-- [ ] bramble-ravenglade (GM-only)
-- [ ] willow-ravenglade (GM-only)
+## Tier 4 — Associates
 
-## Priority 3 - Minimal one-liner only
+- [ ] dulcinia
+- [ ] pthul
+- [ ] sebastian-warwick
+- [ ] zalatan — split bio/history if needed
 
-- [ ] cedric
-- [ ] chuggaz
-- [ ] nans
-- [ ] nort
-- [ ] gillette-quill
-- [ ] raymond-quill
-- [ ] pads-silently
+---
 
-## PCs - optional pass
+## Tier 5 — Founders (GM-only pages)
 
-- [ ] **nakoma-deathwalker-mor-got-ha** - empty; redo read-aloud or avatar-based?
+Restructure to founder template; **no stat blocks**.
+
+- [ ] lord-ablas-oestra (reference implementation — verify)
+- [ ] high-summoner-nial-beltus — empty `OP_DESCRIPTION`
+- [ ] hytham-grimbolg — empty `OP_DESCRIPTION`; confirm corruption vs slim appearance
+- [ ] ambassador-thrawne-lithra — empty `OP_DESCRIPTION`
+- [ ] general-alicia-meness, first-of-mabon, mistress-lucretia-samhain, farseer-sybera-goela (Phase 1 done — founder pass optional)
+
+---
+
+## Tier 6 — Not yet met / lore-only
+
+- [ ] nitherfang-gilfrarrin (GM-only)
+- [ ] king-titan, queen-aubryn (GM-only)
+- [ ] bramble-ravenglade, willow-ravenglade (GM-only)
+- [ ] regnif-d-log (GM-only)
+
+---
+
+## PCs — optional pass
+
+- [x] pin, ayr, rossin-ros-greyhirst, silrie-aegiskiir, wilrin-racenglade (DDB / bio updates in repo)
+- [ ] amanira — DDB when sheet public
+- [ ] nakoma-deathwalker-mor-got-ha — Corvus rebel-side removed from public bio ✅; optional read-aloud desc pass
+- [ ] tama (Phase 1 desc done)
+
+## Stat blocks
+
+Paused — see `notes/todo.md`. Resume when tier 2–3 antagonists are structured.

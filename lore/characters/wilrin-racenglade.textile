@@ -16,7 +16,10 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2
 ---
 
 <!-- OP_DESCRIPTION -->
+Wilrin is a gnome sorcerer — slight of frame, sharp of cheekbone, with pointed ears flushed pink at the tips. His hair and beard are the same dark burgundy, the beard trimmed neat and the hair swept back in layered spikes. His complexion is pale; his eyes do not match — one dark and watchful, the other unnaturally pale, a reminder of the [[The Fallowhurst Sigil | Fallowhurst sigil]] that bound him. He dresses in a fitted wine-dark coat embroidered with curling spiral work at the chest and closed with a row of polished buttons.
+
 h3. Key Items
+
 * [[Anasthetic Scalpel | Anasthetic Scalpel]]
 * [[Bone Dice | Bone Dice]]
 * [[Dragonborn Skull | Dragonborn Skull]]
@@ -24,8 +27,17 @@ h3. Key Items
 * [[The Fallowhurst Sigil | The Fallowhurst Sigil]] (bound — sigil scar)
 
 <!-- OP_BIO -->
-
+https://www.dndbeyond.com/characters/151085741
 
 <!-- GM_INFO_START -->
-The time fuckery of the [[Midsummer Enclave | Midsummer Enclave]] means that wilrin's experiences within it do not have to line up temporally with the rest of the world. He may have returned before he left - his parents can be young, active members of society!
+h2. Player sheet (D&D Beyond)
+
+* *Personality:* Like a nomad — cannot settle in one place for long. Wherever he goes, tries to bring a little warmth and tranquility of home. Lives by his own set of weird and wonderful rules.
+* *Ideals:* Empathy — no creature should be made to suffer (Good). Wanderlust — prefers the less-travelled path (Chaotic).
+* *Bonds:* Finds all magic compelling; the more magical a place, the more he is drawn to it. Does what he can to protect the natural world.
+* *Flaw:* Always changing his mind — well, almost always.
+
+h2. Midsummer Enclave
+
+The time fuckery of the [[Midsummer Enclave | Midsummer Enclave]] means that Wilrin's experiences within it do not have to line up temporally with the rest of the world. He may have returned before he left — his parents can be young, active members of society!
 <!-- GM_INFO_END -->

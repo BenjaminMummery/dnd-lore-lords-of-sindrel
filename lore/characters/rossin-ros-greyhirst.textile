@@ -16,7 +16,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457462/WhatsApp_Image_2
 ---
 
 <!-- OP_DESCRIPTION -->
-A woman with pale skin and ice-coloured eyes, and silver-grey hair. Olive green and brown leather armour with feathered shoulder details - a ranger's kit worn with the confidence of someone who has already decided where the arrow goes.
+A woman of about five foot nine, tawny-pale of skin, with pale grey-green eyes. Her hair is dusky grey at the roots and black toward the ends. Olive green and brown leather armour with feathered shoulder details — a ranger's kit worn with the confidence of someone who has already decided where the arrow goes.
 
 h3. Key Items
 
@@ -24,4 +24,17 @@ h3. Key Items
 * [[Silver Guest Bracelet | Silver Guest Bracelet]]
 
 <!-- OP_BIO -->
+https://www.dndbeyond.com/characters/159196960
 
+Chaotic Good. No faith yet — open to whatever might answer.
+
+<!-- GM_INFO_START -->
+h2. Player sheet (D&D Beyond)
+
+* *Age:* 87 (medium).
+* *Faith:* None (yet).
+* *Personality:* Places no stock in wealthy or well-mannered folk — money and manners will not save you from a hungry owlbear.
+* *Ideal:* Change — life is like the seasons, in constant change, and we must change with it (Chaotic).
+* *Bond:* Suffers awful visions of a coming disaster and will do anything to prevent it.
+* *Flaw:* Too enamoured of ale, wine, and other intoxicants.
+<!-- GM_INFO_END -->

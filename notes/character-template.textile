@@ -1,0 +1,59 @@
+# Character page template (repo only — not synced to Obsidian Portal)
+#
+# Copy to lore/characters/<op_slug>.textile when creating a new character.
+# Omit op_id, op_url, op_created_at, op_updated_at — the lore bridge assigns those on first publish.
+# Reference: .cursor/rules/lore-assistant.mdc § Character pages (template)
+
+---
+op_slug: example-npc
+op_kind: Character
+op_type: Character
+name: Example NPC
+title: Example NPC
+op_gm_only: false
+is_player_character: false
+tags:
+- she/her
+# Party-known affiliations only on public pages (house, rank, pronouns).
+# Unrevealed ties stay in GM_INFO until shown in play.
+# avatar_url: https://...
+---
+
+<!-- OP_DESCRIPTION -->
+You see a …
+
+<!-- OP_BIO -->
+[[Factor | Factor]] of [[House Lithra | House Lithra]].
+
+*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+
+- What the party witnessed or learned in play.
+
+<!-- GM_INFO_START -->
+h2. Prep
+
+* Plot role, motives, and session prep bullets.
+
+h2. Stat block
+
+<div class="stat-block">
+<h3>Example NPC</h3>
+<p><em>Medium humanoid, neutral</em></p>
+<p><strong>Armor Class</strong> 14<br>
+<strong>Hit Points</strong> 27 (5d8 + 5)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +2 (12)</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>10 (+0)</td><td>14 (+2)</td><td>12 (+1)</td><td>10 (+0)</td><td>12 (+1)</td><td>14 (+2)</td></tr>
+</table>
+<hr>
+<p><strong>Senses</strong> passive Perception 11<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 1 (200 XP)</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Shortsword.</strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage.</p>
+</div>
+<!-- GM_INFO_END -->

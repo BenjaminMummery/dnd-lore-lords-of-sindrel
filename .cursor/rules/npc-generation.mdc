@@ -167,7 +167,7 @@ Glance at `notes/lore-dashboard.md` gender counts if unsure — roster is histor
 
 ## Persisting NPCs
 
-Walk-ons stay in chat. If the user says **save**, **persist**, or **add to wiki**, create `lore/characters/<op_slug>.textile` with standard frontmatter (omit portal-assigned fields), `OP_DESCRIPTION`, and GM block as needed.
+Walk-ons stay in chat. If the user says **save**, **persist**, or **add to wiki**, copy `notes/character-template.textile` to `lore/characters/<op_slug>.textile`, fill frontmatter and sections, and omit portal-assigned fields (`op_id`, `op_url`, timestamps).
 
 ## Deep canon (only when needed)
 

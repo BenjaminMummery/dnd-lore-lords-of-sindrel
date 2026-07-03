@@ -6,5 +6,6 @@ Files in this folder are **not** published to Obsidian Portal. The lore bridge o
 - **`gm-secrets.md`** - player-unknown facts registry; party-known vs GM-only; leak-audit checklist
 - **`quick-npc.md`** - one-page cheat sheet for fast improvised NPCs (full agent rule: `.cursor/rules/npc-generation.mdc`)
 - **`session-12-plan.md`** - next session planning (Silas / persecution / investigation branches)
-- **`character-descriptions-todo.md`** - shelved description checklist
+- **`character-descriptions-todo.md`** - NPC tier rollout + description gaps
+- **`character-template.textile`** - copy-paste character page scaffold (repo only; not synced to OP)
 - **`obsidian-portal/`** - local backup of OP Custom CSS and character index layout

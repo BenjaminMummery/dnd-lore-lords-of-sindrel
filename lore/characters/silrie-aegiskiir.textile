@@ -16,7 +16,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7442634/1000025365.jpg
 ---
 
 <!-- OP_DESCRIPTION -->
-An androgynous elf-blooded figure with long white hair bound in pale wrappings. An ornate ritual mask covers their face. Deep purple and navy robes, white bindings at the arms - the dress of someone who treats movement as a grammar.
+A tall, pale figure of about 5'11" with long white hair bound in pale wrappings. An ornate ritual mask covers their face. Deep purple and navy robes, white bindings at the arms — the dress of someone who treats movement as a grammar.
 
 h3. Key Items
 
@@ -24,4 +24,14 @@ h3. Key Items
 * [[Knuckledusters | Knuckledusters]]
 
 <!-- OP_BIO -->
+https://www.dndbeyond.com/characters/151085721
 
+Lawful Neutral.
+
+<!-- GM_INFO_START -->
+h2. Player sheet (D&D Beyond)
+
+* *Age:* 87 (medium).
+* *Eyes (beneath mask):* Black cornea with bright silver iris.
+* *Personality / ideals / bonds / flaws:* _Not entered on sheet yet — add when player provides._
+<!-- GM_INFO_END -->
