@@ -21,3 +21,15 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481279/5f82b9bcb958e809
 [[Adjutant | Adjutant]] of [[House Lithra | House Lithra]]
 
 <!-- OP_BIO -->
+[[Adjutant | Adjutant]] of [[House Lithra | House Lithra]].
+
+* *25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** On duty with [[:sebastian-warwick | Sebastian Warwick]] at the [[Fallowhurst Outpost | Fallowhurst Outpost]] when [[The Adventurers | the Wonch]] crossed from [[Fallowhurst | Fallowhurst]] toward [[Sindrel | Sindrel]] (evening).[1]
+** Hosted the party overnight and explained the outpost's purpose and the history of the bypass road.[2]
+* *26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Saw the party depart toward [[Sindrel | Sindrel]] after breakfast (morning).[2]
+
+<hr>
+fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
+
+fn2. [[Session 3: "Graduation" | Session 3: "Graduation"]]

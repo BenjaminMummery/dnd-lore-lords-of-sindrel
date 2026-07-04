@@ -19,7 +19,13 @@ tags:
 You see a man with dark hair, a neatly trimmed beard, and small, fussy glasses. His hands are soft, with ink stains at the fingers - educated, not physically imposing, but watchful with an air of slippery situational awareness.
 
 <!-- OP_BIO -->
-On the night of the [[Ditchquer | Ditchquer]] closing ceremony attack, he was observed emerging from the tunnels below [[The Fulcrum | The Fulcrum]] and getting into a coach that had been parked next to the exit.
+* *28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** On the night of the [[Ditchquer | Ditchquer]] closing ceremony attack, a coachman matching this description was seen emerging from the tunnels below [[The Fulcrum | The Fulcrum]] and boarding a coach parked next to the exit.
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** [[:nort | Nort]] recalled a lost-looking coachman with a neatly trimmed beard and small, fussy glasses, bringing a carriage down near the entrance service tunnels during the closing ceremony. She could not name him or his dignitary; described the carriage coat of arms as something with a bird on it.[1]
+
+<hr>
+fn1. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
 
 <!-- GM_INFO_START -->
 h2. Physical description

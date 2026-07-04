@@ -22,4 +22,12 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481291/fefc0b5fafbd39ba
 
 
 <!-- OP_BIO -->
-Killed during Anathemist sabotage
+[[Factor | Factor]] of [[House Grimbolg | House Grimbolg]].
+
+* *6th Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** Killed during maintenance on a water silo when the control rod's gems were physically swapped; the rod generated water instead of ablating it, flooding the silo before she could save herself.[1][2]
+
+<hr>
+fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]] — Hexine Circle briefing on the sabotage campaign.
+
+fn2. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]

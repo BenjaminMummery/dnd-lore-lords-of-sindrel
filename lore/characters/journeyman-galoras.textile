@@ -23,11 +23,16 @@ You see a kenku with a compact, quick-fingered build, their plumage ink-blue fro
 <!-- OP_BIO -->
 [[Factor | Factor]] of [[House Mabon | House Mabon]].
 
-* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
 ** Joined the [[Hexine Circle | Hexine Circle]] convened in the morning after the Anathemist leak was discovered.
 ** Briefed [[:ayr | Ayr]] on months of suspicious "incidents" around the city during the house interviews that followed immediately; commissioned [[The Gentleman's Greeting | The Gentleman's Greeting]] at Ayr's request and gifted a small self-rotating device.
 * *30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** Delivered the finished blade to [[:ayr | Ayr]] at [[Radwasp House | Radwasp House]].
+** Delivered the finished blade to [[:ayr | Ayr]] at [[Radwasp House | Radwasp House]].[2]
+
+<hr>
+fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
+
+fn2. [[Session 9: Downtime 2 | Session 9: Downtime 2]]
 
 <!-- GM_INFO_START -->
 h2. Spies lead

@@ -22,6 +22,11 @@ You see a lean domestic cat with soot-grey tabby fur and pale green eyes — ran
 A [[Sindrel | Sindrel]] street cat. Part of the informal network known to [[:amanira | Amanira]] as the City Cats.
 
 * *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** Accompanied [[The Adventurers | the Wonch]] through the [[Osteomantic Archives | catacombs]].
+** Accompanied [[The Adventurers | the Wonch]] through the [[Osteomantic Archives | catacombs]].[1]
 * *30th–31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** At [[Radwasp House | Radwasp House]], tried to warn the party about [[:tama | the giant stoat]]; sought out [[:pads-silently | Pads-Silently]] when unsuccessful (morning of the 31st).
+** At [[Radwasp House | Radwasp House]], tried to warn the party about [[:tama | the giant stoat]]; sought out [[:pads-silently | Pads-Silently]] when unsuccessful (morning of the 31st).[2]
+
+<hr>
+fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
+
+fn2. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]

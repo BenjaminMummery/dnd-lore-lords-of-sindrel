@@ -143,14 +143,15 @@ Use `<!-- GM_INFO_START -->` … `<!-- GM_INFO_END -->` on mixed pages — **one
 
 When splitting content, keep public prose readable without the GM block — agents and the GM still read both.
 
-## Wiki session citations (footnotes)
+## Session citations (footnotes)
 
-When a wiki page ties content to a specific adventure log, **do not** use inline `[[Session N: … | …]]` links in prose. Use Textile footnotes instead:
+When wiki or character content ties facts to play or a specific adventure log beat, **do not** use inline `[[Session N: … | …]]` links in prose. Use Textile footnotes instead:
 
 1. Marker in prose: `[1]` immediately **after** sentence-ending punctuation — e.g. `routes.[1]`, not `routes[1].` (same for `?` / `!`). If the citation applies to a whole sentence, place the marker at the end of that sentence. Reuse the same number for the same session.
-2. Definition after the section (player body): `fn1. [[Session N: Title | Session N: Title]]` — optional em dash note for what happened there.
-3. Place all `fn*` lines **immediately before** `<!-- GM_INFO_START -->` on mixed pages. On GM-only pages (`op_gm_only: true`), place `fn*` lines at the end of the file before `<!-- GM_INFO_END -->`.
-4. GM-block prose may reference `[1]` etc. when the matching `fn*` is defined in the player body above the GM block.
+2. Definition: `fn1. [[Session N: Title | Session N: Title]]` — optional em dash note for what happened there.
+3. **Wiki pages** — all `fn*` lines immediately before `<!-- GM_INFO_START -->` on mixed pages. On GM-only pages (`op_gm_only: true`), place `fn*` at the end of the player body before `<!-- GM_INFO_START -->`, or at file end before `<!-- GM_INFO_END -->` when the whole page is GM-only with no player section.
+4. **Character pages** — all `fn*` lines at the **end of `OP_BIO`**, immediately before `<!-- GM_INFO_START -->`. Optional `<hr>` before the `fn*` block (matches wiki style). GM-block prose may reference `[1]` when the matching `fn*` is defined in `OP_BIO` above.
+5. **Which session to cite:** the log where the party **witnessed** the beat or **learned** the fact — not necessarily the in-world date on the bio heading (e.g. Ostory sabotage deaths → footnote **Session 5** briefing; Cornucopia tour detail → **Session 11**). Skip footnotes for pre-campaign backstory with no log source.
 
 **Exceptions (keep inline text or links):**
 
@@ -159,7 +160,7 @@ When a wiki page ties content to a specific adventure log, **do not** use inline
 - **Campaign status lines** — e.g. `_Through Session 11 (date SC)._` on `home-page`, `the-adventurers`, faction clocks; these are “current as of” markers, not scene citations.
 - **Bare session numbers in GM meta** — e.g. “What's Changed Since Session 2” as a **heading** (no link needed); footnote the first prose citation in that section instead.
 
-**Proactive check:** when editing wiki pages, grep for `[[Session` and `(Session N)` in player body and GM blocks; convert citations that point at adventure logs. Report pages still using inline session links.
+**Proactive check:** when editing wiki or character pages, grep for `[[Session` and `(Session N)` in player body and GM blocks; convert citations that point at adventure logs. Report pages still using inline session links or play-derived `**` bio lines missing footnotes.
 
 ## Read-aloud descriptions (wiki vs adventure logs)
 
@@ -263,11 +264,11 @@ Do not invent duplicate spy-lead headings (`Spies lead:` vs `Spies Lead`); use *
 
 ### Bio dating
 
-Chronological `OP_BIO` entries use italic session dates from the adventure logs:
+Chronological `OP_BIO` entries use dated headings from the adventure logs:
 
-`*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*`
+`* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*`
 
-followed by `*` bullets. One-line role intro (rank + house) may precede the first date block. **Every in-play event drawn from an adventure log must sit under the log's dated heading** — do not lump events under the wrong day.
+followed by `**` event lines. One-line role intro (rank + house) may precede the first date block. **Every in-play event drawn from an adventure log must sit under the log's dated heading** — do not lump events under the wrong day. **Footnote** each play-derived `**` line per *Session citations (footnotes)* — cite the session where the party learned or witnessed the beat, then add `fn*` definitions (and optional `<hr>`) at the end of `OP_BIO`.
 
 ### DM stat blocks (GM block only)
 
@@ -492,4 +493,4 @@ When preparing a push, or after accumulating a significant batch of lore edits, 
 - **Player secrets** - never add `OP_PLAYER_SECRETS` markers to bio; they publish visibly. Use OP Player Secrets UI + optional `GM_INFO` mirror in repo.
 - **GM notes** - active todos live in `notes/todo.md` (e.g. OP Custom CSS, NPC statblocks); check when resuming work.
 - **Read-aloud alignment** - when adventure logs or location wiki pages change, run the *Read-aloud descriptions* check (wiki authoritative; flag missing wiki prose and log/wiki contradictions).
-- **Session footnotes** - when wiki pages change, grep for inline `[[Session` / `(Session N)` citations; convert per *Wiki session citations* unless an exception applies.
+- **Session footnotes** - when wiki or character pages change, grep for inline `[[Session` / `(Session N)` citations; convert per *Session citations (footnotes)* unless an exception applies. Ensure play-derived `OP_BIO` `**` lines have `[N]` markers and matching `fn*` definitions.

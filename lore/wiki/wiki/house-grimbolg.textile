@@ -63,11 +63,16 @@ House Grimbolg suffered one of the earliest and deadliest incidents in the suspe
 
 The damage was not limited to the loss of life. The incident disrupted stores and supply processes at a time when House Grimbolg was already under pressure to maintain the city's food, water, and material production. Because House Grimbolg's work underpins much of [[Sindrel | Sindrel]]'s basic survival, the sabotage has raised serious concern about the vulnerability of the city's infrastructure.
 
-Among the disrupted stores was a silo of saltpetre. The party now suspects the “loss” of saltpetre may have concealed the theft of an unknown quantity for the purpose of constructing explosives.
+Among the disrupted stores was a silo of saltpetre. The party now suspects the “loss” of saltpetre may have concealed the theft of an unknown quantity for the purpose of constructing explosives.[1]
 
 h2. Relationship to [[The Adventurers | the Wonch]]
 
-House Grimbolg, particularly [[:navinea-senetera | Navinea Senetera]] are neutral to positively disposed to [[The Adventurers | the Wonch]]. Their interactions have been polite and respectful. [[:rossin-ros-greyhirst | Rossin Greyhirst]]'s insight and expertise on natural systems is of interest and may lead to a future roundtable with Grimbolg transmuters.
+House Grimbolg, particularly [[:navinea-senetera | Navinea Senetera]] are neutral to positively disposed to [[The Adventurers | the Wonch]]. Their interactions have been polite and respectful.[2] [[:rossin-ros-greyhirst | Rossin Greyhirst]]'s insight and expertise on natural systems is of interest and may lead to a future roundtable with Grimbolg transmuters.
+
+<hr>
+fn1. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
+
+fn2. [[Session 9: Downtime 2 | Session 9: Downtime 2]] — Navinea's invitation to the Amalthean.
 
 <!-- GM_INFO_START -->
 h2. Overview

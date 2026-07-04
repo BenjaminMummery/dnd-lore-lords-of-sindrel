@@ -24,14 +24,16 @@ You see a …
 
 Cover all eight: race; skin tone; build; hair / facial hair; clothing (Factor → house Fashion wiki; Adjutant → house cues or uniform); how they present; how they talk.
 
-Bio bullets from adventure logs must use dated headings matching the log (see lore-assistant.mdc § Bio dating).
+Bio bullets from adventure logs must use dated headings matching the log (see lore-assistant.mdc § Bio dating). Footnote play-derived events per § Session citations (footnotes).
 
 <!-- OP_BIO -->
 [[Factor | Factor]] of [[House Lithra | House Lithra]].
 
-*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
+** What the party witnessed or learned in play.
 
-* What the party witnessed or learned in play.
+<hr>
+fn1. [[Session N: Title | Session N: Title]]
 
 <!-- GM_INFO_START -->
 h2. Prep

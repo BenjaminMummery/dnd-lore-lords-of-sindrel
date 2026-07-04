@@ -23,8 +23,13 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469931/ba348eb47975d34b
 <!-- OP_BIO -->
 * *Eptan, year 4218 ([[The Soulwind Calendar | SC]])*
 ** Private Warwick accidentally poisons his commanding officer's dog. While the hound makes a full recovery, Warwick earns the ire of the officer. He is posted to the [[Fallowhurst Outpost | Fallowhurst Outpost]] as a form of non-official punishment.
-* *25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** The [[The Adventurers | The Neighbourhood Wonch]], escaping [[Fallowhurst | Fallowhurst]], arrive at [[Fallowhurst Outpost | Fallowhurst Outpost]]
-* *26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+* *25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
+** The [[The Adventurers | The Neighbourhood Wonch]], escaping [[Fallowhurst | Fallowhurst]], arrive at [[Fallowhurst Outpost | Fallowhurst Outpost].
+* *26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[2]
 ** Warwick records [[The Adventurers | the adventurers]]'s account of their journey in a [[Private Warwick's Report | report]] for his superiors.
 ** [[The Adventurers | The Adventurers]] depart for [[Sindrel | Sindrel]].
+
+<hr>
+fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
+
+fn2. [[Session 4: Sindrel! | Session 4: Sindrel!]]

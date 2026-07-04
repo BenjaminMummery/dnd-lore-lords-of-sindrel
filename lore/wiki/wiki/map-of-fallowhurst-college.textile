@@ -20,4 +20,5 @@ In the Museum, [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] recovered a part
 
 **Current holder:** [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]] (partial map only).
 
-fn1. Session 2
+<hr>
+fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]

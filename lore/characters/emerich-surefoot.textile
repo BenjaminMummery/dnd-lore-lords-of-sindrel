@@ -23,9 +23,14 @@ You see a half-elf man with sun-browned skin and a wiry, runner's build, his lon
 Low-level enforcer for [[The Black Cats | The Black Cats]].
 
 * *28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** Gambled with [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] in a Wallarch dive; lost and revealed lore linking the [[Osteomantic Archives | Osteomantic Archives]] to the old [[The Eighth House | necromantic House]] and a route toward the [[Quarantine Zone | quarantine zone]].
+** Gambled with [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] in a Wallarch dive; lost and revealed lore linking the [[Osteomantic Archives | Osteomantic Archives]] to the old [[The Eighth House | necromantic House]] and a route toward the [[Quarantine Zone | quarantine zone]].[1]
 * *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** Caught running near the [[Osteomantic Archives | Osteomantic Archives]] at noon; after pathetic dissembling, revealed his Black Cats affiliation and that his contact uses the back room of [[The Cutthroat's Repose | The Cutthroat's Repose]] (password: "Swordfish"). [[The Adventurers | The Wonch]] let him go.
+** Caught running near the [[Osteomantic Archives | Osteomantic Archives]] at noon; after pathetic dissembling, revealed his Black Cats affiliation and that his contact uses the back room of [[The Cutthroat's Repose | The Cutthroat's Repose]] (password: "Swordfish"). [[The Adventurers | The Wonch]] let him go.[2]
+
+<hr>
+fn1. [[Session 4: Sindrel! | Session 4: Sindrel!]]
+
+fn2. [[Session 6: Wallarch | Session 6: Wallarch]]
 
 <!-- GM_INFO_START -->
 h2. Prep

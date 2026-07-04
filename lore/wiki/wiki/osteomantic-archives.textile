@@ -283,7 +283,7 @@ h3. [[:pin | Pin]]'s sword - *Hall of the First Watch*
 
 * **Recognition:** Meness knotwork on the guard (worn); catalogue notch on the pommel (easy to miss). A caretaker recites the overdue-loan script and requests **return chit 1-W/0412** or the name of the lending officer.
 * **Behaviour:** Executes the accession script — "This item belongs on display 1-W, bay 7." May follow Pin at a distance until he enters an archive branch, then repeat the script. Will not grab it in a Meness precinct without causing a scene.
-* **Not the Fallowhurst sigil:** If the party mentions sigils, caretakers run a misfiled-sigil subroutine — binding circles (college sorcery) vs. witness-weapon inscriptions (Meness abjuration). Pin's shop hunt in Session 4 was about [[The Fallowhurst Sigil | Fallowhurst]], not this blade.[3]
+* **Not the Fallowhurst sigil:** If the party mentions sigils, caretakers run a misfiled-sigil subroutine — binding circles (college sorcery) vs. witness-weapon inscriptions (Meness abjuration). Pin's shop hunt[3] was about [[The Fallowhurst Sigil | Fallowhurst]], not this blade.
 * **Repowering hook:** Caretaker programmes include the **original shelf blessing** required to wake the enchantment; they will not output it until the sword is back on the rack — unless the party satisfies a catalogue-favour subroutine (new witness for First Watch, etc.).
 
 h2. Catacomb Exploration
@@ -311,7 +311,7 @@ h3. Hall of the Founders (crossroads)
 * **Door:** [[House Goela | House Goela]] sigil at the nonagonal chamber.
 * **Layout:** vaulted gallery; eight niches; founder effigies in pale stone with signature items in silver (see [[The Octarion Circle | Octarion Circle]] GM table for canonical items and depictions).
 * **Samhain niche:** statue disintegrated by a post-Fall curse cast by [[:lord-ablas-oestra | Lord Ablas Oestra]] - an attempt to erase every depiction of [[The Eighth House | House Samhain]] from the archive. The magic unmade stone and silver alike; the name plaque was chiselled away later (likely Meness record-keeping or Oestra embarrassment). Dust and pitting remain; no restoration attempted.
-* **Oestra sword:** silver prop blade on the founder effigy. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] took it in Session 8 and wrapped the hilt. No edge, no balance, no evocation - a pale imitation of [[:the-gladius | Gladius]] (see [[:lord-ablas-oestra | Lord Ablas Oestra]).[2]
+* **Oestra sword:** silver prop blade on the founder effigy. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] took it[2] and wrapped the hilt. No edge, no balance, no evocation - a pale imitation of [[:the-gladius | Gladius]] (see [[:lord-ablas-oestra | Lord Ablas Oestra]]).
 
 h3. Outward Hazards
 

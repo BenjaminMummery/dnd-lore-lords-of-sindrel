@@ -19,8 +19,9 @@ tags:
 At the [[Osteomantic Archives | Wallarch Osteomantic Archives]], you see the mortal remains of an elderly human man of medium build. Heavily lined olive skin beneath close-cropped dark hair turned white at the temples. He lies in a plain linen shroud.
 
 <!-- OP_BIO -->
-Deceased.
+* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
+** [[The Adventurers | The Wonch]] witnessed his funeral at the [[Osteomantic Archives | Wallarch Osteomantic Archives]] (early afternoon).
+** Archive staff including [[:seelie-ophelan | Seelie Ophelan]] and [[:temperance-halke | Temperance Halke]] collected his remains after the rite; the party's departure from the chamber lacked dignity.
 
-*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-- [[The Adventurers | The Wonch]] witnessed his funeral at the [[Osteomantic Archives | Wallarch Osteomantic Archives]] (early afternoon). Archive staff collected his remains after the rite; the party's departure from the chamber lacked dignity.
+<hr>
+fn1. [[Session 6: Wallarch | Session 6: Wallarch]]

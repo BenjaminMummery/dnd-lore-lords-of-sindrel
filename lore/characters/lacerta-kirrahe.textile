@@ -21,12 +21,14 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7440781/fef5e54185b45d48
 
 
 <!-- OP_BIO -->
-* *Enean of 4218 [[The Soulwind Calendar | SC]]*
-** [[The Vermillion Company | the Vermillion Company]] are hired by the proprietors of [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]] to protect the coach to [[Sindrel | Sindrel]].
-** *24th Enean 4218 [[The Soulwind Calendar | SC]]*: 
-*** Kirrahe is peripherally involved in the altercation between the [[The Adventurers | Adventurers]], [[:pthul | Pthul]], and the [[:gillette-quill | Quill]] [[:raymond-quill | brothers]].
-** *25th Enean 4218 SC*
-*** During an [[Anathemists | Anathemist]] ambush of the [[Sindrel Coach | Sindrel coach]], the captain is shot and killed by [[:commander-wake | the Anathemist Leader]] using an unknown weapon.
+* *24th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
+** [[The Vermillion Company | The Vermillion Company]] were hired to protect the coach to [[Sindrel | Sindrel]]; Kirrahe commanded the escort.
+** Peripherally involved in the altercation between [[The Adventurers | the Adventurers]], [[:pthul | Pthul]], and the [[:gillette-quill | Quill]] [[:raymond-quill | brothers]].
+* *25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** During an [[Anathemists | Anathemist]] ambush of the [[Sindrel Coach | Sindrel coach]], shot and killed by [[:commander-wake | the Anathemist leader]] using an unknown weapon.[1]
+
+<hr>
+fn1. [[Session 1: The White Dragon | Session 1: The White Dragon]]
 
 <!-- GM_INFO_START -->
 lacerta-kirrahe

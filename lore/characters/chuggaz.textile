@@ -22,10 +22,13 @@ You see a stocky dragonborn man with bronze scales and a broad-shouldered, work-
 <!-- OP_BIO -->
 [[Adjutant | Adjutant]] on [[The Fulcrum | Fulcrum]] staff ([[House Grimbolg | House Grimbolg]] affiliation).
 
-According to [[:nort | Nort]], he is rumoured to be connected to [[The Black Cats | the Black Cats]].
+According to [[:nort | Nort]], he is rumoured to be connected to [[The Black Cats | the Black Cats]].[1]
 
 * *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** On duty at [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] questioned staff about the bombing.
+** On duty at [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] questioned staff about the bombing.[1]
+
+<hr>
+fn1. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
 
 <!-- GM_INFO_START -->
 h2. Black Cats link

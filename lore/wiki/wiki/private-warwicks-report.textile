@@ -16,7 +16,7 @@ tags:
 
 A report of the adventurer's journey from the White Dragon to the Fallowhurst Outpost compiled by Private Sebastian Warwick.
 
-The Adventurers elected not to read the report before delivering it to Captain Hielaman, so its precise contents are unknown. Based on their conversation with Private Sebastian Warwick, they can infer that it includes the following:
+The Adventurers elected not to read the report before delivering it to Captain Hielaman, so its precise contents are unknown.[2] Based on their conversation with Private Sebastian Warwick, they can infer that it includes the following:[1]
 
 The adventurers departed The White Dragon Coaching Inn in the company of Dulcinea, Pthul, and two merchants.
 They were ambushed by Anathemists. The Mercenary Captain was slain by an Anathemist Commander utilising an unknown weapon.
@@ -28,3 +28,8 @@ The following details were omitted from their discussion with Warwick, so are li
 * The recovery of the [[Anasthetic Scalpel | Anasthetic Scalpel]].
 
 **Current holder:** [[:hielaman | Captain Hielaman]] (received unopened from [[The Adventurers | the Wonch]], 26 Enean 4218 SC).
+
+<hr>
+fn1. [[Session 3: "Graduation" | Session 3: "Graduation"]] — inferred contents from conversation at the outpost.
+
+fn2. [[Session 4: Sindrel! | Session 4: Sindrel!]] — delivered unopened to Hielaman.

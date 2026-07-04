@@ -23,20 +23,23 @@ The Oestran representative is a half-orc with grey-green skin and a heavy, muscu
 <!-- OP_BIO -->
 [[Factor | Factor]] of [[House Oestra | House Oestra]].
 
-h4. 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])
-
-h5. Morning
-* Joined the [[Hexine Circle | Hexine Circle]] convened in the morning after the Anathemist leak was discovered.
-* Advised the Wonch to check armouries and weapon shops for missing inventory; asked after any lead on who killed [[:lacerta-kirrahe | Captain Kirrahe]].
-
-h5. Evening
-* Encountered the Wonch emerging from the Leageur Osteomantic Archive.
-* Under some duress, permitted them to inspect the Oestra armoury.
-* Informed them of the provisioning of [[Radwasp House | Radwasp House]], the [[Hexine Circle | Hexine Circle]]'s investigator lodging in upper [[Sindrel | Sindrel]].
+* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Joined the [[Hexine Circle | Hexine Circle]] convened in the morning after the Anathemist leak was discovered.[1]
+** Advised the Wonch to check armouries and weapon shops for missing inventory; asked after any lead on who killed [[:lacerta-kirrahe | Captain Kirrahe]].[1]
+** Confronted the Wonch at the [[House Oestra | Oestra]] catacomb exit after they emerged from the depths (late afternoon/evening); demanded to know how they had got in.[2]
+** Informed them of the provisioning of [[Radwasp House | Radwasp House]], the [[Hexine Circle | Hexine Circle]]'s investigator lodging in upper [[Sindrel | Sindrel]].[]
+** Accepted the party's cover story that they had wandered into the catacombs beneath an unspecified [[Osteomantic Archives | Osteomantic Archive]] at random and become lost (evening).[3]
 
 h2. Spies Lead
 
-bq). If they’re here, they must be planning to use their position to strike against the city. That means weapons, either smuggled in or acquired here. We should be checking out every armoury and weapon shop in the city, see if any shipments have come up short or inventory has gone missing.
+bq). If they're here, they must be planning to use their position to strike against the city. That means weapons, either smuggled in or acquired here. We should be checking out every armoury and weapon shop in the city, see if any shipments have come up short or inventory has gone missing.
+
+<hr>
+fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
+
+fn2. [[Session 8: The Dark Shrine | Session 8: The Dark Shrine]]
+
+fn3. [[Session 9: Downtime 2 | Session 9: Downtime 2]]
 
 <!-- GM_INFO_START -->
 

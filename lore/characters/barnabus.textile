@@ -21,6 +21,11 @@ You see a grey-haired man with a scarred cheek, dressed in fancy foreign clothes
 
 
 <!-- GM_INFO_START -->
+h2. bio
+
+* *28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** During the [[Ditchquer | Ditchquer]] closing ceremony, stole [[:silas-oestra | Silas Oestra]]'s [[Silas Oestra's Chamber Key | chamber key]] and passed it to [[:arouraios | Arouraios]], disguised as a coachman — a brief exchange between two servants beneath the notice of the room.
+
 h2. Role in the Anathemist Plot
 
 Barnabus is the **de-facto coordinator and cell lead** for the [[Anathemists | Anathemist]] infiltration of [[Sindrel | Sindrel]]. He is embedded in [[:regnif-d-log | Regnif d'Log]]'s household, outwardly serving as d'Log's butler.

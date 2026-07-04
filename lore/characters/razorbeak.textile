@@ -18,3 +18,15 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7494085/Screenshot_2026-
 Just a regular chicken. Definitely nothing suspicious about it.
 
 <!-- OP_BIO -->
+* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Freed from a crate during the Wonch's pursuit of a hooded figure in [[The Wallarch District | Wallarch]] (noon); accompanied the party to the [[Osteomantic Archives | Osteomantic Archives]].[1]
+** Guided [[The Adventurers | the Wonch]] through deeper catacomb tunnels after [[:rossin-ros-greyhirst | Ros]] needed respite (late afternoon/evening).[2]
+* *30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[3]
+** [[:cedric | Cedric]] built a like-for-like miniature of the townhouse for the chicken to inhabit (evening).
+
+<hr>
+fn1. [[Session 6: Wallarch | Session 6: Wallarch]]
+
+fn2. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
+
+fn3. [[Session 9: Downtime 2 | Session 9: Downtime 2]]

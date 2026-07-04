@@ -16,7 +16,7 @@ tags:
 
 A scalpel originally wielded by [[:embren-oestra | the Plague Doctor]] of [[Fallowhurst | Fallowhurst]].
 
-Following an encounter with The Wonch, the scalpel came into the possession of [[:wilrin-racenglade | Wilrin Ravenglade]].
+Following an encounter with The Wonch, the scalpel came into the possession of [[:wilrin-racenglade | Wilrin Ravenglade]].[1]
 
 The blade is enchanted with an anaesthetic effect. When used in surgery it renders the process painless. When used in combat it can paralyze.
 
@@ -32,3 +32,6 @@ The blade is enchanted with an anaesthetic effect. When used in surgery it rende
 <p>You have a +1 bonus to attack and damage rolls made with this magic weapon.</p>
 <p><strong>Numbing edge.</strong> When you hit a creature other than an elf or undead with this weapon, the target must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>
 </div>
+
+<hr>
+fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]

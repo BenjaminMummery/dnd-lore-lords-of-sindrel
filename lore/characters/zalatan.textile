@@ -20,9 +20,13 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7516441/elfsjecs.jpg
 The colossal skull of a beholder, reanimated by the unchained necromancy of the quarantine zone.
 
 <!-- OP_BIO -->
-An undead Beholder stored in the [[Osteomantic Archives | Osteomantic Archives]]. The party fought Zalatan in the Hall of Aberrations.[1]
+Undead beholder stored in the [[Osteomantic Archives | Osteomantic Archives]] Hall of Aberrations.
 
-fn1. [[Session 8: The Dark Shrine | Session 8: The Dark Shrine ]]
+* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
+** Awakened by [[:ayr | Ayr]] during [[The Adventurers | the Wonch]]'s catacomb expedition; fought and destroyed by the party (late afternoon).
+
+<hr>
+fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
 
 <!-- GM_INFO_START -->
 Colossal beholder skull reanimated by quarantine necromancy. Three random eye rays each turn; *Undead Fortitude* can prolong the fight after a big nova.

@@ -21,7 +21,14 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481400/1167dfc398302faa
 Isius is a charismatic gnome with a penchant for cooking elaborate feasts.
 
 <!-- OP_BIO -->
+[[Factor | Factor]] of [[House Lithra | House Lithra]].
 
+* *21st Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** A truth-speaking geis was secretly placed on the punch ladle at a diplomatic function she hosted; three major diplomatic incidents, two ended marriages, and an awkward proposal followed.[1]
+** Withdrew from public life after the scandal.[1]
+
+<hr>
+fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]] — Hexine Circle briefing on the sabotage campaign.
 
 <!-- GM_INFO_START -->
 Prviously jovial and outgoing, now a somewhat shattered shell. Observent players will note deep laughter lines in a face that no longer seems to smile.

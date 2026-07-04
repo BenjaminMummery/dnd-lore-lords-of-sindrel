@@ -23,7 +23,10 @@ Nans is a lean elf woman with medium-brown skin and a neat, economical build, he
 [[Adjutant | Adjutant]] on [[The Fulcrum | Fulcrum]] staff ([[House Beltus | House Beltus]] affiliation).
 
 * *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** On duty at [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] questioned staff about the bombing; one of three staff named as worth interviewing after the extended ceremony-night shifts.
+** On duty at [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] questioned staff about the bombing; one of three staff named as worth interviewing after the extended ceremony-night shifts.[1]
+
+<hr>
+fn1. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
 
 <!-- GM_INFO_START -->
 h2. Prep

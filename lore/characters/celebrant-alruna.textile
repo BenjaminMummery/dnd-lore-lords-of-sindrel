@@ -24,7 +24,10 @@ She speaks in measured liturgical cadence, each phrase placed like a stone - the
 
 <!-- OP_BIO -->
 * *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** Presided over the funeral of [[:micycle-smynth | Micycle Smynth]] at the [[Osteomantic Archives | Wallarch Osteomantic Archives]] when [[The Adventurers | the Wonch]] visited.
+** Presided over the funeral of [[:micycle-smynth | Micycle Smynth]] at the [[Osteomantic Archives | Wallarch Osteomantic Archives]] when [[The Adventurers | the Wonch]] visited.[1]
+
+<hr>
+fn1. [[Session 6: Wallarch | Session 6: Wallarch]]
 
 <!-- GM_INFO_START -->
 h2. True role

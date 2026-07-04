@@ -16,6 +16,9 @@ tags:
 
 The skull from an articulated teaching skeleton in the Preparation Room of [[Fallowhurst College | Fallowhurst College]]. The display paired an elven skeleton with a dragonborn one among rusted gurneys and preserved specimens.
 
-[[:wilrin-racenglade | Wilrin Ravenglade]] purloined it during the party's first visit on the 25th of Enean 4218 SC.
+[[:wilrin-racenglade | Wilrin Ravenglade]] purloined it during the party's first visit on the 25th of Enean 4218 SC.[1]
 
 **Current holder:** [[:wilrin-racenglade | Wilrin Ravenglade]].
+
+<hr>
+fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]

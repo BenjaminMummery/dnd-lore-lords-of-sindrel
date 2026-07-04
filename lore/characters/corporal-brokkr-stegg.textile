@@ -22,9 +22,12 @@ You see a weary dwarf man with fair, ruddy skin and a stocky build, his russet b
 <!-- OP_BIO -->
 [[Adjutant | Adjutant]] of [[House Meness | House Meness]]; explosives specialist assigned to the damaged northwest foundation beneath [[The Fulcrum | The Fulcrum]].
 
-* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
 ** Showed [[The Adventurers | the Wonch]] charred device fragments and confirmed [[:ayr | Ayr]]'s clockwork-and-gunpowder theory after a live spark test.
 ** Ordered the party to leave after [[:wilrin-racenglade | Wilrin]]'s wild magic scorched evidence and bystanders; provided tunnel layouts when [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] invoked their Hexine authority.
+
+<hr>
+fn1. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
 
 <!-- GM_INFO_START -->
 h2. Prep

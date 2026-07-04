@@ -15,7 +15,9 @@ tags:
 
 The informal network of felines living in [[Sindrel | Sindrel]] - not to be confused with [[The Black Cats | the Black Cats]] crime syndicate.
 
-[[:amanira | Amanira]] can reach them in wild shape; [[:rossin-ros-greyhirst | Ros]] and others with _Speak with Animals_ can do the same. Known contacts include [[:pads-silently | Pads-Silently]] and [[:hunts-by-night | Hunts-By-Night]].
+[[:amanira | Amanira]] can reach them in wild shape; [[:rossin-ros-greyhirst | Ros]] and others with _Speak with Animals_ can do the same.[1] Known contacts include [[:pads-silently | Pads-Silently]] and [[:hunts-by-night | Hunts-By-Night]].
+
+[[:pads-silently | Pads-Silently]] sought the party at [[Radwasp House | Radwasp House]] to warn of a predator scenting the rooftops.[2]
 
 <hr>
 fn1. [[Session 4: Sindrel! | Session 4: Sindrel!]]

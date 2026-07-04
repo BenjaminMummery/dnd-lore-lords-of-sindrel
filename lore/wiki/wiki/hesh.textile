@@ -48,17 +48,24 @@ h4. Impression log (through Session 11)
 
 *Possible* — Pin fought in these scenes; logs never name Hesh or attribute killing blows to Pin. Confirm or strike at the table if soul-trap matters.
 
-* **Anathemist patrol** ([[Session 3: "Graduation" | Session 3]], 26 Enean) — most of the patrol slain; Pin "brought down another by targeting the mount." Rider's fate and whether Pin's longsword finished anyone are unstated.
-* **Animated scholars** ([[Session 3: "Graduation" | Session 3]], 25 Enean) — two skeletons destroyed at the college; Pin was outside for part of the fight. Undead may not register even if Pin struck the killing blow.
+* **Anathemist patrol** — most of the patrol slain; Pin "brought down another by targeting the mount." Rider's fate and whether Pin's longsword finished anyone are unstated.[1]
+* **Animated scholars** — two skeletons destroyed at the college; Pin was outside for part of the fight. Undead may not register even if Pin struck the killing blow.[2]
 
 *Not counted* — ruled out or no Pin kill credited in canon.
 
-* **Wounded horse** ([[Session 4: Sindrel! | Session 4]]) — Pin slew it; animal, not soul-trap material.
-* **[[:zalatan | Zalatan]]** ([[Session 7: Into The Catacombs | Session 7]]) — Pin helped finish the undead beholder; shared finish, no edged kill attributed to Pin.
-* **Beltus pest-control constructs** ([[Session 10: Shakes Spear in the Park | Session 10]]) — no kills credited to Pin; constructs regardless.
-* **Mage Road ambush** ([[Session 1: The White Dragon | Session 1]] / [[Session 2: Fallowhurst | Session 2]]) — Pin nearly died; party escaped without a logged body count from Pin.
+* **Wounded horse** — Pin slew it; animal, not soul-trap material.[3]
+* **[[:zalatan | Zalatan]]** — Pin helped finish the undead beholder; shared finish, no edged kill attributed to Pin.[4]
+* **Beltus pest-control constructs** — no kills credited to Pin; constructs regardless.[5]
+* **Mage Road ambush** — Pin nearly died; party escaped without a logged body count from Pin.[6]
 
 *Unknown / track forward*
 
 No further lethal Hesh kills are recorded in published logs after Session 11. Add entries here as play confirms them.
+
+fn1. [[Session 3: "Graduation" | Session 3: "Graduation"]] — 26 Enean; Anathemist patrol.
+fn2. [[Session 3: "Graduation" | Session 3: "Graduation"]] — 25 Enean; Fallowhurst College.
+fn3. [[Session 4: Sindrel! | Session 4: Sindrel!]]
+fn4. [[Session 7: Into The Catacombs | Session 7: Into The Catacombs]]
+fn5. [[Session 10: Shakes Spear in the Park | Session 10: Shakes Spear in the Park]]
+fn6. [[Session 1: The White Dragon | Session 1: The White Dragon]] / [[Session 2: Fallowhurst | Session 2: Fallowhurst]] — Mage Road ambush and coach descent.
 <!-- GM_INFO_END -->

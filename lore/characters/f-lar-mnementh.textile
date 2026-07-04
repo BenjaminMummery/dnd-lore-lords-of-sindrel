@@ -23,6 +23,13 @@ Poisoned by the anathamist spies - his cheese was laced with halucinigens.
 <!-- OP_BIO -->
 [[Factor | Factor]] of [[House Goela | House Goela]].
 
+* *34th Ostory, year 4218 ([[The Soulwind Calendar | SC]])*[1]
+** Poisoned during the Anathemist sabotage campaign; investigators determined a large dosage of hallucinogens had been added to his cheese.
+** Survived, but has been unwilling to attempt any further acts of divination.
+
+<hr>
+fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]] — Hexine Circle briefing on the sabotage campaign.
+
 <!-- GM_INFO_START -->
 Poisoned by the anathamist spies - his cheese was laced with halucinigens.
 

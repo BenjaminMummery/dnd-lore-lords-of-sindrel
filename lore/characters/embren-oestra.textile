@@ -19,8 +19,14 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7441221/embren.jpg
 You see a tall, gaunt figure of indeterminate ancestry beneath a wide-brimmed hat and a hooked-beak plague mask — waxed black robes layered over leather, long gloves, and a walking cane. They walk slowly but with purpose. They speak in a breathless rasp, as though each sentence cost more air than they possess.
 
 <!-- OP_BIO -->
-*25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** Encountered in [[Fallowhurst | Fallowhurst]] village in plague-doctor garb; examined [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s arrow wounds and directed the party toward the estate, then entered the manor without further conversation.
+* *25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Encountered in [[Fallowhurst | Fallowhurst]] village in plague-doctor garb; examined [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s arrow wounds and directed the party toward the estate, then entered the manor without further conversation.[1]
+** Pursued the party into the [[Fallowhurst College | Fallowhurst College]] museum and attacked through a barricade wielding his [[Anasthetic Scalpel | enchanted scalpel]]; [[:wilrin-racenglade | Wilrin Ravenglade]] seized the blade during the fight.[2]
+
+<hr>
+fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
+
+fn2. [[Session 3: "Graduation" | Session 3: "Graduation"]]
 
 <!-- GM_INFO_START -->
 

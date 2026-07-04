@@ -14,6 +14,9 @@ tags:
 - wondrous
 ---
 
-A skin bag containing a set of polyhedral dice carved from bone, bought from a bin of random curios in a [[Sindrel | Sindrel]] magical shop on the 28th of Enean 4218 SC. 
+A skin bag containing a set of polyhedral dice carved from bone, bought from a bin of random curios in a [[Sindrel | Sindrel]] magical shop on the 28th of Enean 4218 SC.[1]
 
 **Current holder:** [[:wilrin-racenglade | Wilrin Ravenglade]].
+
+<hr>
+fn1. [[Session 4: Sindrel! | Session 4: Sindrel!]]

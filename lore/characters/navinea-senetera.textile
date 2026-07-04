@@ -25,14 +25,21 @@ Navinea is an enormous earth genasi woman whose skin is the colour of weathered 
 
 She is concerned with system failure, entropy, and [[Sindrel | Sindrel]]'s resource vulnerability.
 
-* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
 ** Joined the [[Hexine Circle | Hexine Circle]] convened in the morning after the Anathemist leak was discovered.
 ** Discussed city ecology at length with [[:rossin-ros-greyhirst | Ros]] during the Wonch's house interviews immediately afterward.
-* *30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+* *30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[2]
 ** Wrote to [[:rossin-ros-greyhirst | Ros]] inviting her to the Amalthean to meet leading transmuters.
-* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[3]
 ** Hosted the Wonch at The Amalthean where she continued her discussion with Ros and explained the mechanism of D'gara's death.
 ** [[:pin | Pin]] noticed she assumed [[Anathemists | Anathemist]] cascade-failure sabotage without proof — an assumption, not a demonstrated fact.
+
+<hr>
+fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
+
+fn2. [[Session 9: Downtime 2 | Session 9: Downtime 2]]
+
+fn3. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
 
 <!-- GM_INFO_START -->
 h2. Spies lead

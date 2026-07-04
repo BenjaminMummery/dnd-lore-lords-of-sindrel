@@ -14,11 +14,11 @@ tags:
 - weapon
 ---
 
-A force-multiplying sword commissioned by [[:ayr | Ayr]] from [[:journeyman-galoras | Journeyman Galoras]] of [[House Mabon | House Mabon]] during the [[Hexine Circle | Hexine Circle]] investigation. Galoras spoke cryptically of "force multipliers"; the finished blade gathers a single charge each day and can release considerably more power than any sane person ought to wield in a parlour.
+A force-multiplying sword commissioned by [[:ayr | Ayr]] from [[:journeyman-galoras | Journeyman Galoras]] of [[House Mabon | House Mabon]] during the [[Hexine Circle | Hexine Circle]] investigation.[1] Galoras spoke cryptically of "force multipliers"; the finished blade gathers a single charge each day and can release considerably more power than any sane person ought to wield in a parlour.
 
 [[:ayr | Ayr]] calls it *The Gentleman's Greeting*.
 
-Delivered to [[Radwasp House | Radwasp House]] on the 30th of Enean 4218 SC.
+Delivered to [[Radwasp House | Radwasp House]] on the 30th of Enean 4218 SC.[2]
 
 **Current holder:** [[:ayr | Ayr]].
 
@@ -35,3 +35,8 @@ Delivered to [[Radwasp House | Radwasp House]] on the 30th of Enean 4218 SC.
 <hr>
 <p><strong>Stored charge.</strong> The sword gains one charge per day, at dawn. When you hit with a melee attack using this weapon, you can expend one or more charges. For each expended charge, roll the damage dice again and add their value to the total damage. There is no upper limit to the number of charges the sword may accumulate.</p>
 </div>
+
+<hr>
+fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]] — commissioned from Galoras.
+
+fn2. [[Session 9: Downtime 2 | Session 9: Downtime 2]] — delivered to Radwasp House.

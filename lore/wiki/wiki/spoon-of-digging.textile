@@ -16,6 +16,9 @@ tags:
 
 A ordinary-looking tea spoon, enchanted so that it can excavate solid rock as easily as lift sugar (albeit in teaspoon-sized helpings).
 
-[[:ayr | Ayr]] stole it from a noble soiree in [[Sindrel | Sindrel]] while disguised as "Fenton Woofrunner" on the 28th of Enean 4218 SC. Later tinkering unlocked its digging properties.
+[[:ayr | Ayr]] stole it from a noble soiree in [[Sindrel | Sindrel]] while disguised as "Fenton Woofrunner" on the 28th of Enean 4218 SC. Later tinkering unlocked its digging properties.[1]
 
 **Current holder:** [[:ayr | Ayr]].
+
+<hr>
+fn1. [[Session 4: Sindrel! | Session 4: Sindrel!]]

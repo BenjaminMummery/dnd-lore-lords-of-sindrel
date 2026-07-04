@@ -21,9 +21,25 @@ Pthul is a large, heavily built man. Stern, serious, and stoic to the point of b
 Pthul is utterly devoted to his charge, [[:dulcinia-von-phthasia | Dulcinia von Phthasia]].
 
 <!-- OP_BIO -->
-* *10th Enean 4218 [[The Soulwind Calendar | SC]]*: Pthul and [[:dulcinia-von-phthasia | Dulcinia]] depart the von Phthasia estate in [[Soulwind | Soulwind]] with the goal of travelling to [[Sindrel | Sindrel]] to seek a magical cure for her ailment. The going is slow due to Dulcinia's ill health and the large amount of gold and jewels they are transporting.
-* *24th Enean 4218 SC*: Alerted to the sinister motives of the [[:gillette-quill | Quill]] [[:raymond-quill | Brothers]], Pthul fights alongside a ragtag group of adventurers to subdue the ne'er-do-wells. At his mistresses insistence, he grudgingly allows his new allies to share their table for the evening.
-* *25th Enean 4218 SC*: Pthul and Dulcinia's coach is ambushed by [[Anathemists | Anathemists]].
+* *10th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Accompanied [[:dulcinia-von-phthasia | Dulcinia]] departing the von Phthasia estate in [[Soulwind | Soulwind]] for [[Sindrel | Sindrel]] to seek a magical cure for her ailment; progress slow due to her ill health and the gold and jewels they transported.
+* *24th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
+** Fought alongside a ragtag group of adventurers to subdue the [[:gillette-quill | Quill]] [[:raymond-quill | brothers]]; at his mistress's insistence, grudgingly allowed his new allies to share their table for the evening.
+* *25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[2]
+** His coach with Dulcinia was ambushed by [[Anathemists | Anathemists]].[1]
+** Broke his arm when the coach went over the cliff; offered the adventurers 100 GP up front to escort Dulcinia, their luggage, and the gold to [[Sindrel | Sindrel]]; continued with the party through flooded [[Fallowhurst | Fallowhurst]] and [[Fallowhurst College | Fallowhurst College]].
+* *26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Traveled with the party from the [[Fallowhurst Outpost | Fallowhurst Outpost]] to [[Sindrel | Sindrel]].[3]
+** Parted company with the Adventurers after their arrival in the city (afternoon); made for [[The Pointed Hat | The Pointed Hat]].[4]
+
+<hr>
+fn1. [[Session 1: The White Dragon | Session 1: The White Dragon]]
+
+fn2. [[Session 2: Fallowhurst | Session 2: Fallowhurst]] — coach over the cliff; college escape in Session 3.
+
+fn3. [[Session 3: "Graduation" | Session 3: "Graduation"]]
+
+fn4. [[Session 4: Sindrel! | Session 4: Sindrel!]]
 
 <!-- GM_INFO_START -->
 <div class="stat-block">

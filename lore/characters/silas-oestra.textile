@@ -23,6 +23,12 @@ You see a human man of about 25 with fair skin and a lean, restless build, his d
 
 
 <!-- GM_INFO_START -->
+h2. Bio
+
+* *28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Present at the [[Ditchquer | Ditchquer]] closing ceremony at [[The Fulcrum | The Fulcrum]] while high-ranking [[Factor | Factors]] from every House attended.
+** His rooms were the true target of the [[Anathemists | Anathemist]] operation that night; [[:barnabus | Barnabus]] stole his [[Silas Oestra's Chamber Key | chamber key]] during the distraction.
+
 h2. Target of the [[Ditchquer | Ditchquer]] Heist
 
 Silas's rooms were the true target of the [[Anathemists | Anathemist]] operation during the [[Ditchquer | Ditchquer]] closing ceremony.

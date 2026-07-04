@@ -21,5 +21,8 @@ You see a compact black cat with white socks and amber eyes — soft-footed, wat
 <!-- OP_BIO -->
 Part of the informal network known to [[:amanira | Amanira]] as the City Cats.
 
-* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
 ** At [[Radwasp House | Radwasp House]], sought out [[:amanira | Amanira]] when the party failed to heed a [[:hunts-by-night | Hunts-By-Night]]'s attempted warning about [[:tama | the giant stoat]] (early morning).
+
+<hr>
+fn1. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]

@@ -21,7 +21,11 @@ tags:
 [[Adjutant | Adjutant]] of [[House Mabon | House Mabon]].
 
 <!-- OP_BIO -->
-Vaporised when one of his own trapped locks misfired.
+* *8th Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** Vaporised when one of his own trapped locks misfired during the Anathemist sabotage campaign.[1]
+
+<hr>
+fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]] — Hexine Circle briefing on the sabotage campaign.
 
 <!-- GM_INFO_START -->
 Nielsenn was an older human with a lined face, dark eyebrows contrasting with a shock of white hair. He is a skilled craftsman, his hands moving with certainty and precision despite his age. He is missing the ring and pinkie fingers on his left hand, and has replaced them with a mechanical prosthetic.

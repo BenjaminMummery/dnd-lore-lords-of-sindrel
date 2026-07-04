@@ -20,11 +20,16 @@ You see a tall human man with fair skin and a wiry, narrow-shouldered build, his
 
 <!-- OP_BIO -->
 * *24th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** Travelled with [[The Adventurers | the Wonch]] in [[Sindrel Coach | the Sindrel Coach]] from [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]] (evening departure).
+** Travelled with [[The Adventurers | the Wonch]] in [[Sindrel Coach | the Sindrel Coach]] from [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]] (evening departure).[1]
 * *25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** Continued with the party through the [[Anathemists | Anathemist]] ambush on the Deren bridge.
+** Continued with the party through the [[Anathemists | Anathemist]] ambush on the Deren bridge.[1]
 * *26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** Arrived in [[Sindrel | Sindrel]] with the group (afternoon).
+** Arrived in [[Sindrel | Sindrel]] with the group (afternoon).[2]
+
+<hr>
+fn1. [[Session 1: The White Dragon | Session 1: The White Dragon]]
+
+fn2. [[Session 4: Sindrel! | Session 4: Sindrel!]]
 
 <!-- GM_INFO_START -->
 Real name: Jean de Dinteville

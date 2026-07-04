@@ -19,11 +19,11 @@ tags:
 Noble named on a preserved teaching cadaver at [[Fallowhurst College | Fallowhurst College]].
 
 <!-- OP_BIO -->
-*25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+* *25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Discovered by the Wonch while exploring Fallowhurst - Name given on a pristine teaching cadaver in the [[Fallowhurst College | Fallowhurst College]] museum: _Subject 1: Carlos Winterborn. 25 M. Occupation: Noble. Affliction: Cervical Fracture. Outcome: Partial Success._.[1]
 
-The party read the label on a pristine body in the college museum: _Subject 1: [[:carlos-winterborn | Carlos Winterborn]]. 25 M. Occupation: Noble. Affliction: Cervical Fracture. Outcome: Partial Success._
-
-[[:wilrin-racenglade | Wilrin]] later recreated [[The Fallowhurst Sigil | the binding sigil]] on the corpse; the discharge of magical energy healed him and [[:nakoma-deathwalker-mor-got-ha | Deathwalker]], and ominous chanting began in the Operating Theatre.
+<hr>
+fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
 
 <!-- GM_INFO_START -->
 First successful subject of [[:embren-oestra | Embren Oestra]]'s binding work at [[Fallowhurst College | Fallowhurst College]]. "Partial Success" marks the creation of Embren - Winterborn's identity overwritten, not merely repaired. Pre-magic noble; the cervical fracture was likely from riding or a carriage accident.

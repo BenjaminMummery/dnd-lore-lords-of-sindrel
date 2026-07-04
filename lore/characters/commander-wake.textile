@@ -23,7 +23,10 @@ h3. Key Items
 
 <!-- OP_BIO -->
 * *25th of Enean, 4218 [[The Soulwind Calendar | SC]]*
-** Led the ambush of the coach to [[Sindrel | Sindrel]], bringing him into direct conflict with [[The Adventurers | the Adventurers]]. During this ill-fated assault, he killed the [[:lacerta-kirrahe | Captain]] of the [[The Vermillion Company | Vermillion Company]].
+** Led the ambush of the coach to [[Sindrel | Sindrel]], bringing him into direct conflict with [[The Adventurers | the Adventurers]]. During this ill-fated assault, he killed the [[:lacerta-kirrahe | Captain]] of the [[The Vermillion Company | Vermillion Company]].[1]
+
+<hr>
+fn1. [[Session 1: The White Dragon | Session 1: The White Dragon]]
 
 <!-- GM_INFO_START -->
 Awake Ye Soldiers of Righteousness

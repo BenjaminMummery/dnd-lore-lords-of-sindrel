@@ -16,6 +16,11 @@ tags:
 
 A large, double-levelled stagecoach that conveyed travellers between [[The White Dragon Coaching Inn | the White Dragon Coaching Inn]] and [[Sindrel | Sindrel]] along [[The Mage Road | the Mage Road]].
 
-On the 25th of Enean 4218 SC the coach was ambushed by [[Anathemists | Anathemists]], teetered over a cliff after [[:lacerta-kirrahe | Captain Kirrahe]] was slain, and was sent over the edge with [[The Adventurers | the Wonch]] aboard. It came to rest in a bog at the foot of the slope. The party cannibalised its remains to build a wheelbarrow for [[:dulcinia-von-phthasia | Dulcinia]]'s luggage and the coach gold.
+On the 25th of Enean 4218 SC the coach was ambushed by [[Anathemists | Anathemists]], teetered over a cliff after [[:lacerta-kirrahe | Captain Kirrahe]] was slain, and was sent over the edge with [[The Adventurers | the Wonch]] aboard.[1] It came to rest in a bog at the foot of the slope. The party cannibalised its remains to build a wheelbarrow for [[:dulcinia-von-phthasia | Dulcinia]]'s luggage and the coach gold.[2]
 
 **Current holder:** Destroyed / abandoned at the [[The Mage Road | Mage Road]] cutting (25 Enean 4218 SC).
+
+<hr>
+fn1. [[Session 1: The White Dragon | Session 1: The White Dragon]]
+
+fn2. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]

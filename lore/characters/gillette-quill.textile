@@ -19,9 +19,25 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7433940/516db71a9a089cbb
 Small, wily, and a complete bastard
 
 <!-- OP_BIO -->
-*  *4218 [[The Soulwind Calendar | SC]]*: Along with his brother [[:raymond-quill | Raymond]], Gillette spends most of the year carrying out a series of petty and uninspired thieveries targetting travellers up and down [[The Mage Road | The Mage Road]].
-* *24th of Enean 4218 [[The Soulwind Calendar | SC]]*: The brothers are interrupted by [[:wilrin-racenglade | Wilrin Ravenglade]] while plotting to rob the patrons of [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]. During the altercation, Gillette is knocked unconscious.
-* *25th of Enean 4218 [[The Soulwind Calendar | SC]]*: Now under the custody of [[The Adventurers | the Adventurers]], Gillette rides the coach to [[Sindrel | Sindrel]]. During the Anathemist ambush, he remains pinned down in the coach unwilling to risk the archers above.
+* *4218 ([[The Soulwind Calendar | SC]])*
+** Along with his brother [[:raymond-quill | Raymond]], spends most of the year carrying out petty thefts targeting travellers up and down [[The Mage Road | The Mage Road]].
+* *24th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Interrupted by [[:wilrin-racenglade | Wilrin Ravenglade]] while plotting to rob patrons of [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]]; knocked unconscious during the altercation.[1]
+* *25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Traveled with [[The Adventurers | the Adventurers]] on the [[Sindrel Coach | coach]]; remained pinned down during the [[Anathemists | Anathemist]] ambush, unwilling to risk the archers above.[1]
+** Survived the coach going over the cliff and continued with the party through flooded [[Fallowhurst | Fallowhurst]] and [[Fallowhurst College | Fallowhurst College]].[2]
+* *26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Traveled with the party from the [[Fallowhurst Outpost | Fallowhurst Outpost]] to [[Sindrel | Sindrel]].[3]
+** Parted company with the Adventurers after their arrival in the city (afternoon).[4]
+
+<hr>
+fn1. [[Session 1: The White Dragon | Session 1: The White Dragon]]
+
+fn2. [[Session 2: Fallowhurst | Session 2: Fallowhurst]] — coach over the cliff; college escape in Session 3.
+
+fn3. [[Session 3: "Graduation" | Session 3: "Graduation"]]
+
+fn4. [[Session 4: Sindrel! | Session 4: Sindrel!]]
 
 <!-- GM_INFO_START -->
 The fast brother — small, wiry, and vicious. Fights beside [[:raymond-quill | Raymond]]; see *Brothers' Grift* on Raymond's stat block.

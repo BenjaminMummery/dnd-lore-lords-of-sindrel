@@ -14,11 +14,11 @@ tags:
 - shield
 ---
 
-An elaborate buckler taken from the lead corpse at the [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]] in the outward [[Osteomantic Archives | Osteomantic Archives]]. The dead wore the dark robes and [[The Eighth House | House Samhain]] neck amulets of a devotional circle who worshipped the [[The Gods | Queen of Ravens]] in her aspect as vengeful reaper. They died calling for vengeance — _Avenge Us_ — when the Eighth House fell.
+An elaborate buckler taken from the lead corpse at the [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]] in the outward [[Osteomantic Archives | Osteomantic Archives]].[1] The dead wore the dark robes and [[The Eighth House | House Samhain]] neck amulets of a devotional circle who worshipped the [[The Gods | Queen of Ravens]] in her aspect as vengeful reaper. They died calling for vengeance — _Avenge Us_ — when the Eighth House fell.
 
 Sculpted wings lie close and compact on the bearer's arm until battle calls them open.
 
-Once donned, the buckler cannot be removed by ordinary means. [[:ayr | Ayr]] has dreamed of wings and rivers of blood beneath the upper city's streets.
+Once donned, the buckler cannot be removed by ordinary means.[1] [[:ayr | Ayr]] has dreamed of wings and rivers of blood beneath the upper city's streets.[2]
 
 **Current holder:** [[:ayr | Ayr]].
 
@@ -35,6 +35,11 @@ Once donned, the buckler cannot be removed by ordinary means. [[:ayr | Ayr]] has
 <p><strong>Unanswered grip.</strong> The shield cannot be removed willingly unless you succeed on a DC 15 Wisdom saving throw. On a failure, you cannot attempt again until you finish a long rest.</p>
 <p><strong>Cry for vengeance.</strong> While you wear this shield, you are drawn toward vengeance for the unjustly slain. When you learn of a concrete wrong that fits that charge, you must succeed on a DC 14 Wisdom saving throw or feel compelled to pursue vengeance if a reasonable path exists. You have advantage on checks made to uncover the perpetrators of such wrongs.</p>
 </div>
+
+<hr>
+fn1. [[Session 8: The Dark Shrine | Session 8: The Dark Shrine]]
+
+fn2. [[Session 9: Downtime 2 | Session 9: Downtime 2]] — removal attempt and dream.
 
 <!-- GM_INFO_START -->
 Archive caretakers may attempt to return this buckler to "the relevant collection" if the party revisit the Samhain strata (see [[Osteomantic Archives | Osteomantic Archives]] GM).

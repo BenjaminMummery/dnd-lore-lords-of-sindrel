@@ -22,8 +22,12 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481299/2673663_blazingp
 Johann Georg is a [[Factor | Factor]] of [[House Beltus | House Beltus]].
 
 <!-- OP_BIO -->
-h3. Death at the [[Beltan Institute | Beltan Institute]]
+[[Factor | Factor]] of [[House Beltus | House Beltus]].
 
-Caller Johann Georg's final summoning took place at the [[Beltan Institute | Beltan Institute]], [[House Beltus | House Beltus]]'s official centre for regulated summoning and pact-work. The demon's escape was therefore not a private magical mishap, but a disaster inside one of Beltus's most prestigious institutions.
+* *14th Ostory, year 4218 ([[The Soulwind Calendar | SC]])*[1]
+** A sabotaged summoning at the [[Beltan Institute | Beltan Institute]] went badly wrong; the demon broke free of the summoning circle and possessed him.
+** Under its influence, ran amok through the Institute's portrait-lined halls, defacing portraits and precious items before his heart gave out.
+** The page of his newly purchased grimoire showing the summoning circle for a succubus was found vandalised.
 
-After possessing Georg, the demon drove him through the Institute's portrait-lined halls, defacing portraits and precious items before Georg's heart finally gave out.
+<hr>
+fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]] — Hexine Circle briefing on the sabotage campaign.
