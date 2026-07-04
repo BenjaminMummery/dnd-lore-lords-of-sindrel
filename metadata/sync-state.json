@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-07-03T12:04:09Z",
+  "last_git_publish": "2026-07-03T12:15:16Z",
   "last_portal_pull": "2026-07-02T20:16:23Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -177,9 +177,9 @@
       "op_id": "1451da32e40b44d7af4b2f6c9e4d1a39",
       "op_kind": "Wiki",
       "op_slug": "the-shadows-vestment",
-      "op_updated_at": "2026-07-02T15:57:35Z",
-      "repo_blob_sha": "3468ad960ffef953f125513a614a7576c3bde8c0",
-      "repo_hash_at_sync": "1ca62fe1f0e27f6fcbf00185a0b939b395477bd26486192955788584019338d6",
+      "op_updated_at": "2026-07-03T12:15:12Z",
+      "repo_blob_sha": "0f9a20ee97f4af916a5ab0cc641ffe8bca7b5ca3",
+      "repo_hash_at_sync": "1c8591c3f5992f54a45fbe7e400d9b549c9a5cdb04a44c8847bfa6aac29e9c94",
       "repo_path": "lore/wiki/wiki/the-shadow-s-vestment.textile"
     },
     "17581080547b4499b9490d9c22bbe3c7": {
@@ -238,7 +238,7 @@
       "op_kind": "Wiki",
       "op_slug": "the-thaumocracy-of-tellerin",
       "op_updated_at": "2026-07-03T12:04:06Z",
-      "repo_blob_sha": "f3e1389de59d0e65cbd3bae899b1e0b65fe32de5",
+      "repo_blob_sha": "0512fd07d72bb500511eaa3813f131f6e2227bab",
       "repo_hash_at_sync": "d8724d054305c50d003b95f568bd0d7f958893c35f645521bddbddd6d2513ec2",
       "repo_path": "lore/wiki/wiki/the-thaumocracy-of-tellerin.textile"
     },
@@ -327,9 +327,9 @@
       "op_id": "2230d333f56b4004bb89d6ea5c2cb710",
       "op_kind": "Wiki",
       "op_slug": "the-shapers-hands",
-      "op_updated_at": "2026-07-02T15:57:37Z",
-      "repo_blob_sha": "251f8626d4b422e7eb25a6d0028e06e3d21cb3b4",
-      "repo_hash_at_sync": "c2f49e8b679555e8946b26be0ce6d82e9d4f8d0ad283058a467cafa47bfcac62",
+      "op_updated_at": "2026-07-03T12:15:14Z",
+      "repo_blob_sha": "b453297e83055bfd0e783b9fa773ba5cd47de8fc",
+      "repo_hash_at_sync": "857b35dd2ac1f6add9fd03be76bf46751d65e510c587b7658dc407fe53711f36",
       "repo_path": "lore/wiki/wiki/the-shaper-s-hands.textile"
     },
     "2331248c506f45219ef1eb541a19a750": {
@@ -477,9 +477,9 @@
       "op_id": "332a5b69220d4e359890169765108480",
       "op_kind": "Wiki",
       "op_slug": "cel-s",
-      "op_updated_at": "2026-07-01T21:22:34Z",
-      "repo_blob_sha": "c707dd75f4a91b02be8ec054708160341488957a",
-      "repo_hash_at_sync": "d95c74bd5677e5f47463b5a2d2ae5275df15e4b21b53b7eeab8d3804a835ea44",
+      "op_updated_at": "2026-07-03T12:14:46Z",
+      "repo_blob_sha": "3834cd41dab2caa391a7866cc465e01fd54c4c0b",
+      "repo_hash_at_sync": "d29e9acbc96dd66d79f79cfafd5430e218b4c185961ddfed8eda069cdda95bc7",
       "repo_path": "lore/wiki/wiki/cel-s.textile"
     },
     "33f4c3b14f8741a4932389bd489b11c2": {
@@ -667,9 +667,9 @@
       "op_id": "55a496d64bfa4a7589f23affa1fd3064",
       "op_kind": "Wiki",
       "op_slug": "items",
-      "op_updated_at": "2026-07-03T12:03:34Z",
-      "repo_blob_sha": "fd22df4160ac00a13e9863296396ff246fb3367a",
-      "repo_hash_at_sync": "0adb38295bcc0255bf740be6b0d240bab1cde235a64be7fcbab2f8f31c76c1f1",
+      "op_updated_at": "2026-07-03T12:14:52Z",
+      "repo_blob_sha": "1083b931941d5f14c2be0e1efe2b352ea15929b4",
+      "repo_hash_at_sync": "bfb1ea0c32b23c2db5e77ce4727053586b93578a85645a20f279125894ef39c9",
       "repo_path": "lore/wiki/wiki/items.textile"
     },
     "561a2ff21c324eeaacac0753f504bfa2": {
@@ -687,9 +687,9 @@
       "op_id": "5796d18c10aa41748e78215a36610a2e",
       "op_kind": "Wiki",
       "op_slug": "the-crown-of-shadows",
-      "op_updated_at": "2026-07-02T15:57:19Z",
-      "repo_blob_sha": "345cda9e3447f7dbabab598ff9e026dba7d95841",
-      "repo_hash_at_sync": "aed1c0473f5a7915413b74f1f6f87d1207fbff63a511baf1b347cec6e09e33e1",
+      "op_updated_at": "2026-07-03T12:15:06Z",
+      "repo_blob_sha": "850578398dfe967dd5195b3d3f46590db43aeb2d",
+      "repo_hash_at_sync": "57bca4a29fb40a7c24fc82b4c44ab8cf5a23e7931bf0bb6fef320106fce63334",
       "repo_path": "lore/wiki/wiki/the-crown-of-shadows.textile"
     },
     "58885555988044d8ada5ebbf18e1bcb3": {
@@ -837,9 +837,9 @@
       "op_id": "65fe644e7b0e4ed0ac5a4469601a8f73",
       "op_kind": "Wiki",
       "op_slug": "gladius",
-      "op_updated_at": "2026-07-02T15:57:27Z",
-      "repo_blob_sha": "f3562a3ad4b0e072c1eea82bb362d8cb02fa5176",
-      "repo_hash_at_sync": "0c94441c2a50aa87896c7bcd3adf2d258f9311819736635c20cc110f7b5502a9",
+      "op_updated_at": "2026-07-03T12:15:09Z",
+      "repo_blob_sha": "b571057282190c0ba882d59724e0500d632e2788",
+      "repo_hash_at_sync": "29876794f7d63b45b66f964c6f2021654bebcce689ced2dbe72f42d3b642e87d",
       "repo_path": "lore/wiki/wiki/the-gladius.textile"
     },
     "67eba7e39ae04122816cdeebeeb61d45": {
@@ -1017,9 +1017,9 @@
       "op_id": "79eeb800243548f1842060e3b561b51a",
       "op_kind": "Wiki",
       "op_slug": "swordbreaker",
-      "op_updated_at": "2026-07-01T21:22:34Z",
-      "repo_blob_sha": "373b0cefd7a168e617f3ba39db94a36e04ce5f36",
-      "repo_hash_at_sync": "b1ffb71a3839ade8457b2d94766dd4da9048ab304d136134981ed38668fd3b4c",
+      "op_updated_at": "2026-07-03T12:15:01Z",
+      "repo_blob_sha": "c50473163bff3b58ab56f99372df4ed570645490",
+      "repo_hash_at_sync": "d6c5fd6e3674a6e7c3d1a4f93312783d723fd71cd2014ddb33d4e33d6b9755ea",
       "repo_path": "lore/wiki/wiki/swordbreaker.textile"
     },
     "7cf12b84564c445d8675e08194aad0d7": {
@@ -1057,9 +1057,9 @@
       "op_id": "81a1978b34424c498d06a44d2789cae5",
       "op_kind": "Wiki",
       "op_slug": "the-amulet-of-stars",
-      "op_updated_at": "2026-07-03T12:03:51Z",
-      "repo_blob_sha": "73f7dcb64d324ba4ab6ab93f0f0ab7684d77551d",
-      "repo_hash_at_sync": "481a1ea68d2eedafbff9cb6b436c2c1cdf3dae09e3ca33803aa224bbf2a5d8b8",
+      "op_updated_at": "2026-07-03T12:15:04Z",
+      "repo_blob_sha": "5018eb0b3f117b793fe14f33282ad002811ff38c",
+      "repo_hash_at_sync": "c0ec47cca86ea05fd474e1c2ab91da22e66100db09d77ec837769540f53daffc",
       "repo_path": "lore/wiki/wiki/the-amulet-of-stars.textile"
     },
     "8341c21d83f044fe8782f4d9656fc711": {
