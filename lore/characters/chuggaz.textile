@@ -7,7 +7,7 @@ name: Chugan "Chuggaz" Velm
 title: Chugan "Chuggaz" Velm
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/chuggaz
 op_created_at: '2026-06-25T19:54:55Z'
-op_updated_at: '2026-06-29T14:03:07Z'
+op_updated_at: '2026-07-04T11:29:51Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -24,9 +24,8 @@ You see a stocky dragonborn man with bronze scales and a broad-shouldered, work-
 
 According to [[:nort | Nort]], he is rumoured to be connected to [[The Black Cats | the Black Cats]].
 
-*31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* On duty at [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] questioned staff about the bombing.
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** On duty at [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] questioned staff about the bombing.
 
 <!-- GM_INFO_START -->
 h2. Black Cats link

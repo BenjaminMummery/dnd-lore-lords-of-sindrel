@@ -7,7 +7,7 @@ name: The Gonne
 title: The Gonne
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-gonne
 op_created_at: '2026-07-02T15:57:29Z'
-op_updated_at: '2026-07-02T15:57:29Z'
+op_updated_at: '2026-07-04T12:17:10Z'
 op_gm_only: false
 tags:
 - item
@@ -17,6 +17,8 @@ tags:
 An [[Anathemists | Anathemist]] arquebus used on the [[The Mage Road | Mage Road]] ambush. It is mundane — clockwork, flint, and gunpowder, not sorcery — and shares its explosive family with the devices found beneath [[The Fulcrum | the Fulcrum]].
 
 **Current holder:** [[:commander-wake | the Anathemist Commander]] (at large).
+
+<!-- GM_INFO_START -->
 
 <div class="stat-block">
 <h3>The Gonne</h3>
@@ -29,3 +31,4 @@ An [[Anathemists | Anathemist]] arquebus used on the [[The Mage Road | Mage Road
 <p><strong>Overpressured round.</strong> Ammunition for this weapon is scarce and specially prepared. When you hit with an attack using this weapon, roll the damage dice twice and use either total.</p>
 <p><strong>Reload.</strong> After you fire, you must take an action to reload before you can fire again.</p>
 </div>
+<!-- GM_INFO_END -->

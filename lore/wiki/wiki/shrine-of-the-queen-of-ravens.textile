@@ -7,7 +7,7 @@ name: Shrine of the Queen of Ravens
 title: Shrine of the Queen of Ravens
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/shrine-of-the-queen-of-ravens
 op_created_at: '2026-06-26T21:28:08Z'
-op_updated_at: '2026-07-02T15:57:41Z'
+op_updated_at: '2026-07-04T12:05:57Z'
 op_gm_only: false
 tags:
 - location
@@ -19,7 +19,8 @@ The party entered via a door blocked by tree roots and blood moss. Within they f
 
 [[:ayr | Ayr]] took an elaborate buckler from the lead corpse's wrist — [[The Unanswered Cry | The Unanswered Cry]] — and could not remove it.
 
-fn1. [[Session 8: The Dark Shrine | Session 8: The Dark Shrine]] — discovered while lost in the outward catacombs.
+<hr>
+fn1. [[Session 8: The Dark Shrine | Session 8: The Dark Shrine]]
 
 <!-- GM_INFO_START -->
 h2. Location

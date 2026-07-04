@@ -7,7 +7,7 @@ name: Journeyman Galoras
 title: Journeyman Galoras
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/journeyman-galoras
 op_created_at: '2026-01-27T21:17:56Z'
-op_updated_at: '2026-07-01T11:03:51Z'
+op_updated_at: '2026-07-04T11:14:42Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -23,14 +23,11 @@ You see a kenku with a compact, quick-fingered build, their plumage ink-blue fro
 <!-- OP_BIO -->
 [[Factor | Factor]] of [[House Mabon | House Mabon]].
 
-*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* Joined the [[Hexine Circle | Hexine Circle]] convened in the morning after the Anathemist leak was discovered.
-* Briefed [[:ayr | Ayr]] on months of suspicious "incidents" around the city during the house interviews that followed immediately; commissioned [[The Gentleman's Greeting | The Gentleman's Greeting]] at Ayr's request and gifted a small self-rotating device.
-
-*30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* Delivered the finished blade to [[:ayr | Ayr]] at [[Radwasp House | Radwasp House]].
+* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Joined the [[Hexine Circle | Hexine Circle]] convened in the morning after the Anathemist leak was discovered.
+** Briefed [[:ayr | Ayr]] on months of suspicious "incidents" around the city during the house interviews that followed immediately; commissioned [[The Gentleman's Greeting | The Gentleman's Greeting]] at Ayr's request and gifted a small self-rotating device.
+* *30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Delivered the finished blade to [[:ayr | Ayr]] at [[Radwasp House | Radwasp House]].
 
 <!-- GM_INFO_START -->
 h2. Spies lead

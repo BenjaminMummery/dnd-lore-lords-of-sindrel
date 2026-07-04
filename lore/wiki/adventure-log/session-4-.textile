@@ -7,9 +7,10 @@ name: 'Session 4: Sindrel!'
 title: 'Session 4: Sindrel!'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-4-
 op_created_at: '2026-01-27T13:36:39Z'
-op_updated_at: '2026-07-01T21:22:30Z'
+op_updated_at: '2026-07-04T11:57:29Z'
 op_gm_only: false
 tags: []
+post_title: 'Session 4: Sindrel!'
 post_tagline: A Shining City on a Cliff...
 post_time: '2026-01-27T11:30:00Z'
 ---
@@ -53,6 +54,7 @@ The soldiers are tense, clearly expecting a fight, but as they survey the situat
 Having seen the explosion of [[:wilrin-racenglade | Wilrin]]'s wildmagic image, [[:hielaman | Captain Hielaman]] and a force of [[House Meness | House Meness]] soldiers arrived to take charge of the situation. While discussing they were taking stock of the situation, [[:pin | Pin]] slew the wounded horse. [[:nakoma-deathwalker-mor-got-ha |Deathwalker]] handed [[:sebastian-warwick | Sebastian]]'s report over to [[:hielaman | Captain Hielaman]], who was visibly pleased that it had not been opened.
 
 During the journey, [[:hielaman | Hielaman]] suggested [[The Pointed Hat | The Pointed Hat]] as a place to stay. [[:nakoma-deathwalker-mor-got-ha | DW]] attempted to engage one of the soldiers in a discussion of necromancy, but was coldly rebuffed.
+
 h2. Arrival at [[Sindrel | Sindrel]].
 
 _Afternoon of the 26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
@@ -74,6 +76,7 @@ h2. Downtime
 _Daytime through evening of the 28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
 
 [[File:1549016  | class=media-item-align-right | 200px | greebo-kidby-lrg.webp]]
+
 h3. [[:amanira | Amanira]]
 
 Having wildshaped into a cat, [[:amanira | Amanira]] sought for signs of other druids. While there were some minimal indications, nothing stood out as recent.

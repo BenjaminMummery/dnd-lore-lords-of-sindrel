@@ -7,7 +7,7 @@ name: The Plague Doctor
 title: The Plague Doctor
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/embren-oestra
 op_created_at: '2025-11-26T18:31:11Z'
-op_updated_at: '2026-07-01T13:04:27Z'
+op_updated_at: '2026-07-04T11:21:18Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -19,19 +19,15 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7441221/embren.jpg
 You see a tall, gaunt figure of indeterminate ancestry beneath a wide-brimmed hat and a hooked-beak plague mask — waxed black robes layered over leather, long gloves, and a walking cane. They walk slowly but with purpose. They speak in a breathless rasp, as though each sentence cost more air than they possess.
 
 <!-- OP_BIO -->
-
 *25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* Encountered in [[Fallowhurst | Fallowhurst]] village in plague-doctor garb; examined [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s arrow wounds and directed the party toward the estate, then entered the manor without further conversation.
-
-*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* Seen in the [[Osteomantic Archives | catacombs]] during the funeral chaos — a vision that sent archive staff fleeing when [[The Adventurers | the Wonch]] disturbed [[:micycle-smynth | Micycle Smynth]]'s rite.
+** Encountered in [[Fallowhurst | Fallowhurst]] village in plague-doctor garb; examined [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s arrow wounds and directed the party toward the estate, then entered the manor without further conversation.
 
 <!-- GM_INFO_START -->
+
 h2. True identity
 
 Embren Oestra — [[House Oestra | House Oestra]] scion, undead, masked cover.
+
 
 h2. Stat block
 

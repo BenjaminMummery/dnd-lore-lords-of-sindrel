@@ -7,7 +7,7 @@ name: Temperance Halke
 title: Temperance Halke
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/temperance-halke
 op_created_at: '2026-06-28T00:10:21Z'
-op_updated_at: '2026-06-29T14:19:23Z'
+op_updated_at: '2026-07-04T11:29:19Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -19,9 +19,8 @@ tags:
 You see a broad-shouldered human woman with deep brown skin and a sturdy, porter's build, her greying hair cropped for work under a plain head-wrap. She wears black [[Osteomantic Archives | archive]] robes over [[House Grimbolg | Grimbolg]]-practical layers: moss-green wool sleeves and heavy boots — house influence showing in the workwear beneath the mortuary black. She presents as unflappable labour, focused on the task. She speaks in few words, directed at colleagues rather than visitors.
 
 <!-- OP_BIO -->
-*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* Present at the funeral of [[:micycle-smynth | Micycle Smynth]]. One of the two archive staff [[:rossin-ros-greyhirst | Ros]] spotted in dark robes during the service. Temperance and [[:seelie-ophelan | Seelie Ophelan]] collected [[:micycle-smynth | Micycle]]'s remains after the cold flame stripped the flesh and carried them toward the room where [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and [[:amanira | Amanira]] were exploring — narrowly avoided when the party fled.
+* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Present at the funeral of [[:micycle-smynth | Micycle Smynth]]. One of the two archive staff [[:rossin-ros-greyhirst | Ros]] spotted in dark robes during the service. Temperance and [[:seelie-ophelan | Seelie Ophelan]] collected [[:micycle-smynth | Micycle]]'s remains after the cold flame stripped the flesh and carried them toward the room where [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and [[:amanira | Amanira]] were exploring — narrowly avoided when the party fled.
 
 <!-- GM_INFO_START -->
 h2. True role

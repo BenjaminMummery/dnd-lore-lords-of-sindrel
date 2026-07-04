@@ -7,7 +7,7 @@ name: Osteomantic Archives
 title: Osteomantic Archives
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/osteomantic-archives
 op_created_at: '2026-01-27T15:24:42Z'
-op_updated_at: '2026-07-01T17:08:05Z'
+op_updated_at: '2026-07-04T11:50:38Z'
 op_gm_only: false
 tags:
 - location
@@ -125,9 +125,12 @@ Only after a moment does the full extent of the decoration become apparent. The 
 <br>
 Each alcove bears a small plaque naming the deceased. The remainder of each skeleton is carefully arranged around the skull in a compact display.
 
-fn1. [[Session 7: Into The Catacombs | Session 7: Into The Catacombs]] — Hall of Dragons, Hall of Sages, Hall of Aberrations.
-fn2. [[Session 8: The Dark Shrine | Session 8: The Dark Shrine]] — Hall of the Founders, Seven Day War diorama, Queen of Ravens shrine.
-fn3. [[Session 4: Sindrel! | Session 4: Sindrel!]] — Pin's sigil shop hunt ([[The Fallowhurst Sigil | Fallowhurst]], not witness-weapon inscriptions).
+<hr>
+fn1. [[Session 7: Into The Catacombs | Session 7: Into The Catacombs]]
+
+fn2. [[Session 8: The Dark Shrine | Session 8: The Dark Shrine]]
+
+fn3. [[Session 4: Sindrel! | Session 4: Sindrel!]]
 
 <!-- GM_INFO_START -->
 This system was set up by [[The Eighth House | Samhain]], but she didn't see fit to share the knowledge with her compatriots. The labyrinthine nature of the catacombs has successfully obscured this fact from all but the highest level curators.

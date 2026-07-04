@@ -7,13 +7,13 @@ name: Serjeant Eirik Tryke
 title: Serjeant Eirik Tryke
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/serjeant-eirik-tryke
 op_created_at: '2026-06-25T17:09:12Z'
-op_updated_at: '2026-06-25T17:09:12Z'
+op_updated_at: '2026-07-04T11:12:37Z'
 op_gm_only: false
 is_player_character: false
 tags:
-- he/him
 - House Meness
 - Adjutant
+- he/him
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -22,10 +22,9 @@ A half-elf man with fair skin and a medium, soldier's build, his sandy hair kept
 <!-- OP_BIO -->
 [[Adjutant | Adjutant]] of [[House Meness | House Meness]]; guards hidden service access to [[The Fulcrum | The Fulcrum]].
 
-*31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-- Recognised [[The Adventurers | the Wonch]] as [[Hexine Circle | Hexine Circle]] investigators and led them into the service tunnels.
-- Showed the northwest foundation blast site and explained that twelve devices, correctly placed, might have brought the tower down.
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Recognised [[The Adventurers | the Wonch]] as [[Hexine Circle | Hexine Circle]] investigators and led them into the service tunnels.
+** Showed the northwest foundation blast site and explained that twelve devices, correctly placed, might have brought the tower down.
 
 <!-- GM_INFO_START -->
 h2. Prep

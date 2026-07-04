@@ -7,7 +7,7 @@ name: Cedric
 title: Cedric
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/cedric
 op_created_at: '2026-06-01T16:48:14Z'
-op_updated_at: '2026-06-01T16:48:14Z'
+op_updated_at: '2026-07-04T11:18:37Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -22,14 +22,11 @@ You see a human man with light brown skin and a lean, precise build, his black h
 <!-- OP_BIO -->
 [[Adjutant | Adjutant]] of [[House Lithra | House Lithra]]; butler of [[Radwasp House | Radwasp House]], the [[Hexine Circle | Hexine Circle]] townhouse in upper [[Sindrel | Sindrel]].
 
-*30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* Received [[The Adventurers | the Wonch]] after [[:commander-locke | Prefect Locke]] directed them to Radwasp House.
-
-*31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* Summoned before dawn. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s knock sent [[:wilrin-racenglade | Wilrin]]'s door flying; Wilrin's firebolt and Deathwalker's Chill Touch left door and curtains badly singed — Cedric was extremely consternated.
-* Built a like-for-like miniature of the townhouse for [[:razorbeak | Razorbeak]].
+* *30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Received [[The Adventurers | the Wonch]] after [[:commander-locke | Prefect Locke]] directed them to Radwasp House.
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Summoned before dawn. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s knock sent [[:wilrin-racenglade | Wilrin]]'s door flying; Wilrin's firebolt and Deathwalker's Chill Touch left door and curtains badly singed — Cedric was extremely consternated.
+** Built a like-for-like miniature of the townhouse for [[:razorbeak | the Chicken]].
 
 <!-- GM_INFO_START -->
 h2. True role

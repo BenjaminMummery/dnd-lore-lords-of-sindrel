@@ -7,7 +7,9 @@ name: Ditchquer
 title: Ditchquer
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/ditchquer
 op_created_at: '2026-02-01T21:43:08Z'
-op_updated_at: '2026-02-01T21:43:08Z'
+op_updated_at: '2026-07-04T11:36:17Z'
 op_gm_only: false
 tags: []
 ---
+
+A sport played in Sindrel. Ditchquer is a big enough deal that the tournament closing ceremony is held at [[The Fulcrum | The Fulcrum]],

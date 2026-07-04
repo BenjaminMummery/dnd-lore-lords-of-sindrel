@@ -7,7 +7,7 @@ name: Pads-Silently
 title: Pads-Silently
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/pads-silently
 op_created_at: '2026-05-22T10:22:28Z'
-op_updated_at: '2026-05-27T15:22:39Z'
+op_updated_at: '2026-07-04T11:27:21Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -21,6 +21,5 @@ You see a compact black cat with white socks and amber eyes — soft-footed, wat
 <!-- OP_BIO -->
 Part of the informal network known to [[:amanira | Amanira]] as the City Cats.
 
-*31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-- At [[Radwasp House | Radwasp House]], sought out [[:pads-silently | Pads-Silently]] when the party failed to heed a warning about [[:tama | the giant stoat]] (early morning).
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** At [[Radwasp House | Radwasp House]], sought out [[:amanira | Amanira]] when the party failed to heed a [[:hunts-by-night | Hunts-By-Night]]'s attempted warning about [[:tama | the giant stoat]] (early morning).

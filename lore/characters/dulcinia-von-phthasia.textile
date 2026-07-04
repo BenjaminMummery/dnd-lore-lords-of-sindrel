@@ -7,7 +7,7 @@ name: Dulcinia von Phthasia
 title: Dulcinia von Phthasia
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/dulcinia-von-phthasia
 op_created_at: '2025-12-09T19:58:39Z'
-op_updated_at: '2026-07-01T17:07:27Z'
+op_updated_at: '2026-07-04T11:23:54Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -21,9 +21,12 @@ Dulcinea is a slim, pallid young woman with dark hair. Her illness would be evid
 Her illness has prevented her from any form of travelling or outdoors activities for much of her life, and her sedentary existence has left her desperately bored. She lives vicariously through the tales of other people's exploits, and makes little distinction between the fictional characters in her books and real people.
 
 <!-- OP_BIO -->
-* *10th Enean 4218 [[The Soulwind Calendar | SC]]*: Accompanied by her bodyguard [[:pthul | Pthul]], Dulcinia departs the von Phthasia estate in [[Soulwind | Soulwind]] with the goal of travelling to [[Sindrel | Sindrel]] to seek a magical cure for her ailment. The going is slow due to Dulcinia's ill health and the large amount of gold and jewels they are transporting.
-* *24th Enean 4218 SC*: After a rag-tag group of adventurers recover her purse from some ruffians, Dulcinea invites them to share her table and listens in rapt attention to their stories.
-* *25th Enean 4218 SC*: Pthul and Dulcinia's coach is ambushed by [[Anathemists | Anathemists]].
+* *10th Enean 4218 [[The Soulwind Calendar | SC]]*
+** Accompanied by her bodyguard [[:pthul | Pthul]], Dulcinia departs the von Phthasia estate in [[Soulwind | Soulwind]] with the goal of travelling to [[Sindrel | Sindrel]] to seek a magical cure for her ailment. The going is slow due to Dulcinia's ill health and the large amount of gold and jewels they are transporting.
+* *24th Enean 4218 SC*
+** After a rag-tag group of adventurers recover her purse from some ruffians, Dulcinea invites them to share her table and listens in rapt attention to their stories.
+* *25th Enean 4218 SC*
+** Pthul and Dulcinia's coach is ambushed by [[Anathemists | Anathemists]].
 
 <!-- GM_INFO_START -->
 <div class="stat-block">

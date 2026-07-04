@@ -7,8 +7,8 @@ name: D'gara
 title: D'gara
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/dogara
 op_created_at: '2026-02-18T14:22:56Z'
-op_updated_at: '2026-02-18T16:57:04Z'
-op_gm_only: true
+op_updated_at: '2026-07-04T11:31:07Z'
+op_gm_only: false
 is_player_character: false
 tags:
 - House Grimbolg
@@ -22,3 +22,4 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481291/fefc0b5fafbd39ba
 
 
 <!-- OP_BIO -->
+Killed during Anathemist sabotage

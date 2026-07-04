@@ -7,13 +7,13 @@ name: The Black Cats
 title: The Black Cats
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-black-cats
 op_created_at: '2026-03-10T20:49:39Z'
-op_updated_at: '2026-07-02T15:57:18Z'
+op_updated_at: '2026-07-04T12:14:32Z'
 op_gm_only: false
 tags:
 - Organisation
 ---
 
-Organised crime in [[Sindrel | Sindrel]], concentrated in [[The Wallarch District | the Wallarch district]]. The name is branding - the organisation is human (and the usual assortment of corrupt adjutants), not felines.
+Organised crime in [[Sindrel | Sindrel]], concentrated in [[The Wallarch District | the Wallarch district]].
 
 [[:hielaman | Captain Hielaman]] of [[House Meness | House Meness]] treats them as the city's principal criminal syndicate and advised [[The Adventurers | the Wonch]] to lean on low-level operatives rather than assault leadership directly.
 
@@ -23,7 +23,14 @@ h2. Known leads
 * [[The Cutthroat's Repose | The Cutthroat's Repose]] - back room; password "Swordfish"; Emerich's superior operates from here.
 * [[:chuggaz | Chugan "Chuggaz" Velm]] - [[The Fulcrum | Fulcrum]] servant; rumoured links (see [[The Investigation | The Investigation]]).
 
-fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]] — [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] gambled with [[:emerich-surefoot | Emerich Surefoot]].
+h2. Interactions with the Wonch
+
+* Deathwalker gambled with Emerich and a few others, flashing a large amount of cash and winning information about the quarantine zone.[1]
+* On their entrance to Wallarch, the wonch noticed Emerich watching them and gave chase.[2] 
+
+<hr>
+fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
+
 fn2. [[Session 6: Wallarch | Session 6: Wallarch]] — Wallarch chase; Emerich assaulted.
 
 <!-- GM_INFO_START -->

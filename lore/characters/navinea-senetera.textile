@@ -7,13 +7,13 @@ name: Navinea Senetera
 title: Navinea Senetera
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/navinea-senetera
 op_created_at: '2026-01-27T21:14:29Z'
-op_updated_at: '2026-06-25T22:39:51Z'
+op_updated_at: '2026-07-04T11:30:38Z'
 op_gm_only: false
 is_player_character: false
 tags:
-- she/her
 - House Grimbolg
 - Factor
+- she/her
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481335/5ff2734b2cc3bb611c0b4aa073e0acd1.jpg
 ---
 
@@ -25,19 +25,14 @@ Navinea is an enormous earth genasi woman whose skin is the colour of weathered 
 
 She is concerned with system failure, entropy, and [[Sindrel | Sindrel]]'s resource vulnerability.
 
-*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* Joined the [[Hexine Circle | Hexine Circle]] convened in the morning after the Anathemist leak was discovered.
-* Discussed city ecology at length with [[:rossin-ros-greyhirst | Ros]] during the Wonch's house interviews immediately afterward.
-
-*30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* Wrote to [[:rossin-ros-greyhirst | Ros]] inviting her to the Amalthean to meet leading transmuters.
-
-*31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* Hosted the Wonch at The Amalthean where she continued her discussion with Ros and explained the mechanism of D'gara's death.
-* [[:pin | Pin]] noticed she assumed [[Anathemists | Anathemist]] cascade-failure sabotage without proof — an assumption, not a demonstrated fact.
+* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Joined the [[Hexine Circle | Hexine Circle]] convened in the morning after the Anathemist leak was discovered.
+** Discussed city ecology at length with [[:rossin-ros-greyhirst | Ros]] during the Wonch's house interviews immediately afterward.
+* *30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Wrote to [[:rossin-ros-greyhirst | Ros]] inviting her to the Amalthean to meet leading transmuters.
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Hosted the Wonch at The Amalthean where she continued her discussion with Ros and explained the mechanism of D'gara's death.
+** [[:pin | Pin]] noticed she assumed [[Anathemists | Anathemist]] cascade-failure sabotage without proof — an assumption, not a demonstrated fact.
 
 <!-- GM_INFO_START -->
 h2. Spies lead

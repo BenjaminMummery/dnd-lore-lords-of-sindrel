@@ -7,9 +7,10 @@ name: 'Session 3: "Graduation"'
 title: 'Session 3: "Graduation"'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-3-
 op_created_at: '2026-01-21T14:05:29Z'
-op_updated_at: '2026-07-01T11:04:20Z'
+op_updated_at: '2026-07-04T11:55:48Z'
 op_gm_only: false
 tags: []
+post_title: 'Session 3: "Graduation"'
 post_tagline: School is Hell...
 post_time: '2026-01-21T18:00:00Z'
 ---
@@ -129,11 +130,11 @@ Figures appeared on the road ahead: five soldiers on horseback. [[Anathemists | 
 
 [[:silrie-aegiskiir | Silrie]] misty-stepped onto the rear of the fleeing rider's horse, grabbed him, and pulled him from the saddle before he had time to object to the occupancy of his personal space. [[:amanira | Amanira]] melted into the roadside cover.
 
-The remaining patrol closed. [[:wilrin-racenglade | Wilrin]] cast a spell; wild magic spawned a smaller echo of himself that hurled toward the nearest soldier. [[:rossin-ros-greyhirst | Ros]] spoke to two of the horses and persuaded them that their riders were poor career choices; one hoofed its soldier and bolted. [[:pin | Pin]] brought down another by targeting the mount. [[:amanira | Amanira]] stepped from cover to attack.
+The remaining patrol closed. [[:wilrin-racenglade | Wilrin]] cast a spell; wild magic spawned a smaller echo of himself that hurled toward the nearest soldier. [[:rossin-ros-greyhirst | Ros]] spoke to two of the horses and persuaded them that their riders were poor career choices; one hoofed its soldier and bolted. [[:pin | Pin]] brought down another by targeting the mount, dispatching the winded soldier with a single swing of [[Hesh | Hesh]]. [[:amanira | Amanira]] stepped from cover to attack.
 
 The wild-magic echo locked onto a soldier who countered it with a spell of his own, sprouting tiny wings from its ankles and launching it skyward moments before it exploded like a firework. [[:silrie-aegiskiir | Silrie]], returning to the fray, arrived in time to admire the display.
 
-Two [[Anathemists | Anathemists]] remained in the party's hands. What to do with them was a question for another moment.
+One [[Anathemists | Anathemist]] remained in the party's hands. What to do with them was a question for another moment.
 
 <!-- GM_INFO_START -->
 * Sigil binding and the Wilrin / Deathwalker damage link: see [[The Fallowhurst Sigil | The Fallowhurst Sigil]] wiki (GM).

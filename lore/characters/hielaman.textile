@@ -7,7 +7,7 @@ name: Captain Hielaman
 title: Captain Hielaman
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/hielaman
 op_created_at: '2026-01-27T11:33:21Z'
-op_updated_at: '2026-07-01T21:22:25Z'
+op_updated_at: '2026-07-04T11:11:49Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -29,19 +29,16 @@ h3. Key Items
 <!-- OP_BIO -->
 Hielaman is a [[Factor | Factor]] of [[House Meness | House Meness]]. He fulfills a role similar to 'captain of the guard'.
 
-*26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+* *26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** An explosion was observed on the plane outside [[Sindrel | Sindrel]]. Hielaman and his squad were dispatched via portal to investigate.
+** On arrival, they encountered the aftermath of [[The Adventurers | The Neighbourhood Wonch]]'s conflict with a small force of [[Anathemists | Anathemists]].
+** Hielaman took custody of the surviving [[:arise-to-victory-over-the-infidel-hoards | Anathemist Lieutenant]], received the [[Private Warwick's Report | report]] of [[:sebastian-warwick | Private Sebastian Warwick]], and escorted [[The Adventurers | the Wonch]] back to [[Sindrel | Sindrel]].
 
-* An explosion was observed on the plane outside [[Sindrel | Sindrel]]. Hielaman and his squad were dispatched via portal to investigate.
-* On arrival, they encountered the aftermath of [[The Adventurers | The Neighbourhood Wonch]]'s conflict with a small force of [[Anathemists | Anathemists]].
-* Hielaman took custody of the surviving [[:arise-to-victory-over-the-infidel-hoards | Anathemist Lieutenant]], received the [[Private Warwick's Report | report]] of [[:sebastian-warwick | Private Sebastian Warwick]], and escorted [[The Adventurers | the Wonch]] back to [[Sindrel | Sindrel]].
+* *28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Encountering [[:pin | Pin]] in a bar, Hielaman entered into a heated discussion of the performance of his favoured Diechquer team - The Griffon's Talons. This discussion devolved rapidly, and Hieleman and Pin parted on acrimonious terms, the former receiving a split lip to match the latter's black eye.
 
-*28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* Encountering [[:pin | Pin]] in a bar, Hielaman entered into a heated discussion of the performance of his favoured Diechquer team - The Griffon's Talons. This discussion devolved rapidly, and Hieleman and Pin parted on acrimonious terms, the former receiving a split lip to match the latter's black eye.
-
-*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* Hielaman's interrogation of [[:arise-to-victory-over-the-infidel-hoards | the Anathemist Lieutenant]] having revealed that the [[Anathemists | Anathemists]] have access to privileged information, a [[Hexine Circle | Hexine Circle]] is convened in the morning. Unable to reach resolution, the council enlists [[The Adventurers | the Wonch]] to root out the spies they suspect have infiltrated the city.
+* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Hielaman's interrogation of [[:arise-to-victory-over-the-infidel-hoards | the Anathemist Lieutenant]] having revealed that the [[Anathemists | Anathemists]] have access to privileged information, a [[Hexine Circle | Hexine Circle]] is convened in the morning. Unable to reach resolution, the council enlists [[The Adventurers | the Wonch]] to root out the spies they suspect have infiltrated the city.
 
 <!-- GM_INFO_START -->
 h2. Spies lead

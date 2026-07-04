@@ -7,9 +7,10 @@ name: 'Session 6: Wallarch'
 title: 'Session 6: Wallarch'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-6-wallarch
 op_created_at: '2026-03-11T17:25:06Z'
-op_updated_at: '2026-07-01T11:04:23Z'
+op_updated_at: '2026-07-04T12:02:23Z'
 op_gm_only: false
 tags: []
+post_title: 'Session 6: Wallarch'
 post_tagline: A Wretched Hive of Scum and Villainy...
 post_time: '2026-03-11T09:00:00Z'
 ---
@@ -70,5 +71,5 @@ In the side chamber, [[:nakoma-deathwalker-mor-got-ha | DW]] and [[:amanira | Am
 At the conclusion of the funeral, the [[:seelie-ophelan | two]] [[:temperance-halke | attendants]] gathered up the mortal remains of [[:micycle-smynth | Micycle]], and proceeded towards the room where [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and [[:amanira | Amanira]] were exploring.
 
 
-
+<hr>
 fn1. [[Session 4: Sindrel! | Session 4: Sindrel!]]

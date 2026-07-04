@@ -7,7 +7,7 @@ name: Nanthelia "Nans" Surn
 title: Nanthelia "Nans" Surn
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/nans
 op_created_at: '2026-06-25T19:54:09Z'
-op_updated_at: '2026-06-25T19:55:52Z'
+op_updated_at: '2026-07-04T11:16:57Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -22,9 +22,8 @@ Nans is a lean elf woman with medium-brown skin and a neat, economical build, he
 <!-- OP_BIO -->
 [[Adjutant | Adjutant]] on [[The Fulcrum | Fulcrum]] staff ([[House Beltus | House Beltus]] affiliation).
 
-*31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* On duty at [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] questioned staff about the bombing; one of three staff named as worth interviewing after the extended ceremony-night shifts.
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** On duty at [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] questioned staff about the bombing; one of three staff named as worth interviewing after the extended ceremony-night shifts.
 
 <!-- GM_INFO_START -->
 h2. Prep

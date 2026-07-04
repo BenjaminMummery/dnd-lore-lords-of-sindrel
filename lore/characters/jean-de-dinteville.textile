@@ -7,7 +7,7 @@ name: Merchant 2
 title: Merchant 2
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/jean-de-dinteville
 op_created_at: '2026-02-01T16:44:52Z'
-op_updated_at: '2026-07-01T21:22:30Z'
+op_updated_at: '2026-07-04T11:21:45Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -19,18 +19,12 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469575/Ambassadors-Dint
 You see a tall human man with fair skin and a wiry, narrow-shouldered build, his dark beard trimmed to a merchant's neatness and his hair worn shoulder-length under a fur-trimmed travelling cap. He dresses as a wealthy visitor from [[Artresh | Artresh]] — brocade doublet, wine-coloured cloak, good boots — the costume of someone who expects invitations. He presents as sociable and self-assured, a man comfortable in any dining hall. He speaks in easy, cultivated phrases, always sounding as though he is offering a favour.
 
 <!-- OP_BIO -->
-
-*24th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* Travelled with [[The Adventurers | the Wonch]] in [[Sindrel Coach | the Sindrel Coach]] from [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]] (evening departure).
-
-*25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* Continued with the party through the [[Anathemists | Anathemist]] ambush on the Deren bridge.
-
-*26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* Arrived in [[Sindrel | Sindrel]] with the group (afternoon).
+* *24th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Travelled with [[The Adventurers | the Wonch]] in [[Sindrel Coach | the Sindrel Coach]] from [[The White Dragon Coaching Inn | The White Dragon Coaching Inn]] (evening departure).
+* *25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Continued with the party through the [[Anathemists | Anathemist]] ambush on the Deren bridge.
+* *26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Arrived in [[Sindrel | Sindrel]] with the group (afternoon).
 
 <!-- GM_INFO_START -->
 Real name: Jean de Dinteville

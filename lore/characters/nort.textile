@@ -7,13 +7,13 @@ name: Nort
 title: Nort
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/nort
 op_created_at: '2026-06-25T19:52:14Z'
-op_updated_at: '2026-06-25T19:52:14Z'
+op_updated_at: '2026-07-04T11:31:33Z'
 op_gm_only: false
 is_player_character: false
 tags:
+- she/her
 - House Lithra
 - Adjutant
-- she/her
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -22,10 +22,9 @@ You see a tired young halfling woman with warm brown skin and a slight build, he
 <!-- OP_BIO -->
 [[House Lithra | House Lithra]] [[Adjutant | Adjutant]] on [[The Fulcrum | Fulcrum]] staff — quartered in [[Sevenways | Sevenways]] and used to walking the service routes beneath the tower.
 
-*31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* Woken by [[The Adventurers | the Wonch]]; given good tea by [[:amanira | Amanira]] and interviewed over breakfast.
-* Recalled a lost-looking [[:arouraios | coachman]] with a neatly trimmed beard and small, fussy glasses, bringing a carriage down near the entrance service tunnels on the night of the closing ceremony. Could not name him or his dignitary; described the carriage coat of arms as something with a bird on it.
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Woken by [[The Adventurers | the Wonch]]; given good tea by [[:amanira | Amanira]] and interviewed over breakfast.
+** Recalled a lost-looking [[:arouraios | coachman]] with a neatly trimmed beard and small, fussy glasses, bringing a carriage down near the entrance service tunnels on the night of the closing ceremony. Could not name him or his dignitary; described the carriage coat of arms as something with a bird on it.
 
 <!-- GM_INFO_START -->
 h2. Role

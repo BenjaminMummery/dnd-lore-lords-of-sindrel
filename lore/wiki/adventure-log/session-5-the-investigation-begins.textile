@@ -7,7 +7,7 @@ name: 'Session 5: The Investigation Begins'
 title: 'Session 5: The Investigation Begins'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-5-the-investigation-begins
 op_created_at: '2026-02-13T22:54:27Z'
-op_updated_at: '2026-07-02T15:57:26Z'
+op_updated_at: '2026-07-04T11:59:07Z'
 op_gm_only: false
 tags: []
 post_title: 'Session 5: The Investigation Begins'
@@ -42,7 +42,7 @@ h2. Dramatis Personae
 
 [end-accordion]
 
-Note: the current status of [[The Investigation | the investigation]] is recorded [[The Investigation | here]].
+Note: the current status of the investigation is recorded [[The Investigation | here]].
 
 h2. The [[Hexine Circle | Hexine Circle]]
 
@@ -64,7 +64,7 @@ The circle turned out to be a lesser council comprised of mid-ranking representa
     * [[:journeyman-galoras | Journeyman Galoras]] ([[House Mabon | House Mabon]])
     * [[:navinea-senetera | Navinea Senetera]] ([[House Grimbolg | House Grimbolg]])
 
-[[:emissary-halan | _Emissary Halan_]]:
+[[:emissary-halan | Emissary Halan]] began the meeting:
 
 bq). Thank you for coming. Allow me to make the introductions. I am [[:emissary-halan | Emissary Halan]] of [[House Lithra | House Lithra]]. I believe you already know [[:hielaman | Captain Hielaman]] of [[House Meness | House Meness]]. The rest of our company are [[:commander-locke | Prefect Locke]] representing [[House Oestra | House Oestra]], [[:alandria | Caller Alandria]] of [[House Beltus | House Beltus]], [[:seer-demeletas | Seer Demeletas]] of [[House Goela | House Goela]], [[:navinea-senetera | Navinea Senetera]] representing [[House Grimbolg | House Grimbolg]], and finally representing [[House Mabon | House Mabon,]] [[:journeyman-galoras | Journeyman Galoras]]. We are the [[Hexine Circle | Hexine Circle]], a council of representatives of each House convened in order to address a specific threat to our city. Convened, in fact, as a direct result of your actions.
 <br>

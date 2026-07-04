@@ -7,7 +7,7 @@ name: House Goela
 title: House Goela
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/house-goela
 op_created_at: '2026-01-03T08:35:08Z'
-op_updated_at: '2026-07-01T21:22:21Z'
+op_updated_at: '2026-07-04T11:43:46Z'
 op_gm_only: false
 tags:
 - House of Sindrel
@@ -33,7 +33,7 @@ Unlike Beltus, Goela does not dress for luxury. Unlike Mabon, it does not dress 
 
 Formal garments often use layered drapery: pale inner robes beneath darker mantles, veils over bright linings, and shawls embroidered with stars, branching paths, eclipse marks, or fragments of old predictions. The Goela glyph is usually worn at the shoulder, brow, throat, or hem, places associated with sight, speech, and burden.
 
-Masks and veils are common. Among Goela, a covered face does not necessarily hide identity; it marks distance from ordinary perception. Seers may wear translucent veils, silver eye-bands, ritual blindfolds, or smooth masks that echo their founder's [[Mask of Foreknowledge | Mask of Foreknowledge]]. Senior oracles sometimes appear with their eyes entirely hidden, forcing petitioners to wonder whether they are being seen more clearly or not at all.
+Masks and veils are common. Among Goela, a covered face does not necessarily hide identity; it marks distance from ordinary perception. Seers may wear translucent veils, silver eye-bands, ritual blindfolds, or smooth masks that echo the  [[Mask of Foreknowledge | Mask]] worn in depictions of their founder. Senior oracles sometimes appear with their eyes entirely hidden, forcing petitioners to wonder whether they are being seen more clearly or not at all.
 
 Interpreters and Factors dress more soberly, in heavy purple civic robes, annotated sashes, silver clasps, and practical winter mantles, but a Goelan in full ceremonial dress is intended to look less like a private citizen than a public instrument: a body arranged so that the future may speak through it, and so that nobody can be quite sure who is doing the speaking.
 

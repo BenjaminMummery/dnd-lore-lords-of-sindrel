@@ -7,10 +7,10 @@ name: Fallowhurst Outpost
 title: Fallowhurst Outpost
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/fallowhurst-outpost
 op_created_at: '2026-01-26T17:23:34Z'
-op_updated_at: '2026-01-26T17:23:34Z'
+op_updated_at: '2026-07-04T11:40:59Z'
 op_gm_only: false
 tags:
 - location
 ---
 
-A guardpost intended to prevent travellers from [[Sindrel | Sindrel]] accidentally entering [[Fallowhurst | Fallowhurst]]
+A guardpost intended to prevent travellers from [[Sindrel | Sindrel]] accidentally entering [[Fallowhurst | Fallowhurst]]. Construction and iconography indicate that it was originally built and garrisoned by [[House Oestra | House Oestra]] and designed for eight people, however when [[The Adventurers | The Adventurers]] arrived it was crewed only by [[:sebastian-warwick | Private Sebastian Warwick]] of [[House Meness | House Meness]] and [[:myrath | Agent Myrath]] of [[House Lithra | House Lithra]].

@@ -7,7 +7,7 @@ name: Kelferria the Smith
 title: Kelferria the Smith
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/kelferria-the-smith
 op_created_at: '2026-02-17T22:13:37Z'
-op_updated_at: '2026-07-01T11:03:52Z'
+op_updated_at: '2026-07-04T11:15:11Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -23,6 +23,5 @@ Kelferria is a fire genasi woman with copper-bronze skin and a broad, smith's bu
 <!-- OP_BIO -->
 [[Factor | Factor]] of [[House Mabon | House Mabon]] (rank: Craftsman); keeps a handful of apprentices.
 
-*30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-
-* Took [[:ayr | Ayr]]'s measurements for commissioned plate; promised a formal quote — already committed to a large order.
+* *30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Took [[:ayr | Ayr]]'s measurements for commissioned plate; promised a formal quote — already committed to a large order.

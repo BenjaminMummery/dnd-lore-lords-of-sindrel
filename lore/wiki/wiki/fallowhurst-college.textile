@@ -7,7 +7,7 @@ name: Fallowhurst College
 title: Fallowhurst College
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/fallowhurst-college
 op_created_at: '2026-01-07T14:31:54Z'
-op_updated_at: '2026-07-01T21:22:22Z'
+op_updated_at: '2026-07-04T11:38:49Z'
 op_gm_only: false
 tags:
 - location
@@ -17,7 +17,7 @@ tags:
 
 A ruined college located in [[Fallowhurst | Fallowhurst]].
 
-The Fallowhurst College of Medicinal Studies, more commonly simply styled as "[[Fallowhurst | Fallowhurst]] College" was an institution in the village of [[Fallowhurst | Fallowhurst]], half a day's travel south-west of [[Sindrel | Sindrel]]. The buildings the college occupied were originally constructed as a [[House Oestra | House Oestra]] estate before being remodelled and repurposed.
+The *Fallowhurst College of Medicinal Studies*, more commonly simply styled as Fallowhurst College was an institution in the village of [[Fallowhurst | Fallowhurst]], half a day's travel south-west of [[Sindrel | Sindrel]]. The buildings the college occupied were originally constructed as a [[House Oestra | House Oestra]] estate before being remodelled and repurposed.
 
 h2. Mysteries and Clues
 
@@ -27,7 +27,7 @@ h2. Mysteries and Clues
 
 [[File:1543100  | class=media-item-align-right | 490954184_1243446153797378_5596828094446578458_n.jpg]]
 
-fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]] — first visit; lecture hall sigil; Operating Theatre chanting.
+fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
 
 <!-- GM_INFO_START -->
 Originally the estate of [[House Oestra | House Oestra]], it was converted to a medical college at the direction of [[:embren-oestra | Embren Oestra]].

@@ -7,7 +7,7 @@ name: Prefect Locke
 title: Prefect Locke
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/commander-locke
 op_created_at: '2026-01-27T21:09:57Z'
-op_updated_at: '2026-07-01T11:03:37Z'
+op_updated_at: '2026-07-04T11:09:10Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -23,23 +23,23 @@ The Oestran representative is a half-orc with grey-green skin and a heavy, muscu
 <!-- OP_BIO -->
 [[Factor | Factor]] of [[House Oestra | House Oestra]].
 
-*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+h4. 29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])
 
-**Morning**
+h5. Morning
 * Joined the [[Hexine Circle | Hexine Circle]] convened in the morning after the Anathemist leak was discovered.
 * Advised the Wonch to check armouries and weapon shops for missing inventory; asked after any lead on who killed [[:lacerta-kirrahe | Captain Kirrahe]].
 
-**Evening**
+h5. Evening
 * Encountered the Wonch emerging from the Leageur Osteomantic Archive.
 * Under some duress, permitted them to inspect the Oestra armoury.
 * Informed them of the provisioning of [[Radwasp House | Radwasp House]], the [[Hexine Circle | Hexine Circle]]'s investigator lodging in upper [[Sindrel | Sindrel]].
 
-<!-- GM_INFO_START -->
 h2. Spies Lead
 
 bq). If they’re here, they must be planning to use their position to strike against the city. That means weapons, either smuggled in or acquired here. We should be checking out every armoury and weapon shop in the city, see if any shipments have come up short or inventory has gone missing.
 
-- Armoury or Weapon Shop.
+<!-- GM_INFO_START -->
+
 
 h2. Session 12
 
@@ -115,3 +115,4 @@ p. *Melf's acid arrow* (2nd level). _Ranged spell attack (+7 to hit), range 90 f
 p. *Scorching ray* (2nd level). Three rays of fire strike one creature Locke can see within 120 feet. _Ranged spell attack (+7 to hit)_ for each ray; each ray that hits deals 2d6 fire damage.
 
 p. *Immolation* (3rd level, concentration, up to 1 minute). One creature Locke can see within 150 feet must make a Dexterity saving throw (DC 15). On a failed save, the target takes 8d6 fire damage and catches fire. On a successful save, it takes half as much damage and does not catch fire. A target on fire takes 4d6 fire damage at the end of each of its turns until the spell ends. The target repeats a Dexterity saving throw at the end of each of its turns, ending the spell on a success.
+<!-- GM_INFO_END -->
