@@ -2,327 +2,401 @@
 
 Repo-only. **Not synced to Obsidian Portal.**
 
-**Starts after:** Session 11 (31st Enean 4218 SC).  
-**Open investigation leads:** Black Cats (Emerich / Cutthroat's Repose), Fulcrum staff **Nans** and **Chuggaz** (named, not yet interviewed), coachman = **Arouraios** (description only), **Kelferria** quote pending.
+**Starts after:** Session 11 (31st Enean 4218 SC).
 
 ---
 
-## Session goals (GM)
-
-| # | Thread | Player-facing payoff |
-|---|--------|----------------------|
-| 1 | **Silas Oestra** | First heard the word **Kosmios** - macro secret beyond "house spies" |
-| 2 | **Religious hostility** | Silrie's thread advances; **Alruna** returns; party may intervene |
-| 3 | **Investigation** | Progress on Fulcrum servant layer *or* Black Cats - clear next rung either way |
-| 4 | **Pin's sword** (optional) | Meness/archive connection surfaces - repowering path seeded |
-
-**Cold NPC priority this session:** Silas (never on-screen), Alruna (Session 6), Nans / Chuggaz (listed Session 11 only).
-
----
-
-## 1. Silas Oestra - angry, terrified, "Kosmios"
-
-### Canon reminders
-
-- Party **emerged from Oestra catacombs** into the Leageur (Session 8). Locke debriefed them and **passed Radwasp House keys** - Lithra property, Hexine Circle arrangement; he was messenger, not host. Silas may not have full detail but Oestra security will have logged *something*.
-- True heist target: **Silas's rooms** during Ditchquer (key lifted by Barnabus → Arouraios → Bears + Nielsenn). Stolen/copied material is why Anathemists know about **Kosmios** (`silas-oestra.textile`, `project-kosmios.textile`).
-- Silas is **heir-in-waiting** (fake succession ritual - `house-oestra` GM). Under pressure; not a combat monster.
-- **Hexine Circle does not know** Project Kosmios truth. Silas has high clearance, not founder tier.
-
-### Silas's state (canon - Session 12)
-
-1. **Ditchquer night:** Barnabus lifted his **key** at the ceremony. Silas noticed the loss later, assumed pickpocketing or his own carelessness, had it reissued - **did not** search his rooms thoroughly.
-2. **Immediately after:** Nothing obvious out of place in his chambers; he **did not** know the heist had happened.
-3. **After the captured Anathemist interrogation** (Hielaman / Hexine): intelligence came out that *some* high-level security breach had occurred - not yet tied to *his* rooms.
-4. **His own audit:** Silas searched properly, found **missing files** (Kosmios material). He now knows **he owns the breach** - his key, his custody, his failure to report.
-5. **Present fear:** Not primarily "Anathemists might strike again" - **anyone else learning that Silas Oestra lost classified material on his watch**. The Wonch walking out of the Leageur via the archives is a second nightmare: they might reconstruct Ditchquer night and expose *him* before Oestra leadership does.
-
-**He will not admit:** key loss, missing files, or that Kosmios documents were the target. **He will admit (angrily):** outsiders trampled Oestra security and have no business in Factor corridors.
-
-### What Silas fears in the scene
-
-### How he learns about the Wonch
-
-- Locke's debrief chain (embarrassed Locke may blame outsiders to cover the breach).
-- Servants gossip: Hexine investigators who **walked out of the Leageur** via the archives.
-- Silas reads shift rosters / security logs and sees Fulcrum questioning overlapped with "Oestra tunnel incident."
-
-### Scene shape - **summons to the Leageur** (recommended)
-
-**Who's present:** Silas, Locke (gruff), maybe one Meness adjutant as "witness" (Hielaman-adjacent energy without Hielaman - he's cold but Ditchquer invite to Pin is warmer callback if you want him in the room).
-
-**Silas's play:**
-
-- Opens ** furious** - "You broke through *our* archives? You wandered out of *my house*?"
-- Condescending Oestran martial pride; treats silver-bracelet foreigners as insult added to injury.
-- **Won't** admit what was stolen. **Will** try to shut down lines of inquiry toward his chambers and Ditchquer night.
-
-**The slip (Kosmios):**
-
-- Trigger when party pushes: catacomb route, what was taken, why Oestra reinforcements left the Leageur, "what did the Anathemists learn that scared the Circle?"
-- Silas breaks composure - not confession, **leakage**:
-
-  > "You think this is about spies in the kitchens? Someone already has the Kosmios ledgers - or enough of them - and if you keep digging in *my* house you'll hand the rest to whoever wants the city panicking before the transition-"
-
-  Then catches himself. Locke goes very still. Silas backpedals: "I misspoke. A project name. Nothing you're cleared for."
-
-**What party can learn (skill checks / roleplay):**
-
-| Success | Info |
-|---------|------|
-| Low | "Kosmios" is a **named thing** - project, place, or policy - Oestra-adjacent and **secret**. |
-| Mid | Kosmios ties to **colonial / military** Oestra business (matches public-ish lore: Oestra stretched thin on colonial deployments). |
-| High | Someone already exfiltrated **from Oestra custody** - Silas's panic is **personal disgrace**, not abstract city defence. (Still won't confess it's *his* rooms.) |
-
-**Do not reveal:** city relocation, Octarion, necromancy requirement, Barnabus cell.
-
-**Faction clock:** Oestra → **Wary / Hostile** if party presses Silas in front of Locke; **Cool** if they let him save face and leave.
-
-### Alternatives
-
-- **Radwasp ambush:** Cedric announces "Oestra Factor" - Silas comes to *them* (more intimidating, less ceremonial).
-- **Hexine recall:** Halan chairs; Silas as Oestra voice - lets Lithra callback, but dilutes Silas focus.
-
----
-
-## 2. Religious persecution - boil-over
-
-### Canon reminders
-
-- `the-gods.textile`: faith = tolerated eccentricity → **politically suspect** since Anathemists went public.
-- Silrie: Session 4 temple (portal sense); Session 9 **ominous vision**; Adventurers mapping = **diminishing religion in Sindrel**.
-- Anathemists ≠ all faithful - but mobs don't care.
-- **Alruna** (Celebrant): Session 6 Micycle funeral - calm, professional; **Goela** adjutant, Wallarch archive head (`celebrant-alruna.textile`). **Cold 5 sessions.**
-
-### Incident concept - **Wallarch or Scholars Ward**
-
-Pick location that reunites threads:
-
-**Option A - Temple of the Dawn Father (Silrie callback)**
-
-- Silrie returns to meditate / follow up vision.
-- Small **"cleansing" rally** - merchants & adjutants, not Anathemists (no masks). Signs: "No More Mysteries," "Sindrel for the Living."
-- Target: temple door or a **visiting rural priest** seeking healing in the city.
-- Escalation: thrown stones, attempted **branding or shaving** (humiliation, not murder - yet).
-
-**Option B - Osteomantic Archives (Alruna callback)**
-
-- Rumour: archive rites are "necromantic" (Eighth House panic + Session 7 catacombs gossip).
-- Crowd at Wallarch branch; Alruna and **Seelie Ophelan** trying to complete a funeral.
-- Wonch arrive because investigation OR Silrie senses desecration.
-
-**Recommended:** **B** - ties Alruna + Silrie (death god Queen of Ravens buckler still on Ayr?) + investigation geography (Wallarch).
-
-### Alruna beat
-
-- Composed, not combat-ready - **needs help** finishing the rite or protecting the deceased's dignity.
-- Recognises Wonch from Session 6 ("You were the ones who-" / measured gratitude).
-- Aftermath: invites them to speak privately - **Goela divination angle** (cold thread: Demeletas date with Deathwalker!) without solving investigation.
-
-### Silrie beat
-
-- Party's only visibly **devout** member in a city that assumes faith = Anathemism.
-- Intervention choice: legal (Meness/Hielaman?), social (Lithra?), or direct (Wonch muscle - risks confirming mob fears).
-
-### What not to do yet
-
-- Don't reveal Barnabus / cell via religious channel.
-- Don't make Alruna a spy (unless you want long con - canon doesn't support it).
-
-### Fallout hooks
-
-- Meness patrol disperses mob - Hielaman hears Pin defended a priest.
-- Alandria hears Beltus name dragged into "summoning demon" narrative - complicates Beltus clock.
-- Silrie gains **ally or obligation** with Goela archive network.
-
----
-
-## 3. Investigation - Nans → Chuggaz (misdirection)
-
-Party likely has three directions after Silas scene:
+## Path map (all threads converge on Barnabus / d'Log)
 
 ```
-                    ┌─ Black Cats (Wallarch / Cutthroat's Repose)
-                    │
-Fulcrum staff ──────┼─ Nans first ──► Chuggaz (looks like spy; actually Cats Gild)
-                    │
-                    └─ (Nort already done - coachman lead)
-
-Silas / Oestra ──── deflection toward "common criminals" (Cats) or "Grimbolg waste routes" (Chuggaz)
+Silas summons ──────────► Kosmios (macro); deflects to criminals / Fulcrum staff
+Fulcrum servants ───────► Nans → Chuggaz ──► Black Cats ──► cart / descriptions ──► Barnabus, d'Log
+Black Cats (direct) ────► Repose or impound cart ──► Bears / Weasel / Snake ──► Barnabus, d'Log
+Wealthy arrivals ───────► Lithra gate records ──► d'Log household OR merchant pair (Jean/Georges)
+Kelferria order ────────► Barnabus as d'Log's agent; samples = QZ armour + Oestra disguise
+Beltus Institute ───────► sulphur theft confirmed; refuse routes tie to Grimbolg / Cats cart
+Religious persecution ──► background / quick social; Alruna ally; Wallarch geography (no cell reveal)
 ```
 
-### Path: Black Cats (you have this mapped)
-
-Use existing `the-black-cats.textile` GM: Vault misdirection, cart in impound, Hielaman kompromat bargain, Bear/Weasel/Snake descriptions if earned.
-
-**Silas nudge:** "If you must harass someone, harass criminals, not Factors."
-
-**Design:** Nans honestly flags **Chuggaz as suspicious**. Everything she saw is real - but it traces to **Black Cats Gild activity** (buying shift rosters, waste-route access, petty bribes), **not** the Anathemist bombing/heist. The party should feel they caught a thread, then discover the thread is **syndicate corruption** - still useful, still leads toward Cats/Wallarch, but a detour from the cell.
-
-Chuggaz does **not** know he abetted the plot. He sold infrastructure the Cats resold to the Anathemists.
-
-```
-Nans (procedure) ──► "Chuggaz was signing odd manifests, flashing coin, calm when alarms went up"
-                              │
-                              ▼
-Chuggaz (evasive) ──► Cats payroll / roster fencing - looks like spy behaviour
-                              │
-                              ▼
-Black Cats path ──► cart, gold, Ambassador Street descriptions (true plot layer)
-```
-
----
-
-### Small clues - ceremony night (without cracking the case)
-
-Staff saw **fragments**, not the operation. None of this names Barnabus, Bears, or "Anathemists."
-
-#### **Nans** can offer (Beltus liaison, east service corridor)
-
-| Clue | What she saw | What it actually was | Party might think |
-|------|----------------|----------------------|-------------------|
-| **Overtime flood** | Half the Fulcrum roster signed **double shifts** that night; Beltus requisitions she processed herself. | Cats + cell buying confusion cover. | Organised infiltration of staffing. |
-| **Chuggaz red flag** | Chuggaz at the roster desk **after midnight**, signing **Grimbolg waste manifests** not on the usual cycle; slipped **coin** to a clerk. | Gild buying roster access for Cats. | **Spy paying for access** - points to Chuggaz. |
-| **"Dignitary movement"** | East corridor closed ~20 minutes for **"guest livery"** - she signed the chit, never got a name. | Bears/coachman corridor use; livery was borrowed/fake. | Unknown VIP using servant routes. |
-| **Oestra exodus** | Meness guards said Oestra **called reinforcements away** toward the **Leageur** while Fulcrum was still sorting the first alarm - *before* the party understood it was serious. | Heist window while Fulcrum drew Oestra *outward* then Leageur *understaffed*. | Bombing and Oestra response **linked by timing** - not random. |
-| **Two wrong uniforms** | Two **large** men in **Oestra-red** passed the glass doors toward the archive stairs; one manifest clip was **Beltus grey**, not Oestra crimson. | Painted armour / sloppy disguise. | Infiltrators in House colours (accurate, no names). |
-| **Not her corridor** | Coach / bird crest / tunnel coachman - **"Ask Nort."** | - | Sends them back to known lead. |
-
-**Nans will not say:** sulphur, bombs, Kosmios, archives interconnect, or that Chuggaz is Black Cats - she suspects **corruption**, not syndicate label.
-
-#### **Chuggaz** can offer (Grimbolg waste / Gild)
-
-| Clue | What he saw / did | What it actually was | Party might think |
-|------|-------------------|----------------------|-------------------|
-| **Cart off-schedule** | Grimbolg **waste cart** through the **servants' gate** during the ceremony, not pre-dawn. | Anathemist material movement via Cats cart pipeline. | Bombs/components came **same route as rubbish** (true - without him knowing). |
-| **Acid smell** | Cart tarp smelled **sharp/acrid** once; he assumed **Amalthean cleaning salts**. | Sulphur/nitre residue (Investigation DC / Ayr or Deathwalker might ID). | Chemical theft chain from Beltus/Grimbolg **physically present**. |
-| **Paid to stay** | **Cash in plain wraps** - not House seals - to keep his shift and **not ask** who signed the extra roster lines. | Cats Gild; same money trail as Emerich gambling flash. | Bribery network; **doesn't know payer's ideology**. |
-| **Idle coach** | **Bird crest** coach at the servants' door; driver **poncy**, beard, glasses - **looked lost** (corroborates Nort). | Arouraios. He'll downplay: "Visitors always park badly." | Same coachman lead, reinforced. |
-| **Large men in corridor** | Two big men used the **waste corridor** briefly; he **looked away** after payment. | Bears moving between tunnel and cart. | Muscle on site - **merchant/builder types**, not staff. |
-| **Calm when alarmed** | Wasn't shocked by first bang - Cats had told him **"noisy night, extra pay, keep working."** | Vault warning of diversion, not bomb briefing. | Nans reads this as **guilty foreknowledge** - actually **Cat forewarning only**. |
-| **Nans blame** | "She's Beltus - if paperwork looks wrong, it's because **I needed signatures fast**." | Deflecting roster fraud onto her co-signer. | Interviews both → **paper + cash** pattern, still no ideology. |
-
-**Chuggaz will not say:** Black Cats, Vault, Anathemists, d'Log, or that the cart went to Wallarch - unless **broken** or **Cats path** earned separately.
-
-#### **Together (still not the whole case)**
-
-If party interviews **Nans then Chuggaz**, they can reasonably conclude:
-
-- Ceremony night staffing was **deliberately chaotic** (overtime, bribes, wrong uniforms).
-- **Servants' routes** and **waste cart** were abused - **same night** as coachman sighting.
-- **Oestra security moved** toward Leageur at a suspicious moment (feeds Silas scene if not yet played).
-- Chuggaz is **dirty** - but evidence points to **bribery and roster fraud**, not yet **terrorist cell**.
-
-**Next rung:** Cutthroat's Repose / impound cart / Hielaman - where Cats knowledge completes the picture.
-
----
-
-### Path: **Chuggaz** - interview beats
-
-**Setup:** Grimbolg-tagged adjutant on waste detail. Party may arrive **because Nans sent them**.
-
-**Chuggaz's position (GM):** **Gild** for Cats - fences rosters and gossip. Knows **cash-for-shift** economy; **not** the Anathemist plot. Vault says stall.
-
-**Scene beats:** See clue table above. Under hard pressure → Cutthroat's Repose, transfer to Amalthean, or Counter watching. **Do not** have him confess "I helped bomb the Fulcrum."
-
----
-
-### Path: **Nans** - interview first (recommended order)
-
-**Setup:** Beltus liaison; cooperative if party isn't accusing Beltus of demon summoning again.
-
-**Scene beats:** See clue table. She **volunteers** Chuggaz unprompted if asked "who behaved oddly?" - **integrity**, not setup.
-
-| | Nans | Chuggaz |
-|---|------|---------|
-| **Tone** | Procedure-minded, relieved someone listens | Evasive, guilty of **Cats crimes** not **treason** |
-| **Leads to** | Chuggaz, Oestra timing, wrong uniforms | Cart, coachman, smell, bribery |
-| **Misdirection** | Points to Chuggaz as "the spy" | Looks like plot mastermind - is **paid middleman** |
-
----
-
-## 4. Pin's sword - Meness archive piece (optional thread)
-
-### Canon (`pin.textile`, `osteomantic-archives.textile`)
-
-- Pin's longsword = **misplaced Meness adjutant sidearm** (~1,000 years), catalogued for *Hall of the First Watch* in the [[Osteomantic Archives | Osteomantic Archives]].
-- Was **abjuratively enchanted**; **depowered** after centuries away from [[Sindrel | Sindrel]]'s magical density. Can be **repowered** with Meness/archive knowledge + work in-city.
-- **Unrelated:** Session 4 magical-shop hunt was for the [[The Fallowhurst Sigil | Fallowhurst sigil]], not blade markings.
-- Archive **caretakers** may try to return it (politely); know the shelf blessing for repowering.
-
-### Session 12 beats (pick one)
-
-| Beat | Trigger | Payoff |
-|------|---------|--------|
-| **Hielaman glance** | Pin at Silas summons or Ditchquer follow-up | Hielaman recognises guard knotwork - "That pattern is Panopticon issue, not mercenary." Offers registration *or* silence if Pin attends qualifiers. |
-| **Alruna / mob (Option B)** | Religious incident at Wallarch archive | Caretaker in background asks Pin for **chit 1-W/0412**; Alruna dismisses it as "old archive nonsense" - or confirms the sword feels wrong in a consecrated hall. |
-| **Kelferria quote** | If plate quote arrives | She notices Pin's metalwork is **Sindrel-grade** but asleep - won't repower without inscription; points to Meness records or archive. |
-
-### Repowering (long arc - not Session 12 payoff)
-
-1. Learn inscription source (Panopticon, Alicia's displayed arms, caretaker rubbing).
-2. Return favour to Archives *or* Meness (witness statement, recovered display piece, legal registration).
-3. Ritual in Sindrel - shelf blessing + smith channel - blade wakes with one clear combat benefit (see `pin.textile` GM).
-
-**Do not reveal:** founder immortality, full Alicia adaptation, or that Pin "stole" it unless he did in backstory.
-
----
-
-
-## Suggested session flow (one day)
-
-| Block | Content |
-|-------|---------|
-| **Morning** | Summons / Silas blow-up → **Kosmios** slip |
-| **Midday** | Travel to Fulcrum *or* Wallarch (player choice) |
-| **Afternoon** | Nans and/or Chuggaz interviews **or** Black Cats follow-up |
-| **Evening** | Religious incident (Alruna) - can swap to morning if table wants faith first |
+**Likely this session:** Silas → Fulcrum servants → religious incident (evening or swapped).  
+**Adapt if players pivot:** other paths below are runnable in one session each with the stubs provided.
 
 **Clock pressure:** silver bracelets ~30 days left; Kelferria quote may arrive (optional downtime beat).
 
 ---
 
-## Open decisions (GM fill-in)
+## A1. Silas Oestra summons → Kosmios *(detailed)*
 
-- [ ] What exactly did Silas **lose** from his rooms? (partial Kosmios brief? colonial troop maps? relocation feasibility memo without saying "relocation"?)
-- [x] Silas timeline: key lost → audit after Anathemist intel → missing files found → owns breach, terrified of exposure.
-- [ ] Does Locke know the word Kosmios, or is he blindsided in the scene?
-- [ ] Does Locke know Silas failed to report the key loss / file theft?
-- [ ] Religious incident: Temple (A) or Archives (B)?
-- [ ] Do Bears return to city yet, or stay "not seen since bombing" per Black Cats?
-- [ ] Session title / tagline draft: *TBD*
-- [ ] Pin sword beat this session? (Hielaman / Alruna+caretaker / defer)
+### Purpose
+
+First on-screen **Kosmios**; Oestra faction pressure; Silas tries to shut down catacomb / Ditchquer lines of inquiry.
+
+### Canon reminders
+
+- Party emerged Oestra catacombs → Leageur (Session 8). Locke passed Radwasp keys (Hexine lodging, not Oestra hospitality).
+- Heist target: Silas's rooms during Ditchquer (Barnabus → key → Arouraios → Bears + Nielsenn). Missing Kosmios material = why Anathemists know the name.
+- Silas = heir-in-waiting, sacrificial lamb (`house-oestra` GM). Hexine Circle does **not** know Project Kosmios truth.
+
+### Silas's state (Session 12)
+
+1. Ditchquer: Barnabus lifted his key; Silas reissued it without searching rooms.
+2. Post-interrogation intel: *some* high breach occurred — not yet tied to his rooms.
+3. His audit: **missing Kosmios files**; owns the breach; terrified of exposure before Oestra leadership.
+4. Wonch walking out of Leageur via archives = second nightmare.
+
+**Will not admit:** key loss, missing files, Kosmios as target.  
+**Will admit (angry):** outsiders violated Oestra security.
+
+### How the summons happens
+
+**Default:** Written summons delivered morning of 1st Ostory (or same day as Session 12 opens). Oestra seal; Locke's name as escort contact. Tone: *you will attend*, not *you are invited*.
+
+**Who's present:** Silas, Locke (gruff), optional Meness adjutant as witness. Hielaman only if you want Ditchquer / Pin callback — otherwise keep focus on Silas.
+
+### Scene beats
+
+| Beat | Action |
+|------|--------|
+| **1. Opening fury** | Silas: *"You broke through our archives? You wandered out of my house?"* Condescending Oestran pride; silver-bracelet foreigners as insult. |
+| **2. Deflection** | Shut down questions about his chambers, Ditchquer night, what Anathemists learned. Nudge: *"Harass criminals, not Factors."* → Black Cats or Fulcrum staff. |
+| **3. Locke's posture** | Gruff support for Silas publicly; uncomfortable if party mentions catacomb route or archive interconnect. **GM default:** Locke does **not** know "Kosmios"; blindsided when Silas slips. Locke does **not** know key/file theft — only that Oestra had a bad night. |
+| **4. The slip** | Trigger when party pushes: catacomb route, what was taken, why Oestra reinforcements left Leageur, *"what did the Anathemists learn?"* |
+| **5. Leakage** | Silas breaks composure — not confession: *"You think this is about spies in the kitchens? Someone already has the Kosmios ledgers — or enough of them — and if you keep digging in my house you'll hand the rest to whoever wants the city panicking before the transition—"* Catches himself. Locke goes still. *"I misspoke. A project name. Nothing you're cleared for."* |
+| **6. Exit** | Party leaves with a word, not a briefing. Silas refuses further questions in Locke's presence. |
+
+### What party can learn
+
+| Success | Info |
+|---------|------|
+| Low | **Kosmios** = named secret — project, place, or policy; Oestra-adjacent. |
+| Mid | Ties to **colonial / military** Oestra business (public-ish: Oestra stretched on colonial deployments). |
+| High | Material already **exfiltrated from Oestra custody**; Silas's panic is **personal disgrace**, not abstract defence. Still won't confess *his* rooms. |
+
+**Do not reveal:** city relocation, Octarion, necromancy requirement, Barnabus cell.
+
+**Faction clock:** Oestra → **Wary / Hostile** if party humiliates Silas in front of Locke; **Cool** if they let him save face.
+
+### Alternatives
+
+- **Radwasp ambush:** Cedric announces Oestra Factor; Silas comes to them.
+- **Hexine recall:** Halan chairs — dilutes Silas focus; use only if table skipped summons and you still need Kosmios.
 
 ---
 
-## Character-specific ongoing threads
+## A2. Fulcrum servants → Black Cats *(detailed)*
+
+### Purpose
+
+Progress investigation through **Nans → Chuggaz** misdirection; reinforce coachman / cart / timing pattern; hand off to Black Cats path without cracking the cell.
+
+### Flow
+
+```
+Nort (done) ──► Nans (recommended first) ──► Chuggaz ──► Cutthroat's Repose / impound cart
+Silas deflection ──► same path ("common criminals" / Grimbolg waste)
+```
+
+Chuggaz = **Black Cat Latch** (`chuggaz.textile`, `the-black-cats.textile`). He sold roster access; **does not** know bombing ideology. Vault will stall if Wonch press hard.
+
+### Nans interview *(Beltus liaison, east corridor)*
+
+**Setup:** At Fulcrum or Sevenways quarters. Cooperative unless accused of Beltus demon-summoning again. **Tea optional** — she appreciates procedure, not drama.
+
+**Tone:** Procedure-minded, relieved someone listens.
+
+**She volunteers Chuggaz** unprompted if asked *"who behaved oddly?"* — integrity, not setup.
+
+| Clue | What she saw | What it was | Party might think |
+|------|----------------|-------------|-------------------|
+| Overtime flood | Half roster on **double shifts**; Beltus requisitions she processed | Cats + cell buying cover | Organised staffing infiltration |
+| Chuggaz red flag | After midnight at roster desk; **Grimbolg waste manifests** off-cycle; **coin** to clerk | Latch buying access | Spy paying for access |
+| Dignitary movement | East corridor closed ~20 min for **"guest livery"**; chit signed, no name | Bears / coachman corridor | Unknown VIP on servant routes |
+| Oestra exodus | Oestra **called reinforcements to Leageur** while Fulcrum still on first alarm | Heist window | Bombing + Oestra timing linked |
+| Two wrong uniforms | Two **large** men in Oestra-red toward archive stairs; one clip **Beltus grey** | Painted armour | Infiltrators in House colours |
+| Not her corridor | Coach / bird crest — **"Ask Nort."** | — | Back to known lead |
+
+**Won't say:** sulphur, bombs, Kosmios, archive interconnect, "Black Cats."
+
+### Chuggaz interview *(Grimbolg waste / Latch)*
+
+**Setup:** Party sent by Nans, or find him on waste detail. Evasive; guilty of **Cats crimes**, not treason.
+
+| Clue | What he saw / did | What it was | Party might think |
+|------|-------------------|-------------|-------------------|
+| Cart off-schedule | Waste cart through **servants' gate** during ceremony | Anathemist pipeline via Cats | Bombs same route as rubbish |
+| Acid smell | Tarp **sharp/acrid**; assumed Amalthean salts | Sulphur/nitre residue | Chemical theft present |
+| Paid to stay | **Cash in plain wraps** to keep shift, not ask about roster lines | Cats Latch payroll | Bribery network |
+| Idle coach | **Bird crest** coach; driver poncy, beard, glasses (corroborates Nort) | Arouraios | Same coachman lead |
+| Large men in corridor | Two big men in waste corridor; he looked away after payment | Bears | Muscle on site |
+| Calm when alarmed | Cats said *"noisy night, extra pay, keep working"* | Vault forewarning only | Guilty foreknowledge |
+| Nans blame | *"She's Beltus — paperwork looked wrong because I needed signatures fast"* | Deflection | Paper + cash pattern |
+
+**Won't say:** Black Cats, Vault, Anathemists, d'Log, Wallarch destination — unless broken or Cats path earned separately.
+
+**Under hard pressure:** Cut a Deal (fragment of truth for safety/money); DC 14 Insight = still holding back "Black Cats" and "Vault." Escalation: transfer to Amalthean, Tally tail, or Repose redirect.
+
+### Together (reasonable player conclusion)
+
+- Ceremony night staffing **deliberately chaotic**.
+- **Servants' routes + waste cart** abused same night as coachman.
+- **Oestra security moved** at suspicious moment (feeds Silas if not yet played).
+- Chuggaz is **dirty** — bribery and roster fraud, not yet terrorist cell.
+
+**Next rung:** Black Cats path (section B2) or Hielaman impound.
+
+---
+
+## A3. Religious persecution *(detailed)*
+
+### Purpose
+
+Silrie faith thread; **Alruna** returns (cold since Session 6); Wallarch geography; **no** Barnabus reveal. Can be **full scene** or **quick social beat** if time is short.
+
+### Canon
+
+- Faith → politically suspect since Anathemists went public (`the-gods.textile`).
+- Silrie: Session 4 temple; Session 9 ominous vision; mapping = diminishing religion.
+- Alruna: Session 6 Micycle funeral; Wallarch archive head (Goela); composed, not combat-ready.
+
+### Scale dial
+
+| Mode | When | What happens |
+|------|------|----------------|
+| **Quick** | After Silas + Fulcrum, ~30 min | Rumour of mob at Wallarch archive; party passes; Silrie chooses to intervene or not; 2–3 rolls; Alruna thanks them briefly; seed later obligation. |
+| **Full** | Evening block or faith-first table | Option B below played out with Alruna rite, Seelie Ophelan, Meness dispersal. |
+
+### Recommended location: **Option B — Osteomantic Archives (Wallarch)**
+
+- Rumour: archive rites are "necromantic" (Eighth House panic + catacombs gossip).
+- Crowd at Wallarch branch; Alruna + **Seelie Ophelan** finishing a funeral rite.
+- Wonch arrive: investigation geography **or** Silrie senses desecration.
+
+**Why B over Temple (A):** Ties Alruna + Silrie (Queen of Ravens buckler on Ayr?) + Black Cats / cart / chalk trail geography. Option A (Dawn Father temple, "No More Mysteries" rally) remains swap-in if Silrie wants her god specifically.
+
+### Full scene beats
+
+| Beat | Detail |
+|------|--------|
+| **1. Arrival** | 15–30 adjutants/merchants, not Anathemists. Signs: *"No More Mysteries," "Sindrel for the Living."* Target: archive door or rural priest seeking healing. |
+| **2. Escalation** | Stones, grabbed relics, attempted **branding/shaving** (humiliation, not murder yet). |
+| **3. Alruna** | Mid-rite; needs help finishing consecration or protecting deceased dignity. Recognises Wonch from Session 6 — measured gratitude. |
+| **4. Silrie** | Only visibly devout Wonch; intervention = legal (Meness/Hielaman), social (Lithra), or direct (muscle — confirms mob fears). |
+| **5. Resolution** | Meness patrol disperses (Hielaman hears if Pin involved). Alruna invites private talk later — Goela divination angle (Demeletas / Deathwalker cold thread). |
+| **6. Pin optional** | Caretaker asks Pin for **chit 1-W/0412**; Alruna dismisses as archive nonsense — sword repowering seed. |
+
+### What not to do
+
+- Don't reveal Barnabus / cell via religious channel.
+- Don't make Alruna a spy.
+
+### Fallout
+
+- Alandria hears Beltus dragged into "summoning demon" narrative — Beltus clock complication.
+- Silrie gains ally/obligation with Goela archive network.
+- Sets up **later** persecution arc if you only ran Quick mode.
+
+---
+
+## B1. Recent wealthy arrivals → d'Log / merchants *(stub)*
+
+### Entry
+
+Lithra **main-gate visitor records** (Halan's lead). Party needs Hexine cover letter or Halan's name; clerks are Lithra-precise, not hostile.
+
+### What records show (last ~3 months)
+
+| Arrival | Cover | Party-facing read |
+|---------|-------|-------------------|
+| **Regnif d'Log** + retinue (butler **Barnabus**, servant **Arouraios**) | Foreign nobility; **Ambassador Street** townhouse; "extended commercial tour" | Old money, harmless, spends freely; coach matches **bird crest** if they cross Nort's description (d'Log's livery — plausible misread as dignitary's) |
+| **Georges de Selve & Jean de Dinteville** | Merchant partners; separate entry **~25th Enean** (return visit) | Wealthy, well-dressed; **large** men; no current Cats sightings since return |
+| **Lady Von Pthasia** | Halan vouches — arrived **after** information loss | Red herring per Halan |
+
+### Scene shape (~45 min)
+
+1. Records room: Investigation or Persuasion to search without waiting days.
+2. Pull d'Log file: charcoal deliveries to lodgings, appointments with **Mabon smith** (Kelferria), frequent servant errands to **Wallarch / service districts**.
+3. Optional: compare merchant entry dates to **Ditchquer** and Fulcrum bombing.
+4. Visit Ambassador Street: d'Log receives callers if polite; **Barnabus** handles door; Arouraios may be visible as coachman.
+
+### d'Log meeting
+
+- Vain, hospitable, **actually ignorant**. Talks over details; signs things he doesn't read.
+- **Looks damning at first:** armour receipts, charcoal, household authorisations in his name.
+- **Under Insight / Investigation:** signatures rushed; Barnabus's hand in margins; d'Log can't explain technical orders.
+
+### Merchant fork
+
+If party fixates on Jean/Georges: they're **not home** (merchant house elsewhere) or seen at Amalthean / upper trade fairs. Cats say Bears **not seen since bombing** — party won't connect to 25th Enean return yet unless they stake out hard.
+
+### Payoff
+
+- **Name:** Regnif d'Log, Barnabus, possibly Arouraios linked.
+- **Not yet:** Anathemist ideology, Sacrum HQ, Kosmios.
+- **Next rung:** Kelferria order (B2), surveillance, or Black Cats descriptions naming "Snake" on Ambassador Street.
+
+---
+
+## B2. Kelferria's order → QZ armour *(stub)*
+
+### Entry
+
+- **Ayr's pending quote** arrives (note / messenger Session 12 morning), *or*
+- Party follows d'Log/Barnabus paper trail, *or*
+- Locke/Galoras lead ("best armourer in the city").
+
+### Kelferria's position
+
+Overworked; blunt. Large order from **Regnif d'Log's agent** (Barnabus): enchanted plate, Oestra-style commissions mentioned. **Down payment generous; delivery mostly stalled.** She delivered **samples only** — unusual for an order this size.
+
+### What she'll share (professional pride + Hexine authority)
+
+| Check | Info |
+|-------|------|
+| Automatic | Client agent = d'Log's butler; insisted on **abjuration / warding** on plate; asked about **Oestra field patterns** "for compatibility" |
+| DC 12 Investigation | Sample specs include **necromantic-environment tolerance** — not standard city wear |
+| DC 14 Arcana | Enchantments suited to ** sustained exposure to death-magic saturation**, not parade armour |
+| Ayr's commission | She notices Pin/Ayr gear is Sindrel-grade but "asleep"; quote for plate still on desk — side thread |
+
+### Payoff
+
+- **Barnabus** named as operational face.
+- Samples explain **Oestra-red infiltrators** (crude crest paint) and **QZ access** — links to chalk trail / Sacrum without player needing to enter QZ yet.
+- Kelferria won't testify against a paying client without Meness/Hexine backing; she'll point investigators at **d'Log's household accounts**.
+
+### If party asks for QZ gear now
+
+She doesn't sell the samples; might describe what's needed (warded plate or equivalent protection). Full QZ entry remains **later session** unless they combine with archive/catacomb routes.
+
+---
+
+## B3. Black Cats → impounded cart *(stub)*
+
+### Entry points
+
+- Emerich → **Cutthroat's Repose** ("Swordfish") — never cashed in log.
+- Chuggaz / Nans → "talk to Wallarch criminals."
+- Hielaman / Quills → garbage cart near **QZ wall breach**.
+- Silas → "harass criminals."
+
+### Cutthroat's Repose (~30 min)
+
+- Password works; **Tally** or **Vault**-adjacent contact (use Vault stat block if negotiation turns serious).
+- Cats **stall**: want cart away from Hielaman before talking; may offer **kompromat bargain** on Hielaman's superiors (not Hielaman himself).
+- Won't admit Chuggaz is a Latch unless bargained hard.
+
+### Impound cart (~30 min)
+
+- Meness yard or Wallarch impound near QZ breach. **Investigation DC 13:** sulphur and saltpetre traces in wheel cracks / tarp fibres.
+- Hielaman present if you want tension: he hasn't linked cart to Fulcrum yet — opportunity for party to connect dots.
+- Cats prefer cart **stolen back** or **evidence suppressed** — job offer, not confession.
+
+### Descriptions (if earned)
+
+From `the-black-cats.textile` GM — partial truth, no Vault ideology:
+
+| Nickname | Truth | Notes |
+|----------|-------|-------|
+| **Bears** | Jean & Georges | Large; merchant cover by day; **not seen Wallarch since bombing** |
+| **Weasel** | Arouraios | Glasses, beard, soft hands; lost tails early |
+| **Snake** | Barnabus | Grey hair, scarred cheek; Bears **deferred** to him; **Ambassador Street** grand house |
+
+Tails mystery (archive interconnect) can tease if party asks how Bears "teleport."
+
+### Payoff
+
+- Physical confirmation of **gunpowder supply chain**.
+- **Barnabus + d'Log address** from Snake description.
+- Next: stakeout, d'Log household, or Sacrum — not arrest yet (insufficient for Meness without Hexine buy-in).
+
+---
+
+## B4. Beltus sabotage → Beltan Institute *(stub)*
+
+### Purpose
+
+Confirm **sulphur theft under demon cover** (Galoras pattern); optional Beltus faction colour; ties refuse routes to Grimbolg / Cats.
+
+### Entry
+
+Party chooses to revisit **14th Ostory** incident after Navinea/Galoras theorising — or Alandria grants access if not accused of malice.
+
+### Institute tour (~45–60 min)
+
+**Locations:** scorch marks at refuse column base (Georg summoning); summoning hall; **sulphur storage** (now warded empty); contract archive (who signed waste disposal that night).
+
+### What they find
+
+| Finding | Detail |
+|---------|--------|
+| **Grimoire page** | Succubus circle vandalised — sabotage, not accident (public knowledge reinforced) |
+| **Sulphur ledger** | Silo emptied during chaos; **cart manifest** signed on expedited Beltus-Grimbolg route — same bureaucracy Chuggaz abuses |
+| **Staff memory** | "Beltus-grey clip" courier pair seen near service lift — matches Nans |
+| **Refuse channel** | Gravity chute to lower city; connects to **Grimbolg collection** — same pipeline as Fulcrum waste cart |
+
+### Payoff
+
+- **Theft hypothesis confirmed** for sulphur leg of gunpowder.
+- No named spy — points back to **Chuggaz / Cats / cart** or **servant-layer corruption**.
+- Alandria reaction: defensive if blamed; helpful if party frames it as external exploitation of Beltus systems.
+
+---
+
+## Suggested session flow (default day)
+
+| Block | Content |
+|-------|---------|
+| **Morning** | Silas summons → Kosmios slip |
+| **Midday** | Fulcrum: Nans → Chuggaz |
+| **Afternoon** | Player fork: Repose / records / Institute — or rest at Radwasp |
+| **Evening** | Religious incident (Quick or Full) |
+
+Swap religious to morning if Silrie player wants faith first; Silas can arrive as afternoon summons instead.
+
+---
+
+## Open decisions (GM)
+
+- [ ] What exactly did Silas **lose**? (partial Kosmios brief vs colonial maps vs feasibility memo — no "relocation" wording)
+- [x] Silas timeline locked
+- [ ] Locke knows Kosmios? **Default: no.** Locke knows Silas failed to report key/files? **Default: no.**
+- [ ] Religious: Quick vs Full; Temple (A) vs Archives (B) — **default B**
+- [ ] Bears: still off Cats radar since bombing? **Default: yes**
+- [ ] Kelferria quote arrives this session? **Default: yes if Ayr player present**
+- [ ] Session title: *TBD*
+
+---
+
+## Optional: Pin's sword
+
+Defer unless religious Full mode or Hielaman at Silas summons. See `pin.textile`, `osteomantic-archives.textile`. Not on main path map unless player drives it.
+
+---
+
+## Character-specific threads
 
 ### Ros
+* Spearhead from Galoras; not yet spoken to him re fit/finish
+* Pan flutes — Stoat summon?
 
-* Weapon from Galoras. Acquired a spearhead, has nt yet spoken to galoras,
-* [[:pipes-of-faunal-calling|Pan flutes]] - a way to summon Stoat?
-
-  
-### Amanira
 ### Pin
-
-* Hieleman / Ditchquer
-* Sword (when they go back to the archives)
+* Hielaman / Ditchquer grudge
+* Sword repowering when archives warrant it
 
 ### Deathwalker
-
+* Demeletas prophecy; Emerich / Cats history
 
 ### Silrie
-### Wilrin
-### Ayr
+* Vision follow-up; persecution choice defines faction tone
+
+### Amanira / Wilrin / Ayr
+* Fill at table if pursued
 
 ---
 
 ## After session (repo hygiene)
 
-When log is written:
-
 - Update `home-page.textile` Story so far
-- Update `the-adventurers.textile`: **current date**, **days remaining in Sindrel**, timeline, wealth, faction clocks (feeds `notes/lore-dashboard.html` on commit)
-- Consider whether **Kosmios** gets a player-safe wiki stub or stays unknown word only
-- Alruna / Silas `OP_DESCRIPTION` if they got screen time
+- Update `the-adventurers.textile`: date, days remaining, wealth, faction clocks
+- Kosmios: player-safe stub or unknown word only?
+- Alruna / Silas `OP_DESCRIPTION` if screen time
+- `the-investigation.textile` accordion if new leads confirmed in play

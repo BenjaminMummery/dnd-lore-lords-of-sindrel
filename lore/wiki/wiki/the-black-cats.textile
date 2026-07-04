@@ -26,7 +26,7 @@ h2. Known leads
 h2. Interactions with the Wonch
 
 * Deathwalker gambled with Emerich and a few others, flashing a large amount of cash and winning information about the quarantine zone.[1]
-* On their entrance to Wallarch, the wonch noticed Emerich watching them and gave chase.[2] 
+* On their entrance to Wallarch, the wonch noticed Emerich watching them and gave chase.[2]
 
 <hr>
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
@@ -42,18 +42,18 @@ h2. Internal ranks
 
 | Rank | Role |
 |---|---|
-| **Strands** | Street muscle, gambling, lookout - [[:emerich-surefoot | Emerich Surefoot]] tier |
-| **Counters** | Fixers - bracelet fraud, Stay Ledger tampering, smuggling |
-| **Gild** | Operatives with real or forged gold; house-adjacent access - [[:chuggaz | Chuggaz]] |
+| **Scratches** | Street muscle, gambling, lookout - [[:emerich-surefoot | Emerich Surefoot]] tier |
+| **Tallies** | Fixers - bracelet fraud, Stay Ledger tampering, smuggling |
+| **Latches** | Operatives with house-adjacent access; doors, rosters, servant routes - [[:chuggaz | Chuggaz]] |
 | **Vault** | Leadership; kompromat; Cutthroat relay |
 
-**[[:chuggaz | Chuggaz]]** - true **Gild**, not a red herring. Fences Fulcrum shift rosters, servant-route gossip, and ceremony-night staffing to Counters/Vault. Cover when revealed: [[House Grimbolg | Grimbolg]] [[Adjutant | Adjutant]].
+**[[:chuggaz | Chuggaz]]** - true **Latch**, not a red herring. Fences Fulcrum shift rosters, servant-route gossip, and ceremony-night staffing to Tallies/Vault. Cover when revealed: [[House Grimbolg | Grimbolg]] [[Adjutant | Adjutant]].
 
-**Cutthroat's Repose contact** - Vault-adjacent **Counter**; holds ledger extracts and adjutant kompromat; never commits on premises.
+**Cutthroat's Repose contact** - Vault-adjacent **Tally**; holds ledger extracts and adjutant kompromat; never commits on premises.
 
 h2. Encounter building
 
-A mage syndicate that preys on servants, debtors, and lone travellers — cantrips and cheap tricks to intimidate, not archmage duels. **Vault** leaders rarely join a street brawl; patrols are mostly **Strands** with **Counter** or **Gild** oversight. Sum creature XP, apply the DMG group multiplier (×2 for 3–6 enemies, ×2.5 for 7–10, etc.), then compare the total to the thresholds below. Casting and control spells raise effective difficulty beyond the raw XP.
+A mage syndicate that preys on servants, debtors, and lone travellers — cantrips and cheap tricks to intimidate, not archmage duels. **Vault** leaders rarely join a street brawl; patrols are mostly **Scratches** with **Tally** or **Latch** oversight. Sum creature XP, apply the DMG group multiplier (×2 for 3–6 enemies, ×2.5 for 7–10, etc.), then compare the total to the thresholds below. Casting and control spells raise effective difficulty beyond the raw XP.
 
 | Level | Easy | Medium | Hard | Deadly |
 |---|---|---|---|---|
@@ -70,20 +70,20 @@ A mage syndicate that preys on servants, debtors, and lone travellers — cantri
 
 | Composition | Adjusted XP |
 |---|---|
-| 7 **Strands** | 1,400 |
-| 6 **Strands** + 1 **Counter** | 1,600 |
-| 8 **Strands** | 1,600 |
-| 6 **Strands** + 2 **Counters** | 2,000 |
-| 2 **Strands** + 2 **Counters** + 2 **Gild** | 2,800 |
-| 8 **Strands** + 2 **Counters** | 3,000 |
-| 6 **Counters** + 2 **Gild** | 4,200 |
-| 1 **Vault** + 2 **Gild** + 3 **Counters** | 4,400 |
-| 1 **Vault** + 4 **Gild** + 2 **Counters** | 7,250 |
-| 6 **Gild** + 1 **Vault** | 8,500 |
+| 7 **Scratches** | 1,400 |
+| 6 **Scratches** + 1 **Tally** | 1,600 |
+| 8 **Scratches** | 1,600 |
+| 6 **Scratches** + 2 **Tallies** | 2,000 |
+| 2 **Scratches** + 2 **Tallies** + 2 **Latches** | 2,800 |
+| 8 **Scratches** + 2 **Tallies** | 3,000 |
+| 6 **Tallies** + 2 **Latches** | 4,200 |
+| 1 **Vault** + 2 **Latches** + 3 **Tallies** | 4,400 |
+| 1 **Vault** + 4 **Latches** + 2 **Tallies** | 7,250 |
+| 6 **Latches** + 1 **Vault** | 8,500 |
 
-Typical ambush against the Wonch: **6 Strands** + **1 Counter** (1,600 adjusted) — Emerich-tier muscle with a fixer calling shots.
+Typical ambush against the Wonch: **6 Scratches** + **1 Tally** (1,600 adjusted) — Emerich-tier muscle with a fixer calling shots.
 
-h3. Black Cat Strand
+h3. Black Cat Scratch
 
 Street muscle; hammer and *chill touch*.
 
@@ -105,15 +105,15 @@ Street muscle; hammer and *chill touch*.
 <strong>Challenge</strong> 1/2 (100 XP)<br>
 <strong>Proficiency Bonus</strong> +2</p>
 <hr>
-<p><strong>Pack Tactics.</strong> The strand has advantage on an attack roll against a creature if at least one of the strand's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
+<p><strong>Pack Tactics.</strong> The scratch has advantage on an attack roll against a creature if at least one of the scratch's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
 <hr>
 <h4>Actions</h4>
-<p><strong>Multiattack.</strong> The strand makes two melee attacks.</p>
+<p><strong>Multiattack.</strong> The scratch makes two melee attacks.</p>
 <p><strong>Light Hammer.</strong> <em>Melee Weapon Attack:</em> +3 to hit, reach 5 ft., one target. <em>Hit:</em> 3 (1d4 + 1) bludgeoning damage.</p>
-<p><strong>Chill Touch (Cantrip).</strong> <em>Melee Spell Attack:</em> +3 to hit, reach 5 ft., one creature. <em>Hit:</em> 4 (1d8) necrotic damage, and the target can't regain hit points until the start of the strand's next turn.</p>
+<p><strong>Chill Touch (Cantrip).</strong> <em>Melee Spell Attack:</em> +3 to hit, reach 5 ft., one creature. <em>Hit:</em> 4 (1d8) necrotic damage, and the target can't regain hit points until the start of the scratch's next turn.</p>
 </div>
 
-h3. Black Cat Counter
+h3. Black Cat Tally
 
 Fixer; *sleep* and *disguise self* for shakedowns and escapes.
 
@@ -135,16 +135,16 @@ Fixer; *sleep* and *disguise self* for shakedowns and escapes.
 <strong>Challenge</strong> 1 (200 XP)<br>
 <strong>Proficiency Bonus</strong> +2</p>
 <hr>
-<p><strong>Spellcasting.</strong> The counter's spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has two 1st-level spell slots and knows the following spells:</p>
+<p><strong>Spellcasting.</strong> The tally's spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has two 1st-level spell slots and knows the following spells:</p>
 <p><em>1st level (2 slots):</em> <em>disguise self</em>, <em>sleep</em></p>
 <hr>
 <h4>Actions</h4>
-<p><strong>Multiattack.</strong> The counter makes two melee attacks.</p>
+<p><strong>Multiattack.</strong> The tally makes two melee attacks.</p>
 <p><strong>Shortsword.</strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage.</p>
 <p><strong>Fire Bolt (Cantrip).</strong> <em>Ranged Spell Attack:</em> +4 to hit, range 120 ft., one target. <em>Hit:</em> 5 (1d10) fire damage.</p>
 </div>
 
-h3. Black Cat Gild
+h3. Black Cat Latch
 
 House-adjacent operative — [[:chuggaz | Chuggaz]]'s rank. Rapier and 2nd-level tricks.
 
@@ -166,12 +166,12 @@ House-adjacent operative — [[:chuggaz | Chuggaz]]'s rank. Rapier and 2nd-level
 <strong>Challenge</strong> 2 (450 XP)<br>
 <strong>Proficiency Bonus</strong> +2</p>
 <hr>
-<p><strong>Spellcasting.</strong> The gild's spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has three 2nd-level spell slots and knows the following spells:</p>
+<p><strong>Spellcasting.</strong> The latch's spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has three 2nd-level spell slots and knows the following spells:</p>
 <p><em>1st level (at will):</em> <em>mage hand</em><br>
 <em>2nd level (3 slots):</em> <em>hold person</em>, <em>misty step</em>, <em>scorching ray</em></p>
 <hr>
 <h4>Actions</h4>
-<p><strong>Multiattack.</strong> The gild makes two rapier attacks, or it makes one rapier attack and casts <em>scorching ray</em>.</p>
+<p><strong>Multiattack.</strong> The latch makes two rapier attacks, or it makes one rapier attack and casts <em>scorching ray</em>.</p>
 <p><strong>Rapier.</strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d8 + 3) piercing damage.</p>
 </div>
 
@@ -212,7 +212,7 @@ Leadership tier; kompromat and counterspelling. Cutthroat's Repose contact is Va
 
 h2. [[:hielaman | Captain Hielaman]]
 
-Hielaman is a thorn in the side of the Cats. He's straight laced, dogged, and upstanding - annoyingly hard to find blackmail material on. His **superiors** in Meness are compromised - he feels institutional pressure not to move directly against Vault leadership, but interprets it as politics, not blackmail. That makes him dangerous to the Cats: an honest investigator with little to leverage if he starts poking past Strands and Counters. Vault should prefer to divert, discredit, or isolate him rather than try to own him.
+Hielaman is a thorn in the side of the Cats. He's straight laced, dogged, and upstanding - annoyingly hard to find blackmail material on. His **superiors** in Meness are compromised - he feels institutional pressure not to move directly against Vault leadership, but interprets it as politics, not blackmail. That makes him dangerous to the Cats: an honest investigator with little to leverage if he starts poking past Scratches and Tallies. Vault should prefer to divert, discredit, or isolate him rather than try to own him.
 
 h2. The Black Cats and the Anathemist Investigation
 
@@ -224,7 +224,7 @@ It was only after the [[The Fulcrum | Fulcrum]] bombing that they correlated the
 
 The Cats are reasonably sure Hielaman has not yet been sniffing around the cart in detail - it is not obviously linked to anything serious and he has more pressing concerns.
 
-**Gild link - [[:chuggaz | Chuggaz]]:** Vault's man at [[The Fulcrum | the Fulcrum]]. He fences shift rosters and servant-route gossip upward. The Cats do **not** know Chuggaz is tied to the bombing plot; they value him as paid infrastructure. If the Wonch press him hard, Vault will lean on Chuggaz to lie, transfer, or disappear before he talks about Cat business.
+**Latch link - [[:chuggaz | Chuggaz]]:** Vault's man at [[The Fulcrum | the Fulcrum]]. He fences shift rosters and servant-route gossip upward. The Cats do **not** know Chuggaz is tied to the bombing plot; they value him as paid infrastructure. If the Wonch press him hard, Vault will lean on Chuggaz to lie, transfer, or disappear before he talks about Cat business.
 
 h3. The Wonch (current - 31st Enean 4218 SC)
 
@@ -232,13 +232,13 @@ h3. The Wonch (current - 31st Enean 4218 SC)
 
 * [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] flashed a huge sum at [[:emerich-surefoot | Emerich Surefoot]].[1], then returned with backup and assaulted him during the Wallarch chase.[2]
 * The party is now [[Hexine Circle | Hexine Circle]] investigators with official cover, digging into the Fulcrum bombing and servant routes.
-* On the 31st they questioned [[:nort | Nort]] and have **Nans** and **Chuggaz** on the list - both Fulcrum staff; Chuggaz is a **Gild** asset.
+* On the 31st they questioned [[:nort | Nort]] and have **Nans** and **Chuggaz** on the list - both Fulcrum staff; Chuggaz is a **Latch** asset.
 
 Vault reads this as an unpredictable outside faction muscling into Wallarch **and** the Fulcrum service layer. They do not know the Wonch's goals. They **do** know that heavy Wonch attention on Chuggaz could expose the garbage-cart pipeline and the paid access network the Anathemists used. Preferred response: misdirect, stall, or feed harmless gossip - not open war unless cornered.
 
 h3. Interaction with the party
 
-The Cats will not share much willingly. They want the cart away from Hielaman but will not say why. They will be happy with anything that achieves that: stealing the cart from impound, or getting enough dirt on Hielaman to bring him to heel. Once satisfied, they share what they know (descriptions below - not full truth about Vault kompromat or Chuggaz's Gild role unless bargained hard).
+The Cats will not share much willingly. They want the cart away from Hielaman but will not say why. They will be happy with anything that achieves that: stealing the cart from impound, or getting enough dirt on Hielaman to bring him to heel. Once satisfied, they share what they know (descriptions below - not full truth about Vault kompromat or Chuggaz's Latch role unless bargained hard).
 
 h3. Leads
 

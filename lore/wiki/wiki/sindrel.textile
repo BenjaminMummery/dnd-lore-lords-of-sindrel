@@ -156,23 +156,23 @@ At the centre of both cities stands [[The Fulcrum | The Fulcrum]]. Rising from t
 
 h3. Lower City Districts
 
-h4. [[Merchant's Quarter | Merchant's Quarter]] 
+h4. [[Merchant's Quarter | Merchant's Quarter]]
 
 The principal point of arrival for overland travellers entering the city by way of [[The Mage Road | the Mage Road.]]
 
-h4. [[Granary Ward | Granary Ward]] 
+h4. [[Granary Ward | Granary Ward]]
 
 The logistical heart of the city, centred on the Amalthean (colloquially the Cornucopia) and responsible for distributing food and supplies throughout Sindrel.
 
-h4. [[Sevenways | Sevenways]] 
+h4. [[Sevenways | Sevenways]]
 
 A sprawling residential district built around an ancient network of ramps and bridges connecting the city's various levels.
 
-h4. [[The Wallarch District | Wallarch]] 
+h4. [[The Wallarch District | Wallarch]]
 
 Sindrel's poorest district, pressed between the city's outer wall and the [[Quarantine Zone | Quarantine Zone]].
 
-h4. [[Quarantine Zone | Quarantine Zone]] 
+h4. [[Quarantine Zone | Quarantine Zone]]
 
 The sealed ruins of [[The Eighth House | The Eighth House]], contaminated by dangerous necromantic energies since the fall of the Eighth.
 
@@ -182,15 +182,15 @@ h4. The [[House Oestra | Leageur]]
 
 h3. Upper City Districts
 
-h4. [[Merrylane | Merrylane]] 
+h4. [[Merrylane | Merrylane]]
 
 A district of embassies, parks, and elegant residences favoured by diplomats and visiting dignitaries.
 
-h4. [[Scholars Ward | Scholars Ward]] 
+h4. [[Scholars Ward | Scholars Ward]]
 
 Home to [[The Heptade Academy | the Heptade Academy]] and much of Sindrel's academic and magical elite. Students, professors, researchers, and House scholars crowd its bridges, libraries, and lecture halls.
 
-h4. [[Dockward | Dockward]] 
+h4. [[Dockward | Dockward]]
 
 The centre of Sindrel's airship trade, a mile-wide floating ring suspended around the upper reaches of [[The Fulcrum | the Fulcrum]] like a colossal halo. Colloquially called _the annulus_, it is the gateway through which much of the city's commerce enters and leaves.
 
@@ -198,7 +198,7 @@ h3. Singular Landmarks
 
 Some locations exist outside the ordinary district structure.
 
-h4. [[The Fulcrum | The Fulcrum]] 
+h4. [[The Fulcrum | The Fulcrum]]
 
 The political and symbolic heart of Sindrel.
 

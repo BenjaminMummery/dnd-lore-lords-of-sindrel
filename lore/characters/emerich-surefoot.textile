@@ -30,8 +30,8 @@ Low-level enforcer for [[The Black Cats | The Black Cats]].
 <!-- GM_INFO_START -->
 h2. Prep
 
-* **Counters**-tier muscle — runs errands and lean-on work, not leadership. Knows the Repose password route; will fold fast if cornered again.
-* Same cash-in-plain-wraps economy as [[:chuggaz | Chuggaz]]'s Gild payroll; does not know who funded the Fulcrum roster buys.
+* **Scratches**-tier muscle — runs errands and lean-on work, not leadership. Knows the Repose password route (contact is **Tally**- or Vault-adjacent); will fold fast if cornered again.
+* Same cash-in-plain-wraps economy as [[:chuggaz | Chuggaz]]'s Latch payroll; does not know who funded the Fulcrum roster buys.
 
 h2. Stat block
 

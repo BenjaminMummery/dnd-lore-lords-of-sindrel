@@ -34,7 +34,7 @@ Player Secrets (Ascendant UI) do **not** sync. Keep PC secrets in OP Player Secr
 | **Nielsenn** kidnapped, coerced, killed; shop explosion staged | `nielsenn`, `the-investigation` GM |
 | Sulphur / nitre / charcoal thefts hidden inside House sabotage; stockpile at **Sacrum** | `the-investigation` GM, `house-grimbolg` (party suspects saltpetre only) |
 | **Kelferria** armour order = QZ protection + crude Oestra disguises | `kelferria-the-smith`, `barnabus` |
-| **Chuggaz** = confirmed **Gild** (not mere rumour); fences Fulcrum rosters to **Vault** | `chuggaz` GM |
+| **Chuggaz** = confirmed **Latch** (not mere rumour); fences Fulcrum rosters to **Vault** | `chuggaz` GM |
 | Cats **don't** know Chuggaz is tied to the bombing plot | `chuggaz` GM, `the-black-cats` GM |
 | Real culprits may **not** be ideological Anathemists alone (false-flag / proxies) | `the-investigation` GM meta |
 | **Commander Wake** still at large | `commander-wake` |

@@ -30,7 +30,7 @@ According to [[:nort | Nort]], he is rumoured to be connected to [[The Black Cat
 <!-- GM_INFO_START -->
 h2. Black Cats link
 
-**[[The Black Cats | Black Cats]] — Gild** (true link, not rumour). Fences [[The Fulcrum | Fulcrum]] shift rosters, servant-route patterns, and ceremony-night staffing to **Counters** / **Vault**. Nort's gossip is accurate. Vault protects him while he is useful; he knows fragments of who paid for extended shifts on bombing night but not the wider plot.
+**[[The Black Cats | Black Cats]] — Latch** (true link, not rumour). Fences [[The Fulcrum | Fulcrum]] shift rosters, servant-route patterns, and ceremony-night staffing to **Tallies** / **Vault**. Nort's gossip is accurate. Vault protects him while he is useful; he knows fragments of who paid for extended shifts on bombing night but not the wider plot.
 
 Unrelated to **City Cats** (actual felines).
 
@@ -38,11 +38,11 @@ h2. Session 12
 
 * Evasive under accusation — roster fraud and cash-for-shift, not the bombing plot. See `notes/session-12-plan.md` for interview beats and clue table.
 * Will not name Black Cats or Vault unless broken, bought off, or the party earns trust via the Cats path.
-* Under hard pressure → Cutthroat's Repose, impound cart, or a Counter watching — not a confession that he helped bomb the Fulcrum.
+* Under hard pressure → Cutthroat's Repose, impound cart, or a Tally watching — not a confession that he helped bomb the Fulcrum.
 
 h2. Stat block
 
-<p><em>Not Hexine-tier.</em> Session 12 is an interview and misdirection beat — he looks like the spy Nans flagged, but the thread is syndicate corruption. Combat baseline: <strong>Black Cat Gild</strong> ([[The Black Cats | the-black-cats]] wiki); traits below are Chuggaz-specific.</p>
+<p><em>Not Hexine-tier.</em> Session 12 is an interview and misdirection beat — he looks like the spy Nans flagged, but the thread is syndicate corruption. Combat baseline: <strong>Black Cat Latch</strong> ([[The Black Cats | the-black-cats]] wiki); traits below are Chuggaz-specific.</p>
 
 <div class="stat-block">
 <h3>Chugan "Chuggaz" Velm</h3>

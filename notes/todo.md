@@ -4,6 +4,15 @@ Repo-only. **Not synced to Obsidian Portal** (see `notes/README.md`).
 
 ## Active
 
+- [ ] **D&D Beyond stats** — homebrew entries for party gear/companions (repo stat blocks exist; need DDB homebrew for sheets):
+  - [ ] [[Anasthetic Scalpel | anasthetic-scalpel]] (`lore/wiki/wiki/anasthetic-scalpel.textile`) — Wilrin
+  - [ ] [[Knuckledusters | knuckledusters]] (`lore/wiki/wiki/knuckledusters.textile`) — Silrie
+  - [ ] [[:kithrak-ii | Kithrak II]] (`lore/characters/kithrak-ii.textile`) — Nakoma companion
+  - [ ] [[:tama | Tama]] (`lore/characters/tama.textile`) — Ros companion
+  - [ ] [[The Gentleman's Greeting | the-gentlemans-greeting]] (`lore/wiki/wiki/the-gentlemans-greeting.textile`) — Ayr
+  - [ ] [[The Unanswered Cry | the-unanswered-cry]] (`lore/wiki/wiki/the-unanswered-cry.textile`) — Ayr (cursed buckler)
+- [ ] **Pipes of Faunal Calling** (`lore/wiki/wiki/pipes-of-faunal-calling.textile`) — Ros: write **OP/wiki stat block** in repo **and** **DDB homebrew** (page has lore only; no stat block yet)
+- [ ] **The Cutthroat's Repose** (`lore/wiki/wiki/the-cutthroats-repose.textile`) — flesh out location (Wallarch dive, public front / back room, "Swordfish", Black Cats Tally contact); session-ready for Session 12 path
 - [X] **Obsidian Portal CSS styling** - names on the characters page are too big; tune Custom CSS.
 - [ ] **Obsidian Portal CSS styling** - use emphasis colour for links. Maybe drop underlines?
 - [ ] **Items → wiki pages** - migrate OP inventory items to syncable wiki pages tagged `item`.
@@ -25,7 +34,7 @@ Scanned `lore/**` - resolve in canon, then remove the inline marker (especially 
 
 - [Character descriptions & NPC tiers](character-descriptions-todo.md) — template: `character-template.textile`
 - [ ] **Statblocks for NPCs** - paused; resume when ready.
-  - [ ] **Black Cats ranks** - review rank names (Strands, Counters, Gild, Vault); not settled.
+  - [x] **Black Cats ranks** — Scratches, Tallies, Latches, Vault.
   - [x] Zalatan, Quill brothers, archive caretakers (drafts in repo).
 
 ## Scratch
