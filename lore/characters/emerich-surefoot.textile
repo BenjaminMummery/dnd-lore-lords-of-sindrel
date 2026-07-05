@@ -35,7 +35,7 @@ fn2. [[Session 6: Wallarch | Session 6: Wallarch]]
 <!-- GM_INFO_START -->
 h2. Prep
 
-* **Scratches**-tier muscle — runs errands and lean-on work, not leadership. Knows the Repose password route (contact is **Tally**- or Vault-adjacent); will fold fast if cornered again.
+* **Scratches**-tier muscle — runs errands and lean-on work, not leadership. Knows the Repose password route (contact is [[:sable-silvestre | Sable Silvestre]], **Tally** relay for Vault); will fold fast if cornered again.
 * Same cash-in-plain-wraps economy as [[:chuggaz | Chuggaz]]'s Latch payroll; does not know who funded the Fulcrum roster buys.
 
 h2. Stat block

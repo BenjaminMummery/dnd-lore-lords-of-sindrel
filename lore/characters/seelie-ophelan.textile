@@ -12,6 +12,7 @@ op_gm_only: false
 is_player_character: false
 tags:
 - he/him
+- Archive worker
 ---
 
 <!-- OP_DESCRIPTION -->

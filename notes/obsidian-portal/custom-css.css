@@ -750,23 +750,26 @@ body.campaign-public-layout .main-content-container .sidebar-table-of-contents a
 
 
 /* --- Character index tile borders (Deceased / Undead state tags) --- */
+/* OP puts tag classes on .content-list-item-container, not .content-list-item */
 
-.content-list-item.tag-deceased,
-.character-index .content-list-item.tag-deceased {
-  border: 3px solid #6d6862;
+.content-list-item-container.tag-deceased .content-list-item,
+.character-index .content-list-item-container.tag-deceased .content-list-item {
+  border: 6px solid #000;
   opacity: 0.88;
 }
 
-.content-list-item.tag-undead,
-.character-index .content-list-item.tag-undead {
-  border: 3px solid #4b0c0f;
-  box-shadow: inset 0 0 0 1px #3b0709;
+.content-list-item-container.tag-undead .content-list-item,
+.character-index .content-list-item-container.tag-undead .content-list-item {
+  border: 6px solid #7a9b62;
+  box-shadow: 0 0 10px rgba(122, 155, 98, 0.55);
+  opacity: 1;
 }
 
-.content-list-item.tag-deceased.tag-undead,
-.character-index .content-list-item.tag-deceased.tag-undead {
-  border: 3px solid #4b0c0f;
-  box-shadow: inset 0 0 0 1px #6d6862;
+.content-list-item-container.tag-deceased.tag-undead .content-list-item,
+.character-index .content-list-item-container.tag-deceased.tag-undead .content-list-item {
+  border: 6px solid #7a9b62;
+  box-shadow: 0 0 10px rgba(122, 155, 98, 0.55);
+  opacity: 0.88;
 }
 
 /* --- Visual timeline (.wonch-timeline-* on timeline wiki page) --- */

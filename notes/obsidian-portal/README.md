@@ -9,7 +9,8 @@ Repo-only copies of **Custom CSS** and **Custom Character Layout** for [The Lord
 | **`custom-css.css`** | Campaign Settings → Advanced → **Custom CSS** | **SSOT** - paste the whole file. CoS grey palette, index tile borders, timeline, item wiki tiles. |
 | `custom-css-cos-theme-safe.css` | Same (replace `custom-css.css` only if switching themes) | Alternate CoS theme (`.campaign-public-layout` scoped, parchment tables). Not combined with live CSS. |
 | `timeline-showpiece-snippet.html` | New wiki page body (Textile mode) | HTML for the timeline page; paste below a short intro. |
-| `character-index-layout.html` | Campaign Settings → Characters → **Custom Layout** | Tag-driven index sections (party, houses, Black Cats, City Cats, etc.). |
+| `character-index-layout.html` | Campaign Settings → Characters → **Custom Layout** | Tag-driven index sections (party, suspects, Osteomantic Archives, Fulcrum servants, houses, Black Cats, City Cats, etc.). |
+| `custom-navigation.html` | Campaign Settings → Advanced → **Custom Navigation** (Ascendant) | Replaces default left nav: Home, Adventure Log, Characters, Wiki, Investigation, Items; dashboard block for members/GM. |
 
 ## Refreshing from live OP
 
@@ -39,9 +40,10 @@ See [OP custom CSS basics](https://help.obsidianportal.com/article/183-custom-cs
 
 ## Character layout conventions
 
-- Tags slugify to classes: `House Oestra` → `.tag-house-oestra`, `in-party` → `.tag-in-party`.
+- Tags slugify to classes: `House Oestra` → `.tag-house-oestra`, `in-party` → `.tag-in-party`, `Archive worker` → `.tag-archive-worker`, `Fulcrum servant` → `.tag-fulcrum-servant`, `Suspect` → `.tag-suspect`.
 - Player characters use the **Player Character** flag → `.pc` (not a tag).
-- **Deceased** / **Undead** are styling tags only; characters stay in house/party buckets.
+- **Deceased** / **Undead** are styling tags only; characters stay in house/party buckets. Tile borders target `.content-list-item-container.tag-*` (OP puts tags on the container). Undead border wins when both tags are set.
+- **Suspects**, **Osteomantic Archives** (`Archive worker`), and **Fulcrum Servants** sections sit after Associates; extend the **OTHERS** `:not()` chain with `:not(.tag-suspect):not(.tag-archive-worker):not(.tag-fulcrum-servant)`.
 - **City Cats** section uses `.tag-city-cats`; extend the **OTHERS** `:not()` chain with `:not(.tag-city-cats)`.
 - Do **not** add a separate Undead index section (use tile border CSS in `custom-css.css` instead).
 

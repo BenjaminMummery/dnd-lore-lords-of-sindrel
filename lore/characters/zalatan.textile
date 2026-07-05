@@ -12,6 +12,7 @@ op_gm_only: false
 is_player_character: false
 tags:
 - Deceased
+- Undead
 - Antagonistic
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7516441/elfsjecs.jpg
 ---
