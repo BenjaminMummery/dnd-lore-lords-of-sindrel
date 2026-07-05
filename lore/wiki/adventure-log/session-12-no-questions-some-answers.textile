@@ -1,0 +1,23 @@
+---
+op_id: d2c9da6bc0264471b3819c1caeb8a638
+op_slug: session-12-no-questions-some-answers
+op_kind: Wiki
+op_type: Post
+name: 'Session 12: No Questions, Some Answers'
+title: 'Session 12: No Questions, Some Answers'
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-12-no-questions-some-answers
+op_created_at: '2026-07-05T13:15:36Z'
+op_updated_at: '2026-07-05T13:15:36Z'
+op_gm_only: true
+tags: []
+post_title: 'Session 12: No Questions, Some Answers'
+post_time: '2026-07-05T13:15:00Z'
+---
+
+
+
+<!-- GM_INFO_START -->
+h2. The Summons
+
+Late afternoon - a messenger from House Oestra finds the
+<!-- GM_INFO_END -->

@@ -7,13 +7,11 @@ name: Chugan "Chuggaz" Velm
 title: Chugan "Chuggaz" Velm
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/chuggaz
 op_created_at: '2026-06-25T19:54:55Z'
-op_updated_at: '2026-07-04T21:50:33Z'
+op_updated_at: '2026-07-05T13:10:42Z'
 op_gm_only: false
 is_player_character: false
 tags:
 - Adjutant
-- House Grimbolg
-- Fulcrum servant
 - he/him
 ---
 
@@ -32,9 +30,11 @@ According to [[:nort | Nort]], he is rumoured to be connected to [[The Black Cat
 fn1. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
 
 <!-- GM_INFO_START -->
+house Grimbolg, black cat
+
 h2. Black Cats link
 
-**[[The Black Cats | Black Cats]] — Latch** (true link, not rumour). Embedded [[House Grimbolg | Grimbolg]] [[Adjutant | adjutant]] at [[The Fulcrum | the Fulcrum]]; passes shift rosters, servant-route patterns, and ceremony-night staffing **up to his Tally** (and Vault). He does not fence or ledger himself. Nort's gossip is accurate. Vault protects him while he is useful; he knows fragments of who paid for extended shifts on bombing night but not the wider plot.
+**[[The Black Cats | Black Cats]] — Latch** (true link, not rumour). Fences [[The Fulcrum | Fulcrum]] shift rosters, servant-route patterns, and ceremony-night staffing to **Tallies** / **Vault**. Nort's gossip is accurate. Vault protects him while he is useful; he knows fragments of who paid for extended shifts on bombing night but not the wider plot.
 
 Unrelated to **City Cats** (actual felines).
 

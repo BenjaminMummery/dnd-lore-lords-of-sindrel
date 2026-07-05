@@ -7,7 +7,7 @@ name: D'gara
 title: D'gara
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/dogara
 op_created_at: '2026-02-18T14:22:56Z'
-op_updated_at: '2026-07-04T21:49:22Z'
+op_updated_at: '2026-07-05T14:30:03Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -15,7 +15,7 @@ tags:
 - she/her
 - Deceased
 - Factor
-avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481291/fefc0b5fafbd39ba5e67c290c2fdf898.jpg
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7553465/images.jpeg
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -31,3 +31,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481291/fefc0b5fafbd39ba
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]] — Hexine Circle briefing on the sabotage campaign.
 
 fn2. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
+
+<!-- GM_INFO_START -->
+Tabaxi
+<!-- GM_INFO_END -->
