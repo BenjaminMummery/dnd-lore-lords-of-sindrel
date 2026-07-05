@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-07-05T14:38:50Z",
-  "last_portal_pull": "2026-07-05T14:37:44Z",
+  "last_portal_pull": "2026-07-05T20:58:54Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -367,9 +367,9 @@
       "op_id": "2460ccd9ff50422286d81cbfc2483262",
       "op_kind": "Character",
       "op_slug": "rossin-ros-greyhirst",
-      "op_updated_at": "2026-07-04T07:22:19Z",
+      "op_updated_at": "2026-07-05T19:33:59Z",
       "repo_blob_sha": "9a40e3a9b1a5899e2d839eadd9186a69ba243e25",
-      "repo_hash_at_sync": "6cf7abc6502f979d5310ee7823a051ab3fa5b414458137b616e8ac06f082c30d",
+      "repo_hash_at_sync": "7cdc956288d34ce154ba57a4d49b67de85d8c31440a512c1d4e147bb4fcd181b",
       "repo_path": "lore/characters/rossin-ros-greyhirst.textile"
     },
     "24a9fb6a96c34deeadf8c99ef0524f0c": {
@@ -587,9 +587,9 @@
       "op_id": "42cee9f0b8134dccab7714a196fd04d5",
       "op_kind": "Character",
       "op_slug": "ayr",
-      "op_updated_at": "2026-07-04T07:21:45Z",
+      "op_updated_at": "2026-07-05T20:54:42Z",
       "repo_blob_sha": "87f23f4d488238b3feab1b918ba9d5146e1bef30",
-      "repo_hash_at_sync": "4743b06a7ad74b52cf30d2bad50eb56f0f0d3c799895d640c7128494b49ef7ec",
+      "repo_hash_at_sync": "90f144bc0163c6d16584780ee4f16c2c1c094d401376eb0374bd0cbb1f846f68",
       "repo_path": "lore/characters/ayr.textile"
     },
     "46e3468d573f4714bd7ff0fb59d65696": {

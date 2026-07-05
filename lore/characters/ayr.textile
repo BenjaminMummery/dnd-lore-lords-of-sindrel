@@ -7,7 +7,7 @@ name: Ayr
 title: Ayr
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/ayr
 op_created_at: '2025-12-14T17:05:38Z'
-op_updated_at: '2026-07-02T15:57:41Z'
+op_updated_at: '2026-07-05T20:54:42Z'
 op_gm_only: false
 is_player_character: true
 tags:
@@ -39,9 +39,159 @@ h2. Player sheet (D&D Beyond)
 * *Bonds:* A powerful enemy killed someone he was closest to; someday he will have revenge on all their kind. Someone he loved died because of a mistake he made — that will never happen again.
 * *Flaws:* Too greedy for his own good; cannot resist a risk if money is involved.
 
-h2. Player questionnaire
+h2. Ayr's Backstory
 
-*What do they most regret leaving behind?* — He misses card games and the bonds of his old life; this path is not as fun as before.
+Thief? That was a life long ago.
 
-*Rumours (party may not know):* **True:** a former thief; lost his eye on a job. **False:** merely a mislaid adventurer exploring for fun. If the dark past surfaces, it tarnishes the polished armour and pious act.
+Young Ayr loved his underground cities, loved his family, and enjoyed a very typical and fun gnomish childhood.  It changed though, with his family being evicted from their little home after failing to make bank payments to GF & Sons Trust, and were forced to begging on the streets and to live amongst the hustle and bustle of the underground-underworld.
+
+Funnily enough, Ayr seemed quite quick to take to a new life of living day to day based on what you could find, or steal.
+
+Jovial, quick witted, and always getting into trouble, Ayr honed his skills and developed a keen eye for reading situations, especially those where loose coin could be in an open pocket.  He caught the eye of a a local thieving gang, and quickly rose amongst their ranks.
+
+From crypts to castles, manors to moats, if there were treasures to be found under protection somewhere - he was after it.
+
+He did keep to a rule though: Only take from those who have more than their "fair" share.  His double life was unknown to his family though, and he would often make up stories about how he came to get coin to keep them just above the squalor line, as he would always ensure a portion of his spoils went to those who needed it more than him.
+
+Ayr's life would forever be changed when a seemingly easy job went horribly wrong.
+
+A Noble, Baron von Goldfinger,  whom he had once relieved some trinkets, coin, and rumor has it *insert here* from, had set up a fake job which led to he and his crew being set upon by a vicious mimic that had been carefully lured into what should have been an obvious farce. Ayr was the only survivor of his group - albeit with one less eye than he started with.
+
+Since then, he's developed both an irrational hatred for Mimics and all types of creates that would harm every day people just going about their business, and has sworn to get his revenge on von Goldfinger when the opportunity arises.  Depending on what is closest, that's who he tends to direct his ire at.
+
+He feels guilt because he blames himself for what happened.
+
+He feels anger, because the Noble class has already taken so much from everyone - but has taken everything from him, von Goldfinger in particular.  
+
+He's sworn to (at) his god, his friend's god, your god, any god that he could find really, that from then on out his life would be dedicated to two things.  
+
+One: He wishes to make sure that he leads the charge in extermination of Mimics from the lands, and will happily take any fiend that stands in his way with them.
+
+Two: Goldfinger has uncollected debts that he must pay for.
+
+He's since (mostly) put down his tricks of deception and picked up a sword and shield (and some other armour he borrowed from someone who obviously wasn't using it - because why else would this all be sitting on display in some rich fella's armoury instead of out protecting some adventurer who actually needs it) and set out on his path to fulfill his new oath.
+
+As it so happened, the various gods hearing their names being sworn to (at) took a bit of amusement to all this, and are for now lending this little gnome a bit of strength just to see how it all plays out.
+
+He makes his journey to Sindrel hearing of rumours that such beasts have taken residence, while at the same time being somewhat concerned that his many deity amulets he carries with him seem to be a little quieter than normal as of late.
+
+
+h2. Roleplaying Notes
+
+h3.⁠ ⁠What do they most regret leaving behind?
+
+He really liked a good card game, and living this new life isn't nearly as fun as what he had before.  He misses his old "family" and bonds, and wishes he could have that once again.  Since leaving, he keeps finding ways to send money home, but his family doesn't know what has become of him, nor really what has become of them.
+
+h3.⁠ ⁠What rumour(s) might somebody else have heard about your character?
+
+* ⁠The whole bit about being a thief in a previous life and how he came to lose his eye and his entire crew while taking on a job, versus just being a mislaid adventurer exploring for fun.
+* His past dark life stands stands to tarnish his shiny new armour, and bring up some very harsh self truths should this become well known.
+
+h2. Ayr's Journal
+
+h3. Prelude: In the days leading up to the meeting at The White Dragon Inn
+
+h4. 20th of Enean, year 4218
+
+It’s been many days on the road, and I think I’m finally beginning to see an end in sight.  My fellow travellers on the Mage Road had said [[Soulwind | Soulwind]] is just another few days' travel, and the road remains relatively safe with the patrols - some good news for once.  
+
+My mail still doesn’t quite fit right though, I hope to get a blacksmith to look at it soon.  I think I have just enough coin left to get it fit a little better.  I’m impressed my story has held up so far as an expert mimic hunter.  Hoping it can land some big jobs soon, and hopefully they pay up front. The Noble’s caravan the other day really should’ve had better locks on their chests I’ll say, but their lax security is my boon.  Doubt they’d miss  anything anyways.
+
+I’m still second guessing myself.  About what I’m taking on.  I have to do it for them, for myself, but … it’s a new feeling, this, honestly.  Who would’ve thought - ME - doubting my own abilities.  Sod it, I got their memories keeping me going, and I guess all I need to do is look in a mirror to be reminded of what I lost myself that day.  I’m not strong enough yet, but one day.  Just need to keep on moving until the time comes - and then it’ll be time for payback.  
+
+I’ve tried praying again as well.  The amulets aren’t giving much back though, and I can barely feel anything.  I was told one would speak to me when I  picked them up, and so far it’s been nada.  It’d be ironic I guess, myself getting conned by that priest.  Won’t fault ‘em though, just means my next letter home will be delayed - and it looks like the [[The Gods | Dawnfather]] might have a sense of humour after all.
+
+h3. Entry Series One: After events at The White Dragon
+
+h4. 24th of Enean, year 4218
+
+I made it to [[Soulwind | Soulwind]] without issue.  Travellers continue to talk about there being problems in [[Sindrel | Sindrel]], so I’m sure to find a job or two there - this town seems rather dry - but pleasant enough.
+
+The blacksmith was lacking in expertise I’ll admit, but they got the job done.  Armor fits well, and even got some embellishments on the shield.  It’s cheap pewter, but polished up nicely - probably has more experience with that then forging top stuff I’d imagine given their location.
+
+Colour me surprised with the evening’s events though.
+
+Sat down at a table, enjoying a pint, when it fills up with just the most peculiar group of travellers I’ve ever seen.  The halfling doesn’t seem like he’s quite all there in the head, the fella proclaiming to be a fighter seems useful enough.  Then there’s a couple elves but one is wearing a mask, and the other one seems perplexed at the city and just seems very ranger-ish.  I don’t know, like they’d be more comfortable among trees and grass or something.  Rounding it out we have the largest goliath I think I’ve ever seen with a blooming severed head attached to her waist, and a DROW.  How’d she find herself up here above the surface?  The whole empire seems to be turning on its head lately.
+
+These travellers are good in a tussle though, I’ll give them that.
+
+As I was masterfully pulling off the mimic hunter story with this completely clueless Noble sat down next to us - I think her protector has his suspicions though - some moronic ruffians started taking an all too obvious interest in our table.  I guess us being easy targets drew them a little too close, and got way more than they bargained for.  Hoo I haven’t had that much fun in a while.  Apparently we are all headed to Sindrel, and the next coach leaves in the morning.  Looks like I have some travelling partners for a wee while.  Much better than going alone - at least.
+
+My spin attack move finally worked.  I bet I looked awesome.
+
+h3. Entry Series Two:  Anathemist Ambush, Fallowhurst, and The Outpost
+
+h4. 25th of Enean, year 4218
+
+What have I gotten myself into?  
+
+My handwriting is going to be a bit off, as today’s exploits have left my arm a bit numb.  We’ve found ourselves in some kind of defensive outpost for the night.  How we got here is a different story.  
+
+We were met on the road by a mercenary group.  I’ll sing my earlier praises again, this group is good in a fight.  We were ambushed, but I don’t think they were expecting us to put up such a fight.  Our unfortunate convoy captain shouted out some word - I had to ask what it was - Anathemist.  I assume that’s what these people call themselves.
+
+We quickly dispatched a few of the group and were quickly getting the upper hand even with a disadvantage of high ground. (Note to self: That Deathwalker, as she calls herself, is strong.  I remember pulling similar tossing stunts to get to ledges of treasure rooms with Swyfgrin back in the day)  It went terribly wrong though when one of them brandished some device - as long as a sword, but he didn’t need to swing it.  It sounded like thunder, and our captain burst into more pieces than I care to remember.  I don’t know their name, but they're on my list now.
+
+Our horses and coach bolted with the noise, and this proved a useful escape.  Pin, as the fighter is called, was in a bad way but the rest of us got out mostly unscathed.  Some Gnomish ingenuity prevailed though, and we made ourselves a wagon out of our old coach - and somehow found us on some long-forgotten road. The noble, Dulcinia, is useless, but her gold pays well.  100 pieces to just continue escorting her, can’t say no to that - even if we have to split it.
+
+Along the road - we eventually found ourselves in an (unsurprisingly) long-bandoned town. Nothing left but dust and memories.  Leaving this behind, we continued across a ominous bridge, and quickly heard something in distress in the derelict gardens just past.  We freed a massive stoat - the largest I’ve ever seen -  caught in stranglevine, I think just in the nick of time.  I’m well acquainted with razorgrass now as well - again, missing the obvious.  The drow, Amanira, knows her plant stuff - even if she is a little bit standoff-ish in communicating her knowledge.  Thankfully she warned us of the tryffids that were fast approaching before we could become overrun.  I do owe her some thanks for some help though, I’ll admit.
+
+It didn’t get better from there though.
+
+Fallowhurst College.
+
+There’s Necrotic energy all over this place, some odd plague-masked entity that is entirely too mysterious for their own good seems to live here, and oh … it’s full of dead bodies and skeletons - not all of which are actually dead as it turns out.  My prior thoughts on the usefulness of the group as a whole needs a rethink.  
+
+I’ve been in my share of places I didn’t want to be, but this is up there.  I tried that trick the old traveller in plate taught, the one about “sensing bad things” - thought he was joking at first, but not only did it work - I think it saved us.  What happened while we explored though I don’t know for sure.  Wilrin, with his halfling sensibilities, did something magical with Deathwalker (how does she know magic?!) and it left them both scarred and clinging to life.  Whatever I was sensing before screamed something that I would only describe as unholy if I was a true believer, and we found ourselves being pursued by SKELETONS.
+
+I was greedy.  I went for one of the hands that threw itself through the door and somehow it got me instead.  My arm still feels it from the scalpel cut - it’s not pain per se, but the absence of feeling.  I’m not sure what to make of it yet and hope it yet heals.  Something else got me as I jumped through the window.  Our pursuers must’ve had a big enough opening for a dart or something, but I was in a bad way for a bit.  I should’ve kept my shield behind me as I jumped.  I keep missing the obvious dangers - again…
+
+We dispatched two skeletons quickly once outside.  Yes I am writing correctly, if somewhat messily, skeletons.  This place is beyond us now, we have neither the numbers nor the strength.  
+
+I’ll keep the rest short, as my candle is nearly out.  Deathwalker and Wilrin seem to be stable, if shaken - and it’s almost like they are finishing each other's sentences sometimes.  Great.  Everyone else was quick to leave Fallowhurst behind.  We eventually came across this outpost where I write now - it’s guarded by soldiers from Sindrel, and they’ve provided warm beds and meals for us - plus some information on what’s been going on in the area.  They were just as surprised to see us, as we were them.  We will hear more in the morning, but for now we are all safe and seemingly back on track.
+
+I’m impressed with Pin and Ros.  At the moment their sensibilities seem to be on survival more than anything.  Deathwalker knows more than she lets on, there’s a playfulness to our goliath friend here - but an edge that is unmistakable.  Silrie doesn’t seem of this world, if that’s even possible, and if I get asked to meditate one more time….  Amanira remains a bit of a mystery though, and I haven’t quite gotten my head around Wilrin yet.  Honestly, it’s a bit funny how they remind me of my old crew sometimes.  
+
+Swiped a doorknob.  Hope it proves to be useful in the future.
+
+26th of Enean, year 4218 (36 Days Left)
+We’ve left the Outpost and finally made it to Sindrel.  We had a brief encounter with the Anathemists, and apparently we’re “Wanted” now.  I’m all for it if it gets me closer to their leader.
+
+The city is something else, I’ve never fathomed anything like it.  We’ve been given a bit over a month’s time in the city as guests, and have these strange bracelets to allow us to get around.  There is magic everywhere - I’m surprised there’s this much left in the world.  My amulets are still … quiet though, although I could’ve sworn I felt some heat coming from the pouch earlier.
+
+We’ve been directed to reside at an inn called The Pointed Hat.  The joke isn’t lost on me in a city full of magic users.  Given our travels, I’m looking forward to some rest for a bit.  A shame, really, though that this seems to be coming to an end as I’ve come to start enjoying the company of these “adventurers” a bit over the past few days and will be sad to carry on alone from here on out.
+
+That cricket had it coming - although I don’t know how I did that.
+
+
+Episode Three: Sindrel Beginnings
+
+28th of Enean, year 4218 (34 Days Left)
+Oh what fun this evening has been.  
+
+I pulled out my old disguise, Sir Fenton Woofrunner, and had a bit of fun learning about the city.  This is the thing with Nobles - with nice enough clothes, a snooty accent, and just a bit of superior attitude you can do just about anything as you fit right - no suspicions at all.
+
+Got some juicy gossip as always.  Looks like I need to make some acquaintances with a few of these houses, especially Oestra and Mabon.  It’s hard not to get into old habits pulling this move again, but I tried to keep the questions … purely academic for treasure rooms that might have some pest problems.  Beltus has the nicest vault according to rumour, so we need to find a way in there.
+
+Had a most interesting conversation with a Dwarven woman named Hallan.  Definitely intoxicated with her own self-worth by the looks of it, but was easy enough to get information from, even if she did seem a little inquisitive on my origins though.
+
+In a city this large, I don’t think I’ll be seeing her again anytime soon at least.
+Grabbed a silver spoon on my way out.  After a few pints back at the inn, ended up turning it into something special.  I thought I had forgotten that particular schematic - HA! Your boy, Ayr’s still got it!
+
+Episode Four:  You want us to do what?
+
+29th of Enean, year 4218 (33 Days Left)
+So it looks like we’re sticking together for a while longer yet - and even get to play the part of pawn in some Noble’s game.  The rewards seem good enough though, so let’s see where it goes.
+
+Meeting Hexene Circle
+THE CHASE
+Making it to the Archives
+All that happens in the Archives
+Finding the Raven Shrine
+Locke it up.
+
+
+
+Episode Five:
+The 30th of Enean, year 4218 (32 Days Left)
+Downtime Day.
 <!-- GM_INFO_END -->
