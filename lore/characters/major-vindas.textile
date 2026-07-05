@@ -7,7 +7,7 @@ name: Major Vindas
 title: Major Vindas
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/major-vindas
 op_created_at: '2026-02-18T16:42:01Z'
-op_updated_at: '2026-03-12T11:37:11Z'
+op_updated_at: '2026-07-04T21:36:11Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -24,8 +24,8 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7492300/93fb2850db01402f
 <!-- OP_BIO -->
 [[Factor | Factor]] of [[House Meness | House Meness]].
 
-* *17th Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** Killed testing a piece of armour with an inverted reflection enchantment — instead of reversing incoming force it amplified it. When she invited an aide to help test the armour with a low-level firebolt spell, she was incinerated instantly.[1]
+* *17th Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
+** Killed testing a piece of armour with an inverted reflection enchantment — instead of reversing incoming force it amplified it. When she invited an aide to help test the armour with a low-level firebolt spell, she was incinerated instantly.
 
 <hr>
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]

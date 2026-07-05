@@ -7,8 +7,8 @@ name: Emissary Isius
 title: Emissary Isius
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/emissary-isius
 op_created_at: '2026-02-18T16:53:52Z'
-op_updated_at: '2026-02-18T16:56:32Z'
-op_gm_only: true
+op_updated_at: '2026-07-04T21:41:51Z'
+op_gm_only: false
 is_player_character: false
 tags:
 - House Lithra
@@ -23,9 +23,9 @@ Isius is a charismatic gnome with a penchant for cooking elaborate feasts.
 <!-- OP_BIO -->
 [[Factor | Factor]] of [[House Lithra | House Lithra]].
 
-* *21st Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
-** A truth-speaking geis was secretly placed on the punch ladle at a diplomatic function she hosted; three major diplomatic incidents, two ended marriages, and an awkward proposal followed.[1]
-** Withdrew from public life after the scandal.[1]
+* *21st Ostory, year 4218 ([[The Soulwind Calendar | SC]])*[1]
+** A truth-speaking geis was secretly placed on the punch ladle at a diplomatic function she hosted; three major diplomatic incidents, two ended marriages, and an awkward proposal followed.
+** Withdrew from public life after the scandal.
 
 <hr>
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]] — Hexine Circle briefing on the sabotage campaign.

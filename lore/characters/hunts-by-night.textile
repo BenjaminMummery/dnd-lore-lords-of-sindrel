@@ -7,7 +7,7 @@ name: Hunts-By-Night
 title: Hunts-By-Night
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/hunts-by-night
 op_created_at: '2026-03-16T16:41:25Z'
-op_updated_at: '2026-07-04T11:27:50Z'
+op_updated_at: '2026-07-05T09:25:38Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -21,10 +21,10 @@ You see a lean domestic cat with soot-grey tabby fur and pale green eyes — ran
 <!-- OP_BIO -->
 A [[Sindrel | Sindrel]] street cat. Part of the informal network known to [[:amanira | Amanira]] as the City Cats.
 
-* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** Accompanied [[The Adventurers | the Wonch]] through the [[Osteomantic Archives | catacombs]].[1]
-* *30th–31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** At [[Radwasp House | Radwasp House]], tried to warn the party about [[:tama | the giant stoat]]; sought out [[:pads-silently | Pads-Silently]] when unsuccessful (morning of the 31st).[2]
+* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
+** Accompanied [[The Adventurers | the Wonch]] through the [[Osteomantic Archives | catacombs]].
+* *30th–31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[2]
+** At [[Radwasp House | Radwasp House]], tried to warn the party about [[:tama | the giant stoat]]; sought out [[:pads-silently | Pads-Silently]] when unsuccessful (morning of the 31st).
 
 <hr>
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]

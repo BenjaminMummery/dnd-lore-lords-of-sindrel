@@ -7,7 +7,7 @@ name: Captain Hielaman
 title: Captain Hielaman
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/hielaman
 op_created_at: '2026-01-27T11:33:21Z'
-op_updated_at: '2026-07-04T11:11:49Z'
+op_updated_at: '2026-07-04T21:45:02Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -35,10 +35,14 @@ Hielaman is a [[Factor | Factor]] of [[House Meness | House Meness]]. He fulfill
 ** Hielaman took custody of the surviving [[:arise-to-victory-over-the-infidel-hoards | Anathemist Lieutenant]], received the [[Private Warwick's Report | report]] of [[:sebastian-warwick | Private Sebastian Warwick]], and escorted [[The Adventurers | the Wonch]] back to [[Sindrel | Sindrel]].
 
 * *28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
-** Encountering [[:pin | Pin]] in a bar, Hielaman entered into a heated discussion of the performance of his favoured Diechquer team - The Griffon's Talons. This discussion devolved rapidly, and Hieleman and Pin parted on acrimonious terms, the former receiving a split lip to match the latter's black eye.[1]
+** Encountering [[:pin | Pin]] in a bar, Hielaman entered into a heated discussion of the performance of his favoured Diechquer team - The Griffon's Talons. This discussion devolved rapidly, and Hieleman and Pin parted on acrimonious terms, the former receiving a split lip to match the latter's black eye.
 
-* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** Hielaman's interrogation of [[:arise-to-victory-over-the-infidel-hoards | the Anathemist Lieutenant]] having revealed that the [[Anathemists | Anathemists]] have access to privileged information, a [[Hexine Circle | Hexine Circle]] is convened in the morning. Unable to reach resolution, the council enlists [[The Adventurers | the Wonch]] to root out the spies they suspect have infiltrated the city.[2]
+* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[2]
+** Hielaman's interrogation of [[:arise-to-victory-over-the-infidel-hoards | the Anathemist Lieutenant]] having revealed that the [[Anathemists | Anathemists]] have access to privileged information, a [[Hexine Circle | Hexine Circle]] is convened in the morning. Unable to reach resolution, the council enlists [[The Adventurers | the Wonch]] to root out the spies they suspect have infiltrated the city.
+
+h2. Spies lead
+
+bq). "Shake down the local criminals. Our spies need ways to move about the city, ways to get their hands on information, equipment, resources, all without being noticed. That requires a lot of familiarity with the city. Why start from scratch when you can use whats already here? Somewhere out there are some mid- to high-level crooks who are suddenly much better paid as a reward for the treason. Below them are petty scum looking to get rich. They're the weak link, find them and lean on them. Our spies need ways to move about the city, ways to get their hands on information, equipment, resources, all without being noticed. That requires a lot of familiarity with the city. Why start from scratch when you can use whats already here? Somewhere out there are some mid- to high-level crooks who are suddenly much better paid as a reward for the treason. Below them are petty scum looking to get rich. They’re the weak link, find them and lean on them."
 
 <hr>
 fn1. [[Session 4: Sindrel! | Session 4: Sindrel!]]
@@ -46,11 +50,7 @@ fn1. [[Session 4: Sindrel! | Session 4: Sindrel!]]
 fn2. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
 
 <!-- GM_INFO_START -->
-h2. Spies lead
-
-bq). Shake down the local criminals. Our spies need ways to move about the city, ways to get their hands on information, equipment, resources, all without being noticed. That requires a lot of familiarity with the city. Why start from scratch when you can use whats already here? Somewhere out there are some mid- to high-level crooks who are suddenly much better paid as a reward for the treason. Below them are petty scum looking to get rich. They're the weak link, find them and lean on them. Our spies need ways to move about the city, ways to get their hands on information, equipment, resources, all without being noticed. That requires a lot of familiarity with the city. Why start from scratch when you can use whats already here? Somewhere out there are some mid- to high-level crooks who are suddenly much better paid as a reward for the treason. Below them are petty scum looking to get rich. They’re the weak link, find them and lean on them.
-
-Should lead to [[The Black Cats | the Black Cats]] (see [[The Black Cats | Black Cats]] wiki). Hielaman is personally straight-lace and unaware of Vault kompromat; his superiors are compromised, which is why he counsels against a head-on leadership strike but will happily push the Wonch at **Scratches** and **Latches**. If he investigates seriously into **Tally** books, Vault will treat him as a threat — hard to blackmail, dangerous to ignore.
+Should lead to [[The Black Cats | the Black Cats]] (see [[The Black Cats | Black Cats]] wiki). Hielaman is personally straight-lace and unaware of Vault kompromat; his superiors are compromised, which is why he counsels against a head-on leadership strike but will happily push the Wonch at **Scratches** and **Tallies**. If he investigates seriously past that, Vault will treat him as a threat - hard to blackmail, dangerous to ignore.
 
 Should lead to the quills, or Nakoma’s new friends. Either have contacts who know that _somebody_ was muscling in on the garbage collection - usually the domain of crime syndicates since it's a good way to move things without being noticed. Enough prodding will lead them to a new garbage service, actually a few local ruffians who found a cart abandoned just inside outside the [[Quarantine Zone | quarantine zone]].
 

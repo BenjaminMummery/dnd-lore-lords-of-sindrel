@@ -7,12 +7,13 @@ name: Micycle Smynth
 title: Micycle Smynth
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/micycle-smynth
 op_created_at: '2026-03-16T16:38:47Z'
-op_updated_at: '2026-03-16T16:38:47Z'
+op_updated_at: '2026-07-05T09:28:42Z'
 op_gm_only: false
 is_player_character: false
 tags:
 - Deceased
 - he/him
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7553365/images.jpeg
 ---
 
 <!-- OP_DESCRIPTION -->

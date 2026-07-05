@@ -7,18 +7,18 @@ name: Agent Myrath
 title: Agent Myrath
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/myrath
 op_created_at: '2026-01-26T17:09:56Z'
-op_updated_at: '2026-02-18T15:58:41Z'
+op_updated_at: '2026-07-04T21:45:46Z'
 op_gm_only: false
 is_player_character: false
 tags:
-- she/her
 - House Lithra
 - Adjutant
+- she/her
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481279/5f82b9bcb958e80952652b16343300b6.jpg
 ---
 
 <!-- OP_DESCRIPTION -->
-[[Adjutant | Adjutant]] of [[House Lithra | House Lithra]]
+
 
 <!-- OP_BIO -->
 [[Adjutant | Adjutant]] of [[House Lithra | House Lithra]].

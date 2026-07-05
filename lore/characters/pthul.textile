@@ -7,7 +7,7 @@ name: Pthul
 title: Pthul
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/pthul
 op_created_at: '2025-12-09T19:59:43Z'
-op_updated_at: '2026-07-01T13:04:41Z'
+op_updated_at: '2026-07-05T09:29:14Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -25,9 +25,9 @@ Pthul is utterly devoted to his charge, [[:dulcinia-von-phthasia | Dulcinia von 
 ** Accompanied [[:dulcinia-von-phthasia | Dulcinia]] departing the von Phthasia estate in [[Soulwind | Soulwind]] for [[Sindrel | Sindrel]] to seek a magical cure for her ailment; progress slow due to her ill health and the gold and jewels they transported.
 * *24th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
 ** Fought alongside a ragtag group of adventurers to subdue the [[:gillette-quill | Quill]] [[:raymond-quill | brothers]]; at his mistress's insistence, grudgingly allowed his new allies to share their table for the evening.
-* *25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[2]
+* *25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** His coach with Dulcinia was ambushed by [[Anathemists | Anathemists]].[1]
-** Broke his arm when the coach went over the cliff; offered the adventurers 100 GP up front to escort Dulcinia, their luggage, and the gold to [[Sindrel | Sindrel]]; continued with the party through flooded [[Fallowhurst | Fallowhurst]] and [[Fallowhurst College | Fallowhurst College]].
+** Broke his arm when the coach went over the cliff; offered the adventurers 100 GP up front to escort Dulcinia, their luggage, and the gold to [[Sindrel | Sindrel]]; continued with the party through flooded [[Fallowhurst | Fallowhurst]] and [[Fallowhurst College | Fallowhurst College]].[2]
 * *26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** Traveled with the party from the [[Fallowhurst Outpost | Fallowhurst Outpost]] to [[Sindrel | Sindrel]].[3]
 ** Parted company with the Adventurers after their arrival in the city (afternoon); made for [[The Pointed Hat | The Pointed Hat]].[4]

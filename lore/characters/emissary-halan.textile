@@ -7,7 +7,7 @@ name: Emissary Halan
 title: Emissary Halan
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/emissary-halan
 op_created_at: '2026-01-27T21:15:33Z'
-op_updated_at: '2026-07-04T11:17:40Z'
+op_updated_at: '2026-07-04T21:41:02Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -30,6 +30,12 @@ She is invariably elegantly dressed in [[House Lithra | Lithra]]'s grey-and-silv
 * *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[2]
 ** Convened the [[Hexine Circle | Hexine Circle]] in the morning after [[:hielaman | Captain Hielaman]]'s interrogation exposed a leak; introduced the house representatives and tasked [[The Adventurers | the Wonch]] with finding spies in [[Sindrel | Sindrel]].
 ** Agreed to help [[:silrie-aegiskiir | Silrie]] locate blueprints of the city's oldest structures during the house interviews that followed immediately (each house keeps its own records).
+
+h2. Spies lead:
+
+bq). "The only true power is information, and the key to information is access. They can only have learned what they know from highly placed individuals - 20 or so in the entire city I suspect. If you want to get access to those sorts of social circles, you need to seem like you belong. I'd imaging you could get into one of my soirees with a wink and a suitably daring fake name, but the upper circles are a different story. You would need money, and lots of it. Enough for an opulent lifestyle  and even more for bribes and other social lubrication. So too you would need to appear to be socially influential and reliably stable - old money gentry, or hereditary nobility, but with a legend that is unlikely to contradict anyone's experiences. They couldn't risk changing alias within the city, they'll have arrived in character. I would suggest looking at recent arrivals, within the last few months. Focus on the nobility and wealthier merchants - people who can move large amounts of money without arousing suspicion. Finally look for people who are obviously harmless, someone around whom it would be easy to drop your guard. For example, a young naive noblewoman with a disarmingly eager affect travelling with a fortune in gold and an almost comically proficient bodyguard...
+<br>
+I jest of course, I have confirmed the Lady Von Pthasia's identity myself, and either way she only arrived in the city _after_ the information loss had occurred. Although, I must confess may be inclined to use certain details of her life the next time I myself have to go undercover."
 
 <hr>
 fn1. [[Session 4: Sindrel! | Session 4: Sindrel!]]

@@ -7,7 +7,7 @@ name: Caller Alandria
 title: Caller Alandria
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/alandria
 op_created_at: '2026-01-27T21:12:55Z'
-op_updated_at: '2026-07-04T11:15:59Z'
+op_updated_at: '2026-07-04T21:39:08Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -29,13 +29,12 @@ You see a human woman with dark skin and a slender, upright build, her head shav
 * *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[2]
 ** Met [[The Adventurers | the Wonch]] at the edge of [[Merrylane | Merrylane Park]] after they destroyed Beltus pest-control constructs; furious at the interference, then grudgingly accepted that the stoat threat was resolved.
 ** [[:wilrin-racenglade | Wilrin]] magically retrieved her teacup and traded it back for a pouch of fine imported tea.
+
+h2. Spies lead
+
+bq). [[Osteomantic Archives | "The Osteomantic Archives]]. Think about it – they must have a base of operations – somewhere their comings and goings won't be noticed. Somewhere well trafficked but anonymous. People go in and out of the archives all the time, but nobody stays long. And, nobody thinks much of it if you're a bit strange. The catacombs are a labyrinth, and they're chronically understaffed. You could hide anything down there."
+
 <hr>
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
 
 fn2. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
-
-<!-- GM_INFO_START -->
-h2. Spies lead
-
-bq). The Osteomantic Archives. Think about it – they must have a base of operations – somewhere their comings and goings won't be noticed. Somewhere well trafficked but anonymous. People go in and out of the archives all the time, but nobody stays long. And, nobody thinks much of it if you're a bit strange. The catacombs are a labyrinth, and they're chronically understaffed. You could hide anything down there.
-<!-- GM_INFO_END -->

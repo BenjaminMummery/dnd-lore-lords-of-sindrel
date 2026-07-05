@@ -7,7 +7,7 @@ name: Seer Demeletas
 title: Seer Demeletas
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/seer-demeletas
 op_created_at: '2026-01-27T21:14:03Z'
-op_updated_at: '2026-07-04T11:10:12Z'
+op_updated_at: '2026-07-04T21:43:36Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -27,11 +27,9 @@ A tiefling man with deep purple skin and a slender build, his swept-back black h
 ** Joined the [[Hexine Circle | Hexine Circle]] convened in the morning after the Anathemist leak was discovered.
 ** Gave [[:silrie-aegiskiir | Silrie]] and [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] a cryptic prophecy after "reading the bones" during the house interviews that followed immediately; Deathwalker secured a date with him.
 
-<hr>
-fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
-
-<!-- GM_INFO_START -->
 h2. Spies lead
 
 bq). Your path leads through earth and ash and brimstone, but beware the fire and fury – its blinding light hides the spectre of death. It is easy to get lost in the dark, but remember to trust in righteousness. Your lucky number is eight. Your lucky colour is red. Pay close attention to your friends, you may find yourself looking to them at times you don't expect. Avoid shellfish, but be open to trying new experiences.
-<!-- GM_INFO_END -->
+
+<hr>
+fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]

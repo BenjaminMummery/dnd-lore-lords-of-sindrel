@@ -7,7 +7,7 @@ name: Tyromancer Pterath
 title: Tyromancer Pterath
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/f-lar-mnementh
 op_created_at: '2026-02-14T15:26:28Z'
-op_updated_at: '2026-03-12T11:30:19Z'
+op_updated_at: '2026-07-04T21:42:36Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -18,7 +18,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7478597/lizard_priest.jp
 ---
 
 <!-- OP_DESCRIPTION -->
-Poisoned by the anathamist spies - his cheese was laced with halucinigens.
+
 
 <!-- OP_BIO -->
 [[Factor | Factor]] of [[House Goela | House Goela]].
@@ -28,7 +28,7 @@ Poisoned by the anathamist spies - his cheese was laced with halucinigens.
 ** Survived, but has been unwilling to attempt any further acts of divination.
 
 <hr>
-fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]] — Hexine Circle briefing on the sabotage campaign.
+fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
 
 <!-- GM_INFO_START -->
 Poisoned by the anathamist spies - his cheese was laced with halucinigens.

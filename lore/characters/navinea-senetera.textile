@@ -7,7 +7,7 @@ name: Navinea Senetera
 title: Navinea Senetera
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/navinea-senetera
 op_created_at: '2026-01-27T21:14:29Z'
-op_updated_at: '2026-07-04T11:30:38Z'
+op_updated_at: '2026-07-04T21:50:02Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -34,6 +34,10 @@ She is concerned with system failure, entropy, and [[Sindrel | Sindrel]]'s resou
 ** Hosted the Wonch at The Amalthean where she continued her discussion with Ros and explained the mechanism of D'gara's death.
 ** [[:pin | Pin]] noticed she assumed [[Anathemists | Anathemist]] cascade-failure sabotage without proof — an assumption, not a demonstrated fact.
 
+h2. Spies lead
+
+bq). "There is no point closing the stable door when the horse has already bolted. We should be focussing on increasing security around critical infrastructure in order to prevent the next attack."
+
 <hr>
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
 
@@ -42,9 +46,7 @@ fn2. [[Session 9: Downtime 2 | Session 9: Downtime 2]]
 fn3. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
 
 <!-- GM_INFO_START -->
-h2. Spies lead
 
-bq). There is no point closing the stable door when the horse has already bolted. We should be focussing on increasing security around critical infrastructure in order to prevent the _next_ attack.
 
 Believes the [[Anathemists | Anathemists]] seek a cascade failure in [[Sindrel | Sindrel]]'s ecosystem — her read on motive, not confirmed fact.
 <!-- GM_INFO_END -->

@@ -7,7 +7,7 @@ name: Dulcinia von Phthasia
 title: Dulcinia von Phthasia
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/dulcinia-von-phthasia
 op_created_at: '2025-12-09T19:58:39Z'
-op_updated_at: '2026-07-04T11:23:54Z'
+op_updated_at: '2026-07-05T09:33:07Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -22,12 +22,12 @@ Her illness has prevented her from any form of travelling or outdoors activities
 
 <!-- OP_BIO -->
 * *10th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** Accompanied by her bodyguard [[:pthul | Pthul]], Dulcinia departs the von Phthasia estate in [[Soulwind | Soulwind]] with the goal of travelling to [[Sindrel | Sindrel]] to seek a magical cure for her ailment. The going is slow due to Dulcinia's ill health and the large amount of gold and jewels they are transporting.
+** Accompanied by her bodyguard [[:pthul | Pthul]], Dulcinia departed the von Phthasia estate in [[Soulwind | Soulwind]] with the goal of travelling to [[Sindrel | Sindrel]] to seek a magical cure for her ailment. The going was slow due to Dulcinia's ill health and the large amount of gold and jewels they were transporting.
 * *24th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** After a rag-tag group of adventurers recover her purse from some ruffians, Dulcinea invites them to share her table and listens in rapt attention to their stories.[1]
+** After a rag-tag group of adventurers recovered her purse from some ruffians, Dulcinea invited them to share her table and listened in rapt attention to their stories.[1]
 * *25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** Pthul and Dulcinia's coach is ambushed by [[Anathemists | Anathemists]].[1]
-** Survived the coach going over the cliff; fainted during the crash; continued with the party through flooded [[Fallowhurst | Fallowhurst]] and [[Fallowhurst College | Fallowhurst College]].[2]
+** Survived the coach going over the cliff; fainted during the crash; continued with the party through flooded [[Fallowhurst | Fallowhurst]] and [[Fallowhurst College | Fallowhurst College]].[2][3]
 * *26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** Traveled with the party from the [[Fallowhurst Outpost | Fallowhurst Outpost]] to [[Sindrel | Sindrel]].[3]
 ** Parted company with the Adventurers after their arrival in the city (afternoon); sought treatment at the [[Houses of Healing | Houses of Healing]].[4]
@@ -35,7 +35,7 @@ Her illness has prevented her from any form of travelling or outdoors activities
 <hr>
 fn1. [[Session 1: The White Dragon | Session 1: The White Dragon]]
 
-fn2. [[Session 2: Fallowhurst | Session 2: Fallowhurst]] — coach over the cliff; college escape in Session 3.
+fn2. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
 
 fn3. [[Session 3: "Graduation" | Session 3: "Graduation"]]
 

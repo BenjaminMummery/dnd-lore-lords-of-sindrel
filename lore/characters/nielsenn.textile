@@ -7,7 +7,7 @@ name: Nielsenn
 title: Nielsenn
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/nielsenn
 op_created_at: '2026-02-17T22:22:10Z'
-op_updated_at: '2026-07-01T11:04:02Z'
+op_updated_at: '2026-07-04T21:38:11Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -21,8 +21,8 @@ tags:
 [[Adjutant | Adjutant]] of [[House Mabon | House Mabon]].
 
 <!-- OP_BIO -->
-* *8th Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
-** Vaporised when one of his own trapped locks misfired during the Anathemist sabotage campaign.[1]
+* *8th Ostory, year 4218 ([[The Soulwind Calendar | SC]])*[1]
+** Vaporised when one of his own trapped locks misfired during the Anathemist sabotage campaign.
 
 <hr>
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]] — Hexine Circle briefing on the sabotage campaign.

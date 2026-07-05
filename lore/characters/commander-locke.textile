@@ -7,7 +7,7 @@ name: Prefect Locke
 title: Prefect Locke
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/commander-locke
 op_created_at: '2026-01-27T21:09:57Z'
-op_updated_at: '2026-07-04T11:09:10Z'
+op_updated_at: '2026-07-04T21:43:07Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -42,8 +42,6 @@ fn2. [[Session 8: The Dark Shrine | Session 8: The Dark Shrine]]
 fn3. [[Session 9: Downtime 2 | Session 9: Downtime 2]]
 
 <!-- GM_INFO_START -->
-
-
 h2. Session 12
 
 * Present at Silas's summons; embarrassed by the catacomb breach; may blame the Wonch to protect Oestra face. **Does not know** Kosmios details unless Silas slips in front of him — then Locke is as blindsided as the party.

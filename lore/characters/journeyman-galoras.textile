@@ -7,7 +7,7 @@ name: Journeyman Galoras
 title: Journeyman Galoras
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/journeyman-galoras
 op_created_at: '2026-01-27T21:17:56Z'
-op_updated_at: '2026-07-04T11:14:42Z'
+op_updated_at: '2026-07-04T21:37:13Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -26,26 +26,14 @@ You see a kenku with a compact, quick-fingered build, their plumage ink-blue fro
 * *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
 ** Joined the [[Hexine Circle | Hexine Circle]] convened in the morning after the Anathemist leak was discovered.
 ** Briefed [[:ayr | Ayr]] on months of suspicious "incidents" around the city during the house interviews that followed immediately; commissioned [[The Gentleman's Greeting | The Gentleman's Greeting]] at Ayr's request and gifted a small self-rotating device.
-* *30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** Delivered the finished blade to [[:ayr | Ayr]] at [[Radwasp House | Radwasp House]].[2]
+* *30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[2]
+** Delivered the finished blade to [[:ayr | Ayr]] at [[Radwasp House | Radwasp House]].
+
+h2. Spies lead
+
+bq). "Incidents, the last months. Misfortune maybe, sabotage we fear. Appearing random, but always a design beneath. The random hides the pattern. Find the parts that do not fit, pull on them until deception unravels."
 
 <hr>
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
 
 fn2. [[Session 9: Downtime 2 | Session 9: Downtime 2]]
-
-<!-- GM_INFO_START -->
-h2. Spies lead
-
-bq). Incidents, the last months. Misfortune maybe, sabotage we fear. Appearing random, but always a design beneath. The random hides the pattern. Find the parts that do not fit, pull on them until deception unravels.
-
-h2. Sabotage catalogue
-
-* A Tyromancer poisoned by his own cheese - overdose of hallucinogens. (Goela)
-* Magical locksmith vaporised when one of his own traps misfired. ([[House Mabon | House Mabon]])
-* Explosive devices beneath [[The Fulcrum | The Fulcrum]] on [[Ditchquer | Ditchquer]] closing night.
-* Hydromancer drowned when a water-generator control rod was inverted; overflow ruined silos (cover for saltpetre theft).
-* Beltus summoner possessed after a vandalised circle; demon's leavings exploded in refuse (cover for sulphur theft).
-* [[House Lithra | Lithra]] punch ladle swapped for a geis of truth-speaking — diplomatic scandal.
-* [[House Meness | House Meness]] enchanter commissioned reflection on an already-reflective amulet — rebounding enchantment.
-<!-- GM_INFO_END -->

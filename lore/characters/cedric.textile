@@ -7,7 +7,7 @@ name: Cedric
 title: Cedric
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/cedric
 op_created_at: '2026-06-01T16:48:14Z'
-op_updated_at: '2026-07-04T11:18:37Z'
+op_updated_at: '2026-07-04T21:48:23Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -17,7 +17,7 @@ tags:
 ---
 
 <!-- OP_DESCRIPTION -->
-You see a human man with light brown skin and a lean, precise build, his black hair combed flat and his face clean-shaven. He is turned out as a [[House Lithra | Lithra]] household adjutant: charcoal tailcoat and silver-grey waistcoat, white gloves, and a discreet silver throat-pin — the monochrome palette and framed throat of Lithra dress, adapted to butler's livery. He presents as composed and unflappable — a man who has seen worse than burned curtains and intends to keep the townhouse running regardless. He speaks in formal, measured phrases, dry and faintly reproachful when guests threaten the upholstery.
+You see a human man with light brown skin and a lean, precise build, his black hair combed flat and his face clean-shaven. He is turned out as a [[House Lithra | Lithra]] household adjutant: a neat charcoal-grey tunic and discreet silver throat-pin - the monochrome palette and framed throat of Lithra dress, adapted to the costume of a [[Soulwind | Soulwind]] butler. He presents as composed and unflappable - a man who has seen worse than burned curtains and intends to keep the townhouse running regardless. He speaks in formal, measured phrases, dry and faintly reproachful when guests threaten the upholstery.
 
 <!-- OP_BIO -->
 [[Adjutant | Adjutant]] of [[House Lithra | House Lithra]]; butler of [[Radwasp House | Radwasp House]], the [[Hexine Circle | Hexine Circle]] townhouse in upper [[Sindrel | Sindrel]].
@@ -27,6 +27,7 @@ You see a human man with light brown skin and a lean, precise build, his black h
 * *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[2]
 ** Summoned before dawn. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s knock sent [[:wilrin-racenglade | Wilrin]]'s door flying; Wilrin's firebolt and Deathwalker's Chill Touch left door and curtains badly singed — Cedric was extremely consternated.
 ** Built a like-for-like miniature of the townhouse for [[:razorbeak | the Chicken]].
+
 <hr>
 fn1. [[Session 9: Downtime 2 | Session 9: Downtime 2]]
 
