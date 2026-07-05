@@ -14,11 +14,21 @@ tags:
 - wondrous
 ---
 
-A ordinary-looking tea spoon, enchanted so that it can excavate solid rock as easily as lift sugar (albeit in teaspoon-sized helpings).
+An ordinary-looking tea spoon, enchanted so that it can excavate solid rock as easily as lift sugar (albeit in teaspoon-sized helpings).
 
 [[:ayr | Ayr]] stole it from a noble soiree in [[Sindrel | Sindrel]] while disguised as "Fenton Woofrunner" on the 28th of Enean 4218 SC. Later tinkering unlocked its digging properties.[1]
 
 **Current holder:** [[:ayr | Ayr]].
+
+<div class="stat-block">
+<h3>Spoon of Digging</h3>
+<p><em>Wondrous item</em></p>
+<hr>
+<p><strong>Rarity</strong> Uncommon<br>
+<strong>Attunement</strong> Not required</p>
+<hr>
+<p><strong>Digging.</strong> As an action, you can use this spoon to excavate earth, stone, or metal as easily as scooping sugar. You remove a heaped teaspoon of material (roughly 5 ml). The GM may abstract long excavation tasks rather than resolving each spoonful.</p>
+</div>
 
 <hr>
 fn1. [[Session 4: Sindrel! | Session 4: Sindrel!]]

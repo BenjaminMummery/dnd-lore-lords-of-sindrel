@@ -1603,14 +1603,14 @@
       "repo_path": "lore/wiki/wiki/fallowhurst-college.textile"
     },
     "c8478d23d0c846acbe6807329bdfff94": {
-      "last_synced_title": "The Gentleman's Greeting",
+      "last_synced_title": "The Journeyman's Answer",
       "op_id": "c8478d23d0c846acbe6807329bdfff94",
       "op_kind": "Wiki",
-      "op_slug": "the-gentlemans-greeting",
+      "op_slug": "the-journeymans-answer",
       "op_updated_at": "2026-07-04T21:32:31Z",
       "repo_blob_sha": "b875f7ecef9d183f74b344384fad453a3906497a",
       "repo_hash_at_sync": "737724a24cdd400a29f2d61771bc3370ff7f5c5598ebfd86342e43cfd03dc17a",
-      "repo_path": "lore/wiki/wiki/the-gentlemans-greeting.textile"
+      "repo_path": "lore/wiki/wiki/the-journeymans-answer.textile"
     },
     "c86f013976e7444682e3b40e86194b63": {
       "last_synced_title": "The Fallowhurst Sigil",

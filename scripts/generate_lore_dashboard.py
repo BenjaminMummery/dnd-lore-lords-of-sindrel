@@ -16,7 +16,7 @@ LOG_DIR = ROOT / "lore" / "wiki" / "adventure-log"
 OUT_MD = ROOT / "notes" / "lore-dashboard.md"
 OUT_HTML = ROOT / "notes" / "lore-dashboard.html"
 ADVENTURERS = ROOT / "lore" / "wiki" / "wiki" / "the-adventurers.textile"
-GREETING_ITEM = ROOT / "lore" / "wiki" / "wiki" / "the-gentlemans-greeting.textile"
+JOURNEYMANS_ANSWER_ITEM = ROOT / "lore" / "wiki" / "wiki" / "the-journeymans-answer.textile"
 
 PRONOUN_TAGS = {
     "he/him",
@@ -542,10 +542,10 @@ def parse_adventurers() -> dict:
     }
 
 
-def parse_gentlemans_greeting_charges() -> dict:
-    if not GREETING_ITEM.exists():
+def parse_journeymans_answer_charges() -> dict:
+    if not JOURNEYMANS_ANSWER_ITEM.exists():
         return {}
-    text = GREETING_ITEM.read_text(encoding="utf-8")
+    text = JOURNEYMANS_ANSWER_ITEM.read_text(encoding="utf-8")
     m = re.search(
         r"\*\*Stored charges:\*\*\s*(\d+)\s*(?:_\(([^)]+)\)_)?",
         text,
@@ -677,7 +677,7 @@ def markdown_summary(
     if greeting.get("charges") is not None:
         lines.extend(
             [
-                "## The Gentleman's Greeting",
+                "## The Journeyman's Answer",
                 "",
                 f"- {greeting['charges']} stored charge(s)",
             ]
@@ -915,7 +915,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       </section>
 
       <section class="panel item-tracker-panel">
-        <h2>Gentleman's Greeting</h2>
+        <h2>The Journeyman's Answer</h2>
         __GREETING_BLOCK__
       </section>
     </div>
@@ -1296,12 +1296,12 @@ def main() -> None:
     wealth = adventurers["wealth"]
     stay = adventurers["stay"]
     campaign = adventurers["campaign"]
-    greeting = parse_gentlemans_greeting_charges()
+    journeymans_answer = parse_journeymans_answer_charges()
 
     OUT_MD.parent.mkdir(parents=True, exist_ok=True)
     OUT_MD.write_text(
         markdown_summary(
-            gender, mentions, faction, wealth, stay, campaign, greeting, generated
+            gender, mentions, faction, wealth, stay, campaign, journeymans_answer, generated
         ),
         encoding="utf-8",
     )
@@ -1314,7 +1314,7 @@ def main() -> None:
             wealth,
             stay,
             campaign,
-            greeting,
+            journeymans_answer,
             generated,
         ),
         encoding="utf-8",

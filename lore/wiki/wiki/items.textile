@@ -125,9 +125,9 @@ h2. Weapon
   </a>
 </div>
 <div class="item-wiki-tile item-wiki-tile-no-img">
-  <a class="item-wiki-tile-link" href="/wikis/the-gentlemans-greeting" title="The Gentleman's Greeting">
+  <a class="item-wiki-tile-link" href="/wikis/the-journeymans-answer" title="The Journeyman's Answer">
     <span class="item-wiki-tile-placeholder" aria-hidden="true"></span>
-    <span class="item-wiki-tile-name">The Gentleman's Greeting</span>
+    <span class="item-wiki-tile-name">The Journeyman's Answer</span>
   </a>
 </div>
 <div class="item-wiki-tile item-wiki-tile-no-img">

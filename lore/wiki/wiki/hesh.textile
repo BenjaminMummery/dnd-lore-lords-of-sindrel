@@ -20,7 +20,16 @@ A plain longsword with old, careful maintenance — a soldier's blade, not a nob
 
 **Current holder:** [[:pin | Pin]].
 
+<div class="stat-block">
+<h3>Hesh</h3>
+<p><em>Weapon (longsword), martial</em></p>
+<p><strong>Damage</strong> 1d8 slashing (1d10 versatile)<br>
+<strong>Properties</strong> Versatile</p>
+</div>
+
 <!-- GM_INFO_START -->
+Published stats reflect **mundane steel** for now. Latent Meness enchantment (below) is not active until repowered.
+
 Formal name: **Hjársvar** (*the edge that answers*). Centuries of lexical drift have rendered this as "Hesh".
 
 Meness **witness-weapon** — an adjutant sidearm from the founding era, filed for the *Hall of the First Watch*. The House enchantment had two layers:

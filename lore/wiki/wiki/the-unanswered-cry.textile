@@ -14,7 +14,15 @@ tags:
 - shield
 ---
 
-An elaborate buckler taken from the lead corpse at the [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]] in the outward [[Osteomantic Archives | Osteomantic Archives]].[1] The dead wore the dark robes and [[The Eighth House | House Samhain]] neck amulets of a devotional circle who worshipped the [[The Gods | Queen of Ravens]] in her aspect as vengeful reaper. They died calling for vengeance — _Avenge Us_ — when the Eighth House fell.
+An elaborate buckler taken from the lead corpse at the [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]] in the outward [[Osteomantic Archives | Osteomantic Archives]].[1] The dead the dark robes and [[The Eighth House | Eighth House]] neck amulets. They appeared to be a devotional circle who worshipped the [[The Gods | Queen of Ravens]] in her aspect as vengeful reaper. They died calling for vengeance — _Avenge Us_ — when the Eighth House fell.
+
+Emblazoned at the centre is the sigil of a raven; two black metal wings lie on either side — though you could swear their positions shift when you are not looking directly at them. When you first slide your arm through the worn leather strap, the metal is cold — not the cold of metal left in shadow for years, but something else. Something patient. It fits your arm perfectly, as if made for you, even though it is aged as if many others before you have worn this very shield.
+
+A voice floats at the edge of your thoughts like smoke. It is not loud, but it sounds like an unexpected whisper when you think you are alone.
+
+_"Oh good. You've finally found me. Now … who hurt you?"_
+
+It does not ask to be worn. It simply seems … pleased that you have chosen to do so.
 
 Sculpted wings lie close and compact on the bearer's arm until battle calls them open.
 
@@ -31,9 +39,11 @@ Once donned, the buckler cannot be removed by ordinary means.[1] [[:ayr | Ayr]] 
 <p><strong>Rarity</strong> Rare<br>
 <strong>Attunement</strong> Required</p>
 <hr>
-<p><strong>Wingfold.</strong> While you are out of combat, the shield appears as wing-sculptured bands clasped to your forearm. When you roll initiative or enter combat, it unfurls into a full buckler. You gain the AC bonus while the shield is worn, whether furled or unfurled.</p>
+<p><strong>Wingfold.</strong> While you are out of combat, the shield appears as wing-sculptured bands clasped to your forearm. When you roll initiative, enter combat, or are struck by an enemy's attack, the wings expand into a much larger shield — as if spreading — before returning to a smaller wrist-mounted buckler when the moment passes. You gain the AC bonus while the shield is worn, whether furled or unfurled.</p>
+<p><strong>Free hand.</strong> While wielding this shield, you can use your hand freely to wield a versatile weapon with two hands, or to cast spells requiring somatic components.</p>
+<p><strong>Whispers.</strong> The shield speaks in quiet moments — idle observations, small suggestions, the occasional pointed question about someone who wronged you. Its voice seems to mean well. Encouraging, even.</p>
 <p><strong>Unanswered grip.</strong> The shield cannot be removed willingly unless you succeed on a DC 15 Wisdom saving throw. On a failure, you cannot attempt again until you finish a long rest.</p>
-<p><strong>Cry for vengeance.</strong> While you wear this shield, you are drawn toward vengeance for the unjustly slain. When you learn of a concrete wrong that fits that charge, you must succeed on a DC 14 Wisdom saving throw or feel compelled to pursue vengeance if a reasonable path exists. You have advantage on checks made to uncover the perpetrators of such wrongs.</p>
+<p><strong>Cry for vengeance.</strong> While you wear this shield, you are drawn toward vengeance for the unjustly slain. When you learn of a concrete wrong that fits that charge, you must succeed on a DC 14 Wisdom saving throw or feel compelled to pursue vengeance if a reasonable path exists. You have advantage on checks made to uncover the perpetrators of such wrongs. Every so often you feel the rage of vengeance surge up — but you can quickly shake it off. Right?</p>
 </div>
 
 <hr>
@@ -42,5 +52,21 @@ fn1. [[Session 8: The Dark Shrine | Session 8: The Dark Shrine]]
 fn2. [[Session 9: Downtime 2 | Session 9: Downtime 2]] — removal attempt and dream.
 
 <!-- GM_INFO_START -->
+h2. Alternate names (unsettled)
+
+Working titles for the same buckler — none confirmed in play:
+
+* Dark Lady's Embrace
+* Vengeance Ward
+* Grievance …?
+* Retribution's Guard
+* Grief's Warden …?
+
+h2. Curse — Carrion Lady
+
+The shield is possessed by an aspect of the Carrion Lady (the [[The Gods | Queen of Ravens]]). She is watching. She is always watching. And she is beginning to find the bearer very interesting.
+
+When the shield's influence surges — vengeance bleeding into obsession, or her thoughts threading through the bearer's — the wearer must succeed on a **Constitution saving throw** (DC at GM discretion; start **DC 14**, escalate with failed saves or dramatic wrongs) to keep the Raven Queen's thoughts separate from their own. **Advantage on saving throws against magic does not apply** — this power is divine in nature.
+
 Archive caretakers may attempt to return this buckler to "the relevant collection" if the party revisit the Samhain strata (see [[Osteomantic Archives | Osteomantic Archives]] GM).
 <!-- GM_INFO_END -->

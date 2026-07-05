@@ -21,7 +21,21 @@ tags:
 
 
 <!-- GM_INFO_START -->
-Actually goldfinger in disguise.
+h2. Goldfinger
+
+**Regnif d'Log** is **Goldfinger** in disguise — the name [[:ayr | Ayr]] knew in his thief years as **Baron von Goldfinger**, backed by **GF & Sons Trust**. The Ambassador Street household and foreign-noble cover are how Goldfinger operates when he needs respectability; the man is the same.
+
+Goldfinger is not an innocent abroad. He is a wealthy fixer who moves money through trusts and fronts, commissions theft, and buys distance from consequences. In the [[Anathemists | Anathemist]] cell he is still a **patsy** for [[:barnabus | Barnabus]] — not the spy plot's mastermind — but his criminal history predates Barnabus by years.
+
+h2. Role in [[:ayr | Ayr]]'s backstory
+
+* **Eviction:** Ayr's family lost their home when they failed payments to **GF & Sons Trust** — Goldfinger's lending arm. That pushed them into the underground underworld where Ayr learned to steal.
+* **Prior thefts:** Ayr had already robbed von Goldfinger of trinkets and coin *(TODO: player to specify further item — see [[:ayr | Ayr]] backstory)* before the fatal job.
+* **The mimic job:** Goldfinger set up a **fake job** that lured Ayr's crew into a mimic trap. Ayr alone survived; he lost his eye (now the **green orb**). The rest of the crew died. Ayr blames his own mistake as much as Goldfinger's malice.
+* **What Ayr knows:** the name Goldfinger / von Goldfinger, GF & Sons, mimic-hunter cover story rooted in real hatred of mimics, and his guilt. **What he does not know (through Session 11):** that Goldfinger is in [[Sindrel | Sindrel]] as Regnif d'Log, or that the Wonch investigation is closing on that household.
+* **If they meet:** recognition should be visceral — voice, manner, or a tell Ayr's player supplies — before the name lands. The investigation thread on **recent wealthy arrivals** ([[The Adventurers | the-adventurers]] mapping) is Ayr's personal stake in the same lead that exposes Barnabus and the cell.
+
+Do not reveal the link until the party has a fair shot at d'Log's name or face from investigation; Ayr's thief past remains party-secret until he chooses otherwise.
 
 h2. Role in the Anathemist Plot
 
@@ -29,7 +43,7 @@ Regnif d'Log is the spy cell's patsy. He entered [[Sindrel | Sindrel]] with his 
 
 d'Log's household gives [[:barnabus | Barnabus]] and Arouraios a reason to be in [[Sindrel | Sindrel]]. It gives them rooms, errands, appointments, servants' access, household accounts, and a plausible reason to conduct business with local specialists. When Barnabus deals with [[:kelferria-the-smith | Kelferria]] for enchanted armour, he does so while supposedly acting as d'Log's agent. This ties the transaction to a plausible wealthy patron rather than to the [[Anathemists | Anathemist]] cell itself.
 
-In the sabotage campaign before the [[Ditchquer | Ditchquer]] closing ceremony, d'Log unknowingly provided cover for purchases, meetings, and movements. He authorised, signed, or failed to question arrangements made by [[:barnabus | Barnabus]]. He payed for unusually large quantities of charcoal under the impression that his lodgings were cold or poorly heated.
+In the sabotage campaign before the [[Ditchquer | Ditchquer]] closing ceremony, d'Log unknowingly provided cover for purchases, meetings, and movements. He authorised, signed, or failed to question arrangements made by [[:barnabus | Barnabus]]. He paid for unusually large quantities of charcoal under the impression that his lodgings were cold or poorly heated.
 
 d'Log may possess documents, receipts, orders, or correspondence that incriminate his household while also showing his ignorance. He is useful to the conspiracy precisely because he leaves a paper trail that points at him before it points at [[:barnabus | Barnabus]].
 

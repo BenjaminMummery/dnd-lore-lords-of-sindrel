@@ -1,6 +1,6 @@
 # Lore dashboard
 
-_Auto-generated on 2026-07-05 22:09. Open [lore-dashboard.html](lore-dashboard.html) for charts._
+_Auto-generated on 2026-07-05 22:36. Open [lore-dashboard.html](lore-dashboard.html) for charts._
 
 ## Current date (Session 11)
 
@@ -21,7 +21,7 @@ _Auto-generated on 2026-07-05 22:09. Open [lore-dashboard.html](lore-dashboard.h
 
 - ~31 of 36 days
 
-## The Gentleman's Greeting
+## The Journeyman's Answer
 
 - 2 stored charge(s)
 - as of Session 11, 31st Enean 4218 SC — 1 at delivery on 30th Enean; +1 at each dawn since
