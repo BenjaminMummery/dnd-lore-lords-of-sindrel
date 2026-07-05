@@ -136,4 +136,27 @@ h2. Fear of Samhain
 All of the surviving founders fear Samhain's return.
 
 They believe she would expose them to the city, attempt to kill them, and destroy everything they have built. Most assume or hope that she starved, withered, or otherwise perished in [[Thanismot | Thanismot]] long ago. They are wrong.
+
+h2. Project Kosmios — the plan
+
+**Problem:** Magic dies on [[Arcan | Arcan]] and concentrates in [[Kosmios | Kosmios]]. The city cannot outlast the Wheel of Forms on Arcan alone.
+
+**Solution:** Relocate **the whole of [[Sindrel | Sindrel]]** into Kosmios through the locked rift.
+
+**Two layers of machinery:**
+
+| Site | Role |
+|------|------|
+| **Axis Chamber** (beneath [[The Fulcrum | the Fulcrum]] / Wellspring) | Original tear anchor; Riftlock cage; day-to-day stabilisation; **cooling loop** via the Wellspring |
+| **[[Dockward | Dockward]] annulus** | Scaled-up **control array** — same principles, colossal footprint; intended to **force the aperture wide enough** to pass the city. Active upgrade cycle for relocation. |
+
+**Missing piece:** necromantic balance (Samhain expertise). Founders proceed anyway — desperation, Oestra impatience, and faith in partial workarounds.
+
+**Clearance:** Octarion and select House heads. [[Hexine Circle | Hexine Circle]] not briefed. [[:silas-oestra | Silas Oestra]] holds **operational** files, not the full founder brief.
+
+h2. Kosmios panic after the Fulcrum bombing
+
+The anathemists did not know the word **Kosmios** at the time of the Fulcrum bombing. The cell learned it only after [[:barnabus | Barnabus]] read material stolen from [[:silas-oestra | Silas]]'s rooms during the heist.
+
+When the higher-ups learned from Hielaman that the Anathemist Lieutenant had dropped the word 'Kosmios', House elite **panicked**: if the enemy knew **Kosmios**, the Fulcrum attack might have been an attempt on the **rift** beneath the city, not opportunistic terror. That reframing is **partly wrong** — the Fulcrum was chosen as **diversion**; the bombers did not yet understand what they were adjacent to. It is **partly right** — the cell now wants [[Dockward | Dockward]] as the real lever.
 <!-- GM_INFO_END -->

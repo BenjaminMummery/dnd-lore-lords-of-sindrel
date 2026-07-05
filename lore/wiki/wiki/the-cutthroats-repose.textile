@@ -13,4 +13,76 @@ tags:
 - location
 ---
 
-A dive bar in [[The Wallarch District | The Wallarch District]].
+A shabby tavern in [[The Wallarch District | Wallarch]] — cheap spirits, cheaper company, and a back room for patrons who know the password. [[:emerich-surefoot | Emerich Surefoot]] claimed a [[The Black Cats | Black Cats]] contact operates from there; the word to enter is *Swordfish*.[1]
+
+**Current holder / operator:** [[:callem-marr | Callem Marr]] keeps the bar; [[:garric-brunt | Garric Brunt]] mans the door. Syndicate contact [[:sable-silvestre | Sable Silvestre]] uses the back room (see [[The Black Cats | The Black Cats]]).
+
+<hr>
+fn1. [[Session 6: Wallarch | Session 6: Wallarch]] — Emerich under duress after the noon chase.
+
+<!-- GM_INFO_START -->
+h2. Overview
+
+Wallarch dive that functions as a **Black Cats** relay — public room for **Scratches** and embedded **Latches**; back room for a **Tally** ([[:sable-silvestre | Sable Silvestre]]) who holds ledger extracts and adjutant kompromat for **Vault**. Not a headquarters; nobody important commits on premises.
+
+**Address context:** A side street within sight of the [[Quarantine Zone | quarantine wall]] — close enough to smell old iron and ozone on a bad day, far enough that Meness patrols only pass through on schedule.
+
+h2. Read-aloud — exterior
+
+bq). The sign hangs by one rusted chain, which is either disrepair or a philosophical statement about rest. _The Cutthroat's Repose_ is painted in a hand that clearly learned lettering under grudging sufferance — the _o_ in _Repose_ has given up and become a smudge. Beneath it, in smaller letters: _Fine Ales. No Questions. Some Answers._
+<br>
+The building is Sindrel stonework gone tired — seamless conjured stone patched with timber and optimism. Overhead, a service bridge cuts the sky in half and explains why the street feels like late afternoon even when it isn't. A pair of [[House Beltus | Beltus]] imps trundle past with a crate of something that clinks like bottles and smells like regret.
+<br>
+The door is iron-banded oak, well maintained in the way of doors that expect to have to win arguments. [[:garric-brunt | Garric Brunt]] — or whoever is on door duty — slides the peephole open when you approach, and shut again when whoever is behind it decides you are either business or trouble. Warm light leaks through grime-thick windows. Inside, silhouettes move with the unhurried purpose of people who know the floorboards and do not trust anyone who doesn't.
+
+h2. Read-aloud — interior (first entry)
+
+bq). The Repose sells atmosphere by the pint, and the atmosphere today is _watchful_.
+<br>
+It is a low room — soot-dark beams, tables bolted to the floor, and a bar that has been polished by elbows more than any actual cleaning. The air is thick with cheap spirits, stale pipe smoke, and the faint metallic tang you get when someone nearby has cast a cantrip recently. A dartboard hangs on the far wall, next to a sign reading _NO FIGHTING_ that has been stabbed at least twice by darts that missed the board entirely, and once by what appears to have been an axe.
+<br>
+Conversation does not stop when you enter. That would be too honest, too obvious. Instead it **changes key** - jokes finish a beat too late, dice stop rolling mid-hand, and a dozen conversations continue in voices just quiet enough that the speakers can overhear anything you say. You have been here before, in reputation if not in person: Deathwalker's gambling and your chase through Wallarch's back street have been witnessed, reported, and catalogued almost as efficiently as House Meness paperwork. Your're a dangerous mix, outsiders with unknown intentions backed by the authority of a Hexine Circle. Trouble incarnate.
+<br>
+The barkeep — [[:callem-marr | Callem Marr]] — wipes a glass in a way that does not clean so much as distribute the grime more evenly, and does not ask your business. Patrons study their drinks with sudden devotion. A labourer in a patched coat keeps his hand near his belt, where something rectangular bulges beneath the fabric. A woman by the fire adjusts her sleeve over a bracer that is definitely only decorative. Two men in the corner have chosen seats with sightlines to both door and bar, which is the sort of interior decorating you learn when your hobbies are illegal and your retirement plan is optimistic.
+<br>
+Nobody reaches for a weapon. That, too, is a statement. In [[The Wallarch District | Wallarch]], the first person to draw is rarely the first person to matter.
+<br>
+Then a server carrying three empty tankards in one precarious stack looks up from the bar hatch, meets your eyes, and goes the colour of bad ale. For one instant you see the face of [[:gillette-quill | Gillette Quill]] — the quicker of the two ruffians you spared on the road north. The tankards wobble. With a deeply unconvincing performance of _not_ having noticed you, he turns and makes for the kitchen door with exaggerated nonchalance.
+
+h2. The quills failed to convince the merchants to buy into their wellness retreat idea, and are now trying to scrape together enough cash to set themselves up doing odd jobs for the Black Cats. Gillette's evasiveness is for the Cat's benefit - he's aware that the Wonch have made themselves a bit of a threat, and are desperate to avoid the Black Cats learning that they're connected to him.
+
+h2. Back room
+
+Accessed through the Kitchen.
+
+Plain door; no sign. Password *Swordfish* (Emerich's lead). [[:callem-marr | Callem Marr]] may demand it spoken quietly, or a coin left on the counter first.
+
+**Default contact:** [[:sable-silvestre | Sable Silvestre]] — **Tally** relay for **Vault**; uses *disguise self* / *sleep* if cornered; will not admit Vault structure without kompromat bargain. See [[The Black Cats | the-black-cats]] stat blocks.
+
+**Cats' posture (Session 12):** Wonch worry Vault more than Hielaman. Prefer misdirection, stall, harmless gossip — not open war unless cornered. May offer kompromat on Meness **superiors** (not Hielaman) in exchange for cart / impound problem handled.
+
+h2. Recognition at the door
+
+Assume staff and regulars know:
+
+* [[:emerich-surefoot | Emerich]] talked after the Session 6 chase.
+* [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] flashed conspicuous wealth at cards (Session 4 / 5).
+* Party are **Hexine Circle** investigators with official cover (Session 5 onward).
+* Wallarch locals may recognise individual Wonch from the funeral / archive visit (Session 6).
+
+**Effect:** +2 effective DC on social Deception from strangers; patrons default to **watchful**, not hostile. First move sets tone — Vault reads unpredictability as danger.
+
+h2. Session 12 beats
+
+| Beat | Detail |
+|------|--------|
+| **Arrival** | Exterior → peephole ([[:garric-brunt | Garric Brunt]]) → interior read-aloud; Insight DC 12 notices multiple concealed weapons / spell foci |
+| **Gillette** | [[:gillette-quill | Gillette Quill]] serving; recognises Wonch → bolts for back room (see interior read-aloud). Perception DC 11: kitchen door still swinging. |
+| **Bar** | Round bought or not; Perception DC 13: another patron slips out to warn back room |
+| **Back room** | Password; [[:sable-silvestre | Sable Silvestre]] stalls — wants cart away from Hielaman before serious talk |
+| **Offer** | Kompromat fragment on Meness superiors, or Bear/Weasel/Snake descriptions if bargained |
+| **Won't give** | Chuggaz as Latch, Anathemist ideology, Vault identity — without hard leverage |
+
+**Pointers:** `notes/session-12-plan.md` § B3; [[:chuggaz | Chuggaz]] deflection; impound cart follow-up.
+
+<!-- GM_INFO_END -->

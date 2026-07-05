@@ -44,6 +44,14 @@ h2. Sindrel infiltration cell
 
 Embedded spy team (see [[The Investigation | The Investigation]] GM): [[:barnabus | Barnabus]] (cell lead), [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] (senior lieutenants), [[:arouraios | Arouraios]] (mapper), [[:regnif-d-log | Regnif d'Log]] (patsy).
 
+h2. Next target — [[Dockward | Dockward]]
+
+Having acquired **Kosmios** intelligence from stolen Oestra files (post-[[Ditchquer | Ditchquer]] heist), the cell treats **[[Dockward | Dockward]]** as the priority strike. Ideological cover: destroy the city's trade heart. Operational truth: sabotage the **scaled rift control array** on the annulus before [[Project Kosmios | Project Kosmios]] upgrades complete — or trigger catastrophic instability if they cannot fully destroy it.
+
+The **[[The Fulcrum | Fulcrum]]** bombing was **not** this strike; it was diversion while the heist ran. The cell did not understand Kosmios or the sub-Fulcrum anchor at bomb time.
+
+**Status (end Session 11):** fresh gunpowder from [[Quarantine Zone | Sacrum]] stockpile; [[:barnabus | Barnabus]] stay-behind in city; Bears out of Wallarch since the blast. Timeline: days to weeks before Dockward attempt — after party pressure at Repose / cart threads if you want breathing room.
+
 h2. Ideology
 
 

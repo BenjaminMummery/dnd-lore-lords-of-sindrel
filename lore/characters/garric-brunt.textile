@@ -1,0 +1,61 @@
+---
+op_slug: garric-brunt
+op_kind: Character
+op_type: Character
+name: Garric Brunt
+title: Garric Brunt
+op_gm_only: true
+is_player_character: false
+tags:
+- Black Cats
+- he/him
+---
+
+<!-- OP_DESCRIPTION -->
+You see a broad half-orc man who fills the doorway without quite leaving it, his green-grey skin scarred at the knuckles and one tusk filed flat to keep it out of fights. He wears a sleeveless leather vest over a dark shirt, heavy boots, and a iron knuckle-duster on his left hand — no house colours, no insignia, just the look of hired muscle that has learned to stand still for long stretches. His eyes do the work the rest of him refuses to: slow, measuring passes over whoever is on the other side of the peephole. He speaks in a low rumble, usually one word at a time.
+
+<!-- OP_BIO -->
+Door muscle at [[The Cutthroat's Repose | The Cutthroat's Repose]] in [[The Wallarch District | Wallarch]]. Identity unknown to [[The Adventurers | the Wonch]] before a visit in person.
+
+<!-- GM_INFO_START -->
+h2. Prep
+
+* **Not a Black Cat** — hired by [[:sable-silvestre | Sable Silvestre]] (through Vault intermediaries) to man the iron-banded door and peephole. [[:callem-marr | Callem Marr]] runs the bar; Garric decides who crosses the threshold.
+* **Peephole:** slides open on approach; shuts again once you are classified business or trouble. Insight DC 12: he is sorting you into Meness, Hexine, syndicate, or fool — not whether you belong in a tavern.
+* **Entry:** regulars get a grunt and the latch; strangers may wait in the street until he is satisfied. Hexine authority gets you in eventually — turning away the Wonch at the door is more trouble than admitting them — but he can make the wait uncomfortable.
+* **Recognition:** knows the party by reputation before they knock. Will not draw first unless they force the door or threaten [[:callem-marr | Callem]].
+* **Signal:** a short knock pattern to Callem when the Wonch enter so the room can finish adjusting its conversation key.
+
+h2. Stat block
+
+<p><em>Not Hexine-tier.</em> Door muscle — combat if the party try to force entry or brawl spills onto the threshold.</p>
+
+<div class="stat-block">
+<h3>Garric Brunt</h3>
+<p><em>Medium humanoid (half-orc), neutral</em></p>
+<p><strong>Armor Class</strong> 14 (leather vest)<br>
+<strong>Hit Points</strong> 32 (5d8 + 10)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +1</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>17 (+3)</td><td>12 (+1)</td><td>14 (+2)</td><td>10 (+0)</td><td>13 (+1)</td><td>8 (−1)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> Athletics +5, Intimidation +1, Perception +3<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 13<br>
+<strong>Languages</strong> Common, Orc<br>
+<strong>Challenge</strong> 1 (200 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Relentless Endurance (1/Day).</strong> When Garric is reduced to 0 hit points but not killed outright, he drops to 1 hit point instead.</p>
+<p><strong>Hold the Threshold.</strong> While Garric is within 5 ft. of the Repose's street door, opportunity attacks he makes have advantage, and creatures he hits with them have their speed reduced to 0 until the end of the current turn.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> Garric makes two unarmed strikes.</p>
+<p><strong>Unarmed Strike.</strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) bludgeoning damage, or 8 (1d8 + 3) bludgeoning damage if he hits the same target twice on his turn.</p>
+<p><strong>Knuckle-duster.</strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d8 + 3) bludgeoning damage.</p>
+<p><strong>Shove.</strong> Garric can use the Attack action to shove a creature within 5 ft. (Athletics +5 vs. target's choice of Athletics or Acrobatics).</p>
+</div>
+<!-- GM_INFO_END -->

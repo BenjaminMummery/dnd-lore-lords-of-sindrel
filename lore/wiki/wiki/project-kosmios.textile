@@ -15,11 +15,11 @@ tags: []
 
 
 <!-- GM_INFO_START -->
-[[Kosmios | Kosmios]] is the focus of [[Sindrel | Sindrel]]’s current secret colonial project.
+[[Kosmios | Kosmios]] is the focus of [[Sindrel | Sindrel]]'s current secret colonial project.
 
 The modern plan is to physically move [[Sindrel | Sindrel]] into [[Kosmios | Kosmios]] in response to the looming death of magic.
 
-[[Sindrel | Sindrel]]’s power is sustained by extractive magical colonialism in [[Kosmios | Kosmios]].
+[[Sindrel | Sindrel]]'s power is sustained by extractive magical colonialism in [[Kosmios | Kosmios]].
 
 The relocation spell requires immense magic and necromantic balance.
 
@@ -31,5 +31,18 @@ The [[Hexine Circle | Hexine Circle]] does not know the truth.
 
 Very high clearance only: founders, House heads / extremely senior insiders as appropriate.
 
-Also include: why [[Anathemists | Anathemists]] knowing the word “[[Kosmios | Kosmios]]” is terrifying.
+h2. Infrastructure
+
+| Site | Role |
+|------|------|
+| **Axis Chamber** | Rift anchor beneath [[The Fulcrum | the Fulcrum]]; [[House Beltus | Beltus]] portal access only; Wellspring **cooling loop** |
+| **[[Dockward | Dockward]]** | Scaled **control array** to force the aperture wide enough for city-scale transit; upgrade cycle in progress |
+
+See [[The Octarion Circle | The Octarion Circle]] GM § Project Kosmios; [[The Fulcrum | the-fulcrum]] GM; [[Dockward | dockward]] GM.
+
+h2. Why "Kosmios" terrifies the elite
+
+The name ties together colonial extraction, the locked rift, and **Project Kosmios** — the founders' escape plan. Any enemy who knows it is assumed to know **where the city truly lives** (under the Fulcrum) and **what must not be broken** (Dockward array).
+
+The captured Anathemist Lieutenant dropping the word 'Kosmios' raises the possibility that the Ditchquer Bombing was targeting the rift itself. In reality it was a target of opportunity, the anathemists didn't learn about Kosmios until afterwards.
 <!-- GM_INFO_END -->

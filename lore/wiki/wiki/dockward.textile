@@ -20,3 +20,15 @@ Dockward is a mile-wide floating ring suspended around the upper reaches of [[Th
 Airship docks, cargo cranes, customs offices, workshops, and merchant exchanges stud the ring. Goods from across [[Artresh | Artresh]] arrive and depart through Dockward each day, making it one of the most cosmopolitan places on the continent. To stand upon the ring and watch the endless procession of airships is to understand why [[Sindrel | Sindrel]] remains the centre of a fading magical age.
 
 On the seaward side stands The Prow, headquarters of [[House Mabon | House Mabon]].
+
+<!-- GM_INFO_START -->
+h2. Rift control array
+
+[[Dockward | Dockward]] is not merely a port. It is the **second-generation rift apparatus** — the same stabilisation logic as the machinery beneath [[The Fulcrum | the Fulcrum]], rebuilt at **colossal scale** around the upper ring.
+
+[[:lord-ablas-oestra | Lord Oestra]] and the early Circle always knew that the original tear's **physical aperture** would cap their ambitions. The annulus was designed as a way to **force the rift open far wider** — wide enough, in the long plan, to swallow the **entire city** through a single working.
+
+For centuries it served colonial refocus and extraction. In recent decades it has become the **hardware core of [[Project Kosmios | Project Kosmios]]** — quiet upgrades to cranes, dock pylons, and buried ring-works that are not quite what the customs manifests claim. Only Octarion-grade clearance understands that half the "maintenance" on the halo is **preparation for relocation**, not airship traffic.
+
+**Anathemist next target (GM):** having learned the name **Kosmios** and (imperfectly) its tie to the city's survival, the cell's operational priority is **Dockward** — destroy or sabotage the widened control array before the founders can finish the upgrade cycle. See [[Anathemists | Anathemists]] GM.
+<!-- GM_INFO_END -->

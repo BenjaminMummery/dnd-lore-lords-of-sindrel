@@ -1,6 +1,6 @@
 # Lore dashboard
 
-_Auto-generated on 2026-07-04 22:29. Open [lore-dashboard.html](lore-dashboard.html) for charts._
+_Auto-generated on 2026-07-05 14:04. Open [lore-dashboard.html](lore-dashboard.html) for charts._
 
 ## Current date (Session 11)
 
@@ -8,9 +8,9 @@ _Auto-generated on 2026-07-04 22:29. Open [lore-dashboard.html](lore-dashboard.h
 
 ## NPC gender (tagged persons only)
 
-- he/him: 29 (54%) - target 45%
-- she/her: 15 (28%) - target 45%
-- non-binary: 10 (19%) - target 10%
+- he/him: 31 (54%) - target 45%
+- she/her: 16 (28%) - target 45%
+- non-binary: 10 (18%) - target 10%
 - Untagged: 0
 
 ## Party wealth

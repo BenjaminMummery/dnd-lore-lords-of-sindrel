@@ -1,0 +1,57 @@
+---
+op_slug: callem-marr
+op_kind: Character
+op_type: Character
+name: Callem Marr
+title: Callem Marr
+op_gm_only: true
+is_player_character: false
+tags:
+- The Cutthroat's Repose
+- he/him
+---
+
+<!-- OP_DESCRIPTION -->
+A broad-shouldered dwarven man in late middle age, his scalp shaved to stubble and his jaw set in a permanent line between patience and suspicion. He wears a stained leather apron over a grey linen shirt with the sleeves rolled to the elbows, dark trousers, and soft-soled boots — the practical dress of a [[The Wallarch District | Wallarch]] barkeep who expects to be elbow-deep in work and occasionally in trouble. His hands never quite stop moving: wiping a glass, counting change, resting near a club hook beneath the bar. He speaks in short, flat sentences and does not ask your business unless you have become his problem.
+
+<!-- OP_BIO -->
+Public face of [[The Cutthroat's Repose | The Cutthroat's Repose]] in [[The Wallarch District | Wallarch]]. Identity unknown to [[The Adventurers | the Wonch]] before a visit in person.
+
+<!-- GM_INFO_START -->
+h2. Prep
+
+* **Not a Black Cat** — paid by [[:sable-silvestre | Sable Silvestre]] (through Vault intermediaries) to keep the public room running and the kitchen door unremarkable. [[:garric-brunt | Garric Brunt]] mans the street door and peephole. Knows the back-room password ritual; will not say *Swordfish* aloud for a patron.
+* **Back-room gate:** a coin left on the counter, or the password spoken quietly at the bar, earns a jerk of the head toward the kitchen. He may demand both if the room is loud or if [[The Adventurers | the Wonch]] arrive with obvious authority.
+* **Recognition:** knows the party by reputation — Emerich's talk, Deathwalker's cards, Hexine cover. Default **watchful neutrality**; +2 effective DC on Deception from strangers. Will not start a fight unless the premises or his contract are threatened.
+* **Gillette:** tolerates [[:gillette-quill | Gillette Quill]] as cheap floor labour; noticed Gillette bolt for the kitchen when the Wonch entered — will not cover for him under direct questioning, but will not volunteer the connection either.
+
+h2. Stat block
+
+<p><em>Not Hexine-tier.</em> Session 12 is atmosphere and gating — combat only if the party escalate in the public room.</p>
+
+<div class="stat-block">
+<h3>Callem Marr</h3>
+<p><em>Medium humanoid (dwarf), neutral</em></p>
+<p><strong>Armor Class</strong> 13 (leather apron, brawler's reflexes)<br>
+<strong>Hit Points</strong> 22 (4d8 + 4)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +1</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>14 (+2)</td><td>12 (+1)</td><td>13 (+1)</td><td>11 (+0)</td><td>14 (+2)</td><td>10 (+0)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> Insight +4, Intimidation +2, Perception +4<br>
+<strong>Senses</strong> passive Perception 14<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 1/2 (100 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Professional Neutral.</strong> Callem has advantage on Charisma checks to de-escalate tavern violence and on Wisdom (Insight) checks to spot concealed weapons in his room.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Club.</strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) bludgeoning damage.</p>
+<p><strong>Call the Room.</strong> Callem barks for order. Each hostile creature of his choice within 30 ft. that can hear him must succeed on a DC 12 Wisdom saving throw or have disadvantage on the next attack roll it makes before the end of its next turn.</p>
+</div>
+<!-- GM_INFO_END -->

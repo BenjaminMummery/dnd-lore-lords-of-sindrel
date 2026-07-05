@@ -63,7 +63,19 @@ h2. [[Ditchquer | Ditchquer]] Diversion
 
 The explosives beneath The Fulcrum were spectacular, but their deeper purpose was diversion. The blast drew [[House Oestra | House Oestra]] attention and reinforcements away from the [[Osteomantic Archives | archive]] route and [[:silas-oestra | Silas Oestra]]'s rooms.
 
-The bombs were dangerous enough that a full simultaneous detonation might have caused catastrophic structural failure, but the conspirators’ primary objective was still diversion and panic rather than the destruction of the Fulcrum for its own sake.
+The bombs were dangerous enough that a full simultaneous detonation might have caused catastrophic structural failure, but the conspirators' primary objective was still diversion and panic rather than the destruction of the Fulcrum for its own sake. The cell did **not** yet know the word **Kosmios** at the time of the bombing; that intelligence came only after the [[Ditchquer | Ditchquer]] heist (see [[The Investigation | The Investigation]] GM).
+
+h2. The rift beneath the Fulcrum
+
+The dimensional tear that founded [[Sindrel | Sindrel]] is still here — locked to [[Kosmios | Kosmios]] since **Riftlock** (~3245 SC), but physically anchored **below the octagonal base** of the tower. The public **Wellspring** sits above the nexus; part of its endless circulation is **cooling** for the arcane machinery that stabilises and feeds the rift. The ostentatious waterfall is partly conduit bleed-off dressed as civic pride (see public third message).
+
+**The Axis Chamber** — colossal subterranean space; only reachable by **[[House Beltus | House Beltus]] portal network** (summoning-gate clearance; not the public service tunnels). The **support pillars of the Fulcrum** descend from the ceiling like the bars of a cage around a **tear in reality** — wrong geometry, faint Kosmios light, air that tastes of copper. Arcane machinery rings the rift: brass vanes, crystal matrices, binding circles worn smooth by a millennium of maintenance. **Cooling coils** wrap the housings — fat pipes carrying Wellspring water, steaming where the rift runs hot.
+
+Session 11 foundation damage stressed the **structural shell** around this cage, not the anchor itself — which is why one bomb cracked a pillar but did not open the tear.
+
+h3. Read-aloud — Axis Chamber *(draft; polish before play)*
+
+_To be written when the party gains Beltus clearance or another route in. Beats to hit: scale, inverted pillars, tear, machinery, cooling pipes, silence of the Wellspring overhead._
 
 h2. Interior of the Fulcrum
 

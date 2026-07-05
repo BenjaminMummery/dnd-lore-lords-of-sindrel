@@ -18,8 +18,11 @@ Beltus Institute ───────► sulphur theft confirmed; refuse routes
 Religious persecution ──► background / quick social; Alruna ally; Wallarch geography (no cell reveal)
 ```
 
-**Likely this session:** Silas → Fulcrum servants → religious incident (evening or swapped).  
+**Party plan (confirmed):** Silas → Fulcrum servants (**Nans → Chuggaz**) → **The Cutthroat's Repose** (Black Cats contact).  
+**Likely this session:** that chain through the afternoon; religious incident evening (or swapped).  
 **Adapt if players pivot:** other paths below are runnable in one session each with the stubs provided.
+
+**Location prep:** read-aloud and back-room beats live on `lore/wiki/wiki/the-cutthroats-repose.textile` (GM block). Creative pass: draft in campaign voice, optional polish via ChatGPT (Pratchett-adjacent dry humour; keep `<br>` paragraph breaks for OP `bq).` blocks).
 
 **Clock pressure:** silver bracelets ~30 days left; Kelferria quote may arrive (optional downtime beat).
 
@@ -92,11 +95,13 @@ Progress investigation through **Nans → Chuggaz** misdirection; reinforce coac
 ### Flow
 
 ```
-Nort (done) ──► Nans (recommended first) ──► Chuggaz ──► Cutthroat's Repose / impound cart
+Nort (done) ──► Nans (recommended first) ──► Chuggaz ──► Cutthroat's Repose (planned) ──► impound cart (optional same session)
 Silas deflection ──► same path ("common criminals" / Grimbolg waste)
 ```
 
-Chuggaz = **Black Cat Latch** (`chuggaz.textile`, `the-black-cats.textile`). He sold roster access; **does not** know bombing ideology. Vault will stall if Wonch press hard.
+**Table intent:** Chuggaz does not name the Repose under normal pressure — Nans + Silas + Emerich's old lead get them there. Chuggaz interview still pays off for cart / roster / corridor clues before the walk to Wallarch.
+
+Chuggaz = **Black Cat Latch** (`chuggaz.textile`, `the-black-cats.textile`). Embedded at the Fulcrum; passes roster access **up to his Tally**; **does not** know bombing ideology. Vault will stall if Wonch press hard.
 
 ### Nans interview *(Beltus liaison, east corridor)*
 
@@ -125,7 +130,7 @@ Chuggaz = **Black Cat Latch** (`chuggaz.textile`, `the-black-cats.textile`). He 
 |------|-------------------|-------------|-------------------|
 | Cart off-schedule | Waste cart through **servants' gate** during ceremony | Anathemist pipeline via Cats | Bombs same route as rubbish |
 | Acid smell | Tarp **sharp/acrid**; assumed Amalthean salts | Sulphur/nitre residue | Chemical theft present |
-| Paid to stay | **Cash in plain wraps** to keep shift, not ask about roster lines | Cats Latch payroll | Bribery network |
+| Paid to stay | **Cash in plain wraps** to keep shift, not ask about roster lines | Tally paying embedded Latch | Bribery network |
 | Idle coach | **Bird crest** coach; driver poncy, beard, glasses (corroborates Nort) | Arouraios | Same coachman lead |
 | Large men in corridor | Two big men in waste corridor; he looked away after payment | Bears | Muscle on site |
 | Calm when alarmed | Cats said *"noisy night, extra pay, keep working"* | Vault forewarning only | Guilty foreknowledge |
@@ -269,20 +274,30 @@ She doesn't sell the samples; might describe what's needed (warded plate or equi
 
 ---
 
-## B3. Black Cats → impounded cart *(stub)*
+## B3. Black Cats → Cutthroat's Repose → impounded cart *(primary afternoon fork)*
 
 ### Entry points
 
-- Emerich → **Cutthroat's Repose** ("Swordfish") — never cashed in log.
-- Chuggaz / Nans → "talk to Wallarch criminals."
-- Hielaman / Quills → garbage cart near **QZ wall breach**.
+- **Planned:** Fulcrum servants thread → party walks to **Cutthroat's Repose** with Emerich's password (*Swordfish*) and Hexine authority.
+- Emerich lead — never cashed in log (Session 6); still valid.
+- Chuggaz / Nans → "talk to Wallarch criminals" (Chuggaz won't name the bar unless broken).
+- Hielaman / Quills → garbage cart near **QZ wall breach** (follow-up after Repose).
 - Silas → "harass criminals."
 
-### Cutthroat's Repose (~30 min)
+### Cutthroat's Repose (~45–60 min)
 
-- Password works; **Tally** or **Vault**-adjacent contact (use Vault stat block if negotiation turns serious).
-- Cats **stall**: want cart away from Hielaman before talking; may offer **kompromat bargain** on Hielaman's superiors (not Hielaman himself).
-- Won't admit Chuggaz is a Latch unless bargained hard.
+**Wiki:** `the-cutthroats-repose.textile` — exterior + interior read-aloud (`bq).` blocks), recognition notes, back-room table.
+
+| Phase | Beats |
+|-------|--------|
+| **Approach** | Read exterior box; Wallarch context (shadow, demons, QZ proximity) |
+| **Enter** | Read interior box; party **recognised** — watchful silence, not instant hostility |
+| **Bar** | Insight DC 12: concealed weapons / foci; Perception DC 13: runner warns back room |
+| **Back room** | Password *Swordfish*; **Tally** (Sable Silvestre; Tally stat block if negotiation turns serious) |
+| **Negotiation** | Cats **stall**: cart away from Hielaman before serious talk; kompromat on Meness **superiors** (not Hielaman) |
+| **Yield** | Bear / Weasel / Snake descriptions if earned; still won't admit Chuggaz = Latch without hard leverage |
+
+**Tone:** Pratchett-adjacent — honest criminal hospitality, everyone armed, nobody rude enough to say so aloud.
 
 ### Impound cart (~30 min)
 
@@ -347,8 +362,10 @@ Party chooses to revisit **14th Ostory** incident after Navinea/Galoras theorisi
 |-------|---------|
 | **Morning** | Silas summons → Kosmios slip |
 | **Midday** | Fulcrum: Nans → Chuggaz |
-| **Afternoon** | Player fork: Repose / records / Institute — or rest at Radwasp |
+| **Afternoon** | **Cutthroat's Repose** (planned) → optional impound cart / Meness yard |
 | **Evening** | Religious incident (Quick or Full) |
+
+If Repose runs long, defer cart to Session 13 opening or a Radwasp "Hielaman sent word" hook.
 
 Swap religious to morning if Silrie player wants faith first; Silas can arrive as afternoon summons instead.
 

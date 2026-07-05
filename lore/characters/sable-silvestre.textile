@@ -1,0 +1,71 @@
+---
+op_slug: sable-silvestre
+op_kind: Character
+op_type: Character
+name: Sable Silvestre
+title: Sable Silvestre
+op_gm_only: true
+is_player_character: false
+tags:
+- she/her
+- Black Cats
+---
+
+<!-- OP_DESCRIPTION -->
+You see a sharp-featured human woman in her thirties, dark hair cropped close and her face kept carefully plain — the sort of plain that takes effort. She wears Wallarch neutrals: brown coat, grey scarf, no house colourss. A ledger book and a waxed cloth wrap sit within easy reach on the table beside her, the former flipped closed the instant you enter; her hands are ink-stained at the thumb and forefinger. She presents as tired, competent, and already calculating the price of whatever you are about to ask. Her voice is quiet and precise; she smiles only when it costs you something.
+
+<!-- OP_BIO -->
+[[The Black Cats | Black Cats]] contact at [[The Cutthroat's Repose | The Cutthroat's Repose]] — named only through [[:emerich-surefoot | Emerich Surefoot]]'s lead (back room; password *Swordfish*). [[The Adventurers | The Wonch]] have not met this contact in person.[1]
+
+<hr>
+fn1. [[Session 6: Wallarch | Session 6: Wallarch]] — Emerich under duress after the noon chase.
+
+<!-- GM_INFO_START -->
+h2. Black Cats link
+
+**[[The Black Cats | Black Cats]] — Tally.** Logistics and kompromat above the embedded **Latches**; relay for **Vault** at the Repose. Holds ledger extracts and adjutant material Vault will not commit on paper elsewhere. [[:chuggaz | Chuggaz]]'s Fulcrum rosters pass through her tier. She never admits Vault identity, syndicate ideology, or Chuggaz's **Latch** role without hard leverage.
+
+h2. Prep
+
+* **Session 12 posture:** Vault and the Cats fear [[The Adventurers | the Wonch]]'s unpredictability more than [[:hielaman | Hielaman]]. Default: **stall, misdirect, harmless gossip** — not open war unless cornered.
+* **Opening beat:** Gillette's bolt to the kitchen buys her a few seconds; she may be seated with tea and a half-open ledger when the party arrive. She already knows who they are.
+* **Primary ask:** get the impounded cart / [[:hielaman | Hielaman]] problem off the board before serious negotiation — see `notes/session-12-plan.md` § B3.
+* **Possible offer:** kompromat fragment on [[House Meness | Meness]] **superiors** (not Hielaman), or Bear / Weasel / Snake descriptions if bargained fairly.
+* **Won't give without leverage:** Chuggaz as Latch, Anathemist ideology, Vault identity, or anything that burns the Repose relay.
+* **Escape:** *disguise self* to reach the street; *sleep* if the party get hands-on — then slip out via kitchen alleys. She does not fight to the death on premises.
+
+h2. Stat block
+
+<p>Baseline <strong>Black Cat Tally</strong> ([[The Black Cats | the-black-cats]] wiki); Sable favours <em>disguise self</em> and <em>sleep</em> over the template's rapier loadout when negotiating or escaping.</p>
+
+<div class="stat-block">
+<h3>Sable Silvestre</h3>
+<p><em>Medium humanoid (human), neutral evil</em></p>
+<p><strong>Armor Class</strong> 15 (studded leather)<br>
+<strong>Hit Points</strong> 32 (5d8 + 10)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +3</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>10 (+0)</td><td>16 (+3)</td><td>14 (+2)</td><td>13 (+1)</td><td>12 (+1)</td><td>15 (+2)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> Deception +4, Insight +3, Persuasion +4, Sleight of Hand +4<br>
+<strong>Senses</strong> passive Perception 11<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 2 (450 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Spellcasting.</strong> Sable's spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). She has three 2nd-level spell slots and knows the following spells:</p>
+<p><em>1st level (at will):</em> <em>mage hand</em><br>
+<em>2nd level (3 slots):</em> <em>disguise self</em>, <em>hold person</em>, <em>sleep</em></p>
+<hr>
+<p><strong>Cut a Deal.</strong> Sable offers a fragment of useful truth (kompromat hint, syndicate description, cart thread) in exchange for a concrete favour or a promise to leave the Repose out of Meness paperwork. A character who succeeds on a DC 14 Wisdom (Insight) check knows she is still holding back the words "Vault" and "Latch."</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> Sable makes two rapier attacks, or one rapier attack and casts <em>hold person</em> or <em>sleep</em>.</p>
+<p><strong>Rapier.</strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d8 + 3) piercing damage.</p>
+<p><strong>Fire Bolt (Cantrip).</strong> <em>Ranged Spell Attack:</em> +4 to hit, range 120 ft., one target. <em>Hit:</em> 5 (1d10) fire damage.</p>
+</div>
+<!-- GM_INFO_END -->

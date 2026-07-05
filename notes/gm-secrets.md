@@ -34,11 +34,14 @@ Player Secrets (Ascendant UI) do **not** sync. Keep PC secrets in OP Player Secr
 | **Nielsenn** kidnapped, coerced, killed; shop explosion staged | `nielsenn`, `the-investigation` GM |
 | Sulphur / nitre / charcoal thefts hidden inside House sabotage; stockpile at **Sacrum** | `the-investigation` GM, `house-grimbolg` (party suspects saltpetre only) |
 | **Kelferria** armour order = QZ protection + crude Oestra disguises | `kelferria-the-smith`, `barnabus` |
-| **Chuggaz** = confirmed **Latch** (not mere rumour); fences Fulcrum rosters to **Vault** | `chuggaz` GM |
+| **Chuggaz** = confirmed **Latch** (not mere rumour); embedded at Fulcrum; passes rosters **up to Tallies / Vault** | `chuggaz` GM |
 | Cats **don't** know Chuggaz is tied to the bombing plot | `chuggaz` GM, `the-black-cats` GM |
 | Real culprits may **not** be ideological Anathemists alone (false-flag / proxies) | `the-investigation` GM meta |
 | **Commander Wake** still at large | `commander-wake` |
 | **Silas** breach, missing Kosmios files, key loss, audit panic | `silas-oestra` (Session 12+) |
+| **Elite Kosmios panic** — Fulcrum bombing reframed as possible rift attack; **truth:** diversion first, Kosmios learned post-heist | `the-investigation` GM, `the-octarion-circle` GM, `project-kosmios` |
+| **Rift anchor** — Axis Chamber beneath Fulcrum; Wellspring cooling; **Dockward** = scaled control array for Project Kosmios | `the-fulcrum` GM, `dockward` GM, `the-octarion-circle` GM |
+| **Anathemist next target: Dockward** (not yet public) | `anathemists` GM |
 
 **Party knows (public wiki OK):** Anathemist Lieutenant leaked classified info; Hexine Circle convened; investigation leads on Fulcrum bombing, Black Cats, sabotage timeline, Nort's coachman sighting, Chuggaz rumour, Emerich / Cutthroat's Repose, saltpetre suspicion at Grimbolg. See `the-investigation`, `home-page`.
 
