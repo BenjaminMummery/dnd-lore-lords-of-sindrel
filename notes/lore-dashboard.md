@@ -1,6 +1,6 @@
 # Lore dashboard
 
-_Auto-generated on 2026-07-05 15:33. Open [lore-dashboard.html](lore-dashboard.html) for charts._
+_Auto-generated on 2026-07-05 22:09. Open [lore-dashboard.html](lore-dashboard.html) for charts._
 
 ## Current date (Session 11)
 
@@ -11,7 +11,7 @@ _Auto-generated on 2026-07-05 15:33. Open [lore-dashboard.html](lore-dashboard.h
 - he/him: 31 (54%) - target 45%
 - she/her: 16 (28%) - target 45%
 - non-binary: 10 (18%) - target 10%
-- Untagged: 0
+- Untagged: 2
 
 ## Party wealth
 
