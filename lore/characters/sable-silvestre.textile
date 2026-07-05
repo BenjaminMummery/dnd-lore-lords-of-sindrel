@@ -1,9 +1,13 @@
 ---
+op_id: 1da374ce6f564b32a15589e093a33448
 op_slug: sable-silvestre
 op_kind: Character
 op_type: Character
 name: Sable Silvestre
 title: Sable Silvestre
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/sable-silvestre
+op_created_at: '2026-07-05T13:07:10Z'
+op_updated_at: '2026-07-05T13:07:10Z'
 op_gm_only: true
 is_player_character: false
 tags:

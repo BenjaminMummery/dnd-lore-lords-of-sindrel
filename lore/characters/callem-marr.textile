@@ -1,9 +1,13 @@
 ---
+op_id: 18adc010e63d46b394c8b198b81b1370
 op_slug: callem-marr
 op_kind: Character
 op_type: Character
 name: Callem Marr
 title: Callem Marr
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/callem-marr
+op_created_at: '2026-07-05T13:06:35Z'
+op_updated_at: '2026-07-05T13:06:35Z'
 op_gm_only: true
 is_player_character: false
 tags:
