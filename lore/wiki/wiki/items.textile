@@ -12,7 +12,7 @@ op_gm_only: false
 tags: []
 ---
 
-###. ITEMS_INDEX_AUTO_START
+<!-- ITEMS_INDEX_AUTO_START -->
 h2. Documents
 
 <div class="item-wiki-grid">
@@ -270,4 +270,4 @@ h2. Weapon
 </div>
 </div>
 <!-- GM_INFO_END -->
-###. ITEMS_INDEX_AUTO_END
+<!-- ITEMS_INDEX_AUTO_END -->

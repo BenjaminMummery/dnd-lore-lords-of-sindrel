@@ -12,10 +12,10 @@ ROOT = Path(__file__).resolve().parents[1]
 WIKI = ROOT / "lore" / "wiki" / "wiki"
 ITEMS_PAGE = WIKI / "items.textile"
 
-MARKER_START = "###. ITEMS_INDEX_AUTO_START"
-MARKER_END = "###. ITEMS_INDEX_AUTO_END"
-LEGACY_MARKER_START = "<!-- ITEMS_INDEX_AUTO_START -->"
-LEGACY_MARKER_END = "<!-- ITEMS_INDEX_AUTO_END -->"
+MARKER_START = "<!-- ITEMS_INDEX_AUTO_START -->"
+MARKER_END = "<!-- ITEMS_INDEX_AUTO_END -->"
+LEGACY_TEXTILE_MARKER_START = "###. ITEMS_INDEX_AUTO_START"
+LEGACY_TEXTILE_MARKER_END = "###. ITEMS_INDEX_AUTO_END"
 IMAGE_MARKER_START = "<!-- ITEM_IMAGE_AUTO_START -->"
 IMAGE_MARKER_END = "<!-- ITEM_IMAGE_AUTO_END -->"
 
@@ -236,7 +236,7 @@ def strip_index_blocks(text: str) -> str:
     """Remove generated index blocks (current Textile markers and legacy HTML comments)."""
     for start, end in (
         (MARKER_START, MARKER_END),
-        (LEGACY_MARKER_START, LEGACY_MARKER_END),
+        (LEGACY_TEXTILE_MARKER_START, LEGACY_TEXTILE_MARKER_END),
     ):
         pattern = re.compile(
             re.escape(start) + r".*?" + re.escape(end) + r"\n?",
