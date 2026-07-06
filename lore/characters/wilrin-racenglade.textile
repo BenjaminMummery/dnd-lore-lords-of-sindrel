@@ -16,7 +16,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2
 ---
 
 <!-- OP_DESCRIPTION -->
-Wilrin is a gnome sorcerer — slight of frame, sharp of cheekbone, with pointed ears flushed pink at the tips. His hair and beard are the same dark burgundy, the beard trimmed neat and the hair swept back in layered spikes. His complexion is pale; his eyes do not match — one dark and watchful, the other unnaturally pale, a reminder of the [[The Fallowhurst Sigil | Fallowhurst sigil]] that bound him. He dresses in a fitted wine-dark coat embroidered with curling spiral work at the chest and closed with a row of polished buttons.
+Wilrin is a halfling sorcerer — slight of frame, sharp of cheekbone, with rounded ears flushed pink at the tips. His hair and beard are the same dark burgundy, the beard trimmed neat and the hair swept back in layered spikes. His complexion is pale; his eyes do not match — one dark and watchful, the other unnaturally pale, a reminder of the [[The Fallowhurst Sigil | Fallowhurst sigil]] that bound him. He dresses in a fitted wine-dark coat embroidered with curling spiral work at the chest and closed with a row of polished buttons.
 
 h3. Key Items
 

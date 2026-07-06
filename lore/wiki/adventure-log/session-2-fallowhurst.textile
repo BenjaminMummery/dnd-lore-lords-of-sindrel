@@ -23,7 +23,7 @@ h2. Dramatis Personae
 * [[:pin | Pin]], a human fighter.
 * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
 * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
-* [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
+* [[:wilrin-racenglade | Wilrin Ravenglade]], a halfling sorcerer.
 [end-content] [end-accordion-item]
 [accordion-item] [title] Fellow Travellers [end-title] [content]
 * [[:gillette-quill | Gillette]] and [[:raymond-quill | Raymond Quill]], ruffians (somewhat reformed)
@@ -131,7 +131,7 @@ Rather than follow the trail, the party chose instead to explore the other door 
 
 bq). This room runs the full three-storey height of the building, and is ringed by a pair of partially collapsed galleries accessed from the upper floors. Tall windows on the west wall once allowed the sun to illuminate the space, but their vacant frames have been almost overtaken by the ivy that once grew on the outside wall and is now colonising the interior. In what little light is admitted illuminates the remains of wooden pew-like benches that litter the floor. At the centre is a portable lectern and blackboard, whatever writing it once bore long-since washed away by the water dripping from a large crack in the vaulted ceiling.
 
-While [[:ayr | Ayr]] investigated the corner door leading outside, [[:nakoma-deathwalker-mor-got-ha | DW]] and [[:wilrin-racenglade | Wilrin]] examined the blackboard. On the reverse side, they found an [[The Fallowhurst Sigil | incomplete magic circle]], something to do with a binding spell. For reasons best known to themselves, the pair proceeded to experiment with drawing the circle, producing a series of random magical side effects including a slight intoxication for [[:wilrin-racenglade | Wilrin]] and a small translocation. [[:ayr | Ayr]] broke the door, taking the doorknob with him.
+While [[:ayr | Ayr]] investigated the side door leading outside from the lecture hall, [[:nakoma-deathwalker-mor-got-ha | DW]] and [[:wilrin-racenglade | Wilrin]] examined the blackboard. On the reverse side, they found an [[The Fallowhurst Sigil | incomplete magic circle]], something to do with a binding spell. For reasons best known to themselves, the pair proceeded to experiment with drawing the circle, producing a series of random magical side effects including a slight intoxication for [[:wilrin-racenglade | Wilrin]] and a small translocation. [[:ayr | Ayr]] broke the side door and prised off the [[Fallowhurst Lecture Hall Doorknob | doorknob]], taking it with him.
 
 h3. Museum (E)
 

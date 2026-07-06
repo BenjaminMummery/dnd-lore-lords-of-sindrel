@@ -62,6 +62,12 @@ h2. Other
   </a>
 </div>
 <div class="item-wiki-tile item-wiki-tile-no-img">
+  <a class="item-wiki-tile-link" href="/wikis/fallowhurst-lecture-hall-doorknob" title="Fallowhurst Lecture Hall Doorknob">
+    <span class="item-wiki-tile-placeholder" aria-hidden="true"></span>
+    <span class="item-wiki-tile-name">Fallowhurst Lecture Hall Doorknob</span>
+  </a>
+</div>
+<div class="item-wiki-tile item-wiki-tile-no-img">
   <a class="item-wiki-tile-link" href="/wikis/spoon-of-digging" title="Spoon of Digging">
     <span class="item-wiki-tile-placeholder" aria-hidden="true"></span>
     <span class="item-wiki-tile-name">Spoon of Digging</span>
@@ -125,15 +131,15 @@ h2. Weapon
   </a>
 </div>
 <div class="item-wiki-tile item-wiki-tile-no-img">
-  <a class="item-wiki-tile-link" href="/wikis/the-journeymans-answer" title="The Journeyman's Answer">
-    <span class="item-wiki-tile-placeholder" aria-hidden="true"></span>
-    <span class="item-wiki-tile-name">The Journeyman's Answer</span>
-  </a>
-</div>
-<div class="item-wiki-tile item-wiki-tile-no-img">
   <a class="item-wiki-tile-link" href="/wikis/the-gonne" title="The Gonne">
     <span class="item-wiki-tile-placeholder" aria-hidden="true"></span>
     <span class="item-wiki-tile-name">The Gonne</span>
+  </a>
+</div>
+<div class="item-wiki-tile item-wiki-tile-no-img">
+  <a class="item-wiki-tile-link" href="/wikis/the-journeymans-answer" title="The Journeyman's Answer">
+    <span class="item-wiki-tile-placeholder" aria-hidden="true"></span>
+    <span class="item-wiki-tile-name">The Journeyman's Answer</span>
   </a>
 </div>
 </div>

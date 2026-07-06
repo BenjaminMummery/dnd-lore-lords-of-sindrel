@@ -1,0 +1,20 @@
+---
+op_slug: fallowhurst-lecture-hall-doorknob
+op_kind: Wiki
+op_type: WikiPage
+name: Fallowhurst Lecture Hall Doorknob
+title: Fallowhurst Lecture Hall Doorknob
+op_gm_only: false
+tags:
+- item
+- other
+---
+
+A heavy brass doorknob, still threaded on its spindle — prised from the side door of the [[Fallowhurst College | Fallowhurst College]] lecture hall (room C) when [[:ayr | Ayr]] forced the door open on the 25th of Enean 4218 SC.[1]
+
+The college was already a ruin; the theft left splintered wood and a gap where the latch had been. [[:ayr | Ayr]] pocketed it as a souvenir. No enchantment is known — yet.
+
+**Current holder:** [[:ayr | Ayr]].
+
+<hr>
+fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]

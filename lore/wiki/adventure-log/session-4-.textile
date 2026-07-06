@@ -26,7 +26,7 @@ h2. Dramatis Personae
 * [[:pin | Pin]], a human fighter.
 * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
 * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
-* [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
+* [[:wilrin-racenglade | Wilrin Ravenglade]], a halfling sorcerer.
 [end-content] [end-accordion-item]
 
 [accordion-item] [title] Fellow Travellers [end-title]
@@ -85,9 +85,17 @@ Having wildshaped into a cat, [[:amanira | Amanira]] sought for signs of other d
 
 h3. [[:ayr | Ayr]]
 
-In disguise as "Fenton Woofrunner", Ayr infiltrated a soiree of nobles. From talking to other guests, he learned that [[Sindrel | Sindrel's]] primary trading partner is [[Soulwind | Soulwind]]; that there are rumours of a trade deal with the secretive [[The Thaumocracy of Tellerin | Tellerin Empire]]; that [[House Mabon | House Mabon]] are typically the most lucrative House with which to trade; and that [[House Oestra | House Oestra]] were previously a good prospect for trading arms and armour, but have recently withdrawn from most mercantile relationships.
+In disguise as "Fenton Woofrunner", [[:ayr | Ayr]] infiltrated a [[House Lithra | Lithran]] soiree hosted by [[:emissary-halan | Emissary Halan]]. Nice clothes, a snooty accent, and the unearned confidence of minor nobility carried him through the door without a second glance. He worked the room as he always had — questions dressed as idle curiosity, ears open for anything worth stealing later.
 
-He also made the acquaintance of the host, [[:emissary-halan | Emissary Halan]] of [[House Lithra | House Lithra]].
+Rumour and trade gossip, as overheard at Halan's gathering:
+
+* [[House Oestra | House Oestra]] were once among the most lucrative partners in [[Sindrel | Sindrel]] for anything weapon-oriented — arms, armour, mercenary contracts, the whole martial supply chain. That trade has gone quiet. Factors still speak of Oestran steel with respect, but the House has largely withdrawn from mercantile dealings; nobody at the soiree could say exactly why, only that the ledgers had stopped moving.
+* [[House Mabon | House Mabon]] are the main trading force in the city now — the house most outsiders mean when they talk about doing business in [[Sindrel | Sindrel]]. Journeyman fairs, workshop marks, and the hum of commerce all seemed to run through Mabon channels.
+* [[House Beltus | House Beltus]], if the whispers were to be believed, keep the nicest treasure vault in the upper city. More than one guest spoke of Beltan summoning and displayed wealth with the casual assurance of people who had seen the inside of such places — or wished they had.
+
+He also picked up that [[Sindrel | Sindrel's]] primary trading partner remains [[Soulwind | Soulwind]], and that there are persistent rumours of a deal in the works with the secretive [[The Thaumocracy of Tellerin | Tellerin Empire]].
+
+[[:emissary-halan | Halan]] herself proved sharp company — intoxicated with her own self-worth, by Ayr's reckoning, but easy to draw out and a little too curious about "Fenton"'s origins for comfort.
 
 On the way out he stole a [[Spoon of Digging | tea spoon]]. Later, in tinkering with the tea spoon, he unlocked its abilities of digging.
 

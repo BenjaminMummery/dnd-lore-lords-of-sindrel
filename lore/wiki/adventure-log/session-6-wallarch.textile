@@ -24,7 +24,7 @@ h2. Dramatis Personae
 * [[:pin | Pin]], a human fighter.
 * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
 * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
-* [[:wilrin-racenglade | Wilrin Ravenglade]], a gnome sorcerer.
+* [[:wilrin-racenglade | Wilrin Ravenglade]], a halfling sorcerer.
 [end-content] [end-accordion-item]
 [accordion-item] [title] Denizens of [[The Wallarch District | the Wallarch district]] [end-title] [content]
 * [[:emerich-surefoot | Emerich Surefoot]] - a ruffian.
