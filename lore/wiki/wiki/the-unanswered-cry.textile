@@ -7,16 +7,16 @@ name: The Unanswered Cry
 title: The Unanswered Cry
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-unanswered-cry
 op_created_at: '2026-07-02T15:57:41Z'
-op_updated_at: '2026-07-02T15:57:41Z'
+op_updated_at: '2026-07-05T21:40:27Z'
 op_gm_only: false
 tags:
 - item
 - shield
 ---
 
-An elaborate buckler taken from the lead corpse at the [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]] in the outward [[Osteomantic Archives | Osteomantic Archives]].[1] The dead the dark robes and [[The Eighth House | Eighth House]] neck amulets. They appeared to be a devotional circle who worshipped the [[The Gods | Queen of Ravens]] in her aspect as vengeful reaper. They died calling for vengeance — _Avenge Us_ — when the Eighth House fell.
+An elaborate buckler taken from the lead corpse at the [[Shrine of the Queen of Ravens | Shrine of the Queen of Ravens]] in the outward [[Osteomantic Archives | Osteomantic Archives]].[1] The dead wore dark robes and [[The Eighth House | Eighth House]] neck amulets. They appeared to be a devotional circle who worshipped the [[The Gods | Queen of Ravens]] in her aspect as vengeful reaper. They died calling for vengeance when the Eighth House fell.
 
-Emblazoned at the centre is the sigil of a raven; two black metal wings lie on either side — though you could swear their positions shift when you are not looking directly at them. When you first slide your arm through the worn leather strap, the metal is cold — not the cold of metal left in shadow for years, but something else. Something patient. It fits your arm perfectly, as if made for you, even though it is aged as if many others before you have worn this very shield.
+Emblazoned at the centre is the sigil of a raven; two black metal wings lie on either side, though you could swear their positions shift when you are not looking directly at them. When you first slide your arm through the worn leather strap, the metal is cold - not the cold of metal left in shadow for years, but something else. Something patient. It fits your arm perfectly, as if made for you, even though it is aged as if many others before you have worn this very shield.
 
 A voice floats at the edge of your thoughts like smoke. It is not loud, but it sounds like an unexpected whisper when you think you are alone.
 
