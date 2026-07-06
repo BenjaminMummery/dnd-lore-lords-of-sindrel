@@ -1,9 +1,13 @@
 ---
+op_id: 03b3a647fdba49658a872e201d7eb5ba
 op_slug: fallowhurst-lecture-hall-doorknob
 op_kind: Wiki
 op_type: WikiPage
 name: Fallowhurst Lecture Hall Doorknob
 title: Fallowhurst Lecture Hall Doorknob
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/fallowhurst-lecture-hall-doorknob
+op_created_at: '2026-07-06T12:42:09Z'
+op_updated_at: '2026-07-06T12:42:09Z'
 op_gm_only: false
 tags:
 - item
