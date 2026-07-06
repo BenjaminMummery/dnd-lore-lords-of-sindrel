@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-07-05T21:37:58Z",
-  "last_portal_pull": "2026-07-05T20:58:54Z",
+  "last_portal_pull": "2026-07-06T12:41:17Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -1107,9 +1107,9 @@
       "op_id": "861aaa4dad304b0e80dbbcf929b39926",
       "op_kind": "Wiki",
       "op_slug": "the-unanswered-cry",
-      "op_updated_at": "2026-07-05T21:37:57Z",
+      "op_updated_at": "2026-07-05T21:40:27Z",
       "repo_blob_sha": "6e7cf0983f0911496a9491d91107a8850eaec766",
-      "repo_hash_at_sync": "dd646f2fa7495e0ff4e81cfd4de5307a76f0425bb1ba23daf82763435acd412f",
+      "repo_hash_at_sync": "1a1e685d1e831b1bf2ff509c06da52ff0c4566e9487e88519b680eb3195c519b",
       "repo_path": "lore/wiki/wiki/the-unanswered-cry.textile"
     },
     "868125b0dd1142c6b4c48fdf7cec741d": {
