@@ -7,7 +7,7 @@ name: 'Session 12: No Questions, Some Answers'
 title: 'Session 12: No Questions, Some Answers'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-12-no-questions-some-answers
 op_created_at: '2026-07-05T13:15:36Z'
-op_updated_at: '2026-07-05T13:15:36Z'
+op_updated_at: '2026-07-07T20:40:11Z'
 op_gm_only: true
 tags: []
 post_title: 'Session 12: No Questions, Some Answers'
@@ -19,5 +19,137 @@ post_time: '2026-07-05T13:15:00Z'
 <!-- GM_INFO_START -->
 h2. The Summons
 
-Late afternoon - a messenger from House Oestra finds the
+Late afternoon - a messenger from House Oestra finds the adventurers as they're leaving the Cornucopia.
+
+Text of the message:
+
+bq). By order of the House of Oestra
+<br>
+Let it be known to the recipients of this writ - the investigators commissioned under the [[Hexine Circle | Hexine Circle]] and presently lodged at [[Radwasp House | Radwasp House]] - that their presence is required before the Senate of [[House Oestra | House Oestra]] at the Leageur.
+<br>
+They will attend in person and without delay. Arms may be worn; shields are not required and will not be furnished. A House escort will meet them at the Triumphal Gate should they lack suitable conveyance.
+<br>
+The matter concerns breaches of Oestran security and the disposition of the investigators duties. Testimony will be taken. Evasion, fabrication, or tardiness will be recorded as contempt of a Great House.
+<br>
+Amanuensis [NAME]
+By authority of Silas Oestra, Heir Apparent
+<br>
+Impetus Est Optima Protectio
+
+Alternative: Cedric at the door
+
+bq). “Good morning. [[House Oestra | House Oestra]] requests your attendance at the Leageur, and I use the word requests in the sense that one requests a fire to please stop spreading. [[:commander-locke | Prefect Locke]] will receive you at the Triumphal Gate. [[:silas-oestra | Master Silas]] is… eager to continue your recent conversation regarding the catacombs. I would advise punctuality. The House does not enjoy being kept waiting, and I would prefer not to explain singed curtains to [[House Lithra | Lithra]] again.”
+
+The party have elected to keep Oestra waiting. This is going to be interesting.
+
+h2. Nans
+
+Nans is on duty at the Fulcrum, coming towards the end of her shift.
+
+h3. The Night. of the Bombing
+
+Nans is a house Beltus conjurer, on the night in question she was using unseen servant and tensors floating disc to move supplies between the store rooms and kitchens. She recalls a man in unfamiliar livery heading into the Fulcrum - she had to move aside to let him past and when she queried him he said he'd gotten turned around and was trying to find his master. She didn't have time to question him further, nor did she think that was strange with so many guests in attendance. She might have seen him again later from a distance, isn't sure. She doesn't regard this as suspicious, so will only volunteer it if asked about the coachman directly.
+
+What she _did_ think was strange was Chuggaz doing some light fraud and bribery. In reality this is a red herring - The Black Cats saw the ceremony as an opportunity to make some cash - they had Scratches among the floor staff taking the opportunity for some petty theft, and Latches in attendance looking to acquire information or other access from nobles with their guard down. Chuggaz was bringing in some off-books waste carts, hidden among the higher-than-usual traffic, as a way to get purloined loot out. An audit of Fulcrum Resources would show that a quantity of silverware and other small valuable items had gone missing, and House Meness have reports of several nobles having mislaid purses or items of jewellary - nothing out of the ordinary for such a large event. The bigger stuff - honeypots, confidence tricks, and social engineering used by Cats operatives to gain access and information - doesn't get reported.
+
+h4. "Did you see anything strange?"
+
+bq). “Chuggaz was at the roster desk after midnight, pushing Grimbolg waste manifests that weren’t on the usual cycle. I saw coin change hands with the night clerk. I don’t know what for. I do know it wasn’t standard.”
+
+If asked, she does recall that Chuggaz was at the roster desk around the time the first bomb detonated - a location that would have been obliterated by a full detonation.
+
+h4. "Did you see this coachman?"
+
+bq). Oh yeah, I saw that guy. Had to move aside so he could get past. He was coming back from running some kind of errand for his master and got all turned around in the tunnels, poor thing, I was happy to give him directions back to the main hall. Thought I spotting him again later heading out again, so he was being kept busy!
+
+h4. "Where is Chuggaz now?"
+
+bq). "He was at the roster desk a minute ago, chatting to some lads just coming on-shift."
+
+
+h2. Chuggaz
+
+bq). The Roster Desk is an almost comically misplaced affair: a sturdy desk, an overstuffed filing cabinet, and a corkboard bristling with notes, all wedged beneath the arches where the service tunnels split and wander off into the dark. It has all the dignity of an office accidentally dropped down a staircase. A glowing orb hovers above the desk providing a dull illumination - these are a common sight in the halls of Sindrel, although this one appears to be on its last legs, occasionally dimming or shifting colour. The Fulcrum above reportedly has offices for taxes, permits, trade agreements, civil disputes, and all the grand mechanisms of civic life. Down here, where work has the discourtesy to happen, the servants have provided the only thing the tunnels were missing: somewhere to keep track of one another and avoid a hundred cooks, porters, maids, valets, cleaners, and messengers all trying to occupy the same corridor at the same time.
+
+The desk is unoccupied, although half drunk mug of cheap coffee sat at the centre of a kaleidoscope of ring stains is still warm. The people coming on shift saw the Wonch at the servants' quarters. Chuggaz is smart enough to recognise them from their description as the group sniffing around the Cats, so he's slipped away to the **Cutthroat's Repose** to warn his contacts.
+
+h2. The Cutthroat's Repose
+
+h3. Exterior
+
+bq). The sign hangs by one rusted chain, which is either disrepair or a philosophical statement about rest. _The Cutthroat's Repose_ is painted in a hand that clearly learned lettering under grudging sufferance — the _o_ in _Repose_ has given up and become a smudge. Beneath it, in smaller letters: _Fine Ales. No Questions. Some Answers._
+<br>
+The building is Sindrel stonework gone tired — seamless conjured stone patched with timber and optimism. Overhead, a service bridge cuts the sky in half and explains why the street feels like late afternoon even when it isn't. A pair of [[House Beltus | Beltus]] imps trundle past with a crate of something that clinks like bottles and smells like regret.
+<br>
+The door is iron-banded oak, well maintained in the way of doors that expect to have to win arguments. [[:garric-brunt | Garric Brunt]] — or whoever is on door duty — slides the peephole open when you approach, and shut again when whoever is behind it decides you are either business or trouble. Warm light leaks through grime-thick windows. Inside, silhouettes move with the unhurried purpose of people who know the floorboards and do not trust anyone who doesn't.
+
+h3. Interior
+
+bq). The Repose sells atmosphere by the pint, and the atmosphere today is _watchful_.
+<br>
+It is a low room - soot-dark beams, tables bolted to the floor, and a bar that has been polished by elbows more than any actual cleaning. The air is thick with cheap spirits, stale pipe smoke, and the faint metallic tang you get when someone nearby has cast a cantrip recently. A dartboard hangs on the far wall, next to a sign reading _NO FIGHTING_ that has been stabbed at least twice by darts that missed the board entirely, and once by what appears to have been an axe.
+<br>
+Conversation does not stop when you enter. That would be too honest, too obvious. Instead it **changes key** - jokes finish a beat too late, dice stop rolling mid-hand, and a dozen conversations continue in voices just quiet enough that the speakers can overhear anything you say. You have been here before, in reputation if not in person: Deathwalker's gambling and your chase through Wallarch's back street have been witnessed, reported, and catalogued almost as efficiently as House Meness paperwork. You're a dangerous mix, outsiders with unknown intentions backed by the authority of a Hexine Circle. Around here that smells like trouble.
+<br>
+The [[:callem-marr | barkeep]] wipes a glass in a way that does not clean so much as distribute the grime more evenly, and does not ask your business. Patrons study their drinks with sudden devotion. A labourer in a patched coat keeps his hand near his belt. A woman by the fire adjusts her sleeve over a bracer that is definitely only decorative. Two men in the corner have chosen seats with sightlines to both door and bar, which is the sort of interior decorating you learn when your hobbies are illegal and your retirement plan is optimistic.
+<br>
+Then a server carrying three empty tankards in one precarious stack looks up from the bar hatch, meets your eyes, and goes the colour of bad ale. For one instant you see the face of [[:gillette-quill | Gillette Quill]] — the quicker of the two ruffians you spared on the road north. The tankards wobble. With a deeply unconvincing performance of _not_ having noticed you, he turns and makes for the kitchen door with exaggerated nonchalance.
+
+h3. Back room
+
+Accessed through the Kitchen. Plain door; no sign. Password *Swordfish*
+
+bq). The noise of the tavern doesn't quite reach this room. It arrives at the walls, thinks better of it, and leaves as a polite murmur. The air smells of old smoke, fresh ink, and damp wood. Nothing here is expensive, but everything is well used, well placed, and exactly where someone would want it when business turns complicated.
+<br>
+The doorway is occupied by a half-orc who doesn't so much guard it as redefine its dimensions. He stands with the patient stillness of hired muscle that has learned movement is usually someone else's mistake. The iron knuckledusters hewears catch the candlelight just enough to remind you that politeness, here, is less a courtesy than a survival strategy.
+<br>
+Behind the table sits a woman with the look of someone already pricing your interruption. The ledger before her snaps shut as you enter, the practiced movement of ink stained fingers performed by somebody for whom discretion is a habit. Her face is carefully forgettable, tiredness sits easily on her shoulders; competence sits easier.
+<br>
+This is an office in exactly the same way a wolf's den is a waiting room: business gets done here, and everyone leaves with a clearer understanding of where they stand.
+
+h3. Sable
+
+bq). Ah, the investigators. Do please come in. I understand you have been busy, gambling for information, chasing people through the streets, questioning servants.  I wonder, what can our humble organisation do for you?
+
+h4. If challenged on being a criminal organisation
+
+bq). Criminal? Certainly not. The Black Cats is merely a social organisation for the less advantaged citizens of Sindrel. Sure some of our members enjoy the an occasional element of cloak and dagger but it's all in good fun.
+
+If they present anything incriminating from emrich:
+
+bq). Emrich is possessed of a quite wonderful imagination, but I'm afraid it leaves him prone to these flights of fancy, especially in stressful situations. I'm confident that in a more sedate setting he would be able to clarify his previous remarks.
+
+h4. If questioned about the location of Chuggas.
+
+Chugan Velm
+
+bq). I'm afriad you just missed him. I'm sorry to say that the news of his colleagues being dragged from their beds and interrogated gave him quite a turn. I've arranged for him a nice peaceful environment where he can be looked after by some of my close personal friends until matters become more stable.
+
+h4. If they ask about the sabotage / bombing
+
+bq). Ah, so it's information you seek. How lucky for you that I operate as something of an information broker. Perhaps we can come to an arrangement.
+<br>
+I believe you're acquanted with a Captain of the Meness Watch by the name of [[:hielaman | Hielaman]]. In the eager performance of his duty he recently impounded a certain cart, belonging to one of my associates. The loss of a month's earnings while the cart has languished in Meness custody is no small matter, however it would appear that the cart contains evidence of a number of harmless but embarrassing indiscretions on the part of my associate that we would obviously prefer not be made public. We have understandings with a number of Meness officers, however the good captain has proven somewhat...intractable. We are eager that Hielaman not be given the opportunity to examine the vehicle. If it happened to disappear from the impound, or were some equally embarrassing information on Captain Hielamen to come to light, I'm sure you'd find us more than happy to share whatever we might know.
+
+h2. The Quills
+
+The quills failed to convince the merchants to buy into their wellness retreat idea, and are now trying to scrape together enough cash to set themselves up doing odd jobs for the Black Cats. Gillette's evasiveness is for the Cat's benefit - he's aware that the Wonch have made themselves a bit of a threat, and are desperate to avoid the Black Cats learning that they're connected to him.
+
+bq). Look, these guys are a bit leery of you folk, I'd really rather they not see us together!
+
+bq). You remember those merchants we was with? Through Fallowhurst and all that? Well Ray and I we figured we could go into business with the meditation schtick, right? Do weekend courses and retreats and that. So we tried to get them to invest, but no dice there - guess they didn't get the enlightenment memo. So we tried askin' round for investors, but we aint exactly got social capital 'round here. But we found these Black Cat folk, and they got fingers in more pies than a leper in a bakery, so we figure get in good with them, they put in a good word with the richies round here, grease a few palms, make a few how-do-you-dos, and we're laughing. So we're doin the occasional odd job, bit of liftin and  caryin, making ourselves useful, and all the time spreading the good word of inner peace, like, 
+
+h2. Future planning
+
+h3. Chuggaz's Tale
+
+Chuggaz was coordinating a few Scratches who were lifting some shiny from the distracted (and inebriated) gentility. His position at the Roster Desk meant that he could fudge paperwork and obfuscate logs to hide their movements. HIs biggest job was editing the waste manifests to cover a few additional carts - Cats-operated outfits providing a way to smuggle out purloined goods. He will be _very_ evasive. Nans saw him paying off the night clerk - the man should have been his replacement but Chuggaz suggested he have a night off.
+
+* He wasn't aware of any bombing plot.
+* He did see two men, one large, one wiry, enter via the servant's door, then leave the same way a short time later. Not servants he recognised (and he knows most people), but dressed in servants clothes. At the timehe assumed they were part of the Cats operation (he's aware that there were efforts to get more access for latches going on, not his department).
+* When the bomb went off, he fled the tunnels immediately.
+
+**Default contact:** [[:sable-silvestre | Sable Silvestre]] — **Tally** relay for **Vault**; uses *disguise self* / *sleep* if cornered; will not admit Vault structure without kompromat bargain. See [[The Black Cats | the-black-cats]] stat blocks.
+
+**Cats' posture (Session 12):** Wonch worry Vault more than Hielaman. Prefer misdirection, stall, harmless gossip — not open war unless cornered. May offer kompromat on Meness **superiors** (not Hielaman) in exchange for cart / impound problem handled.
 <!-- GM_INFO_END -->

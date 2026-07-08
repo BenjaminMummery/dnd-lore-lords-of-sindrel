@@ -7,7 +7,7 @@ name: The Cutthroat's Repose
 title: The Cutthroat's Repose
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-cutthroats-repose
 op_created_at: '2026-03-13T19:02:19Z'
-op_updated_at: '2026-07-05T13:08:30Z'
+op_updated_at: '2026-07-07T14:53:23Z'
 op_gm_only: false
 tags:
 - location
@@ -56,8 +56,37 @@ The quills failed to convince the merchants to buy into their wellness retreat i
 h2. Back room
 
 Accessed through the Kitchen.
+Plain door; no sign. Password *Swordfish* (Emerich's lead). 
 
-Plain door; no sign. Password *Swordfish* (Emerich's lead). [[:callem-marr | Callem Marr]] may demand it spoken quietly, or a coin left on the counter first.
+
+
+bq). The door is opened by a half-orc who occupies the doorway with the patient certainty of a landslide waiting for the right excuse. He holds still for a moment, presenting a barrier almost as sturdy as the door was, before stepping aside with an air of grudging threat. His scarred hands, filed tusk, and iron knuckle-duster make the point with admirable economy - he is prepared to do violence at a moment's notice, possibly sooner.
+<br>
+The back room itself has the unmistakable air of a place where money comes to confess its sins before returning to circulation. The tavern's warmth dies politely at the threshold, leaving behind a cooler silence that smells of old ink, damp timber, and the sort of careful accounting that can end with either a handshake or a shallow grave. Nothing here is lavish. Lavish attracts questions. Everything is merely sturdy enough to survive being leaned on by desperate people.
+<br>
+The woman at the table closes a ledger with the reflexes of someone who has spent years ensuring other people's curiosity remains an expensive habit. Her clothes are so deliberately ordinary they verge on a uniform of anonymity, while ink stains her fingers with the honest marks of profoundly dishonest work. She looks tired in the efficient way of people who schedule exhaustion between appointments, and her expression already suggests she's quietly calculating what your arrival will cost you.
+
+h3. Sable
+
+bq). "Ah the investigators. Please come in. You've been busy, I understand. Gambling for information; chasing down one of our associates in the street; poking around a another's place of work. I confess I'm curious what it is you're hoping to learn from our humble organisation."
+
+If pressed on the blackcats being crime doers, will lie with the blatant dishonesty of someone who knows you can't prove anything.
+
+bq). "Criminal? The Black Cats is merely a social club catering to the city's less advantaged citizens. Certainly some of our members enjoy a little cloak and dagger flair, it adds excitement to life, but it's all in good fun. Any accusation of wrongdoing by any of our members is something we take extremely seriously."
+
+If pressed on Emerich saying they were criminals:
+
+bq). "Young Emrich is possessed of a marvellous imagination, but unfortunately prone to these little flights of fancy in times of stress. I'm sure that when questioned in a more sedate setting you'll find that he'll be able to clarify his previous statements."
+
+If questioned about the location of [[:chuggaz | Chuggaz]]:
+
+bq). I'm afraid you just missed him. Mr Velm has something of a nervous disposition and I'm sorry to say the news of his colleagues being dragged from their beds and interrogated made him quite inconsolable. I've arranged for him to be taken somewhere quite where a few trusted friends can take care of him until the situation becomes less upsetting.
+
+when the Wonch ask about information on sabotage or the bombing.
+
+bq). "Information is it? How delightful, information is my stock in trade. But you should be aware by now that nothing comes for free."
+
+bq). "We understand that you are acquainted with a Captain Hieleman of the Meness watch. I'm sorry to say that the good captain has, in the eager enactment of his duty, impounded a cart belonging to one of our members. The loss of income entailed over the last month is, obviously, a matter of concern, however more troubling is that said cart may contain evidence of a few harmless but nonetheless embarrassing indiscretions that said member is eager to prevent becoming public knowledge. We have...understandings with several of the good captain's colleagues, however the gentlemen himself has proven to be...inflexible. As such we would prefer that he not have the opportunity to examine the cart in detail. Were it to go missing from the impound, for example, or if some mutually embarrassing indiscretions of Hieleman's own were to enter the equation, I'm sure we would be happy to share whatever information might aide you in your investigation.
 
 **Default contact:** [[:sable-silvestre | Sable Silvestre]] — **Tally** relay for **Vault**; uses *disguise self* / *sleep* if cornered; will not admit Vault structure without kompromat bargain. See [[The Black Cats | the-black-cats]] stat blocks.
 

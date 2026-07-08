@@ -7,7 +7,7 @@ name: Main Page
 title: Main Page
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/main-page
 op_created_at: '2025-11-17T15:24:03Z'
-op_updated_at: '2026-07-01T21:22:20Z'
+op_updated_at: '2026-07-07T12:30:44Z'
 op_gm_only: false
 tags: []
 ---
@@ -43,6 +43,7 @@ Our tale takes place in the northern regions of the continent of [[Artresh | Art
 *** Fulcrum Servants Quarters
 ** [[The Wallarch District | Wallarch]]
 *** [[Osteomantic Archives | Wallarch Osteomantic Archives]]
+*** [[The Cutthroat's Repose | The Cutthroat's Repose]]
 ** [[The Canted Terrace | The Canted Terrace]]
 *** [[Beltan Institute | The Beltan Institute]]
 ** [[Quarantine Zone | The Quarantine Zone]]
@@ -75,6 +76,7 @@ h2. Organisations / Groups
 * [[The Vermillion Company | Mercenaries]]
 * [[The Octarion Circle | The Octarion Circle]]
 * [[Hexine Circle | The Hexine Circle]]
+* [[The Black Cats | The Black Cats]]
 
 h2. Flora and Fauna
 
