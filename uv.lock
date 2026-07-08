@@ -238,7 +238,7 @@ wheels = [
 [[package]]
 name = "lore-bridge"
 version = "0.8.0"
-source = { git = "ssh://git@github.com/BenjaminMummery/obsidianportal-git-sync.git?rev=main#3fa68fcc31088e47c4a6662fcf974fbab752b4ca" }
+source = { git = "ssh://git@github.com/BenjaminMummery/obsidianportal-git-sync.git?rev=main#89a927338e638e13f93cc4cedc05397abcd2fcc0" }
 dependencies = [
     { name = "beautifulsoup4" },
     { name = "fastapi" },
