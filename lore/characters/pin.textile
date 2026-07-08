@@ -13,9 +13,169 @@ is_player_character: true
 tags:
 - he/him
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457450/WhatsApp_Image_2026-01-11_at_12.12.06.jpeg
-dndbeyond_id: "159193691"
+dndbeyond_id: '159193691'
 dndbeyond_url: https://www.dndbeyond.com/characters/159193691
+dndbeyond_synced_at: '2026-07-08T12:28:56Z'
 ---
+
+<!-- OP_DDB_SHEET -->
+<div class="ddb-sheet">
+  <header class="ddb-header">
+    <div class="ddb-header-main">
+      <h1 class="ddb-name">Pin</h1>
+      <p class="ddb-subtitle">Fighter (Battle Master) 3</p>
+      <ul class="ddb-meta">
+        <li><span class="ddb-label">Race</span> Human</li>
+        <li><span class="ddb-label">Background</span> Soldier</li>
+        <li><span class="ddb-label">Alignment</span> True Neutral</li>
+        <li><span class="ddb-label">Proficiency</span> +2</li>
+        <li><span class="ddb-label">Inspiration</span> No</li>
+      </ul>
+      <p class="ddb-links">165309 · The Lords of Sindrel</p>
+    </div>
+    <div class="ddb-avatar-wrap">&lt;img src=&quot;https://www.dndbeyond.com/avatars/54026/691/1581111423-159193691.jpeg?width=150&amp;amp;height=150&amp;amp;fit=crop&amp;amp;quality=95&amp;amp;auto=webp&quot; alt=&quot;&quot;&gt;</div>
+  </header>
+
+  <section class="ddb-section ddb-defenses">
+    <h2 class="ddb-section-title">Defenses</h2>
+    <div class="ddb-pill-grid">
+      <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">13</span></div>
+      <div class="ddb-pill ddb-pill-wide">
+        <span class="ddb-pill-label">HP</span>
+        <span class="ddb-pill-value">22</span>
+        <span class="ddb-pill-sep">/</span>
+        <span class="ddb-pill-value">22</span>
+      </div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Temp</span><span class="ddb-pill-value">0</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">30 ft.</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+2</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
+    </div>
+  </section>
+
+  <div class="ddb-columns">
+    <section class="ddb-section">
+      <h2 class="ddb-section-title">Abilities</h2>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">16 (+3)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">14 (+2)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">15 (+2)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">9 (-1)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">13 (+1)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">11 (+0)</span></div>
+      </div>
+      <h3 class="ddb-subsection-title">Saving Throws</h3>
+      <div class="ddb-block">STR +3<br>
+DEX +2<br>
+CON +2<br>
+INT -1<br>
+WIS +1<br>
+CHA +0</div>
+    </section>
+
+    <section class="ddb-section">
+      <h2 class="ddb-section-title">Skills &amp; Senses</h2>
+      <div class="ddb-block">Athletics +5 *<br>
+Intimidation +2 *<br>
+Perception +3 *<br>
+Survival +3 *</div>
+      <div class="ddb-sense-row">
+        <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">13</span></div>
+        <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">9</span></div>
+        <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">11</span></div>
+      </div>
+    </section>
+  </div>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Actions</h2>
+    <div class="ddb-block">Longsword. +5 to hit, range 5 ft., 1d8 slashing<br>
+Handaxe. +5 to hit, range 20 ft., 1d6 slashing<br>
+Longbow. +5 to hit, range 150 ft., 1d8 piercing<br>
+Second Wind. Once per short rest, you can use a bonus action to regain 1d10 + HP.<br>
+Action Surge. You can take one additional action on your turn. This can be used times per short rest.<br>
+Superiority Dice. You learn maneuvers that are fueled by superiority dice. Maneuvers enhance an attack in some way. You have superiority dice per short rest.<br>
+Fighting Style: Protection. While wielding a shield and a creature you can see attacks a target other than you within 5 ft., you can use your reaction to impose disadvantage on the attack roll.<br>
+Maneuvers: Commander’s Strike. When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct an ally that can see or hear you to strike using its reaction, adding the superiority die to the damage roll.<br>
+Maneuvers: Parry. When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die .<br>
+Maneuvers: Riposte. When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against it (add the superiority die to the attack’s damage roll on hit).</div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Limited Use</h2>
+    <div class="ddb-block">Second Wind (1/short rest). Once per short rest, you can use a bonus action to regain 1d10 + HP.<br>
+Action Surge (1/short rest). You can take one additional action on your turn. This can be used times per short rest.<br>
+Superiority Dice (4/short rest). You learn maneuvers that are fueled by superiority dice. Maneuvers enhance an attack in some way. You have superiority dice per short rest.</div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Features &amp; Traits</h2>
+    <div class="ddb-block">Languages. You can speak, read, and write Common and one extra language.<br>
+Ability Score Increase. Your ability scores each increase by 1.<br>
+Age. Humans reach adulthood in their late teens and live less than a century.<br>
+Size. Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.<br>
+Speed. Your base walking speed is 30 feet.<br>
+Combat Superiority. You learn maneuvers that are fueled by superiority dice. Maneuvers enhance an attack in some way. You have superiority dice per short rest.<br>
+Student of War. You gain proficiency with one type of artisan’s tools.<br>
+Maneuvers. The maneuvers are presented in alphabetical order.<br>
+Fighting Style. You adopt a fighting style specialty.<br>
+Second Wind. Once per short rest, you can use a bonus action to regain 1d10 + HP.<br>
+Action Surge. You can take one additional action on your turn. This can be used times per short rest.<br>
+Martial Archetype. At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.<br>
+Proficiencies. Armor: All armor, shields Weapons: Simple weapons, martial weapons Tools: None Saving Throws: Strength, Constitution Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival<br>
+Hit Points. Hit Dice: 1d10 per fighter level Hit Points at 1st Level: 10 + your Constitution modifier Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per fighter level after 1st<br>
+Equipment. You start with the following equipment, in addition to the equipment granted by your background: (a) chain mail or (b) leather armor, longbow, and 20 arrows (a) a martial weapon and a shield or (b) two martial weapons (a) a light crossbow and 20 bolts or (b) two handaxes (a) a dungeoneer’s pack or (b) an explorer’s pack<br>
+Hero&#x27;s Journey Boon. At your GM&#x27;s discretion you have been granted a Hero&#x27;s Journey Boon.<br>
+Dark Bargain. At your GM&#x27;s discretion, you have taken a Dark Bargain.</div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
+    <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Heavy Armor, Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons; Cook&#x27;s Utensils, Playing Card Set, Shields, Vehicles (Land)</span></div>
+    <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Dwarvish</span></div>
+    <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Inventory</h2>
+    <div class="ddb-block">Shield<br>
+Leather<br>
+Longsword<br>
+Handaxe<br>
+Handaxe<br>
+Longbow<br>
+Arrows x19<br>
+Backpack<br>
+Clothes, Common<br>
+Playing Card Set<br>
+Bedroll<br>
+Mess Kit<br>
+Rations (1 day) x10<br>
+Rope, Hempen (50 feet)<br>
+Tinderbox<br>
+Torch x10<br>
+Waterskin<br>
+10 gp</div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Spellcasting</h2>
+    <div class="ddb-spell-header">
+      <div><span class="ddb-label">Ability</span> int</div>
+      <div><span class="ddb-label">Save DC</span> </div>
+      <div><span class="ddb-label">Attack</span> </div>
+    </div>
+    <h3 class="ddb-subsection-title">Spell Slots</h3>
+    <div class="ddb-block">—</div>
+    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
+    <div class="ddb-block">—</div>
+  </section>
+
+  <footer class="ddb-footer">
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 12:28 UTC</p>
+    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
+  </footer>
+</div>
 
 <!-- OP_DESCRIPTION -->
 A slim young man of about 5'9" — fair-skinned, brown-haired, green-eyed, wiry at a hundred and forty-five pounds. He carries himself with a soldier's quiet economy; watchful, hard to read. A young warrior seeking community, purpose and answers: does his sword hold the spirit of his dead friend, or is he losing his mind?
@@ -55,7 +215,6 @@ h4. Recent Events
 * *28th Enean 4218 [[The Soulwind Calendar | SC]]* - During downtime in [[Sindrel | Sindrel]], asked magical shops about the [[The Fallowhurst Sigil | Fallowhurst sigil]] seen at [[Fallowhurst College | Fallowhurst College]]; could not reproduce it from memory. Later drank with [[:hielaman | Captain Hielaman]]; woke with a black eye after a [[Ditchquer | Ditchquer]] argument.
 
 <!-- GM_INFO_START -->
-
 Pin is **22** in **4218 SC**. The battle at **Corvus** (~**4217 SC**) fell when he was **~21** — the year before the campaign.
 
 h3. The sword

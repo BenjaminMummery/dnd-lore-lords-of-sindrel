@@ -13,9 +13,177 @@ is_player_character: true
 tags:
 - she/they
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7442634/1000025365.jpg
-dndbeyond_id: "151085721"
+dndbeyond_id: '151085721'
 dndbeyond_url: https://www.dndbeyond.com/characters/151085721
+dndbeyond_synced_at: '2026-07-08T12:29:00Z'
 ---
+
+<!-- OP_DDB_SHEET -->
+<div class="ddb-sheet">
+  <header class="ddb-header">
+    <div class="ddb-header-main">
+      <h1 class="ddb-name">Silrie Aegiskiir</h1>
+      <p class="ddb-subtitle">Monk (Way of the Astral Self) 3</p>
+      <ul class="ddb-meta">
+        <li><span class="ddb-label">Race</span> Astral Elf</li>
+        <li><span class="ddb-label">Background</span> Astral Drifter</li>
+        <li><span class="ddb-label">Alignment</span> Lawful Neutral</li>
+        <li><span class="ddb-label">Proficiency</span> +2</li>
+        <li><span class="ddb-label">Inspiration</span> No</li>
+      </ul>
+      <p class="ddb-links">BigBearBjorn30 · The Lords of Sindrel</p>
+    </div>
+    <div class="ddb-avatar-wrap">&lt;img src=&quot;https://www.dndbeyond.com/avatars/53629/963/1581111423-151085721.jpeg?width=150&amp;amp;height=150&amp;amp;fit=crop&amp;amp;quality=95&amp;amp;auto=webp&quot; alt=&quot;&quot;&gt;</div>
+  </header>
+
+  <section class="ddb-section ddb-defenses">
+    <h2 class="ddb-section-title">Defenses</h2>
+    <div class="ddb-pill-grid">
+      <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">13</span></div>
+      <div class="ddb-pill ddb-pill-wide">
+        <span class="ddb-pill-label">HP</span>
+        <span class="ddb-pill-value">18</span>
+        <span class="ddb-pill-sep">/</span>
+        <span class="ddb-pill-value">18</span>
+      </div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Temp</span><span class="ddb-pill-value">0</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">30 ft.</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+4</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
+    </div>
+  </section>
+
+  <div class="ddb-columns">
+    <section class="ddb-section">
+      <h2 class="ddb-section-title">Abilities</h2>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">14 (+2)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">18 (+4)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">15 (+2)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">14 (+2)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">16 (+3)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">12 (+1)</span></div>
+      </div>
+      <h3 class="ddb-subsection-title">Saving Throws</h3>
+      <div class="ddb-block">STR +2<br>
+DEX +4<br>
+CON +2<br>
+INT +2<br>
+WIS +3<br>
+CHA +1</div>
+    </section>
+
+    <section class="ddb-section">
+      <h2 class="ddb-section-title">Skills &amp; Senses</h2>
+      <div class="ddb-block">Acrobatics +6 *<br>
+Arcana +4 *<br>
+Insight +5 *<br>
+Perception +5 *<br>
+Religion +4 *<br>
+Survival +5 *</div>
+      <div class="ddb-sense-row">
+        <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">15</span></div>
+        <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">12</span></div>
+        <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">15</span></div>
+      </div>
+    </section>
+  </div>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Actions</h2>
+    <div class="ddb-block">Quarterstaff. +4 to hit, range 5 ft., 1d6 bludgeoning<br>
+Dart. +4 to hit, range 20 ft., 1d4 piercing<br>
+Starlight Step. You can magically teleport up to 30 ft. to an unoccupied space you can see.<br>
+Unarmed Strike. When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action.<br>
+Ki Points. You can spend Ki Points to fuel ki features. You have points per short rest and your Ki save DC is .<br>
+Flurry of Blows. After you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.<br>
+Patient Defense. You can spend 1 ki point to take the Dodge action as a bonus action on your turn.<br>
+Step of the Wind. You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.<br>
+Arms of the Astral Self: Summon. As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 ft. of you must succeed on a DEX saving throw (DC:) or take force damage. For 10 minutes: - You can use WIS in place of STR when making STR checks/saving throws. - You can use the spectral arms to make unarmed strikes.<br>
+Arms of the Astral Self (Wis.). Whilst your Arms of the Astral Self are summoned, you can use the spectral arms to make unarmed strikes and can use your Wis. mod in place of your Str. or Dex. modifier for the attack and damage rolls.<br>
+Arms of the Astral Self. Whilst your Arms of the Astral Self are summoned, you can use the spectral arms to make unarmed strikes.<br>
+Deflect Missiles. You can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 . If you reduce damage to 0 and have a free hand, you can spend 1 ki point to make a ranged attack (as with a monk weapon) with a range of 20/60.<br>
+Deflect Missiles Attack. If you reduce damage to 0 and have a free hand, you can spend 1 ki point to make a ranged attack (as with a monk weapon).<br>
+Ki-Fueled Attack. If you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.</div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Limited Use</h2>
+    <div class="ddb-block">Ki Points (3/short rest). You can spend Ki Points to fuel ki features. You have points per short rest and your Ki save DC is .</div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Features &amp; Traits</h2>
+    <div class="ddb-block">Ability Score Increases. When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1.<br>
+Languages. Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character.<br>
+Creature Type. You are a Humanoid but are also considered an elf for any prerequisite or effect that requires you to be an elf.<br>
+Size. You are Medium.<br>
+Speed. Your walking speed is 30 ft.<br>
+Astral Fire. You know one of the following cantrips of your choice: dancing lights , light , or sacred flame . Your spellcasting ability is either Intelligence, Wisdom, or Charisma (choose when you select this race).<br>
+Darkvision. You can see in dim light within 60 ft. of you as if it were bright light, and in darkness as if it were dim light, only discerning colors in that darkness as shades of gray.<br>
+Fey Ancestry. You have advantage on saving throws you make to avoid or end the charmed condition on yourself.<br>
+Keen Senses. You have proficiency in the Perception skill.<br>
+Starlight Step. As a bonus action, you can magically teleport up to 30 ft. to an unoccupied space you can see. You can use this feature times per long rest.<br>
+Astral Trance. You don’t need to sleep, and magic can’t put you to sleep. You can finish a long rest in 4 hours if those hours are spent in a trancelike meditation in which you remain conscious. When you finish this trance you gain proficiency in a skill of your choice and one weapon or tool of your choice from the Player’s Handbook . This lasts until you finish your next long rest.<br>
+Arms of the Astral Self. As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 ft. of you must succeed on a Dex. saving throw ( DC ) or take force damage. For 10 mins: - You can use your Wis. mod in place of your Str. mod when making Str. checks/saving throws. - You can use the spectral arms to make unarmed strikes. - When you make an unarmed strike with the arms on your turn, your reach for it is 5 ft. greater than normal. - The unarmed strikes you make with the arms can use your Wis. mod in place of your Str. or Dex. mod for the attack and damage rolls, and their damage type is force.<br>
+Unarmored Defense. While not wearing armor and not using a shield, your AC equals 10 + DEX modifier + WIS modifier.<br>
+Martial Arts. While you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield, you can use DEX instead of STR for the attack and damage rolls, you can roll your Martial Arts damage die in place of the normal damage, and when you use the Attack action on your turn, you can make one unarmed strike as a bonus action.<br>
+Ki. You can spend Ki Points to fuel ki features. You have points per short rest and your Ki save DC is . Flurry of Blows - After you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action. Patient Defense - You can spend 1 ki point to take the Dodge action as a bonus action on your turn. Step of the Wind - You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.<br>
+Unarmored Movement. Your speed increases by 10 feet while you are not wearing armor or wielding a shield.<br>
+Monastic Tradition. When you reach 3rd level, you commit yourself to a monastic tradition: the Way of the Open Hand, detailed at the end of the class description or one from another source. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.<br>
+Deflect Missiles. You can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 . If you reduce damage to 0 and have a free hand, you can spend 1 ki point to make a ranged attack (as with a monk weapon) with range 20/60.<br>
+Proficiencies. Armor: None Weapons: Simple weapons, shortswords Tools: Choose one type of artisan’s tools or one musical instrument Saving Throws: Strength, Dexterity Skills: Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth<br>
+Hit Points. Hit Dice: 1d8 per monk level Hit Points at 1st Level: 8 + your Constitution modifier Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per monk level after 1st<br>
+Equipment. You start with the following equipment, in addition to the equipment granted by your background: (a) a shortsword or (b) any simple weapon (a) a dungeoneer’s pack or (b) an explorer’s pack 10 darts<br>
+Magic Initiate (Cleric). You learn two cantrips of your choice from the cleric spell list. You learn one 1st-level spell from that same list and can cast it at its lowest level once per long rest.<br>
+Hero&#x27;s Journey Boon. At your GM&#x27;s discretion you have been granted a Hero&#x27;s Journey Boon.<br>
+Dark Bargain. At your GM&#x27;s discretion, you have taken a Dark Bargain.</div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
+    <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Simple Weapons; Disguise Kit, Shortsword</span></div>
+    <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Abyssal, Celestial, Common, Elvish</span></div>
+    <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">Cartographer&#x27;s Tools</span></div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Inventory</h2>
+    <div class="ddb-block">Quarterstaff<br>
+Dart x10<br>
+Ink (1 ounce bottle)<br>
+Ink Pen<br>
+Backpack<br>
+Clothes, Traveler&#x27;s<br>
+Pouch<br>
+Bedroll<br>
+Mess Kit<br>
+Rations (1 day) x10<br>
+Rope, Hempen (50 feet)<br>
+Tinderbox<br>
+Torch x10<br>
+Waterskin<br>
+10 gp</div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Spellcasting</h2>
+    <div class="ddb-spell-header">
+      <div><span class="ddb-label">Ability</span> int</div>
+      <div><span class="ddb-label">Save DC</span> </div>
+      <div><span class="ddb-label">Attack</span> </div>
+    </div>
+    <h3 class="ddb-subsection-title">Spell Slots</h3>
+    <div class="ddb-block">—</div>
+    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
+    <div class="ddb-block">—</div>
+  </section>
+
+  <footer class="ddb-footer">
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 12:29 UTC</p>
+    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
+  </footer>
+</div>
 
 <!-- OP_DESCRIPTION -->
 A tall, pale figure of about 5'11" with long white hair bound in pale wrappings. An ornate ritual mask covers their face. Deep purple and navy robes, white bindings at the arms — the dress of someone who treats movement as a grammar.
