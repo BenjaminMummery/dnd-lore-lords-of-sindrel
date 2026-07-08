@@ -1,0 +1,12 @@
+[project]
+name = "dnd-lore-lords-of-sindrel"
+version = "0.0.0"
+description = "Lore mirror for The Lords of Sindrel (Obsidian Portal ↔ GitHub)"
+readme = "notes/README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "lore-bridge @ git+ssh://git@github.com/BenjaminMummery/obsidianportal-git-sync.git@feat/dndbeyond-html",
+]
+
+[tool.uv]
+package = false

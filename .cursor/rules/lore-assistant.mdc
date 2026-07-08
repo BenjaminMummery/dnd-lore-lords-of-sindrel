@@ -34,7 +34,7 @@ When the user's message begins with `NPC:` or `Quick NPC:` (case-insensitive), f
 
 **Bridge sync** (companion repo `obsidianportal-git-sync`):
 
-- Pull OP → GitHub → local: `scripts/lore_pull.sh` (needs `LORE_BRIDGE_URL`, `LORE_BRIDGE_API_KEY` from that repo's `.env`)
+- Pull OP → GitHub → local: `uv run lore-bridge from-op` (needs `LORE_BRIDGE_URL`, `LORE_BRIDGE_API_KEY` in repo `.env`; see `.env.example`)
 - After pull: watch for stash/merge conflicts and `op_updated_at` regressions (see below)
 
 ## Line endings (CRLF) - important
