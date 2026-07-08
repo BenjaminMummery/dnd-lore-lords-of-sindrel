@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457474/572fdc897647939edd9359829283e7ba.jpg
 dndbeyond_id: '157065911'
 dndbeyond_url: https://www.dndbeyond.com/characters/157065911
-dndbeyond_synced_at: '2026-07-08T12:28:53Z'
+dndbeyond_synced_at: '2026-07-08T12:30:54Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -176,7 +176,7 @@ Level 1: Cause Fear, False Life</div>
   </section>
 
   <footer class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 12:28 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 12:30 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </footer>
 </div>

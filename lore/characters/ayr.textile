@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457458/WhatsApp_Image_2026-01-10_at_17.20.08.jpeg
 dndbeyond_id: '156087500'
 dndbeyond_url: https://www.dndbeyond.com/characters/156087500
-dndbeyond_synced_at: '2026-07-08T12:28:42Z'
+dndbeyond_synced_at: '2026-07-08T12:30:44Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -180,7 +180,7 @@ Vestments<br>
   </section>
 
   <footer class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 12:28 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 12:30 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </footer>
 </div>
