@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457462/WhatsApp_Image_2026-01-10_at_17.14.42.jpeg
 dndbeyond_id: '159196960'
 dndbeyond_url: https://www.dndbeyond.com/characters/159196960
-dndbeyond_synced_at: '2026-07-08T15:39:39Z'
+dndbeyond_synced_at: '2026-07-08T15:44:02Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -61,8 +61,8 @@ dndbeyond_synced_at: '2026-07-08T15:39:39Z'
       </div>
       <h3 class="ddb-subsection-title">Saving Throws</h3>
       <div class="ddb-ability-grid">
-        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">-1</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">+2</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">+1 *</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">+4 *</span></div>
         <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+2</span></div>
         <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">+1</span></div>
         <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+2</span></div>
@@ -131,7 +131,7 @@ Survival +4 *</div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 15:39 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 15:44 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>
