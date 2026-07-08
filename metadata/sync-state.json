@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-07-08T15:48:41Z",
+  "last_git_publish": "2026-07-08T15:53:04Z",
   "last_portal_pull": "2026-07-08T15:45:29Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -507,9 +507,9 @@
       "op_id": "33029cfe72f344979629473df4d746da",
       "op_kind": "Character",
       "op_slug": "silrie-aegiskiir",
-      "op_updated_at": "2026-07-08T15:48:06Z",
-      "repo_blob_sha": "1967757458324c99547e48d09836858df4db6453",
-      "repo_hash_at_sync": "9632c5bf768303d57c59d4338ff43102b14e679f623a52b23cdfcb7bc16e7600",
+      "op_updated_at": "2026-07-08T15:52:24Z",
+      "repo_blob_sha": "77976e63ec4b42602f41bc24b4b4dda0b7e95cca",
+      "repo_hash_at_sync": "072e751d06d7ec146bc3d83d76ed231fe2a35924cfcd4537b5f6cac321a13219",
       "repo_path": "lore/characters/silrie-aegiskiir.textile"
     },
     "332a5b69220d4e359890169765108480": {
@@ -567,9 +567,9 @@
       "op_id": "3c19f65bedc54691941c6fa9030ae710",
       "op_kind": "Character",
       "op_slug": "pin",
-      "op_updated_at": "2026-07-08T15:48:00Z",
-      "repo_blob_sha": "6c39f85f35ec76b58db82579a4c9b8186994317f",
-      "repo_hash_at_sync": "3860035c033ac547a279f5464bc609fc6a982c38dce70aae9772105eabccc5e6",
+      "op_updated_at": "2026-07-08T15:52:15Z",
+      "repo_blob_sha": "d0b3d84a272270f78eb54cb1af5ba7ac02124411",
+      "repo_hash_at_sync": "c13846d0196fa8160e605efb305d205f930417c7fb9fe0f508a1217308230334",
       "repo_path": "lore/characters/pin.textile"
     },
     "3dd6af69d11e4345a987028922d1e974": {
@@ -607,9 +607,9 @@
       "op_id": "42cee9f0b8134dccab7714a196fd04d5",
       "op_kind": "Character",
       "op_slug": "ayr",
-      "op_updated_at": "2026-07-08T15:40:14Z",
-      "repo_blob_sha": "9414b734c3222ad187a69c966d6a5b6c7222743d",
-      "repo_hash_at_sync": "61d73daf1e02ccc24613435baa5c6450d17947e9c60d7fbe098a238caf8b2eae",
+      "op_updated_at": "2026-07-08T15:52:01Z",
+      "repo_blob_sha": "4aae4804d4c5da5ff4d1f8dde915e9952fc5fc1e",
+      "repo_hash_at_sync": "8847cf55ccf929ba79b4f98a33ddaa5ad0728a596541ad5d4add0a603e3b7334",
       "repo_path": "lore/characters/ayr.textile"
     },
     "46e3468d573f4714bd7ff0fb59d65696": {
@@ -897,9 +897,9 @@
       "op_id": "684c57a053864975b1a77f2842946c08",
       "op_kind": "Character",
       "op_slug": "amanira",
-      "op_updated_at": "2026-07-08T15:47:47Z",
-      "repo_blob_sha": "035e6e4c176a529c53728caea2478e1325ca7747",
-      "repo_hash_at_sync": "27550c7b3f53f8920247eee4de84ac8b0334c4e3b74d502005ad4828a2bf281b",
+      "op_updated_at": "2026-07-08T15:51:58Z",
+      "repo_blob_sha": "026911c0031c354c2a398dd19919a02b1d05d089",
+      "repo_hash_at_sync": "731b4e9f5ef07bc367614fa2182c323e7a6f6dee8237539bc75b6ea963d6ac65",
       "repo_path": "lore/characters/amanira.textile"
     },
     "689a5e01c2214591bcd30469314707f8": {
@@ -1027,9 +1027,9 @@
       "op_id": "72799128ec3843bbb489b2f8b72126af",
       "op_kind": "Character",
       "op_slug": "wilrin-racenglade",
-      "op_updated_at": "2026-07-08T15:48:09Z",
-      "repo_blob_sha": "8f0bcaf693b86283b3674278139d60ef02706707",
-      "repo_hash_at_sync": "aafb04ef09cd1195a1fb214355ee5b702a8787898ddcf5e81c8440a1c9762dd3",
+      "op_updated_at": "2026-07-08T15:52:27Z",
+      "repo_blob_sha": "18be8a664ba276de293f21c1abe80f39dc4cd006",
+      "repo_hash_at_sync": "250b6f4922de4c750b4bd236df92ea41f89100842754c0fa3393c008dd874cdb",
       "repo_path": "lore/characters/wilrin-racenglade.textile"
     },
     "72c6d96ea30544f5b06f749d4aa2b5b2": {
