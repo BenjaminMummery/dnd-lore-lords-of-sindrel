@@ -188,7 +188,7 @@
       "op_kind": "Character",
       "op_slug": "raol-greyhirst",
       "op_updated_at": "2026-07-08T10:26:25Z",
-      "repo_blob_sha": null,
+      "repo_blob_sha": "88558e41eaab7504083c57b6939c80c2268f6114",
       "repo_hash_at_sync": "6d71a96f21d2c301c1d7de6d8ca279bf761b5e94d8f3b64d8a89d192ff7c8b12",
       "repo_path": "lore/characters/raol-greyhirst.textile"
     },
@@ -1758,7 +1758,7 @@
       "op_kind": "Character",
       "op_slug": "sylthana-mistayruar",
       "op_updated_at": "2026-07-08T10:27:05Z",
-      "repo_blob_sha": null,
+      "repo_blob_sha": "a1ae711a79521c95d33dac9b7dfe9bf97cadf26e",
       "repo_hash_at_sync": "9bbf210b5059ab337a3bbfbbcb35874bb8bb4c8fa3959e84af99c5977ea51073",
       "repo_path": "lore/characters/sylthana-mistayruar.textile"
     },
