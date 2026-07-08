@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-07-06T13:31:31Z",
-  "last_portal_pull": "2026-07-08T10:23:02Z",
+  "last_portal_pull": "2026-07-08T12:23:58Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -181,6 +181,16 @@
       "repo_blob_sha": "d98931a2b32562199d1e98890014eef4fabaa428",
       "repo_hash_at_sync": "1e0e9cb513cffc3a3e10f4e17ea05a500a388e0be9b55162cd05951be9313ca8",
       "repo_path": "lore/characters/mistress-lucretia-samhain.textile"
+    },
+    "13382071578d409c88aa3e50d64d8c35": {
+      "last_synced_title": "Raol Greyhirst",
+      "op_id": "13382071578d409c88aa3e50d64d8c35",
+      "op_kind": "Character",
+      "op_slug": "raol-greyhirst",
+      "op_updated_at": "2026-07-08T10:26:25Z",
+      "repo_blob_sha": null,
+      "repo_hash_at_sync": "6d71a96f21d2c301c1d7de6d8ca279bf761b5e94d8f3b64d8a89d192ff7c8b12",
+      "repo_path": "lore/characters/raol-greyhirst.textile"
     },
     "1451da32e40b44d7af4b2f6c9e4d1a39": {
       "last_synced_title": "The Shadow's Vestment",
@@ -377,9 +387,9 @@
       "op_id": "2460ccd9ff50422286d81cbfc2483262",
       "op_kind": "Character",
       "op_slug": "rossin-ros-greyhirst",
-      "op_updated_at": "2026-07-08T09:59:35Z",
-      "repo_blob_sha": "bdb11ac44363f01394ba9e637b29c4f39a665f7f",
-      "repo_hash_at_sync": "cf369d193fb0d1a28d9b8b14f8ec7aaba61fff63c1260a966e41e106ac3c3ff9",
+      "op_updated_at": "2026-07-08T10:27:54Z",
+      "repo_blob_sha": "4387131de2317810b195c5321b2a5ba6b11af83c",
+      "repo_hash_at_sync": "153ebd6bb94bac50cf17656d1e232a3f2fca6819e3c01613af14394e58054d3a",
       "repo_path": "lore/characters/rossin-ros-greyhirst.textile"
     },
     "24a9fb6a96c34deeadf8c99ef0524f0c": {
@@ -1741,6 +1751,16 @@
       "repo_blob_sha": "01c30ba3620c1d673a62f091116ee0664d0541fa",
       "repo_hash_at_sync": "d0d9b4d1b37d2e7a1cd23d05c3cf523661b201d49c6545e0c67078a6f353e23c",
       "repo_path": "lore/wiki/adventure-log/session-2-fallowhurst.textile"
+    },
+    "df5fc5ad963d476f8319947de5eb4714": {
+      "last_synced_title": "Sylthana Mistayruar",
+      "op_id": "df5fc5ad963d476f8319947de5eb4714",
+      "op_kind": "Character",
+      "op_slug": "sylthana-mistayruar",
+      "op_updated_at": "2026-07-08T10:27:05Z",
+      "repo_blob_sha": null,
+      "repo_hash_at_sync": "9bbf210b5059ab337a3bbfbbcb35874bb8bb4c8fa3959e84af99c5977ea51073",
+      "repo_path": "lore/characters/sylthana-mistayruar.textile"
     },
     "e0ce8b55356e42aca44de9ebc35e33cf": {
       "last_synced_title": "House Goela",
