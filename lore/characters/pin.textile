@@ -15,12 +15,12 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457450/WhatsApp_Image_2026-01-11_at_12.12.06.jpeg
 dndbeyond_id: '159193691'
 dndbeyond_url: https://www.dndbeyond.com/characters/159193691
-dndbeyond_synced_at: '2026-07-08T12:30:57Z'
+dndbeyond_synced_at: '2026-07-08T12:48:50Z'
 ---
 
 <!-- OP_DDB_SHEET -->
 <div class="ddb-sheet">
-  <header class="ddb-header">
+  <div class="ddb-header">
     <div class="ddb-header-main">
       <h1 class="ddb-name">Pin</h1>
       <p class="ddb-subtitle">Fighter (Battle Master) 3</p>
@@ -34,9 +34,9 @@ dndbeyond_synced_at: '2026-07-08T12:30:57Z'
       <p class="ddb-links">165309 · The Lords of Sindrel</p>
     </div>
     <div class="ddb-avatar-wrap">&lt;img src=&quot;https://www.dndbeyond.com/avatars/54026/691/1581111423-159193691.jpeg?width=150&amp;amp;height=150&amp;amp;fit=crop&amp;amp;quality=95&amp;amp;auto=webp&quot; alt=&quot;&quot;&gt;</div>
-  </header>
+  </div>
 
-  <section class="ddb-section ddb-defenses">
+  <div class="ddb-section ddb-defenses">
     <h2 class="ddb-section-title">Defenses</h2>
     <div class="ddb-pill-grid">
       <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">13</span></div>
@@ -51,10 +51,10 @@ dndbeyond_synced_at: '2026-07-08T12:30:57Z'
       <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+2</span></div>
       <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
     </div>
-  </section>
+  </div>
 
   <div class="ddb-columns">
-    <section class="ddb-section">
+    <div class="ddb-section">
       <h2 class="ddb-section-title">Abilities</h2>
       <div class="ddb-ability-grid">
         <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">16 (+3)</span></div>
@@ -71,9 +71,9 @@ CON +2<br>
 INT -1<br>
 WIS +1<br>
 CHA +0</div>
-    </section>
+    </div>
 
-    <section class="ddb-section">
+    <div class="ddb-section">
       <h2 class="ddb-section-title">Skills &amp; Senses</h2>
       <div class="ddb-block">Athletics +5 *<br>
 Intimidation +2 *<br>
@@ -84,10 +84,10 @@ Survival +3 *</div>
         <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">9</span></div>
         <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">11</span></div>
       </div>
-    </section>
+    </div>
   </div>
 
-  <section class="ddb-section">
+  <div class="ddb-section">
     <h2 class="ddb-section-title">Actions</h2>
     <div class="ddb-block">Longsword. +5 to hit, range 5 ft., 1d8 slashing<br>
 Handaxe. +5 to hit, range 20 ft., 1d6 slashing<br>
@@ -99,16 +99,16 @@ Fighting Style: Protection. While wielding a shield and a creature you can see a
 Maneuvers: Commander’s Strike. When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct an ally that can see or hear you to strike using its reaction, adding the superiority die to the damage roll.<br>
 Maneuvers: Parry. When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die .<br>
 Maneuvers: Riposte. When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against it (add the superiority die to the attack’s damage roll on hit).</div>
-  </section>
+  </div>
 
-  <section class="ddb-section">
+  <div class="ddb-section">
     <h2 class="ddb-section-title">Limited Use</h2>
     <div class="ddb-block">Second Wind (1/short rest). Once per short rest, you can use a bonus action to regain 1d10 + HP.<br>
 Action Surge (1/short rest). You can take one additional action on your turn. This can be used times per short rest.<br>
 Superiority Dice (4/short rest). You learn maneuvers that are fueled by superiority dice. Maneuvers enhance an attack in some way. You have superiority dice per short rest.</div>
-  </section>
+  </div>
 
-  <section class="ddb-section">
+  <div class="ddb-section">
     <h2 class="ddb-section-title">Features &amp; Traits</h2>
     <div class="ddb-block">Languages. You can speak, read, and write Common and one extra language.<br>
 Ability Score Increase. Your ability scores each increase by 1.<br>
@@ -127,16 +127,16 @@ Hit Points. Hit Dice: 1d10 per fighter level Hit Points at 1st Level: 10 + your 
 Equipment. You start with the following equipment, in addition to the equipment granted by your background: (a) chain mail or (b) leather armor, longbow, and 20 arrows (a) a martial weapon and a shield or (b) two martial weapons (a) a light crossbow and 20 bolts or (b) two handaxes (a) a dungeoneer’s pack or (b) an explorer’s pack<br>
 Hero&#x27;s Journey Boon. At your GM&#x27;s discretion you have been granted a Hero&#x27;s Journey Boon.<br>
 Dark Bargain. At your GM&#x27;s discretion, you have taken a Dark Bargain.</div>
-  </section>
+  </div>
 
-  <section class="ddb-section">
+  <div class="ddb-section">
     <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
     <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Heavy Armor, Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons; Cook&#x27;s Utensils, Playing Card Set, Shields, Vehicles (Land)</span></div>
     <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Dwarvish</span></div>
     <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
-  </section>
+  </div>
 
-  <section class="ddb-section">
+  <div class="ddb-section">
     <h2 class="ddb-section-title">Inventory</h2>
     <div class="ddb-block">Shield<br>
 Leather<br>
@@ -156,9 +156,9 @@ Tinderbox<br>
 Torch x10<br>
 Waterskin<br>
 10 gp</div>
-  </section>
+  </div>
 
-  <section class="ddb-section">
+  <div class="ddb-section">
     <h2 class="ddb-section-title">Spellcasting</h2>
     <div class="ddb-spell-header">
       <div><span class="ddb-label">Ability</span> int</div>
@@ -169,12 +169,12 @@ Waterskin<br>
     <div class="ddb-block">—</div>
     <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
     <div class="ddb-block">—</div>
-  </section>
+  </div>
 
-  <footer class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 12:30 UTC</p>
+  <div class="ddb-footer">
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 12:48 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
-  </footer>
+  </div>
 </div>
 
 <!-- OP_DESCRIPTION -->

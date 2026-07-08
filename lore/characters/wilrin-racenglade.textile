@@ -15,12 +15,12 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2026-01-15_at_14.33.55.jpeg
 dndbeyond_id: '151085741'
 dndbeyond_url: https://www.dndbeyond.com/characters/151085741
-dndbeyond_synced_at: '2026-07-08T12:31:03Z'
+dndbeyond_synced_at: '2026-07-08T12:48:55Z'
 ---
 
 <!-- OP_DDB_SHEET -->
 <div class="ddb-sheet">
-  <header class="ddb-header">
+  <div class="ddb-header">
     <div class="ddb-header-main">
       <h1 class="ddb-name">Wilrin RavenGlade</h1>
       <p class="ddb-subtitle">Sorcerer (Wild Magic) 3</p>
@@ -34,9 +34,9 @@ dndbeyond_synced_at: '2026-07-08T12:31:03Z'
       <p class="ddb-links">Ne0ni · The Lords of Sindrel</p>
     </div>
     <div class="ddb-avatar-wrap">&lt;img src=&quot;https://www.dndbeyond.com/avatars/54284/245/1581111423-151085741.jpeg?width=150&amp;amp;height=150&amp;amp;fit=crop&amp;amp;quality=95&amp;amp;auto=webp&quot; alt=&quot;&quot;&gt;</div>
-  </header>
+  </div>
 
-  <section class="ddb-section ddb-defenses">
+  <div class="ddb-section ddb-defenses">
     <h2 class="ddb-section-title">Defenses</h2>
     <div class="ddb-pill-grid">
       <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">13</span></div>
@@ -51,10 +51,10 @@ dndbeyond_synced_at: '2026-07-08T12:31:03Z'
       <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+3</span></div>
       <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
     </div>
-  </section>
+  </div>
 
   <div class="ddb-columns">
-    <section class="ddb-section">
+    <div class="ddb-section">
       <h2 class="ddb-section-title">Abilities</h2>
       <div class="ddb-ability-grid">
         <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">9 (-1)</span></div>
@@ -71,9 +71,9 @@ CON +1<br>
 INT +1<br>
 WIS +2<br>
 CHA +4</div>
-    </section>
+    </div>
 
-    <section class="ddb-section">
+    <div class="ddb-section">
       <h2 class="ddb-section-title">Skills &amp; Senses</h2>
       <div class="ddb-block">Arcana +3 *<br>
 Deception +6 *<br>
@@ -84,10 +84,10 @@ Survival +4 *</div>
         <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">11</span></div>
         <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">12</span></div>
       </div>
-    </section>
+    </div>
   </div>
 
-  <section class="ddb-section">
+  <div class="ddb-section">
     <h2 class="ddb-section-title">Actions</h2>
     <div class="ddb-block">Dagger. +1 to hit, range 20 ft., 1d4 piercing<br>
 Crossbow, Light. +1 to hit, range 80 ft., 1d8 piercing<br>
@@ -96,15 +96,15 @@ Convert Sorcery Points. You can use your sorcery points to gain additional spell
 Metamagic - Twinned Spell. You can spend sorcery points equal to a spell&#x27;s level (1 for a cantrip) to target a second creature in range with the same spell, as long as the spell at the level it&#x27;s being cast is incapable of targeting more than one creature.<br>
 Tides of Chaos. Once per long rest, you can gain advantage on one attack roll, ability check, or saving throw. Before you regain use of this feature, the DM can have you roll on the Wild Magic Surge table after you cast a 1st level or higher spell. You then regain the use of this feature.<br>
 Metamagic - Quickened Spell. When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.</div>
-  </section>
+  </div>
 
-  <section class="ddb-section">
+  <div class="ddb-section">
     <h2 class="ddb-section-title">Limited Use</h2>
     <div class="ddb-block">Sorcery Points (3/long rest). You have sorcery points that you regain when you finish a long rest.<br>
 Tides of Chaos (1/long rest). Once per long rest, you can gain advantage on one attack roll, ability check, or saving throw. Before you regain use of this feature, the DM can have you roll on the Wild Magic Surge table after you cast a 1st level or higher spell. You then regain the use of this feature.</div>
-  </section>
+  </div>
 
-  <section class="ddb-section">
+  <div class="ddb-section">
     <h2 class="ddb-section-title">Features &amp; Traits</h2>
     <div class="ddb-block">Lucky. When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.<br>
 Brave. You have advantage on saving throws against being frightened.<br>
@@ -127,16 +127,16 @@ Hit Points. Hit Dice: 1d6 per sorcerer level Hit Points at 1st Level: 6 + your C
 Equipment. You start with the following equipment, in addition to the equipment granted by your background: (a) a light crossbow and 20 bolts or (b) any simple weapon (a) a component pouch or (b) an arcane focus (a) a dungeoneer’s pack or (b) an explorer’s pack Two daggers<br>
 Hero&#x27;s Journey Boon. At your GM&#x27;s discretion you have been granted a Hero&#x27;s Journey Boon.<br>
 Dark Bargain. At your GM&#x27;s discretion, you have taken a Dark Bargain.</div>
-  </section>
+  </div>
 
-  <section class="ddb-section">
+  <div class="ddb-section">
     <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
     <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Crossbow, Light, Dagger, Dart, Flute, Quarterstaff, Sling</span></div>
     <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Gnomish, Halfling</span></div>
     <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
-  </section>
+  </div>
 
-  <section class="ddb-section">
+  <div class="ddb-section">
     <h2 class="ddb-section-title">Inventory</h2>
     <div class="ddb-block">Dagger<br>
 Dagger<br>
@@ -154,9 +154,9 @@ Tinderbox<br>
 Torch x10<br>
 Waterskin<br>
 8 gp</div>
-  </section>
+  </div>
 
-  <section class="ddb-section">
+  <div class="ddb-section">
     <h2 class="ddb-section-title">Spellcasting</h2>
     <div class="ddb-spell-header">
       <div><span class="ddb-label">Ability</span> cha</div>
@@ -168,12 +168,12 @@ Waterskin<br>
 2nd 0/2</div>
     <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
     <div class="ddb-block">Cantrips: Fire Bolt, Mage Hand, Minor Illusion, Retrieve</div>
-  </section>
+  </div>
 
-  <footer class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 12:31 UTC</p>
+  <div class="ddb-footer">
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 12:48 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
-  </footer>
+  </div>
 </div>
 
 <!-- OP_DESCRIPTION -->
