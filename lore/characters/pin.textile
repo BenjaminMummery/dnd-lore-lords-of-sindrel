@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457450/WhatsApp_Image_2026-01-11_at_12.12.06.jpeg
 dndbeyond_id: '159193691'
 dndbeyond_url: https://www.dndbeyond.com/characters/159193691
-dndbeyond_synced_at: '2026-07-08T13:16:52Z'
+dndbeyond_synced_at: '2026-07-08T13:35:02Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -60,19 +60,35 @@ dndbeyond_synced_at: '2026-07-08T13:16:52Z'
         <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">11 (+0)</span></div>
       </div>
       <h3 class="ddb-subsection-title">Saving Throws</h3>
-      <div class="ddb-block">STR +3<br>
-DEX +2<br>
-CON +2<br>
-INT -1<br>
-WIS +1<br>
-CHA +0</div>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">+3</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">+2</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+2</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">-1</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+1</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+0</span></div>
+      </div>
     </div>
 
     <div class="ddb-section">
       <h2 class="ddb-section-title">Skills &amp; Senses</h2>
-      <div class="ddb-block">Athletics +5 *<br>
+      <div class="ddb-block ddb-skills">Acrobatics +2<br>
+Animal Handling +1<br>
+Arcana -1<br>
+Athletics +5 *<br>
+Deception +0<br>
+History -1<br>
+Insight +1<br>
 Intimidation +2 *<br>
+Investigation -1<br>
+Medicine +1<br>
+Nature -1<br>
 Perception +3 *<br>
+Performance +0<br>
+Persuasion +0<br>
+Religion -1<br>
+Sleight Of Hand +2<br>
+Stealth +2<br>
 Survival +3 *</div>
       <div class="ddb-sense-row">
         <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">13</span></div>
@@ -96,49 +112,18 @@ Survival +3 *</div>
 <strong>Maneuvers: Riposte.</strong> When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against it (add the superiority die to the attack’s damage roll on hit).</div>
   </div>
 
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Features &amp; Traits</h2>
-    <div class="ddb-block"><strong>Languages.</strong> You can speak, read, and write Common and one extra language.<br>
-<strong>Ability Score Increase.</strong> Your ability scores each increase by 1.<br>
-<strong>Age.</strong> Humans reach adulthood in their late teens and live less than a century.<br>
-<strong>Size.</strong> Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.<br>
-<strong>Speed.</strong> Your base walking speed is 30 feet.<br>
-<strong>Combat Superiority.</strong> You learn maneuvers that are fueled by superiority dice. Maneuvers enhance an attack in some way. You have superiority dice per short rest.<br>
-<strong>Student of War.</strong> You gain proficiency with one type of artisan’s tools.<br>
-<strong>Maneuvers.</strong> The maneuvers are presented in alphabetical order.<br>
-<strong>Fighting Style.</strong> You adopt a fighting style specialty.<br>
-<strong>Second Wind.</strong> Once per short rest, you can use a bonus action to regain 1d10 + HP.<br>
-<strong>Action Surge.</strong> You can take one additional action on your turn. This can be used times per short rest.<br>
-<strong>Martial Archetype.</strong> At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.<br>
-<strong>Proficiencies.</strong> Armor: All armor, shields Weapons: Simple weapons, martial weapons Tools: None Saving Throws: Strength, Constitution Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival<br>
-<strong>Hit Points.</strong> Hit Dice: 1d10 per fighter level Hit Points at 1st Level: 10 + your Constitution modifier Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per fighter level after 1st<br>
-<strong>Equipment.</strong> You start with the following equipment, in addition to the equipment granted by your background: (a) chain mail or (b) leather armor, longbow, and 20 arrows (a) a martial weapon and a shield or (b) two martial weapons (a) a light crossbow and 20 bolts or (b) two handaxes (a) a dungeoneer’s pack or (b) an explorer’s pack<br>
-<strong>Hero's Journey Boon.</strong> At your GM's discretion you have been granted a Hero's Journey Boon.<br>
-<strong>Dark Bargain.</strong> At your GM's discretion, you have taken a Dark Bargain.</div>
-  </div>
-
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
-    <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Heavy Armor, Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons; Cook's Utensils, Playing Card Set, Shields, Vehicles (Land)</span></div>
-    <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Dwarvish</span></div>
-    <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
-  </div>
-
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Spellcasting</h2>
-    <div class="ddb-spell-header">
-      <div><span class="ddb-label">Ability</span> int</div>
-      <div><span class="ddb-label">Save DC</span> </div>
-      <div><span class="ddb-label">Attack</span> </div>
+  <div class="ddb-columns ddb-bottom-row">
+    <div class="ddb-section ddb-half">
+      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
+      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Heavy Armor, Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons; Cook's Utensils, Playing Card Set, Shields, Vehicles (Land)</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Dwarvish</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
     </div>
-    <h3 class="ddb-subsection-title">Spell Slots</h3>
-    <div class="ddb-block">—</div>
-    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
-    <div class="ddb-block">—</div>
+    
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:16 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:35 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>
@@ -181,6 +166,33 @@ h4. Recent Events
 * *28th Enean 4218 [[The Soulwind Calendar | SC]]* - During downtime in [[Sindrel | Sindrel]], asked magical shops about the [[The Fallowhurst Sigil | Fallowhurst sigil]] seen at [[Fallowhurst College | Fallowhurst College]]; could not reproduce it from memory. Later drank with [[:hielaman | Captain Hielaman]]; woke with a black eye after a [[Ditchquer | Ditchquer]] argument.
 
 <!-- GM_INFO_START -->
+<!-- OP_DDB_GM_FEATURES -->
+<notextile>
+<div class="ddb-sheet ddb-sheet-gm">
+  <div class="ddb-section">
+    <h2 class="ddb-section-title">Features &amp; Traits</h2>
+    <div class="ddb-block"><strong>Languages.</strong> You can speak, read, and write Common and one extra language.<br>
+<strong>Ability Score Increase.</strong> Your ability scores each increase by 1.<br>
+<strong>Age.</strong> Humans reach adulthood in their late teens and live less than a century.<br>
+<strong>Size.</strong> Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.<br>
+<strong>Speed.</strong> Your base walking speed is 30 feet.<br>
+<strong>Combat Superiority.</strong> You learn maneuvers that are fueled by superiority dice. Maneuvers enhance an attack in some way. You have superiority dice per short rest.<br>
+<strong>Student of War.</strong> You gain proficiency with one type of artisan’s tools.<br>
+<strong>Maneuvers.</strong> The maneuvers are presented in alphabetical order.<br>
+<strong>Fighting Style.</strong> You adopt a fighting style specialty.<br>
+<strong>Second Wind.</strong> Once per short rest, you can use a bonus action to regain 1d10 + HP.<br>
+<strong>Action Surge.</strong> You can take one additional action on your turn. This can be used times per short rest.<br>
+<strong>Martial Archetype.</strong> At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.<br>
+<strong>Proficiencies.</strong> Armor: All armor, shields Weapons: Simple weapons, martial weapons Tools: None Saving Throws: Strength, Constitution Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival<br>
+<strong>Hit Points.</strong> Hit Dice: 1d10 per fighter level Hit Points at 1st Level: 10 + your Constitution modifier Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per fighter level after 1st<br>
+<strong>Equipment.</strong> You start with the following equipment, in addition to the equipment granted by your background: (a) chain mail or (b) leather armor, longbow, and 20 arrows (a) a martial weapon and a shield or (b) two martial weapons (a) a light crossbow and 20 bolts or (b) two handaxes (a) a dungeoneer’s pack or (b) an explorer’s pack<br>
+<strong>Hero's Journey Boon.</strong> At your GM's discretion you have been granted a Hero's Journey Boon.<br>
+<strong>Dark Bargain.</strong> At your GM's discretion, you have taken a Dark Bargain.</div>
+  </div>
+</div>
+</notextile>
+<!-- OP_DDB_GM_FEATURES_END -->
+
 Pin is **22** in **4218 SC**. The battle at **Corvus** (~**4217 SC**) fell when he was **~21** — the year before the campaign.
 
 h3. The sword

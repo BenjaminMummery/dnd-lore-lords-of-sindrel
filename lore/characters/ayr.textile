@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457458/WhatsApp_Image_2026-01-10_at_17.20.08.jpeg
 dndbeyond_id: '156087500'
 dndbeyond_url: https://www.dndbeyond.com/characters/156087500
-dndbeyond_synced_at: '2026-07-08T13:16:38Z'
+dndbeyond_synced_at: '2026-07-08T13:34:50Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -60,20 +60,36 @@ dndbeyond_synced_at: '2026-07-08T13:16:38Z'
         <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">18 (+4)</span></div>
       </div>
       <h3 class="ddb-subsection-title">Saving Throws</h3>
-      <div class="ddb-block">STR +4<br>
-DEX +1<br>
-CON +2<br>
-INT -1<br>
-WIS +0<br>
-CHA +4</div>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">+4</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">+1</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+2</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">-1</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+0</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+4</span></div>
+      </div>
     </div>
 
     <div class="ddb-section">
       <h2 class="ddb-section-title">Skills &amp; Senses</h2>
-      <div class="ddb-block">Athletics +6 *<br>
+      <div class="ddb-block ddb-skills">Acrobatics +1<br>
+Animal Handling +0<br>
+Arcana -1<br>
+Athletics +6 *<br>
 Deception +6 *<br>
+History -1<br>
+Insight +0<br>
 Intimidation +6 *<br>
-Sleight Of Hand +3 *</div>
+Investigation -1<br>
+Medicine +0<br>
+Nature -1<br>
+Perception +0<br>
+Performance +4<br>
+Persuasion +4<br>
+Religion -1<br>
+Sleight Of Hand +3 *<br>
+Stealth +1<br>
+Survival +0</div>
       <div class="ddb-sense-row">
         <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">10</span></div>
         <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">9</span></div>
@@ -95,6 +111,52 @@ Sleight Of Hand +3 *</div>
 <strong>Channel Divinity: Vow of Enmity.</strong> You can choose a creature you can see within 10 ft. of you and gain advantage on attack rolls against it for 1 minute or until it drops to 0 HP or falls unconscious.</div>
   </div>
 
+  <div class="ddb-columns ddb-bottom-row">
+    <div class="ddb-section ddb-half">
+      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
+      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Heavy Armor, Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons; Disguise Kit, Forgery Kit, Shields</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Gnomish</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">Tinker's Tools</span></div>
+    </div>
+      <div class="ddb-section ddb-half">
+    <h2 class="ddb-section-title">Spellcasting</h2>
+    <div class="ddb-spell-header">
+      <div><span class="ddb-label">Ability</span> cha</div>
+      <div><span class="ddb-label">Save DC</span> 14</div>
+      <div><span class="ddb-label">Attack</span> +6</div>
+    </div>
+    <h3 class="ddb-subsection-title">Spell Slots</h3>
+    <div class="ddb-block">1st 3</div>
+    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
+    <div class="ddb-block">Level 1: Bless, Cure Wounds, Divine Favor, Searing Smite, Wrathful Smite</div>
+  </div>
+
+  </div>
+
+  <div class="ddb-footer">
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:34 UTC</p>
+    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
+  </div>
+</div>
+
+<!-- OP_DESCRIPTION -->
+A stocky gnome with weathered brown skin, a curling white mustache, and sage-green hair worn upward. One eye is natural brown; the other a glowing green orb set in the socket. Silver plate with a golden diamond badge on the breast - armour polished as if piety could be made visible.
+
+h3. Key Items
+
+* [[Spoon of Digging | Spoon of Digging]]
+* [[Fallowhurst Lecture Hall Doorknob | Fallowhurst Lecture Hall Doorknob]]
+* [[The Journeyman's Answer | The Journeyman's Answer]] — **2 charges** _(Session 11)_
+* [[The Unanswered Cry | The Unanswered Cry]]
+* [[Silver Guest Bracelet | Silver Guest Bracelet]]
+
+<!-- OP_BIO -->
+Presents as a pious sellsword in silver plate — holy symbols from several traditions at his belt, jokes at the ready, prayers offered to whichever god might prove useful in the moment. Claims no fixed patron.
+
+<!-- GM_INFO_START -->
+<!-- OP_DDB_GM_FEATURES -->
+<notextile>
+<div class="ddb-sheet ddb-sheet-gm">
   <div class="ddb-section">
     <h2 class="ddb-section-title">Features &amp; Traits</h2>
     <div class="ddb-block"><strong>Darkvision.</strong> You can see in darkness (shades of gray) up to 60 ft.<br>
@@ -122,48 +184,10 @@ Sleight Of Hand +3 *</div>
 <strong>Hero's Journey Boon.</strong> At your GM's discretion you have been granted a Hero's Journey Boon.<br>
 <strong>Dark Bargain.</strong> At your GM's discretion, you have taken a Dark Bargain.</div>
   </div>
-
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
-    <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Heavy Armor, Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons; Disguise Kit, Forgery Kit, Shields</span></div>
-    <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Gnomish</span></div>
-    <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">Tinker's Tools</span></div>
-  </div>
-
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Spellcasting</h2>
-    <div class="ddb-spell-header">
-      <div><span class="ddb-label">Ability</span> cha</div>
-      <div><span class="ddb-label">Save DC</span> 14</div>
-      <div><span class="ddb-label">Attack</span> +6</div>
-    </div>
-    <h3 class="ddb-subsection-title">Spell Slots</h3>
-    <div class="ddb-block">1st 3</div>
-    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
-    <div class="ddb-block">Level 1: Bless, Cure Wounds, Divine Favor, Searing Smite, Wrathful Smite</div>
-  </div>
-
-  <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:16 UTC</p>
-    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
-  </div>
 </div>
+</notextile>
+<!-- OP_DDB_GM_FEATURES_END -->
 
-<!-- OP_DESCRIPTION -->
-A stocky gnome with weathered brown skin, a curling white mustache, and sage-green hair worn upward. One eye is natural brown; the other a glowing green orb set in the socket. Silver plate with a golden diamond badge on the breast - armour polished as if piety could be made visible.
-
-h3. Key Items
-
-* [[Spoon of Digging | Spoon of Digging]]
-* [[Fallowhurst Lecture Hall Doorknob | Fallowhurst Lecture Hall Doorknob]]
-* [[The Journeyman's Answer | The Journeyman's Answer]] — **2 charges** _(Session 11)_
-* [[The Unanswered Cry | The Unanswered Cry]]
-* [[Silver Guest Bracelet | Silver Guest Bracelet]]
-
-<!-- OP_BIO -->
-Presents as a pious sellsword in silver plate — holy symbols from several traditions at his belt, jokes at the ready, prayers offered to whichever god might prove useful in the moment. Claims no fixed patron.
-
-<!-- GM_INFO_START -->
 h2. Player sheet (D&D Beyond)
 
 * *Faith:* No fixed faith — happy to pray to whomever might be most useful at the time.

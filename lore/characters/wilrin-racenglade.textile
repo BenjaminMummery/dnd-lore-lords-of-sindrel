@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2026-01-15_at_14.33.55.jpeg
 dndbeyond_id: '151085741'
 dndbeyond_url: https://www.dndbeyond.com/characters/151085741
-dndbeyond_synced_at: '2026-07-08T13:16:58Z'
+dndbeyond_synced_at: '2026-07-08T13:35:09Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -60,19 +60,35 @@ dndbeyond_synced_at: '2026-07-08T13:16:58Z'
         <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">19 (+4)</span></div>
       </div>
       <h3 class="ddb-subsection-title">Saving Throws</h3>
-      <div class="ddb-block">STR -1<br>
-DEX +3<br>
-CON +1<br>
-INT +1<br>
-WIS +2<br>
-CHA +4</div>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">-1</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">+3</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+1</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">+1</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+2</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+4</span></div>
+      </div>
     </div>
 
     <div class="ddb-section">
       <h2 class="ddb-section-title">Skills &amp; Senses</h2>
-      <div class="ddb-block">Arcana +3 *<br>
+      <div class="ddb-block ddb-skills">Acrobatics +3<br>
+Animal Handling +2<br>
+Arcana +3 *<br>
+Athletics -1<br>
 Deception +6 *<br>
+History +1<br>
+Insight +2<br>
+Intimidation +4<br>
+Investigation +1<br>
+Medicine +2<br>
+Nature +1<br>
+Perception +2<br>
+Performance +4<br>
 Persuasion +6 *<br>
+Religion +1<br>
+Sleight Of Hand +3<br>
+Stealth +3<br>
 Survival +4 *</div>
       <div class="ddb-sense-row">
         <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">12</span></div>
@@ -93,6 +109,53 @@ Survival +4 *</div>
 <strong>Metamagic - Quickened Spell.</strong> When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.</div>
   </div>
 
+  <div class="ddb-columns ddb-bottom-row">
+    <div class="ddb-section ddb-half">
+      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
+      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Crossbow, Light, Dagger, Dart, Flute, Quarterstaff, Sling</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Gnomish, Halfling</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
+    </div>
+      <div class="ddb-section ddb-half">
+    <h2 class="ddb-section-title">Spellcasting</h2>
+    <div class="ddb-spell-header">
+      <div><span class="ddb-label">Ability</span> cha</div>
+      <div><span class="ddb-label">Save DC</span> 14</div>
+      <div><span class="ddb-label">Attack</span> +6</div>
+    </div>
+    <h3 class="ddb-subsection-title">Spell Slots</h3>
+    <div class="ddb-block">1st 4<br>
+2nd 2</div>
+    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
+    <div class="ddb-block">Cantrips: Fire Bolt, Mage Hand, Minor Illusion, Retrieve</div>
+  </div>
+
+  </div>
+
+  <div class="ddb-footer">
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:35 UTC</p>
+    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
+  </div>
+</div>
+
+<!-- OP_DESCRIPTION -->
+Wilrin is a halfling sorcerer — slight of frame, sharp of cheekbone, with rounded ears flushed pink at the tips. His hair and beard are the same dark burgundy, the beard trimmed neat and the hair swept back in layered spikes. His complexion is pale; his eyes do not match — one dark and watchful, the other unnaturally pale, a reminder of the [[The Fallowhurst Sigil | Fallowhurst sigil]] that bound him. He dresses in a fitted wine-dark coat embroidered with curling spiral work at the chest and closed with a row of polished buttons.
+
+h3. Key Items
+
+* [[Anasthetic Scalpel | Anasthetic Scalpel]]
+* [[Bone Dice | Bone Dice]]
+* [[Dragonborn Skull | Dragonborn Skull]]
+* [[Silver Guest Bracelet | Silver Guest Bracelet]]
+* [[The Fallowhurst Sigil | The Fallowhurst Sigil]] (bound — sigil scar)
+
+<!-- OP_BIO -->
+
+
+<!-- GM_INFO_START -->
+<!-- OP_DDB_GM_FEATURES -->
+<notextile>
+<div class="ddb-sheet ddb-sheet-gm">
   <div class="ddb-section">
     <h2 class="ddb-section-title">Features &amp; Traits</h2>
     <div class="ddb-block"><strong>Lucky.</strong> When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.<br>
@@ -117,49 +180,10 @@ Survival +4 *</div>
 <strong>Hero's Journey Boon.</strong> At your GM's discretion you have been granted a Hero's Journey Boon.<br>
 <strong>Dark Bargain.</strong> At your GM's discretion, you have taken a Dark Bargain.</div>
   </div>
-
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
-    <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Crossbow, Light, Dagger, Dart, Flute, Quarterstaff, Sling</span></div>
-    <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Gnomish, Halfling</span></div>
-    <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
-  </div>
-
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Spellcasting</h2>
-    <div class="ddb-spell-header">
-      <div><span class="ddb-label">Ability</span> cha</div>
-      <div><span class="ddb-label">Save DC</span> 14</div>
-      <div><span class="ddb-label">Attack</span> +6</div>
-    </div>
-    <h3 class="ddb-subsection-title">Spell Slots</h3>
-    <div class="ddb-block">1st 4<br>
-2nd 2</div>
-    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
-    <div class="ddb-block">Cantrips: Fire Bolt, Mage Hand, Minor Illusion, Retrieve</div>
-  </div>
-
-  <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:16 UTC</p>
-    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
-  </div>
 </div>
+</notextile>
+<!-- OP_DDB_GM_FEATURES_END -->
 
-<!-- OP_DESCRIPTION -->
-Wilrin is a halfling sorcerer — slight of frame, sharp of cheekbone, with rounded ears flushed pink at the tips. His hair and beard are the same dark burgundy, the beard trimmed neat and the hair swept back in layered spikes. His complexion is pale; his eyes do not match — one dark and watchful, the other unnaturally pale, a reminder of the [[The Fallowhurst Sigil | Fallowhurst sigil]] that bound him. He dresses in a fitted wine-dark coat embroidered with curling spiral work at the chest and closed with a row of polished buttons.
-
-h3. Key Items
-
-* [[Anasthetic Scalpel | Anasthetic Scalpel]]
-* [[Bone Dice | Bone Dice]]
-* [[Dragonborn Skull | Dragonborn Skull]]
-* [[Silver Guest Bracelet | Silver Guest Bracelet]]
-* [[The Fallowhurst Sigil | The Fallowhurst Sigil]] (bound — sigil scar)
-
-<!-- OP_BIO -->
-
-
-<!-- GM_INFO_START -->
 h2. Player sheet (D&D Beyond)
 
 * *Personality:* Like a nomad — cannot settle in one place for long. Wherever he goes, tries to bring a little warmth and tranquility of home. Lives by his own set of weird and wonderful rules.

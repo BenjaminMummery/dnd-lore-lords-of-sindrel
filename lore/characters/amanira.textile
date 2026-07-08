@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457470/sytqgzfrl5c41.jpg
 dndbeyond_id: '156196225'
 dndbeyond_url: https://www.dndbeyond.com/characters/156196225
-dndbeyond_synced_at: '2026-07-08T13:16:36Z'
+dndbeyond_synced_at: '2026-07-08T13:34:48Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -60,21 +60,36 @@ dndbeyond_synced_at: '2026-07-08T13:16:36Z'
         <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">10 (+0)</span></div>
       </div>
       <h3 class="ddb-subsection-title">Saving Throws</h3>
-      <div class="ddb-block">STR -1<br>
-DEX +2<br>
-CON +2<br>
-INT +1<br>
-WIS +3<br>
-CHA +0</div>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">-1</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">+2</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+2</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">+1</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+3</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+0</span></div>
+      </div>
     </div>
 
     <div class="ddb-section">
       <h2 class="ddb-section-title">Skills &amp; Senses</h2>
-      <div class="ddb-block">Arcana +3 *<br>
+      <div class="ddb-block ddb-skills">Acrobatics +2<br>
+Animal Handling +3<br>
+Arcana +3 *<br>
+Athletics -1<br>
+Deception +0<br>
 History +3 *<br>
+Insight +3<br>
+Intimidation +0<br>
+Investigation +1<br>
 Medicine +5 *<br>
 Nature +3 *<br>
-Perception +5 *</div>
+Perception +5 *<br>
+Performance +0<br>
+Persuasion +0<br>
+Religion +1<br>
+Sleight Of Hand +2<br>
+Stealth +2<br>
+Survival +3</div>
       <div class="ddb-sense-row">
         <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">15</span></div>
         <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">11</span></div>
@@ -91,6 +106,51 @@ Perception +5 *</div>
 <strong>Wild Companion.</strong> As an action, you can expend a use of your Wild Shape feature to cast the find familiar spell, without material components. When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after hours.</div>
   </div>
 
+  <div class="ddb-columns ddb-bottom-row">
+    <div class="ddb-section ddb-half">
+      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
+      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Light Armor, Medium Armor, Shields; Club, Crossbow, Hand, Dagger, Dart, Herbalism Kit, Javelin, Mace, Quarterstaff, Rapier, Scimitar, Shields, Shortsword, Sickle, Sling, Spear</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Choose a Language, Common, Druidic, Elvish</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
+    </div>
+      <div class="ddb-section ddb-half">
+    <h2 class="ddb-section-title">Spellcasting</h2>
+    <div class="ddb-spell-header">
+      <div><span class="ddb-label">Ability</span> wis</div>
+      <div><span class="ddb-label">Save DC</span> 13</div>
+      <div><span class="ddb-label">Attack</span> +5</div>
+    </div>
+    <h3 class="ddb-subsection-title">Spell Slots</h3>
+    <div class="ddb-block">1st 4<br>
+2nd 2</div>
+    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
+    <div class="ddb-block">Cantrips: Druidcraft, Produce Flame<br>
+Level 1: Create or Destroy Water, Entangle, Goodberry, Healing Word, Thunderwave<br>
+Level 2: Hold Person</div>
+  </div>
+
+  </div>
+
+  <div class="ddb-footer">
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:34 UTC</p>
+    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
+  </div>
+</div>
+
+<!-- OP_DESCRIPTION -->
+A drow woman with blue-violet skin and long platinum hair. Angular features, pointed ears, brown leather strapped over olive kit; a moss-trimmed green cloak and rune-marked stones at her belt - a druidic traveller plainly out of sympathy with a city of stone.
+
+h3. Key Items
+
+* [[Silver Guest Bracelet | Silver Guest Bracelet]]
+
+<!-- OP_BIO -->
+
+
+<!-- GM_INFO_START -->
+<!-- OP_DDB_GM_FEATURES -->
+<notextile>
+<div class="ddb-sheet ddb-sheet-gm">
   <div class="ddb-section">
     <h2 class="ddb-section-title">Features &amp; Traits</h2>
     <div class="ddb-block"><strong>Keen Senses.</strong> You have proficiency in the Perception skill.<br>
@@ -119,47 +179,10 @@ Perception +5 *</div>
 <strong>Hero's Journey Boon.</strong> At your GM's discretion you have been granted a Hero's Journey Boon.<br>
 <strong>Dark Bargain.</strong> At your GM's discretion, you have taken a Dark Bargain.</div>
   </div>
-
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
-    <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Light Armor, Medium Armor, Shields; Club, Crossbow, Hand, Dagger, Dart, Herbalism Kit, Javelin, Mace, Quarterstaff, Rapier, Scimitar, Shields, Shortsword, Sickle, Sling, Spear</span></div>
-    <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Choose a Language, Common, Druidic, Elvish</span></div>
-    <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
-  </div>
-
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Spellcasting</h2>
-    <div class="ddb-spell-header">
-      <div><span class="ddb-label">Ability</span> wis</div>
-      <div><span class="ddb-label">Save DC</span> 13</div>
-      <div><span class="ddb-label">Attack</span> +5</div>
-    </div>
-    <h3 class="ddb-subsection-title">Spell Slots</h3>
-    <div class="ddb-block">1st 4<br>
-2nd 2</div>
-    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
-    <div class="ddb-block">Cantrips: Druidcraft, Produce Flame<br>
-Level 1: Create or Destroy Water, Entangle, Goodberry, Healing Word, Thunderwave<br>
-Level 2: Hold Person</div>
-  </div>
-
-  <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:16 UTC</p>
-    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
-  </div>
 </div>
+</notextile>
+<!-- OP_DDB_GM_FEATURES_END -->
 
-<!-- OP_DESCRIPTION -->
-A drow woman with blue-violet skin and long platinum hair. Angular features, pointed ears, brown leather strapped over olive kit; a moss-trimmed green cloak and rune-marked stones at her belt - a druidic traveller plainly out of sympathy with a city of stone.
-
-h3. Key Items
-
-* [[Silver Guest Bracelet | Silver Guest Bracelet]]
-
-<!-- OP_BIO -->
-
-
-<!-- GM_INFO_START -->
 Hello, Dungeon Master! I am sorry for leaving my homework until last minute, but here goes:
 
 My character seeks to understand the loss of magic, which they experience as the fading of nature itself. There must be a cause to be studied and understood! They have journeyed to [[Sindrel | Sindrel]] seeking answers, and perhaps even healing for a diseased world.

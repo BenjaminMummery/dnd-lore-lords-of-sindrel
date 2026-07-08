@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457474/572fdc897647939edd9359829283e7ba.jpg
 dndbeyond_id: '157065911'
 dndbeyond_url: https://www.dndbeyond.com/characters/157065911
-dndbeyond_synced_at: '2026-07-08T13:16:49Z'
+dndbeyond_synced_at: '2026-07-08T13:35:00Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -60,20 +60,35 @@ dndbeyond_synced_at: '2026-07-08T13:16:49Z'
         <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">12 (+1)</span></div>
       </div>
       <h3 class="ddb-subsection-title">Saving Throws</h3>
-      <div class="ddb-block">STR +5<br>
-DEX -1<br>
-CON +2<br>
-INT +1<br>
-WIS -2<br>
-CHA +1</div>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">+5</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">-1</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+2</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">+1</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">-2</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+1</span></div>
+      </div>
     </div>
 
     <div class="ddb-section">
       <h2 class="ddb-section-title">Skills &amp; Senses</h2>
-      <div class="ddb-block">Athletics +7 *<br>
+      <div class="ddb-block ddb-skills">Acrobatics -1<br>
+Animal Handling -2<br>
+Arcana +1<br>
+Athletics +7 *<br>
+Deception +1<br>
 History +3 *<br>
+Insight -2<br>
 Intimidation +3 *<br>
+Investigation +1<br>
+Medicine -2<br>
+Nature +1<br>
 Perception +0 *<br>
+Performance +1<br>
+Persuasion +1<br>
+Religion +1<br>
+Sleight Of Hand -1<br>
+Stealth -1<br>
 Survival +0 *</div>
       <div class="ddb-sense-row">
         <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">10</span></div>
@@ -95,6 +110,52 @@ Survival +0 *</div>
 <strong>Arcane Recovery.</strong> Once per day when you finish a short rest, you can choose expended spell slots to recover - up to a combined level of , and none of the slots can be 6th level or higher.</div>
   </div>
 
+  <div class="ddb-columns ddb-bottom-row">
+    <div class="ddb-section ddb-half">
+      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
+      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons; Choose a Wizard Skill, Crossbow, Light, Dagger, Dart, Quarterstaff, Shields, Sling</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Giant</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
+    </div>
+      <div class="ddb-section ddb-half">
+    <h2 class="ddb-section-title">Spellcasting</h2>
+    <div class="ddb-spell-header">
+      <div><span class="ddb-label">Ability</span> int</div>
+      <div><span class="ddb-label">Save DC</span> 11</div>
+      <div><span class="ddb-label">Attack</span> +3</div>
+    </div>
+    <h3 class="ddb-subsection-title">Spell Slots</h3>
+    <div class="ddb-block">1st 4<br>
+2nd 2</div>
+    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
+    <div class="ddb-block">Cantrips: Chill Touch, Green-Flame Blade, Toll the Dead<br>
+Level 1: Cause Fear, False Life</div>
+  </div>
+
+  </div>
+
+  <div class="ddb-footer">
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:35 UTC</p>
+    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
+  </div>
+</div>
+
+<!-- OP_DESCRIPTION -->
+Nakoma is a 8ft tall Goliath from one of the mountain clans. In looks she appears to be around mid 40s but she either will not tell people or does not remember her exact age. Her skin is a stony grey reminiscent of granite. She is covered in a collection of faded tattoos which have symbolic meaning to her clan but they have not been maintained so it appears that whichever clan she is/was a part of it has been a long time since she has been in contact with them. In addition to her tattoos she is covered in scars, some scars are small, but some are large an deadly looking. Her hair is made up of a combination of dreads and plaits with quills, feathers and metal adornments woven into them. Her manner of dress is similar to Native American warrirors, made of mostly leathers, and some bone pieces.
+
+Since the 'incident' in Fallowhurst she also sports a sigil burned into the skin of her back which mirrors the one burnt into [[:wilrin-racenglade | Wilrin's]] eye.
+
+<!-- OP_BIO -->
+There have been varied sightings and mentions of Deathwalker over the last few decades. No one appears to know exactly where she is from or her exact age. It is unknown how many Deathwalkers there have been from the Mor'got'ha clan. Indeed there is some speculation that the Deathwalker line might have some relation to Deathbringer, one of the most mightiest warriors from ancient history who was pivotal in the battle against the necromantic [[The Thaumocracy of Tellerin | Tellerites]] for the description of Deathbringers tattoos have a familial resemblance to Deathwalkers, and indeed the entire Deathwalker line. If this is the case then Deathwalker is descended from what might be the Goliath equivalent of royalty.
+
+Deathwalker has only been recorded in a handful of major battles. Accounts disagree on which was most recent before her arrival in [[Sindrel | Sindrel]]; mercenary rolls and traveller gossip place her on several distant fields in the years before the pilgrimage routes turned toward the city. Since then she has been sighted traveling, sometimes alone, sometimes within a small group, but she never remains with any group too long.
+
+Her most recent traveling companions seem to be an eclectic bunch.
+
+<!-- GM_INFO_START -->
+<!-- OP_DDB_GM_FEATURES -->
+<notextile>
+<div class="ddb-sheet ddb-sheet-gm">
   <div class="ddb-section">
     <h2 class="ddb-section-title">Features &amp; Traits</h2>
     <div class="ddb-block"><strong>Natural Athlete.</strong> You have proficiency in the Athletics skill.<br>
@@ -123,48 +184,10 @@ Survival +0 *</div>
 <strong>Hero's Journey Boon.</strong> At your GM's discretion you have been granted a Hero's Journey Boon.<br>
 <strong>Dark Bargain.</strong> At your GM's discretion, you have taken a Dark Bargain.</div>
   </div>
-
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
-    <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons; Choose a Wizard Skill, Crossbow, Light, Dagger, Dart, Quarterstaff, Shields, Sling</span></div>
-    <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Giant</span></div>
-    <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
-  </div>
-
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Spellcasting</h2>
-    <div class="ddb-spell-header">
-      <div><span class="ddb-label">Ability</span> int</div>
-      <div><span class="ddb-label">Save DC</span> 11</div>
-      <div><span class="ddb-label">Attack</span> +3</div>
-    </div>
-    <h3 class="ddb-subsection-title">Spell Slots</h3>
-    <div class="ddb-block">1st 4<br>
-2nd 2</div>
-    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
-    <div class="ddb-block">Cantrips: Chill Touch, Green-Flame Blade, Toll the Dead<br>
-Level 1: Cause Fear, False Life</div>
-  </div>
-
-  <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:16 UTC</p>
-    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
-  </div>
 </div>
+</notextile>
+<!-- OP_DDB_GM_FEATURES_END -->
 
-<!-- OP_DESCRIPTION -->
-Nakoma is a 8ft tall Goliath from one of the mountain clans. In looks she appears to be around mid 40s but she either will not tell people or does not remember her exact age. Her skin is a stony grey reminiscent of granite. She is covered in a collection of faded tattoos which have symbolic meaning to her clan but they have not been maintained so it appears that whichever clan she is/was a part of it has been a long time since she has been in contact with them. In addition to her tattoos she is covered in scars, some scars are small, but some are large an deadly looking. Her hair is made up of a combination of dreads and plaits with quills, feathers and metal adornments woven into them. Her manner of dress is similar to Native American warrirors, made of mostly leathers, and some bone pieces.
-
-Since the 'incident' in Fallowhurst she also sports a sigil burned into the skin of her back which mirrors the one burnt into [[:wilrin-racenglade | Wilrin's]] eye.
-
-<!-- OP_BIO -->
-There have been varied sightings and mentions of Deathwalker over the last few decades. No one appears to know exactly where she is from or her exact age. It is unknown how many Deathwalkers there have been from the Mor'got'ha clan. Indeed there is some speculation that the Deathwalker line might have some relation to Deathbringer, one of the most mightiest warriors from ancient history who was pivotal in the battle against the necromantic [[The Thaumocracy of Tellerin | Tellerites]] for the description of Deathbringers tattoos have a familial resemblance to Deathwalkers, and indeed the entire Deathwalker line. If this is the case then Deathwalker is descended from what might be the Goliath equivalent of royalty.
-
-Deathwalker has only been recorded in a handful of major battles. Accounts disagree on which was most recent before her arrival in [[Sindrel | Sindrel]]; mercenary rolls and traveller gossip place her on several distant fields in the years before the pilgrimage routes turned toward the city. Since then she has been sighted traveling, sometimes alone, sometimes within a small group, but she never remains with any group too long.
-
-Her most recent traveling companions seem to be an eclectic bunch.
-
-<!-- GM_INFO_START -->
 **Player secret (OP Player Secrets UI only - do not put in bio; not API-synced):**
 
 h2. [[The Fallowhurst Sigil | The Fallowhurst Sigil]]

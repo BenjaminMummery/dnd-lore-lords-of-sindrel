@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7442634/1000025365.jpg
 dndbeyond_id: '151085721'
 dndbeyond_url: https://www.dndbeyond.com/characters/151085721
-dndbeyond_synced_at: '2026-07-08T13:16:57Z'
+dndbeyond_synced_at: '2026-07-08T13:35:07Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -60,21 +60,35 @@ dndbeyond_synced_at: '2026-07-08T13:16:57Z'
         <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">12 (+1)</span></div>
       </div>
       <h3 class="ddb-subsection-title">Saving Throws</h3>
-      <div class="ddb-block">STR +2<br>
-DEX +4<br>
-CON +2<br>
-INT +2<br>
-WIS +3<br>
-CHA +1</div>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">+2</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">+4</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+2</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">+2</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+3</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+1</span></div>
+      </div>
     </div>
 
     <div class="ddb-section">
       <h2 class="ddb-section-title">Skills &amp; Senses</h2>
-      <div class="ddb-block">Acrobatics +6 *<br>
+      <div class="ddb-block ddb-skills">Acrobatics +6 *<br>
+Animal Handling +3<br>
 Arcana +4 *<br>
+Athletics +2<br>
+Deception +1<br>
+History +2<br>
 Insight +5 *<br>
+Intimidation +1<br>
+Investigation +2<br>
+Medicine +3<br>
+Nature +2<br>
 Perception +5 *<br>
+Performance +1<br>
+Persuasion +1<br>
 Religion +4 *<br>
+Sleight Of Hand +4<br>
+Stealth +4<br>
 Survival +5 *</div>
       <div class="ddb-sense-row">
         <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">15</span></div>
@@ -102,6 +116,37 @@ Survival +5 *</div>
 <strong>Ki-Fueled Attack.</strong> If you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.</div>
   </div>
 
+  <div class="ddb-columns ddb-bottom-row">
+    <div class="ddb-section ddb-half">
+      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
+      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Simple Weapons; Disguise Kit, Shortsword</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Abyssal, Celestial, Common, Elvish</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">Cartographer's Tools</span></div>
+    </div>
+    
+  </div>
+
+  <div class="ddb-footer">
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:35 UTC</p>
+    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
+  </div>
+</div>
+
+<!-- OP_DESCRIPTION -->
+A tall, pale figure of about 5'11" with long white hair bound in pale wrappings. An ornate ritual mask covers their face. Deep purple and navy robes, white bindings at the arms — the dress of someone who treats movement as a grammar.
+
+h3. Key Items
+
+* [[Silver Guest Bracelet | Silver Guest Bracelet]]
+* [[Knuckledusters | Knuckledusters]]
+
+<!-- OP_BIO -->
+Lawful Neutral.
+
+<!-- GM_INFO_START -->
+<!-- OP_DDB_GM_FEATURES -->
+<notextile>
+<div class="ddb-sheet ddb-sheet-gm">
   <div class="ddb-section">
     <h2 class="ddb-section-title">Features &amp; Traits</h2>
     <div class="ddb-block"><strong>Ability Score Increases.</strong> When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1.<br>
@@ -129,45 +174,10 @@ Survival +5 *</div>
 <strong>Hero's Journey Boon.</strong> At your GM's discretion you have been granted a Hero's Journey Boon.<br>
 <strong>Dark Bargain.</strong> At your GM's discretion, you have taken a Dark Bargain.</div>
   </div>
-
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
-    <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Simple Weapons; Disguise Kit, Shortsword</span></div>
-    <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Abyssal, Celestial, Common, Elvish</span></div>
-    <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">Cartographer's Tools</span></div>
-  </div>
-
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Spellcasting</h2>
-    <div class="ddb-spell-header">
-      <div><span class="ddb-label">Ability</span> int</div>
-      <div><span class="ddb-label">Save DC</span> </div>
-      <div><span class="ddb-label">Attack</span> </div>
-    </div>
-    <h3 class="ddb-subsection-title">Spell Slots</h3>
-    <div class="ddb-block">—</div>
-    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
-    <div class="ddb-block">—</div>
-  </div>
-
-  <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:16 UTC</p>
-    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
-  </div>
 </div>
+</notextile>
+<!-- OP_DDB_GM_FEATURES_END -->
 
-<!-- OP_DESCRIPTION -->
-A tall, pale figure of about 5'11" with long white hair bound in pale wrappings. An ornate ritual mask covers their face. Deep purple and navy robes, white bindings at the arms — the dress of someone who treats movement as a grammar.
-
-h3. Key Items
-
-* [[Silver Guest Bracelet | Silver Guest Bracelet]]
-* [[Knuckledusters | Knuckledusters]]
-
-<!-- OP_BIO -->
-Lawful Neutral.
-
-<!-- GM_INFO_START -->
 h2. Player sheet (D&D Beyond)
 
 * *Age:* 87 (medium).
