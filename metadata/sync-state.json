@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-07-08T12:50:02Z",
+  "last_git_publish": "2026-07-08T13:07:14Z",
   "last_portal_pull": "2026-07-08T12:35:10Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -387,9 +387,9 @@
       "op_id": "2460ccd9ff50422286d81cbfc2483262",
       "op_kind": "Character",
       "op_slug": "rossin-ros-greyhirst",
-      "op_updated_at": "2026-07-08T12:36:21Z",
-      "repo_blob_sha": "d077617e63c36f35aa59cd72170c18e6b6963d93",
-      "repo_hash_at_sync": "e34f418483d8e269eeaa501ca387d5b25070885f2222e6d03455cc74474492ee",
+      "op_updated_at": "2026-07-08T13:06:35Z",
+      "repo_blob_sha": "1b270dae5840715737c889e1e0254a1f23524718",
+      "repo_hash_at_sync": "1ae7f6ef1d9adb22c42e4f3a7a31f4285c00c7a67a6348ac91e0fef3aefefb3f",
       "repo_path": "lore/characters/rossin-ros-greyhirst.textile"
     },
     "24a9fb6a96c34deeadf8c99ef0524f0c": {
@@ -608,7 +608,7 @@
       "op_kind": "Character",
       "op_slug": "ayr",
       "op_updated_at": "2026-07-08T12:24:15Z",
-      "repo_blob_sha": "47ae7cc0ddbb33961eabbedbf490bf86b50eaaeb",
+      "repo_blob_sha": "47af4d268ab5192528ca7dba98bd6b039c908e19",
       "repo_hash_at_sync": "6e007b01a399f5a7e7cab06c8768d48b4d3340816afe29b0f8ce7539524db3f9",
       "repo_path": "lore/characters/ayr.textile"
     },
@@ -898,7 +898,7 @@
       "op_kind": "Character",
       "op_slug": "amanira",
       "op_updated_at": "2026-07-08T12:24:09Z",
-      "repo_blob_sha": "41e62952a22acde7a9d03727805c75a97ab769d2",
+      "repo_blob_sha": "70b026fa516490f75aa69b3a82112a06d2499844",
       "repo_hash_at_sync": "bb0ba5bda5730ebbf8abd376c40f609918009e30c68b62ad320b7620be69fabd",
       "repo_path": "lore/characters/amanira.textile"
     },
