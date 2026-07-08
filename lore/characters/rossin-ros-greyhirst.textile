@@ -7,15 +7,12 @@ name: Rossin "Ros" Greyhirst
 title: Rossin "Ros" Greyhirst
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/rossin-ros-greyhirst
 op_created_at: '2025-12-14T17:10:38Z'
-op_updated_at: '2026-07-08T10:27:54Z'
+op_updated_at: '2026-07-08T15:52:57Z'
 op_gm_only: false
 is_player_character: true
 tags:
 - she/her
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457462/WhatsApp_Image_2026-01-10_at_17.14.42.jpeg
-dndbeyond_id: '159196960'
-dndbeyond_url: https://www.dndbeyond.com/characters/159196960
-dndbeyond_synced_at: '2026-07-08T15:51:40Z'
 ---
 
 <!-- OP_DDB_SHEET -->
