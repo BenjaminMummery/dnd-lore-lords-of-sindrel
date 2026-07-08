@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457470/sytqgzfrl5c41.jpg
 dndbeyond_id: '156196225'
 dndbeyond_url: https://www.dndbeyond.com/characters/156196225
-dndbeyond_synced_at: '2026-07-08T13:07:36Z'
+dndbeyond_synced_at: '2026-07-08T13:16:36Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -29,7 +29,7 @@ dndbeyond_synced_at: '2026-07-08T13:07:36Z'
       </ul>
       <p class="ddb-links">jenjsto · The Lords of Sindrel</p>
     </div>
-    <div class="ddb-avatar-wrap">&lt;img src="https://www.dndbeyond.com/avatars/54419/308/1581111423-156196225.jpeg?width=150&amp;amp;height=150&amp;amp;fit=crop&amp;amp;quality=95&amp;amp;auto=webp" alt=""&gt;</div>
+    <div class="ddb-avatar-wrap"><img src="https://www.dndbeyond.com/avatars/54419/308/1581111423-156196225.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp" alt=""></div>
   </div>
 
   <div class="ddb-section ddb-defenses">
@@ -144,7 +144,7 @@ Level 2: Hold Person</div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:07 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:16 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>
