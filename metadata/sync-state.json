@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-07-06T13:31:31Z",
-  "last_portal_pull": "2026-07-08T12:23:58Z",
+  "last_portal_pull": "2026-07-08T12:35:10Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -127,9 +127,9 @@
       "op_id": "0aacd1d35bd149408ceff1ef029ded91",
       "op_kind": "Character",
       "op_slug": "hunts-by-night",
-      "op_updated_at": "2026-07-05T13:06:55Z",
+      "op_updated_at": "2026-07-08T12:24:51Z",
       "repo_blob_sha": "9883ddaba74214f8e5902852392d5de90c2a03be",
-      "repo_hash_at_sync": "6855239bf4e6b83ba7b49b671c2f55fe3ddc69c4b4667493a8d28f023c9a0c3d",
+      "repo_hash_at_sync": "d567c549aff0c55f1d5c191ccecc1faa9ce7d1ae3adb6714680911e6f16d7473",
       "repo_path": "lore/characters/hunts-by-night.textile"
     },
     "0b632d5cf9334791ae518d6643cbd90f": {
@@ -307,9 +307,9 @@
       "op_id": "1dd03a66d6144198bcd1d822370b9511",
       "op_kind": "Character",
       "op_slug": "major-vindas",
-      "op_updated_at": "2026-07-05T13:06:59Z",
+      "op_updated_at": "2026-07-08T12:25:03Z",
       "repo_blob_sha": "ac3867bd129ee2ef22cd944f92ced190904c64ff",
-      "repo_hash_at_sync": "7eafd1ceb64c9fd656605c4455bb1c70c130ff5bd5d285941820974cce258ee4",
+      "repo_hash_at_sync": "fbb790593af362a2596169d1ef92f8a24084d84c4c245e08b66603a19e70d6b7",
       "repo_path": "lore/characters/major-vindas.textile"
     },
     "1e01f06dacf94d27ad51a0f2f1c8eb22": {
@@ -317,9 +317,9 @@
       "op_id": "1e01f06dacf94d27ad51a0f2f1c8eb22",
       "op_kind": "Character",
       "op_slug": "micycle-smynth",
-      "op_updated_at": "2026-07-05T13:07:01Z",
+      "op_updated_at": "2026-07-08T12:25:04Z",
       "repo_blob_sha": "d99e3f929df8d59073f37a99cfc554eb241de63b",
-      "repo_hash_at_sync": "abcbe2a601eb8aaeef7d52ae218a8738afa724d04f88660b116ad16f76c2caee",
+      "repo_hash_at_sync": "21de2907d73b119d095c0a7eca39108c7a6efb09c5c95811cabba13fa451f6bd",
       "repo_path": "lore/characters/micycle-smynth.textile"
     },
     "1e932caee00046399626f56b1770e3df": {
@@ -337,9 +337,9 @@
       "op_id": "1f1dcd47ef314d36b701fced4db451c8",
       "op_kind": "Character",
       "op_slug": "alandria",
-      "op_updated_at": "2026-07-05T13:06:31Z",
+      "op_updated_at": "2026-07-08T12:24:07Z",
       "repo_blob_sha": "64c6a6ebcc618e3e6cb0d7c82406347da8353c9e",
-      "repo_hash_at_sync": "e0746c0a3d8d720a54c3669ac5f30766ed99681de72426572e2bd9ef3d937a91",
+      "repo_hash_at_sync": "9a62682c0fa1d2b641659d3fc505935e85992a67f990f50200a118b9ce8c2e09",
       "repo_path": "lore/characters/alandria.textile"
     },
     "1fa4c6baa1344fd2860a41f7c01e76c9": {
@@ -607,9 +607,9 @@
       "op_id": "42cee9f0b8134dccab7714a196fd04d5",
       "op_kind": "Character",
       "op_slug": "ayr",
-      "op_updated_at": "2026-07-06T14:05:33Z",
-      "repo_blob_sha": "85fc3ea8c463f972562eda1bad8d8025d1fe31de",
-      "repo_hash_at_sync": "3b56caa79e180c98ab7d4e6a5b06801d837ce3fb94781a321e8ce5cb2d98b8e2",
+      "op_updated_at": "2026-07-08T12:24:15Z",
+      "repo_blob_sha": "d743d8518ae7615e1f0698509b23bd0f1d38c15d",
+      "repo_hash_at_sync": "6e007b01a399f5a7e7cab06c8768d48b4d3340816afe29b0f8ce7539524db3f9",
       "repo_path": "lore/characters/ayr.textile"
     },
     "46e3468d573f4714bd7ff0fb59d65696": {
@@ -677,9 +677,9 @@
       "op_id": "521416db6e4648db81c7704ac1c1e72d",
       "op_kind": "Character",
       "op_slug": "nans",
-      "op_updated_at": "2026-07-05T14:38:13Z",
+      "op_updated_at": "2026-07-08T12:25:09Z",
       "repo_blob_sha": "21ee944bd39bdbba2db8958c6ec0228b9cc8611b",
-      "repo_hash_at_sync": "0e10ccd11b2a8044b78743bee01a6de29f888eb65a481cf046616845ecb2bed1",
+      "repo_hash_at_sync": "bd0b36f988fb9922de3d84755cf71f2b6dd23db366add966bfd8b814492367ca",
       "repo_path": "lore/characters/nans.textile"
     },
     "52f828ae4089487c9701526c367fae80": {
@@ -697,9 +697,9 @@
       "op_id": "53f5902bce574b588273f9622ad52345",
       "op_kind": "Character",
       "op_slug": "kelferria-the-smith",
-      "op_updated_at": "2026-07-05T13:06:57Z",
+      "op_updated_at": "2026-07-08T12:24:56Z",
       "repo_blob_sha": "832118d392a0bc241d3e5390119fb032faff0ad9",
-      "repo_hash_at_sync": "123bbfb11fec931cd925e52acd27b8cce3628154798e647d1400de402f169940",
+      "repo_hash_at_sync": "dad87de99fe8a62571c95ce6b73303eec6a5324366c4e93a090780f09c2d8edb",
       "repo_path": "lore/characters/kelferria-the-smith.textile"
     },
     "55a496d64bfa4a7589f23affa1fd3064": {
@@ -717,9 +717,9 @@
       "op_id": "561a2ff21c324eeaacac0753f504bfa2",
       "op_kind": "Character",
       "op_slug": "f-lar-mnementh",
-      "op_updated_at": "2026-07-05T13:06:49Z",
+      "op_updated_at": "2026-07-08T12:24:40Z",
       "repo_blob_sha": "6636913b3509033187e04fa9b18bc6d222809c7a",
-      "repo_hash_at_sync": "9c5b006bc0ea8d92d7aebfbc22be9f9dd9758b9c848d449afb77c4777a550749",
+      "repo_hash_at_sync": "20d02168441f8528553339f549dab597de92b523f8109a039c0b1327f9935f3a",
       "repo_path": "lore/characters/f-lar-mnementh.textile"
     },
     "5796d18c10aa41748e78215a36610a2e": {
@@ -897,9 +897,9 @@
       "op_id": "684c57a053864975b1a77f2842946c08",
       "op_kind": "Character",
       "op_slug": "amanira",
-      "op_updated_at": "2026-07-01T21:22:29Z",
-      "repo_blob_sha": "695de5b9d3fa6009043c4d8f3b85c937a0ffb385",
-      "repo_hash_at_sync": "f54b0078b8e9e732ad662b3abd0c6f5e303f03e0d6a3928a55e635deda3c21ac",
+      "op_updated_at": "2026-07-08T12:24:09Z",
+      "repo_blob_sha": "178b08b40f60a1ce8601601aa9333217494ad8e5",
+      "repo_hash_at_sync": "bb0ba5bda5730ebbf8abd376c40f609918009e30c68b62ad320b7620be69fabd",
       "repo_path": "lore/characters/amanira.textile"
     },
     "689a5e01c2214591bcd30469314707f8": {
@@ -1337,9 +1337,9 @@
       "op_id": "acc2981d5b254210810f6c765df8c6c1",
       "op_kind": "Character",
       "op_slug": "garric-brunt",
-      "op_updated_at": "2026-07-05T13:06:50Z",
+      "op_updated_at": "2026-07-08T12:24:44Z",
       "repo_blob_sha": "55c04d45268fb5011e9f3df2001731d87e853a7a",
-      "repo_hash_at_sync": "eb4d29a95d6cefbfc9aca37feadcf6309931e521526501d2ffc4abf941b0fccc",
+      "repo_hash_at_sync": "6cfd1c423adcdcdec0e1e86f882290d9005cbfaedad61849e964e9fcf8fb808b",
       "repo_path": "lore/characters/garric-brunt.textile"
     },
     "ad30951b97324a5b897db22c9877caab": {
@@ -1347,9 +1347,9 @@
       "op_id": "ad30951b97324a5b897db22c9877caab",
       "op_kind": "Character",
       "op_slug": "chuggaz",
-      "op_updated_at": "2026-07-05T14:38:00Z",
+      "op_updated_at": "2026-07-08T12:24:26Z",
       "repo_blob_sha": "5201dec67af1f536c7e815bbd258e3586eec993a",
-      "repo_hash_at_sync": "c072b7a44307afd132ee54c135ffca63e1129820fa9055e0e312ca9b119376fd",
+      "repo_hash_at_sync": "aa55531a2c7e55ff98d66d5828f95ccf926dc10e0149e25cceb1295db8878420",
       "repo_path": "lore/characters/chuggaz.textile"
     },
     "b0db4ec29f794c878b0d38dc76dd3c6d": {
@@ -1477,9 +1477,9 @@
       "op_id": "ba70a1fc7e2545f58bdc5e1419cb44bc",
       "op_kind": "Character",
       "op_slug": "journeyman-galoras",
-      "op_updated_at": "2026-07-05T21:37:09Z",
+      "op_updated_at": "2026-07-08T12:24:54Z",
       "repo_blob_sha": "dc86e0e44a6b39381440938825cd8cc8fbbbd3f2",
-      "repo_hash_at_sync": "0b82f90ff8ad0c1067b7c7c1b4c020ff1d3de61a004a4b3bc825859ceabce218",
+      "repo_hash_at_sync": "1ffc1266804683f416f318f55ce2e3d39cb10161f75cc553acb806a0e1b0e69f",
       "repo_path": "lore/characters/journeyman-galoras.textile"
     },
     "bbc470225c34431e8d1c526607ee8faa": {
@@ -1547,9 +1547,9 @@
       "op_id": "c02b0d7de3e649d6a322a9c890478e85",
       "op_kind": "Character",
       "op_slug": "emissary-isius",
-      "op_updated_at": "2026-07-05T13:06:48Z",
+      "op_updated_at": "2026-07-08T12:24:39Z",
       "repo_blob_sha": "2cc41d011ecffee9220877bf69131d520b821ef3",
-      "repo_hash_at_sync": "d8b4a763a357d01f0641c607a949167c45ef50f02d5658c913e81e59ab24c694",
+      "repo_hash_at_sync": "205f7f37a192ec14d56dd76a884a9d8fd7b0b7ccbc3c6bbd5db466da71ba029f",
       "repo_path": "lore/characters/emissary-isius.textile"
     },
     "c2ad5441db234ff29d569bdfc08f9d8d": {
@@ -1647,9 +1647,9 @@
       "op_id": "cb55235bcbf04834b96d24d21921e0db",
       "op_kind": "Character",
       "op_slug": "caller-georg",
-      "op_updated_at": "2026-07-04T21:30:45Z",
+      "op_updated_at": "2026-07-08T12:24:21Z",
       "repo_blob_sha": "5ff0fa5147d434c09f8a1bedc9b806adc6645ead",
-      "repo_hash_at_sync": "9c8aa82b7406dc1ea45103ccef9fc50fb4f890eb0d0504e45bb3636d92d97e4d",
+      "repo_hash_at_sync": "58533e6eaeef4b7dad17f499d30ba44f9233d134c9fe5ab5bfa8dabb1f7e45f3",
       "repo_path": "lore/characters/caller-georg.textile"
     },
     "cdd2c25d35be44d59c8301e704eb9a38": {
@@ -1727,9 +1727,9 @@
       "op_id": "de69705864c640c8a900fa2e790c9b55",
       "op_kind": "Character",
       "op_slug": "myrath",
-      "op_updated_at": "2026-07-05T13:07:02Z",
+      "op_updated_at": "2026-07-08T12:25:06Z",
       "repo_blob_sha": "82c5cfc6f259b9b3fc6a49c563eaa1881fa7ccc3",
-      "repo_hash_at_sync": "3c9f3c56a87cef377341c06788358f89737951e9c33466869b1f612fddb2cf24",
+      "repo_hash_at_sync": "62683e9b9066adf7204aacf07bb6d367a6294569ce5903284f3066d020057bb8",
       "repo_path": "lore/characters/myrath.textile"
     },
     "de6ee025afd44eb68b4eeab17bda2755": {
@@ -1737,9 +1737,9 @@
       "op_id": "de6ee025afd44eb68b4eeab17bda2755",
       "op_kind": "Character",
       "op_slug": "kithrak-the-black",
-      "op_updated_at": "2026-07-04T21:31:13Z",
+      "op_updated_at": "2026-07-08T12:24:59Z",
       "repo_blob_sha": "be3eb92646598f5880c0d772afbe50ccffbb5722",
-      "repo_hash_at_sync": "192267f587d0a5f281d6edc7b9332d1947ab9a73c377855a8af323a3f4a8cc36",
+      "repo_hash_at_sync": "dc1299601351f9c7e0314d5b2ec9302623d6da088be8cb9a30feb05a403f1d3c",
       "repo_path": "lore/characters/kithrak-the-black.textile"
     },
     "dee245ec8f0b4a82baf00118cd29ce33": {

@@ -7,7 +7,7 @@ name: Hunts-By-Night
 title: Hunts-By-Night
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/hunts-by-night
 op_created_at: '2026-03-16T16:41:25Z'
-op_updated_at: '2026-07-05T09:25:38Z'
+op_updated_at: '2026-07-08T12:24:51Z'
 op_gm_only: false
 is_player_character: false
 tags:

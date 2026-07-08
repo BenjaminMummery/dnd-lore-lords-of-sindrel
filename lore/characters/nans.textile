@@ -7,7 +7,7 @@ name: Nanthelia "Nans" Surn
 title: Nanthelia "Nans" Surn
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/nans
 op_created_at: '2026-06-25T19:54:09Z'
-op_updated_at: '2026-07-05T13:11:22Z'
+op_updated_at: '2026-07-08T12:25:09Z'
 op_gm_only: false
 is_player_character: false
 tags:

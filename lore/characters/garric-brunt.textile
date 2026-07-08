@@ -7,7 +7,7 @@ name: Garric Brunt
 title: Garric Brunt
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/garric-brunt
 op_created_at: '2026-07-05T13:06:50Z'
-op_updated_at: '2026-07-05T13:06:50Z'
+op_updated_at: '2026-07-08T12:24:44Z'
 op_gm_only: true
 is_player_character: false
 tags:
