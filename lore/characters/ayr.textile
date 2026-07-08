@@ -13,9 +13,177 @@ is_player_character: true
 tags:
 - he/him
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457458/WhatsApp_Image_2026-01-10_at_17.20.08.jpeg
-dndbeyond_id: "156087500"
+dndbeyond_id: '156087500'
 dndbeyond_url: https://www.dndbeyond.com/characters/156087500
+dndbeyond_synced_at: '2026-07-08T12:26:54Z'
 ---
+
+<!-- OP_DDB_SHEET -->
+<div class="ddb-sheet">
+  <header class="ddb-header">
+    <div class="ddb-header-main">
+      <h1 class="ddb-name">Ayr Ravenshield</h1>
+      <p class="ddb-subtitle">Paladin (Oath of Vengeance) 3</p>
+      <ul class="ddb-meta">
+        <li><span class="ddb-label">Race</span> Rock Gnome</li>
+        <li><span class="ddb-label">Background</span> Charlatan</li>
+        <li><span class="ddb-label">Alignment</span> Chaotic Good</li>
+        <li><span class="ddb-label">Proficiency</span> +2</li>
+        <li><span class="ddb-label">Inspiration</span> No</li>
+      </ul>
+      <p class="ddb-links">GEOcycle · The Lords of Sindrel</p>
+    </div>
+    <div class="ddb-avatar-wrap">&lt;img src=&quot;https://www.dndbeyond.com/avatars/54301/102/1581111423-156087500.jpeg?width=150&amp;amp;height=150&amp;amp;fit=crop&amp;amp;quality=95&amp;amp;auto=webp&quot; alt=&quot;&quot;&gt;</div>
+  </header>
+
+  <section class="ddb-section ddb-defenses">
+    <h2 class="ddb-section-title">Defenses</h2>
+    <div class="ddb-pill-grid">
+      <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">18</span></div>
+      <div class="ddb-pill ddb-pill-wide">
+        <span class="ddb-pill-label">HP</span>
+        <span class="ddb-pill-value">28</span>
+        <span class="ddb-pill-sep">/</span>
+        <span class="ddb-pill-value">28</span>
+      </div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Temp</span><span class="ddb-pill-value">0</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">25 ft.</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+1</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
+    </div>
+  </section>
+
+  <div class="ddb-columns">
+    <section class="ddb-section">
+      <h2 class="ddb-section-title">Abilities</h2>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">18 (+4)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">12 (+1)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">15 (+2)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">9 (-1)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">10 (+0)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">18 (+4)</span></div>
+      </div>
+      <h3 class="ddb-subsection-title">Saving Throws</h3>
+      <div class="ddb-block">STR +4<br>
+DEX +1<br>
+CON +2<br>
+INT -1<br>
+WIS +0<br>
+CHA +4</div>
+    </section>
+
+    <section class="ddb-section">
+      <h2 class="ddb-section-title">Skills &amp; Senses</h2>
+      <div class="ddb-block">Athletics +6 *<br>
+Deception +6 *<br>
+Intimidation +6 *<br>
+Sleight Of Hand +3 *</div>
+      <div class="ddb-sense-row">
+        <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">10</span></div>
+        <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">9</span></div>
+        <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">10</span></div>
+      </div>
+    </section>
+  </div>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Actions</h2>
+    <div class="ddb-block">The Journeyman&#x27;s Answer. +6 to hit, range 5 ft., 1d8 slashing<br>
+Javelin. +6 to hit, range 30 ft., 1d6 piercing<br>
+Harness Divine Power. You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, which can be no higher than level . You regain all expended uses when you finish a long rest.<br>
+Divine Sense. As an action, you can detect good and evil. Until the end of your next turn, you can sense anything affected by the hallow spell or know the location of any celestial, fiend, undead within 60 ft. that is not behind total cover. You can use this feature times per long rest.<br>
+Lay on Hands Pool. You have a pool of healing power that can restore HP per long rest. As an action, you can touch a creature to restore any number of HP remaining in the pool, or 5 HP to either cure a disease or neutralize a poison affecting the creature.<br>
+Channel Divinity. Your oath allows you to channel divine energy to fuel magical effects. When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again. Some Channel Divinity effects require saving throws (DC ).<br>
+Divine Smite. When you hit with a melee weapon attack, you can expend one spell slot to deal 2d8 extra radiant damage to the target plus 1d8 for each spell level higher than 1st (max 5d8) and plus 1d8 against undead or fiends.<br>
+Channel Divinity: Abjure Enemy. As an action, you can choose one creature within 60 ft. of you that you can see to make a WIS saving throw (). Fiends and undead have disadvantage on this saving throw. On failure, the creature is frightened and its speed is reduced to 0 (and it can&#x27;t benefit from bonuses to speed) for 1 minute or until it takes any damage. On success, the creature’s speed is halved for 1 minute or until the creature takes any damage.<br>
+Channel Divinity: Vow of Enmity. You can choose a creature you can see within 10 ft. of you and gain advantage on attack rolls against it for 1 minute or until it drops to 0 HP or falls unconscious.</div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Limited Use</h2>
+    <div class="ddb-block">Harness Divine Power (1/long rest). You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, which can be no higher than level . You regain all expended uses when you finish a long rest.<br>
+Divine Sense (1/long rest). As an action, you can detect good and evil. Until the end of your next turn, you can sense anything affected by the hallow spell or know the location of any celestial, fiend, undead within 60 ft. that is not behind total cover. You can use this feature times per long rest.<br>
+Lay on Hands Pool (15/long rest). You have a pool of healing power that can restore HP per long rest. As an action, you can touch a creature to restore any number of HP remaining in the pool, or 5 HP to either cure a disease or neutralize a poison affecting the creature.<br>
+Channel Divinity (1/short rest). Your oath allows you to channel divine energy to fuel magical effects. When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again. Some Channel Divinity effects require saving throws (DC ).</div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Features &amp; Traits</h2>
+    <div class="ddb-block">Darkvision. You can see in darkness (shades of gray) up to 60 ft.<br>
+Gnome Cunning. You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.<br>
+Ability Score Increase. Your Intelligence score increases by 2.<br>
+Languages. You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.<br>
+Age. Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.<br>
+Size. Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.<br>
+Speed. Your base walking speed is 25 feet.<br>
+Artificer’s Lore. Add twice your proficiency bonus to History checks related to magic items, alchemical objects, or technological devices.<br>
+Tinker. You are proficient with tinker&#x27;s tools and can use them to construct tiny clockwork devices.<br>
+Ability Score Increase. Your Constitution score increases by 1.<br>
+Channel Divinity. You gain two Channel Divinity options: Abjure Enemy. As an action, you can choose one creature within 60 ft. of you that you can see to make a WIS saving throw (). Fiends and undead have disadvantage on this saving throw. On failure, the creature is frightened and its speed is reduced to 0 (and it can&#x27;t benefit from bonuses to speed) for 1 minute or until it takes any damage. On success, the creature’s speed is halved for 1 minute or until the creature takes any damage. Vow of Enmity. As a bonus action, you can choose a creature you can see within 10 ft. of you and gain advantage on attack rolls against it for 1 minute or until it drops to 0 HP or falls unconscious.<br>
+Oath Spells. You gain oath spells based on your level that are always prepared and don&#x27;t count against your daily number of prepared spells.<br>
+Divine Sense. As an action, you can detect good and evil. Until the end of your next turn, you can sense anything affected by the hallow spell or know the location of any celestial, fiend, undead within 60 ft. that is not behind total cover. You can use this feature times per long rest.<br>
+Lay on Hands. You have a pool of healing power that can restore HP per long rest. As an action, you can touch a creature to restore any number of HP remaining in the pool, or 5 HP to either cure a disease or neutralize a poison affecting the creature.<br>
+Fighting Style. You adopt a style of fighting as your specialty.<br>
+Spellcasting. You can cast prepared paladin spells using CHA as your spellcasting modifier (Spell DC , Spell Attack ). You can use a holy symbol as a spellcasting focus.<br>
+Divine Smite. When you hit with a melee weapon attack, you can expend one spell slot to deal 2d8 extra radiant damage to the target plus 1d8 for each spell level higher than 1st (max 5d8) and plus 1d8 against undead or fiends (max 6d8 total).<br>
+Divine Health. You are immune to disease.<br>
+Sacred Oath. When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose the Oath of Devotion detailed at the end of the class description or one from another source. Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature. Oath Spells Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don’t count against the number of spells you can prepare each day. If you gain an oath spell that doesn’t appear on the paladin spell list, the spell is nonetheless a paladin spell for you. Channel Divinity Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it. When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again. Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.<br>
+Proficiencies. Armor: All armor, shields Weapons: Simple weapons, martial weapons Tools: None Saving Throws: Wisdom, Charisma Skills: Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion<br>
+Hit Points. Hit Dice: 1d10 per paladin level Hit Points at 1st Level: 10 + your Constitution modifier Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per paladin level after 1st<br>
+Equipment. You start with the following equipment, in addition to the equipment granted by your background: (a) a martial weapon and a shield or (b) two martial weapons (a) five javelins or (b) any simple melee weapon (a) a priest’s pack or (b) an explorer’s pack Chain mail and a holy symbol<br>
+Hero&#x27;s Journey Boon. At your GM&#x27;s discretion you have been granted a Hero&#x27;s Journey Boon.<br>
+Dark Bargain. At your GM&#x27;s discretion, you have taken a Dark Bargain.</div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
+    <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Heavy Armor, Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons; Disguise Kit, Forgery Kit, Shields</span></div>
+    <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Gnomish</span></div>
+    <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">Tinker&#x27;s Tools</span></div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Inventory</h2>
+    <div class="ddb-block">The Lady&#x27;s Embrace<br>
+The Journeyman&#x27;s Answer<br>
+Chain Mail<br>
+Longsword<br>
+Javelin x5<br>
+Backpack<br>
+Clothes, Fine<br>
+Disguise Kit<br>
+Alms Box<br>
+Holy Symbol<br>
+Blanket<br>
+Candle x10<br>
+Rations (1 day) x2<br>
+Tinderbox<br>
+Waterskin<br>
+Block of Incense x2<br>
+Censer<br>
+Vestments<br>
+15 gp</div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Spellcasting</h2>
+    <div class="ddb-spell-header">
+      <div><span class="ddb-label">Ability</span> cha</div>
+      <div><span class="ddb-label">Save DC</span> 14</div>
+      <div><span class="ddb-label">Attack</span> +6</div>
+    </div>
+    <h3 class="ddb-subsection-title">Spell Slots</h3>
+    <div class="ddb-block">1st 3/3</div>
+    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
+    <div class="ddb-block">Level 1: Bless, Cure Wounds, Divine Favor, Searing Smite, Wrathful Smite</div>
+  </section>
+
+  <footer class="ddb-footer">
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 12:26 UTC</p>
+    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
+  </footer>
+</div>
 
 <!-- OP_DESCRIPTION -->
 A stocky gnome with weathered brown skin, a curling white mustache, and sage-green hair worn upward. One eye is natural brown; the other a glowing green orb set in the socket. Silver plate with a golden diamond badge on the breast - armour polished as if piety could be made visible.

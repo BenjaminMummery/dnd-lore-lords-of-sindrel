@@ -13,9 +13,172 @@ is_player_character: true
 tags:
 - she/her
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457470/sytqgzfrl5c41.jpg
-dndbeyond_id: "156196225"
+dndbeyond_id: '156196225'
 dndbeyond_url: https://www.dndbeyond.com/characters/156196225
+dndbeyond_synced_at: '2026-07-08T12:26:52Z'
 ---
+
+<!-- OP_DDB_SHEET -->
+<div class="ddb-sheet">
+  <header class="ddb-header">
+    <div class="ddb-header-main">
+      <h1 class="ddb-name">Amanira</h1>
+      <p class="ddb-subtitle">Druid (Circle of the Land) 3</p>
+      <ul class="ddb-meta">
+        <li><span class="ddb-label">Race</span> Drow</li>
+        <li><span class="ddb-label">Background</span> Sage</li>
+        <li><span class="ddb-label">Alignment</span> </li>
+        <li><span class="ddb-label">Proficiency</span> +2</li>
+        <li><span class="ddb-label">Inspiration</span> No</li>
+      </ul>
+      <p class="ddb-links">jenjsto · The Lords of Sindrel</p>
+    </div>
+    <div class="ddb-avatar-wrap">&lt;img src=&quot;https://www.dndbeyond.com/avatars/54419/308/1581111423-156196225.jpeg?width=150&amp;amp;height=150&amp;amp;fit=crop&amp;amp;quality=95&amp;amp;auto=webp&quot; alt=&quot;&quot;&gt;</div>
+  </header>
+
+  <section class="ddb-section ddb-defenses">
+    <h2 class="ddb-section-title">Defenses</h2>
+    <div class="ddb-pill-grid">
+      <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">13</span></div>
+      <div class="ddb-pill ddb-pill-wide">
+        <span class="ddb-pill-label">HP</span>
+        <span class="ddb-pill-value">17</span>
+        <span class="ddb-pill-sep">/</span>
+        <span class="ddb-pill-value">18</span>
+      </div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Temp</span><span class="ddb-pill-value">0</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">30 ft.</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+2</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
+    </div>
+  </section>
+
+  <div class="ddb-columns">
+    <section class="ddb-section">
+      <h2 class="ddb-section-title">Abilities</h2>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">8 (-1)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">14 (+2)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">14 (+2)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">13 (+1)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">16 (+3)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">10 (+0)</span></div>
+      </div>
+      <h3 class="ddb-subsection-title">Saving Throws</h3>
+      <div class="ddb-block">STR -1<br>
+DEX +2<br>
+CON +2<br>
+INT +1<br>
+WIS +3<br>
+CHA +0</div>
+    </section>
+
+    <section class="ddb-section">
+      <h2 class="ddb-section-title">Skills &amp; Senses</h2>
+      <div class="ddb-block">Arcana +3 *<br>
+History +3 *<br>
+Medicine +5 *<br>
+Nature +3 *<br>
+Perception +5 *</div>
+      <div class="ddb-sense-row">
+        <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">15</span></div>
+        <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">11</span></div>
+        <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">13</span></div>
+      </div>
+    </section>
+  </div>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Actions</h2>
+    <div class="ddb-block">Scimitar. +1 to hit, range 5 ft., 1d6 slashing<br>
+Wild Shape. As an action, you can magically assume the shape of a beast that you have seen before twice per short rest. [2nd] Max CR 1/4 (no flying or swimming speed) [4th] Max CR 1/2 (no flying speed) [8th] Max CR 1 You can stay in beast shape for hours before reverting back to your normal form (or as a bonus action earlier or if you fall unconscious, drop to 0 hit points, or die).<br>
+Natural Recovery. Once per long rest during a short rest, you choose expended spell slots to recover. The spell slots can have a combined level of up to , and none of the slots can be 6th level or higher.<br>
+Wild Companion. As an action, you can expend a use of your Wild Shape feature to cast the find familiar spell, without material components. When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after hours.</div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Limited Use</h2>
+    <div class="ddb-block">Wild Shape (2/short rest). As an action, you can magically assume the shape of a beast that you have seen before twice per short rest. [2nd] Max CR 1/4 (no flying or swimming speed) [4th] Max CR 1/2 (no flying speed) [8th] Max CR 1 You can stay in beast shape for hours before reverting back to your normal form (or as a bonus action earlier or if you fall unconscious, drop to 0 hit points, or die).<br>
+Natural Recovery (1/long rest). Once per long rest during a short rest, you choose expended spell slots to recover. The spell slots can have a combined level of up to , and none of the slots can be 6th level or higher.</div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Features &amp; Traits</h2>
+    <div class="ddb-block">Keen Senses. You have proficiency in the Perception skill.<br>
+Fey Ancestry. You have advantage on saves against being charmed, and magic can’t put you to sleep.<br>
+Trance. You don&#x27;t need to sleep, but meditate semiconsciously for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.<br>
+Ability Score Increase. Your Dexterity score increases by 2.<br>
+Languages. You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.<br>
+Age. Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.<br>
+Size. Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.<br>
+Speed. Your base walking speed is 30 feet.<br>
+Superior Darkvision. You can see in darkness (shades of gray) up to 120 ft.<br>
+Sunlight Sensitivity. You have disadvantage on attack rolls and on Perception checks that rely on sight when you, your target, or whatever you are trying to perceive is in direct sunlight.<br>
+Drow Magic. You know the dancing lights cantrip. [3rd] You can cast faerie fire once per long rest. [5th] You can cast the darkness spell once per long rest. CHA is your spellcasting ability.<br>
+Drow Weapon Training. You have proficiency with rapiers, shortswords, and hand crossbows.<br>
+Ability Score Increase. Your Charisma score increases by 1.<br>
+Bonus Cantrip. You learn one additional druid cantrip of your choice. This cantrip doesn’t count against the number of druid cantrips you know.<br>
+Natural Recovery. Once per long rest, you choose expended spell slots to recover during a short rest. The spell slots can have a combined level of up to , and none of the slots can be 6th level or higher.<br>
+Circle Spells. You gain access to circle spells for your associated land. A circle spell counts as a druid spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day.<br>
+Druidic. You know Druidic, the secret language of druids.<br>
+Spellcasting. You can cast prepared druid spells using WIS as your spellcasting modifier (Spell DC , Spell Attack ) and prepared druid spells as rituals if they have the ritual tag. You can use a druidic focus as a spellcasting focus.<br>
+Wild Shape. As an action, you can magically assume the shape of a beast that you have seen before twice per short rest. You can stay in beast shape for hours before reverting back to your normal form (or as a bonus action earlier or if you fall unconscious, drop to 0 hit points, or die).<br>
+Druid Circle. At 2nd level, you choose to identify with a circle of druids: the Circle of the Land detailed at the end of the class description or one from the Player&#x27;s Handbook or other sources. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.<br>
+Proficiencies. Armor: Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) Weapons: Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears Tools: Herbalism kit Saving Throws: Intelligence, Wisdom Skills: Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival<br>
+Hit Points. Hit Dice: 1d8 per druid level Hit Points at 1st Level: 8 + your Constitution modifier Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per druid level after 1st<br>
+Equipment. You start with the following equipment, in addition to the equipment granted by your background: (a) a wooden shield or (b) any simple weapon (a) a scimitar or (b) any simple melee weapon Leather armor, an explorer’s pack, and a druidic focus<br>
+Hero&#x27;s Journey Boon. At your GM&#x27;s discretion you have been granted a Hero&#x27;s Journey Boon.<br>
+Dark Bargain. At your GM&#x27;s discretion, you have taken a Dark Bargain.</div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
+    <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Light Armor, Medium Armor, Shields; Club, Crossbow, Hand, Dagger, Dart, Herbalism Kit, Javelin, Mace, Quarterstaff, Rapier, Scimitar, Shields, Shortsword, Sickle, Sling, Spear</span></div>
+    <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Choose a Language, Common, Druidic, Elvish</span></div>
+    <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Inventory</h2>
+    <div class="ddb-block">Shield<br>
+Leather<br>
+Scimitar<br>
+Ink (1 ounce bottle)<br>
+Backpack<br>
+Clothes, Common<br>
+Small Knife<br>
+Druidic Focus<br>
+Bedroll<br>
+Mess Kit<br>
+Rations (1 day) x10<br>
+Rope, Hempen (50 feet)<br>
+Tinderbox<br>
+Torch x10<br>
+Waterskin<br>
+10 gp</div>
+  </section>
+
+  <section class="ddb-section">
+    <h2 class="ddb-section-title">Spellcasting</h2>
+    <div class="ddb-spell-header">
+      <div><span class="ddb-label">Ability</span> wis</div>
+      <div><span class="ddb-label">Save DC</span> 13</div>
+      <div><span class="ddb-label">Attack</span> +5</div>
+    </div>
+    <h3 class="ddb-subsection-title">Spell Slots</h3>
+    <div class="ddb-block">1st 4/4<br>
+2nd 2/2</div>
+    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
+    <div class="ddb-block">Cantrips: Druidcraft, Produce Flame<br>
+Level 1: Create or Destroy Water, Entangle, Goodberry, Healing Word, Thunderwave<br>
+Level 2: Hold Person</div>
+  </section>
+
+  <footer class="ddb-footer">
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 12:26 UTC</p>
+    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
+  </footer>
+</div>
 
 <!-- OP_DESCRIPTION -->
 A drow woman with blue-violet skin and long platinum hair. Angular features, pointed ears, brown leather strapped over olive kit; a moss-trimmed green cloak and rune-marked stones at her belt - a druidic traveller plainly out of sympathy with a city of stone.
@@ -25,6 +188,7 @@ h3. Key Items
 * [[Silver Guest Bracelet | Silver Guest Bracelet]]
 
 <!-- OP_BIO -->
+
 
 <!-- GM_INFO_START -->
 Hello, Dungeon Master! I am sorry for leaving my homework until last minute, but here goes:
