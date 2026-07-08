@@ -15,21 +15,17 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457474/572fdc897647939edd9359829283e7ba.jpg
 dndbeyond_id: '157065911'
 dndbeyond_url: https://www.dndbeyond.com/characters/157065911
-dndbeyond_synced_at: '2026-07-08T12:48:47Z'
+dndbeyond_synced_at: '2026-07-08T13:07:49Z'
 ---
 
 <!-- OP_DDB_SHEET -->
 <div class="ddb-sheet">
   <div class="ddb-header">
     <div class="ddb-header-main">
-      <h1 class="ddb-name">Nakoma Deathwalker Mor&#x27;got&#x27;ha</h1>
+      <h1 class="ddb-name">Nakoma Deathwalker Mor'got'ha</h1>
       <p class="ddb-subtitle">Barbarian 2 / Wizard 1</p>
       <ul class="ddb-meta">
-        <li><span class="ddb-label">Race</span> Goliath</li>
-        <li><span class="ddb-label">Background</span> </li>
-        <li><span class="ddb-label">Alignment</span> </li>
         <li><span class="ddb-label">Proficiency</span> +2</li>
-        <li><span class="ddb-label">Inspiration</span> Yes</li>
       </ul>
       <p class="ddb-links">Perspehone · The Lords of Sindrel</p>
     </div>
@@ -46,7 +42,6 @@ dndbeyond_synced_at: '2026-07-08T12:48:47Z'
         <span class="ddb-pill-sep">/</span>
         <span class="ddb-pill-value">23</span>
       </div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Temp</span><span class="ddb-pill-value">0</span></div>
       <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">30 ft.</span></div>
       <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">-1</span></div>
       <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
@@ -90,50 +85,43 @@ Survival +0 *</div>
 
   <div class="ddb-section">
     <h2 class="ddb-section-title">Actions</h2>
-    <div class="ddb-block">The Bi-Flail - Maul Form. +7 to hit, range 5 ft., 2d6 bludgeoning<br>
-The Bi-Flail - Flail Form. +7 to hit, range 5 ft., 1d8 bludgeoning<br>
-Handaxe. +7 to hit, range 20 ft., 1d6 slashing<br>
-Handaxe. +7 to hit, range 20 ft., 1d6 slashing<br>
-Javelin. +7 to hit, range 30 ft., 1d6 piercing<br>
-Stone’s Endurance. As a reaction, reduce damage dealt to you by 1d12 once per short rest.<br>
-Rage. As a bonus action enter a rage for up to 1 minute (10 rounds). You gain advantage on STR checks and saving throws (not attacks), melee damage with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can&#x27;t cast or concentrate on spells while raging. Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage as a bonus action.<br>
-Arcane Recovery. Once per day when you finish a short rest, you can choose expended spell slots to recover - up to a combined level of , and none of the slots can be 6th level or higher.</div>
-  </div>
-
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Limited Use</h2>
-    <div class="ddb-block">Stone’s Endurance (1/short rest). As a reaction, reduce damage dealt to you by 1d12 once per short rest.<br>
-Rage (2/long rest). As a bonus action enter a rage for up to 1 minute (10 rounds). You gain advantage on STR checks and saving throws (not attacks), melee damage with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can&#x27;t cast or concentrate on spells while raging. Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage as a bonus action.<br>
-Arcane Recovery (1/long rest). Once per day when you finish a short rest, you can choose expended spell slots to recover - up to a combined level of , and none of the slots can be 6th level or higher.</div>
+    <div class="ddb-block"><strong>The Bi-Flail - Maul Form.</strong> +7 to hit, range 5 ft., 2d6 bludgeoning<br>
+<strong>The Bi-Flail - Flail Form.</strong> +7 to hit, range 5 ft., 1d8 bludgeoning<br>
+<strong>Handaxe.</strong> +7 to hit, range 20 ft., 1d6 slashing<br>
+<strong>Handaxe.</strong> +7 to hit, range 20 ft., 1d6 slashing<br>
+<strong>Javelin.</strong> +7 to hit, range 30 ft., 1d6 piercing<br>
+<strong>Stone’s Endurance.</strong> As a reaction, reduce damage dealt to you by 1d12 once per short rest.<br>
+<strong>Rage.</strong> As a bonus action enter a rage for up to 1 minute (10 rounds). You gain advantage on STR checks and saving throws (not attacks), melee damage with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can't cast or concentrate on spells while raging. Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage as a bonus action.<br>
+<strong>Arcane Recovery.</strong> Once per day when you finish a short rest, you can choose expended spell slots to recover - up to a combined level of , and none of the slots can be 6th level or higher.</div>
   </div>
 
   <div class="ddb-section">
     <h2 class="ddb-section-title">Features &amp; Traits</h2>
-    <div class="ddb-block">Natural Athlete. You have proficiency in the Athletics skill.<br>
-Stone’s Endurance. As a reaction, reduce damage dealt to you by 1d12 once per short rest.<br>
-Powerful Build. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.<br>
-Mountain Born. You don&#x27;t suffer the penalties for being in high altitudes, and have resistance to cold damage.<br>
-Ability Score Increase. Your Strength score increases by 2, and your Constitution score increases by 1.<br>
-Languages. You can speak, read, and write Common and Giant.<br>
-Age. Goliaths have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century.<br>
-Size. Goliaths are between 7 and 8 feet tall and weigh between 280 and 340 pounds. Your size is Medium.<br>
-Speed. Your base walking speed is 30 feet.<br>
-Rage. As a bonus action enter a rage for up to 1 minute (10 rounds). You gain advantage on STR checks and saving throws (not attacks), melee damage with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can&#x27;t cast or concentrate on spells while raging. Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage as a bonus action.<br>
-Unarmored Defense. While not wearing armor, your AC equals + any shield bonus.<br>
-Reckless Attack. When you make your first attack on your turn, you can decide to attack recklessly, giving you advantage on melee weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.<br>
-Danger Sense. You have advantage on DEX saving throws against effects that you can see while not blinded, deafened, or incapacitated.<br>
-Primal Path. At 3rd level, you choose a path that shapes the nature of your rage. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.<br>
-Proficiencies. Armor: Light armor, medium armor, shields Weapons: Simple weapons, martial weapons Tools: None Saving Throws: Strength, Constitution Skills: Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival<br>
-Hit Points. Hit Dice: 1d12 per barbarian level Hit Points at 1st Level: 12 + your Constitution modifier Hit Points at Higher Levels: 1d12 (or 7) + your Constitution modifier per barbarian level after 1st<br>
-Equipment. You start with the following equipment, in addition to the equipment granted by your background: (a) a greataxe or (b) any martial melee weapon (a) two handaxes or (b) any simple weapon An explorer’s pack and four javelins<br>
-Spellcasting. You can cast prepared wizard spells using INT as your spellcasting modifier (Spell DC , Spell Attack ) and wizard spells in your spellbook as rituals if they have the ritual tag. You can use an arcane focus as a spellcasting focus.<br>
-Arcane Recovery. Once per day when you finish a short rest, you can choose expended spell slots to recover - up to a combined level of , and none of the slots can be 6th level or higher.<br>
-Arcane Tradition. When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation. The School of Evocation&amp;nbsp;is detailed at the end of the class description, and more choices are available in other sources. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.<br>
-Proficiencies. Armor: None Weapons: Daggers, darts, slings, quarterstaffs, light crossbows Tools: None Saving Throws: Intelligence, Wisdom Skills: Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion<br>
-Hit Points. Hit Dice: 1d6 per wizard level Hit Points at 1st Level: 6 + your Constitution modifier Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier per wizard level after 1st<br>
-Equipment. You start with the following equipment, in addition to the equipment granted by your background: (a) a quarterstaff or (b) a dagger (a) a component pouch or (b) an arcane focus (a) a scholar’s pack or (b) an explorer’s pack A spellbook<br>
-Hero&#x27;s Journey Boon. At your GM&#x27;s discretion you have been granted a Hero&#x27;s Journey Boon.<br>
-Dark Bargain. At your GM&#x27;s discretion, you have taken a Dark Bargain.</div>
+    <div class="ddb-block"><strong>Natural Athlete.</strong> You have proficiency in the Athletics skill.<br>
+<strong>Stone’s Endurance.</strong> As a reaction, reduce damage dealt to you by 1d12 once per short rest.<br>
+<strong>Powerful Build.</strong> You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.<br>
+<strong>Mountain Born.</strong> You don't suffer the penalties for being in high altitudes, and have resistance to cold damage.<br>
+<strong>Ability Score Increase.</strong> Your Strength score increases by 2, and your Constitution score increases by 1.<br>
+<strong>Languages.</strong> You can speak, read, and write Common and Giant.<br>
+<strong>Age.</strong> Goliaths have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century.<br>
+<strong>Size.</strong> Goliaths are between 7 and 8 feet tall and weigh between 280 and 340 pounds. Your size is Medium.<br>
+<strong>Speed.</strong> Your base walking speed is 30 feet.<br>
+<strong>Rage.</strong> As a bonus action enter a rage for up to 1 minute (10 rounds). You gain advantage on STR checks and saving throws (not attacks), melee damage with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can't cast or concentrate on spells while raging. Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage as a bonus action.<br>
+<strong>Unarmored Defense.</strong> While not wearing armor, your AC equals + any shield bonus.<br>
+<strong>Reckless Attack.</strong> When you make your first attack on your turn, you can decide to attack recklessly, giving you advantage on melee weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.<br>
+<strong>Danger Sense.</strong> You have advantage on DEX saving throws against effects that you can see while not blinded, deafened, or incapacitated.<br>
+<strong>Primal Path.</strong> At 3rd level, you choose a path that shapes the nature of your rage. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.<br>
+<strong>Proficiencies.</strong> Armor: Light armor, medium armor, shields Weapons: Simple weapons, martial weapons Tools: None Saving Throws: Strength, Constitution Skills: Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival<br>
+<strong>Hit Points.</strong> Hit Dice: 1d12 per barbarian level Hit Points at 1st Level: 12 + your Constitution modifier Hit Points at Higher Levels: 1d12 (or 7) + your Constitution modifier per barbarian level after 1st<br>
+<strong>Equipment.</strong> You start with the following equipment, in addition to the equipment granted by your background: (a) a greataxe or (b) any martial melee weapon (a) two handaxes or (b) any simple weapon An explorer’s pack and four javelins<br>
+<strong>Spellcasting.</strong> You can cast prepared wizard spells using INT as your spellcasting modifier (Spell DC , Spell Attack ) and wizard spells in your spellbook as rituals if they have the ritual tag. You can use an arcane focus as a spellcasting focus.<br>
+<strong>Arcane Recovery.</strong> Once per day when you finish a short rest, you can choose expended spell slots to recover - up to a combined level of , and none of the slots can be 6th level or higher.<br>
+<strong>Arcane Tradition.</strong> When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation. The School of Evocation&amp;nbsp;is detailed at the end of the class description, and more choices are available in other sources. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.<br>
+<strong>Proficiencies.</strong> Armor: None Weapons: Daggers, darts, slings, quarterstaffs, light crossbows Tools: None Saving Throws: Intelligence, Wisdom Skills: Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion<br>
+<strong>Hit Points.</strong> Hit Dice: 1d6 per wizard level Hit Points at 1st Level: 6 + your Constitution modifier Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier per wizard level after 1st<br>
+<strong>Equipment.</strong> You start with the following equipment, in addition to the equipment granted by your background: (a) a quarterstaff or (b) a dagger (a) a component pouch or (b) an arcane focus (a) a scholar’s pack or (b) an explorer’s pack A spellbook<br>
+<strong>Hero's Journey Boon.</strong> At your GM's discretion you have been granted a Hero's Journey Boon.<br>
+<strong>Dark Bargain.</strong> At your GM's discretion, you have taken a Dark Bargain.</div>
   </div>
 
   <div class="ddb-section">
@@ -144,23 +132,6 @@ Dark Bargain. At your GM&#x27;s discretion, you have taken a Dark Bargain.</div>
   </div>
 
   <div class="ddb-section">
-    <h2 class="ddb-section-title">Inventory</h2>
-    <div class="ddb-block">The Bi-Flail - Maul Form<br>
-The Bi-Flail - Flail Form<br>
-Handaxe<br>
-Handaxe<br>
-Javelin x4<br>
-Backpack<br>
-Bedroll<br>
-Mess Kit<br>
-Rations (1 day) x10<br>
-Rope, Hempen (50 feet)<br>
-Tinderbox<br>
-Torch x10<br>
-Waterskin</div>
-  </div>
-
-  <div class="ddb-section">
     <h2 class="ddb-section-title">Spellcasting</h2>
     <div class="ddb-spell-header">
       <div><span class="ddb-label">Ability</span> int</div>
@@ -168,15 +139,15 @@ Waterskin</div>
       <div><span class="ddb-label">Attack</span> +3</div>
     </div>
     <h3 class="ddb-subsection-title">Spell Slots</h3>
-    <div class="ddb-block">1st 3/4<br>
-2nd 2/2</div>
+    <div class="ddb-block">1st 4<br>
+2nd 2</div>
     <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
     <div class="ddb-block">Cantrips: Chill Touch, Green-Flame Blade, Toll the Dead<br>
 Level 1: Cause Fear, False Life</div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 12:48 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:07 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>
