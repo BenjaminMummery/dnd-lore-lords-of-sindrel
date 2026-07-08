@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-07-08T15:45:18Z",
+  "last_git_publish": "2026-07-08T15:46:30Z",
   "last_portal_pull": "2026-07-08T15:45:29Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -417,9 +417,9 @@
       "op_id": "27142b6fc6b246bf9f2b6e8ea11dbfac",
       "op_kind": "Character",
       "op_slug": "kithrak-ii",
-      "op_updated_at": "2026-07-08T15:44:17Z",
-      "repo_blob_sha": "ceac440ab4c18dd88627620ca0dc8f177d94cd81",
-      "repo_hash_at_sync": "bff4a7bfffaad7452dba912dc7bc641d3dd3d8eb4ecbcbc22564fad3dba1aa52",
+      "op_updated_at": "2026-07-08T15:45:47Z",
+      "repo_blob_sha": "fc0759e0782ffaa683f2cfcadf726c158dbfbd29",
+      "repo_hash_at_sync": "7e01c82796d238f6ebfe6e74c35a8ee1965faffea4deec018b2d431cc3a8d1f6",
       "repo_path": "lore/characters/kithrak-ii.textile"
     },
     "296cf30dcb054a71bfcc585e8aedd604": {
@@ -1077,9 +1077,9 @@
       "op_id": "7d77af4f53574b049e98cd0a3784f6af",
       "op_kind": "Character",
       "op_slug": "nakoma-deathwalker-mor-got-ha",
-      "op_updated_at": "2026-07-08T15:44:46Z",
-      "repo_blob_sha": "d5093993e3ef52478933a6f26dcc324dc17cd48d",
-      "repo_hash_at_sync": "aac98e84c5f9794bb3cbbc974b6aa36f17257a0293d29aff6a0fcac4d1ed991d",
+      "op_updated_at": "2026-07-08T15:45:50Z",
+      "repo_blob_sha": "ddab13a1977a89272e8b46c4f17e5f63127b86a5",
+      "repo_hash_at_sync": "ca6ff3a0ede48d1e186019dfff51ab91c6a450638857077a50cd129d5a774ad5",
       "repo_path": "lore/characters/nakoma-deathwalker-mor-got-ha.textile"
     },
     "7f011f2f93db42fa949cd26d9d045dad": {
