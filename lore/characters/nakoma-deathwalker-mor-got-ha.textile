@@ -13,6 +13,8 @@ is_player_character: true
 tags:
 - she/her
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457474/572fdc897647939edd9359829283e7ba.jpg
+dndbeyond_id: "157065911"
+dndbeyond_url: https://www.dndbeyond.com/characters/157065911
 ---
 
 <!-- OP_DESCRIPTION -->

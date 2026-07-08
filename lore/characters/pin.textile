@@ -13,6 +13,8 @@ is_player_character: true
 tags:
 - he/him
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457450/WhatsApp_Image_2026-01-11_at_12.12.06.jpeg
+dndbeyond_id: "159193691"
+dndbeyond_url: https://www.dndbeyond.com/characters/159193691
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -24,8 +26,6 @@ h3. Key Items
 * [[Silver Guest Bracelet | Silver Guest Bracelet]]
 
 <!-- OP_BIO -->
-https://www.dndbeyond.com/characters/159193691
-
 * *Alignment:* Neutral
 * *Personality:* Values stoicism; wary of intelligence.
 * *Ideal:* To find a place within a community again.

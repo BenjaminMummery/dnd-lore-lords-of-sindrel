@@ -13,6 +13,8 @@ is_player_character: true
 tags:
 - she/they
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7442634/1000025365.jpg
+dndbeyond_id: "151085721"
+dndbeyond_url: https://www.dndbeyond.com/characters/151085721
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -24,8 +26,6 @@ h3. Key Items
 * [[Knuckledusters | Knuckledusters]]
 
 <!-- OP_BIO -->
-https://www.dndbeyond.com/characters/151085721
-
 Lawful Neutral.
 
 <!-- GM_INFO_START -->

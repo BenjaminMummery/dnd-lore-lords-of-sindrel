@@ -13,6 +13,8 @@ is_player_character: true
 tags:
 - he/him
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457458/WhatsApp_Image_2026-01-10_at_17.20.08.jpeg
+dndbeyond_id: "156087500"
+dndbeyond_url: https://www.dndbeyond.com/characters/156087500
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -27,8 +29,6 @@ h3. Key Items
 * [[Silver Guest Bracelet | Silver Guest Bracelet]]
 
 <!-- OP_BIO -->
-https://www.dndbeyond.com/characters/156087500
-
 Presents as a pious sellsword in silver plate — holy symbols from several traditions at his belt, jokes at the ready, prayers offered to whichever god might prove useful in the moment. Claims no fixed patron.
 
 <!-- GM_INFO_START -->

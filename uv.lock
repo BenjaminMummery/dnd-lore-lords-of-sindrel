@@ -158,7 +158,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "lore-bridge", git = "ssh://git@github.com/BenjaminMummery/obsidianportal-git-sync.git?rev=feat%2Fdndbeyond-html" }]
+requires-dist = [{ name = "lore-bridge", git = "ssh://git@github.com/BenjaminMummery/obsidianportal-git-sync.git?rev=main" }]
 
 [[package]]
 name = "fastapi"
@@ -238,7 +238,7 @@ wheels = [
 [[package]]
 name = "lore-bridge"
 version = "0.8.0"
-source = { git = "ssh://git@github.com/BenjaminMummery/obsidianportal-git-sync.git?rev=feat%2Fdndbeyond-html#e29f69e972c0b2680735171a2af2be5ac28b9bdf" }
+source = { git = "ssh://git@github.com/BenjaminMummery/obsidianportal-git-sync.git?rev=main#3fa68fcc31088e47c4a6662fcf974fbab752b4ca" }
 dependencies = [
     { name = "beautifulsoup4" },
     { name = "fastapi" },

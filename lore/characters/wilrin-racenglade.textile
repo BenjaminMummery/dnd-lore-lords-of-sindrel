@@ -13,6 +13,8 @@ is_player_character: true
 tags:
 - he/him
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2026-01-15_at_14.33.55.jpeg
+dndbeyond_id: "151085741"
+dndbeyond_url: https://www.dndbeyond.com/characters/151085741
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -27,7 +29,6 @@ h3. Key Items
 * [[The Fallowhurst Sigil | The Fallowhurst Sigil]] (bound — sigil scar)
 
 <!-- OP_BIO -->
-https://www.dndbeyond.com/characters/151085741
 
 <!-- GM_INFO_START -->
 h2. Player sheet (D&D Beyond)

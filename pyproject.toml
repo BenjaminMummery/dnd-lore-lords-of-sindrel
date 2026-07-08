@@ -5,7 +5,7 @@ description = "Lore mirror for The Lords of Sindrel (Obsidian Portal ↔ GitHub)
 readme = "notes/README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "lore-bridge @ git+ssh://git@github.com/BenjaminMummery/obsidianportal-git-sync.git@feat/dndbeyond-html",
+    "lore-bridge @ git+ssh://git@github.com/BenjaminMummery/obsidianportal-git-sync.git@main",
 ]
 
 [tool.uv]
