@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457462/WhatsApp_Image_2026-01-10_at_17.14.42.jpeg
 dndbeyond_id: '159196960'
 dndbeyond_url: https://www.dndbeyond.com/characters/159196960
-dndbeyond_synced_at: '2026-07-08T15:49:26Z'
+dndbeyond_synced_at: '2026-07-08T15:51:40Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -131,7 +131,7 @@ Survival +4 *</div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 15:49 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 15:51 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>
