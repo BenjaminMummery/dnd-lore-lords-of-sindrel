@@ -13,7 +13,11 @@ is_player_character: true
 tags:
 - she/her
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457462/WhatsApp_Image_2026-01-10_at_17.14.42.jpeg
+dndbeyond_id: '159196960'
+dndbeyond_url: https://www.dndbeyond.com/characters/159196960
 ---
+
+<!-- OP_DDB_SHEET -->
 
 <!-- OP_DESCRIPTION -->
 A woman of about five foot nine, tawny-pale of skin, with pale grey-green eyes. Her hair is dusky grey at the roots and black toward the ends. Olive green and brown leather armour with feathered shoulder details — a ranger's kit worn with the confidence of someone who has already decided where the arrow goes.
@@ -24,8 +28,6 @@ h3. Key Items
 * [[Silver Guest Bracelet | Silver Guest Bracelet]]
 
 <!-- OP_BIO -->
-https://www.dndbeyond.com/characters/159196960
-
 Chaotic Good. No faith (as far as anyone is aware).
 
 *Father*:[[:raol-greyhirst |  _Raol Greyhirst_]]; Human, Chondathan descent (black hair and green eyes – tawny skin, slender and tall 6’1”)
@@ -47,7 +49,7 @@ Ros never tried to fight against the social prejudice or prove herself to others
 
 *Rumours others might have heard of me* (_up to the other players to decide if they have ever, or would even have been likely to, catch wind of these_):
 * _Main_: *She once poisoned a spring*, _Detail_: which provided vital sustenance for both livestock and a local village, in an effort to enact petty revenge against a local merchant who had refused to trade for her foraged wild foods.
-FALSE – She was caught clearing the spring of poisonous plants, which admittedly she then took and used for both potions/concoctions and to get high. The toxins had already made it downstream before her harvest and resulted in the death of a small number of livestock [that happened to belong to a farmer that didn’t like Ros foraging too close to their land and arbitrarily blamed them whenever anything went wrong. People tend to forget that bit…]. 
+FALSE – She was caught clearing the spring of poisonous plants, which admittedly she then took and used for both potions/concoctions and to get high. The toxins had already made it downstream before her harvest and resulted in the death of a small number of livestock [that happened to belong to a farmer that didn’t like Ros foraging too close to their land and arbitrarily blamed them whenever anything went wrong. People tend to forget that bit…].
 Yes the merchant had refused to trade, though she had no intent for revenge and no villagers were harmed, even if over the years the tale mysteriously seems to include more and more casualties.
 
 <!-- GM_INFO_START -->
