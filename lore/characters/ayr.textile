@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457458/WhatsApp_Image_2026-01-10_at_17.20.08.jpeg
 dndbeyond_id: '156087500'
 dndbeyond_url: https://www.dndbeyond.com/characters/156087500
-dndbeyond_synced_at: '2026-07-08T13:34:50Z'
+dndbeyond_synced_at: '2026-07-08T15:39:09Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -99,17 +99,19 @@ Survival +0</div>
   </div>
 
   <div class="ddb-section">
-    <h2 class="ddb-section-title">Actions</h2>
-    <div class="ddb-block"><strong>The Journeyman's Answer.</strong> +6 to hit, range 5 ft., 1d8 slashing<br>
+<h2 class="ddb-section-title">Combat</h2>
+<h3 class="ddb-subsection-title">Actions</h3>
+<div class="ddb-block"><strong>The Journeyman's Answer.</strong> +6 to hit, range 5 ft., 1d8 slashing<br>
 <strong>Javelin.</strong> +6 to hit, range 30 ft., 1d6 piercing<br>
-<strong>Harness Divine Power.</strong> You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, which can be no higher than level . You regain all expended uses when you finish a long rest.<br>
 <strong>Divine Sense.</strong> As an action, you can detect good and evil. Until the end of your next turn, you can sense anything affected by the hallow spell or know the location of any celestial, fiend, undead within 60 ft. that is not behind total cover. You can use this feature times per long rest.<br>
 <strong>Lay on Hands Pool.</strong> You have a pool of healing power that can restore HP per long rest. As an action, you can touch a creature to restore any number of HP remaining in the pool, or 5 HP to either cure a disease or neutralize a poison affecting the creature.<br>
 <strong>Channel Divinity.</strong> Your oath allows you to channel divine energy to fuel magical effects. When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again. Some Channel Divinity effects require saving throws (DC ).<br>
 <strong>Divine Smite.</strong> When you hit with a melee weapon attack, you can expend one spell slot to deal 2d8 extra radiant damage to the target plus 1d8 for each spell level higher than 1st (max 5d8) and plus 1d8 against undead or fiends.<br>
-<strong>Channel Divinity: Abjure Enemy.</strong> As an action, you can choose one creature within 60 ft. of you that you can see to make a WIS saving throw (). Fiends and undead have disadvantage on this saving throw. On failure, the creature is frightened and its speed is reduced to 0 (and it can't benefit from bonuses to speed) for 1 minute or until it takes any damage. On success, the creature’s speed is halved for 1 minute or until the creature takes any damage.<br>
+<strong>Channel Divinity: Abjure Enemy.</strong> As an action, you can choose one creature within 60 ft. of you that you can see to make a WIS saving throw (). Fiends and undead have disadvantage on this saving throw. On failure, the creature is frightened and its speed is reduced to 0 (and it can't benefit from bonuses to speed) for 1 minute or until it takes any damage. On success, the creature’s speed is halved for 1 minute or until the creature takes any damage.</div>
+<h3 class="ddb-subsection-title">Bonus Actions</h3>
+<div class="ddb-block"><strong>Harness Divine Power.</strong> You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, which can be no higher than level . You regain all expended uses when you finish a long rest.<br>
 <strong>Channel Divinity: Vow of Enmity.</strong> You can choose a creature you can see within 10 ft. of you and gain advantage on attack rolls against it for 1 minute or until it drops to 0 HP or falls unconscious.</div>
-  </div>
+</div>
 
   <div class="ddb-columns ddb-bottom-row">
     <div class="ddb-section ddb-half">
@@ -134,7 +136,7 @@ Survival +0</div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:34 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 15:39 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>

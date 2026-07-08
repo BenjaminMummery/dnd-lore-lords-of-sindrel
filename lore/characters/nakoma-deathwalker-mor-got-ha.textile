@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457474/572fdc897647939edd9359829283e7ba.jpg
 dndbeyond_id: '157065911'
 dndbeyond_url: https://www.dndbeyond.com/characters/157065911
-dndbeyond_synced_at: '2026-07-08T13:35:00Z'
+dndbeyond_synced_at: '2026-07-08T15:39:32Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -99,16 +99,19 @@ Survival +0 *</div>
   </div>
 
   <div class="ddb-section">
-    <h2 class="ddb-section-title">Actions</h2>
-    <div class="ddb-block"><strong>The Bi-Flail - Maul Form.</strong> +7 to hit, range 5 ft., 2d6 bludgeoning<br>
+<h2 class="ddb-section-title">Combat</h2>
+<h3 class="ddb-subsection-title">Actions</h3>
+<div class="ddb-block"><strong>The Bi-Flail - Maul Form.</strong> +7 to hit, range 5 ft., 2d6 bludgeoning<br>
 <strong>The Bi-Flail - Flail Form.</strong> +7 to hit, range 5 ft., 1d8 bludgeoning<br>
 <strong>Handaxe.</strong> +7 to hit, range 20 ft., 1d6 slashing<br>
 <strong>Handaxe.</strong> +7 to hit, range 20 ft., 1d6 slashing<br>
 <strong>Javelin.</strong> +7 to hit, range 30 ft., 1d6 piercing<br>
-<strong>Stone’s Endurance.</strong> As a reaction, reduce damage dealt to you by 1d12 once per short rest.<br>
-<strong>Rage.</strong> As a bonus action enter a rage for up to 1 minute (10 rounds). You gain advantage on STR checks and saving throws (not attacks), melee damage with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can't cast or concentrate on spells while raging. Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage as a bonus action.<br>
 <strong>Arcane Recovery.</strong> Once per day when you finish a short rest, you can choose expended spell slots to recover - up to a combined level of , and none of the slots can be 6th level or higher.</div>
-  </div>
+<h3 class="ddb-subsection-title">Bonus Actions</h3>
+<div class="ddb-block"><strong>Rage.</strong> As a bonus action enter a rage for up to 1 minute (10 rounds). You gain advantage on STR checks and saving throws (not attacks), melee damage with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can't cast or concentrate on spells while raging. Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage as a bonus action.</div>
+<h3 class="ddb-subsection-title">Reactions</h3>
+<div class="ddb-block"><strong>Stone’s Endurance.</strong> As a reaction, reduce damage dealt to you by 1d12 once per short rest.</div>
+</div>
 
   <div class="ddb-columns ddb-bottom-row">
     <div class="ddb-section ddb-half">
@@ -135,7 +138,7 @@ Level 1: Cause Fear, False Life</div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:35 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 15:39 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>

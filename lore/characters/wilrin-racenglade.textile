@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2026-01-15_at_14.33.55.jpeg
 dndbeyond_id: '151085741'
 dndbeyond_url: https://www.dndbeyond.com/characters/151085741
-dndbeyond_synced_at: '2026-07-08T13:35:09Z'
+dndbeyond_synced_at: '2026-07-08T15:39:45Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -99,15 +99,17 @@ Survival +4 *</div>
   </div>
 
   <div class="ddb-section">
-    <h2 class="ddb-section-title">Actions</h2>
-    <div class="ddb-block"><strong>Dagger.</strong> +1 to hit, range 20 ft., 1d4 piercing<br>
+<h2 class="ddb-section-title">Combat</h2>
+<h3 class="ddb-subsection-title">Actions</h3>
+<div class="ddb-block"><strong>Dagger.</strong> +1 to hit, range 20 ft., 1d4 piercing<br>
 <strong>Crossbow, Light.</strong> +1 to hit, range 80 ft., 1d8 piercing<br>
 <strong>Sorcery Points.</strong> You have sorcery points that you regain when you finish a long rest.<br>
-<strong>Convert Sorcery Points.</strong> You can use your sorcery points to gain additional spell slots or sacrifice spell slots to gain additional sorcery points as a bonus action.<br>
 <strong>Metamagic - Twinned Spell.</strong> You can spend sorcery points equal to a spell's level (1 for a cantrip) to target a second creature in range with the same spell, as long as the spell at the level it's being cast is incapable of targeting more than one creature.<br>
 <strong>Tides of Chaos.</strong> Once per long rest, you can gain advantage on one attack roll, ability check, or saving throw. Before you regain use of this feature, the DM can have you roll on the Wild Magic Surge table after you cast a 1st level or higher spell. You then regain the use of this feature.<br>
 <strong>Metamagic - Quickened Spell.</strong> When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.</div>
-  </div>
+<h3 class="ddb-subsection-title">Bonus Actions</h3>
+<div class="ddb-block"><strong>Convert Sorcery Points.</strong> You can use your sorcery points to gain additional spell slots or sacrifice spell slots to gain additional sorcery points as a bonus action.</div>
+</div>
 
   <div class="ddb-columns ddb-bottom-row">
     <div class="ddb-section ddb-half">
@@ -133,7 +135,7 @@ Survival +4 *</div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:35 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 15:39 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>

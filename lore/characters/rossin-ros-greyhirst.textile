@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457462/WhatsApp_Image_2026-01-10_at_17.14.42.jpeg
 dndbeyond_id: '159196960'
 dndbeyond_url: https://www.dndbeyond.com/characters/159196960
-dndbeyond_synced_at: '2026-07-08T13:35:04Z'
+dndbeyond_synced_at: '2026-07-08T15:39:39Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -99,13 +99,14 @@ Survival +4 *</div>
   </div>
 
   <div class="ddb-section">
-    <h2 class="ddb-section-title">Actions</h2>
-    <div class="ddb-block"><strong>Handaxe.</strong> +1 to hit, range 20 ft., 1d6 slashing<br>
+<h2 class="ddb-section-title">Combat</h2>
+<h3 class="ddb-subsection-title">Actions</h3>
+<div class="ddb-block"><strong>Handaxe.</strong> +1 to hit, range 20 ft., 1d6 slashing<br>
 <strong>Quarterstaff.</strong> +1 to hit, range 5 ft., 1d6 bludgeoning<br>
 <strong>Longbow.</strong> +1 to hit, range 150 ft., 1d8 piercing<br>
 <strong>Primeval Awareness.</strong> As an action, you can expend one ranger spell slot (1 minute per level of spell slot) to sense whether any aberrations, celestials, dragons, elementals, fey, fiends, or undead are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain). This feature doesn’t reveal the creatures’ location or number.<br>
 <strong>Favored Foe.</strong> When you hit a creature with an attack roll, you can mark the target as your favored enemy for 1 minute or until you lose your concentration (as if you were concentrating on a spell). The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by .</div>
-  </div>
+</div>
 
   <div class="ddb-columns ddb-bottom-row">
     <div class="ddb-section ddb-half">
@@ -130,7 +131,7 @@ Survival +4 *</div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:35 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 15:39 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>

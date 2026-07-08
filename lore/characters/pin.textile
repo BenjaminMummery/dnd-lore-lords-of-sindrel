@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457450/WhatsApp_Image_2026-01-11_at_12.12.06.jpeg
 dndbeyond_id: '159193691'
 dndbeyond_url: https://www.dndbeyond.com/characters/159193691
-dndbeyond_synced_at: '2026-07-08T13:35:02Z'
+dndbeyond_synced_at: '2026-07-08T15:39:36Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -99,18 +99,21 @@ Survival +3 *</div>
   </div>
 
   <div class="ddb-section">
-    <h2 class="ddb-section-title">Actions</h2>
-    <div class="ddb-block"><strong>Longsword.</strong> +5 to hit, range 5 ft., 1d8 slashing<br>
+<h2 class="ddb-section-title">Combat</h2>
+<h3 class="ddb-subsection-title">Actions</h3>
+<div class="ddb-block"><strong>Longsword.</strong> +5 to hit, range 5 ft., 1d8 slashing<br>
 <strong>Handaxe.</strong> +5 to hit, range 20 ft., 1d6 slashing<br>
 <strong>Longbow.</strong> +5 to hit, range 150 ft., 1d8 piercing<br>
-<strong>Second Wind.</strong> Once per short rest, you can use a bonus action to regain 1d10 + HP.<br>
 <strong>Action Surge.</strong> You can take one additional action on your turn. This can be used times per short rest.<br>
-<strong>Superiority Dice.</strong> You learn maneuvers that are fueled by superiority dice. Maneuvers enhance an attack in some way. You have superiority dice per short rest.<br>
-<strong>Fighting Style: Protection.</strong> While wielding a shield and a creature you can see attacks a target other than you within 5 ft., you can use your reaction to impose disadvantage on the attack roll.<br>
-<strong>Maneuvers: Commander’s Strike.</strong> When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct an ally that can see or hear you to strike using its reaction, adding the superiority die to the damage roll.<br>
+<strong>Superiority Dice.</strong> You learn maneuvers that are fueled by superiority dice. Maneuvers enhance an attack in some way. You have superiority dice per short rest.</div>
+<h3 class="ddb-subsection-title">Bonus Actions</h3>
+<div class="ddb-block"><strong>Second Wind.</strong> Once per short rest, you can use a bonus action to regain 1d10 + HP.<br>
+<strong>Maneuvers: Commander’s Strike.</strong> When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct an ally that can see or hear you to strike using its reaction, adding the superiority die to the damage roll.</div>
+<h3 class="ddb-subsection-title">Reactions</h3>
+<div class="ddb-block"><strong>Fighting Style: Protection.</strong> While wielding a shield and a creature you can see attacks a target other than you within 5 ft., you can use your reaction to impose disadvantage on the attack roll.<br>
 <strong>Maneuvers: Parry.</strong> When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die .<br>
 <strong>Maneuvers: Riposte.</strong> When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against it (add the superiority die to the attack’s damage roll on hit).</div>
-  </div>
+</div>
 
   <div class="ddb-columns ddb-bottom-row">
     <div class="ddb-section ddb-half">
@@ -123,7 +126,7 @@ Survival +3 *</div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:35 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 15:39 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>

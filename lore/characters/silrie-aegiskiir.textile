@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7442634/1000025365.jpg
 dndbeyond_id: '151085721'
 dndbeyond_url: https://www.dndbeyond.com/characters/151085721
-dndbeyond_synced_at: '2026-07-08T13:35:07Z'
+dndbeyond_synced_at: '2026-07-08T15:39:42Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -29,7 +29,7 @@ dndbeyond_synced_at: '2026-07-08T13:35:07Z'
       </ul>
       <p class="ddb-links">BigBearBjorn30 · The Lords of Sindrel</p>
     </div>
-    <div class="ddb-avatar-wrap"><img src="https://www.dndbeyond.com/avatars/53629/963/1581111423-151085721.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp" alt=""></div>
+    <div class="ddb-avatar-wrap"><img src="https://www.dndbeyond.com/avatars/57653/15/1581111423-151085721.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp" alt=""></div>
   </div>
 
   <div class="ddb-section ddb-defenses">
@@ -99,22 +99,25 @@ Survival +5 *</div>
   </div>
 
   <div class="ddb-section">
-    <h2 class="ddb-section-title">Actions</h2>
-    <div class="ddb-block"><strong>Quarterstaff.</strong> +4 to hit, range 5 ft., 1d6 bludgeoning<br>
+<h2 class="ddb-section-title">Combat</h2>
+<h3 class="ddb-subsection-title">Actions</h3>
+<div class="ddb-block"><strong>Quarterstaff.</strong> +4 to hit, range 5 ft., 1d6 bludgeoning<br>
 <strong>Dart.</strong> +4 to hit, range 20 ft., 1d4 piercing<br>
-<strong>Starlight Step.</strong> You can magically teleport up to 30 ft. to an unoccupied space you can see.<br>
-<strong>Unarmed Strike.</strong> When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action.<br>
 <strong>Ki Points.</strong> You can spend Ki Points to fuel ki features. You have points per short rest and your Ki save DC is .<br>
+<strong>Arms of the Astral Self (Wis.).</strong> Whilst your Arms of the Astral Self are summoned, you can use the spectral arms to make unarmed strikes and can use your Wis. mod in place of your Str. or Dex. modifier for the attack and damage rolls.<br>
+<strong>Arms of the Astral Self.</strong> Whilst your Arms of the Astral Self are summoned, you can use the spectral arms to make unarmed strikes.<br>
+<strong>Ki-Fueled Attack.</strong> If you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.</div>
+<h3 class="ddb-subsection-title">Bonus Actions</h3>
+<div class="ddb-block"><strong>Starlight Step.</strong> You can magically teleport up to 30 ft. to an unoccupied space you can see.<br>
+<strong>Unarmed Strike.</strong> When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action.<br>
 <strong>Flurry of Blows.</strong> After you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.<br>
 <strong>Patient Defense.</strong> You can spend 1 ki point to take the Dodge action as a bonus action on your turn.<br>
 <strong>Step of the Wind.</strong> You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.<br>
-<strong>Arms of the Astral Self: Summon.</strong> As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 ft. of you must succeed on a DEX saving throw (DC:) or take force damage. For 10 minutes: - You can use WIS in place of STR when making STR checks/saving throws. - You can use the spectral arms to make unarmed strikes.<br>
-<strong>Arms of the Astral Self (Wis.).</strong> Whilst your Arms of the Astral Self are summoned, you can use the spectral arms to make unarmed strikes and can use your Wis. mod in place of your Str. or Dex. modifier for the attack and damage rolls.<br>
-<strong>Arms of the Astral Self.</strong> Whilst your Arms of the Astral Self are summoned, you can use the spectral arms to make unarmed strikes.<br>
-<strong>Deflect Missiles.</strong> You can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 . If you reduce damage to 0 and have a free hand, you can spend 1 ki point to make a ranged attack (as with a monk weapon) with a range of 20/60.<br>
-<strong>Deflect Missiles Attack.</strong> If you reduce damage to 0 and have a free hand, you can spend 1 ki point to make a ranged attack (as with a monk weapon).<br>
-<strong>Ki-Fueled Attack.</strong> If you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.</div>
-  </div>
+<strong>Arms of the Astral Self: Summon.</strong> As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 ft. of you must succeed on a DEX saving throw (DC:) or take force damage. For 10 minutes: - You can use WIS in place of STR when making STR checks/saving throws. - You can use the spectral arms to make unarmed strikes.</div>
+<h3 class="ddb-subsection-title">Reactions</h3>
+<div class="ddb-block"><strong>Deflect Missiles.</strong> You can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 . If you reduce damage to 0 and have a free hand, you can spend 1 ki point to make a ranged attack (as with a monk weapon) with a range of 20/60.<br>
+<strong>Deflect Missiles Attack.</strong> If you reduce damage to 0 and have a free hand, you can spend 1 ki point to make a ranged attack (as with a monk weapon).</div>
+</div>
 
   <div class="ddb-columns ddb-bottom-row">
     <div class="ddb-section ddb-half">
@@ -127,7 +130,7 @@ Survival +5 *</div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 13:35 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 15:39 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>
