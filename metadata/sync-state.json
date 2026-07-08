@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-07-08T13:36:22Z",
-  "last_portal_pull": "2026-07-08T12:35:10Z",
+  "last_portal_pull": "2026-07-08T15:40:01Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -603,13 +603,13 @@
       "repo_path": "lore/wiki/wiki/knuckledusters.textile"
     },
     "42cee9f0b8134dccab7714a196fd04d5": {
-      "last_synced_title": "Ayr",
+      "last_synced_title": "Ayr Ravenshield",
       "op_id": "42cee9f0b8134dccab7714a196fd04d5",
       "op_kind": "Character",
       "op_slug": "ayr",
-      "op_updated_at": "2026-07-08T13:35:26Z",
-      "repo_blob_sha": "e1b618dba1ca49b40ac6b8265a15154d819998c2",
-      "repo_hash_at_sync": "58232d09ba7e48fac959e830cac4c1bf038a6525c2f5155880dfd78cb3bb3273",
+      "op_updated_at": "2026-07-08T15:39:41Z",
+      "repo_blob_sha": "7210a9353596b8b0a416e96f9f7a051a31d956b5",
+      "repo_hash_at_sync": "de35d7e31a6945e970445915b50a5e8f710eea076f6595ef2385ec2935ba252b",
       "repo_path": "lore/characters/ayr.textile"
     },
     "46e3468d573f4714bd7ff0fb59d65696": {
@@ -1687,9 +1687,9 @@
       "op_id": "d2c9da6bc0264471b3819c1caeb8a638",
       "op_kind": "Wiki",
       "op_slug": "session-12-no-questions-some-answers",
-      "op_updated_at": "2026-07-08T12:36:38Z",
+      "op_updated_at": "2026-07-08T15:37:10Z",
       "repo_blob_sha": "1bf57dd1f1cedffec6b4c84b60c2ef8e088a9e9f",
-      "repo_hash_at_sync": "5cc13af05108cb42cdd95e0dc6cd878652691dd7453098b142bd495617aa7f6a",
+      "repo_hash_at_sync": "21baadcdd7facf45d270d7ada129715748b645be26c5a13a023073f63a68e1ea",
       "repo_path": "lore/wiki/adventure-log/session-12-no-questions-some-answers.textile"
     },
     "d4679ff89d864234a7270fd50dcb74eb": {

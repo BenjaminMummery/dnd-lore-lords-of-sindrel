@@ -3,19 +3,16 @@ op_id: 42cee9f0b8134dccab7714a196fd04d5
 op_slug: ayr
 op_kind: Character
 op_type: Character
-name: Ayr
-title: Ayr
+name: Ayr Ravenshield
+title: Ayr Ravenshield
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/ayr
 op_created_at: '2025-12-14T17:05:38Z'
-op_updated_at: '2026-07-08T12:24:15Z'
+op_updated_at: '2026-07-08T15:39:41Z'
 op_gm_only: false
 is_player_character: true
 tags:
 - he/him
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457458/WhatsApp_Image_2026-01-10_at_17.20.08.jpeg
-dndbeyond_id: '156087500'
-dndbeyond_url: https://www.dndbeyond.com/characters/156087500
-dndbeyond_synced_at: '2026-07-08T15:39:09Z'
 ---
 
 <!-- OP_DDB_SHEET -->
