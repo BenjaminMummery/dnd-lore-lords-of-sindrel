@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-07-08T15:53:04Z",
+  "last_git_publish": "2026-07-08T15:54:51Z",
   "last_portal_pull": "2026-07-08T15:53:47Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -387,9 +387,9 @@
       "op_id": "2460ccd9ff50422286d81cbfc2483262",
       "op_kind": "Character",
       "op_slug": "rossin-ros-greyhirst",
-      "op_updated_at": "2026-07-08T15:52:57Z",
-      "repo_blob_sha": "3110fa3fcec3b3c13744333253edfc58968cb6f8",
-      "repo_hash_at_sync": "2589ccf8c5bcd3becb9527d256e0ed41b6ff76b9246e7676c4db68144408471b",
+      "op_updated_at": "2026-07-08T15:54:16Z",
+      "repo_blob_sha": "95c2e101fb99be19c7a014954a7d1621b6a822f8",
+      "repo_hash_at_sync": "17f37c349d18a5fb31f4cd2f8b3202c22919ed1877eccfb0fb57f4121da4b0d9",
       "repo_path": "lore/characters/rossin-ros-greyhirst.textile"
     },
     "24a9fb6a96c34deeadf8c99ef0524f0c": {
