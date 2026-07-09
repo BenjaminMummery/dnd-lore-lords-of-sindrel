@@ -15,7 +15,172 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7442634/1000025365.jpg
 dndbeyond_id: '151085721'
 dndbeyond_url: https://www.dndbeyond.com/characters/151085721
-dndbeyond_synced_at: '2026-07-08T15:51:42Z'
+dndbeyond_synced_at: '2026-07-09T15:47:31Z'
+dynamic_sheet:
+  name: Silrie Aegiskiir
+  class_summary: Monk (Way of the Astral Self) 3
+  prof_bonus: '+2'
+  player_campaign: BigBearBjorn30 · The Lords of Sindrel
+  avatar_url: https://www.dndbeyond.com/avatars/57653/15/1581111423-151085721.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+  ac: '13'
+  hp_current: '18'
+  hp_max: '18'
+  speed: 30 ft.
+  initiative: '+4'
+  hit_dice: ''
+  str: 14 (+2)
+  dex: 18 (+4)
+  con: 15 (+2)
+  int: 14 (+2)
+  wis: 16 (+3)
+  cha: 12 (+1)
+  str_save: +4 *
+  dex_save: +6 *
+  con_save: '+2'
+  int_save: '+2'
+  wis_save: '+3'
+  cha_save: '+1'
+  skills: 'STR
+
+    Athletics +2
+
+
+    DEX
+
+    Acrobatics +6 *
+
+    Sleight Of Hand +4
+
+    Stealth +4
+
+
+    INT
+
+    Arcana +4 *
+
+    History +2
+
+    Investigation +2
+
+    Nature +2
+
+    Religion +4 *
+
+
+    WIS
+
+    Animal Handling +3
+
+    Insight +5 *
+
+    Medicine +3
+
+    Perception +5 *
+
+    Survival +5 *
+
+
+    CHA
+
+    Deception +1
+
+    Intimidation +1
+
+    Performance +1
+
+    Persuasion +1'
+  ability_blocks_json: '[{"key": "str", "label": "Strength", "score": 14, "modifier":
+    "+2", "save": {"bonus": "+4", "proficient": true}, "skills": [{"name": "Athletics",
+    "bonus": "+2", "proficient": false, "expertise": false}]}, {"key": "dex", "label":
+    "Dexterity", "score": 18, "modifier": "+4", "save": {"bonus": "+6", "proficient":
+    true}, "skills": [{"name": "Acrobatics", "bonus": "+6", "proficient": true, "expertise":
+    false}, {"name": "Sleight Of Hand", "bonus": "+4", "proficient": false, "expertise":
+    false}, {"name": "Stealth", "bonus": "+4", "proficient": false, "expertise": false}]},
+    {"key": "con", "label": "Constitution", "score": 15, "modifier": "+2", "save":
+    {"bonus": "+2", "proficient": false}, "skills": []}, {"key": "int", "label": "Intelligence",
+    "score": 14, "modifier": "+2", "save": {"bonus": "+2", "proficient": false}, "skills":
+    [{"name": "Arcana", "bonus": "+4", "proficient": true, "expertise": false}, {"name":
+    "History", "bonus": "+2", "proficient": false, "expertise": false}, {"name": "Investigation",
+    "bonus": "+2", "proficient": false, "expertise": false}, {"name": "Nature", "bonus":
+    "+2", "proficient": false, "expertise": false}, {"name": "Religion", "bonus":
+    "+4", "proficient": true, "expertise": false}]}, {"key": "wis", "label": "Wisdom",
+    "score": 16, "modifier": "+3", "save": {"bonus": "+3", "proficient": false}, "skills":
+    [{"name": "Animal Handling", "bonus": "+3", "proficient": false, "expertise":
+    false}, {"name": "Insight", "bonus": "+5", "proficient": true, "expertise": false},
+    {"name": "Medicine", "bonus": "+3", "proficient": false, "expertise": false},
+    {"name": "Perception", "bonus": "+5", "proficient": true, "expertise": false},
+    {"name": "Survival", "bonus": "+5", "proficient": true, "expertise": false}]},
+    {"key": "cha", "label": "Charisma", "score": 12, "modifier": "+1", "save": {"bonus":
+    "+1", "proficient": false}, "skills": [{"name": "Deception", "bonus": "+1", "proficient":
+    false, "expertise": false}, {"name": "Intimidation", "bonus": "+1", "proficient":
+    false, "expertise": false}, {"name": "Performance", "bonus": "+1", "proficient":
+    false, "expertise": false}, {"name": "Persuasion", "bonus": "+1", "proficient":
+    false, "expertise": false}]}]'
+  passive_perception: '15'
+  passive_investigation: '12'
+  passive_insight: '15'
+  inspiration: 'No'
+  temp_hp: '0'
+  conditions: ''
+  death_saves: ''
+  limited_use: ''
+  actions: 'Quarterstaff. +4 to hit, range 5 ft., 1d6 bludgeoning
+
+    Dart. +4 to hit, range 20 ft., 1d4 piercing
+
+    Ki Points. You can spend Ki Points to fuel ki features. You have 3 points per
+    short rest and your Ki save DC is 13.
+
+    Arms of the Astral Self (Wis.). Whilst your Arms of the Astral Self are summoned,
+    you can use the spectral arms to make unarmed strikes and can use your Wis. mod
+    in place of your Str. or Dex. modifier for the attack and damage rolls.
+
+    Arms of the Astral Self. Whilst your Arms of the Astral Self are summoned, you
+    can use the spectral arms to make unarmed strikes.
+
+    Ki-Fueled Attack. If you spend 1 ki point or more as part of your action on your
+    turn, you can make one attack with an unarmed strike or a monk weapon as a bonus
+    action before the end of the turn.'
+  bonus_actions: 'Starlight Step. You can magically teleport up to 30 ft. to an unoccupied
+    space you can see.
+
+    Unarmed Strike. When you use the Attack action with an unarmed strike or a monk
+    weapon on your turn, you can make one unarmed strike as a bonus action.
+
+    Flurry of Blows. After you take the Attack action on your turn, you can spend
+    1 ki point to make two unarmed strikes as a bonus action.
+
+    Patient Defense. You can spend 1 ki point to take the Dodge action as a bonus
+    action on your turn.
+
+    Step of the Wind. You can spend 1 ki point to take the Disengage or Dash action
+    as a bonus action on your turn, and your jump distance is doubled for the turn.
+
+    Arms of the Astral Self: Summon. As a bonus action, you can spend 1 ki point to
+    summon the arms of your astral self. When you do so, each creature of your choice
+    that you can see within 10 ft. of you must succeed on a DEX saving throw (DC:13)
+    or take force damage. For 10 minutes: - You can use WIS in place of STR when making
+    STR checks/saving throws. - You can use the spectral arms to make unarmed strikes.'
+  reactions: 'Deflect Missiles. You can use your reaction to deflect or catch the
+    missile when you are hit by a ranged weapon attack. When you do so, the damage
+    you take from the attack is reduced by 1d10 . If you reduce damage to 0 and have
+    a free hand, you can spend 1 ki point to make a ranged attack (as with a monk
+    weapon) with a range of 20/60.
+
+    Deflect Missiles Attack. If you reduce damage to 0 and have a free hand, you can
+    spend 1 ki point to make a ranged attack (as with a monk weapon).'
+  proficiencies: Simple Weapons; Disguise Kit, Shortsword
+  languages: Abyssal, Celestial, Common, Elvish
+  tools: Cartographer's Tools
+  ddb_last_sync: 2026-07-09 15:47 UTC
+  spellcasting_ability: ''
+  spell_save_dc: ''
+  spell_attack: ''
+  spell_slots: ''
+  spell_slots_json: '[]'
+  spell_slots_used_json: '{}'
+  spells_prepared: ''
+  spells_json: '[]'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -26,6 +191,7 @@ dndbeyond_synced_at: '2026-07-08T15:51:42Z'
       <p class="ddb-subtitle">Monk (Way of the Astral Self) 3</p>
       <ul class="ddb-meta">
         <li><span class="ddb-label">Proficiency</span> +2</li>
+        <li><span class="ddb-label">Inspiration</span> No</li>
       </ul>
       <p class="ddb-links">BigBearBjorn30 · The Lords of Sindrel</p>
     </div>
@@ -42,10 +208,12 @@ dndbeyond_synced_at: '2026-07-08T15:51:42Z'
         <span class="ddb-pill-sep">/</span>
         <span class="ddb-pill-value">18</span>
       </div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Temp</span><span class="ddb-pill-value">0</span></div>
       <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">30 ft.</span></div>
       <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+4</span></div>
       <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
     </div>
+    
   </div>
 
   <div class="ddb-columns">
@@ -72,24 +240,29 @@ dndbeyond_synced_at: '2026-07-08T15:51:42Z'
 
     <div class="ddb-section">
       <h2 class="ddb-section-title">Skills &amp; Senses</h2>
-      <div class="ddb-block ddb-skills">Acrobatics +6 *<br>
-Animal Handling +3<br>
-Arcana +4 *<br>
-Athletics +2<br>
-Deception +1<br>
-History +2<br>
-Insight +5 *<br>
-Intimidation +1<br>
-Investigation +2<br>
-Medicine +3<br>
-Nature +2<br>
-Perception +5 *<br>
-Performance +1<br>
-Persuasion +1<br>
-Religion +4 *<br>
-Sleight Of Hand +4<br>
-Stealth +4<br>
-Survival +5 *</div>
+      <div class="ddb-block ddb-skills"><h3 class="ddb-subsection-title">STR</h3><br>
+<div class="ddb-block ddb-skill-group">Athletics +2</div><br>
+<h3 class="ddb-subsection-title">DEX</h3><br>
+<div class="ddb-block ddb-skill-group">Acrobatics +6 *<br><br>
+Sleight Of Hand +4<br><br>
+Stealth +4</div><br>
+<h3 class="ddb-subsection-title">INT</h3><br>
+<div class="ddb-block ddb-skill-group">Arcana +4 *<br><br>
+History +2<br><br>
+Investigation +2<br><br>
+Nature +2<br><br>
+Religion +4 *</div><br>
+<h3 class="ddb-subsection-title">WIS</h3><br>
+<div class="ddb-block ddb-skill-group">Animal Handling +3<br><br>
+Insight +5 *<br><br>
+Medicine +3<br><br>
+Perception +5 *<br><br>
+Survival +5 *</div><br>
+<h3 class="ddb-subsection-title">CHA</h3><br>
+<div class="ddb-block ddb-skill-group">Deception +1<br><br>
+Intimidation +1<br><br>
+Performance +1<br><br>
+Persuasion +1</div></div>
       <div class="ddb-sense-row">
         <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">15</span></div>
         <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">12</span></div>
@@ -103,7 +276,7 @@ Survival +5 *</div>
 <h3 class="ddb-subsection-title">Actions</h3>
 <div class="ddb-block"><strong>Quarterstaff.</strong> +4 to hit, range 5 ft., 1d6 bludgeoning<br>
 <strong>Dart.</strong> +4 to hit, range 20 ft., 1d4 piercing<br>
-<strong>Ki Points.</strong> You can spend Ki Points to fuel ki features. You have points per short rest and your Ki save DC is .<br>
+<strong>Ki Points.</strong> You can spend Ki Points to fuel ki features. You have 3 points per short rest and your Ki save DC is 13.<br>
 <strong>Arms of the Astral Self (Wis.).</strong> Whilst your Arms of the Astral Self are summoned, you can use the spectral arms to make unarmed strikes and can use your Wis. mod in place of your Str. or Dex. modifier for the attack and damage rolls.<br>
 <strong>Arms of the Astral Self.</strong> Whilst your Arms of the Astral Self are summoned, you can use the spectral arms to make unarmed strikes.<br>
 <strong>Ki-Fueled Attack.</strong> If you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.</div>
@@ -113,11 +286,13 @@ Survival +5 *</div>
 <strong>Flurry of Blows.</strong> After you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.<br>
 <strong>Patient Defense.</strong> You can spend 1 ki point to take the Dodge action as a bonus action on your turn.<br>
 <strong>Step of the Wind.</strong> You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.<br>
-<strong>Arms of the Astral Self: Summon.</strong> As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 ft. of you must succeed on a DEX saving throw (DC:) or take force damage. For 10 minutes: - You can use WIS in place of STR when making STR checks/saving throws. - You can use the spectral arms to make unarmed strikes.</div>
+<strong>Arms of the Astral Self: Summon.</strong> As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 ft. of you must succeed on a DEX saving throw (DC:13) or take force damage. For 10 minutes: - You can use WIS in place of STR when making STR checks/saving throws. - You can use the spectral arms to make unarmed strikes.</div>
 <h3 class="ddb-subsection-title">Reactions</h3>
 <div class="ddb-block"><strong>Deflect Missiles.</strong> You can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 . If you reduce damage to 0 and have a free hand, you can spend 1 ki point to make a ranged attack (as with a monk weapon) with a range of 20/60.<br>
 <strong>Deflect Missiles Attack.</strong> If you reduce damage to 0 and have a free hand, you can spend 1 ki point to make a ranged attack (as with a monk weapon).</div>
 </div>
+
+  
 
   <div class="ddb-columns ddb-bottom-row">
     <div class="ddb-section ddb-half">
@@ -130,7 +305,7 @@ Survival +5 *</div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 15:51 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-09 15:47 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>
@@ -161,12 +336,12 @@ Lawful Neutral.
 <strong>Darkvision.</strong> You can see in dim light within 60 ft. of you as if it were bright light, and in darkness as if it were dim light, only discerning colors in that darkness as shades of gray.<br>
 <strong>Fey Ancestry.</strong> You have advantage on saving throws you make to avoid or end the charmed condition on yourself.<br>
 <strong>Keen Senses.</strong> You have proficiency in the Perception skill.<br>
-<strong>Starlight Step.</strong> As a bonus action, you can magically teleport up to 30 ft. to an unoccupied space you can see. You can use this feature times per long rest.<br>
+<strong>Starlight Step.</strong> As a bonus action, you can magically teleport up to 30 ft. to an unoccupied space you can see. You can use this feature 2 times per long rest.<br>
 <strong>Astral Trance.</strong> You don’t need to sleep, and magic can’t put you to sleep. You can finish a long rest in 4 hours if those hours are spent in a trancelike meditation in which you remain conscious. When you finish this trance you gain proficiency in a skill of your choice and one weapon or tool of your choice from the Player’s Handbook . This lasts until you finish your next long rest.<br>
-<strong>Arms of the Astral Self.</strong> As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 ft. of you must succeed on a Dex. saving throw ( DC ) or take force damage. For 10 mins: - You can use your Wis. mod in place of your Str. mod when making Str. checks/saving throws. - You can use the spectral arms to make unarmed strikes. - When you make an unarmed strike with the arms on your turn, your reach for it is 5 ft. greater than normal. - The unarmed strikes you make with the arms can use your Wis. mod in place of your Str. or Dex. mod for the attack and damage rolls, and their damage type is force.<br>
+<strong>Arms of the Astral Self.</strong> As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 ft. of you must succeed on a Dex. saving throw ( DC 13 ) or take force damage. For 10 mins: - You can use your Wis. mod in place of your Str. mod when making Str. checks/saving throws. - You can use the spectral arms to make unarmed strikes. - When you make an unarmed strike with the arms on your turn, your reach for it is 5 ft. greater than normal. - The unarmed strikes you make with the arms can use your Wis. mod in place of your Str. or Dex. mod for the attack and damage rolls, and their damage type is force.<br>
 <strong>Unarmored Defense.</strong> While not wearing armor and not using a shield, your AC equals 10 + DEX modifier + WIS modifier.<br>
 <strong>Martial Arts.</strong> While you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield, you can use DEX instead of STR for the attack and damage rolls, you can roll your Martial Arts damage die in place of the normal damage, and when you use the Attack action on your turn, you can make one unarmed strike as a bonus action.<br>
-<strong>Ki.</strong> You can spend Ki Points to fuel ki features. You have points per short rest and your Ki save DC is . Flurry of Blows - After you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action. Patient Defense - You can spend 1 ki point to take the Dodge action as a bonus action on your turn. Step of the Wind - You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.<br>
+<strong>Ki.</strong> You can spend Ki Points to fuel ki features. You have 3 points per short rest and your Ki save DC is 13. Flurry of Blows - After you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action. Patient Defense - You can spend 1 ki point to take the Dodge action as a bonus action on your turn. Step of the Wind - You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.<br>
 <strong>Unarmored Movement.</strong> Your speed increases by 10 feet while you are not wearing armor or wielding a shield.<br>
 <strong>Monastic Tradition.</strong> When you reach 3rd level, you commit yourself to a monastic tradition: the Way of the Open Hand, detailed at the end of the class description or one from another source. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.<br>
 <strong>Deflect Missiles.</strong> You can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 . If you reduce damage to 0 and have a free hand, you can spend 1 ki point to make a ranged attack (as with a monk weapon) with range 20/60.<br>
