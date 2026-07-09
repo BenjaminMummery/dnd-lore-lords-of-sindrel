@@ -183,6 +183,46 @@ blockquote strong {
   color: #3b0709;
 }
 
+/* In-world document blockquotes:
+   Textile: bq(in-world-document).. document text
+   End the block with a new p. paragraph marker. */
+blockquote.in-world-document {
+  background: #ead7a8 url("https://img.magnific.com/free-photo/wooden-floor-background_53876-88628.jpg") center / cover no-repeat !important;
+  border-left: 0 !important;
+  border-right: 0 !important;
+  border-top: 4px solid #3b0709 !important;
+  border-bottom: 4px solid #3b0709 !important;
+  box-shadow: none !important;
+  padding: 16px 20px !important;
+  margin: 22px 0 !important;
+  color: #2f2418 !important;
+  font-family: "Segoe Print", "Marker Felt", "Bradley Hand", "Comic Sans MS", cursive !important;
+  font-style: normal !important;
+  font-size: 1.05rem;
+  line-height: 1.55;
+}
+
+blockquote.in-world-document p,
+blockquote.in-world-document a,
+blockquote.in-world-document strong,
+blockquote.in-world-document em {
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  color: #2f2418 !important;
+  font-family: "Segoe Print", "Marker Felt", "Bradley Hand", "Comic Sans MS", cursive !important;
+  font-style: normal !important;
+}
+
+blockquote.in-world-document p {
+  padding: 0 !important;
+}
+
+blockquote.in-world-document a {
+  color: #4b0c0f !important;
+  text-decoration: underline !important;
+}
+
 hr {
   border: 0;
   border-top: 4px double #4b0c0f;
@@ -989,9 +1029,14 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
   box-shadow: 0 6px 14px #000000;
 }
 
-/* --- D&D Beyond injected character sheets (.ddb-sheet in OP Description) --- */
+/* --- Sindrel Beyond DST (synced from obsidianportal-git-sync/metadata/dst/sindrel-beyond/css.css) --- */
 
-.ddb-sheet {
+/* Sindrel Beyond DST - matches metadata/dst/sindrel-beyond/css.css */
+
+/* D&D Beyond-style character sheet HTML (paste into Obsidian Portal campaign Custom CSS) */
+
+.ds_sindrel_beyond .ddb-sheet,
+.ds_sinbdrel_beyond .ddb-sheet {
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.45;
@@ -1000,7 +1045,8 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
   margin: 0 auto;
 }
 
-.ddb-sheet .ddb-header {
+.ds_sindrel_beyond .ddb-sheet .ddb-header,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-header {
   display: flex;
   gap: 1rem;
   margin-bottom: 1rem;
@@ -1014,12 +1060,14 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
   border-radius: 0;
 }
 
-.ddb-sheet .ddb-header-main {
+.ds_sindrel_beyond .ddb-sheet .ddb-header-main,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-header-main {
   flex: 1 1 auto;
   min-width: 0;
 }
 
-.ddb-sheet .ddb-name {
+.ds_sindrel_beyond .ddb-sheet .ddb-name,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-name {
   margin: 0 0 0.15rem;
   font-size: 1.65rem;
   font-weight: 700;
@@ -1027,13 +1075,15 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
   color: #211b18;
 }
 
-.ddb-sheet .ddb-subtitle {
+.ds_sindrel_beyond .ddb-sheet .ddb-subtitle,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-subtitle {
   margin: 0 0 0.65rem;
   font-size: 1.05rem;
   color: #342a24;
 }
 
-.ddb-sheet .ddb-meta {
+.ds_sindrel_beyond .ddb-sheet .ddb-meta,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-meta {
   list-style: none;
   margin: 0;
   padding: 0;
@@ -1042,11 +1092,13 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
   gap: 0.35rem 1rem;
 }
 
-.ddb-sheet .ddb-meta li {
+.ds_sindrel_beyond .ddb-sheet .ddb-meta li,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-meta li {
   margin: 0;
 }
 
-.ddb-sheet .ddb-label {
+.ds_sindrel_beyond .ddb-sheet .ddb-label,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-label {
   font-size: 0.72rem;
   font-weight: 700;
   letter-spacing: 0.04em;
@@ -1055,21 +1107,25 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
   margin-right: 0.25rem;
 }
 
-.ddb-sheet .ddb-header .ddb-label {
+.ds_sindrel_beyond .ddb-sheet .ddb-header .ddb-label,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-header .ddb-label {
   color: #64748b;
 }
 
-.ddb-sheet .ddb-links {
+.ds_sindrel_beyond .ddb-sheet .ddb-links,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-links {
   margin: 0.75rem 0 0;
   font-size: 0.85rem;
   color: #342a24;
 }
 
-.ddb-sheet .ddb-avatar-wrap {
+.ds_sindrel_beyond .ddb-sheet .ddb-avatar-wrap,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-avatar-wrap {
   flex: 0 0 120px;
 }
 
-.ddb-sheet .ddb-avatar-wrap img {
+.ds_sindrel_beyond .ddb-sheet .ddb-avatar-wrap img,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-avatar-wrap img {
   display: block;
   width: 120px;
   height: 120px;
@@ -1077,7 +1133,8 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
   border-radius: 8px;
 }
 
-.ddb-sheet .ddb-section {
+.ds_sindrel_beyond .ddb-sheet .ddb-section,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-section {
   margin-bottom: 0.85rem;
   padding: 0.85rem 1rem;
   background-color: #deded8;
@@ -1090,7 +1147,8 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
   box-shadow: none;
 }
 
-.ddb-sheet .ddb-section-title {
+.ds_sindrel_beyond .ddb-sheet .ddb-section-title,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-section-title {
   margin: 0 0 0.65rem;
   font-size: 0.78rem;
   font-weight: 700;
@@ -1101,7 +1159,8 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
   padding-bottom: 0.35rem;
 }
 
-.ddb-sheet .ddb-subsection-title {
+.ds_sindrel_beyond .ddb-sheet .ddb-subsection-title,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-subsection-title {
   margin: 0.75rem 0 0.35rem;
   font-size: 0.75rem;
   font-weight: 700;
@@ -1109,13 +1168,15 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
   color: #64748b;
 }
 
-.ddb-sheet .ddb-pill-grid {
+.ds_sindrel_beyond .ddb-sheet .ddb-pill-grid,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-pill-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(88px, 1fr));
   gap: 0.5rem;
 }
 
-.ddb-sheet .ddb-pill {
+.ds_sindrel_beyond .ddb-sheet .ddb-pill,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-pill {
   padding: 0.45rem 0.55rem;
   background-color: #deded8;
   border: 1px solid #6d6862;
@@ -1123,11 +1184,13 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
   text-align: center;
 }
 
-.ddb-sheet .ddb-pill-wide {
+.ds_sindrel_beyond .ddb-sheet .ddb-pill-wide,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-pill-wide {
   grid-column: span 2;
 }
 
-.ddb-sheet .ddb-pill-label {
+.ds_sindrel_beyond .ddb-sheet .ddb-pill-label,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-pill-label {
   display: block;
   font-size: 0.68rem;
   font-weight: 700;
@@ -1136,110 +1199,264 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
   margin-bottom: 0.15rem;
 }
 
-.ddb-sheet .ddb-pill-value {
+.ds_sindrel_beyond .ddb-sheet .ddb-pill-value,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-pill-value {
   font-size: 1.15rem;
   font-weight: 700;
   color: #211b18;
 }
 
-.ddb-sheet .ddb-pill-sep {
+.ds_sindrel_beyond .ddb-sheet .ddb-pill-sep,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-pill-sep {
   margin: 0 0.15rem;
   font-weight: 700;
   color: #64748b;
 }
 
-.ddb-sheet .ddb-columns {
+.ds_sindrel_beyond .ddb-sheet .ddb-columns,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-columns {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0.85rem;
 }
 
-.ddb-sheet .ddb-bottom-row > .ddb-section:only-child {
+.ds_sindrel_beyond .ddb-sheet .ddb-bottom-row .ddb-section:only-child,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-bottom-row .ddb-section:only-child {
   grid-column: span 1;
 }
 
-.ddb-sheet .ddb-block.ddb-skills {
-  column-count: 2;
-  column-gap: 1.25rem;
+.ds_sindrel_beyond .ddb-sheet .ddb-abilities-row,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-abilities-row {
+  grid-template-columns: 1fr 1fr;
+  align-items: start;
 }
 
-.ddb-sheet .ddb-sheet-gm {
-  margin-bottom: 1rem;
+.ds_sindrel_beyond .ddb-sheet .ddb-column-left,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-column-left {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
 }
 
-@media (max-width: 720px) {
-  .ddb-sheet .ddb-columns {
-    grid-template-columns: 1fr;
-  }
-
-  .ddb-sheet .ddb-block.ddb-skills {
-    column-count: 1;
-  }
-
-  .ddb-sheet .ddb-header {
-    flex-direction: column-reverse;
-  }
-
-  .ddb-sheet .ddb-avatar-wrap {
-    align-self: flex-start;
-  }
+.ds_sindrel_beyond .ddb-sheet .ddb-abilities-skills,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-abilities-skills {
+  min-width: 0;
 }
 
-.ddb-sheet .ddb-ability-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 0.45rem;
+.ds_sindrel_beyond .ddb-sheet .ddb-column-left .ddb-combat,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-column-left .ddb-combat {
+  margin-bottom: 0;
 }
 
-.ddb-sheet .ddb-ability {
-  padding: 0.45rem;
-  text-align: center;
-  background-color: #deded8;
-  border: 1px solid #6d6862;
-  border-radius: 0;
+.ds_sindrel_beyond .ddb-sheet .ddb-column-left .ddb-combat .ddb-block,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-column-left .ddb-combat .ddb-block {
+  font-size: 0.82rem;
 }
 
-.ddb-sheet .ddb-ability-label {
-  display: block;
-  font-size: 0.72rem;
-  font-weight: 700;
-  color: #64748b;
+.ds_sindrel_beyond .ddb-sheet .ddb-ability-blocks-json,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-ability-blocks-json {
+  display: none !important;
 }
 
-.ddb-sheet .ddb-ability-value {
-  display: block;
-  margin-top: 0.15rem;
-  font-weight: 700;
-  color: #211b18;
+.ds_sindrel_beyond .ddb-sheet .ddb-ability-blocks,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-ability-blocks {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
 }
 
-.ddb-sheet .ddb-block {
+.ds_sindrel_beyond .ddb-sheet .ddb-ability-block,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-ability-block {
   padding: 0.55rem 0.65rem;
   background-color: #deded8;
   border: 1px solid #6d6862;
   border-radius: 0;
 }
 
-.ddb-sheet .ddb-block strong {
-  color: #3b0709;
+.ds_sindrel_beyond .ddb-sheet .ddb-ability-header,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-ability-header {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  margin-bottom: 0.45rem;
 }
 
-.ddb-sheet .ddb-sense-row {
+.ds_sindrel_beyond .ddb-sheet .ddb-score-box,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-score-box {
+  flex: 0 0 auto;
+  width: 3rem;
+  padding: 0.3rem 0.35rem;
+  text-align: center;
+  background-color: #f4f1ea;
+  border: 2px solid #6d6862;
+  border-radius: 4px;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-score-mod,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-score-mod {
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #211b18;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-score-value,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-score-value {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: #64748b;
+  line-height: 1.2;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-ability-block .ddb-ability-label,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-ability-block .ddb-ability-label {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #3b0709;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-check-list,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-check-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-check-row,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-check-row {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-height: 1.35rem;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-prof-mark,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-prof-mark {
+  flex: 0 0 0.65rem;
+  width: 0.65rem;
+  height: 0.65rem;
+  border-radius: 50%;
+  border: 2px solid #6d6862;
+  box-sizing: border-box;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-prof-mark-filled,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-prof-mark-filled {
+  background-color: #3b0709;
+  border-color: #3b0709;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-prof-mark-hollow,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-prof-mark-hollow {
+  background-color: transparent;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-prof-mark-expertise,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-prof-mark-expertise {
+  background-color: #3b0709;
+  border-color: #3b0709;
+  box-shadow: inset 0 0 0 2px #deded8;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-check-name,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-check-name {
+  flex: 1 1 auto;
+  min-width: 0;
+  font-size: 0.82rem;
+  color: #211b18;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-check-bonus,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-check-bonus {
+  flex: 0 0 auto;
+  font-weight: 700;
+  font-size: 0.82rem;
+  color: #211b18;
+  margin-left: auto;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-sense-tile,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-sense-tile {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 0.5rem;
-  margin-top: 0.65rem;
 }
 
-.ddb-sheet .ddb-sense-row div {
-  padding: 0.45rem;
+.ds_sindrel_beyond .ddb-sheet .ddb-sense-item,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-sense-item {
+  padding: 0.55rem 0.65rem;
   background-color: #deded8;
   border: 1px solid #6d6862;
   border-radius: 0;
   text-align: center;
 }
 
-.ddb-sheet .ddb-sense-label {
+.ds_sindrel_beyond .ddb-sheet .ddb-status-row,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-status-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.65rem;
+  margin-top: 0.65rem;
+}
+
+@media (max-width: 720px) {
+  .ds_sindrel_beyond .ddb-sheet .ddb-status-row,
+  .ds_sinbdrel_beyond .ddb-sheet .ddb-status-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-sheet-gm,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-sheet-gm {
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 720px) {
+  .ds_sindrel_beyond .ddb-sheet .ddb-columns,
+  .ds_sinbdrel_beyond .ddb-sheet .ddb-columns {
+    grid-template-columns: 1fr;
+  }
+
+  .ds_sindrel_beyond .ddb-sheet .ddb-status-row,
+  .ds_sinbdrel_beyond .ddb-sheet .ddb-status-row {
+    grid-template-columns: 1fr;
+  }
+
+  .ds_sindrel_beyond .ddb-sheet .ddb-sense-tile,
+  .ds_sinbdrel_beyond .ddb-sheet .ddb-sense-tile {
+    grid-template-columns: 1fr;
+  }
+
+  .ds_sindrel_beyond .ddb-sheet .ddb-header,
+  .ds_sinbdrel_beyond .ddb-sheet .ddb-header {
+    flex-direction: column-reverse;
+  }
+
+  .ds_sindrel_beyond .ddb-sheet .ddb-avatar-wrap,
+  .ds_sinbdrel_beyond .ddb-sheet .ddb-avatar-wrap {
+    align-self: flex-start;
+  }
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-block,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-block {
+  padding: 0.55rem 0.65rem;
+  background-color: #deded8;
+  border: 1px solid #6d6862;
+  border-radius: 0;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-block strong,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-block strong {
+  color: #3b0709;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-sense-label,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-sense-label {
   display: block;
   font-size: 0.65rem;
   font-weight: 700;
@@ -1248,37 +1465,337 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
   margin-bottom: 0.15rem;
 }
 
-.ddb-sheet .ddb-sense-value {
+.ds_sindrel_beyond .ddb-sheet .ddb-sense-value,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-sense-value {
   font-weight: 700;
   color: #211b18;
 }
 
-.ddb-sheet .ddb-kv {
+.ds_sindrel_beyond .ddb-sheet .ddb-kv,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-kv {
   margin-bottom: 0.55rem;
 }
 
-.ddb-sheet .ddb-kv:last-child {
+.ds_sindrel_beyond .ddb-sheet .ddb-kv:last-child,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-kv:last-child {
   margin-bottom: 0;
 }
 
-.ddb-sheet .ddb-spell-header {
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-header,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-header {
   display: flex;
   flex-wrap: wrap;
   gap: 0.75rem 1.25rem;
   margin-bottom: 0.35rem;
 }
 
-.ddb-sheet .ddb-footer {
+.ds_sindrel_beyond .ddb-sheet .ddb-spells-json,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spells-json,
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-slots-json,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-slots-json,
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-slots-used-json,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-slots-used-json,
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-slots-legacy,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-slots-legacy {
+  display: none !important;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-slots,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-slots {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  margin-bottom: 0.65rem;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-slot-row,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-slot-row {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-slot-label,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-slot-label {
+  flex: 0 0 2.5rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #64748b;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-slot-marks,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-slot-marks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-slot-mark,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-slot-mark {
+  width: 0.85rem;
+  height: 0.85rem;
+  border-radius: 50%;
+  border: 2px solid #6d6862;
+  box-sizing: border-box;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-slot-mark-used,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-slot-mark-used {
+  background-color: #3b0709;
+  border-color: #3b0709;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-slot-mark-open,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-slot-mark-open {
+  background-color: transparent;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-slot-mark-editable,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-slot-mark-editable {
+  cursor: pointer;
+}
+
+.ds_sindrel_beyond.editable .ddb-sheet .ddb-slot-mark-editable:hover,
+.ds_sinbdrel_beyond.editable .ddb-sheet .ddb-slot-mark-editable:hover {
+  border-color: #3b0709;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-meta,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-meta {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.35rem 0.75rem;
+  padding: 0.5rem 0.65rem;
+  border-top: 1px solid #d6d0c6;
+  background: #ece8df;
+  font-size: 0.78rem;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-meta-row,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-meta-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  min-width: 0;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-meta-label,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-meta-label {
+  font-size: 0.62rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #64748b;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-meta-value,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-meta-value {
+  color: #211b18;
+  font-weight: 600;
+}
+
+@media (max-width: 720px) {
+  .ds_sindrel_beyond .ddb-sheet .ddb-spell-meta,
+  .ds_sinbdrel_beyond .ddb-sheet .ddb-spell-meta {
+    grid-template-columns: 1fr;
+  }
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-level-title,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-level-title {
+  margin: 0.65rem 0 0.35rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #64748b;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-level-title:first-child,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-level-title:first-child {
+  margin-top: 0;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-cards,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-card,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-card {
+  border: 1px solid #6d6862;
+  border-radius: 6px;
+  background: #f4f1ea;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-summary,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-summary {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.45rem 0.55rem;
+  cursor: pointer;
+  list-style: none;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-summary::-webkit-details-marker,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-summary::-webkit-details-marker {
+  display: none;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-summary::before,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-summary::before {
+  color: #64748b;
+  font-size: 0.75rem;
+  flex-shrink: 0;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-card[open] .ddb-spell-summary::before,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-card[open] .ddb-spell-summary::before {
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-name,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-name {
+  font-weight: 600;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-tags,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  margin-left: auto;
+  flex: 0 1 auto;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-tag,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  padding: 0.1rem 0.4rem;
+  border-radius: 999px;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  line-height: 1.2;
+  border: 1px solid transparent;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-tag-concentration,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-tag-concentration {
+  color: #7c2d12;
+  background: #ffedd5;
+  border-color: #fdba74;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-tag-ritual,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-tag-ritual {
+  color: #1e3a8a;
+  background: #dbeafe;
+  border-color: #93c5fd;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-tag-level,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-tag-level {
+  color: #334155;
+  background: #e2e8f0;
+  border-color: #cbd5e1;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-tag-school,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-tag-school {
+  padding: 0.1rem 0.25rem;
+  background: #ece8df;
+  border-color: #6d6862;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-school-icon,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-school-icon {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+  display: block;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-spell-body,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-spell-body {
+  padding: 0.45rem 0.65rem 0.6rem;
+  border-top: 1px solid #d6d0c6;
+  font-size: 0.82rem;
+  color: #334155;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-footer,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-footer {
   margin-top: 0.5rem;
   padding: 0.65rem 0.2rem;
   font-size: 0.78rem;
   color: #64748b;
 }
 
-.ddb-sheet .ddb-footer p {
+.ds_sindrel_beyond .ddb-sheet .ddb-footer p,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-footer p {
   margin: 0.2rem 0;
 }
 
-.ddb-sheet .ddb-disclaimer {
+.ds_sindrel_beyond .ddb-sheet .ddb-disclaimer,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-disclaimer {
   font-style: italic;
+}
+
+.ds_sindrel_beyond .character-content h2:first-child,
+.ds_sinbdrel_beyond .character-content h2:first-child {
+  display: none;
+}
+/* DST field chrome (edit mode + multiline values) */
+.ds_sindrel_beyond .ddb-sheet .dsf,
+.ds_sinbdrel_beyond .ddb-sheet .dsf {
+  display: inline-block;
+  min-width: 1.5em;
+  min-height: 1.2em;
+  vertical-align: bottom;
+}
+
+.ds_sindrel_beyond .ddb-sheet .dsf.ddb-pre,
+.ds_sinbdrel_beyond .ddb-sheet .dsf.ddb-pre,
+.ds_sindrel_beyond .ddb-sheet .dsf.ddb-kv-value,
+.ds_sinbdrel_beyond .ddb-sheet .dsf.ddb-kv-value {
+  display: block;
+  width: 100%;
+  white-space: pre-wrap;
+}
+
+.ds_sindrel_beyond .ddb-sheet .dsf.ddb-pill-value,
+.ds_sinbdrel_beyond .ddb-sheet .dsf.ddb-pill-value,
+.ds_sindrel_beyond .ddb-sheet .dsf.ddb-sense-value,
+.ds_sinbdrel_beyond .ddb-sheet .dsf.ddb-sense-value {
+  border: none;
+}
+
+.ds_sindrel_beyond .ddb-sheet .dsf.readonly,
+.ds_sinbdrel_beyond .ddb-sheet .dsf.readonly {
+  border: none;
+}
+
+.ds_sindrel_beyond .ddb-sheet .ddb-avatar-url img,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-avatar-url img {
+  display: block;
+  width: 120px;
+  height: 120px;
+  border: 2px solid #6d6862;
+  border-radius: 8px;
+}
+
+.ds_sindrel_beyond.editable .dsf:not(.readonly),
+.ds_sinbdrel_beyond.editable .dsf:not(.readonly) {
+  background: #ece8df;
+  cursor: pointer;
+  border-radius: 2px;
+  border: 1px solid #6d6862;
 }
