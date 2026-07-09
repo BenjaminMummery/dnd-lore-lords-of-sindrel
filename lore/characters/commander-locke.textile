@@ -42,10 +42,6 @@ fn2. [[Session 8: The Dark Shrine | Session 8: The Dark Shrine]]
 fn3. [[Session 9: Downtime 2 | Session 9: Downtime 2]]
 
 <!-- GM_INFO_START -->
-h2. Session 12
-
-* Present at Silas's summons; embarrassed by the catacomb breach; may blame the Wonch to protect Oestra face. **Does not know** Kosmios details unless Silas slips in front of him — then Locke is as blindsided as the party.
-* Unlikely to draw steel unless Silas orders it or the Wonch assault Factor staff.
 
 h2. Stat block
 

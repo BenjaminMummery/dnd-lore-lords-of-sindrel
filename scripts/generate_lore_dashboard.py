@@ -230,20 +230,30 @@ for _g in FACTION_MENTION_GROUPS:
     if _g["id"] in HOUSE_FACTION_IDS:
         FACTION_CLOCK_COLORS[f"House {_g['name']}"] = _g["color"]
 
-OPINION_SCORE = {
-    "Hostile": 1,
-    "Wary": 2,
-    "Cool": 3,
-    "Neutral": 4,
-    "Favourable": 5,
-}
+OPINION_ORDER = [
+    "Hostile",
+    "Oppositional",
+    "Wary",
+    "Cool",
+    "Neutral",
+    "Favourable",
+    "Friendly",
+    "Allied",
+    "Bonded",
+]
+
+OPINION_SCORE = {name: i + 1 for i, name in enumerate(OPINION_ORDER)}
 
 OPINION_COLORS = {
-    "Hostile": "#ff6b6b",
+    "Hostile": "#c42126",
+    "Oppositional": "#e63946",
     "Wary": "#ff9f43",
     "Cool": "#ffd93d",
     "Neutral": "#9a9288",
-    "Favourable": "#6bcb77",
+    "Favourable": "#8ecf9a",
+    "Friendly": "#6bcb77",
+    "Allied": "#3d9b5a",
+    "Bonded": "#1e6b38",
 }
 
 WEALTH_STYLES = {
@@ -564,7 +574,8 @@ def faction_chart_data(adventurers: dict) -> dict:
         "scores": [e["score"] for e in entries],
         "opinions": [e["opinion"] for e in entries],
         "colors": [e["color"] for e in entries],
-        "max": 5,
+        "max": len(OPINION_ORDER),
+        "scale": OPINION_ORDER,
     }
 
 
@@ -1136,7 +1147,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
               font: { family: "Georgia, serif", size: 9 },
               stepSize: 1,
               callback: (v) => {
-                const labels = ["", "Hostile", "Wary", "Cool", "Neutral", "Favourable"];
+                const labels = ["", ...factionData.scale];
                 return labels[v] || "";
               },
             },
@@ -1156,7 +1167,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
           tooltip: {
             callbacks: {
               label(ctx) {
-                return factionData.opinions[ctx.dataIndex] + " (" + ctx.parsed.x + "/5)";
+                return factionData.opinions[ctx.dataIndex] + " (" + ctx.parsed.x + "/" + factionData.max + ")";
               },
             },
           },

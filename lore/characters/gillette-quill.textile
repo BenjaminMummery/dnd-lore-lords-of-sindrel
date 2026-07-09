@@ -29,6 +29,9 @@ Small, wily, and a complete bastard
 * *26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** Traveled with the party from the [[Fallowhurst Outpost | Fallowhurst Outpost]] to [[Sindrel | Sindrel]].[3]
 ** Parted company with the Adventurers after their arrival in the city (afternoon).[4]
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Recognised the Wonch while serving tankards at [[The Cutthroat's Repose | The Cutthroat's Repose]] and fled toward the kitchen with devestating lack of conviction.[5]
+** Told [[:silrie-aegiskiir | Silrie]] that he and [[:raymond-quill | Ray]] had failed to secure investors for their meditation-retreat scheme and had taken odd jobs with [[The Black Cats | the Black Cats]]. Silrie's disappointment landed harder than threats would have.[5]
 
 <hr>
 fn1. [[Session 1: The White Dragon | Session 1: The White Dragon]]
@@ -38,6 +41,8 @@ fn2. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
 fn3. [[Session 3: "Graduation" | Session 3: "Graduation"]]
 
 fn4. [[Session 4: Sindrel! | Session 4: Sindrel!]]
+
+fn5. [[Session 12: No Questions, Some Answers | Session 12: No Questions, Some Answers]]
 
 <!-- GM_INFO_START -->
 The fast brother — small, wiry, and vicious. Fights beside [[:raymond-quill | Raymond]]; see *Brothers' Grift* on Raymond's stat block.

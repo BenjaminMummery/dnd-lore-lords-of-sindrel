@@ -19,7 +19,13 @@ tags:
 A broad-shouldered dwarven man in late middle age, his scalp shaved to stubble and his jaw set in a permanent line between patience and suspicion. He wears a stained leather apron over a grey linen shirt with the sleeves rolled to the elbows, dark trousers, and soft-soled boots — the practical dress of a [[The Wallarch District | Wallarch]] barkeep who expects to be elbow-deep in work and occasionally in trouble. His hands never quite stop moving: wiping a glass, counting change, resting near a club hook beneath the bar. He speaks in short, flat sentences and does not ask your business unless you have become his problem.
 
 <!-- OP_BIO -->
-Public face of [[The Cutthroat's Repose | The Cutthroat's Repose]] in [[The Wallarch District | Wallarch]]. Identity unknown to [[The Adventurers | the Wonch]] before a visit in person.
+Public face of [[The Cutthroat's Repose | The Cutthroat's Repose]] in [[The Wallarch District | Wallarch]].
+
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Served the Wonch in the Repose public room and gave [[:ayr | Ayr]] very little about [[:chuggaz | Chuggaz]] beyond ale strong enough to win the exchange on its own.[1]
+
+<hr>
+fn1. [[Session 12: No Questions, Some Answers | Session 12: No Questions, Some Answers]]
 
 <!-- GM_INFO_START -->
 h2. Prep

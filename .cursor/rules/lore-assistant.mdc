@@ -448,7 +448,8 @@ When a **new adventure log** is added or a session recap is substantially update
 - These fields feed **`notes/lore-dashboard.html`** via `scripts/generate_lore_dashboard.py` (also run by pre-commit on commit).
 
 **Faction clocks** (GM-only block):
-- Track each Great House's **opinion** of the Wonch in plain language (e.g. Hostile, Wary, Cool, Neutral, Favourable).
+- Track each Great House's **opinion** of the Wonch using **only** the nine-step scale on `the-adventurers.textile` (GM block) — no ad-hoc labels (e.g. Transactional).
+- **Opinion scale (hostile → bonded):** (1) **Hostile** — kill on sight; (2) **Oppositional** — unwelcome, not street violence; (3) **Wary** — suspicion and mistrust; (4) **Cool** — bad reputation, courtesy only; (5) **Neutral** — no formed opinion; (6) **Favourable** — some service or positive interactions; (7) **Friendly** — welcome visitor; (8) **Allied** — rely on, trust, fight alongside; (9) **Bonded** — would die for you.
 - Include **Anathemists**, **Black Cats**, and other factions with a meaningful relationship to the party - not the [[Hexine Circle | Hexine Circle]] (a council of House factors, not a faction in its own right).
 - Brief rationale per faction; cite recent session events where opinion shifted.
 - Keep the italic `_Through Session N…_` under the Faction Clocks heading in sync (GM-only mirror of campaign status).

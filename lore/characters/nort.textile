@@ -22,9 +22,10 @@ You see a tired young halfling woman with warm brown skin and a slight build, he
 <!-- OP_BIO -->
 [[House Lithra | House Lithra]] [[Adjutant | Adjutant]] on [[The Fulcrum | Fulcrum]] staff — quartered in [[Sevenways | Sevenways]] and used to walking the service routes beneath the tower.
 
+* *25th of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** Observed a lost-looking [[:arouraios | coachman]] with a neatly trimmed beard and small, fussy glasses, bringing a carriage down near the entrance service tunnels on the night of the closing ceremony. Could not name him or his dignitary; described the carriage coat of arms as something with a bird on it.
 * *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
-** Woken by [[The Adventurers | the Wonch]]; given good tea by [[:amanira | Amanira]] and interviewed over breakfast.
-** Recalled a lost-looking [[:arouraios | coachman]] with a neatly trimmed beard and small, fussy glasses, bringing a carriage down near the entrance service tunnels on the night of the closing ceremony. Could not name him or his dignitary; described the carriage coat of arms as something with a bird on it.
+** Woken by [[The Adventurers | the Wonch]]; given good tea by [[:amanira | Amanira]] and interviewed over breakfast. Shared her memory of the coachman.
 
 <hr>
 fn1. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]

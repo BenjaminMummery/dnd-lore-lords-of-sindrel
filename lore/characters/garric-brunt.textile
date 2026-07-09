@@ -19,7 +19,13 @@ tags:
 You see a broad half-orc man who fills the doorway without quite leaving it, his green-grey skin scarred at the knuckles and one tusk filed flat to keep it out of fights. He wears a sleeveless leather vest over a dark shirt, heavy boots, and a iron knuckle-duster on his left hand — no house colours, no insignia, just the look of hired muscle that has learned to stand still for long stretches. His eyes do the work the rest of him refuses to: slow, measuring passes over whoever is on the other side of the peephole. He speaks in a low rumble, usually one word at a time.
 
 <!-- OP_BIO -->
-Door muscle at [[The Cutthroat's Repose | The Cutthroat's Repose]] in [[The Wallarch District | Wallarch]]. Identity unknown to [[The Adventurers | the Wonch]] before a visit in person.
+Door muscle at guarding the back room of [[The Cutthroat's Repose | The Cutthroat's Repose]] in [[The Wallarch District | Wallarch]].
+
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Was present for the negotiation between [[The Adventurers | the Wonch]] and[[:sable-silvestre | Sable]].[1]
+
+<hr>
+fn1. [[Session 12: No Questions, Some Answers | Session 12: No Questions, Some Answers]]
 
 <!-- GM_INFO_START -->
 h2. Prep

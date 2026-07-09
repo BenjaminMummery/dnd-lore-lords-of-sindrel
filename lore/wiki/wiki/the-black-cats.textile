@@ -27,6 +27,7 @@ h2. Interactions with the Wonch
 
 * Deathwalker gambled with Emerich and a few others at [[The Cutthroat's Repose | The Cutthroat's Repose]], flashing a large amount of cash and winning information about the quarantine zone.[2]
 * On their entrance to Wallarch, the wonch noticed Emerich watching them and gave chase.[3]
+* While pursuing [[:chuggaz | Chuggaz]], the Wonch met [[:sable-silvestre | Sable Silvestre]] in the back room of [[The Cutthroat's Repose | The Cutthroat's Repose]] and traded a [[The Fallowhurst Sigil | Fallowhurst sigil]] demonstration for promised information.[4]
 
 <hr>
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
@@ -34,6 +35,8 @@ fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins
 fn2. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
 
 fn3. [[Session 6: Wallarch | Session 6: Wallarch]] — Wallarch chase; Emerich assaulted.
+
+fn4. [[Session 12: No Questions, Some Answers | Session 12: No Questions, Some Answers]]
 
 <!-- GM_INFO_START -->
 h2. Relation to City Cats (felines)
@@ -53,7 +56,7 @@ Bottom to top: **Scratches → Latches → Tallies → Vault**. Intelligence and
 
 **[[:chuggaz | Chuggaz]]** — true **Latch**, not a red herring. Embedded [[House Grimbolg | Grimbolg]] [[Adjutant | adjutant]] at [[The Fulcrum | the Fulcrum]]; passes shift rosters, servant-route gossip, and ceremony-night staffing **up to his Tally** (and Vault). He does not fence or ledger himself.
 
-**Cutthroat's Repose contact** — [[:sable-silvestre | Sable Silvestre]], **Tally** relay for **Vault**; holds ledger extracts and adjutant kompromat; never commits on premises.
+**Cutthroat's Repose contact** — [[:sable-silvestre | Sable Silvestre]], **Tally** relay for **Vault**; holds ledger extracts and adjutant kompromat; never commits on premises. After Session 12, she also holds the slashed parchment demonstration of the [[The Fallowhurst Sigil | Fallowhurst sigil]].
 
 h2. Encounter building
 

@@ -46,7 +46,7 @@ _"You are no threat. What could you possibly do to us?"_
 
 h3. Functional Details
 
-A series of tunnels run below the fulcrum providing access to storage, kitchens, servants doors, and the magical machinery that feeds water to the wellspring. Hidden / low-visibility service entrances are concealed among the buildings near the Fulcrim's base. Following the bombing, these are descritely guarded by officers of [[House Meness | House Meness]].
+A series of tunnels run below the Fulcrum providing access to storage, kitchens, servants doors, and the magical machinery that feeds water to the wellspring. Hidden / low-visibility service entrances are concealed among the buildings near the Fulcrum's base. Following the bombing, these are discreetly guarded by officers of [[House Meness | House Meness]].
 
 The northwest foundation pillar was cracked by the bombing and later repaired by shaped stone.
 
@@ -57,6 +57,10 @@ h3. Service livery
 Staff who work the public halls, kitchens, and service tunnels beneath the tower wear **Fulcrum service livery** — distinct from any single Great House uniform. The dress is deliberately plain next to the marble above: a pale marble-grey tunic and matching apron, practical black trousers, and soft-soled shoes for polished floors and damp tunnels. The only prominent mark is the **eight-pointed star** embroidered at the collar (sometimes repeated at the cuff), small enough to read as administration rather than heraldry.
 
 House patronage still shows in the wearer — gold bracelets on [[Adjutant | Adjutants]], subtle house colours at the belt or undershirt — but at a glance the livery identifies someone as **Fulcrum staff**, not a Factor's household retainer. Night-shift and tunnel crews often roll sleeves, add wool wraps for the cold below, or stain aprons with kitchen and maintenance work; ceremony nights extend shifts and crowd routes, which is when unfamiliar faces in correct livery draw the least notice.
+
+h3. The Roster Desk
+
+bq). The Roster Desk is an almost comically misplaced affair: a sturdy desk, an overstuffed filing cabinet, and a corkboard bristling with notes, all wedged beneath the arches where the service tunnels split and wander off into the dark. It has all the dignity of an office accidentally dropped down a staircase. A glowing orb hovers above the desk providing a dull illumination - these are a common sight in the halls of Sindrel, although this one appears to be on its last legs, occasionally dimming or shifting colour. The Fulcrum above reportedly has offices for taxes, permits, trade agreements, civil disputes, and all the grand mechanisms of civic life. Down here, where work has the discourtesy to happen, the servants have provided the only thing the tunnels were missing: somewhere to keep track of one another and avoid a hundred cooks, porters, maids, valets, cleaners, and messengers all trying to occupy the same corridor at the same time.
 
 <!-- GM_INFO_START -->
 h2. [[Ditchquer | Ditchquer]] Diversion

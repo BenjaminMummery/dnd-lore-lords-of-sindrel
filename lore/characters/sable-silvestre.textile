@@ -16,13 +16,18 @@ tags:
 ---
 
 <!-- OP_DESCRIPTION -->
-You see a sharp-featured human woman in her thirties, dark hair cropped close and her face kept carefully plain — the sort of plain that takes effort. She wears Wallarch neutrals: brown coat, grey scarf, no house colourss. A ledger book and a waxed cloth wrap sit within easy reach on the table beside her, the former flipped closed the instant you enter; her hands are ink-stained at the thumb and forefinger. She presents as tired, competent, and already calculating the price of whatever you are about to ask. Her voice is quiet and precise; she smiles only when it costs you something.
+You see a sharp-featured human woman in her thirties, dark hair cropped close and her face kept carefully plain — the sort of plain that takes effort. She wears Wallarch neutrals: brown coat, grey scarf, no house colours. A ledger book and a waxed cloth wrap sit within easy reach on the table beside her, the former flipped closed the instant you enter; her hands are ink-stained at the thumb and forefinger. She presents as tired, competent, and already calculating the price of whatever you are about to ask. Her voice is quiet and precise; she smiles only when it costs you something.
 
 <!-- OP_BIO -->
-[[The Black Cats | Black Cats]] contact at [[The Cutthroat's Repose | The Cutthroat's Repose]] — named only through [[:emerich-surefoot | Emerich Surefoot]]'s lead (back room; password *Swordfish*). [[The Adventurers | The Wonch]] have not met this contact in person.[1]
+[[The Black Cats | Black Cats]] contact at [[The Cutthroat's Repose | The Cutthroat's Repose]] — named through [[:emerich-surefoot | Emerich Surefoot]]'s lead (back room; password *Swordfish*).[1]
+
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Met [[The Adventurers | the Wonch]] in the Repose back room while negotiating over [[:chuggaz | Chuggaz]] and the Fulcrum sabotage lead; accepted a slashed parchment demonstration of [[The Fallowhurst Sigil | The Fallowhurst Sigil]] in exchange for information.[2]
 
 <hr>
 fn1. [[Session 6: Wallarch | Session 6: Wallarch]] — Emerich under duress after the noon chase.
+
+fn2. [[Session 12: No Questions, Some Answers | Session 12: No Questions, Some Answers]]
 
 <!-- GM_INFO_START -->
 h2. Black Cats link
@@ -34,6 +39,7 @@ h2. Prep
 * **Session 12 posture:** Vault and the Cats fear [[The Adventurers | the Wonch]]'s unpredictability more than [[:hielaman | Hielaman]]. Default: **stall, misdirect, harmless gossip** — not open war unless cornered.
 * **Opening beat:** Gillette's bolt to the kitchen buys her a few seconds; she may be seated with tea and a half-open ledger when the party arrive. She already knows who they are.
 * **Primary ask:** get the impounded cart / [[:hielaman | Hielaman]] problem off the board before serious negotiation — see `notes/session-12-plan.md` § B3.
+* **After Session 12:** holds the slashed parchment sigil demonstration. She knows it raised dead rats near the [[Quarantine Zone | Quarantine Zone]].
 * **Possible offer:** kompromat fragment on [[House Meness | Meness]] **superiors** (not Hielaman), or Bear / Weasel / Snake descriptions if bargained fairly.
 * **Won't give without leverage:** Chuggaz as Latch, Anathemist ideology, Vault identity, or anything that burns the Repose relay.
 * **Escape:** *disguise self* to reach the street; *sleep* if the party get hands-on — then slip out via kitchen alleys. She does not fight to the death on premises.

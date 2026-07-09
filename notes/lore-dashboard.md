@@ -1,8 +1,8 @@
 # Lore dashboard
 
-_Auto-generated on 2026-07-08 16:47. Open [lore-dashboard.html](lore-dashboard.html) for charts._
+_Auto-generated on 2026-07-09 13:18. Open [lore-dashboard.html](lore-dashboard.html) for charts._
 
-## Current date (Session 11)
+## Current date (Session 12)
 
 - 31st Enean 4218 ( SC)
 
@@ -17,7 +17,7 @@ _Auto-generated on 2026-07-08 16:47. Open [lore-dashboard.html](lore-dashboard.h
 
 - Level 3 - Comfortable
 
-## Days remaining in Sindrel (Session 11 (31st Enean 4218 SC))
+## Days remaining in Sindrel (Session 12 (31st Enean 4218 SC))
 
 - ~31 of 36 days
 
@@ -30,14 +30,14 @@ _Auto-generated on 2026-07-08 16:47. Open [lore-dashboard.html](lore-dashboard.h
 
 See stacked proportion charts in HTML (wiki links plus plain-name mentions per session).
 
-## Faction clocks (Session 11 (31st Enean 4218 SC))
+## Faction clocks (Session 12 (31st Enean 4218 SC))
 
-- House Meness: Favourable
+- House Meness: Friendly
 - House Lithra: Favourable
 - House Mabon: Favourable
-- House Grimbolg: Favourable
+- House Grimbolg: Friendly
 - House Beltus: Cool
-- House Oestra: Wary
+- House Oestra: Oppositional
 - House Goela: Neutral
 - Anathemists: Hostile
 - The Black Cats: Wary

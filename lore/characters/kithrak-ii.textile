@@ -20,13 +20,18 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7516425/farp_small_wall_
 A miniature undead black dragon adopted in the [[Osteomantic Archives | catacombs]].
 
 <!-- OP_BIO -->
-*29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Adopted in the Hall of Dragons beneath the [[Osteomantic Archives | Osteomantic Archives]], nesting inside the remains of [[:kithrak-the-black | Kithrak the Black]].[1]
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** With [[The Adventurers | the Wonch]] at [[The Fulcrum | The Fulcrum]] and [[:nort | Nort]]'s interview; paid [[:nort | Nort]] shiny things for her trouble.[2]
+** Picked up [[:chuggaz | Chuggaz]]'s trail from the Fulcrum roster desk and followed it toward [[The Wallarch District | Wallarch]].[3]
 
-- Adopted in the Hall of Dragons beneath the [[Osteomantic Archives | Osteomantic Archives]], nesting inside the remains of [[:kithrak-the-black | Kithrak the Black]].
+<hr>
+fn1. [[Session 7: Into The Catacombs | Session 7: Into The Catacombs]]
 
-*31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+fn2. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
 
-- With [[The Adventurers | the Wonch]] at [[The Fulcrum | The Fulcrum]] and [[:nort | Nort]]'s interview; paid [[:nort | Nort]] shiny things for her trouble.
+fn3. [[Session 12: No Questions, Some Answers | Session 12: No Questions, Some Answers]]
 
 <!-- GM_INFO_START -->
 <div class="stat-block">

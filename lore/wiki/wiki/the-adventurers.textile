@@ -37,10 +37,10 @@ Below is an at-a-glance overview of which open plot thread will relate to which 
 
 h2. Campaign status
 
-_Through Session 11 (31st Enean 4218 SC)._
+_Through Session 12 (31st Enean 4218 SC)._
 
 **Current date:** 31st Enean 4218 ([[The Soulwind Calendar | SC]])
-**As of session:** 11
+**As of session:** 12
 
 h3. Days remaining in Sindrel
 
@@ -107,6 +107,8 @@ h3. 31 Enean 4218
 * *Mid-morning* - [[The Fulcrum | Fulcrum]] tunnels; gunpowder identified; Wilrin's forensics ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
 * *Late morning* - Servants' quarters; [[:nort | Nort]] interviewed ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
 * *Late morning through midday* - Amalthean (Cornucopia) tour; nitre-theft theory ([[Session 11: Gunpowder, Treason, and Plot | Session 11]])
+* *Late afternoon* - Oestran summons received and deferred; [[:nans | Nans]] questioned at [[The Fulcrum | The Fulcrum]]; [[:chuggaz | Chuggaz]] tracked toward [[The Wallarch District | Wallarch]] ([[Session 12: No Questions, Some Answers | Session 12]])
+* *Evening* - [[The Cutthroat's Repose | The Cutthroat's Repose]]; [[:gillette-quill | Gillette Quill]] confronted; bargain struck with [[:sable-silvestre | Sable]] after [[:wilrin-racenglade | Wilrin]] demonstrated the [[The Fallowhurst Sigil | Fallowhurst Sigil]] ([[Session 12: No Questions, Some Answers | Session 12]])
 
 h2. Party Wealth
 
@@ -158,19 +160,34 @@ The timeline above is the **canonical party chronology** — update here after e
 
 h2. Faction Clocks
 
-_Through Session 11 (31st Enean 4218 SC)._
+_Through Session 12 (31st Enean 4218 SC)._
 
 How each faction currently views [[The Adventurers | the Wonch]]. Update when play shifts opinion — a snub, a favour repaid, a secret exposed.
 
+*When updating faction clocks, use **only** the opinion values on the scale below — no ad-hoc labels (e.g. Transactional).*
+
+h3. Opinion scale
+
+|_. # |_. Opinion |_. Meaning |
+| 1 | Hostile | Kill on sight. |
+| 2 | Oppositional | They do not like you; you are unwelcome, but they are not attacking you in the street. |
+| 3 | Wary | Subject of suspicion and mistrust; you have definitely done a few things to upset these people. |
+| 4 | Cool | Bad reputation or broken social niceties; as courteous as societal norms require, but no more. |
+| 5 | Neutral | No formed opinion yet. |
+| 6 | Favourable | Some service rendered or a few positive interactions. |
+| 7 | Friendly | A welcome visitor. |
+| 8 | Allied | Someone they can rely on, go to for help, and trust; they will happily fight alongside you. |
+| 9 | Bonded | Something binds you more strongly than friendship or expedience; they would die for you. |
+
 |_. Faction |_. Opinion |_. Rationale |
-| [[House Meness | House Meness]] | Favourable | [[:hielaman | Hielaman]] respects the [[The Mage Road | Mage Road]] fight and clean capture of the Anathemist lieutenant; treats the [[:pin | Pin]] brawl as blown-off steam. Actively wants to recruit and sponsor citizenship — Ditchquer box is a peace offering. |
+| [[House Meness | House Meness]] | Friendly | [[:hielaman | Hielaman]] respects the [[The Mage Road | Mage Road]] fight and clean capture of the Anathemist lieutenant; treats the [[:pin | Pin]] brawl as blown-off steam. Actively wants to recruit and sponsor citizenship — Ditchquer box is a peace offering. |
 | [[House Lithra | House Lithra]] | Favourable | [[:emissary-halan | Halan]] convened the [[Hexine Circle | Hexine Circle]], backed outside investigators, and gave [[:silrie-aegiskiir | Silrie]] blueprints. [[:ayr | Ayr]] as "Fenton Woofrunner" is watched, not yet trusted. |
 | [[House Mabon | House Mabon]] | Favourable | [[:journeyman-galoras | Galoras]] is eager to help — gifts, gadgets, commissioned sword to [[Radwasp House | Radwasp House]]. House treats the Wonch as allies against sabotage. |
-| [[House Grimbolg | House Grimbolg]] | Favourable | [[:navinea-senetera | Navinea]] warmed to [[:rossin-ros-greyhirst | Ros]]; invitation to the Amalthean; open Cornucopia tour in Session 11. Hospitality doubles as keeping tabs on the investigation. |
+| [[House Grimbolg | House Grimbolg]] | Friendly | [[:navinea-senetera | Navinea]] warmed to [[:rossin-ros-greyhirst | Ros]]; invitation to the Amalthean; open Cornucopia tour in Session 11. Hospitality doubles as keeping tabs on the investigation. |
 | [[House Beltus | House Beltus]] | Cool | [[:alandria | Alandria]] was irritable in the morning's Hexine interviews, but her Wallarch tip paid off. Session 11: furious at park interference, then satisfied — transactional, watching for leverage. |
-| [[House Oestra | House Oestra]] | Wary | [[:commander-locke | Locke]] is embarrassed by the catacomb breach and armoury bullying. Kirrahe vendetta still open. |
+| [[House Oestra | House Oestra]] | Oppositional | [[:silas-oestra | Silas]] issued a formal summons over breaches of Oestran security; the Wonch kept him waiting while pursuing Chuggaz into Wallarch. Contempt hearings and sharp words, not street violence — unless the party force it. |
 | [[House Goela | House Goela]] | Neutral | [[:seer-demeletas | Demeletas]] offered cryptic bone-readings, not hostility. Goela's Mabon-paranoia not yet linked to the Wonch. |
-| [[Anathemists | Anathemists]] | Hostile | Active enemy. Lieutenant in custody; [[:commander-wake | Wake]] at large. Wonch closing on gunpowder trail and [[:arouraios | Arouraios]] / [[:chuggaz | Chuggaz]] links. |
-| [[The Black Cats | The Black Cats]] | Wary | **Vault** sees unpredictable outsiders muscling into Wallarch and the Fulcrum service layer. Prefer misdirection over open war unless cornered. |
+| [[Anathemists | Anathemists]] | Hostile | Active enemy — kill on sight if they can manage it. Lieutenant in custody; [[:commander-wake | Wake]] at large. Wonch closing on gunpowder trail and [[:arouraios | Arouraios]] / [[:chuggaz | Chuggaz]] links. |
+| [[The Black Cats | The Black Cats]] | Wary | **Vault** sees unpredictable outsiders muscling into Wallarch and the Fulcrum service layer. [[:sable-silvestre | Sable]] accepted a dangerous sigil demonstration in exchange for information, but the Cats still prefer leverage and misdirection over open war. |
 | [[The Vermillion Company | The Vermillion Company]] | Neutral | No contact since [[:lacerta-kirrahe | Kirrahe]]'s death. Locke wants the killer; party has not engaged the company. |
 <!-- GM_INFO_END -->

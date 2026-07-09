@@ -21,11 +21,16 @@ Nans is a lean elf woman with medium-brown skin and a neat, economical build, he
 <!-- OP_BIO -->
 [[Adjutant | Adjutant]] on [[The Fulcrum | Fulcrum]] staff ([[House Beltus | House Beltus]] affiliation).
 
+* *25th of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** Was on duty during the attempted Fulcrum bombing. Observed [[:chuggaz | Chuggaz]] lingering at the roster desk on ceremony night, busying himself with [[House Grimbolg | Grimbolg]] waste manifests.[2]
 * *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** On duty at [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] questioned staff about the bombing; one of three staff named as worth interviewing after the extended ceremony-night shifts.[1]
+** Interviewed by the Wonch at shifts-end; relayed Chuggaz's behavior on the bombing night.[2]
 
 <hr>
 fn1. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
+
+fn2. [[Session 12: No Questions, Some Answers | Session 12: No Questions, Some Answers]]
 
 <!-- GM_INFO_START -->
 Beltus

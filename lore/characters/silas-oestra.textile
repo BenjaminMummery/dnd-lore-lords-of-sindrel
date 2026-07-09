@@ -25,9 +25,11 @@ You see a human man of about 25 with fair skin and a lean, restless build, his d
 <!-- GM_INFO_START -->
 h2. Bio
 
-* *28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+* *25th of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
 ** Present at the [[Ditchquer | Ditchquer]] closing ceremony at [[The Fulcrum | The Fulcrum]] while high-ranking [[Factor | Factors]] from every House attended.
 ** His rooms were the true target of the [[Anathemists | Anathemist]] operation that night; [[:barnabus | Barnabus]] stole his [[Silas Oestra's Chamber Key | chamber key]] during the distraction.
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Sent a formal summons to the Wonch as they left the [[House Grimbolg | Cornucopia]]; they kept Oestra waiting while pursuing [[:chuggaz | Chuggaz]] into [[The Wallarch District | Wallarch]].
 
 h2. Target of the [[Ditchquer | Ditchquer]] Heist
 
@@ -47,11 +49,6 @@ h2. Silas's awareness (Session 12)
 * **After the captured Anathemist interrogation:** general intelligence suggested a high-level security breach somewhere in the Houses.
 * **Silas's audit:** found **missing files** from his chambers. He now knows the breach was **his** - his key, his custody, his failure to report.
 * **Current state:** furious that [[The Adventurers | the Wonch]] have trampled Oestra security (catacomb exit); **terrified** that anyone else will learn he lost classified material. Will not volunteer key loss, file theft, or Kosmios.
-
-h2. Session 12
-
-* Summons the Wonch to the Leageur with [[:commander-locke | Locke]] present. Opens furious; may leak the word **Kosmios** if pressed, then backpedal.
-* Fights only if humiliation becomes unbearable — prefers to dismiss them and let [[:commander-locke | Locke]] handle violence.
 
 h2. Stat block
 
