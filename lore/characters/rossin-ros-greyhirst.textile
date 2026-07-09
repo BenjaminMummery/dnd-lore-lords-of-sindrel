@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457462/WhatsApp_Image_2026-01-10_at_17.14.42.jpeg
 dndbeyond_id: '159196960'
 dndbeyond_url: https://www.dndbeyond.com/characters/159196960
-dndbeyond_synced_at: '2026-07-09T16:06:10Z'
+dndbeyond_synced_at: '2026-07-09T20:14:40Z'
 dynamic_sheet:
   name: Rossin (Ros) Greyhirst
   class_summary: Ranger (Beast Master) 3
@@ -147,7 +147,7 @@ dynamic_sheet:
     Pan Flute, Shields
   languages: Choose a Language, Common, Common Sign Language, Elvish, Halfling, Sylvan
   tools: —
-  ddb_last_sync: 2026-07-09 16:06 UTC
+  ddb_last_sync: 2026-07-09 20:14 UTC
   spellcasting_ability: wis
   spell_save_dc: '12'
   spell_attack: '+4'
@@ -166,6 +166,134 @@ dynamic_sheet:
     favor for you, at the GM''s discretion."}]'
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 ---
+
+<!-- OP_DDB_SHEET -->
+<div class="ddb-sheet">
+  <div class="ddb-header">
+    <div class="ddb-header-main">
+      <h1 class="ddb-name">Rossin (Ros) Greyhirst</h1>
+      <p class="ddb-subtitle">Ranger (Beast Master) 3</p>
+      <ul class="ddb-meta">
+        <li><span class="ddb-label">Proficiency</span> +2</li>
+        <li><span class="ddb-label">Inspiration</span> No</li>
+      </ul>
+      <p class="ddb-links">cjchandler · The Lords of Sindrel</p>
+    </div>
+    <div class="ddb-avatar-wrap"><img src="https://www.dndbeyond.com/avatars/54027/930/1581111423-159196960.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp" alt=""></div>
+  </div>
+
+  <div class="ddb-section ddb-defenses">
+    <h2 class="ddb-section-title">Defenses</h2>
+    <div class="ddb-pill-grid">
+      <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">13</span></div>
+      <div class="ddb-pill ddb-pill-wide">
+        <span class="ddb-pill-label">HP</span>
+        <span class="ddb-pill-value">16</span>
+        <span class="ddb-pill-sep">/</span>
+        <span class="ddb-pill-value">16</span>
+      </div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Temp</span><span class="ddb-pill-value">0</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">30 ft.</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+2</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
+    </div>
+    
+  </div>
+
+  <div class="ddb-columns">
+    <div class="ddb-section">
+      <h2 class="ddb-section-title">Abilities</h2>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">8 (-1)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">15 (+2)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">14 (+2)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">12 (+1)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">15 (+2)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">12 (+1)</span></div>
+      </div>
+      <h3 class="ddb-subsection-title">Saving Throws</h3>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">+1 *</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">+4 *</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+2</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">+1</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+2</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+1</span></div>
+      </div>
+    </div>
+
+    <div class="ddb-section">
+      <h2 class="ddb-section-title">Skills &amp; Senses</h2>
+      <div class="ddb-block ddb-skills"><h3 class="ddb-subsection-title">STR</h3><br>
+<div class="ddb-block ddb-skill-group">Athletics +1 *</div><br>
+<h3 class="ddb-subsection-title">DEX</h3><br>
+<div class="ddb-block ddb-skill-group">Acrobatics +2<br><br>
+Sleight Of Hand +2<br><br>
+Stealth +4 *</div><br>
+<h3 class="ddb-subsection-title">INT</h3><br>
+<div class="ddb-block ddb-skill-group">Arcana +1<br><br>
+History +1<br><br>
+Investigation +1<br><br>
+Nature +3 *<br><br>
+Religion +1</div><br>
+<h3 class="ddb-subsection-title">WIS</h3><br>
+<div class="ddb-block ddb-skill-group">Animal Handling +4 *<br><br>
+Insight +4 *<br><br>
+Medicine +4 *<br><br>
+Perception +2<br><br>
+Survival +4 *</div><br>
+<h3 class="ddb-subsection-title">CHA</h3><br>
+<div class="ddb-block ddb-skill-group">Deception +1<br><br>
+Intimidation +1<br><br>
+Performance +1<br><br>
+Persuasion +1</div></div>
+      <div class="ddb-sense-row">
+        <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">12</span></div>
+        <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">11</span></div>
+        <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">14</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ddb-section">
+<h2 class="ddb-section-title">Combat</h2>
+<h3 class="ddb-subsection-title">Actions</h3>
+<div class="ddb-block"><strong>Handaxe.</strong> +1 to hit, range 20 ft., 1d6 slashing<br>
+<strong>Quarterstaff.</strong> +1 to hit, range 5 ft., 1d6 bludgeoning<br>
+<strong>Longbow.</strong> +1 to hit, range 150 ft., 1d8 piercing<br>
+<strong>Primeval Awareness.</strong> As an action, you can expend one ranger spell slot (1 minute per level of spell slot) to sense whether any aberrations, celestials, dragons, elementals, fey, fiends, or undead are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain). This feature doesn’t reveal the creatures’ location or number.<br>
+<strong>Favored Foe.</strong> When you hit a creature with an attack roll, you can mark the target as your favored enemy for 1 minute or until you lose your concentration (as if you were concentrating on a spell). The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by .</div>
+</div>
+
+  
+
+  <div class="ddb-columns ddb-bottom-row">
+    <div class="ddb-section ddb-half">
+      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
+      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons; Pan Flute, Shields</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Choose a Language, Common, Common Sign Language, Elvish, Halfling, Sylvan</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
+    </div>
+      <div class="ddb-section ddb-half">
+    <h2 class="ddb-section-title">Spellcasting</h2>
+    <div class="ddb-spell-header">
+      <div><span class="ddb-label">Ability</span> wis</div>
+      <div><span class="ddb-label">Save DC</span> 12</div>
+      <div><span class="ddb-label">Attack</span> +4</div>
+    </div>
+    <h3 class="ddb-subsection-title">Spell Slots</h3>
+    <div class="ddb-block">1st 0/3</div>
+    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
+    <div class="ddb-block">Level 1: Speak with Animals</div>
+  </div>
+
+  </div>
+
+  <div class="ddb-footer">
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-09 20:14 UTC</p>
+    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
+  </div>
+</div>
 
 <!-- OP_DESCRIPTION -->
 h3. Giant Stoat

@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457470/sytqgzfrl5c41.jpg
 dndbeyond_id: '156196225'
 dndbeyond_url: https://www.dndbeyond.com/characters/156196225
-dndbeyond_synced_at: '2026-07-09T16:06:06Z'
+dndbeyond_synced_at: '2026-07-09T20:13:37Z'
 dynamic_sheet:
   name: Amanira
   class_summary: Druid (Circle of the Land) 3
@@ -147,7 +147,7 @@ dynamic_sheet:
     Sickle, Sling, Spear
   languages: Choose a Language, Common, Druidic, Elvish
   tools: —
-  ddb_last_sync: 2026-07-09 16:06 UTC
+  ddb_last_sync: 2026-07-09 20:13 UTC
   spellcasting_ability: wis
   spell_save_dc: '13'
   spell_attack: '+5'
@@ -244,6 +244,136 @@ dynamic_sheet:
     them."}]'
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 ---
+
+<!-- OP_DDB_SHEET -->
+<div class="ddb-sheet">
+  <div class="ddb-header">
+    <div class="ddb-header-main">
+      <h1 class="ddb-name">Amanira</h1>
+      <p class="ddb-subtitle">Druid (Circle of the Land) 3</p>
+      <ul class="ddb-meta">
+        <li><span class="ddb-label">Proficiency</span> +2</li>
+        <li><span class="ddb-label">Inspiration</span> No</li>
+      </ul>
+      <p class="ddb-links">jenjsto · The Lords of Sindrel</p>
+    </div>
+    <div class="ddb-avatar-wrap"><img src="https://www.dndbeyond.com/avatars/54419/308/1581111423-156196225.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp" alt=""></div>
+  </div>
+
+  <div class="ddb-section ddb-defenses">
+    <h2 class="ddb-section-title">Defenses</h2>
+    <div class="ddb-pill-grid">
+      <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">13</span></div>
+      <div class="ddb-pill ddb-pill-wide">
+        <span class="ddb-pill-label">HP</span>
+        <span class="ddb-pill-value">17</span>
+        <span class="ddb-pill-sep">/</span>
+        <span class="ddb-pill-value">18</span>
+      </div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Temp</span><span class="ddb-pill-value">0</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">30 ft.</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+2</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
+    </div>
+    
+  </div>
+
+  <div class="ddb-columns">
+    <div class="ddb-section">
+      <h2 class="ddb-section-title">Abilities</h2>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">8 (-1)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">14 (+2)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">14 (+2)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">13 (+1)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">16 (+3)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">10 (+0)</span></div>
+      </div>
+      <h3 class="ddb-subsection-title">Saving Throws</h3>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">-1</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">+2</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+2</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">+3 *</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+5 *</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+0</span></div>
+      </div>
+    </div>
+
+    <div class="ddb-section">
+      <h2 class="ddb-section-title">Skills &amp; Senses</h2>
+      <div class="ddb-block ddb-skills"><h3 class="ddb-subsection-title">STR</h3><br>
+<div class="ddb-block ddb-skill-group">Athletics -1</div><br>
+<h3 class="ddb-subsection-title">DEX</h3><br>
+<div class="ddb-block ddb-skill-group">Acrobatics +2<br><br>
+Sleight Of Hand +2<br><br>
+Stealth +2</div><br>
+<h3 class="ddb-subsection-title">INT</h3><br>
+<div class="ddb-block ddb-skill-group">Arcana +3 *<br><br>
+History +3 *<br><br>
+Investigation +1<br><br>
+Nature +3 *<br><br>
+Religion +1</div><br>
+<h3 class="ddb-subsection-title">WIS</h3><br>
+<div class="ddb-block ddb-skill-group">Animal Handling +3<br><br>
+Insight +3<br><br>
+Medicine +5 *<br><br>
+Perception +5 *<br><br>
+Survival +3</div><br>
+<h3 class="ddb-subsection-title">CHA</h3><br>
+<div class="ddb-block ddb-skill-group">Deception +0<br><br>
+Intimidation +0<br><br>
+Performance +0<br><br>
+Persuasion +0</div></div>
+      <div class="ddb-sense-row">
+        <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">15</span></div>
+        <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">11</span></div>
+        <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">13</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ddb-section">
+<h2 class="ddb-section-title">Combat</h2>
+<h3 class="ddb-subsection-title">Actions</h3>
+<div class="ddb-block"><strong>Scimitar.</strong> +1 to hit, range 5 ft., 1d6 slashing<br>
+<strong>Wild Shape.</strong> As an action, you can magically assume the shape of a beast that you have seen before twice per short rest. [2nd] Max CR 1/4 (no flying or swimming speed) [4th] Max CR 1/2 (no flying speed) [8th] Max CR 1 You can stay in beast shape for 1 hours before reverting back to your normal form (or as a bonus action earlier or if you fall unconscious, drop to 0 hit points, or die).<br>
+<strong>Natural Recovery.</strong> Once per long rest during a short rest, you choose expended spell slots to recover. The spell slots can have a combined level of up to 2, and none of the slots can be 6th level or higher.<br>
+<strong>Wild Companion.</strong> As an action, you can expend a use of your Wild Shape feature to cast the find familiar spell, without material components. When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after 1 hours.</div>
+</div>
+
+  
+
+  <div class="ddb-columns ddb-bottom-row">
+    <div class="ddb-section ddb-half">
+      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
+      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Light Armor, Medium Armor, Shields; Club, Crossbow, Hand, Dagger, Dart, Herbalism Kit, Javelin, Mace, Quarterstaff, Rapier, Scimitar, Shields, Shortsword, Sickle, Sling, Spear</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Choose a Language, Common, Druidic, Elvish</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
+    </div>
+      <div class="ddb-section ddb-half">
+    <h2 class="ddb-section-title">Spellcasting</h2>
+    <div class="ddb-spell-header">
+      <div><span class="ddb-label">Ability</span> wis</div>
+      <div><span class="ddb-label">Save DC</span> 13</div>
+      <div><span class="ddb-label">Attack</span> +5</div>
+    </div>
+    <h3 class="ddb-subsection-title">Spell Slots</h3>
+    <div class="ddb-block">1st 4/4<br>
+2nd 2/2</div>
+    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
+    <div class="ddb-block">Cantrips: Druidcraft, Produce Flame<br>
+Level 1: Create or Destroy Water, Entangle, Goodberry, Healing Word, Thunderwave<br>
+Level 2: Hold Person</div>
+  </div>
+
+  </div>
+
+  <div class="ddb-footer">
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-09 20:13 UTC</p>
+    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
+  </div>
+</div>
 
 <!-- OP_DESCRIPTION -->
 A drow woman with blue-violet skin and long platinum hair. Angular features, pointed ears, brown leather strapped over olive kit; a moss-trimmed green cloak and rune-marked stones at her belt - a druidic traveller plainly out of sympathy with a city of stone.

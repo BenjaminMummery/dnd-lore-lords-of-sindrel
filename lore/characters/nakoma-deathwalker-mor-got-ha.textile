@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457474/572fdc897647939edd9359829283e7ba.jpg
 dndbeyond_id: '157065911'
 dndbeyond_url: https://www.dndbeyond.com/characters/157065911
-dndbeyond_synced_at: '2026-07-09T16:06:08Z'
+dndbeyond_synced_at: '2026-07-09T20:14:19Z'
 dynamic_sheet:
   name: Nakoma Deathwalker Mor'got'ha
   class_summary: Barbarian 2 / Wizard 1
@@ -150,7 +150,7 @@ dynamic_sheet:
     Choose a Wizard Skill, Crossbow, Light, Dagger, Dart, Quarterstaff, Shields, Sling
   languages: Common, Giant
   tools: —
-  ddb_last_sync: 2026-07-09 16:06 UTC
+  ddb_last_sync: 2026-07-09 20:14 UTC
   spellcasting_ability: int
   spell_save_dc: '11'
   spell_attack: '+3'
@@ -210,6 +210,140 @@ dynamic_sheet:
     you gain 5 additional temporary hit points for each slot level above 1st."}]'
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 ---
+
+<!-- OP_DDB_SHEET -->
+<div class="ddb-sheet">
+  <div class="ddb-header">
+    <div class="ddb-header-main">
+      <h1 class="ddb-name">Nakoma Deathwalker Mor'got'ha</h1>
+      <p class="ddb-subtitle">Barbarian 2 / Wizard 1</p>
+      <ul class="ddb-meta">
+        <li><span class="ddb-label">Proficiency</span> +2</li>
+        <li><span class="ddb-label">Inspiration</span> Yes</li>
+      </ul>
+      <p class="ddb-links">Perspehone · The Lords of Sindrel</p>
+    </div>
+    <div class="ddb-avatar-wrap"></div>
+  </div>
+
+  <div class="ddb-section ddb-defenses">
+    <h2 class="ddb-section-title">Defenses</h2>
+    <div class="ddb-pill-grid">
+      <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">12</span></div>
+      <div class="ddb-pill ddb-pill-wide">
+        <span class="ddb-pill-label">HP</span>
+        <span class="ddb-pill-value">10</span>
+        <span class="ddb-pill-sep">/</span>
+        <span class="ddb-pill-value">23</span>
+      </div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Temp</span><span class="ddb-pill-value">0</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">30 ft.</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">-1</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
+    </div>
+    
+  </div>
+
+  <div class="ddb-columns">
+    <div class="ddb-section">
+      <h2 class="ddb-section-title">Abilities</h2>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">20 (+5)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">8 (-1)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">15 (+2)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">13 (+1)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">7 (-2)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">12 (+1)</span></div>
+      </div>
+      <h3 class="ddb-subsection-title">Saving Throws</h3>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">+7 *</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">-1</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+4 *</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">+3 *</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+0 *</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+1</span></div>
+      </div>
+    </div>
+
+    <div class="ddb-section">
+      <h2 class="ddb-section-title">Skills &amp; Senses</h2>
+      <div class="ddb-block ddb-skills"><h3 class="ddb-subsection-title">STR</h3><br>
+<div class="ddb-block ddb-skill-group">Athletics +7 *</div><br>
+<h3 class="ddb-subsection-title">DEX</h3><br>
+<div class="ddb-block ddb-skill-group">Acrobatics -1<br><br>
+Sleight Of Hand -1<br><br>
+Stealth -1</div><br>
+<h3 class="ddb-subsection-title">INT</h3><br>
+<div class="ddb-block ddb-skill-group">Arcana +1<br><br>
+History +3 *<br><br>
+Investigation +1<br><br>
+Nature +1<br><br>
+Religion +1</div><br>
+<h3 class="ddb-subsection-title">WIS</h3><br>
+<div class="ddb-block ddb-skill-group">Animal Handling -2<br><br>
+Insight -2<br><br>
+Medicine -2<br><br>
+Perception +0 *<br><br>
+Survival +0 *</div><br>
+<h3 class="ddb-subsection-title">CHA</h3><br>
+<div class="ddb-block ddb-skill-group">Deception +1<br><br>
+Intimidation +3 *<br><br>
+Performance +1<br><br>
+Persuasion +1</div></div>
+      <div class="ddb-sense-row">
+        <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">10</span></div>
+        <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">11</span></div>
+        <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">8</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ddb-section">
+<h2 class="ddb-section-title">Combat</h2>
+<h3 class="ddb-subsection-title">Actions</h3>
+<div class="ddb-block"><strong>The Bi-Flail - Maul Form.</strong> +7 to hit, range 5 ft., 2d6 bludgeoning<br>
+<strong>The Bi-Flail - Flail Form.</strong> +7 to hit, range 5 ft., 1d8 bludgeoning<br>
+<strong>Handaxe.</strong> +7 to hit, range 20 ft., 1d6 slashing<br>
+<strong>Handaxe.</strong> +7 to hit, range 20 ft., 1d6 slashing<br>
+<strong>Javelin.</strong> +7 to hit, range 30 ft., 1d6 piercing<br>
+<strong>Arcane Recovery.</strong> Once per day when you finish a short rest, you can choose expended spell slots to recover - up to a combined level of 2, and none of the slots can be 6th level or higher.</div>
+<h3 class="ddb-subsection-title">Bonus Actions</h3>
+<div class="ddb-block"><strong>Rage.</strong> As a bonus action enter a rage for up to 1 minute (10 rounds). You gain advantage on STR checks and saving throws (not attacks), melee damage with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can't cast or concentrate on spells while raging. Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage as a bonus action.</div>
+<h3 class="ddb-subsection-title">Reactions</h3>
+<div class="ddb-block"><strong>Stone’s Endurance.</strong> As a reaction, reduce damage dealt to you by 1d12 +2 once per short rest.</div>
+</div>
+
+  
+
+  <div class="ddb-columns ddb-bottom-row">
+    <div class="ddb-section ddb-half">
+      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
+      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons; Choose a Wizard Skill, Crossbow, Light, Dagger, Dart, Quarterstaff, Shields, Sling</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Giant</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
+    </div>
+      <div class="ddb-section ddb-half">
+    <h2 class="ddb-section-title">Spellcasting</h2>
+    <div class="ddb-spell-header">
+      <div><span class="ddb-label">Ability</span> int</div>
+      <div><span class="ddb-label">Save DC</span> 11</div>
+      <div><span class="ddb-label">Attack</span> +3</div>
+    </div>
+    <h3 class="ddb-subsection-title">Spell Slots</h3>
+    <div class="ddb-block">1st 1/2</div>
+    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
+    <div class="ddb-block">Cantrips: Chill Touch, Green-Flame Blade, Toll the Dead<br>
+Level 1: Cause Fear, False Life</div>
+  </div>
+
+  </div>
+
+  <div class="ddb-footer">
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-09 20:14 UTC</p>
+    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
+  </div>
+</div>
 
 <!-- OP_DESCRIPTION -->
 h3. Kithrak II

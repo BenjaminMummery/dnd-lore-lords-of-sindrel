@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2026-01-15_at_14.33.55.jpeg
 dndbeyond_id: '151085741'
 dndbeyond_url: https://www.dndbeyond.com/characters/151085741
-dndbeyond_synced_at: '2026-07-09T16:06:11Z'
+dndbeyond_synced_at: '2026-07-09T20:14:50Z'
 dynamic_sheet:
   name: Wilrin RavenGlade
   class_summary: Sorcerer (Wild Magic) 3
@@ -151,7 +151,7 @@ dynamic_sheet:
   proficiencies: Crossbow, Light, Dagger, Dart, Flute, Quarterstaff, Sling
   languages: Common, Gnomish, Halfling
   tools: —
-  ddb_last_sync: 2026-07-09 16:06 UTC
+  ddb_last_sync: 2026-07-09 20:14 UTC
   spellcasting_ability: cha
   spell_save_dc: '14'
   spell_attack: '+6'
@@ -204,6 +204,138 @@ dynamic_sheet:
     or the spell fails."}]'
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 ---
+
+<!-- OP_DDB_SHEET -->
+<div class="ddb-sheet">
+  <div class="ddb-header">
+    <div class="ddb-header-main">
+      <h1 class="ddb-name">Wilrin RavenGlade</h1>
+      <p class="ddb-subtitle">Sorcerer (Wild Magic) 3</p>
+      <ul class="ddb-meta">
+        <li><span class="ddb-label">Proficiency</span> +2</li>
+        <li><span class="ddb-label">Inspiration</span> No</li>
+      </ul>
+      <p class="ddb-links">Ne0ni · The Lords of Sindrel</p>
+    </div>
+    <div class="ddb-avatar-wrap"><img src="https://www.dndbeyond.com/avatars/54284/245/1581111423-151085741.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp" alt=""></div>
+  </div>
+
+  <div class="ddb-section ddb-defenses">
+    <h2 class="ddb-section-title">Defenses</h2>
+    <div class="ddb-pill-grid">
+      <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">13</span></div>
+      <div class="ddb-pill ddb-pill-wide">
+        <span class="ddb-pill-label">HP</span>
+        <span class="ddb-pill-value">13</span>
+        <span class="ddb-pill-sep">/</span>
+        <span class="ddb-pill-value">14</span>
+      </div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Temp</span><span class="ddb-pill-value">0</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">25 ft.</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+3</span></div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
+    </div>
+    
+  </div>
+
+  <div class="ddb-columns">
+    <div class="ddb-section">
+      <h2 class="ddb-section-title">Abilities</h2>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">9 (-1)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">16 (+3)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">13 (+1)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">12 (+1)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">15 (+2)</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">19 (+4)</span></div>
+      </div>
+      <h3 class="ddb-subsection-title">Saving Throws</h3>
+      <div class="ddb-ability-grid">
+        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">-1</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">+3</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+3 *</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">+1</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+2</span></div>
+        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+6 *</span></div>
+      </div>
+    </div>
+
+    <div class="ddb-section">
+      <h2 class="ddb-section-title">Skills &amp; Senses</h2>
+      <div class="ddb-block ddb-skills"><h3 class="ddb-subsection-title">STR</h3><br>
+<div class="ddb-block ddb-skill-group">Athletics -1</div><br>
+<h3 class="ddb-subsection-title">DEX</h3><br>
+<div class="ddb-block ddb-skill-group">Acrobatics +3<br><br>
+Sleight Of Hand +3<br><br>
+Stealth +3</div><br>
+<h3 class="ddb-subsection-title">INT</h3><br>
+<div class="ddb-block ddb-skill-group">Arcana +3 *<br><br>
+History +1<br><br>
+Investigation +1<br><br>
+Nature +1<br><br>
+Religion +1</div><br>
+<h3 class="ddb-subsection-title">WIS</h3><br>
+<div class="ddb-block ddb-skill-group">Animal Handling +2<br><br>
+Insight +2<br><br>
+Medicine +2<br><br>
+Perception +2<br><br>
+Survival +4 *</div><br>
+<h3 class="ddb-subsection-title">CHA</h3><br>
+<div class="ddb-block ddb-skill-group">Deception +6 *<br><br>
+Intimidation +4<br><br>
+Performance +4<br><br>
+Persuasion +6 *</div></div>
+      <div class="ddb-sense-row">
+        <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">12</span></div>
+        <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">11</span></div>
+        <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">12</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ddb-section">
+<h2 class="ddb-section-title">Combat</h2>
+<h3 class="ddb-subsection-title">Actions</h3>
+<div class="ddb-block"><strong>Dagger.</strong> +1 to hit, range 20 ft., 1d4 piercing<br>
+<strong>Crossbow, Light.</strong> +1 to hit, range 80 ft., 1d8 piercing<br>
+<strong>Sorcery Points.</strong> You have 3 sorcery points that you regain when you finish a long rest.<br>
+<strong>Metamagic - Twinned Spell.</strong> You can spend sorcery points equal to a spell's level (1 for a cantrip) to target a second creature in range with the same spell, as long as the spell at the level it's being cast is incapable of targeting more than one creature.<br>
+<strong>Tides of Chaos.</strong> Once per long rest, you can gain advantage on one attack roll, ability check, or saving throw. Before you regain use of this feature, the DM can have you roll on the Wild Magic Surge table after you cast a 1st level or higher spell. You then regain the use of this feature.<br>
+<strong>Metamagic - Quickened Spell.</strong> When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.</div>
+<h3 class="ddb-subsection-title">Bonus Actions</h3>
+<div class="ddb-block"><strong>Convert Sorcery Points.</strong> You can use your sorcery points to gain additional spell slots or sacrifice spell slots to gain additional sorcery points as a bonus action.</div>
+</div>
+
+  
+
+  <div class="ddb-columns ddb-bottom-row">
+    <div class="ddb-section ddb-half">
+      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
+      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Crossbow, Light, Dagger, Dart, Flute, Quarterstaff, Sling</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Gnomish, Halfling</span></div>
+      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
+    </div>
+      <div class="ddb-section ddb-half">
+    <h2 class="ddb-section-title">Spellcasting</h2>
+    <div class="ddb-spell-header">
+      <div><span class="ddb-label">Ability</span> cha</div>
+      <div><span class="ddb-label">Save DC</span> 14</div>
+      <div><span class="ddb-label">Attack</span> +6</div>
+    </div>
+    <h3 class="ddb-subsection-title">Spell Slots</h3>
+    <div class="ddb-block">1st 4/4<br>
+2nd 0/2</div>
+    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
+    <div class="ddb-block">Cantrips: Fire Bolt, Mage Hand, Minor Illusion, Retrieve</div>
+  </div>
+
+  </div>
+
+  <div class="ddb-footer">
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-09 20:14 UTC</p>
+    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
+  </div>
+</div>
 
 <!-- OP_DESCRIPTION -->
 Wilrin is a halfling sorcerer — slight of frame, sharp of cheekbone, with rounded ears flushed pink at the tips. His hair and beard are the same dark burgundy, the beard trimmed neat and the hair swept back in layered spikes. His complexion is pale; his eyes do not match — one dark and watchful, the other unnaturally pale, a reminder of the [[The Fallowhurst Sigil | Fallowhurst sigil]] that bound him. He dresses in a fitted wine-dark coat embroidered with curling spiral work at the chest and closed with a row of polished buttons.
