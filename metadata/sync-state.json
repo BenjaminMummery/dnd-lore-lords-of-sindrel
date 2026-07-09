@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-07-09T12:21:33Z",
+  "last_git_publish": "2026-07-09T15:51:59Z",
   "last_portal_pull": "2026-07-09T15:50:36Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -507,9 +507,9 @@
       "op_id": "33029cfe72f344979629473df4d746da",
       "op_kind": "Character",
       "op_slug": "silrie-aegiskiir",
-      "op_updated_at": "2026-07-08T15:52:24Z",
-      "repo_blob_sha": "77976e63ec4b42602f41bc24b4b4dda0b7e95cca",
-      "repo_hash_at_sync": "072e751d06d7ec146bc3d83d76ed231fe2a35924cfcd4537b5f6cac321a13219",
+      "op_updated_at": "2026-07-09T15:51:07Z",
+      "repo_blob_sha": "a7e12ced0e2d1580af4b440043489833aa7fd0aa",
+      "repo_hash_at_sync": "810315a4f24ce25ffb35ca80e8e469b443acb6b386cdcc9d0737c63f0af46b18",
       "repo_path": "lore/characters/silrie-aegiskiir.textile"
     },
     "332a5b69220d4e359890169765108480": {
@@ -607,9 +607,9 @@
       "op_id": "42cee9f0b8134dccab7714a196fd04d5",
       "op_kind": "Character",
       "op_slug": "ayr",
-      "op_updated_at": "2026-07-08T15:52:01Z",
-      "repo_blob_sha": "4aae4804d4c5da5ff4d1f8dde915e9952fc5fc1e",
-      "repo_hash_at_sync": "8847cf55ccf929ba79b4f98a33ddaa5ad0728a596541ad5d4add0a603e3b7334",
+      "op_updated_at": "2026-07-09T15:50:46Z",
+      "repo_blob_sha": "d6329237a17f4899c0a2bd3de815952fef32aab9",
+      "repo_hash_at_sync": "dcf3f1a567eb7afbc0ae8b6e5c8ff862199a4763a30b784a38df5e081b545222",
       "repo_path": "lore/characters/ayr.textile"
     },
     "46e3468d573f4714bd7ff0fb59d65696": {
@@ -1687,9 +1687,9 @@
       "op_id": "d2c9da6bc0264471b3819c1caeb8a638",
       "op_kind": "Wiki",
       "op_slug": "session-12-no-questions-some-answers",
-      "op_updated_at": "2026-07-09T14:51:06Z",
-      "repo_blob_sha": "e936d57b60c7ef423456c1238856842c54e1db52",
-      "repo_hash_at_sync": "c718e23464fe0fd779d4e665ffffe4bda80cb917641e0c8d35c795a36632c3c9",
+      "op_updated_at": "2026-07-09T15:51:13Z",
+      "repo_blob_sha": "6e04f218f75b0629241228aab77a09e027d93f24",
+      "repo_hash_at_sync": "bd6069441eb8d9883de5a07142f39df6ff83fd3df648fb8d0812f67757ada4e5",
       "repo_path": "lore/wiki/adventure-log/session-12-no-questions-some-answers.textile"
     },
     "d4679ff89d864234a7270fd50dcb74eb": {
