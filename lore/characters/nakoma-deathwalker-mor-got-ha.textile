@@ -7,27 +7,21 @@ name: Nakoma Deathwalker Mor'got'ha
 title: Nakoma Deathwalker Mor'got'ha
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/nakoma-deathwalker-mor-got-ha
 op_created_at: '2025-12-14T19:32:39Z'
-op_updated_at: '2026-07-08T16:15:09Z'
+op_updated_at: '2026-07-09T19:57:05Z'
 op_gm_only: false
 is_player_character: true
 tags:
 - she/her
-avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457474/572fdc897647939edd9359829283e7ba.jpg
-dndbeyond_id: '157065911'
-dndbeyond_url: https://www.dndbeyond.com/characters/157065911
-dndbeyond_synced_at: '2026-07-09T20:14:19Z'
 dynamic_sheet:
   name: Nakoma Deathwalker Mor'got'ha
   class_summary: Barbarian 2 / Wizard 1
   prof_bonus: '+2'
   player_campaign: Perspehone · The Lords of Sindrel
-  avatar_url: ''
   ac: '12'
   hp_current: '10'
   hp_max: '23'
   speed: 30 ft.
   initiative: '-1'
-  hit_dice: ''
   str: 20 (+5)
   dex: 8 (-1)
   con: 15 (+2)
@@ -121,36 +115,11 @@ dynamic_sheet:
   passive_insight: '8'
   inspiration: 'Yes'
   temp_hp: '0'
-  conditions: ''
-  death_saves: ''
-  limited_use: ''
-  actions: 'The Bi-Flail - Maul Form. +7 to hit, range 5 ft., 2d6 bludgeoning
-
-    The Bi-Flail - Flail Form. +7 to hit, range 5 ft., 1d8 bludgeoning
-
-    Handaxe. +7 to hit, range 20 ft., 1d6 slashing
-
-    Handaxe. +7 to hit, range 20 ft., 1d6 slashing
-
-    Javelin. +7 to hit, range 30 ft., 1d6 piercing
-
-    Arcane Recovery. Once per day when you finish a short rest, you can choose expended
-    spell slots to recover - up to a combined level of 2, and none of the slots can
-    be 6th level or higher.'
-  bonus_actions: Rage. As a bonus action enter a rage for up to 1 minute (10 rounds).
-    You gain advantage on STR checks and saving throws (not attacks), melee damage
-    with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can't
-    cast or concentrate on spells while raging. Your rage ends early if you are knocked
-    unconscious or if your turn ends and you haven’t attacked a hostile creature since
-    your last turn or taken damage since then. You can also end your rage as a bonus
-    action.
-  reactions: Stone’s Endurance. As a reaction, reduce damage dealt to you by 1d12
-    +2 once per short rest.
   proficiencies: Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons;
     Choose a Wizard Skill, Crossbow, Light, Dagger, Dart, Quarterstaff, Shields, Sling
   languages: Common, Giant
   tools: —
-  ddb_last_sync: 2026-07-09 20:14 UTC
+  ddb_last_sync: 2026-07-09 16:06 UTC
   spellcasting_ability: int
   spell_save_dc: '11'
   spell_attack: '+3'
@@ -208,7 +177,25 @@ dynamic_sheet:
     facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. At
     Higher Levels. When you cast this spell using a spell slot of 2nd level or higher,
     you gain 5 additional temporary hit points for each slot level above 1st."}]'
+  actions: "<strong>The Bi-Flail - Maul Form.</strong> +7 to hit, range 5 ft., 2d6\
+    \ bludgeoning<br>\r\n<strong>The Bi-Flail - Flail Form.</strong> +7 to hit, range\
+    \ 5 ft., 1d8 bludgeoning<br>\r\n<strong>Handaxe.</strong> +7 to hit, range 20\
+    \ ft., 1d6 slashing<br>\r\n<strong>Handaxe.</strong> +7 to hit, range 20 ft.,\
+    \ 1d6 slashing<br>\r\n<strong>Javelin.</strong> +7 to hit, range 30 ft., 1d6 piercing<br>\r\
+    \n<strong>Arcane Recovery.</strong> Once per day when you finish a short rest,\
+    \ you can choose expended spell slots to recover - up to a combined level of 2,\
+    \ and none of the slots can be 6th level or higher."
+  bonus_actions: <strong>Rage.</strong> As a bonus action enter a rage for up to 1
+    minute (10 rounds). You gain advantage on STR checks and saving throws (not attacks),
+    melee damage with STR weapons, resistance to bludgeoning, piercing, slashing damage.
+    You can't cast or concentrate on spells while raging. Your rage ends early if
+    you are knocked unconscious or if your turn ends and you haven’t attacked a hostile
+    creature since your last turn or taken damage since then. You can also end your
+    rage as a bonus action.
+  reactions: <strong>Stone’s Endurance.</strong> As a reaction, reduce damage dealt
+    to you by 1d12 +2 once per short rest.
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457474/572fdc897647939edd9359829283e7ba.jpg
 ---
 
 <!-- OP_DDB_SHEET -->

@@ -7,7 +7,7 @@ name: Ayr Ravenshield
 title: Ayr Ravenshield
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/ayr
 op_created_at: '2025-12-14T17:05:38Z'
-op_updated_at: '2026-07-09T15:55:38Z'
+op_updated_at: '2026-07-09T16:12:43Z'
 op_gm_only: false
 is_player_character: true
 tags:
