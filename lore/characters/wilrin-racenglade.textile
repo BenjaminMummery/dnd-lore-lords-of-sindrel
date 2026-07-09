@@ -13,129 +13,197 @@ is_player_character: true
 tags:
 - he/him
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2026-01-15_at_14.33.55.jpeg
+dndbeyond_id: '151085741'
+dndbeyond_url: https://www.dndbeyond.com/characters/151085741
+dndbeyond_synced_at: '2026-07-09T16:06:11Z'
+dynamic_sheet:
+  name: Wilrin RavenGlade
+  class_summary: Sorcerer (Wild Magic) 3
+  prof_bonus: '+2'
+  player_campaign: Ne0ni · The Lords of Sindrel
+  avatar_url: https://www.dndbeyond.com/avatars/54284/245/1581111423-151085741.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+  ac: '13'
+  hp_current: '13'
+  hp_max: '14'
+  speed: 25 ft.
+  initiative: '+3'
+  hit_dice: ''
+  str: 9 (-1)
+  dex: 16 (+3)
+  con: 13 (+1)
+  int: 12 (+1)
+  wis: 15 (+2)
+  cha: 19 (+4)
+  str_save: '-1'
+  dex_save: '+3'
+  con_save: +3 *
+  int_save: '+1'
+  wis_save: '+2'
+  cha_save: +6 *
+  skills: 'STR
+
+    Athletics -1
+
+
+    DEX
+
+    Acrobatics +3
+
+    Sleight Of Hand +3
+
+    Stealth +3
+
+
+    INT
+
+    Arcana +3 *
+
+    History +1
+
+    Investigation +1
+
+    Nature +1
+
+    Religion +1
+
+
+    WIS
+
+    Animal Handling +2
+
+    Insight +2
+
+    Medicine +2
+
+    Perception +2
+
+    Survival +4 *
+
+
+    CHA
+
+    Deception +6 *
+
+    Intimidation +4
+
+    Performance +4
+
+    Persuasion +6 *'
+  ability_blocks_json: '[{"key": "str", "label": "Strength", "score": 9, "modifier":
+    "-1", "save": {"bonus": "-1", "proficient": false}, "skills": [{"name": "Athletics",
+    "bonus": "-1", "proficient": false, "expertise": false}]}, {"key": "dex", "label":
+    "Dexterity", "score": 16, "modifier": "+3", "save": {"bonus": "+3", "proficient":
+    false}, "skills": [{"name": "Acrobatics", "bonus": "+3", "proficient": false,
+    "expertise": false}, {"name": "Sleight Of Hand", "bonus": "+3", "proficient":
+    false, "expertise": false}, {"name": "Stealth", "bonus": "+3", "proficient": false,
+    "expertise": false}]}, {"key": "con", "label": "Constitution", "score": 13, "modifier":
+    "+1", "save": {"bonus": "+3", "proficient": true}, "skills": []}, {"key": "int",
+    "label": "Intelligence", "score": 12, "modifier": "+1", "save": {"bonus": "+1",
+    "proficient": false}, "skills": [{"name": "Arcana", "bonus": "+3", "proficient":
+    true, "expertise": false}, {"name": "History", "bonus": "+1", "proficient": false,
+    "expertise": false}, {"name": "Investigation", "bonus": "+1", "proficient": false,
+    "expertise": false}, {"name": "Nature", "bonus": "+1", "proficient": false, "expertise":
+    false}, {"name": "Religion", "bonus": "+1", "proficient": false, "expertise":
+    false}]}, {"key": "wis", "label": "Wisdom", "score": 15, "modifier": "+2", "save":
+    {"bonus": "+2", "proficient": false}, "skills": [{"name": "Animal Handling", "bonus":
+    "+2", "proficient": false, "expertise": false}, {"name": "Insight", "bonus": "+2",
+    "proficient": false, "expertise": false}, {"name": "Medicine", "bonus": "+2",
+    "proficient": false, "expertise": false}, {"name": "Perception", "bonus": "+2",
+    "proficient": false, "expertise": false}, {"name": "Survival", "bonus": "+4",
+    "proficient": true, "expertise": false}]}, {"key": "cha", "label": "Charisma",
+    "score": 19, "modifier": "+4", "save": {"bonus": "+6", "proficient": true}, "skills":
+    [{"name": "Deception", "bonus": "+6", "proficient": true, "expertise": false},
+    {"name": "Intimidation", "bonus": "+4", "proficient": false, "expertise": false},
+    {"name": "Performance", "bonus": "+4", "proficient": false, "expertise": false},
+    {"name": "Persuasion", "bonus": "+6", "proficient": true, "expertise": false}]}]'
+  passive_perception: '12'
+  passive_investigation: '11'
+  passive_insight: '12'
+  inspiration: 'No'
+  temp_hp: '0'
+  conditions: ''
+  death_saves: ''
+  limited_use: ''
+  actions: 'Dagger. +1 to hit, range 20 ft., 1d4 piercing
+
+    Crossbow, Light. +1 to hit, range 80 ft., 1d8 piercing
+
+    Sorcery Points. You have 3 sorcery points that you regain when you finish a long
+    rest.
+
+    Metamagic - Twinned Spell. You can spend sorcery points equal to a spell''s level
+    (1 for a cantrip) to target a second creature in range with the same spell, as
+    long as the spell at the level it''s being cast is incapable of targeting more
+    than one creature.
+
+    Tides of Chaos. Once per long rest, you can gain advantage on one attack roll,
+    ability check, or saving throw. Before you regain use of this feature, the DM
+    can have you roll on the Wild Magic Surge table after you cast a 1st level or
+    higher spell. You then regain the use of this feature.
+
+    Metamagic - Quickened Spell. When you cast a spell that has a casting time of
+    1 action, you can spend 2 sorcery points to change the casting time to 1 bonus
+    action for this casting.'
+  bonus_actions: Convert Sorcery Points. You can use your sorcery points to gain additional
+    spell slots or sacrifice spell slots to gain additional sorcery points as a bonus
+    action.
+  reactions: ''
+  proficiencies: Crossbow, Light, Dagger, Dart, Flute, Quarterstaff, Sling
+  languages: Common, Gnomish, Halfling
+  tools: —
+  ddb_last_sync: 2026-07-09 16:06 UTC
+  spellcasting_ability: cha
+  spell_save_dc: '14'
+  spell_attack: '+6'
+  spell_slots: '1st 4/4
+
+    2nd 0/2'
+  spell_slots_json: '[{"level": 1, "label": "1st", "max": 4}, {"level": 2, "label":
+    "2nd", "max": 2}]'
+  spell_slots_used_json: '{"2": 2}'
+  spells_prepared: 'Cantrips: Fire Bolt, Mage Hand, Minor Illusion, Retrieve'
+  spells_json: '[{"name": "Fire Bolt", "level": 0, "level_label": "Cantrip", "school":
+    "evocation", "concentration": false, "ritual": false, "casting_time": "1 action",
+    "range": "120 ft.", "hit_dc": "+6 to hit", "components": "V, S", "duration": "Instantaneous",
+    "body": "You hurl a mote of fire at a creature or object within range. Make a
+    ranged spell attack against the target. On a hit, the target takes 1d10 fire damage.
+    A flammable object hit by this spell ignites if it isn''t being worn or carried.
+    This spell''s damage increases by 1d10 when you reach 5th level (2d10), 11th level
+    (3d10), and 17th level (4d10)."}, {"name": "Mage Hand", "level": 0, "level_label":
+    "Cantrip", "school": "conjuration", "concentration": false, "ritual": false, "casting_time":
+    "1 action", "range": "30 ft.", "hit_dc": "—", "components": "V, S", "duration":
+    "1 minute", "body": "A spectral, floating hand appears at a point you choose within
+    range. The hand lasts for the duration or until you dismiss it as an action. The
+    hand vanishes if it is ever more than 30 feet away from you or if you cast this
+    spell again. You can use your action to control the hand. You can use the hand
+    to manipulate an object, open an unlocked door or container, stow or retrieve
+    an item from an open container, or pour the contents out of a vial. You can move
+    the hand up to 30 feet each time you use it. The hand can''t attack, activate
+    magic items, or carry more than 10 pounds."}, {"name": "Minor Illusion", "level":
+    0, "level_label": "Cantrip", "school": "illusion", "concentration": false, "ritual":
+    false, "casting_time": "1 action", "range": "30 ft. (5 ft. cube)", "hit_dc": "—",
+    "components": "S, M", "duration": "1 minute", "body": "You create a sound or an
+    image of an object within range that lasts for the duration. The illusion also
+    ends if you dismiss it as an action or cast this spell again. If you create a
+    sound, its volume can range from a whisper to a scream. It can be your voice,
+    someone else''s voice, a lion''s roar, a beating of drums, or any other sound
+    you choose. The sound continues unabated throughout the duration, or you can make
+    discrete sounds at different times before the spell ends. If you create an image
+    of an object--such as a chair, muddy footprints, or a small chest--it must be
+    no larger than a 5-foot cube. The image can''t create sound, light, smell, or
+    any other sensory effect. Physical interaction with the image reveals it to be
+    an illusion, because things can pass through it. If a creature uses its action
+    to examine the sound or image, the creature can determine that it is an illusion
+    with a successful Intelligence (Investigation) check against your spell save DC.
+    If a creature discerns the illusion for what it is, the illusion becomes faint
+    to the creature."}, {"name": "Retrieve", "level": 0, "level_label": "Cantrip",
+    "school": "transmutation", "concentration": false, "ritual": false, "casting_time":
+    "1 bonus action", "range": "15 ft.", "hit_dc": "—", "components": "V", "duration":
+    "Instantaneous", "body": "You cause an object within range that isn’t being worn
+    or carried to fly to your open hand. The object must weigh no more than 10 pounds
+    or the spell fails."}]'
+dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 ---
-
-<!-- OP_DDB_SHEET -->
-<div class="ddb-sheet">
-  <div class="ddb-header">
-    <div class="ddb-header-main">
-      <h1 class="ddb-name">Wilrin RavenGlade</h1>
-      <p class="ddb-subtitle">Sorcerer (Wild Magic) 3</p>
-      <ul class="ddb-meta">
-        <li><span class="ddb-label">Proficiency</span> +2</li>
-      </ul>
-      <p class="ddb-links">Ne0ni · The Lords of Sindrel</p>
-    </div>
-    <div class="ddb-avatar-wrap"><img src="https://www.dndbeyond.com/avatars/54284/245/1581111423-151085741.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp" alt=""></div>
-  </div>
-
-  <div class="ddb-section ddb-defenses">
-    <h2 class="ddb-section-title">Defenses</h2>
-    <div class="ddb-pill-grid">
-      <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">13</span></div>
-      <div class="ddb-pill ddb-pill-wide">
-        <span class="ddb-pill-label">HP</span>
-        <span class="ddb-pill-value">13</span>
-        <span class="ddb-pill-sep">/</span>
-        <span class="ddb-pill-value">14</span>
-      </div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">25 ft.</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+3</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
-    </div>
-  </div>
-
-  <div class="ddb-columns">
-    <div class="ddb-section">
-      <h2 class="ddb-section-title">Abilities</h2>
-      <div class="ddb-ability-grid">
-        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">9 (-1)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">16 (+3)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">13 (+1)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">12 (+1)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">15 (+2)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">19 (+4)</span></div>
-      </div>
-      <h3 class="ddb-subsection-title">Saving Throws</h3>
-      <div class="ddb-ability-grid">
-        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">-1</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">+3</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+3 *</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">+1</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+2</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+6 *</span></div>
-      </div>
-    </div>
-
-    <div class="ddb-section">
-      <h2 class="ddb-section-title">Skills &amp; Senses</h2>
-      <div class="ddb-block ddb-skills">Acrobatics +3<br>
-Animal Handling +2<br>
-Arcana +3 *<br>
-Athletics -1<br>
-Deception +6 *<br>
-History +1<br>
-Insight +2<br>
-Intimidation +4<br>
-Investigation +1<br>
-Medicine +2<br>
-Nature +1<br>
-Perception +2<br>
-Performance +4<br>
-Persuasion +6 *<br>
-Religion +1<br>
-Sleight Of Hand +3<br>
-Stealth +3<br>
-Survival +4 *</div>
-      <div class="ddb-sense-row">
-        <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">12</span></div>
-        <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">11</span></div>
-        <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">12</span></div>
-      </div>
-    </div>
-  </div>
-
-  <div class="ddb-section">
-<h2 class="ddb-section-title">Combat</h2>
-<h3 class="ddb-subsection-title">Actions</h3>
-<div class="ddb-block"><strong>Dagger.</strong> +1 to hit, range 20 ft., 1d4 piercing<br>
-<strong>Crossbow, Light.</strong> +1 to hit, range 80 ft., 1d8 piercing<br>
-<strong>Sorcery Points.</strong> You have sorcery points that you regain when you finish a long rest.<br>
-<strong>Metamagic - Twinned Spell.</strong> You can spend sorcery points equal to a spell's level (1 for a cantrip) to target a second creature in range with the same spell, as long as the spell at the level it's being cast is incapable of targeting more than one creature.<br>
-<strong>Tides of Chaos.</strong> Once per long rest, you can gain advantage on one attack roll, ability check, or saving throw. Before you regain use of this feature, the DM can have you roll on the Wild Magic Surge table after you cast a 1st level or higher spell. You then regain the use of this feature.<br>
-<strong>Metamagic - Quickened Spell.</strong> When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.</div>
-<h3 class="ddb-subsection-title">Bonus Actions</h3>
-<div class="ddb-block"><strong>Convert Sorcery Points.</strong> You can use your sorcery points to gain additional spell slots or sacrifice spell slots to gain additional sorcery points as a bonus action.</div>
-</div>
-
-  <div class="ddb-columns ddb-bottom-row">
-    <div class="ddb-section ddb-half">
-      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
-      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Crossbow, Light, Dagger, Dart, Flute, Quarterstaff, Sling</span></div>
-      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Gnomish, Halfling</span></div>
-      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
-    </div>
-      <div class="ddb-section ddb-half">
-    <h2 class="ddb-section-title">Spellcasting</h2>
-    <div class="ddb-spell-header">
-      <div><span class="ddb-label">Ability</span> cha</div>
-      <div><span class="ddb-label">Save DC</span> 14</div>
-      <div><span class="ddb-label">Attack</span> +6</div>
-    </div>
-    <h3 class="ddb-subsection-title">Spell Slots</h3>
-    <div class="ddb-block">1st 4<br>
-2nd 2</div>
-    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
-    <div class="ddb-block">Cantrips: Fire Bolt, Mage Hand, Minor Illusion, Retrieve</div>
-  </div>
-
-  </div>
-
-  <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 15:51 UTC</p>
-    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
-  </div>
-</div>
 
 <!-- OP_DESCRIPTION -->
 Wilrin is a halfling sorcerer — slight of frame, sharp of cheekbone, with rounded ears flushed pink at the tips. His hair and beard are the same dark burgundy, the beard trimmed neat and the hair swept back in layered spikes. His complexion is pale; his eyes do not match — one dark and watchful, the other unnaturally pale, a reminder of the [[The Fallowhurst Sigil | Fallowhurst sigil]] that bound him. He dresses in a fitted wine-dark coat embroidered with curling spiral work at the chest and closed with a row of polished buttons.
@@ -169,9 +237,9 @@ h3. Key Items
 <strong>Ability Score Increase.</strong> Your Charisma score increases by 1.<br>
 <strong>Wild Magic Surge.</strong> Once per turn, the DM can have you roll a d20 immediately after you cast a sorcerer spell of 1st level or higher. If you roll a 1, roll on the Wild Magic Surge table to create a magical effect.<br>
 <strong>Tides of Chaos.</strong> Once per long rest, you can gain advantage on one attack roll, ability check, or saving throw. Before you regain use of this feature, the DM can have you roll on the Wild Magic Surge table after you cast a 1st level or higher spell. You then regain the use of this feature.<br>
-<strong>Spellcasting.</strong> You can cast known sorcerer spells using CHA as your spellcasting modifier (Spell DC , Spell Attack ). You can use an arcane focus as a spellcasting focus.<br>
+<strong>Spellcasting.</strong> You can cast known sorcerer spells using CHA as your spellcasting modifier (Spell DC 14, Spell Attack +6). You can use an arcane focus as a spellcasting focus.<br>
 <strong>Sorcerous Origin.</strong> Choose a sorcerous origin, which describes the source of your innate magical power: Draconic Bloodline, detailed at the end of the class description, or one from another source. Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.<br>
-<strong>Font of Magic.</strong> You have sorcery points that you regain when you finish a long rest. You can use your sorcery points to gain additional spell slots or sacrifice spell slots to gain additional sorcery points as a bonus action.<br>
+<strong>Font of Magic.</strong> You have 3 sorcery points that you regain when you finish a long rest. You can use your sorcery points to gain additional spell slots or sacrifice spell slots to gain additional sorcery points as a bonus action.<br>
 <strong>Metamagic.</strong> You gain the ability to twist spells to suit your needs.<br>
 <strong>Proficiencies.</strong> Armor: None Weapons: Daggers, darts, slings, quarterstaffs, light crossbows Tools: None Saving Throws: Constitution, Charisma Skills: Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion<br>
 <strong>Hit Points.</strong> Hit Dice: 1d6 per sorcerer level Hit Points at 1st Level: 6 + your Constitution modifier Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st<br>

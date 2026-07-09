@@ -13,120 +13,161 @@ is_player_character: true
 tags:
 - he/him
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457450/WhatsApp_Image_2026-01-11_at_12.12.06.jpeg
+dndbeyond_id: '159193691'
+dndbeyond_url: https://www.dndbeyond.com/characters/159193691
+dndbeyond_synced_at: '2026-07-09T16:06:09Z'
+dynamic_sheet:
+  name: Pin
+  class_summary: Fighter (Battle Master) 3
+  prof_bonus: '+2'
+  player_campaign: 165309 · The Lords of Sindrel
+  avatar_url: https://www.dndbeyond.com/avatars/54026/691/1581111423-159193691.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+  ac: '13'
+  hp_current: '22'
+  hp_max: '22'
+  speed: 30 ft.
+  initiative: '+2'
+  hit_dice: ''
+  str: 16 (+3)
+  dex: 14 (+2)
+  con: 15 (+2)
+  int: 9 (-1)
+  wis: 13 (+1)
+  cha: 11 (+0)
+  str_save: +5 *
+  dex_save: '+2'
+  con_save: +4 *
+  int_save: '-1'
+  wis_save: '+1'
+  cha_save: '+0'
+  skills: 'STR
+
+    Athletics +5 *
+
+
+    DEX
+
+    Acrobatics +2
+
+    Sleight Of Hand +2
+
+    Stealth +2
+
+
+    INT
+
+    Arcana -1
+
+    History -1
+
+    Investigation -1
+
+    Nature -1
+
+    Religion -1
+
+
+    WIS
+
+    Animal Handling +1
+
+    Insight +1
+
+    Medicine +1
+
+    Perception +3 *
+
+    Survival +3 *
+
+
+    CHA
+
+    Deception +0
+
+    Intimidation +2 *
+
+    Performance +0
+
+    Persuasion +0'
+  ability_blocks_json: '[{"key": "str", "label": "Strength", "score": 16, "modifier":
+    "+3", "save": {"bonus": "+5", "proficient": true}, "skills": [{"name": "Athletics",
+    "bonus": "+5", "proficient": true, "expertise": false}]}, {"key": "dex", "label":
+    "Dexterity", "score": 14, "modifier": "+2", "save": {"bonus": "+2", "proficient":
+    false}, "skills": [{"name": "Acrobatics", "bonus": "+2", "proficient": false,
+    "expertise": false}, {"name": "Sleight Of Hand", "bonus": "+2", "proficient":
+    false, "expertise": false}, {"name": "Stealth", "bonus": "+2", "proficient": false,
+    "expertise": false}]}, {"key": "con", "label": "Constitution", "score": 15, "modifier":
+    "+2", "save": {"bonus": "+4", "proficient": true}, "skills": []}, {"key": "int",
+    "label": "Intelligence", "score": 9, "modifier": "-1", "save": {"bonus": "-1",
+    "proficient": false}, "skills": [{"name": "Arcana", "bonus": "-1", "proficient":
+    false, "expertise": false}, {"name": "History", "bonus": "-1", "proficient": false,
+    "expertise": false}, {"name": "Investigation", "bonus": "-1", "proficient": false,
+    "expertise": false}, {"name": "Nature", "bonus": "-1", "proficient": false, "expertise":
+    false}, {"name": "Religion", "bonus": "-1", "proficient": false, "expertise":
+    false}]}, {"key": "wis", "label": "Wisdom", "score": 13, "modifier": "+1", "save":
+    {"bonus": "+1", "proficient": false}, "skills": [{"name": "Animal Handling", "bonus":
+    "+1", "proficient": false, "expertise": false}, {"name": "Insight", "bonus": "+1",
+    "proficient": false, "expertise": false}, {"name": "Medicine", "bonus": "+1",
+    "proficient": false, "expertise": false}, {"name": "Perception", "bonus": "+3",
+    "proficient": true, "expertise": false}, {"name": "Survival", "bonus": "+3", "proficient":
+    true, "expertise": false}]}, {"key": "cha", "label": "Charisma", "score": 11,
+    "modifier": "+0", "save": {"bonus": "+0", "proficient": false}, "skills": [{"name":
+    "Deception", "bonus": "+0", "proficient": false, "expertise": false}, {"name":
+    "Intimidation", "bonus": "+2", "proficient": true, "expertise": false}, {"name":
+    "Performance", "bonus": "+0", "proficient": false, "expertise": false}, {"name":
+    "Persuasion", "bonus": "+0", "proficient": false, "expertise": false}]}]'
+  passive_perception: '13'
+  passive_investigation: '9'
+  passive_insight: '11'
+  inspiration: 'No'
+  temp_hp: '0'
+  conditions: ''
+  death_saves: ''
+  limited_use: ''
+  actions: 'Longsword. +5 to hit, range 5 ft., 1d8 slashing
+
+    Handaxe. +5 to hit, range 20 ft., 1d6 slashing
+
+    Longbow. +5 to hit, range 150 ft., 1d8 piercing
+
+    Action Surge. You can take one additional action on your turn. This can be used
+    times per short rest.
+
+    Superiority Dice. You learn maneuvers that are fueled by superiority dice. Maneuvers
+    enhance an attack in some way. You have superiority dice per short rest.'
+  bonus_actions: 'Second Wind. Once per short rest, you can use a bonus action to
+    regain 1d10 + 3 HP.
+
+    Maneuvers: Commander’s Strike. When you take the Attack action on your turn, you
+    can forgo one of your attacks and use a bonus action to direct an ally that can
+    see or hear you to strike using its reaction, adding the superiority die to the
+    damage roll.'
+  reactions: 'Fighting Style: Protection. While wielding a shield and a creature you
+    can see attacks a target other than you within 5 ft., you can use your reaction
+    to impose disadvantage on the attack roll.
+
+    Maneuvers: Parry. When another creature damages you with a melee attack, you can
+    use your reaction and expend one superiority die to reduce the damage by the number
+    you roll on your superiority die +0.
+
+    Maneuvers: Riposte. When a creature misses you with a melee attack, you can use
+    your reaction and expend one superiority die to make a melee weapon attack against
+    it (add the superiority die to the attack’s damage roll on hit).'
+  proficiencies: Heavy Armor, Light Armor, Medium Armor, Shields; Martial Weapons,
+    Simple Weapons; Cook's Utensils, Playing Card Set, Shields, Vehicles (Land)
+  languages: Common, Dwarvish
+  tools: —
+  ddb_last_sync: 2026-07-09 16:06 UTC
+  spellcasting_ability: ''
+  spell_save_dc: ''
+  spell_attack: ''
+  spell_slots: ''
+  spell_slots_json: '[]'
+  spell_slots_used_json: '{}'
+  spells_prepared: ''
+  spells_json: '[]'
+dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 ---
-
-<!-- OP_DDB_SHEET -->
-<div class="ddb-sheet">
-  <div class="ddb-header">
-    <div class="ddb-header-main">
-      <h1 class="ddb-name">Pin</h1>
-      <p class="ddb-subtitle">Fighter (Battle Master) 3</p>
-      <ul class="ddb-meta">
-        <li><span class="ddb-label">Proficiency</span> +2</li>
-      </ul>
-      <p class="ddb-links">165309 · The Lords of Sindrel</p>
-    </div>
-    <div class="ddb-avatar-wrap"><img src="https://www.dndbeyond.com/avatars/54026/691/1581111423-159193691.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp" alt=""></div>
-  </div>
-
-  <div class="ddb-section ddb-defenses">
-    <h2 class="ddb-section-title">Defenses</h2>
-    <div class="ddb-pill-grid">
-      <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">13</span></div>
-      <div class="ddb-pill ddb-pill-wide">
-        <span class="ddb-pill-label">HP</span>
-        <span class="ddb-pill-value">22</span>
-        <span class="ddb-pill-sep">/</span>
-        <span class="ddb-pill-value">22</span>
-      </div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">30 ft.</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+2</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
-    </div>
-  </div>
-
-  <div class="ddb-columns">
-    <div class="ddb-section">
-      <h2 class="ddb-section-title">Abilities</h2>
-      <div class="ddb-ability-grid">
-        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">16 (+3)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">14 (+2)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">15 (+2)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">9 (-1)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">13 (+1)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">11 (+0)</span></div>
-      </div>
-      <h3 class="ddb-subsection-title">Saving Throws</h3>
-      <div class="ddb-ability-grid">
-        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">+5 *</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">+2</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+4 *</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">-1</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+1</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+0</span></div>
-      </div>
-    </div>
-
-    <div class="ddb-section">
-      <h2 class="ddb-section-title">Skills &amp; Senses</h2>
-      <div class="ddb-block ddb-skills">Acrobatics +2<br>
-Animal Handling +1<br>
-Arcana -1<br>
-Athletics +5 *<br>
-Deception +0<br>
-History -1<br>
-Insight +1<br>
-Intimidation +2 *<br>
-Investigation -1<br>
-Medicine +1<br>
-Nature -1<br>
-Perception +3 *<br>
-Performance +0<br>
-Persuasion +0<br>
-Religion -1<br>
-Sleight Of Hand +2<br>
-Stealth +2<br>
-Survival +3 *</div>
-      <div class="ddb-sense-row">
-        <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">13</span></div>
-        <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">9</span></div>
-        <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">11</span></div>
-      </div>
-    </div>
-  </div>
-
-  <div class="ddb-section">
-<h2 class="ddb-section-title">Combat</h2>
-<h3 class="ddb-subsection-title">Actions</h3>
-<div class="ddb-block"><strong>Longsword.</strong> +5 to hit, range 5 ft., 1d8 slashing<br>
-<strong>Handaxe.</strong> +5 to hit, range 20 ft., 1d6 slashing<br>
-<strong>Longbow.</strong> +5 to hit, range 150 ft., 1d8 piercing<br>
-<strong>Action Surge.</strong> You can take one additional action on your turn. This can be used times per short rest.<br>
-<strong>Superiority Dice.</strong> You learn maneuvers that are fueled by superiority dice. Maneuvers enhance an attack in some way. You have superiority dice per short rest.</div>
-<h3 class="ddb-subsection-title">Bonus Actions</h3>
-<div class="ddb-block"><strong>Second Wind.</strong> Once per short rest, you can use a bonus action to regain 1d10 + HP.<br>
-<strong>Maneuvers: Commander’s Strike.</strong> When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct an ally that can see or hear you to strike using its reaction, adding the superiority die to the damage roll.</div>
-<h3 class="ddb-subsection-title">Reactions</h3>
-<div class="ddb-block"><strong>Fighting Style: Protection.</strong> While wielding a shield and a creature you can see attacks a target other than you within 5 ft., you can use your reaction to impose disadvantage on the attack roll.<br>
-<strong>Maneuvers: Parry.</strong> When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die .<br>
-<strong>Maneuvers: Riposte.</strong> When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against it (add the superiority die to the attack’s damage roll on hit).</div>
-</div>
-
-  <div class="ddb-columns ddb-bottom-row">
-    <div class="ddb-section ddb-half">
-      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
-      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Heavy Armor, Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons; Cook's Utensils, Playing Card Set, Shields, Vehicles (Land)</span></div>
-      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Dwarvish</span></div>
-      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
-    </div>
-    
-  </div>
-
-  <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 15:51 UTC</p>
-    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
-  </div>
-</div>
 
 <!-- OP_DESCRIPTION -->
 A slim young man of about 5'9" — fair-skinned, brown-haired, green-eyed, wiry at a hundred and forty-five pounds. He carries himself with a soldier's quiet economy; watchful, hard to read. A young warrior seeking community, purpose and answers: does his sword hold the spirit of his dead friend, or is he losing his mind?
@@ -180,8 +221,8 @@ h4. Recent Events
 <strong>Student of War.</strong> You gain proficiency with one type of artisan’s tools.<br>
 <strong>Maneuvers.</strong> The maneuvers are presented in alphabetical order.<br>
 <strong>Fighting Style.</strong> You adopt a fighting style specialty.<br>
-<strong>Second Wind.</strong> Once per short rest, you can use a bonus action to regain 1d10 + HP.<br>
-<strong>Action Surge.</strong> You can take one additional action on your turn. This can be used times per short rest.<br>
+<strong>Second Wind.</strong> Once per short rest, you can use a bonus action to regain 1d10 + 3 HP.<br>
+<strong>Action Surge.</strong> You can take one additional action on your turn. This can be used 1 times per short rest.<br>
 <strong>Martial Archetype.</strong> At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.<br>
 <strong>Proficiencies.</strong> Armor: All armor, shields Weapons: Simple weapons, martial weapons Tools: None Saving Throws: Strength, Constitution Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival<br>
 <strong>Hit Points.</strong> Hit Dice: 1d10 per fighter level Hit Points at 1st Level: 10 + your Constitution modifier Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per fighter level after 1st<br>

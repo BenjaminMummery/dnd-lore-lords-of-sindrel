@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7442634/1000025365.jpg
 dndbeyond_id: '151085721'
 dndbeyond_url: https://www.dndbeyond.com/characters/151085721
-dndbeyond_synced_at: '2026-07-09T15:52:27Z'
+dndbeyond_synced_at: '2026-07-09T16:06:11Z'
 dynamic_sheet:
   name: Silrie Aegiskiir
   class_summary: Monk (Way of the Astral Self) 3
@@ -172,7 +172,7 @@ dynamic_sheet:
   proficiencies: Simple Weapons; Disguise Kit, Shortsword
   languages: Abyssal, Celestial, Common, Elvish
   tools: Cartographer's Tools
-  ddb_last_sync: 2026-07-09 15:52 UTC
+  ddb_last_sync: 2026-07-09 16:06 UTC
   spellcasting_ability: ''
   spell_save_dc: ''
   spell_attack: ''
@@ -181,134 +181,8 @@ dynamic_sheet:
   spell_slots_used_json: '{}'
   spells_prepared: ''
   spells_json: '[]'
+dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 ---
-
-<!-- OP_DDB_SHEET -->
-<div class="ddb-sheet">
-  <div class="ddb-header">
-    <div class="ddb-header-main">
-      <h1 class="ddb-name">Silrie Aegiskiir</h1>
-      <p class="ddb-subtitle">Monk (Way of the Astral Self) 3</p>
-      <ul class="ddb-meta">
-        <li><span class="ddb-label">Proficiency</span> +2</li>
-        <li><span class="ddb-label">Inspiration</span> No</li>
-      </ul>
-      <p class="ddb-links">BigBearBjorn30 · The Lords of Sindrel</p>
-    </div>
-    <div class="ddb-avatar-wrap"><img src="https://www.dndbeyond.com/avatars/57653/15/1581111423-151085721.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp" alt=""></div>
-  </div>
-
-  <div class="ddb-section ddb-defenses">
-    <h2 class="ddb-section-title">Defenses</h2>
-    <div class="ddb-pill-grid">
-      <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">13</span></div>
-      <div class="ddb-pill ddb-pill-wide">
-        <span class="ddb-pill-label">HP</span>
-        <span class="ddb-pill-value">18</span>
-        <span class="ddb-pill-sep">/</span>
-        <span class="ddb-pill-value">18</span>
-      </div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Temp</span><span class="ddb-pill-value">0</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">30 ft.</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+4</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
-    </div>
-    
-  </div>
-
-  <div class="ddb-columns">
-    <div class="ddb-section">
-      <h2 class="ddb-section-title">Abilities</h2>
-      <div class="ddb-ability-grid">
-        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">14 (+2)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">18 (+4)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">15 (+2)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">14 (+2)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">16 (+3)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">12 (+1)</span></div>
-      </div>
-      <h3 class="ddb-subsection-title">Saving Throws</h3>
-      <div class="ddb-ability-grid">
-        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">+4 *</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">+6 *</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+2</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">+2</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+3</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+1</span></div>
-      </div>
-    </div>
-
-    <div class="ddb-section">
-      <h2 class="ddb-section-title">Skills &amp; Senses</h2>
-      <div class="ddb-block ddb-skills"><h3 class="ddb-subsection-title">STR</h3><br>
-<div class="ddb-block ddb-skill-group">Athletics +2</div><br>
-<h3 class="ddb-subsection-title">DEX</h3><br>
-<div class="ddb-block ddb-skill-group">Acrobatics +6 *<br><br>
-Sleight Of Hand +4<br><br>
-Stealth +4</div><br>
-<h3 class="ddb-subsection-title">INT</h3><br>
-<div class="ddb-block ddb-skill-group">Arcana +4 *<br><br>
-History +2<br><br>
-Investigation +2<br><br>
-Nature +2<br><br>
-Religion +4 *</div><br>
-<h3 class="ddb-subsection-title">WIS</h3><br>
-<div class="ddb-block ddb-skill-group">Animal Handling +3<br><br>
-Insight +5 *<br><br>
-Medicine +3<br><br>
-Perception +5 *<br><br>
-Survival +5 *</div><br>
-<h3 class="ddb-subsection-title">CHA</h3><br>
-<div class="ddb-block ddb-skill-group">Deception +1<br><br>
-Intimidation +1<br><br>
-Performance +1<br><br>
-Persuasion +1</div></div>
-      <div class="ddb-sense-row">
-        <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">15</span></div>
-        <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">12</span></div>
-        <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">15</span></div>
-      </div>
-    </div>
-  </div>
-
-  <div class="ddb-section">
-<h2 class="ddb-section-title">Combat</h2>
-<h3 class="ddb-subsection-title">Actions</h3>
-<div class="ddb-block"><strong>Quarterstaff.</strong> +4 to hit, range 5 ft., 1d6 bludgeoning<br>
-<strong>Dart.</strong> +4 to hit, range 20 ft., 1d4 piercing<br>
-<strong>Ki Points.</strong> You can spend Ki Points to fuel ki features. You have 3 points per short rest and your Ki save DC is 13.<br>
-<strong>Arms of the Astral Self (Wis.).</strong> Whilst your Arms of the Astral Self are summoned, you can use the spectral arms to make unarmed strikes and can use your Wis. mod in place of your Str. or Dex. modifier for the attack and damage rolls.<br>
-<strong>Arms of the Astral Self.</strong> Whilst your Arms of the Astral Self are summoned, you can use the spectral arms to make unarmed strikes.<br>
-<strong>Ki-Fueled Attack.</strong> If you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.</div>
-<h3 class="ddb-subsection-title">Bonus Actions</h3>
-<div class="ddb-block"><strong>Starlight Step.</strong> You can magically teleport up to 30 ft. to an unoccupied space you can see.<br>
-<strong>Unarmed Strike.</strong> When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action.<br>
-<strong>Flurry of Blows.</strong> After you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.<br>
-<strong>Patient Defense.</strong> You can spend 1 ki point to take the Dodge action as a bonus action on your turn.<br>
-<strong>Step of the Wind.</strong> You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.<br>
-<strong>Arms of the Astral Self: Summon.</strong> As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 ft. of you must succeed on a DEX saving throw (DC:13) or take force damage. For 10 minutes: - You can use WIS in place of STR when making STR checks/saving throws. - You can use the spectral arms to make unarmed strikes.</div>
-<h3 class="ddb-subsection-title">Reactions</h3>
-<div class="ddb-block"><strong>Deflect Missiles.</strong> You can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 . If you reduce damage to 0 and have a free hand, you can spend 1 ki point to make a ranged attack (as with a monk weapon) with a range of 20/60.<br>
-<strong>Deflect Missiles Attack.</strong> If you reduce damage to 0 and have a free hand, you can spend 1 ki point to make a ranged attack (as with a monk weapon).</div>
-</div>
-
-  
-
-  <div class="ddb-columns ddb-bottom-row">
-    <div class="ddb-section ddb-half">
-      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
-      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Simple Weapons; Disguise Kit, Shortsword</span></div>
-      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Abyssal, Celestial, Common, Elvish</span></div>
-      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">Cartographer's Tools</span></div>
-    </div>
-    
-  </div>
-
-  <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-09 15:52 UTC</p>
-    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
-  </div>
-</div>
 
 <!-- OP_DESCRIPTION -->
 A tall, pale figure of about 5'11" with long white hair bound in pale wrappings. An ornate ritual mask covers their face. Deep purple and navy robes, white bindings at the arms — the dress of someone who treats movement as a grammar.

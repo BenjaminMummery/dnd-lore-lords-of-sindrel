@@ -13,137 +13,205 @@ is_player_character: true
 tags:
 - she/her
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457474/572fdc897647939edd9359829283e7ba.jpg
+dndbeyond_id: '157065911'
+dndbeyond_url: https://www.dndbeyond.com/characters/157065911
+dndbeyond_synced_at: '2026-07-09T16:06:08Z'
+dynamic_sheet:
+  name: Nakoma Deathwalker Mor'got'ha
+  class_summary: Barbarian 2 / Wizard 1
+  prof_bonus: '+2'
+  player_campaign: Perspehone · The Lords of Sindrel
+  avatar_url: ''
+  ac: '12'
+  hp_current: '10'
+  hp_max: '23'
+  speed: 30 ft.
+  initiative: '-1'
+  hit_dice: ''
+  str: 20 (+5)
+  dex: 8 (-1)
+  con: 15 (+2)
+  int: 13 (+1)
+  wis: 7 (-2)
+  cha: 12 (+1)
+  str_save: +7 *
+  dex_save: '-1'
+  con_save: +4 *
+  int_save: +3 *
+  wis_save: +0 *
+  cha_save: '+1'
+  skills: 'STR
+
+    Athletics +7 *
+
+
+    DEX
+
+    Acrobatics -1
+
+    Sleight Of Hand -1
+
+    Stealth -1
+
+
+    INT
+
+    Arcana +1
+
+    History +3 *
+
+    Investigation +1
+
+    Nature +1
+
+    Religion +1
+
+
+    WIS
+
+    Animal Handling -2
+
+    Insight -2
+
+    Medicine -2
+
+    Perception +0 *
+
+    Survival +0 *
+
+
+    CHA
+
+    Deception +1
+
+    Intimidation +3 *
+
+    Performance +1
+
+    Persuasion +1'
+  ability_blocks_json: '[{"key": "str", "label": "Strength", "score": 20, "modifier":
+    "+5", "save": {"bonus": "+7", "proficient": true}, "skills": [{"name": "Athletics",
+    "bonus": "+7", "proficient": true, "expertise": false}]}, {"key": "dex", "label":
+    "Dexterity", "score": 8, "modifier": "-1", "save": {"bonus": "-1", "proficient":
+    false}, "skills": [{"name": "Acrobatics", "bonus": "-1", "proficient": false,
+    "expertise": false}, {"name": "Sleight Of Hand", "bonus": "-1", "proficient":
+    false, "expertise": false}, {"name": "Stealth", "bonus": "-1", "proficient": false,
+    "expertise": false}]}, {"key": "con", "label": "Constitution", "score": 15, "modifier":
+    "+2", "save": {"bonus": "+4", "proficient": true}, "skills": []}, {"key": "int",
+    "label": "Intelligence", "score": 13, "modifier": "+1", "save": {"bonus": "+3",
+    "proficient": true}, "skills": [{"name": "Arcana", "bonus": "+1", "proficient":
+    false, "expertise": false}, {"name": "History", "bonus": "+3", "proficient": true,
+    "expertise": false}, {"name": "Investigation", "bonus": "+1", "proficient": false,
+    "expertise": false}, {"name": "Nature", "bonus": "+1", "proficient": false, "expertise":
+    false}, {"name": "Religion", "bonus": "+1", "proficient": false, "expertise":
+    false}]}, {"key": "wis", "label": "Wisdom", "score": 7, "modifier": "-2", "save":
+    {"bonus": "+0", "proficient": true}, "skills": [{"name": "Animal Handling", "bonus":
+    "-2", "proficient": false, "expertise": false}, {"name": "Insight", "bonus": "-2",
+    "proficient": false, "expertise": false}, {"name": "Medicine", "bonus": "-2",
+    "proficient": false, "expertise": false}, {"name": "Perception", "bonus": "+0",
+    "proficient": true, "expertise": false}, {"name": "Survival", "bonus": "+0", "proficient":
+    true, "expertise": false}]}, {"key": "cha", "label": "Charisma", "score": 12,
+    "modifier": "+1", "save": {"bonus": "+1", "proficient": false}, "skills": [{"name":
+    "Deception", "bonus": "+1", "proficient": false, "expertise": false}, {"name":
+    "Intimidation", "bonus": "+3", "proficient": true, "expertise": false}, {"name":
+    "Performance", "bonus": "+1", "proficient": false, "expertise": false}, {"name":
+    "Persuasion", "bonus": "+1", "proficient": false, "expertise": false}]}]'
+  passive_perception: '10'
+  passive_investigation: '11'
+  passive_insight: '8'
+  inspiration: 'Yes'
+  temp_hp: '0'
+  conditions: ''
+  death_saves: ''
+  limited_use: ''
+  actions: 'The Bi-Flail - Maul Form. +7 to hit, range 5 ft., 2d6 bludgeoning
+
+    The Bi-Flail - Flail Form. +7 to hit, range 5 ft., 1d8 bludgeoning
+
+    Handaxe. +7 to hit, range 20 ft., 1d6 slashing
+
+    Handaxe. +7 to hit, range 20 ft., 1d6 slashing
+
+    Javelin. +7 to hit, range 30 ft., 1d6 piercing
+
+    Arcane Recovery. Once per day when you finish a short rest, you can choose expended
+    spell slots to recover - up to a combined level of 2, and none of the slots can
+    be 6th level or higher.'
+  bonus_actions: Rage. As a bonus action enter a rage for up to 1 minute (10 rounds).
+    You gain advantage on STR checks and saving throws (not attacks), melee damage
+    with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can't
+    cast or concentrate on spells while raging. Your rage ends early if you are knocked
+    unconscious or if your turn ends and you haven’t attacked a hostile creature since
+    your last turn or taken damage since then. You can also end your rage as a bonus
+    action.
+  reactions: Stone’s Endurance. As a reaction, reduce damage dealt to you by 1d12
+    +2 once per short rest.
+  proficiencies: Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons;
+    Choose a Wizard Skill, Crossbow, Light, Dagger, Dart, Quarterstaff, Shields, Sling
+  languages: Common, Giant
+  tools: —
+  ddb_last_sync: 2026-07-09 16:06 UTC
+  spellcasting_ability: int
+  spell_save_dc: '11'
+  spell_attack: '+3'
+  spell_slots: 1st 1/2
+  spell_slots_json: '[{"level": 1, "label": "1st", "max": 2}]'
+  spell_slots_used_json: '{"1": 1}'
+  spells_prepared: 'Cantrips: Chill Touch, Green-Flame Blade, Toll the Dead
+
+    Level 1: Cause Fear, False Life'
+  spells_json: '[{"name": "Chill Touch", "level": 0, "level_label": "Cantrip", "school":
+    "necromancy", "concentration": false, "ritual": false, "casting_time": "1 action",
+    "range": "120 ft.", "hit_dc": "+3 to hit", "components": "V, S", "duration": "1
+    round", "body": "You create a ghostly, skeletal hand in the space of a creature
+    within range. Make a ranged spell attack against the creature to assail it with
+    the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it
+    can''t regain hit points until the start of your next turn. Until then, the hand
+    clings to the target. If you hit an undead target, it also has disadvantage on
+    attack rolls against you until the end of your next turn. This spell''s damage
+    increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level
+    (4d8)."}, {"name": "Green-Flame Blade", "level": 0, "level_label": "Cantrip",
+    "school": "evocation", "concentration": false, "ritual": false, "casting_time":
+    "1 action", "range": "Self (5 ft. sphere)", "hit_dc": "+3 to hit", "components":
+    "S, M", "duration": "Instantaneous", "body": "You brandish the weapon used in
+    the spell’s casting and make a melee attack with it against one creature within
+    5 feet of you. On a hit, the target suffers the weapon attack’s normal effects,
+    and you can cause green fire to leap from the target to a different creature of
+    your choice that you can see within 5 feet of it. The second creature takes fire
+    damage equal to your spellcasting ability modifier. This spell’s damage increases
+    when you reach certain levels. At 5th level, the melee attack deals an extra 1d8
+    fire damage to the target on a hit, and the fire damage to the second creature
+    increases to 1d8 + your spellcasting ability modifier. Both damage rolls increase
+    by 1d8 at 11th level (2d8 and 2d8) and 17th level (3d8 and 3d8)."}, {"name": "Toll
+    the Dead", "level": 0, "level_label": "Cantrip", "school": "necromancy", "concentration":
+    false, "ritual": false, "casting_time": "1 action", "range": "60 ft.", "hit_dc":
+    "DC 11 (WIS)", "components": "V, S", "duration": "Instantaneous", "body": "You
+    point at one creature you can see within range, and the sound of a dolorous bell
+    fills the air around it for a moment. The target must succeed on a Wisdom saving
+    throw or take 1d8 necrotic damage. If the target is missing any of its hit points,
+    it instead takes 1d12 necrotic damage. The spell’s damage increases by one die
+    when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level
+    (4d8 or 4d12)."}, {"name": "Cause Fear", "level": 1, "level_label": "1st", "school":
+    "necromancy", "concentration": true, "ritual": false, "casting_time": "1 action",
+    "range": "60 ft.", "hit_dc": "DC 11 (WIS)", "components": "V", "duration": "Concentration,
+    up to 1 minute", "body": "You awaken the sense of mortality in one creature you
+    can see within range. A construct or an undead is immune to this effect. The target
+    must succeed on a Wisdom saving throw or become frightened of you until the spell
+    ends. The frightened target can repeat the saving throw at the end of each of
+    its turns, ending the effect on itself on a success. At Higher Levels. &nbsp;
+    When you cast this spell using a spell slot of 2nd level or higher, you can target
+    one additional creature for each slot level above 1st. The creatures must be within
+    30 feet of each other when you target them."}, {"name": "False Life", "level":
+    1, "level_label": "1st", "school": "necromancy", "concentration": false, "ritual":
+    false, "casting_time": "1 action", "range": "Self", "hit_dc": "—", "components":
+    "V, S, M", "duration": "1 hour", "body": "Bolstering yourself with a necromantic
+    facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. At
+    Higher Levels. When you cast this spell using a spell slot of 2nd level or higher,
+    you gain 5 additional temporary hit points for each slot level above 1st."}]'
+dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 ---
 
 <!-- OP_DESCRIPTION -->
-h3. CharacterSheet
-
-<notextile>
-<div class="ddb-sheet">
-  <div class="ddb-header">
-    <div class="ddb-header-main">
-      <h1 class="ddb-name">Nakoma Deathwalker Mor'got'ha</h1>
-      <p class="ddb-subtitle">Barbarian 2 / Wizard 1</p>
-      <ul class="ddb-meta">
-        <li><span class="ddb-label">Proficiency</span> +2</li>
-      </ul>
-      <p class="ddb-links">Perspehone · The Lords of Sindrel</p>
-    </div>
-    <div class="ddb-avatar-wrap"></div>
-  </div>
-
-  <div class="ddb-section ddb-defenses">
-    <h2 class="ddb-section-title">Defenses</h2>
-    <div class="ddb-pill-grid">
-      <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">12</span></div>
-      <div class="ddb-pill ddb-pill-wide">
-        <span class="ddb-pill-label">HP</span>
-        <span class="ddb-pill-value">10</span>
-        <span class="ddb-pill-sep">/</span>
-        <span class="ddb-pill-value">23</span>
-      </div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">30 ft.</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">-1</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
-    </div>
-  </div>
-
-  <div class="ddb-columns">
-    <div class="ddb-section">
-      <h2 class="ddb-section-title">Abilities</h2>
-      <div class="ddb-ability-grid">
-        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">20 (+5)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">8 (-1)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">15 (+2)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">13 (+1)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">7 (-2)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">12 (+1)</span></div>
-      </div>
-      <h3 class="ddb-subsection-title">Saving Throws</h3>
-      <div class="ddb-ability-grid">
-        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">+7 *</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">-1</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+4 *</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">+3 *</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+0 *</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+1</span></div>
-      </div>
-    </div>
-
-    <div class="ddb-section">
-      <h2 class="ddb-section-title">Skills &amp; Senses</h2>
-      <div class="ddb-block ddb-skills">Acrobatics -1<br>
-Animal Handling -2<br>
-Arcana +1<br>
-Athletics +7 *<br>
-Deception +1<br>
-History +3 *<br>
-Insight -2<br>
-Intimidation +3 *<br>
-Investigation +1<br>
-Medicine -2<br>
-Nature +1<br>
-Perception +0 *<br>
-Performance +1<br>
-Persuasion +1<br>
-Religion +1<br>
-Sleight Of Hand -1<br>
-Stealth -1<br>
-Survival +0 *</div>
-      <div class="ddb-sense-row">
-        <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">10</span></div>
-        <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">11</span></div>
-        <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">8</span></div>
-      </div>
-    </div>
-  </div>
-
-  <div class="ddb-section">
-<h2 class="ddb-section-title">Combat</h2>
-<h3 class="ddb-subsection-title">Actions</h3>
-<div class="ddb-block"><strong>The Bi-Flail - Maul Form.</strong> +7 to hit, range 5 ft., 2d6 bludgeoning<br>
-<strong>The Bi-Flail - Flail Form.</strong> +7 to hit, range 5 ft., 1d8 bludgeoning<br>
-<strong>Handaxe.</strong> +7 to hit, range 20 ft., 1d6 slashing<br>
-<strong>Handaxe.</strong> +7 to hit, range 20 ft., 1d6 slashing<br>
-<strong>Javelin.</strong> +7 to hit, range 30 ft., 1d6 piercing<br>
-<strong>Arcane Recovery.</strong> Once per day when you finish a short rest, you can choose expended spell slots to recover - up to a combined level of , and none of the slots can be 6th level or higher.</div>
-<h3 class="ddb-subsection-title">Bonus Actions</h3>
-<div class="ddb-block"><strong>Rage.</strong> As a bonus action enter a rage for up to 1 minute (10 rounds). You gain advantage on STR checks and saving throws (not attacks), melee damage with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can't cast or concentrate on spells while raging. Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage as a bonus action.</div>
-<h3 class="ddb-subsection-title">Reactions</h3>
-<div class="ddb-block"><strong>Stone’s Endurance.</strong> As a reaction, reduce damage dealt to you by 1d12 once per short rest.</div>
-</div>
-
-  <div class="ddb-columns ddb-bottom-row">
-    <div class="ddb-section ddb-half">
-      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
-      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons; Choose a Wizard Skill, Crossbow, Light, Dagger, Dart, Quarterstaff, Shields, Sling</span></div>
-      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Giant</span></div>
-      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
-    </div>
-      <div class="ddb-section ddb-half">
-    <h2 class="ddb-section-title">Spellcasting</h2>
-    <div class="ddb-spell-header">
-      <div><span class="ddb-label">Ability</span> int</div>
-      <div><span class="ddb-label">Save DC</span> 11</div>
-      <div><span class="ddb-label">Attack</span> +3</div>
-    </div>
-    <h3 class="ddb-subsection-title">Spell Slots</h3>
-    <div class="ddb-block">1st 4<br>
-2nd 2</div>
-    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
-    <div class="ddb-block">Cantrips: Chill Touch, Green-Flame Blade, Toll the Dead<br>
-Level 1: Cause Fear, False Life</div>
-  </div>
-
-  </div>
-
-  <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 15:43 UTC</p>
-    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
-  </div>
-</div>
-</notextile>
-
 h3. Kithrak II
 
 <div class="stat-block">
@@ -192,7 +260,7 @@ Her most recent traveling companions seem to be an eclectic bunch.
   <div class="ddb-section">
     <h2 class="ddb-section-title">Features &amp; Traits</h2>
     <div class="ddb-block"><strong>Natural Athlete.</strong> You have proficiency in the Athletics skill.<br>
-<strong>Stone’s Endurance.</strong> As a reaction, reduce damage dealt to you by 1d12 once per short rest.<br>
+<strong>Stone’s Endurance.</strong> As a reaction, reduce damage dealt to you by 1d12 +2 once per short rest.<br>
 <strong>Powerful Build.</strong> You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.<br>
 <strong>Mountain Born.</strong> You don't suffer the penalties for being in high altitudes, and have resistance to cold damage.<br>
 <strong>Ability Score Increase.</strong> Your Strength score increases by 2, and your Constitution score increases by 1.<br>
@@ -201,15 +269,15 @@ Her most recent traveling companions seem to be an eclectic bunch.
 <strong>Size.</strong> Goliaths are between 7 and 8 feet tall and weigh between 280 and 340 pounds. Your size is Medium.<br>
 <strong>Speed.</strong> Your base walking speed is 30 feet.<br>
 <strong>Rage.</strong> As a bonus action enter a rage for up to 1 minute (10 rounds). You gain advantage on STR checks and saving throws (not attacks), melee damage with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can't cast or concentrate on spells while raging. Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage as a bonus action.<br>
-<strong>Unarmored Defense.</strong> While not wearing armor, your AC equals + any shield bonus.<br>
+<strong>Unarmored Defense.</strong> While not wearing armor, your AC equals 11 + any shield bonus.<br>
 <strong>Reckless Attack.</strong> When you make your first attack on your turn, you can decide to attack recklessly, giving you advantage on melee weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.<br>
 <strong>Danger Sense.</strong> You have advantage on DEX saving throws against effects that you can see while not blinded, deafened, or incapacitated.<br>
 <strong>Primal Path.</strong> At 3rd level, you choose a path that shapes the nature of your rage. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.<br>
 <strong>Proficiencies.</strong> Armor: Light armor, medium armor, shields Weapons: Simple weapons, martial weapons Tools: None Saving Throws: Strength, Constitution Skills: Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival<br>
 <strong>Hit Points.</strong> Hit Dice: 1d12 per barbarian level Hit Points at 1st Level: 12 + your Constitution modifier Hit Points at Higher Levels: 1d12 (or 7) + your Constitution modifier per barbarian level after 1st<br>
 <strong>Equipment.</strong> You start with the following equipment, in addition to the equipment granted by your background: (a) a greataxe or (b) any martial melee weapon (a) two handaxes or (b) any simple weapon An explorer’s pack and four javelins<br>
-<strong>Spellcasting.</strong> You can cast prepared wizard spells using INT as your spellcasting modifier (Spell DC , Spell Attack ) and wizard spells in your spellbook as rituals if they have the ritual tag. You can use an arcane focus as a spellcasting focus.<br>
-<strong>Arcane Recovery.</strong> Once per day when you finish a short rest, you can choose expended spell slots to recover - up to a combined level of , and none of the slots can be 6th level or higher.<br>
+<strong>Spellcasting.</strong> You can cast prepared wizard spells using INT as your spellcasting modifier (Spell DC 11, Spell Attack +3) and wizard spells in your spellbook as rituals if they have the ritual tag. You can use an arcane focus as a spellcasting focus.<br>
+<strong>Arcane Recovery.</strong> Once per day when you finish a short rest, you can choose expended spell slots to recover - up to a combined level of 2, and none of the slots can be 6th level or higher.<br>
 <strong>Arcane Tradition.</strong> When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation. The School of Evocation&amp;nbsp;is detailed at the end of the class description, and more choices are available in other sources. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.<br>
 <strong>Proficiencies.</strong> Armor: None Weapons: Daggers, darts, slings, quarterstaffs, light crossbows Tools: None Saving Throws: Intelligence, Wisdom Skills: Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion<br>
 <strong>Hit Points.</strong> Hit Dice: 1d6 per wizard level Hit Points at 1st Level: 6 + your Constitution modifier Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier per wizard level after 1st<br>

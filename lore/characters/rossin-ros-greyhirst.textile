@@ -13,130 +13,161 @@ is_player_character: true
 tags:
 - she/her
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457462/WhatsApp_Image_2026-01-10_at_17.14.42.jpeg
+dndbeyond_id: '159196960'
+dndbeyond_url: https://www.dndbeyond.com/characters/159196960
+dndbeyond_synced_at: '2026-07-09T16:06:10Z'
+dynamic_sheet:
+  name: Rossin (Ros) Greyhirst
+  class_summary: Ranger (Beast Master) 3
+  prof_bonus: '+2'
+  player_campaign: cjchandler · The Lords of Sindrel
+  avatar_url: https://www.dndbeyond.com/avatars/54027/930/1581111423-159196960.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+  ac: '13'
+  hp_current: '16'
+  hp_max: '16'
+  speed: 30 ft.
+  initiative: '+2'
+  hit_dice: ''
+  str: 8 (-1)
+  dex: 15 (+2)
+  con: 14 (+2)
+  int: 12 (+1)
+  wis: 15 (+2)
+  cha: 12 (+1)
+  str_save: +1 *
+  dex_save: +4 *
+  con_save: '+2'
+  int_save: '+1'
+  wis_save: '+2'
+  cha_save: '+1'
+  skills: 'STR
+
+    Athletics +1 *
+
+
+    DEX
+
+    Acrobatics +2
+
+    Sleight Of Hand +2
+
+    Stealth +4 *
+
+
+    INT
+
+    Arcana +1
+
+    History +1
+
+    Investigation +1
+
+    Nature +3 *
+
+    Religion +1
+
+
+    WIS
+
+    Animal Handling +4 *
+
+    Insight +4 *
+
+    Medicine +4 *
+
+    Perception +2
+
+    Survival +4 *
+
+
+    CHA
+
+    Deception +1
+
+    Intimidation +1
+
+    Performance +1
+
+    Persuasion +1'
+  ability_blocks_json: '[{"key": "str", "label": "Strength", "score": 8, "modifier":
+    "-1", "save": {"bonus": "+1", "proficient": true}, "skills": [{"name": "Athletics",
+    "bonus": "+1", "proficient": true, "expertise": false}]}, {"key": "dex", "label":
+    "Dexterity", "score": 15, "modifier": "+2", "save": {"bonus": "+4", "proficient":
+    true}, "skills": [{"name": "Acrobatics", "bonus": "+2", "proficient": false, "expertise":
+    false}, {"name": "Sleight Of Hand", "bonus": "+2", "proficient": false, "expertise":
+    false}, {"name": "Stealth", "bonus": "+4", "proficient": true, "expertise": false}]},
+    {"key": "con", "label": "Constitution", "score": 14, "modifier": "+2", "save":
+    {"bonus": "+2", "proficient": false}, "skills": []}, {"key": "int", "label": "Intelligence",
+    "score": 12, "modifier": "+1", "save": {"bonus": "+1", "proficient": false}, "skills":
+    [{"name": "Arcana", "bonus": "+1", "proficient": false, "expertise": false}, {"name":
+    "History", "bonus": "+1", "proficient": false, "expertise": false}, {"name": "Investigation",
+    "bonus": "+1", "proficient": false, "expertise": false}, {"name": "Nature", "bonus":
+    "+3", "proficient": true, "expertise": false}, {"name": "Religion", "bonus": "+1",
+    "proficient": false, "expertise": false}]}, {"key": "wis", "label": "Wisdom",
+    "score": 15, "modifier": "+2", "save": {"bonus": "+2", "proficient": false}, "skills":
+    [{"name": "Animal Handling", "bonus": "+4", "proficient": true, "expertise": false},
+    {"name": "Insight", "bonus": "+4", "proficient": true, "expertise": false}, {"name":
+    "Medicine", "bonus": "+4", "proficient": true, "expertise": false}, {"name": "Perception",
+    "bonus": "+2", "proficient": false, "expertise": false}, {"name": "Survival",
+    "bonus": "+4", "proficient": true, "expertise": false}]}, {"key": "cha", "label":
+    "Charisma", "score": 12, "modifier": "+1", "save": {"bonus": "+1", "proficient":
+    false}, "skills": [{"name": "Deception", "bonus": "+1", "proficient": false, "expertise":
+    false}, {"name": "Intimidation", "bonus": "+1", "proficient": false, "expertise":
+    false}, {"name": "Performance", "bonus": "+1", "proficient": false, "expertise":
+    false}, {"name": "Persuasion", "bonus": "+1", "proficient": false, "expertise":
+    false}]}]'
+  passive_perception: '12'
+  passive_investigation: '11'
+  passive_insight: '14'
+  inspiration: 'No'
+  temp_hp: '0'
+  conditions: ''
+  death_saves: ''
+  limited_use: ''
+  actions: 'Handaxe. +1 to hit, range 20 ft., 1d6 slashing
+
+    Quarterstaff. +1 to hit, range 5 ft., 1d6 bludgeoning
+
+    Longbow. +1 to hit, range 150 ft., 1d8 piercing
+
+    Primeval Awareness. As an action, you can expend one ranger spell slot (1 minute
+    per level of spell slot) to sense whether any aberrations, celestials, dragons,
+    elementals, fey, fiends, or undead are present within 1 mile of you (or within
+    up to 6 miles if you are in your favored terrain). This feature doesn’t reveal
+    the creatures’ location or number.
+
+    Favored Foe. When you hit a creature with an attack roll, you can mark the target
+    as your favored enemy for 1 minute or until you lose your concentration (as if
+    you were concentrating on a spell). The first time on each of your turns that
+    you hit the favored enemy and deal damage to it, including when you mark it, you
+    can increase that damage by .'
+  bonus_actions: ''
+  reactions: ''
+  proficiencies: Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons;
+    Pan Flute, Shields
+  languages: Choose a Language, Common, Common Sign Language, Elvish, Halfling, Sylvan
+  tools: —
+  ddb_last_sync: 2026-07-09 16:06 UTC
+  spellcasting_ability: wis
+  spell_save_dc: '12'
+  spell_attack: '+4'
+  spell_slots: 1st 0/3
+  spell_slots_json: '[{"level": 1, "label": "1st", "max": 3}]'
+  spell_slots_used_json: '{"1": 3}'
+  spells_prepared: 'Level 1: Speak with Animals'
+  spells_json: '[{"name": "Speak with Animals", "level": 1, "level_label": "1st",
+    "school": "divination", "concentration": false, "ritual": true, "casting_time":
+    "1 action", "range": "Self", "hit_dc": "—", "components": "V, S", "duration":
+    "10 minutes", "body": "You gain the ability to comprehend and verbally communicate
+    with beasts for the duration. The knowledge and awareness of many beasts is limited
+    by their intelligence, but at minimum, beasts can give you information about nearby
+    locations and monsters, including whatever they can perceive or have perceived
+    within the past day. You might be able to persuade a beast to perform a small
+    favor for you, at the GM''s discretion."}]'
+dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 ---
 
 <!-- OP_DESCRIPTION -->
-h3. Character Sheet
-
-<notextile>
-<div class="ddb-sheet">
-  <div class="ddb-header">
-    <div class="ddb-header-main">
-      <h1 class="ddb-name">Rossin (Ros) Greyhirst</h1>
-      <p class="ddb-subtitle">Ranger (Beast Master) 3</p>
-      <ul class="ddb-meta">
-        <li><span class="ddb-label">Proficiency</span> +2</li>
-      </ul>
-      <p class="ddb-links">cjchandler · The Lords of Sindrel</p>
-    </div>
-    <div class="ddb-avatar-wrap"><img src="https://www.dndbeyond.com/avatars/54027/930/1581111423-159196960.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp" alt=""></div>
-  </div>
-
-  <div class="ddb-section ddb-defenses">
-    <h2 class="ddb-section-title">Defenses</h2>
-    <div class="ddb-pill-grid">
-      <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">13</span></div>
-      <div class="ddb-pill ddb-pill-wide">
-        <span class="ddb-pill-label">HP</span>
-        <span class="ddb-pill-value">16</span>
-        <span class="ddb-pill-sep">/</span>
-        <span class="ddb-pill-value">16</span>
-      </div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">30 ft.</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+2</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
-    </div>
-  </div>
-
-  <div class="ddb-columns">
-    <div class="ddb-section">
-      <h2 class="ddb-section-title">Abilities</h2>
-      <div class="ddb-ability-grid">
-        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">8 (-1)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">15 (+2)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">14 (+2)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">12 (+1)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">15 (+2)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">12 (+1)</span></div>
-      </div>
-      <h3 class="ddb-subsection-title">Saving Throws</h3>
-      <div class="ddb-ability-grid">
-        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">+1 *</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">+4 *</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+2</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">+1</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+2</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+1</span></div>
-      </div>
-    </div>
-
-    <div class="ddb-section">
-      <h2 class="ddb-section-title">Skills &amp; Senses</h2>
-      <div class="ddb-block ddb-skills">Acrobatics +2<br>
-Animal Handling +4 *<br>
-Arcana +1<br>
-Athletics +1 *<br>
-Deception +1<br>
-History +1<br>
-Insight +4 *<br>
-Intimidation +1<br>
-Investigation +1<br>
-Medicine +4 *<br>
-Nature +3 *<br>
-Perception +2<br>
-Performance +1<br>
-Persuasion +1<br>
-Religion +1<br>
-Sleight Of Hand +2<br>
-Stealth +4 *<br>
-Survival +4 *</div>
-      <div class="ddb-sense-row">
-        <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">12</span></div>
-        <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">11</span></div>
-        <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">14</span></div>
-      </div>
-    </div>
-  </div>
-
-  <div class="ddb-section">
-<h2 class="ddb-section-title">Combat</h2>
-<h3 class="ddb-subsection-title">Actions</h3>
-<div class="ddb-block"><strong>Handaxe.</strong> +1 to hit, range 20 ft., 1d6 slashing<br>
-<strong>Quarterstaff.</strong> +1 to hit, range 5 ft., 1d6 bludgeoning<br>
-<strong>Longbow.</strong> +1 to hit, range 150 ft., 1d8 piercing<br>
-<strong>Primeval Awareness.</strong> As an action, you can expend one ranger spell slot (1 minute per level of spell slot) to sense whether any aberrations, celestials, dragons, elementals, fey, fiends, or undead are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain). This feature doesn’t reveal the creatures’ location or number.<br>
-<strong>Favored Foe.</strong> When you hit a creature with an attack roll, you can mark the target as your favored enemy for 1 minute or until you lose your concentration (as if you were concentrating on a spell). The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by .</div>
-</div>
-
-  <div class="ddb-columns ddb-bottom-row">
-    <div class="ddb-section ddb-half">
-      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
-      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons; Pan Flute, Shields</span></div>
-      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Choose a Language, Common, Common Sign Language, Elvish, Halfling, Sylvan</span></div>
-      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
-    </div>
-      <div class="ddb-section ddb-half">
-    <h2 class="ddb-section-title">Spellcasting</h2>
-    <div class="ddb-spell-header">
-      <div><span class="ddb-label">Ability</span> wis</div>
-      <div><span class="ddb-label">Save DC</span> 12</div>
-      <div><span class="ddb-label">Attack</span> +4</div>
-    </div>
-    <h3 class="ddb-subsection-title">Spell Slots</h3>
-    <div class="ddb-block">1st 3</div>
-    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
-    <div class="ddb-block">—</div>
-  </div>
-
-  </div>
-
-  <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 15:51 UTC</p>
-    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
-  </div>
-</div>
-</notextile>
-
 h3. Giant Stoat
 
 <div class="stat-block">
@@ -217,7 +248,7 @@ Yes the merchant had refused to trade, though she had no intent for revenge and 
 <strong>Favored Enemy.</strong> You have advantage on Survival checks to track your favored enemies, as well as on INT checks to recall information about them. You also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.<br>
 <strong>Natural Explorer.</strong> You have a favored terrain type. Your proficiency bonus is doubled for proficient skills when you make an INT or WIS check related to it. While traveling for an hour or more in your chosen terrain, difficult terrain doesn’t slow your group’s travel, your group can’t become lost except by magical means, you remain alert to danger even when you are engaged in another activity, you can move stealthily at a normal pace (while alone), you find twice as much food while foraging, and while tracking creatures, you learn the exact number, sizes, and how long ago they passed through the area.<br>
 <strong>Fighting Style.</strong> You adopt a particular style of fighting as your specialty.<br>
-<strong>Spellcasting.</strong> You can cast known ranger spells using WIS as your spellcasting modifier (Spell DC , Spell Attack ).<br>
+<strong>Spellcasting.</strong> You can cast known ranger spells using WIS as your spellcasting modifier (Spell DC 12, Spell Attack +4).<br>
 <strong>Ranger Archetype.</strong> At 3rd level, you choose an archetype that you strive to emulate: the Hunter that is detailed at the end of the class description or one from another source. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.<br>
 <strong>Primeval Awareness.</strong> As an action, you can expend one ranger spell slot (1 minute per level of spell slot) to sense whether any aberrations, celestials, dragons, elementals, fey, fiends, or undead are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain). This feature doesn’t reveal the creatures’ location or number.<br>
 <strong>Proficiencies.</strong> Armor: Light armor, medium armor, shields Weapons: Simple weapons, martial weapons Tools: None Saving Throws: Strength, Dexterity Skills: Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival<br>

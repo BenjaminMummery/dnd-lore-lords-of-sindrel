@@ -13,127 +13,237 @@ is_player_character: true
 tags:
 - she/her
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457470/sytqgzfrl5c41.jpg
+dndbeyond_id: '156196225'
+dndbeyond_url: https://www.dndbeyond.com/characters/156196225
+dndbeyond_synced_at: '2026-07-09T16:06:06Z'
+dynamic_sheet:
+  name: Amanira
+  class_summary: Druid (Circle of the Land) 3
+  prof_bonus: '+2'
+  player_campaign: jenjsto · The Lords of Sindrel
+  avatar_url: https://www.dndbeyond.com/avatars/54419/308/1581111423-156196225.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+  ac: '13'
+  hp_current: '17'
+  hp_max: '18'
+  speed: 30 ft.
+  initiative: '+2'
+  hit_dice: ''
+  str: 8 (-1)
+  dex: 14 (+2)
+  con: 14 (+2)
+  int: 13 (+1)
+  wis: 16 (+3)
+  cha: 10 (+0)
+  str_save: '-1'
+  dex_save: '+2'
+  con_save: '+2'
+  int_save: +3 *
+  wis_save: +5 *
+  cha_save: '+0'
+  skills: 'STR
+
+    Athletics -1
+
+
+    DEX
+
+    Acrobatics +2
+
+    Sleight Of Hand +2
+
+    Stealth +2
+
+
+    INT
+
+    Arcana +3 *
+
+    History +3 *
+
+    Investigation +1
+
+    Nature +3 *
+
+    Religion +1
+
+
+    WIS
+
+    Animal Handling +3
+
+    Insight +3
+
+    Medicine +5 *
+
+    Perception +5 *
+
+    Survival +3
+
+
+    CHA
+
+    Deception +0
+
+    Intimidation +0
+
+    Performance +0
+
+    Persuasion +0'
+  ability_blocks_json: '[{"key": "str", "label": "Strength", "score": 8, "modifier":
+    "-1", "save": {"bonus": "-1", "proficient": false}, "skills": [{"name": "Athletics",
+    "bonus": "-1", "proficient": false, "expertise": false}]}, {"key": "dex", "label":
+    "Dexterity", "score": 14, "modifier": "+2", "save": {"bonus": "+2", "proficient":
+    false}, "skills": [{"name": "Acrobatics", "bonus": "+2", "proficient": false,
+    "expertise": false}, {"name": "Sleight Of Hand", "bonus": "+2", "proficient":
+    false, "expertise": false}, {"name": "Stealth", "bonus": "+2", "proficient": false,
+    "expertise": false}]}, {"key": "con", "label": "Constitution", "score": 14, "modifier":
+    "+2", "save": {"bonus": "+2", "proficient": false}, "skills": []}, {"key": "int",
+    "label": "Intelligence", "score": 13, "modifier": "+1", "save": {"bonus": "+3",
+    "proficient": true}, "skills": [{"name": "Arcana", "bonus": "+3", "proficient":
+    true, "expertise": false}, {"name": "History", "bonus": "+3", "proficient": true,
+    "expertise": false}, {"name": "Investigation", "bonus": "+1", "proficient": false,
+    "expertise": false}, {"name": "Nature", "bonus": "+3", "proficient": true, "expertise":
+    false}, {"name": "Religion", "bonus": "+1", "proficient": false, "expertise":
+    false}]}, {"key": "wis", "label": "Wisdom", "score": 16, "modifier": "+3", "save":
+    {"bonus": "+5", "proficient": true}, "skills": [{"name": "Animal Handling", "bonus":
+    "+3", "proficient": false, "expertise": false}, {"name": "Insight", "bonus": "+3",
+    "proficient": false, "expertise": false}, {"name": "Medicine", "bonus": "+5",
+    "proficient": true, "expertise": false}, {"name": "Perception", "bonus": "+5",
+    "proficient": true, "expertise": false}, {"name": "Survival", "bonus": "+3", "proficient":
+    false, "expertise": false}]}, {"key": "cha", "label": "Charisma", "score": 10,
+    "modifier": "+0", "save": {"bonus": "+0", "proficient": false}, "skills": [{"name":
+    "Deception", "bonus": "+0", "proficient": false, "expertise": false}, {"name":
+    "Intimidation", "bonus": "+0", "proficient": false, "expertise": false}, {"name":
+    "Performance", "bonus": "+0", "proficient": false, "expertise": false}, {"name":
+    "Persuasion", "bonus": "+0", "proficient": false, "expertise": false}]}]'
+  passive_perception: '15'
+  passive_investigation: '11'
+  passive_insight: '13'
+  inspiration: 'No'
+  temp_hp: '0'
+  conditions: ''
+  death_saves: ''
+  limited_use: ''
+  actions: 'Scimitar. +1 to hit, range 5 ft., 1d6 slashing
+
+    Wild Shape. As an action, you can magically assume the shape of a beast that you
+    have seen before twice per short rest. [2nd] Max CR 1/4 (no flying or swimming
+    speed) [4th] Max CR 1/2 (no flying speed) [8th] Max CR 1 You can stay in beast
+    shape for 1 hours before reverting back to your normal form (or as a bonus action
+    earlier or if you fall unconscious, drop to 0 hit points, or die).
+
+    Natural Recovery. Once per long rest during a short rest, you choose expended
+    spell slots to recover. The spell slots can have a combined level of up to 2,
+    and none of the slots can be 6th level or higher.
+
+    Wild Companion. As an action, you can expend a use of your Wild Shape feature
+    to cast the find familiar spell, without material components. When you cast the
+    spell in this way, the familiar is a fey instead of a beast, and the familiar
+    disappears after 1 hours.'
+  bonus_actions: ''
+  reactions: ''
+  proficiencies: Light Armor, Medium Armor, Shields; Club, Crossbow, Hand, Dagger,
+    Dart, Herbalism Kit, Javelin, Mace, Quarterstaff, Rapier, Scimitar, Shields, Shortsword,
+    Sickle, Sling, Spear
+  languages: Choose a Language, Common, Druidic, Elvish
+  tools: —
+  ddb_last_sync: 2026-07-09 16:06 UTC
+  spellcasting_ability: wis
+  spell_save_dc: '13'
+  spell_attack: '+5'
+  spell_slots: '1st 4/4
+
+    2nd 2/2'
+  spell_slots_json: '[{"level": 1, "label": "1st", "max": 4}, {"level": 2, "label":
+    "2nd", "max": 2}]'
+  spell_slots_used_json: '{}'
+  spells_prepared: 'Cantrips: Druidcraft, Produce Flame
+
+    Level 1: Create or Destroy Water, Entangle, Goodberry, Healing Word, Thunderwave
+
+    Level 2: Hold Person'
+  spells_json: '[{"name": "Druidcraft", "level": 0, "level_label": "Cantrip", "school":
+    "transmutation", "concentration": false, "ritual": false, "casting_time": "1 action",
+    "range": "30 ft.", "hit_dc": "—", "components": "V, S", "duration": "Instantaneous",
+    "body": "Whispering to the spirits of nature, you create one of the following
+    effects within range: You create a tiny, harmless sensory effect that predicts
+    what the weather will be at your location for the next 24 hours. The effect might
+    manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes
+    for snow, and so on. This effect persists for 1 round. You instantly make a flower
+    blossom, a seed pod open, or a leaf bud bloom. You create an instantaneous, harmless
+    sensory effect, such as falling leaves, a puff of wind, the sound of a small animal,
+    or the faint odor of skunk. The effect must fit in a 5-foot cube. You instantly
+    light or snuff out a candle, a torch, or a small campfire."}, {"name": "Produce
+    Flame", "level": 0, "level_label": "Cantrip", "school": "conjuration", "concentration":
+    false, "ritual": false, "casting_time": "1 action", "range": "Self", "hit_dc":
+    "+5 to hit", "components": "V, S", "duration": "10 minutes", "body": "A flickering
+    flame appears in your hand. The flame remains there for the duration and harms
+    neither you nor your equipment. The flame sheds bright light in a 10-foot radius
+    and dim light for an additional 10 feet. The spell ends if you dismiss it as an
+    action or if you cast it again. You can also attack with the flame, although doing
+    so ends the spell. When you cast this spell, or as an action on a later turn,
+    you can hurl the flame at a creature within 30 feet of you. Make a ranged spell
+    attack. On a hit, the target takes 1d8 fire damage. This spell''s damage increases
+    by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)."},
+    {"name": "Create or Destroy Water", "level": 1, "level_label": "1st", "school":
+    "transmutation", "concentration": false, "ritual": false, "casting_time": "1 action",
+    "range": "30 ft. (30 ft. cube)", "hit_dc": "—", "components": "V, S, M", "duration":
+    "Instantaneous", "body": "You either create or destroy water. Create Water. You
+    create up to 10 gallons of clean water within range in an open container. Alternatively,
+    the water falls as rain in a 30-foot cube within range, extinguishing exposed
+    flames in the area. Destroy Water. You destroy up to 10 gallons of water in an
+    open container within range. Alternatively, you destroy fog in a 30-foot cube
+    within range. At Higher Levels. When you cast this spell using a spell slot of
+    2nd level or higher, you create or destroy 10 additional gallons of water, or
+    the size of the cube increases by 5 feet, for each slot level above 1st."}, {"name":
+    "Entangle", "level": 1, "level_label": "1st", "school": "conjuration", "concentration":
+    true, "ritual": false, "casting_time": "1 action", "range": "90 ft. (20 ft. square)",
+    "hit_dc": "DC 13 (STR)", "components": "V, S", "duration": "Concentration, up
+    to 1 minute", "body": "Grasping weeds and vines sprout from the ground in a 20-foot
+    square starting from a point within range. For the duration, these plants turn
+    the ground in the area into difficult terrain. A creature in the area when you
+    cast the spell must succeed on a Strength saving throw or be restrained by the
+    entangling plants until the spell ends. A creature restrained by the plants can
+    use its action to make a Strength check against your spell save DC. On a success,
+    it frees itself. When the spell ends, the conjured plants wilt away."}, {"name":
+    "Goodberry", "level": 1, "level_label": "1st", "school": "transmutation", "concentration":
+    false, "ritual": false, "casting_time": "1 action", "range": "Touch", "hit_dc":
+    "—", "components": "V, S, M", "duration": "Instantaneous", "body": "Up to ten
+    berries appear in your hand and are infused with magic for the duration. A creature
+    can use its action to eat one berry. Eating a berry restores 1 hit point, and
+    the berry provides enough nourishment to sustain a creature for one day. The berries
+    lose their potency if they have not been consumed within 24 hours of the casting
+    of this spell."}, {"name": "Healing Word", "level": 1, "level_label": "1st", "school":
+    "evocation", "concentration": false, "ritual": false, "casting_time": "1 bonus
+    action", "range": "60 ft.", "hit_dc": "—", "components": "V", "duration": "Instantaneous",
+    "body": "A creature of your choice that you can see within range regains hit points
+    equal to 1d4 + your spellcasting ability modifier. This spell has no effect on
+    undead or constructs. At Higher Levels. When you cast this spell using a spell
+    slot of 2nd level or higher, the healing increases by 1d4 for each slot level
+    above 1st."}, {"name": "Thunderwave", "level": 1, "level_label": "1st", "school":
+    "evocation", "concentration": false, "ritual": false, "casting_time": "1 action",
+    "range": "Self (15 ft. cube)", "hit_dc": "DC 13 (CON)", "components": "V, S",
+    "duration": "Instantaneous", "body": "A wave of thunderous force sweeps out from
+    you. Each creature in a 15-foot cube originating from you must make a Constitution
+    saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed
+    10 feet away from you. On a successful save, the creature takes half as much damage
+    and isn''t pushed. In addition, unsecured objects that are completely within the
+    area of effect are automatically pushed 10 feet away from you by the spell''s
+    effect, and the spell emits a thunderous boom audible out to 300 feet. At Higher
+    Levels. When you cast this spell using a spell slot of 2nd level or higher, the
+    damage increases by 1d8 for each slot level above 1st."}, {"name": "Hold Person",
+    "level": 2, "level_label": "2nd", "school": "enchantment", "concentration": true,
+    "ritual": false, "casting_time": "1 action", "range": "60 ft.", "hit_dc": "DC
+    13 (WIS)", "components": "V, S, M", "duration": "Concentration, up to 1 minute",
+    "body": "Choose a humanoid that you can see within range. The target must succeed
+    on a Wisdom saving throw or be paralyzed for the duration. At the end of each
+    of its turns, the target can make another Wisdom saving throw. On a success, the
+    spell ends on the target. At Higher Levels. When you cast this spell using a spell
+    slot of 3rd level or higher, you can target one additional humanoid for each slot
+    level above 2nd. The humanoids must be within 30 feet of each other when you target
+    them."}]'
+dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 ---
-
-<!-- OP_DDB_SHEET -->
-<div class="ddb-sheet">
-  <div class="ddb-header">
-    <div class="ddb-header-main">
-      <h1 class="ddb-name">Amanira</h1>
-      <p class="ddb-subtitle">Druid (Circle of the Land) 3</p>
-      <ul class="ddb-meta">
-        <li><span class="ddb-label">Proficiency</span> +2</li>
-      </ul>
-      <p class="ddb-links">jenjsto · The Lords of Sindrel</p>
-    </div>
-    <div class="ddb-avatar-wrap"><img src="https://www.dndbeyond.com/avatars/54419/308/1581111423-156196225.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp" alt=""></div>
-  </div>
-
-  <div class="ddb-section ddb-defenses">
-    <h2 class="ddb-section-title">Defenses</h2>
-    <div class="ddb-pill-grid">
-      <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">13</span></div>
-      <div class="ddb-pill ddb-pill-wide">
-        <span class="ddb-pill-label">HP</span>
-        <span class="ddb-pill-value">17</span>
-        <span class="ddb-pill-sep">/</span>
-        <span class="ddb-pill-value">18</span>
-      </div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">30 ft.</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+2</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
-    </div>
-  </div>
-
-  <div class="ddb-columns">
-    <div class="ddb-section">
-      <h2 class="ddb-section-title">Abilities</h2>
-      <div class="ddb-ability-grid">
-        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">8 (-1)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">14 (+2)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">14 (+2)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">13 (+1)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">16 (+3)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">10 (+0)</span></div>
-      </div>
-      <h3 class="ddb-subsection-title">Saving Throws</h3>
-      <div class="ddb-ability-grid">
-        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">-1</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">+2</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+2</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">+3 *</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+5 *</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+0</span></div>
-      </div>
-    </div>
-
-    <div class="ddb-section">
-      <h2 class="ddb-section-title">Skills &amp; Senses</h2>
-      <div class="ddb-block ddb-skills">Acrobatics +2<br>
-Animal Handling +3<br>
-Arcana +3 *<br>
-Athletics -1<br>
-Deception +0<br>
-History +3 *<br>
-Insight +3<br>
-Intimidation +0<br>
-Investigation +1<br>
-Medicine +5 *<br>
-Nature +3 *<br>
-Perception +5 *<br>
-Performance +0<br>
-Persuasion +0<br>
-Religion +1<br>
-Sleight Of Hand +2<br>
-Stealth +2<br>
-Survival +3</div>
-      <div class="ddb-sense-row">
-        <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">15</span></div>
-        <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">11</span></div>
-        <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">13</span></div>
-      </div>
-    </div>
-  </div>
-
-  <div class="ddb-section">
-<h2 class="ddb-section-title">Combat</h2>
-<h3 class="ddb-subsection-title">Actions</h3>
-<div class="ddb-block"><strong>Scimitar.</strong> +1 to hit, range 5 ft., 1d6 slashing<br>
-<strong>Wild Shape.</strong> As an action, you can magically assume the shape of a beast that you have seen before twice per short rest. [2nd] Max CR 1/4 (no flying or swimming speed) [4th] Max CR 1/2 (no flying speed) [8th] Max CR 1 You can stay in beast shape for hours before reverting back to your normal form (or as a bonus action earlier or if you fall unconscious, drop to 0 hit points, or die).<br>
-<strong>Natural Recovery.</strong> Once per long rest during a short rest, you choose expended spell slots to recover. The spell slots can have a combined level of up to , and none of the slots can be 6th level or higher.<br>
-<strong>Wild Companion.</strong> As an action, you can expend a use of your Wild Shape feature to cast the find familiar spell, without material components. When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after hours.</div>
-</div>
-
-  <div class="ddb-columns ddb-bottom-row">
-    <div class="ddb-section ddb-half">
-      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
-      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Light Armor, Medium Armor, Shields; Club, Crossbow, Hand, Dagger, Dart, Herbalism Kit, Javelin, Mace, Quarterstaff, Rapier, Scimitar, Shields, Shortsword, Sickle, Sling, Spear</span></div>
-      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Choose a Language, Common, Druidic, Elvish</span></div>
-      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
-    </div>
-      <div class="ddb-section ddb-half">
-    <h2 class="ddb-section-title">Spellcasting</h2>
-    <div class="ddb-spell-header">
-      <div><span class="ddb-label">Ability</span> wis</div>
-      <div><span class="ddb-label">Save DC</span> 13</div>
-      <div><span class="ddb-label">Attack</span> +5</div>
-    </div>
-    <h3 class="ddb-subsection-title">Spell Slots</h3>
-    <div class="ddb-block">1st 4<br>
-2nd 2</div>
-    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
-    <div class="ddb-block">Cantrips: Druidcraft, Produce Flame<br>
-Level 1: Create or Destroy Water, Entangle, Goodberry, Healing Word, Thunderwave<br>
-Level 2: Hold Person</div>
-  </div>
-
-  </div>
-
-  <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 15:51 UTC</p>
-    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
-  </div>
-</div>
 
 <!-- OP_DESCRIPTION -->
 A drow woman with blue-violet skin and long platinum hair. Angular features, pointed ears, brown leather strapped over olive kit; a moss-trimmed green cloak and rune-marked stones at her belt - a druidic traveller plainly out of sympathy with a city of stone.
@@ -165,11 +275,11 @@ h3. Key Items
 <strong>Drow Weapon Training.</strong> You have proficiency with rapiers, shortswords, and hand crossbows.<br>
 <strong>Ability Score Increase.</strong> Your Charisma score increases by 1.<br>
 <strong>Bonus Cantrip.</strong> You learn one additional druid cantrip of your choice. This cantrip doesn’t count against the number of druid cantrips you know.<br>
-<strong>Natural Recovery.</strong> Once per long rest, you choose expended spell slots to recover during a short rest. The spell slots can have a combined level of up to , and none of the slots can be 6th level or higher.<br>
+<strong>Natural Recovery.</strong> Once per long rest, you choose expended spell slots to recover during a short rest. The spell slots can have a combined level of up to 2, and none of the slots can be 6th level or higher.<br>
 <strong>Circle Spells.</strong> You gain access to circle spells for your associated land. A circle spell counts as a druid spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day.<br>
 <strong>Druidic.</strong> You know Druidic, the secret language of druids.<br>
-<strong>Spellcasting.</strong> You can cast prepared druid spells using WIS as your spellcasting modifier (Spell DC , Spell Attack ) and prepared druid spells as rituals if they have the ritual tag. You can use a druidic focus as a spellcasting focus.<br>
-<strong>Wild Shape.</strong> As an action, you can magically assume the shape of a beast that you have seen before twice per short rest. You can stay in beast shape for hours before reverting back to your normal form (or as a bonus action earlier or if you fall unconscious, drop to 0 hit points, or die).<br>
+<strong>Spellcasting.</strong> You can cast prepared druid spells using WIS as your spellcasting modifier (Spell DC 13, Spell Attack +5) and prepared druid spells as rituals if they have the ritual tag. You can use a druidic focus as a spellcasting focus.<br>
+<strong>Wild Shape.</strong> As an action, you can magically assume the shape of a beast that you have seen before twice per short rest. You can stay in beast shape for 1 hours before reverting back to your normal form (or as a bonus action earlier or if you fall unconscious, drop to 0 hit points, or die).<br>
 <strong>Druid Circle.</strong> At 2nd level, you choose to identify with a circle of druids: the Circle of the Land detailed at the end of the class description or one from the Player's Handbook or other sources. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.<br>
 <strong>Proficiencies.</strong> Armor: Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) Weapons: Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears Tools: Herbalism kit Saving Throws: Intelligence, Wisdom Skills: Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival<br>
 <strong>Hit Points.</strong> Hit Dice: 1d8 per druid level Hit Points at 1st Level: 8 + your Constitution modifier Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per druid level after 1st<br>
