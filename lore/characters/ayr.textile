@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457458/WhatsApp_Image_2026-01-10_at_17.20.08.jpeg
 dndbeyond_id: '156087500'
 dndbeyond_url: https://www.dndbeyond.com/characters/156087500
-dndbeyond_synced_at: '2026-07-09T15:27:08Z'
+dndbeyond_synced_at: '2026-07-09T15:42:08Z'
 dynamic_sheet:
   name: Ayr Ravenshield
   class_summary: Paladin (Oath of Vengeance) 3
@@ -166,7 +166,7 @@ dynamic_sheet:
     Simple Weapons; Disguise Kit, Forgery Kit, Shields
   languages: Common, Gnomish
   tools: Tinker's Tools
-  ddb_last_sync: 2026-07-09 15:27 UTC
+  ddb_last_sync: 2026-07-09 15:42 UTC
   spellcasting_ability: cha
   spell_save_dc: '14'
   spell_attack: '+6'
@@ -346,7 +346,7 @@ Persuasion +4</div></div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-09 15:27 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-09 15:42 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>
