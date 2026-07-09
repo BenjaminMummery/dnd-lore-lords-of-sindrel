@@ -7,11 +7,11 @@ name: 'Session 12: No Questions, Some Answers'
 title: 'Session 12: No Questions, Some Answers'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-12-no-questions-some-answers
 op_created_at: '2026-07-05T13:15:36Z'
-op_updated_at: '2026-07-08T15:37:10Z'
-op_gm_only: true
+op_updated_at: '2026-07-09T14:51:06Z'
+op_gm_only: false
 tags: []
 post_title: 'Session 12: No Questions, Some Answers'
-post_tagline: The Wonch keep Oestra waiting, chase Chuggaz to Wallarch, and strike a dangerous bargain with Sable.
+post_tagline: and one terrible bargain
 post_time: '2026-07-05T13:15:00Z'
 ---
 
@@ -53,7 +53,7 @@ h2. Dramatis Personae
     [accordion-item]
         [title] [[The Black Cats | The Black Cats]] [end-title]
         [content]
-            * [[:sable-silvestre | Sable Silvestre]]
+            * [[:sable-silvestre | Sable]]
             * [[:garric-brunt | Garric Brunt]]
             * [[:callem-marr | Callem Marr]]
             * [[:gillette-quill | Gillette Quill]]
@@ -67,7 +67,7 @@ _Late afternoon of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])
 
 As [[The Adventurers | the Wonch]] left [[House Grimbolg | the Cornucopia]], their route towards the next lead was interrupted by a messenger in the colours of [[House Oestra | House Oestra]]. He was lightly armoured by Oestran standards, which is to say armoured in the way most civilians would consider a serious lifestyle choice, and carried a vellum scroll sealed in red wax.
 
-bq). By order of the House of Oestra
+bq(in-world-document). By order of the House of Oestra
 <br>
 Let it be known to the recipients of this writ - the investigators commissioned under the [[Hexine Circle | Hexine Circle]] and presently lodged at [[Radwasp House | Radwasp House]] - that their presence is required before the Senate of [[House Oestra | House Oestra]] at the Leageur.
 <br>
@@ -76,9 +76,9 @@ They will attend in person and without delay. Arms may be worn; shields are not 
 The matter concerns breaches of Oestran security and the disposition of the investigators duties. Testimony will be taken. Evasion, fabrication, or tardiness will be recorded as contempt of a Great House.
 <br>
 Amanuensis Cassian Horation
-By authority of Silas Oestra, Heir Apparent
+By authority of **Silas Oestra, Heir Apparent**
 <br>
-Impetus Est Optima Protectio
+_Impetus Est Optima Protectio_
 
 A brief conversation with the messenger left little doubt about the scope and urgency of the summons. The entire Wonch, immediately.
 
