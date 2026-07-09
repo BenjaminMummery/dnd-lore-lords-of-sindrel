@@ -7,15 +7,12 @@ name: Amanira
 title: Amanira
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/amanira
 op_created_at: '2025-12-11T10:54:34Z'
-op_updated_at: '2026-07-08T12:24:09Z'
+op_updated_at: '2026-07-08T16:00:50Z'
 op_gm_only: false
 is_player_character: true
 tags:
 - she/her
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457470/sytqgzfrl5c41.jpg
-dndbeyond_id: '156196225'
-dndbeyond_url: https://www.dndbeyond.com/characters/156196225
-dndbeyond_synced_at: '2026-07-08T15:51:23Z'
 ---
 
 <!-- OP_DDB_SHEET -->
