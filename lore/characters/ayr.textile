@@ -15,7 +15,207 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457458/WhatsApp_Image_2026-01-10_at_17.20.08.jpeg
 dndbeyond_id: '156087500'
 dndbeyond_url: https://www.dndbeyond.com/characters/156087500
-dndbeyond_synced_at: '2026-07-08T15:51:25Z'
+dndbeyond_synced_at: '2026-07-09T15:23:43Z'
+dynamic_sheet:
+  name: Ayr Ravenshield
+  class_summary: Paladin (Oath of Vengeance) 3
+  prof_bonus: '+2'
+  player_campaign: GEOcycle · The Lords of Sindrel
+  avatar_url: https://www.dndbeyond.com/avatars/54301/102/1581111423-156087500.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+  ac: '18'
+  hp_current: '28'
+  hp_max: '28'
+  speed: 25 ft.
+  initiative: '+1'
+  hit_dice: ''
+  str: 18 (+4)
+  dex: 12 (+1)
+  con: 15 (+2)
+  int: 9 (-1)
+  wis: 10 (+0)
+  cha: 18 (+4)
+  str_save: '+4'
+  dex_save: '+1'
+  con_save: '+2'
+  int_save: '-1'
+  wis_save: +2 *
+  cha_save: +6 *
+  skills: 'STR
+
+    Athletics +6 *
+
+
+    DEX
+
+    Acrobatics +1
+
+    Sleight Of Hand +3 *
+
+    Stealth +1
+
+
+    INT
+
+    Arcana -1
+
+    History -1
+
+    Investigation -1
+
+    Nature -1
+
+    Religion -1
+
+
+    WIS
+
+    Animal Handling +0
+
+    Insight +0
+
+    Medicine +0
+
+    Perception +0
+
+    Survival +0
+
+
+    CHA
+
+    Deception +6 *
+
+    Intimidation +6 *
+
+    Performance +4
+
+    Persuasion +4'
+  ability_blocks_json: '[{"key": "str", "label": "Strength", "score": 18, "modifier":
+    "+4", "save": {"bonus": "+4", "proficient": false}, "skills": [{"name": "Athletics",
+    "bonus": "+6", "proficient": true, "expertise": false}]}, {"key": "dex", "label":
+    "Dexterity", "score": 12, "modifier": "+1", "save": {"bonus": "+1", "proficient":
+    false}, "skills": [{"name": "Acrobatics", "bonus": "+1", "proficient": false,
+    "expertise": false}, {"name": "Sleight Of Hand", "bonus": "+3", "proficient":
+    true, "expertise": false}, {"name": "Stealth", "bonus": "+1", "proficient": false,
+    "expertise": false}]}, {"key": "con", "label": "Constitution", "score": 15, "modifier":
+    "+2", "save": {"bonus": "+2", "proficient": false}, "skills": []}, {"key": "int",
+    "label": "Intelligence", "score": 9, "modifier": "-1", "save": {"bonus": "-1",
+    "proficient": false}, "skills": [{"name": "Arcana", "bonus": "-1", "proficient":
+    false, "expertise": false}, {"name": "History", "bonus": "-1", "proficient": false,
+    "expertise": false}, {"name": "Investigation", "bonus": "-1", "proficient": false,
+    "expertise": false}, {"name": "Nature", "bonus": "-1", "proficient": false, "expertise":
+    false}, {"name": "Religion", "bonus": "-1", "proficient": false, "expertise":
+    false}]}, {"key": "wis", "label": "Wisdom", "score": 10, "modifier": "+0", "save":
+    {"bonus": "+2", "proficient": true}, "skills": [{"name": "Animal Handling", "bonus":
+    "+0", "proficient": false, "expertise": false}, {"name": "Insight", "bonus": "+0",
+    "proficient": false, "expertise": false}, {"name": "Medicine", "bonus": "+0",
+    "proficient": false, "expertise": false}, {"name": "Perception", "bonus": "+0",
+    "proficient": false, "expertise": false}, {"name": "Survival", "bonus": "+0",
+    "proficient": false, "expertise": false}]}, {"key": "cha", "label": "Charisma",
+    "score": 18, "modifier": "+4", "save": {"bonus": "+6", "proficient": true}, "skills":
+    [{"name": "Deception", "bonus": "+6", "proficient": true, "expertise": false},
+    {"name": "Intimidation", "bonus": "+6", "proficient": true, "expertise": false},
+    {"name": "Performance", "bonus": "+4", "proficient": false, "expertise": false},
+    {"name": "Persuasion", "bonus": "+4", "proficient": false, "expertise": false}]}]'
+  passive_perception: '10'
+  passive_investigation: '9'
+  passive_insight: '10'
+  inspiration: 'No'
+  temp_hp: '0'
+  conditions: ''
+  death_saves: ''
+  limited_use: ''
+  actions: 'The Journeyman''s Answer. +6 to hit, range 5 ft., 1d8 slashing
+
+    Javelin. +6 to hit, range 30 ft., 1d6 piercing
+
+    Divine Sense. As an action, you can detect good and evil. Until the end of your
+    next turn, you can sense anything affected by the hallow spell or know the location
+    of any celestial, fiend, undead within 60 ft. that is not behind total cover.
+    You can use this feature 5 times per long rest.
+
+    Lay on Hands Pool. You have a pool of healing power that can restore 15 HP per
+    long rest. As an action, you can touch a creature to restore any number of HP
+    remaining in the pool, or 5 HP to either cure a disease or neutralize a poison
+    affecting the creature.
+
+    Divine Smite. When you hit with a melee weapon attack, you can expend one spell
+    slot to deal 2d8 extra radiant damage to the target plus 1d8 for each spell level
+    higher than 1st (max 5d8) and plus 1d8 against undead or fiends.
+
+    Channel Divinity. Your oath allows you to channel divine energy to fuel magical
+    effects. When you use your Channel Divinity, you choose which option to use. You
+    must then finish a short or long rest to use your Channel Divinity again. Some
+    Channel Divinity effects require saving throws (DC 14).
+
+    Channel Divinity: Abjure Enemy. As an action, you can choose one creature within
+    60 ft. of you that you can see to make a WIS saving throw (14). Fiends and undead
+    have disadvantage on this saving throw. On failure, the creature is frightened
+    and its speed is reduced to 0 (and it can''t benefit from bonuses to speed) for
+    1 minute or until it takes any damage. On success, the creature’s speed is halved
+    for 1 minute or until the creature takes any damage.'
+  bonus_actions: 'Channel Divinity: Vow of Enmity. You can choose a creature you can
+    see within 10 ft. of you and gain advantage on attack rolls against it for 1 minute
+    or until it drops to 0 HP or falls unconscious.
+
+    Harness Divine Power. You can expend a use of your Channel Divinity to fuel your
+    spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain
+    one expended spell slot, which can be no higher than level 1. You regain all expended
+    uses when you finish a long rest.'
+  reactions: ''
+  proficiencies: Heavy Armor, Light Armor, Medium Armor, Shields; Martial Weapons,
+    Simple Weapons; Disguise Kit, Forgery Kit, Shields
+  languages: Common, Gnomish
+  tools: Tinker's Tools
+  ddb_last_sync: 2026-07-09 15:23 UTC
+  spellcasting_ability: cha
+  spell_save_dc: '14'
+  spell_attack: '+6'
+  spell_slots: 1st 3/3
+  spell_slots_json: '[{"level": 1, "label": "1st", "max": 3}]'
+  spell_slots_used_json: '{}'
+  spells_prepared: 'Level 1: Bless, Cure Wounds, Divine Favor, Searing Smite, Wrathful
+    Smite'
+  spells_json: '[{"name": "Bless", "level": 1, "level_label": "1st", "school": "enchantment",
+    "concentration": true, "ritual": false, "casting_time": "1 action", "range": "30
+    ft.", "hit_dc": "—", "components": "V, S, M", "duration": "Concentration, up to
+    1 minute", "body": "You bless up to three creatures of your choice within range.
+    Whenever a target makes an attack roll or a saving throw before the spell ends,
+    the target can roll a d4 and add the number rolled to the attack roll or saving
+    throw. At Higher Levels. When you cast this spell using a spell slot of 2nd level
+    or higher, you can target one additional creature for each slot level above 1st."},
+    {"name": "Cure Wounds", "level": 1, "level_label": "1st", "school": "evocation",
+    "concentration": false, "ritual": false, "casting_time": "1 action", "range":
+    "Touch", "hit_dc": "—", "components": "V, S", "duration": "Instantaneous", "body":
+    "A creature you touch regains a number of hit points equal to 1d8 + your spellcasting
+    ability modifier. This spell has no effect on undead or constructs. At Higher
+    Levels. When you cast this spell using a spell slot of 2nd level or higher, the
+    healing increases by 1d8 for each slot level above 1st."}, {"name": "Divine Favor",
+    "level": 1, "level_label": "1st", "school": "evocation", "concentration": true,
+    "ritual": false, "casting_time": "1 bonus action", "range": "Self", "hit_dc":
+    "—", "components": "V, S", "duration": "Concentration, up to 1 minute", "body":
+    "Your prayer empowers you with divine radiance. Until the spell ends, your weapon
+    attacks deal an extra 1d4 radiant damage on a hit."}, {"name": "Searing Smite",
+    "level": 1, "level_label": "1st", "school": "evocation", "concentration": true,
+    "ritual": false, "casting_time": "1 bonus action", "range": "Self", "hit_dc":
+    "DC 14 (CON)", "components": "V", "duration": "Concentration, up to 1 minute",
+    "body": "The next time you hit a creature with a melee weapon attack during the
+    spell’s duration, your weapon flares with white-hot intensity, and the attack
+    deals an extra 1d6 fire damage to the target and causes the target to ignite in
+    flames. At the start of each of its turns until the spell ends, the target must
+    make a Constitution saving throw. On a failed save, it takes 1d6 fire damage.
+    On a successful save, the spell ends. If the target or a creature within 5 feet
+    of it uses an action to put out the flames, or if some other effect douses the
+    flames (such as the target being submerged in water), the spell ends. At Higher
+    Levels. &nbsp;When you cast this spell using a spell slot of 2nd level or higher,
+    the initial extra damage dealt by the attack increases by 1d6 for each slot."},
+    {"name": "Wrathful Smite", "level": 1, "level_label": "1st", "school": "evocation",
+    "concentration": true, "ritual": false, "casting_time": "1 bonus action", "range":
+    "Self", "hit_dc": "DC 14 (WIS)", "components": "V", "duration": "Concentration,
+    up to 1 minute", "body": "The next time you hit with a melee weapon attack during
+    this spell’s duration, your attack deals an extra 1d6 psychic damage. Additionally,
+    if the target is a creature, it must succeed on a Wisdom saving throw or be frightened
+    of you until the spell ends. As an action, the creature can make a Wisdom check
+    against your spell save DC to steel its resolve and end this spell."}]'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -26,6 +226,7 @@ dndbeyond_synced_at: '2026-07-08T15:51:25Z'
       <p class="ddb-subtitle">Paladin (Oath of Vengeance) 3</p>
       <ul class="ddb-meta">
         <li><span class="ddb-label">Proficiency</span> +2</li>
+        <li><span class="ddb-label">Inspiration</span> No</li>
       </ul>
       <p class="ddb-links">GEOcycle · The Lords of Sindrel</p>
     </div>
@@ -42,10 +243,12 @@ dndbeyond_synced_at: '2026-07-08T15:51:25Z'
         <span class="ddb-pill-sep">/</span>
         <span class="ddb-pill-value">28</span>
       </div>
+      <div class="ddb-pill"><span class="ddb-pill-label">Temp</span><span class="ddb-pill-value">0</span></div>
       <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">25 ft.</span></div>
       <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+1</span></div>
       <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
     </div>
+    
   </div>
 
   <div class="ddb-columns">
@@ -72,24 +275,29 @@ dndbeyond_synced_at: '2026-07-08T15:51:25Z'
 
     <div class="ddb-section">
       <h2 class="ddb-section-title">Skills &amp; Senses</h2>
-      <div class="ddb-block ddb-skills">Acrobatics +1<br>
-Animal Handling +0<br>
-Arcana -1<br>
-Athletics +6 *<br>
-Deception +6 *<br>
-History -1<br>
-Insight +0<br>
-Intimidation +6 *<br>
-Investigation -1<br>
-Medicine +0<br>
-Nature -1<br>
-Perception +0<br>
-Performance +4<br>
-Persuasion +4<br>
-Religion -1<br>
-Sleight Of Hand +3 *<br>
-Stealth +1<br>
-Survival +0</div>
+      <div class="ddb-block ddb-skills"><h3 class="ddb-subsection-title">STR</h3><br>
+<div class="ddb-block ddb-skill-group">Athletics +6 *</div><br>
+<h3 class="ddb-subsection-title">DEX</h3><br>
+<div class="ddb-block ddb-skill-group">Acrobatics +1<br><br>
+Sleight Of Hand +3 *<br><br>
+Stealth +1</div><br>
+<h3 class="ddb-subsection-title">INT</h3><br>
+<div class="ddb-block ddb-skill-group">Arcana -1<br><br>
+History -1<br><br>
+Investigation -1<br><br>
+Nature -1<br><br>
+Religion -1</div><br>
+<h3 class="ddb-subsection-title">WIS</h3><br>
+<div class="ddb-block ddb-skill-group">Animal Handling +0<br><br>
+Insight +0<br><br>
+Medicine +0<br><br>
+Perception +0<br><br>
+Survival +0</div><br>
+<h3 class="ddb-subsection-title">CHA</h3><br>
+<div class="ddb-block ddb-skill-group">Deception +6 *<br><br>
+Intimidation +6 *<br><br>
+Performance +4<br><br>
+Persuasion +4</div></div>
       <div class="ddb-sense-row">
         <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">10</span></div>
         <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">9</span></div>
@@ -103,15 +311,17 @@ Survival +0</div>
 <h3 class="ddb-subsection-title">Actions</h3>
 <div class="ddb-block"><strong>The Journeyman's Answer.</strong> +6 to hit, range 5 ft., 1d8 slashing<br>
 <strong>Javelin.</strong> +6 to hit, range 30 ft., 1d6 piercing<br>
-<strong>Divine Sense.</strong> As an action, you can detect good and evil. Until the end of your next turn, you can sense anything affected by the hallow spell or know the location of any celestial, fiend, undead within 60 ft. that is not behind total cover. You can use this feature times per long rest.<br>
-<strong>Lay on Hands Pool.</strong> You have a pool of healing power that can restore HP per long rest. As an action, you can touch a creature to restore any number of HP remaining in the pool, or 5 HP to either cure a disease or neutralize a poison affecting the creature.<br>
-<strong>Channel Divinity.</strong> Your oath allows you to channel divine energy to fuel magical effects. When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again. Some Channel Divinity effects require saving throws (DC ).<br>
+<strong>Divine Sense.</strong> As an action, you can detect good and evil. Until the end of your next turn, you can sense anything affected by the hallow spell or know the location of any celestial, fiend, undead within 60 ft. that is not behind total cover. You can use this feature 5 times per long rest.<br>
+<strong>Lay on Hands Pool.</strong> You have a pool of healing power that can restore 15 HP per long rest. As an action, you can touch a creature to restore any number of HP remaining in the pool, or 5 HP to either cure a disease or neutralize a poison affecting the creature.<br>
 <strong>Divine Smite.</strong> When you hit with a melee weapon attack, you can expend one spell slot to deal 2d8 extra radiant damage to the target plus 1d8 for each spell level higher than 1st (max 5d8) and plus 1d8 against undead or fiends.<br>
-<strong>Channel Divinity: Abjure Enemy.</strong> As an action, you can choose one creature within 60 ft. of you that you can see to make a WIS saving throw (). Fiends and undead have disadvantage on this saving throw. On failure, the creature is frightened and its speed is reduced to 0 (and it can't benefit from bonuses to speed) for 1 minute or until it takes any damage. On success, the creature’s speed is halved for 1 minute or until the creature takes any damage.</div>
+<strong>Channel Divinity.</strong> Your oath allows you to channel divine energy to fuel magical effects. When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again. Some Channel Divinity effects require saving throws (DC 14).<br>
+<strong>Channel Divinity: Abjure Enemy.</strong> As an action, you can choose one creature within 60 ft. of you that you can see to make a WIS saving throw (14). Fiends and undead have disadvantage on this saving throw. On failure, the creature is frightened and its speed is reduced to 0 (and it can't benefit from bonuses to speed) for 1 minute or until it takes any damage. On success, the creature’s speed is halved for 1 minute or until the creature takes any damage.</div>
 <h3 class="ddb-subsection-title">Bonus Actions</h3>
-<div class="ddb-block"><strong>Harness Divine Power.</strong> You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, which can be no higher than level . You regain all expended uses when you finish a long rest.<br>
-<strong>Channel Divinity: Vow of Enmity.</strong> You can choose a creature you can see within 10 ft. of you and gain advantage on attack rolls against it for 1 minute or until it drops to 0 HP or falls unconscious.</div>
+<div class="ddb-block"><strong>Channel Divinity: Vow of Enmity.</strong> You can choose a creature you can see within 10 ft. of you and gain advantage on attack rolls against it for 1 minute or until it drops to 0 HP or falls unconscious.<br>
+<strong>Harness Divine Power.</strong> You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, which can be no higher than level 1. You regain all expended uses when you finish a long rest.</div>
 </div>
+
+  
 
   <div class="ddb-columns ddb-bottom-row">
     <div class="ddb-section ddb-half">
@@ -128,7 +338,7 @@ Survival +0</div>
       <div><span class="ddb-label">Attack</span> +6</div>
     </div>
     <h3 class="ddb-subsection-title">Spell Slots</h3>
-    <div class="ddb-block">1st 3</div>
+    <div class="ddb-block">1st 3/3</div>
     <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
     <div class="ddb-block">Level 1: Bless, Cure Wounds, Divine Favor, Searing Smite, Wrathful Smite</div>
   </div>
@@ -136,7 +346,7 @@ Survival +0</div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-08 15:51 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-09 15:23 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>
@@ -171,12 +381,12 @@ Presents as a pious sellsword in silver plate — holy symbols from several trad
 <strong>Artificer’s Lore.</strong> Add twice your proficiency bonus to History checks related to magic items, alchemical objects, or technological devices.<br>
 <strong>Tinker.</strong> You are proficient with tinker's tools and can use them to construct tiny clockwork devices.<br>
 <strong>Ability Score Increase.</strong> Your Constitution score increases by 1.<br>
-<strong>Channel Divinity.</strong> You gain two Channel Divinity options: Abjure Enemy. As an action, you can choose one creature within 60 ft. of you that you can see to make a WIS saving throw (). Fiends and undead have disadvantage on this saving throw. On failure, the creature is frightened and its speed is reduced to 0 (and it can't benefit from bonuses to speed) for 1 minute or until it takes any damage. On success, the creature’s speed is halved for 1 minute or until the creature takes any damage. Vow of Enmity. As a bonus action, you can choose a creature you can see within 10 ft. of you and gain advantage on attack rolls against it for 1 minute or until it drops to 0 HP or falls unconscious.<br>
+<strong>Channel Divinity.</strong> You gain two Channel Divinity options: Abjure Enemy. As an action, you can choose one creature within 60 ft. of you that you can see to make a WIS saving throw (14). Fiends and undead have disadvantage on this saving throw. On failure, the creature is frightened and its speed is reduced to 0 (and it can't benefit from bonuses to speed) for 1 minute or until it takes any damage. On success, the creature’s speed is halved for 1 minute or until the creature takes any damage. Vow of Enmity. As a bonus action, you can choose a creature you can see within 10 ft. of you and gain advantage on attack rolls against it for 1 minute or until it drops to 0 HP or falls unconscious.<br>
 <strong>Oath Spells.</strong> You gain oath spells based on your level that are always prepared and don't count against your daily number of prepared spells.<br>
-<strong>Divine Sense.</strong> As an action, you can detect good and evil. Until the end of your next turn, you can sense anything affected by the hallow spell or know the location of any celestial, fiend, undead within 60 ft. that is not behind total cover. You can use this feature times per long rest.<br>
-<strong>Lay on Hands.</strong> You have a pool of healing power that can restore HP per long rest. As an action, you can touch a creature to restore any number of HP remaining in the pool, or 5 HP to either cure a disease or neutralize a poison affecting the creature.<br>
+<strong>Divine Sense.</strong> As an action, you can detect good and evil. Until the end of your next turn, you can sense anything affected by the hallow spell or know the location of any celestial, fiend, undead within 60 ft. that is not behind total cover. You can use this feature 5 times per long rest.<br>
+<strong>Lay on Hands.</strong> You have a pool of healing power that can restore 15 HP per long rest. As an action, you can touch a creature to restore any number of HP remaining in the pool, or 5 HP to either cure a disease or neutralize a poison affecting the creature.<br>
 <strong>Fighting Style.</strong> You adopt a style of fighting as your specialty.<br>
-<strong>Spellcasting.</strong> You can cast prepared paladin spells using CHA as your spellcasting modifier (Spell DC , Spell Attack ). You can use a holy symbol as a spellcasting focus.<br>
+<strong>Spellcasting.</strong> You can cast prepared paladin spells using CHA as your spellcasting modifier (Spell DC 14, Spell Attack +6). You can use a holy symbol as a spellcasting focus.<br>
 <strong>Divine Smite.</strong> When you hit with a melee weapon attack, you can expend one spell slot to deal 2d8 extra radiant damage to the target plus 1d8 for each spell level higher than 1st (max 5d8) and plus 1d8 against undead or fiends (max 6d8 total).<br>
 <strong>Divine Health.</strong> You are immune to disease.<br>
 <strong>Sacred Oath.</strong> When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose the Oath of Devotion detailed at the end of the class description or one from another source. Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature. Oath Spells Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don’t count against the number of spells you can prepare each day. If you gain an oath spell that doesn’t appear on the paladin spell list, the spell is nonetheless a paladin spell for you. Channel Divinity Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it. When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again. Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.<br>
