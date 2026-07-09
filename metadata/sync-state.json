@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-07-09T15:51:59Z",
-  "last_portal_pull": "2026-07-09T15:50:36Z",
+  "last_portal_pull": "2026-07-09T16:08:06Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -607,9 +607,9 @@
       "op_id": "42cee9f0b8134dccab7714a196fd04d5",
       "op_kind": "Character",
       "op_slug": "ayr",
-      "op_updated_at": "2026-07-09T15:50:46Z",
-      "repo_blob_sha": "d6329237a17f4899c0a2bd3de815952fef32aab9",
-      "repo_hash_at_sync": "dcf3f1a567eb7afbc0ae8b6e5c8ff862199a4763a30b784a38df5e081b545222",
+      "op_updated_at": "2026-07-09T15:55:38Z",
+      "repo_blob_sha": "29c089e58ee78be223933d97b3bf2a25c19d8528",
+      "repo_hash_at_sync": "25843b01c0df45416665b8dcfcb3ecf8c6bb3b796cac41541bad134dca6ca5bf",
       "repo_path": "lore/characters/ayr.textile"
     },
     "46e3468d573f4714bd7ff0fb59d65696": {
