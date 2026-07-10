@@ -49,8 +49,57 @@ bq). Incidents, the last months. Misfortune maybe, sabotage we fear. Appearing r
 _[[:journeyman-galoras | Journeyman Galoras]] ([[House Meness | House Meness]])_
 
 * The saboteurs appear to prefer mundane tools where available, but are willing to turn magic to their own ends often with ironic consequences for its users.
+
+h4. Grimbolg's Hydromancer (6th Ostory)
+
+The control rod of one of [[House Grimbolg | House Grimbolg]]'s water generators was inverted, causing a water storage tank to overflow. This resulted in the drowning of one of their [[Factor | factors]], [[:dogara | Hydromancer D'gara]], as well as significant losses from the adjacent storage silos.
+
+**Investigation Findings**
+
 * The attack against [[:dogara | Hydromancer D'gara]] of [[House Grimbolg | House Grimbolg]] may have a been a cover for the theft of Nitre.
+
+h4. Mabon's Locksmith (8th Ostory)
+
+[[:nielsenn | Nielsenn]], [[Adjutant | adjutant]] of [[House Mabon | House Mabon]], was vaporised when one of his own trapped locks misfired.
+
+h4. Beltus's Summoner (14th Ostory)
+
+A summoning being carried out by [[:caller-georg | Caller Johann Georg]] at the [[Beltan Institute | Beltan Institute]] went catastrophically wrong. The demon broke free of the summoning circle and possessed the summoner. Under its influence, [[:caller-georg | Caller Georg]] ran amok through the halls of the [[Beltan Institute | Beltan Institute]] defacing a number of portraits and other precious items before his heat finally gave out. As a final sick joke, the demon enchanted its own sulphurous leavings which, when gathered up with the rest of the day's refuse, exploded. The page of his newly purchased grimoire showing the appropriate summoning circle for a succubus was found to have been vandalised.
+
+**Investigation Findings**
+
 * The death of [[:caller-georg | Caller Georg]] may have provided cover for the theft of sulphur.
+
+h4. Lithra's Emissary (21st Ostory)
+
+The punch ladle at a diplomatic function being hosted by [[House Lithra | House Lithra]] was exchanged with one that had been enchanted with a geis of truth speaking. This resulted in three major diplomatic incidents, the end of two marriages, and a very awkward proposal. House [[Factor | factor]] [[:emissary-isius | Emissary Isius]] has had to withdraw from public life.
+
+h4. The Fulcrum Bombing (25th Ostory)
+
+A series of explosive devices were found in the sewers below [[The Fulcrum | The Fulcrum]] on the night of the [[Ditchquer | Ditchquer]] tournament closing ceremony. One detonated early, causing some minor structural damage. The others were discovered and diffused. High ranking [[Factor | Factors]] of each house were in attendance, any or all of whom may have been the intended target. Reinforcements from [[House Oestra | House Oestra]] were called in to support the [[House Meness | House Meness]] guards already in place.
+
+**Investigation Findings**
+
+* The bombs used mundane gunpowder, not magic.
+* One of the 12 devices detonated early.
+* [[House Meness | House Meness]] officers contained the rest while [[House Oestra | House Oestra]] soldiers arrived within minutes to assist with security and crown control.
+* Gunpowder requires 3 components: Sulphur, Saltpetre/Nitre, and Charcoal.
+* The bombs were bought in by the servants route, not the main cart access.
+* [[:nort | Nort]], a servant at the Fulcrum, observed the [[:arouraios | coachman of a visiting dignitary]] who had become lost among the tunnels. He wore a neatly trimmed beard and fussy glasses. On exiting the tunnels, he got into a coach parked by the servants door which bore a bird-like coat of arms.
+*Two other servants may have witnessed something: [[:nans | Nanthelia "Nans" Surn]] and [[:chuggaz | Chugan "Chuggaz" Velm]].
+
+h4. Goela's Tyromancer (34th Ostory)
+
+[[:f-lar-mnementh | Tyromancer Pterath]], [[Factor | factor]] of [[House Goela | House Goela]], was poisoned. Investigators determined that a large dosage of hallucinogens had been added to his cheese. Pterath survived, but has been unwilling to attempt any further acts of divination.
+
+h4. Mabon's Craftsman (8th Enean)
+
+[[:craftsman-shegrim | Craftsman Shegrim]], a high-level [[Factor | factor]] of [[House Mabon | House Mabon]], was  commissioned anonymously to place a spell of reflection on an amulet. The amulet had _already_ been enchanted with a spell of reflection, causing the enchantment to rebound. In a city where magic is everywhere, he's a walking danger to everyone around him.
+
+h4. Meness's Major (17th Enean)
+
+A [[House Meness | House Meness]] [[Factor | factor]], [[:major-vindas | Major Vindas]], was killed by piece of armour with an inverted reflection enchantment – instead of reversing incoming force it amplified it. When she invited an aide to help her test the armour with a low level firebolt spell, she was incinerated instantly.
+
 
 h3. Future security risks
 
@@ -103,87 +152,6 @@ h3. Inter-house suspicions
 
 [[:silrie-aegiskiir | Silrie Aegiskiir]] asked each member of [[Hexine Circle | Hexine Circle]] which other house was the most likely to be involved.
 
-h4. [[The Fulcrum | The Fulcrum]] Bombing [end-title]
-        [content]
-            * The bombs used mundane gunpowder, not magic.
-            * One of the 12 devices detonated early.
-            * [[House Meness | House Meness]] officers contained the rest while [[House Oestra | House Oestra]] soldiers arrived within minutes to assist with ssecurity and crown control.
-            * Gunpowder requires 3 components: Sulphur, Saltpetre/Nitre, and Charcoal.
-            * The bombs were bought in by the servants route, not the main cart access.
-            * [[:nort | Nort]], a servant at the Fulcrum, observed the [[:arouraios | coachman of a visiting dignitary]] who had become lost among the tunnels. He wore a neatly trimmed beard and fussy glasses. On exiting the tunnels, he got into a coach parked by the servants door which bore a bird-like coat of arms.
-            *Two other servants may have witnessed something: [[:nans | Nanthelia "Nans" Surn]] and [[:chuggaz | Chugan "Chuggaz" Velm]].
-        [end-content]
-    [end-accordion-item]
-[end-accordion]
-
-
-
-h3. Acts of Sabotage
-
-In addition to the information leak, a series of accidents around the city are believed to be evidence of sabotage. These are:
-
-[accordion]
-    [accordion-item]
-        [title] *6th Ostory* [end-title]
-        [content]
-            The control rod of one of [[House Grimbolg | House Grimbolg]]'s water generators was inverted, causing a water storage tank to overflow. This resulted in the drowning of one of their [[Factor | factors]], [[:dogara | Hydromancer D'gara]], as well as significant losses from the adjacent storage silos.
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] *8th Ostory* [end-title]
-        [content]
-            [[:nielsenn | Nielsenn]], [[Adjutant | adjutant]] of [[House Mabon | House Mabon]], was vaporised when one of his own trapped locks misfired.
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] *14th Ostory* [end-title]
-        [content]
-            A summoning being carried out by [[:caller-georg | Caller Johann Georg]] at the [[Beltan Institute | Beltan Institute]] went catastrophically wrong. The demon broke free of the summoning circle and possessed the summoner. Under its influence, [[:caller-georg | Caller Georg]] ran amok through the halls of the [[Beltan Institute | Beltan Institute]] defacing a number of portraits and other precious items before his heat finally gave out. As a final sick joke, the demon enchanted its own sulphurous leavings which, when gathered up with the rest of the day's refuse, exploded. The page of his newly purchased grimoire showing the appropriate summoning circle for a succubus was found to have been vandalised.
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] *21st Ostory* [end-title]
-        [content]
-            The punch ladle at a diplomatic function being hosted by [[House Lithra | House Lithra]] was exchanged with one that had been enchanted with a geis of truth speaking. This resulted in three major diplomatic incidents, the end of two marriages, and a very awkward proposal. House [[Factor | factor]] [[:emissary-isius | Emissary Isius]] has had to withdraw from public life.
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] *25th Ostory* [end-title]
-        [content]
-            A series of explosive devices were found in the sewers below [[The Fulcrum | The Fulcrum]] on the night of the [[Ditchquer | Ditchquer]] tournament closing ceremony. One detonated early, causing some minor structural damage. The others were discovered and diffused. High ranking [[Factor | Factors]] of each house were in attendance, any or all of whom may have been the intended target. Reinforcements from [[House Oestra | House Oestra]] were called in to support the [[House Meness | House Meness]] guards already in place.
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] *34th Ostory*  [end-title]
-        [content]
-            [[:f-lar-mnementh | Tyromancer Pterath]], [[Factor | factor]] of [[House Goela | House Goela]], was poisoned. Investigators determined that a large dosage of hallucinogens had been added to his cheese. Pterath survived, but has been unwilling to attempt any further acts of divination.
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] *8th Enean* [end-title]
-        [content]
-            [[:craftsman-shegrim | Craftsman Shegrim]], a high-level [[Factor | factor]] of [[House Mabon | House Mabon]], was  commissioned anonymously to place a spell of reflection on an amulet. The amulet had _already_ been enchanted with a spell of reflection, causing the enchantment to rebound. In a city where magic is everywhere, he's a walking danger to everyone around him.
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] *17th Enean* [end-title]
-        [content]
-            A [[House Meness | House Meness]] [[Factor | factor]], [[:major-vindas | Major Vindas]], was killed by piece of armour with an inverted reflection enchantment – instead of reversing incoming force it amplified it. When she invited an aide to help her test the armour with a low level firebolt spell, she was incinerated instantly.
-        [end-content]
-    [end-accordion-item]
-
-[end-accordion]
-
-
-h3. Answers to "Which other House is the most likely to be involved?"
-
 h4. [[:seer-demeletas | Seer Demeletas]] ([[House Goela | House Goela]])
 
 bq). Life's challenges are often unforeseen by those who keep the closest watch. But _quis custodiet ipsos custodes_? Quis indeed.
@@ -209,12 +177,9 @@ h4. [[:commander-locke | Prefect Locke]] ([[House Oestra | House Oestra]])
 
 bq). Goela'd be my guess. Not willingly, but let's face half the time they barely know what planet they're even on. I reckon you get one of them hopped up on magic smoke or however their shit works and they'd tell you anything.
 
-[[:alandria | Caller Alandria]] ([[House Beltus | House Beltus]]) [end-title]
-        [content]
-            bq). I don't know. The tinkerers maybe. Or the gardeners. Both so tunnel visioned into their little niches, they're not exactly burdened with an overabundance of vision. Dangle a shiny mechanism or a new plant in front of them and I'd image they'll follow you anywhere.
-        [end-content]
-    [end-accordion-item]
-[end-accordion]
+h4. [[:alandria | Caller Alandria]] ([[House Beltus | House Beltus]])
+
+bq). I don't know. The tinkerers maybe. Or the gardeners. Both so tunnel visioned into their little niches, they're not exactly burdened with an overabundance of vision. Dangle a shiny mechanism or a new plant in front of them and I'd image they'll follow you anywhere.
 
 <!-- GM_INFO_START -->
 h2. GM meta
