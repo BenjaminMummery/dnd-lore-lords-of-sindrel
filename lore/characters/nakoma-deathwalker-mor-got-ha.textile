@@ -7,7 +7,7 @@ name: Nakoma Deathwalker Mor'got'ha
 title: Nakoma Deathwalker Mor'got'ha
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/nakoma-deathwalker-mor-got-ha
 op_created_at: '2025-12-14T19:32:39Z'
-op_updated_at: '2026-07-10T07:36:44Z'
+op_updated_at: '2026-07-10T09:01:02Z'
 op_gm_only: false
 is_player_character: true
 tags:
@@ -194,36 +194,37 @@ dynamic_sheet:
     rage as a bonus action.
   reactions: <strong>Stone’s Endurance.</strong> As a reaction, reduce damage dealt
     to you by 1d12 +2 once per short rest.
-  description: "h3. Kithrak II\n\n<div class=\"stat-block\">\n<h3>Kithrak II</h3>\n\
-    <p><em>Small undead, unaligned</em></p>\n<p><strong>Armor Class</strong> 13<br>\n\
-    <strong>Hit Points</strong> 9 (2d6 + 2)<br>\n<strong>Speed</strong> 15 ft., fly\
-    \ 60 ft.<br>\n<strong>Initiative</strong> +2</p>\n<hr>\n<table>\n    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>\n\
-    \    <tr><td>6 (-2)</td><td>15 (+2)</td><td>13 (+1)</td><td>10 (+0)</td><td>12\
-    \ (+1)</td><td>10 (+0)</td></tr>\n</table>\n<hr>\n<p><strong>Skills</strong> Perception\
-    \ +3<br>\n<strong>Senses</strong> blindsight 10 ft., darkvision 60 ft., passive\
-    \ Perception 13<br>\n<strong>Languages</strong> understands Common and Draconic\
-    \ but can't speak<br>\n<strong>Challenge</strong> 1/2 (100 XP)<br>\n<strong>Proficiency\
-    \ Bonus</strong> +2</p>\n<hr>\n<p><strong>Magic Resistance.</strong> Kithrak II\
-    \ has advantage on saving throws against spells and other magical effects.</p>\n\
-    <hr>\n<h4>Actions</h4>\n<p><strong>Bite.</strong> <em>Melee Weapon Attack:</em>\
-    \ +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage.</p>\n\
-    <p><strong>Necrotic Breath (Recharge 4–6).</strong> Kithrak II exhales deathly\
+  description: "h3. Kithrak II\r\n\r\n<div class=\"stat-block\">\r\n<h3>Kithrak II</h3>\r\
+    \n<p><em>Small undead, unaligned</em></p>\r\n<p><strong>Armor Class</strong> 13<br>\r\
+    \n<strong>Hit Points</strong> 9 (2d6 + 2)<br>\r\n<strong>Speed</strong> 15 ft.,\
+    \ fly 60 ft.<br>\r\n<strong>Initiative</strong> +2</p>\r\n<hr>\r\n<table>\r\n\
+    \    <tbody><tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>\r\
+    \n    <tr><td>6 (-2)</td><td>15 (+2)</td><td>13 (+1)</td><td>10 (+0)</td><td>12\
+    \ (+1)</td><td>10 (+0)</td></tr>\r\n</tbody></table>\r\n<hr>\r\n<p><strong>Skills</strong>\
+    \ Perception +3<br>\r\n<strong>Senses</strong> blindsight 10 ft., darkvision 60\
+    \ ft., passive Perception 13<br>\r\n<strong>Languages</strong> understands Common\
+    \ and Draconic but can't speak<br>\r\n<strong>Challenge</strong> 1/2 (100 XP)<br>\r\
+    \n<strong>Proficiency Bonus</strong> +2</p>\r\n<hr>\r\n<p><strong>Magic Resistance.</strong>\
+    \ Kithrak II has advantage on saving throws against spells and other magical effects.</p>\r\
+    \n<hr>\r\n<h4>Actions</h4>\r\n<p><strong>Bite.</strong> <em>Melee Weapon Attack:</em>\
+    \ +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage.</p>\r\
+    \n<p><strong>Necrotic Breath (Recharge 4–6).</strong> Kithrak II exhales deathly\
     \ flame in a 10-foot cone. Each creature in that area must make a DC 12 Dexterity\
     \ saving throw, taking 10 (3d6) necrotic damage on a failed save, or half as much\
-    \ damage on a successful one.</p>\n</div>\n\nh3. Description\n\nNakoma is a 8ft\
-    \ tall Goliath from one of the mountain clans. In looks she appears to be around\
-    \ mid 40s but she either will not tell people or does not remember her exact age.\
-    \ Her skin is a stony grey reminiscent of granite. She is covered in a collection\
-    \ of faded tattoos which have symbolic meaning to her clan but they have not been\
-    \ maintained so it appears that whichever clan she is/was a part of it has been\
-    \ a long time since she has been in contact with them. In addition to her tattoos\
-    \ she is covered in scars, some scars are small, but some are large an deadly\
-    \ looking. Her hair is made up of a combination of dreads and plaits with quills,\
-    \ feathers and metal adornments woven into them. Her manner of dress is similar\
-    \ to Native American warrirors, made of mostly leathers, and some bone pieces.\n\
-    \nSince the 'incident' in Fallowhurst she also sports a sigil burned into the\
-    \ skin of her back which mirrors the one burnt into [[:wilrin-racenglade | Wilrin's]]\
-    \ eye."
+    \ damage on a successful one.</p>\r\n</div>\r\n\r\nh3. Description\r\n\r\nNakoma\
+    \ is a 8ft tall Goliath from one of the mountain clans. In looks she appears to\
+    \ be around mid 40s but she either will not tell people or does not remember her\
+    \ exact age. Her skin is a stony grey reminiscent of granite. She is covered in\
+    \ a collection of faded tattoos which have symbolic meaning to her clan but they\
+    \ have not been maintained so it appears that whichever clan she is/was a part\
+    \ of it has been a long time since she has been in contact with them. In addition\
+    \ to her tattoos she is covered in scars, some scars are small, but some are large\
+    \ an deadly looking. Her hair is made up of a combination of dreads and plaits\
+    \ with quills, feathers and metal adornments woven into them. Her manner of dress\
+    \ is similar to Native American warrirors, made of mostly leathers, and some bone\
+    \ pieces.\r\n\r\nSince the 'incident' in Fallowhurst she also sports a sigil burned\
+    \ into the skin of her back which mirrors the one burnt into [[:wilrin-racenglade\
+    \ | Wilrin's]] eye."
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457474/572fdc897647939edd9359829283e7ba.jpg
 ---

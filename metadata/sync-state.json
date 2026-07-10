@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-07-09T20:19:01Z",
-  "last_portal_pull": "2026-07-10T08:44:44Z",
+  "last_portal_pull": "2026-07-10T10:46:55Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -1077,9 +1077,9 @@
       "op_id": "7d77af4f53574b049e98cd0a3784f6af",
       "op_kind": "Character",
       "op_slug": "nakoma-deathwalker-mor-got-ha",
-      "op_updated_at": "2026-07-10T07:36:44Z",
-      "repo_blob_sha": "11b6b3569c9c1964eaf0b7407eaf5f4f1e55ae1d",
-      "repo_hash_at_sync": "25efefde976db508625d33df2293f7eb32b0410a2573f8c5d83133bba47aa5c5",
+      "op_updated_at": "2026-07-10T09:01:02Z",
+      "repo_blob_sha": "169f00d75ec197a3537573cc982814f5775b70be",
+      "repo_hash_at_sync": "56038bb9b44c8bb486ffcf2d0b877da222759b390ed203aa18965faf3e501c2d",
       "repo_path": "lore/characters/nakoma-deathwalker-mor-got-ha.textile"
     },
     "7f011f2f93db42fa949cd26d9d045dad": {
