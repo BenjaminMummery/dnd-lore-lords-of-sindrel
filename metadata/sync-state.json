@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-07-10T11:32:44Z",
+  "last_git_publish": "2026-07-10T13:08:49Z",
   "last_portal_pull": "2026-07-10T11:22:43Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -1007,9 +1007,9 @@
       "op_id": "7228de2b917f4d6ca2edbd8ef5cc3ea7",
       "op_kind": "Wiki",
       "op_slug": "world-history",
-      "op_updated_at": "2026-07-03T12:04:08Z",
-      "repo_blob_sha": "f15649bdb47df2885df3119e00db0a432b92aa06",
-      "repo_hash_at_sync": "3c4d6e2362f966a07afe305a5dfddbce2f99290a475a5836be2a4c36ad8e8b00",
+      "op_updated_at": "2026-07-10T13:08:49Z",
+      "repo_blob_sha": "a6b0d2f2ffa00fea5e49136ef1d75472cefe4a90",
+      "repo_hash_at_sync": "621ee5d9b3a935631836b90551a8a7931553fcb265be6e38f4816d7699c1f637",
       "repo_path": "lore/wiki/wiki/world-history.textile"
     },
     "724f9428be9f42ae909cfcc5d45eb58b": {
@@ -1077,9 +1077,9 @@
       "op_id": "7d77af4f53574b049e98cd0a3784f6af",
       "op_kind": "Character",
       "op_slug": "nakoma-deathwalker-mor-got-ha",
-      "op_updated_at": "2026-07-10T11:32:44Z",
-      "repo_blob_sha": "dc6ca76523b459830ba1a5bca54b0a3d2e5caa0e",
-      "repo_hash_at_sync": "",
+      "op_updated_at": "2026-07-10T13:08:46Z",
+      "repo_blob_sha": "562076437ee6529a37aa9efc600e0550f09c729d",
+      "repo_hash_at_sync": "74b2b54e55cdba7a9b8ff244d8a5755326dae2ceffa9491b94f0054cd7ef2f58",
       "repo_path": "lore/characters/nakoma-deathwalker-mor-got-ha.textile"
     },
     "7f011f2f93db42fa949cd26d9d045dad": {
