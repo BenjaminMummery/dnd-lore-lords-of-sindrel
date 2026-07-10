@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-07-10T10:47:07Z",
-  "last_portal_pull": "2026-07-10T10:46:55Z",
+  "last_portal_pull": "2026-07-10T10:53:13Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -897,9 +897,9 @@
       "op_id": "684c57a053864975b1a77f2842946c08",
       "op_kind": "Character",
       "op_slug": "amanira",
-      "op_updated_at": "2026-07-10T07:34:26Z",
+      "op_updated_at": "2026-07-10T10:49:19Z",
       "repo_blob_sha": "307880a929dcf5cd918bb92a17a85d3d13efb231",
-      "repo_hash_at_sync": "dc35fb31c15671c931bd255bef47efbb59f0972f290d85802c76b448dcdd5cca",
+      "repo_hash_at_sync": "64a54e9e9889b5c2be571bf99d518adb5ac7a98f13c4f8c643bf09e652e17c07",
       "repo_path": "lore/characters/amanira.textile"
     },
     "689a5e01c2214591bcd30469314707f8": {
