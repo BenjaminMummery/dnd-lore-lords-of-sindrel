@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457462/WhatsApp_Image_2026-01-10_at_17.14.42.jpeg
 dndbeyond_id: '159196960'
 dndbeyond_url: https://www.dndbeyond.com/characters/159196960
-dndbeyond_synced_at: '2026-07-10T07:33:31Z'
+dndbeyond_synced_at: '2026-07-10T08:42:07Z'
 dynamic_sheet:
   name: Rossin (Ros) Greyhirst
   class_summary: Ranger (Beast Master) 3
@@ -147,7 +147,7 @@ dynamic_sheet:
     Pan Flute, Shields
   languages: Choose a Language, Common, Common Sign Language, Elvish, Halfling, Sylvan
   tools: —
-  ddb_last_sync: 2026-07-10 07:33 UTC
+  ddb_last_sync: 2026-07-10 08:42 UTC
   spellcasting_ability: wis
   spell_save_dc: '12'
   spell_attack: '+4'
@@ -164,27 +164,6 @@ dynamic_sheet:
     locations and monsters, including whatever they can perceive or have perceived
     within the past day. You might be able to persuade a beast to perform a small
     favor for you, at the GM''s discretion."}]'
-  description: "h3. Giant Stoat\n\n<div class=\"stat-block\">\n<h3>Tama</h3>\n<p><em>Medium\
-    \ beast, unaligned</em></p>\n<p><strong>Armor Class</strong> 13<br>\n<strong>Hit\
-    \ Points</strong> 13 (2d8 + 4)<br>\n<strong>Speed</strong> 40 ft.<br>\n<strong>Initiative</strong>\
-    \ +3</p>\n<hr>\n<table>\n    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>\n\
-    \    <tr><td>12 (+1)</td><td>16 (+3)</td><td>12 (+1)</td><td>4 (-3)</td><td>12\
-    \ (+1)</td><td>6 (-2)</td></tr>\n</table>\n<hr>\n<p><strong>Skills</strong> Perception\
-    \ +3, Stealth +5<br>\n<strong>Senses</strong> darkvision 60 ft., passive Perception\
-    \ 13<br>\n<strong>Languages</strong> —<br>\n<strong>Challenge</strong> 1/2 (100\
-    \ XP)<br>\n<strong>Proficiency Bonus</strong> +2</p>\n<hr>\n<p><strong>Keen Hearing\
-    \ and Smell.</strong> Tama has advantage on Wisdom (Perception) checks that rely\
-    \ on hearing or smell.</p>\n<p><strong>Pack Tactics.</strong> Tama has advantage\
-    \ on an attack roll against a creature if at least one of Tama's allies is within\
-    \ 5 feet of the creature and the ally isn't incapacitated.</p>\n<hr>\n<h4>Actions</h4>\n\
-    <p><strong>Bite.</strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft.,\
-    \ one target. <em>Hit:</em> 7 (2d4 + 3) piercing damage.</p>\n</div>\n\nh3. Description\n\
-    \nA woman of about five foot nine, tawny-pale of skin, with pale grey-green eyes.\
-    \ Her hair is dusky grey at the roots and black toward the ends. Olive green and\
-    \ brown leather armour with feathered shoulder details — a ranger's kit worn with\
-    \ the confidence of someone who has already decided where the arrow goes.\n\n\
-    h3. Key Items\n\n* [[Pipes of Faunal Calling | Pipes of Faunal Calling]]\n* [[Silver\
-    \ Guest Bracelet | Silver Guest Bracelet]]"
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 ---
 
@@ -311,7 +290,7 @@ Persuasion +1</div></div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-10 07:33 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-10 08:42 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>

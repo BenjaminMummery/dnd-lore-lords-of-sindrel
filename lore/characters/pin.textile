@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457450/WhatsApp_Image_2026-01-11_at_12.12.06.jpeg
 dndbeyond_id: '159193691'
 dndbeyond_url: https://www.dndbeyond.com/characters/159193691
-dndbeyond_synced_at: '2026-07-10T07:33:29Z'
+dndbeyond_synced_at: '2026-07-10T08:42:04Z'
 dynamic_sheet:
   name: Pin
   class_summary: Fighter (Battle Master) 3
@@ -157,7 +157,7 @@ dynamic_sheet:
     Simple Weapons; Cook's Utensils, Playing Card Set, Shields, Vehicles (Land)
   languages: Common, Dwarvish
   tools: —
-  ddb_last_sync: 2026-07-10 07:33 UTC
+  ddb_last_sync: 2026-07-10 08:42 UTC
   spellcasting_ability: ''
   spell_save_dc: ''
   spell_attack: ''
@@ -166,19 +166,6 @@ dynamic_sheet:
   spell_slots_used_json: '{}'
   spells_prepared: ''
   spells_json: '[]'
-  description: 'A slim young man of about 5''9" — fair-skinned, brown-haired, green-eyed,
-    wiry at a hundred and forty-five pounds. He carries himself with a soldier''s
-    quiet economy; watchful, hard to read. A young warrior seeking community, purpose
-    and answers: does his sword hold the spirit of his dead friend, or is he losing
-    his mind?
-
-
-    h3. Key Items
-
-
-    * [[Hesh | Hesh]]
-
-    * [[Silver Guest Bracelet | Silver Guest Bracelet]]'
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 ---
 
@@ -300,7 +287,7 @@ Persuasion +0</div></div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-10 07:33 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-10 08:42 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>
