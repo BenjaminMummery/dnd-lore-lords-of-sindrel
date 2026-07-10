@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2026-01-15_at_14.33.55.jpeg
 dndbeyond_id: '151085741'
 dndbeyond_url: https://www.dndbeyond.com/characters/151085741
-dndbeyond_synced_at: '2026-07-10T07:34:01Z'
+dndbeyond_synced_at: '2026-07-10T08:42:28Z'
 dynamic_sheet:
   name: Wilrin RavenGlade
   class_summary: Sorcerer (Wild Magic) 3
@@ -151,7 +151,7 @@ dynamic_sheet:
   proficiencies: Crossbow, Light, Dagger, Dart, Flute, Quarterstaff, Sling
   languages: Common, Gnomish, Halfling
   tools: —
-  ddb_last_sync: 2026-07-10 07:34 UTC
+  ddb_last_sync: 2026-07-10 08:42 UTC
   spellcasting_ability: cha
   spell_save_dc: '14'
   spell_attack: '+6'
@@ -202,27 +202,6 @@ dynamic_sheet:
     "Instantaneous", "body": "You cause an object within range that isn’t being worn
     or carried to fly to your open hand. The object must weigh no more than 10 pounds
     or the spell fails."}]'
-  description: 'Wilrin is a halfling sorcerer — slight of frame, sharp of cheekbone,
-    with rounded ears flushed pink at the tips. His hair and beard are the same dark
-    burgundy, the beard trimmed neat and the hair swept back in layered spikes. His
-    complexion is pale; his eyes do not match — one dark and watchful, the other unnaturally
-    pale, a reminder of the [[The Fallowhurst Sigil | Fallowhurst sigil]] that bound
-    him. He dresses in a fitted wine-dark coat embroidered with curling spiral work
-    at the chest and closed with a row of polished buttons.
-
-
-    h3. Key Items
-
-
-    * [[Anasthetic Scalpel | Anasthetic Scalpel]]
-
-    * [[Bone Dice | Bone Dice]]
-
-    * [[Dragonborn Skull | Dragonborn Skull]]
-
-    * [[Silver Guest Bracelet | Silver Guest Bracelet]]
-
-    * [[The Fallowhurst Sigil | The Fallowhurst Sigil]] (bound — sigil scar)'
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 ---
 
@@ -353,7 +332,7 @@ Persuasion +6 *</div></div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-10 07:34 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-10 08:42 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>

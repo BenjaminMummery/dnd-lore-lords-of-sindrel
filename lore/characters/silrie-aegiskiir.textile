@@ -15,7 +15,7 @@ tags:
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7442634/1000025365.jpg
 dndbeyond_id: '151085721'
 dndbeyond_url: https://www.dndbeyond.com/characters/151085721
-dndbeyond_synced_at: '2026-07-10T07:33:52Z'
+dndbeyond_synced_at: '2026-07-10T08:42:19Z'
 dynamic_sheet:
   name: Silrie Aegiskiir
   class_summary: Monk (Way of the Astral Self) 3
@@ -172,7 +172,7 @@ dynamic_sheet:
   proficiencies: Simple Weapons; Disguise Kit, Shortsword
   languages: Abyssal, Celestial, Common, Elvish
   tools: Cartographer's Tools
-  ddb_last_sync: 2026-07-10 07:33 UTC
+  ddb_last_sync: 2026-07-10 08:42 UTC
   spellcasting_ability: ''
   spell_save_dc: ''
   spell_attack: ''
@@ -181,18 +181,6 @@ dynamic_sheet:
   spell_slots_used_json: '{}'
   spells_prepared: ''
   spells_json: '[]'
-  description: 'A tall, pale figure of about 5''11" with long white hair bound in
-    pale wrappings. An ornate ritual mask covers their face. Deep purple and navy
-    robes, white bindings at the arms — the dress of someone who treats movement as
-    a grammar.
-
-
-    h3. Key Items
-
-
-    * [[Silver Guest Bracelet | Silver Guest Bracelet]]
-
-    * [[Knuckledusters | Knuckledusters]]'
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 ---
 
@@ -318,7 +306,7 @@ Persuasion +1</div></div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-10 07:33 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-10 08:42 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>
