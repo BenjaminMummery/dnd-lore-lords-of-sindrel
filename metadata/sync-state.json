@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-07-10T10:53:24Z",
+  "last_git_publish": "2026-07-10T10:58:17Z",
   "last_portal_pull": "2026-07-10T10:53:13Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -387,9 +387,9 @@
       "op_id": "2460ccd9ff50422286d81cbfc2483262",
       "op_kind": "Character",
       "op_slug": "rossin-ros-greyhirst",
-      "op_updated_at": "2026-07-10T07:37:03Z",
-      "repo_blob_sha": "a2de82f2d3fa67ddf1d7e11cbed5f84b5dfe0eb9",
-      "repo_hash_at_sync": "1a6faf4b8416190720c6a8d5bada367af3cf4616db63274e4595fb44dc8e2e6a",
+      "op_updated_at": "2026-07-10T10:58:17Z",
+      "repo_blob_sha": "232e8812a653061354187be10293145e0820047d",
+      "repo_hash_at_sync": "9eb6d696d861816df0828ccd7c1ef1f0c103dff6ea673c6c03924b4419643be0",
       "repo_path": "lore/characters/rossin-ros-greyhirst.textile"
     },
     "24a9fb6a96c34deeadf8c99ef0524f0c": {
@@ -1077,9 +1077,9 @@
       "op_id": "7d77af4f53574b049e98cd0a3784f6af",
       "op_kind": "Character",
       "op_slug": "nakoma-deathwalker-mor-got-ha",
-      "op_updated_at": "2026-07-10T10:47:06Z",
-      "repo_blob_sha": "e372ddb73ee7db23c5633145d71daccc5c702fb1",
-      "repo_hash_at_sync": "910b85f7a0a8f2919a22a8a567c70ec9230fa8672005f24ee0ac60b060712799",
+      "op_updated_at": "2026-07-10T10:58:15Z",
+      "repo_blob_sha": "b6858f91b238450205217a3cefc311c462e7ad7b",
+      "repo_hash_at_sync": "cce561e3f4777da6c7ca7008e2acf99b1320e999204836efbc6fb0b4e3f09c4f",
       "repo_path": "lore/characters/nakoma-deathwalker-mor-got-ha.textile"
     },
     "7f011f2f93db42fa949cd26d9d045dad": {
