@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-07-10T10:58:17Z",
-  "last_portal_pull": "2026-07-10T10:53:13Z",
+  "last_portal_pull": "2026-07-10T11:22:43Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -897,9 +897,9 @@
       "op_id": "684c57a053864975b1a77f2842946c08",
       "op_kind": "Character",
       "op_slug": "amanira",
-      "op_updated_at": "2026-07-10T10:53:22Z",
+      "op_updated_at": "2026-07-10T11:08:05Z",
       "repo_blob_sha": "a0b04748c61bb9e8ae2f5873d32eb54ea3206b3b",
-      "repo_hash_at_sync": "6c9cbfdfb960ee3efe95e238c536d5d09f0bcc16c103fc71472ccee59abf99e1",
+      "repo_hash_at_sync": "cbf34d4eb2c939c9c2c2688a7aa856d549171c26d35ae10076bd4714a4570429",
       "repo_path": "lore/characters/amanira.textile"
     },
     "689a5e01c2214591bcd30469314707f8": {
@@ -1077,9 +1077,9 @@
       "op_id": "7d77af4f53574b049e98cd0a3784f6af",
       "op_kind": "Character",
       "op_slug": "nakoma-deathwalker-mor-got-ha",
-      "op_updated_at": "2026-07-10T10:58:15Z",
+      "op_updated_at": "2026-07-10T11:00:09Z",
       "repo_blob_sha": "b6858f91b238450205217a3cefc311c462e7ad7b",
-      "repo_hash_at_sync": "cce561e3f4777da6c7ca7008e2acf99b1320e999204836efbc6fb0b4e3f09c4f",
+      "repo_hash_at_sync": "638f8c557644883411e2d465e8b5efd34e213166c7492666db0f0c07534ffe6e",
       "repo_path": "lore/characters/nakoma-deathwalker-mor-got-ha.textile"
     },
     "7f011f2f93db42fa949cd26d9d045dad": {

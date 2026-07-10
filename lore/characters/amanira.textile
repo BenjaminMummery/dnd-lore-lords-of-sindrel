@@ -7,7 +7,7 @@ name: Amanira
 title: Amanira
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/amanira
 op_created_at: '2025-12-11T10:54:34Z'
-op_updated_at: '2026-07-10T10:49:19Z'
+op_updated_at: '2026-07-10T11:08:05Z'
 op_gm_only: false
 is_player_character: true
 tags:
@@ -264,6 +264,8 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457470/sytqgzfrl5c41.jp
 
 <!-- OP_DESCRIPTION -->
 A drow woman with blue-violet skin and long platinum hair. Angular features, pointed ears, brown leather strapped over olive kit; a moss-trimmed green cloak and rune-marked stones at her belt - a druidic traveller plainly out of sympathy with a city of stone.
+
+fdsfdsfds
 
 h3. Key Items
 
