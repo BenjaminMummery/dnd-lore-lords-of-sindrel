@@ -154,27 +154,15 @@ dynamic_sheet:
     within the past day. You might be able to persuade a beast to perform a small
     favor for you, at the GM''s discretion."}]'
   ddb_last_sync: 2026-07-10 07:33 UTC
-  description: "h3. Giant Stoat\n\n<div class=\"stat-block\">\n<h3>Tama</h3>\n<p><em>Medium\
-    \ beast, unaligned</em></p>\n<p><strong>Armor Class</strong> 13<br>\n<strong>Hit\
-    \ Points</strong> 13 (2d8 + 4)<br>\n<strong>Speed</strong> 40 ft.<br>\n<strong>Initiative</strong>\
-    \ +3</p>\n<hr>\n<table>\n    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>\n\
-    \    <tr><td>12 (+1)</td><td>16 (+3)</td><td>12 (+1)</td><td>4 (-3)</td><td>12\
-    \ (+1)</td><td>6 (-2)</td></tr>\n</table>\n<hr>\n<p><strong>Skills</strong> Perception\
-    \ +3, Stealth +5<br>\n<strong>Senses</strong> darkvision 60 ft., passive Perception\
-    \ 13<br>\n<strong>Languages</strong> —<br>\n<strong>Challenge</strong> 1/2 (100\
-    \ XP)<br>\n<strong>Proficiency Bonus</strong> +2</p>\n<hr>\n<p><strong>Keen Hearing\
-    \ and Smell.</strong> Tama has advantage on Wisdom (Perception) checks that rely\
-    \ on hearing or smell.</p>\n<p><strong>Pack Tactics.</strong> Tama has advantage\
-    \ on an attack roll against a creature if at least one of Tama's allies is within\
-    \ 5 feet of the creature and the ally isn't incapacitated.</p>\n<hr>\n<h4>Actions</h4>\n\
-    <p><strong>Bite.</strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft.,\
-    \ one target. <em>Hit:</em> 7 (2d4 + 3) piercing damage.</p>\n</div>\n\nh3. Description\n\
-    \nA woman of about five foot nine, tawny-pale of skin, with pale grey-green eyes.\
-    \ Her hair is dusky grey at the roots and black toward the ends. Olive green and\
-    \ brown leather armour with feathered shoulder details — a ranger's kit worn with\
-    \ the confidence of someone who has already decided where the arrow goes.\n\n\
-    h3. Key Items\n\n* [[Pipes of Faunal Calling | Pipes of Faunal Calling]]\n* [[Silver\
-    \ Guest Bracelet | Silver Guest Bracelet]]"
+  companions_json: "[{\"name\":\"Tama\",\"type_line\":\"Medium beast, unaligned\",\"ac\":13,\"hp\":\"13 (2d8 + 4)\",\"speed\":\"40 ft.\",\"initiative\":\"+3\",\"abilities\":[[12,1],[16,3],[12,1],[4,-3],[12,1],[6,-2]],\"skills\":\"Perception +3, Stealth +5\",\"senses\":\"darkvision 60 ft., passive Perception 13\",\"languages\":\"—\",\"challenge\":\"1/2 (100 XP)\",\"proficiency_bonus\":\"+2\",\"traits\":[{\"name\":\"Keen Hearing and Smell\",\"text\":\"Tama has advantage on Wisdom (Perception) checks that rely on hearing or smell.\"},{\"name\":\"Pack Tactics\",\"text\":\"Tama has advantage on an attack roll against a creature if at least one of Tama's allies is within 5 feet of the creature and the ally isn't incapacitated.\"}],\"actions\":[{\"name\":\"Bite\",\"text\":\"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 3) piercing damage.\"}]}]"
+  description: "h3. Description
+
+A woman of about five foot nine, tawny-pale of skin, with pale grey-green eyes. Her hair is dusky grey at the roots and black toward the ends. Olive green and brown leather armour with feathered shoulder details — a ranger's kit worn with the confidence of someone who has already decided where the arrow goes.
+
+h3. Key Items
+
+* [[Pipes of Faunal Calling | Pipes of Faunal Calling]]
+* [[Silver Guest Bracelet | Silver Guest Bracelet]]"
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457462/WhatsApp_Image_2026-01-10_at_17.14.42.jpeg
 ---
@@ -209,7 +197,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457462/WhatsApp_Image_2
       <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+2</span></div>
       <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
     </div>
-    
+
   </div>
 
   <div class="ddb-columns">
@@ -277,7 +265,7 @@ Persuasion +1</div></div>
 <strong>Favored Foe.</strong> When you hit a creature with an attack roll, you can mark the target as your favored enemy for 1 minute or until you lose your concentration (as if you were concentrating on a spell). The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by .</div>
 </div>
 
-  
+
 
   <div class="ddb-columns ddb-bottom-row">
     <div class="ddb-section ddb-half">
@@ -308,34 +296,6 @@ Persuasion +1</div></div>
 </div>
 
 <!-- OP_DESCRIPTION -->
-h3. Giant Stoat
-
-<div class="stat-block">
-<h3>Tama</h3>
-<p><em>Medium beast, unaligned</em></p>
-<p><strong>Armor Class</strong> 13<br>
-<strong>Hit Points</strong> 13 (2d8 + 4)<br>
-<strong>Speed</strong> 40 ft.<br>
-<strong>Initiative</strong> +3</p>
-<hr>
-<table>
-    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
-    <tr><td>12 (+1)</td><td>16 (+3)</td><td>12 (+1)</td><td>4 (-3)</td><td>12 (+1)</td><td>6 (-2)</td></tr>
-</table>
-<hr>
-<p><strong>Skills</strong> Perception +3, Stealth +5<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 13<br>
-<strong>Languages</strong> —<br>
-<strong>Challenge</strong> 1/2 (100 XP)<br>
-<strong>Proficiency Bonus</strong> +2</p>
-<hr>
-<p><strong>Keen Hearing and Smell.</strong> Tama has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong>Pack Tactics.</strong> Tama has advantage on an attack roll against a creature if at least one of Tama's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
-<hr>
-<h4>Actions</h4>
-<p><strong>Bite.</strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (2d4 + 3) piercing damage.</p>
-</div>
-
 h3. Description
 
 A woman of about five foot nine, tawny-pale of skin, with pale grey-green eyes. Her hair is dusky grey at the roots and black toward the ends. Olive green and brown leather armour with feathered shoulder details — a ranger's kit worn with the confidence of someone who has already decided where the arrow goes.
