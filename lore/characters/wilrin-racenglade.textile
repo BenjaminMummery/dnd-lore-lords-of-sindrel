@@ -7,16 +7,37 @@ name: Wilrin Ravenglade
 title: Wilrin Ravenglade
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/wilrin-racenglade
 op_created_at: '2025-12-14T17:07:18Z'
-op_updated_at: '2026-07-08T17:35:30Z'
+op_updated_at: '2026-07-10T07:37:15Z'
 op_gm_only: false
 is_player_character: true
 tags:
 - he/him
-avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2026-01-15_at_14.33.55.jpeg
-dndbeyond_id: '151085741'
-dndbeyond_url: https://www.dndbeyond.com/characters/151085741
-dndbeyond_synced_at: '2026-07-10T08:42:28Z'
 dynamic_sheet:
+  proficiency_str_save: '0'
+  proficiency_dex_save: '0'
+  proficiency_con_save: '0'
+  proficiency_int_save: '0'
+  proficiency_wis_save: '0'
+  proficiency_cha_save: '0'
+  proficiency_athletics: '0'
+  proficiency_acrobatics: '0'
+  proficiency_sleight_of_hand: '0'
+  proficiency_stealth: '0'
+  proficiency_arcana: '0'
+  proficiency_history: '0'
+  proficiency_investigation: '0'
+  proficiency_nature: '0'
+  proficiency_religion: '0'
+  proficiency_animal_handling: '0'
+  proficiency_insight: '0'
+  proficiency_medicine: '0'
+  proficiency_perception: '0'
+  proficiency_survival: '0'
+  proficiency_deception: '0'
+  proficiency_intimidation: '0'
+  proficiency_performance: '0'
+  proficiency_persuasion: '0'
+  use_spellcasting: '0'
   name: Wilrin RavenGlade
   class_summary: Sorcerer (Wild Magic) 3
   prof_bonus: '+2'
@@ -27,7 +48,6 @@ dynamic_sheet:
   hp_max: '14'
   speed: 25 ft.
   initiative: '+3'
-  hit_dice: ''
   str: 9 (-1)
   dex: 16 (+3)
   con: 13 (+1)
@@ -121,9 +141,6 @@ dynamic_sheet:
   passive_insight: '12'
   inspiration: 'No'
   temp_hp: '0'
-  conditions: ''
-  death_saves: ''
-  limited_use: ''
   actions: 'Dagger. +1 to hit, range 20 ft., 1d4 piercing
 
     Crossbow, Light. +1 to hit, range 80 ft., 1d8 piercing
@@ -147,11 +164,9 @@ dynamic_sheet:
   bonus_actions: Convert Sorcery Points. You can use your sorcery points to gain additional
     spell slots or sacrifice spell slots to gain additional sorcery points as a bonus
     action.
-  reactions: ''
   proficiencies: Crossbow, Light, Dagger, Dart, Flute, Quarterstaff, Sling
   languages: Common, Gnomish, Halfling
   tools: —
-  ddb_last_sync: 2026-07-10 08:42 UTC
   spellcasting_ability: cha
   spell_save_dc: '14'
   spell_attack: '+6'
@@ -202,7 +217,30 @@ dynamic_sheet:
     "Instantaneous", "body": "You cause an object within range that isn’t being worn
     or carried to fly to your open hand. The object must weigh no more than 10 pounds
     or the spell fails."}]'
+  ddb_last_sync: 2026-07-10 07:34 UTC
+  description: 'Wilrin is a halfling sorcerer — slight of frame, sharp of cheekbone,
+    with rounded ears flushed pink at the tips. His hair and beard are the same dark
+    burgundy, the beard trimmed neat and the hair swept back in layered spikes. His
+    complexion is pale; his eyes do not match — one dark and watchful, the other unnaturally
+    pale, a reminder of the [[The Fallowhurst Sigil | Fallowhurst sigil]] that bound
+    him. He dresses in a fitted wine-dark coat embroidered with curling spiral work
+    at the chest and closed with a row of polished buttons.
+
+
+    h3. Key Items
+
+
+    * [[Anasthetic Scalpel | Anasthetic Scalpel]]
+
+    * [[Bone Dice | Bone Dice]]
+
+    * [[Dragonborn Skull | Dragonborn Skull]]
+
+    * [[Silver Guest Bracelet | Silver Guest Bracelet]]
+
+    * [[The Fallowhurst Sigil | The Fallowhurst Sigil]] (bound — sigil scar)'
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2026-01-15_at_14.33.55.jpeg
 ---
 
 <!-- OP_DDB_SHEET -->

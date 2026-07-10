@@ -7,15 +7,11 @@ name: Pin
 title: Pin
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/pin
 op_created_at: '2025-12-14T17:12:16Z'
-op_updated_at: '2026-07-08T16:38:51Z'
+op_updated_at: '2026-07-10T07:36:50Z'
 op_gm_only: false
 is_player_character: true
 tags:
 - he/him
-avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457450/WhatsApp_Image_2026-01-11_at_12.12.06.jpeg
-dndbeyond_id: '159193691'
-dndbeyond_url: https://www.dndbeyond.com/characters/159193691
-dndbeyond_synced_at: '2026-07-10T08:42:04Z'
 dynamic_sheet:
   name: Pin
   class_summary: Fighter (Battle Master) 3
@@ -27,7 +23,6 @@ dynamic_sheet:
   hp_max: '22'
   speed: 30 ft.
   initiative: '+2'
-  hit_dice: ''
   str: 16 (+3)
   dex: 14 (+2)
   con: 15 (+2)
@@ -121,9 +116,6 @@ dynamic_sheet:
   passive_insight: '11'
   inspiration: 'No'
   temp_hp: '0'
-  conditions: ''
-  death_saves: ''
-  limited_use: ''
   actions: 'Longsword. +5 to hit, range 5 ft., 1d8 slashing
 
     Handaxe. +5 to hit, range 20 ft., 1d6 slashing
@@ -157,16 +149,25 @@ dynamic_sheet:
     Simple Weapons; Cook's Utensils, Playing Card Set, Shields, Vehicles (Land)
   languages: Common, Dwarvish
   tools: —
-  ddb_last_sync: 2026-07-10 08:42 UTC
-  spellcasting_ability: ''
-  spell_save_dc: ''
-  spell_attack: ''
-  spell_slots: ''
   spell_slots_json: '[]'
   spell_slots_used_json: '{}'
-  spells_prepared: ''
   spells_json: '[]'
+  ddb_last_sync: 2026-07-10 07:33 UTC
+  description: 'A slim young man of about 5''9" — fair-skinned, brown-haired, green-eyed,
+    wiry at a hundred and forty-five pounds. He carries himself with a soldier''s
+    quiet economy; watchful, hard to read. A young warrior seeking community, purpose
+    and answers: does his sword hold the spirit of his dead friend, or is he losing
+    his mind?
+
+
+    h3. Key Items
+
+
+    * [[Hesh | Hesh]]
+
+    * [[Silver Guest Bracelet | Silver Guest Bracelet]]'
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457450/WhatsApp_Image_2026-01-11_at_12.12.06.jpeg
 ---
 
 <!-- OP_DDB_SHEET -->
