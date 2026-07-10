@@ -164,7 +164,7 @@ dynamic_sheet:
     Simple Weapons; Disguise Kit, Forgery Kit, Shields
   languages: Common, Gnomish
   tools: Tinker's Tools
-  ddb_last_sync: 2026-07-10 10:46 UTC
+  ddb_last_sync: 2026-07-10 10:51 UTC
   spellcasting_ability: cha
   spell_save_dc: '14'
   spell_attack: '+6'
@@ -216,7 +216,7 @@ dynamic_sheet:
     against your spell save DC to steel its resolve and end this spell."}]'
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457458/WhatsApp_Image_2026-01-10_at_17.20.08.jpeg
-dndbeyond_synced_at: '2026-07-10T10:46:00Z'
+dndbeyond_synced_at: '2026-07-10T10:51:49Z'
 ---
 
 <!-- OP_DDB_SHEET -->
@@ -347,7 +347,7 @@ Persuasion +4</div></div>
   </div>
 
   <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-10 10:46 UTC</p>
+    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-10 10:51 UTC</p>
     <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
   </div>
 </div>
