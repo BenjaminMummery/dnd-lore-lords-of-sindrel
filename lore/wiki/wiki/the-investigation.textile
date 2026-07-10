@@ -16,121 +16,96 @@ h2. Facts of the Case
 
 The [[:arise-to-victory-over-the-infidel-hoards | Anathemist Lieutenant]] whom the party captured made reference to some highly controlled information. His awareness of this suggests that [[Anathemists | Anathemist]] Spies have succeeded in infiltrating far further into the hierarchy of [[Sindrel | Sindrel]] than was previously believed.[1]
 
+We know that the [[Anathemists | Anathemists]] ended up with highly classified information. The [[Hexine Circle | Hexine Circle]]'s working assumption is that Anathemist spies are responsible — but they have not yet identified who passed them the information or how deep the infiltration runs.
+
 <hr>
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
 
 h2. Current Leads
 
-[accordion]
-    [accordion-item]
-        [title] The Prophesy [end-title]
-        [content]
-            bq). Your path leads through earth and ash and brimstone, but beware the fire and fury – its blinding light hides the spectre of death. It is easy to get lost in the dark, but remember to trust in righteousness. Your lucky number is eight. Your lucky colour is red. Pay close attention to your friends, you may find yourself looking to them at times you don’t expect. Avoid shellfish, but be open to trying new experiences.
+h3. The Prophesy
 
-            _[[:seer-demeletas | Seer Demeletas]] ([[House Goela | House Goela]])_
-        [end-content]
-    [end-accordion-item]
+bq). Your path leads through earth and ash and brimstone, but beware the fire and fury – its blinding light hides the spectre of death. It is easy to get lost in the dark, but remember to trust in righteousness. Your lucky number is eight. Your lucky colour is red. Pay close attention to your friends, you may find yourself looking to them at times you don’t expect. Avoid shellfish, but be open to trying new experiences.
 
-    [accordion-item]
-        [title] [[The Black Cats | The Black Cats]] [end-title]
-        [content]
-            bq). Shake down the local criminals. Our spies need ways to move about the city, ways to get their hands on information, equipment, resources, all without being noticed. That requires a lot of familiarity with the city. Why start from scratch when you can use whats already here? Somewhere out there are some mid- to high-level crooks who are suddenly much better paid as a reward for the treason. Below them are petty scum looking to get rich. They’re the weak link, find them and lean on them.
+_[[:seer-demeletas | Seer Demeletas]] ([[House Goela | House Goela]])_
 
-            _[[:hielaman | Captain Hielaman]] ([[House Meness | House Meness]])_
+h3. [[The Black Cats | The Black Cats]]
 
-            * The face of organised crime in [[Sindrel | Sindrel]] are [[The Black Cats | the Black Cats]], although Hielaman is wary of approaching them directly.
-            * Crime is most prevalent in [[The Wallarch District | The Wallarch District]].
-            * [[:emerich-surefoot | Emerich Surefoot]], whom [[:nakoma-deathwalker-mor-got-ha |Deathwalker]] previously beat in a game of cards, is a low-level enforcer for the [[The Black Cats | Cats]].
-            * According to [[:emerich-surefoot | Emerich Surefoot]], his immediate superior in [[The Black Cats | The Black Cats]] operates out of the back room of [[The Cutthroat's Repose | The Cutthroat's Repose]]. The password is "Swordfish".
-            * According to [[:nort | Nort]], a servant who works at the [[The Fulcrum | Fulcrum]], one of her colleagues [[:chuggaz | Chugan "Chuggaz" Velm]] is rumoured to have links to [[The Black Cats | the Black Cats]].
-         [end-content]
-    [end-accordion-item]
+bq). Shake down the local criminals. Our spies need ways to move about the city, ways to get their hands on information, equipment, resources, all without being noticed. That requires a lot of familiarity with the city. Why start from scratch when you can use whats already here? Somewhere out there are some mid- to high-level crooks who are suddenly much better paid as a reward for the treason. Below them are petty scum looking to get rich. They’re the weak link, find them and lean on them.
 
-    [accordion-item]
-        [title] A grand design hidden among the sabotage [end-title]
-        [content]
-            bq). Incidents, the last months. Misfortune maybe, sabotage we fear. Appearing random, but always a design beneath. The random hides the pattern. Find the parts that do not fit, pull on them until deception unravels.
+_[[:hielaman | Captain Hielaman]] ([[House Meness | House Meness]])_
 
-            _[[:journeyman-galoras | Journeyman Galoras]] ([[House Meness | House Meness]])_
+* The face of organised crime in [[Sindrel | Sindrel]] are [[The Black Cats | the Black Cats]], although Hielaman is wary of approaching them directly.
+* Crime is most prevalent in [[The Wallarch District | The Wallarch District]].
+* [[:emerich-surefoot | Emerich Surefoot]], whom [[:nakoma-deathwalker-mor-got-ha |Deathwalker]] previously beat in a game of cards, is a low-level enforcer for the [[The Black Cats | Cats]].
+* According to [[:emerich-surefoot | Emerich Surefoot]], his immediate superior in [[The Black Cats | The Black Cats]] operates out of the back room of [[The Cutthroat's Repose | The Cutthroat's Repose]]. The password is "Swordfish".
+* According to [[:nort | Nort]], a servant who works at the [[The Fulcrum | Fulcrum]], one of her colleagues [[:chuggaz | Chugan "Chuggaz" Velm]] is rumoured to have links to [[The Black Cats | the Black Cats]].
+* Sable has agreed to share the Black Cats' knowledge in return for the Fallowhurst Sigil.
 
-            * The saboteurs appear to prefer mundane tools where available, but are willing to turn magic to their own ends often with ironic consequences for its users.
-            * The attack against [[:dogara | Hydromancer D'gara]] of [[House Grimbolg | House Grimbolg]] may have a been a cover for the theft of Nitre.
-            * The death of [[:caller-georg | Caller Georg]] may have provided cover for the theft of sulphur.
-        [end-content]
-    [end-accordion-item]
+h3. A grand design hidden among the sabotage
 
-    [accordion-item]
-        [title] Future security risks [end-title]
-        [content]
-            bq). There is no point closing the stable door when the horse has already bolted. We should be focussing on increasing security around critical infrastructure in order to prevent the next attack.
+bq). Incidents, the last months. Misfortune maybe, sabotage we fear. Appearing random, but always a design beneath. The random hides the pattern. Find the parts that do not fit, pull on them until deception unravels.
 
-            _[[:navinea-senetera | Navinea Senetera]] ([[House Grimbolg | House Grimbolg]])_
+_[[:journeyman-galoras | Journeyman Galoras]] ([[House Meness | House Meness]])_
 
-            * [[:navinea-senetera | Navinea Senetera]] believes that the [[Anathemists | Anathemists]] are responsible for the sabotages, and that they are attempting to cause a cascade failure in [[Sindrel | Sindrel]]'s delicate ecosystem.
-        [end-content]
-    [end-accordion-item]
+* The saboteurs appear to prefer mundane tools where available, but are willing to turn magic to their own ends often with ironic consequences for its users.
+* The attack against [[:dogara | Hydromancer D'gara]] of [[House Grimbolg | House Grimbolg]] may have a been a cover for the theft of Nitre.
+* The death of [[:caller-georg | Caller Georg]] may have provided cover for the theft of sulphur.
 
-    [accordion-item]
-        [title]  Recent visitors [end-title]
-        [content]
-            bq). The only true power is information, and the key to information is access. They can only have learned what they know from highly placed individuals - 20 or so in the entire city I suspect. If you want to get access to those sorts of social circles, you need to seem like you belong. I'd imaging you could get into one of my soirees with a wink and a suitably daring fake name, but the upper circles are a different story. You would need money, and lots of it. Enough for an opulent lifestyle  and even more for bribes and other social lubrication. So too you would need to appear to be socially influential and reliably stable - old money gentry, or hereditary nobility, but with a legend that is unlikely to contradict anyone's experiences. They couldn't risk changing alias within the city, they'll have arrived in character. I would suggest looking at recent arrivals, within the last few months. Focus on the nobility and wealthier merchants - people who can move large amounts of money without arousing suspicion. Finally look for people who are obviously harmless, someone around whom it would be easy to drop your guard. For example, a young naive noblewoman with a disarmingly eager affect travelling with a fortune in gold and an almost comically proficient bodyguard...
+h3. Future security risks
+
+bq). There is no point closing the stable door when the horse has already bolted. We should be focussing on increasing security around critical infrastructure in order to prevent the next attack.
+
+_[[:navinea-senetera | Navinea Senetera]] ([[House Grimbolg | House Grimbolg]])_
+
+* [[:navinea-senetera | Navinea Senetera]] believes that the [[Anathemists | Anathemists]] are responsible for the sabotages, and that they are attempting to cause a cascade failure in [[Sindrel | Sindrel]]'s delicate ecosystem.
+
+h3. Recent visitors
+
+bq). The only true power is information, and the key to information is access. They can only have learned what they know from highly placed individuals - 20 or so in the entire city I suspect. If you want to get access to those sorts of social circles, you need to seem like you belong. I'd imaging you could get into one of my soirees with a wink and a suitably daring fake name, but the upper circles are a different story. You would need money, and lots of it. Enough for an opulent lifestyle  and even more for bribes and other social lubrication. So too you would need to appear to be socially influential and reliably stable - old money gentry, or hereditary nobility, but with a legend that is unlikely to contradict anyone's experiences. They couldn't risk changing alias within the city, they'll have arrived in character. I would suggest looking at recent arrivals, within the last few months. Focus on the nobility and wealthier merchants - people who can move large amounts of money without arousing suspicion. Finally look for people who are obviously harmless, someone around whom it would be easy to drop your guard. For example, a young naive noblewoman with a disarmingly eager affect travelling with a fortune in gold and an almost comically proficient bodyguard...
 <br>
 I jest of course, I have confirmed the Lady Von Pthasia's identity myself, and either way she only arrived in the city _after_ the information loss had occurred. Although, I must confess may be inclined to use certain details of her life the next time I myself have to go undercover.
 
-            _[[:emissary-halan | Emissary Halan]] ([[House Lithra | House Lithra]])_
+_[[:emissary-halan | Emissary Halan]] ([[House Lithra | House Lithra]])_
 
-            * Records of visitors to the city are held at a [[House Lithra | House Lithra]] building at the main gate.
-            * The [[:arouraios | The Coachman with the Poncy Glasses]] seen by the servant [[:nort | Nort]] on the noght of [[The Fulcrum | the Fulcrum]] bombing appeared to be in the service of a visiting dignitary.
-        [end-content]
-    [end-accordion-item]
+* Records of visitors to the city are held at a [[House Lithra | House Lithra]] building at the main gate.
+* The [[:arouraios | The Coachman with the Poncy Glasses]] seen by the servant [[:nort | Nort]] on the noght of [[The Fulcrum | the Fulcrum]] bombing appeared to be in the service of a visiting dignitary.
 
-    [accordion-item]
-        [title] Missing weapons or armour [end-title]
+h3. Missing weapons or armour
+
+bq). If they’re here, they must be planning to use their position to strike against the city. That means weapons, either smuggled in or acquired here. We should be checking out every armoury and weapon shop in the city, see if any shipments have come up short or inventory has gone missing.
+
+_[[:commander-locke | Prefect Locke]] ([[House Oestra | House Oestra]])_
+
+* [[:journeyman-galoras | Journeyman Galoras]] is a proficient weaponsmith.
+* According to [[:journeyman-galoras | Galoras]], [[:kelferria-the-smith | Kelferria the Smith]] is the best armourer in the city.
+* [[:kelferria-the-smith | Kelferria ]] is currently busy with a large order.
+
+h3. The [[Osteomantic Archives | Osteomantic Archives]]
+
+bq). The Osteomantic Archives. Think about it – they must have a base of operations – somewhere their comings and goings won’t be noticed. Somewhere well trafficked but anonymous. People go in and out of the archives all the time, but nobody stays long. And, nobody thinks much of it if you’re a bit strange. The catacombs are a labyrinth, and they’re chronically understaffed. You could hide anything down there.
+
+_[[:alandria | Caller Alandria]] ([[House Beltus | House Beltus]])_
+
+* The least-trafficked archive is in [[The Wallarch District | The Wallarch District]].
+* The archives are connected by an enormous subterranean labyrinth of catacombs. Very few people seem to be aware of this fact.
+* Somebody left chalk marks denoting a trail from the Wallarch archive that leads through the catacombs. The trail heads towards the [[Quarantine Zone | Quarantine Zone]], and from there towards the [[House Oestra | House Oestra]] Archive.
+* Something was stored and frequently removed and replaced in an alcove just past where the route branches.
+* The catacombs beneath the [[Quarantine Zone | quarantine zone]] cannot be accessed without some form of protection against the necromantic radiation.
+* There are breaches in the Quarantine Zone wall that allow it to be accessed from [[The Wallarch District | Wallarch]]
+
+h3. Blueprints
+
+* [[:silrie-aegiskiir | Silrie Aegiskiir]] requested blueprints for the oldest building in the city from [[:emissary-halan | Emissary Halan]].
+* Most buildings have drifted away from their original designs due to the easy availablity of transumuters. An exception is The Fulcrum - Silrie has access to the internal layout.
+
+h3. Inter-house suspicions
+
+[[:silrie-aegiskiir | Silrie Aegiskiir]] asked each member of [[Hexine Circle | Hexine Circle]] which other house was the most likely to be involved.
+
+h4. [[The Fulcrum | The Fulcrum]] Bombing [end-title]
         [content]
-            bq). If they’re here, they must be planning to use their position to strike against the city. That means weapons, either smuggled in or acquired here. We should be checking out every armoury and weapon shop in the city, see if any shipments have come up short or inventory has gone missing.
-
-            _[[:commander-locke | Prefect Locke]] ([[House Oestra | House Oestra]])_
-
-            * [[:journeyman-galoras | Journeyman Galoras]] is a proficient weaponsmith.
-            * According to [[:journeyman-galoras | Galoras]], [[:kelferria-the-smith | Kelferria the Smith]] is the best armourer in the city.
-            * [[:kelferria-the-smith | Kelferria ]] is currently busy with a large order.
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] The [[Osteomantic Archives | Osteomantic Archives]] [end-title]
-        [content]
-            bq). The Osteomantic Archives. Think about it – they must have a base of operations – somewhere their comings and goings won’t be noticed. Somewhere well trafficked but anonymous. People go in and out of the archives all the time, but nobody stays long. And, nobody thinks much of it if you’re a bit strange. The catacombs are a labyrinth, and they’re chronically understaffed. You could hide anything down there.
-
-            _[[:alandria | Caller Alandria]] ([[House Beltus | House Beltus]])_
-
-            * The least-trafficked archive is in [[The Wallarch District | The Wallarch District]].
-            * The archives are connected by an enormous subterranean labyrinth of catacombs. Very few people seem to be aware of this fact.
-            * Somebody left chalk marks denoting a trail from the Wallarch archive that leads through the catacombs. The trail heads towards the [[Quarantine Zone | Quarantine Zone]], and from there towards the [[House Oestra | House Oestra]] Archive.
-            * Something was stored and frequently removed and replaced in an alcove just past where the route branches.
-            * The catacombs beneath the [[Quarantine Zone | quarantine zone]] cannot be accessed without some form of protection against the necromantic radiation.
-            * There are breaches in the Quarantine Zone wall that allow it to be accessed from [[The Wallarch District | Wallarch]]
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] Blueprints [end-title]
-        [content]
-            * [[:silrie-aegiskiir | Silrie Aegiskiir]] requested blueprints for the oldest building in the city from [[:emissary-halan | Emissary Halan]].
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] Inter-house suspicions [end-title]
-        [content]
-            [[:silrie-aegiskiir | Silrie Aegiskiir]] asked each member of [[Hexine Circle | Hexine Circle]] which other house was the most likely to be involved.
-        [end-content]
-    [end-accordion-item]
-
-    [accordion-item]
-        [title] [[The Fulcrum | The Fulcrum]] Bombing [end-title]
-        [content]
-             * The bombs used mundane gunpowder, not magic.
+            * The bombs used mundane gunpowder, not magic.
             * One of the 12 devices detonated early.
             * [[House Meness | House Meness]] officers contained the rest while [[House Oestra | House Oestra]] soldiers arrived within minutes to assist with ssecurity and crown control.
             * Gunpowder requires 3 components: Sulphur, Saltpetre/Nitre, and Charcoal.
@@ -141,7 +116,7 @@ I jest of course, I have confirmed the Lady Von Pthasia's identity myself, and e
     [end-accordion-item]
 [end-accordion]
 
-We know that the [[Anathemists | Anathemists]] ended up with highly classified information. The [[Hexine Circle | Hexine Circle]]'s working assumption is that Anathemist spies are responsible — but they have not yet identified who passed them the information or how deep the infiltration runs.
+
 
 h3. Acts of Sabotage
 
@@ -209,51 +184,32 @@ In addition to the information leak, a series of accidents around the city are b
 
 h3. Answers to "Which other House is the most likely to be involved?"
 
-[accordion]
-    [accordion-item]
-        [title] [[:seer-demeletas | Seer Demeletas]] ([[House Goela | House Goela]]) [end-title]
-        [content]
-            bq). Life's challenges are often unforeseen by those who keep the closest watch. But _quis custodiet ipsos custodes_? Quis indeed.
-        [end-content]
-    [end-accordion-item]
+h4. [[:seer-demeletas | Seer Demeletas]] ([[House Goela | House Goela]])
 
-    [accordion-item]
-        [title] [[:hielaman | Captain Hielaman]] ([[House Meness | House Meness]]) [end-title]
-        [content]
-            bq). Nobody. We're all part of the same city, not a traitor among us. That said, I'm never quite sure where I stand with Lithra. They're always playing both sides in any situation. Not that I think they'd betray us, but what if this is all some long game of theirs gone awry?
-         [end-content]
-    [end-accordion-item]
+bq). Life's challenges are often unforeseen by those who keep the closest watch. But _quis custodiet ipsos custodes_? Quis indeed.
 
-    [accordion-item]
-        [title] [[:journeyman-galoras | Journeyman Galoras]] ([[House Meness | House Meness]]) [end-title]
-        [content]
-            bq). Willingly? None. But by deceit? Perhaps Beltus would be their target – concerned with position and authority. Ambitious, but precarious.
-        [end-content]
-    [end-accordion-item]
 
-    [accordion-item]
-        [title] [[:navinea-senetera | Navinea Senetera]] ([[House Grimbolg | House Grimbolg]]) [end-title]
-        [content]
-            bq). Any of us. None of us are immune to manipulation. Find out what drives somebody, and you can push them to almost anything. There's enough politicking and posturing around, I'm sure you could find a weak link in any of the Houses.
-        [end-content]
-    [end-accordion-item]
+h4. [[:hielaman | Captain Hielaman]] ([[House Meness | House Meness]])
 
-    [accordion-item]
-        [title]  [[:emissary-halan | Emissary Halan]] ([[House Lithra | House Lithra]]) [end-title]
-        [content]
-            bq). I would never be so gauche as to suggest impropriety on the part of any of my colleagues. But, if you'll permit me some idle speculation, I have found that military types are sometimes the easiest to find leverage on. All the rules and rigid structure can make them so...predictable.
-        [end-content]
-    [end-accordion-item]
+bq). Nobody. We're all part of the same city, not a traitor among us. That said, I'm never quite sure where I stand with Lithra. They're always playing both sides in any situation. Not that I think they'd betray us, but what if this is all some long game of theirs gone awry?
 
-    [accordion-item]
-        [title] [[:commander-locke | Prefect Locke]] ([[House Oestra | House Oestra]]) [end-title]
-        [content]
-            bq). Goela'd be my guess. Not willingly, but let's face half the time they barely know what planet they're even on. I reckon you get one of them hopped up on magic smoke or however their shit works and they'd tell you anything.
-        [end-content]
-    [end-accordion-item]
+h4. [[:journeyman-galoras | Journeyman Galoras]] ([[House Meness | House Meness]])
 
-    [accordion-item]
-        [title] [[:alandria | Caller Alandria]] ([[House Beltus | House Beltus]]) [end-title]
+bq). Willingly? None. But by deceit? Perhaps Beltus would be their target – concerned with position and authority. Ambitious, but precarious.
+
+h4. [[:navinea-senetera | Navinea Senetera]] ([[House Grimbolg | House Grimbolg]])
+
+bq). Any of us. None of us are immune to manipulation. Find out what drives somebody, and you can push them to almost anything. There's enough politicking and posturing around, I'm sure you could find a weak link in any of the Houses.
+
+h4. [[:emissary-halan | Emissary Halan]] ([[House Lithra | House Lithra]])
+
+bq). I would never be so gauche as to suggest impropriety on the part of any of my colleagues. But, if you'll permit me some idle speculation, I have found that military types are sometimes the easiest to find leverage on. All the rules and rigid structure can make them so...predictable.
+
+h4. [[:commander-locke | Prefect Locke]] ([[House Oestra | House Oestra]])
+
+bq). Goela'd be my guess. Not willingly, but let's face half the time they barely know what planet they're even on. I reckon you get one of them hopped up on magic smoke or however their shit works and they'd tell you anything.
+
+[[:alandria | Caller Alandria]] ([[House Beltus | House Beltus]]) [end-title]
         [content]
             bq). I don't know. The tinkerers maybe. Or the gardeners. Both so tunnel visioned into their little niches, they're not exactly burdened with an overabundance of vision. Dangle a shiny mechanism or a new plant in front of them and I'd image they'll follow you anywhere.
         [end-content]

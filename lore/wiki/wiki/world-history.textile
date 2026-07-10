@@ -36,7 +36,7 @@ h3. ~3220s–3230s SC (_~980s years ago_) — Growth and trade
 
 * [[Sindrel | Sindrel]] develops trade ties with [[Soulwind | Soulwind]] along [[The Mage Road | the Mage Road]] and becomes wealthy enough to stand apart from its neighbour while keeping close ties.
 
-h3. Founding era — [[The Fall of the Eighth House | the Fall of the Eighth House]] 
+h3. Founding era — [[The Fall of the Eighth House | the Fall of the Eighth House]]
 
 * Civic sermons remember a **betrayal**: the great necromancer's **dark ritual** and the seven houses' desperate alliance to defeat it.
 * The eighth house of necromancy was destroyed; necromancy was purged from civic life. See [[The Fall of the Eighth House | The Fall of the Eighth House]].
@@ -86,7 +86,7 @@ h3. Eptan (_7th Month_)
 
 * [[:sebastian-warwick | Private Sebastian Warwick]] accidentally poisons his commanding officer's dog. He is posted to the [[Fallowhurst Outpost | Fallowhurst Outpost]] as a form of non-official punishment.
 
-h3. Ostory (_8th Month_) 
+h3. Ostory (_8th Month_)
 
 * *6th Ostory*
 ** The control rod of one of [[House Grimbolg | House Grimbolg]]'s water generators is inverted, causing a water storage tank to overflow. This results in the drowning of one of their [[Factor | factors]], [[:dogara | Hydromancer D'gara]], as well as significant losses from the adjacent storage silos.

@@ -93,56 +93,64 @@ h3. Complications
 * [[:tama | Tama]] may aid or warn the party in the orchard if they are struggling or making too much noise.
 * Names on museum labels (e.g. Sir Cassia Drake) match plaques on private rooms - reward thorough cross-referencing.
 
-h3. The Orchard
+h2. The Orchard
 
 Originally ornamental, later repurposed for medicinal herb beds. Dangers include [[Strangle Vines | strangle vines]], [[Razorgrass | razorgrass]] (half speed or 1d4 slashing per 5 ft), and [[Sporeshrooms | sporeshrooms]]. Greenhouses hold [[Triffid | triffid]] saplings; one mature [[Triffid | triffid]] can attack. [[:tama | Tama]] lives here.
 
-h3. Items of Importance
+h2. Items of Importance
 
 * [[Map of Fallowhurst College | Map of Fallowhurst College]]
 * [[Letter from Lord Oestra to Embren Oestra | Letter from Lord Oestra]] - Embren's Suite (X)
 * [[Notes on Triffid Research | Notes on Triffid Research]] - Laboratory or Specimen Room
 * [[Fallowhurst College Master Key | Fallowhurst College Master Key]]
 
-h3. Museum (E)
-
-Rotten bodies arrayed as teaching failures. Labels grow shakier over time. Notable: _Subject 1: Carlos Winterborn_ - cervical fracture, "Partial Success" (the binding that created Embren). Early victims had life-threatening conditions; later victims were whoever was available.
-
-h3. Floor Plans
+h2. Floor Plans
 
 Full room-by-room keys below (ground, first, and second floors).
 
-h4. Ground Floor
+h3. Ground Floor
 
 [[File:1542752  | class=media-item-align-center | GF_243x138__2_.png]]
 
-[accordion]
-[accordion-item] [title] A. The Entrance Hall [end-title] [content]
+h4. A. The Entrance Hall
 
 * Remains of a reception desk.
 * On the wall to one side, positioned to be clearly visible from the entrance, is a brass version of the Oestra crest. A massive scar runs across it, and the metal to either side is melted and warped as if by intense heat - evidence of Lord Oestra's last visit to the estate.
 * Trail through the muck littering the floor, as though something has walked the same route over and over, keeping it clear.
 * The trail leads to the right, into the Preparation Room (B).
-[end-content] [end-accordion-item]
-[accordion-item] [title] B. Preparation Room [end-title] [content] This served as a staging area for the Operating Theatre (D) and Lecture Hall (C ). Patients and other teaching materials would be bought here in readiness.
+
+
+h4. B. Preparation Room
+
+This served as a staging area for the Operating Theatre (D) and Lecture Hall (C ). Patients and other teaching materials would be bought here in readiness.
 Scattered around this room are:
 * a number of rusted gurneys
 * a collapsed shelf of anatomical specimens.
 * The corpse of a squirrel which tried to eat one of the preserved specimens and was poisoned.
 * 2 Articulated skeletons - one elven, the other dragonborn.
 
-The trail leads through this room and into the Operating Theatre (D) [end-content] [end-accordion-item]
-[accordion-item] [title]  C. Lecture Hall [end-title] [content]
-bq). This room runs the full three-storey height of the building, and is ringed by a pair of partially collapsed galleries accessed from the upper floors. Tall windows on the west wall once allowed the sun to illuminate the space, but their vacant frames have been almost overtaken by the ivy that once grew on the outside wall and is now colonising the interior. In what little light is admitted illuminates the remains of wooden pew-like benches that litter the floor. At the center is a portable lectern and blackboard, whatever writing it once bore long-since washed away by the water dripping from a large crack in the vaulted ceiling.  [end-content] [end-accordion-item]
-[accordion-item] [title] D. Operating Theatre  [end-title] [content] bq). Three stories above you, the remains of a glass dome, now little more than a lattice of corroded ironwork, lets in a column of daylight that illuminates only the center of the room, leaving the rest shrouded in shadow. At its focus is an adjustable wooden bench adorned with rotten leather straps. Next to it stands a wheeled table, the light glinting from the tarnished knives, saws, and needles arrayed neatly on its top.
+The trail leads through this room and into the Operating Theatre (D)
+
+h4. C. Lecture Hall
+
+bq). This room runs the full three-storey height of the building, and is ringed by a pair of partially collapsed galleries accessed from the upper floors. Tall windows on the west wall once allowed the sun to illuminate the space, but their vacant frames have been almost overtaken by the ivy that once grew on the outside wall and is now colonising the interior. In what little light is admitted illuminates the remains of wooden pew-like benches that litter the floor. At the center is a portable lectern and blackboard, whatever writing it once bore long-since washed away by the water dripping from a large crack in the vaulted ceiling.
+
+h4. D. Operating Theatre
+
+bq). Three stories above you, the remains of a glass dome, now little more than a lattice of corroded ironwork, lets in a column of daylight that illuminates only the center of the room, leaving the rest shrouded in shadow. At its focus is an adjustable wooden bench adorned with rotten leather straps. Next to it stands a wheeled table, the light glinting from the tarnished knives, saws, and needles arrayed neatly on its top.
+<br>
 As your eyes adjust, you can make out the tiered galleries that ring the walls. Each and every seat is occupied - wherever you turn your gaze is met with the empty eye-sockets and ivory grins of hundreds of skeletons.
 
 The skeletons are the remains of the scholars. They wear the tattered shreds of academic gowns.
 
 The spirits bound to the skeletons are typically slumbering, but will begin to awake as [[The Adventurers | the adventurers]] move around. Observant characters may catch a skull seeming to shift towards them, or hear the grinding of bones moving. The scholars are not hostile unless the players start destroying anything they hold dear.
 
-Grime has collected at the edges of the room, but the main floor is free of it having been repeatedly traversed by wondering scholars. The trail from the front door ends here, with a second trail leading onwards towards the Museum (E).[end-content] [end-accordion-item]
-[accordion-item] [title] E. Museum  [end-title] [content]  bq). Glass display cabinets once lined the walls of this room, the shattered shards of which crunch underfoot as you enter. Whatever was once displayed here has been removed - your eyes find a tall heap of tarnished silver wear, a mulchy strata that may once have been paper, and the splintered forms of various delicate and once expensive objects in the south-west corner. In their place, the remains of the cabinets play host to a collection of rotten bodies. Corpses of various sizes and condition are arrayed for your perusal. Close to the door they are comparatively fresh, one even retains sallow flesh stretched taught over its bones. Further in they are increasingly decayed - exposed bones clad in a new life of fungus and infestation.
+Grime has collected at the edges of the room, but the main floor is free of it having been repeatedly traversed by wondering scholars. The trail from the front door ends here, with a second trail leading onwards towards the Museum (E).
+
+h4. E. Museum
+
+bq). Glass display cabinets once lined the walls of this room, the shattered shards of which crunch underfoot as you enter. Whatever was once displayed here has been removed - your eyes find a tall heap of tarnished silver wear, a mulchy strata that may once have been paper, and the splintered forms of various delicate and once expensive objects in the south-west corner. In their place, the remains of the cabinets play host to a collection of rotten bodies. Corpses of various sizes and condition are arrayed for your perusal. Close to the door they are comparatively fresh, one even retains sallow flesh stretched taught over its bones. Further in they are increasingly decayed - exposed bones clad in a new life of fungus and infestation.
+<br>
 At the far end of the room, beneath three shattered windows, is displayed a final body. Surrounded by rot and decay it is pristine. A young man, no more than 25.
 
 Affixed to the cabinets by each body is a piece of wood serving as a label. The older bodies are labelled in a clear, clean hand that grows increasingly shaky and unclear as the bodies get newer. Example labels are:
@@ -155,62 +163,109 @@ Where it is possible to see, the bodies have injuries or other signs consistent 
 
 The wondering scholars have been using the museum as a record of their attempts. Their early victims were patients and villagers with life-threatening conditions. As the village died out and the sanity of the scholars diminished, they started taking whoever was available. All have been failures except for the first, which, depending on your perspective, was the greatest failure of all.
 
-Several of the names can be found on private rooms or in the wards. [end-content] [end-accordion-item]
-[accordion-item] [title]   F. Resident's Room [end-title] [content] This room is laid out as a combination office and examination room, intended for the use of visiting residents and specialists. The windows have been completely blocked by exuberantly overgrown window boxes.
+Several of the names can be found on private rooms or in the wards.
 
-A search of the surviving books and affects will indicate that the most recent resident was researching lichdom.[end-content] [end-accordion-item]
-[accordion-item] [title]   G, H, I: Inner Hall, seating area, and lobby. [end-title] [content] Mostly just a thoroughfare connecting the entrance to the hallway, and to the upper floors via stairs. On the wall is a large frame that once contained a map of the building. Only the ground floor is legibly. The map bears the legend "[[Fallowhurst | Fallowhurst]] College of Healing."
-The seating area is a small gathering space kitted out in mouldy sofas and rotting coffee tables. [end-content] [end-accordion-item]
-[accordion-item] [title] J. Storage  [end-title] [content] Contains the decaying remains of blankets, robes, a few gurneys, etc.[end-content] [end-accordion-item]
-[accordion-item] [title]  K. Laboratory [end-title] [content] bq). Something has been growing in here. The window isn't just obscured by plant life, but choked by it. Vines and creepers are draped between every surface like cobwebs. Between them you make out the shapes pestles, alembics, and flasks, all of them cracked or shattered.
+h4. F. Resident's Room
 
-The vines are actually a [[Triffid | triffid]], grown from a seed that was originally used in an experiment. Characters tracking the vines to their source, or simply thoroughly searching the room, will find the body of the plant in the shattered remains of the petri dish where it was grown. [end-content] [end-accordion-item]
-[accordion-item] [title]  L. Specimen Room [end-title] [content] Storage for interesting specimens awaiting investigation in the laboratory. Samples taken from patients, interesting plants, things of this nature. The shelves are adorned with silver-inlaid runes that originally kept the samples fresh. Is their magic has waned, the samples have fallen to rot.
+This room is laid out as a combination office and examination room, intended for the use of visiting residents and specialists. The windows have been completely blocked by exuberantly overgrown window boxes.
+
+A search of the surviving books and affects will indicate that the most recent resident was researching lichdom.
+
+h4. G, H, I: Inner Hall, seating area, and lobby.
+
+Mostly just a thoroughfare connecting the entrance to the hallway, and to the upper floors via stairs. On the wall is a large frame that once contained a map of the building. Only the ground floor is legibly. The map bears the legend "[[Fallowhurst | Fallowhurst]] College of Healing."
+
+The seating area is a small gathering space kitted out in mouldy sofas and rotting coffee tables.
+
+h4. J. Storage
+
+Contains the decaying remains of blankets, robes, a few gurneys, etc.
+
+h4. K. Laboratory
+
+bq). Something has been growing in here. The window isn't just obscured by plant life, but choked by it. Vines and creepers are draped between every surface like cobwebs. Between them you make out the shapes pestles, alembics, and flasks, all of them cracked or shattered.
+
+The vines are actually a [[Triffid | triffid]], grown from a seed that was originally used in an experiment. Characters tracking the vines to their source, or simply thoroughly searching the room, will find the body of the plant in the shattered remains of the petri dish where it was grown.
+
+h4. L. Specimen Room
+
+Storage for interesting specimens awaiting investigation in the laboratory. Samples taken from patients, interesting plants, things of this nature. The shelves are adorned with silver-inlaid runes that originally kept the samples fresh. Is their magic has waned, the samples have fallen to rot.
 
 Several of the samples are from [[Triffid | Triffids]].
 
-Characters entering the room must make a DC10 constitution saving throw or become sickened due to the miasma. A successful search of the room will turn up a bottle of potent poison. [end-content] [end-accordion-item]
-[accordion-item] [title] M and N: Cloak Room and Dressing Room  [end-title] [content] Changing rooms and lavatories for patients and scholars respectively. The clothes left here are motheaten, but a thorough search will turn up a miraculously preserved cavalier hat (it's about 2 centuries out of fashion, but the sheer audacity to wear it gives you a +1 to charisma rolls.).
-[end-content] [end-accordion-item]
-[accordion-item] [title]  O and Q: Private Rooms [end-title] [content] [end-content] [end-accordion-item]
-[accordion-item] [title]  P. Stairs [end-title] [content] The stairs lead up to the upper floors. They spiral around a statue depicting The Dawn Lord in his aspect as the Healing Father.
- [end-content] [end-accordion-item]
-[accordion-item] [title] R. Hallway [end-title] [content] [end-content] [end-accordion-item]
-[accordion-item] [title] S. Great Hall [end-title] [content] A grand hall, designed for both eating and socialising. Sections of the marble floor were designed to rise up to form tables, a magically powered mechnism which the scholars never utilised, and which has since failed leaving the tables angled at odd heights. A gallery overlooks the hall from the first floor.
+Characters entering the room must make a DC10 constitution saving throw or become sickened due to the miasma. A successful search of the room will turn up a bottle of potent poison.
 
-On the wall is a carved marble plaque inscribed with the names of graduating scholars. [end-content] [end-accordion-item]
-[accordion-item] [title] T. Kitchen [end-title] [content] [end-content] [end-accordion-item]
-[end-accordion]
+h4. M and N: Cloak Room and Dressing Room
+
+Changing rooms and lavatories for patients and scholars respectively. The clothes left here are motheaten, but a thorough search will turn up a miraculously preserved cavalier hat (it's about 2 centuries out of fashion, but the sheer audacity to wear it gives you a +1 to charisma rolls.).
+
+h4. O and Q: Private Rooms
+
+h4. P. Stairs
+
+The stairs lead up to the upper floors. They spiral around a statue depicting The Dawn Lord in his aspect as the Healing Father.
+
+h4. R. Hallway
+
+h4. S. Great Hall
+
+A grand hall, designed for both eating and socialising. Sections of the marble floor were designed to rise up to form tables, a magically powered mechnism which the scholars never utilised, and which has since failed leaving the tables angled at odd heights. A gallery overlooks the hall from the first floor.
+
+On the wall is a carved marble plaque inscribed with the names of graduating scholars.
+
+h4. T. Kitchen
 
 
 
-h4. First Floor
+h3. First Floor
 
 [[File:1542753  | class=media-item-align-center | 1F_243x138.png]]
-[accordion]
-[accordion-item] [title] U. Gallery [end-title] [content] The gallery overlooks the great hall, and was frequently used for entertainment - music stands and a few instruments are stacked neatly against one wall. [end-content] [end-accordion-item]
-[accordion-item] [title]  V. Cloak Room [end-title] [content] [end-content] [end-accordion-item]
-[accordion-item] [title]  W. Private Room [end-title] [content] The plaque beside the door reads "Sir Cassia Drake", a name that can also be found attached to a body in the museum. The room is well preserved, and was once neatly made. Sir Cassia's affects are still in evidence, including a fine set of travelling clothes (moth-eaten beyond use) and a selection of simple but elegant jewellery  [end-content] [end-accordion-item]
-[accordion-item] [title]  X. Embren's Suite [end-title] [content] The door to this room bears a tarnished plaque reading "[[:embren-oestra | Embren Oestra]]".  [end-content] [end-accordion-item]
-[accordion-item] [title] Y. Council Room [end-title] [content] [end-content] [end-accordion-item]
-[accordion-item] [title] Z. Operating Theater First Gallery [end-title] [content] [end-content] [end-accordion-item]
-[accordion-item] [title] AA. Lecture Hall First Gallery [end-title] [content] [end-content] [end-accordion-item]
-[accordion-item] [title] AB. Archivist's Room [end-title] [content] [end-content] [end-accordion-item]
-[accordion-item] [title] AC. Library [end-title] [content] [end-content] [end-accordion-item]
-[accordion-item] [title] AD. Reading Room [end-title] [content] [end-content] [end-accordion-item]
-[accordion-item] [title] AE. Operating Theatre 2 [end-title] [content] [end-content] [end-accordion-item]
-[accordion-item] [title] AF. Ward [end-title] [content] [end-content] [end-accordion-item]
-[end-accordion]
 
-h4. Second Floor
+h4. U. Gallery
+
+The gallery overlooks the great hall, and was frequently used for entertainment - music stands and a few instruments are stacked neatly against one wall.
+
+h4. V. Cloak Room
+
+h4. W. Private Room
+
+The plaque beside the door reads "Sir Cassia Drake", a name that can also be found attached to a body in the museum. The room is well preserved, and was once neatly made. Sir Cassia's affects are still in evidence, including a fine set of travelling clothes (moth-eaten beyond use) and a selection of simple but elegant jewellery.
+
+h4. X. Embren's Suite
+
+The door to this room bears a tarnished plaque reading "[[:embren-oestra | Embren Oestra]]".
+
+h4. Y. Council Room
+
+h4. Z. Operating Theater First Gallery
+
+h4. AA. Lecture Hall First Gallery
+
+h4. AB. Archivist's Room
+
+h4. AC. Library
+
+h4. AD. Reading Room
+
+h4. AE. Operating Theatre 2
+
+h4. AF. Ward
+
+h3. Second Floor
 
 [[File:1542757  | class=media-item-align-center | 2F_243x138.png]]
-[accordion]
-[accordion-item] [title] AG and AH. Private Rooms [end-title] [content] [end-content] [end-accordion-item]
-[accordion-item] [title] AI. Dorm [end-title] [content] [end-content] [end-accordion-item]
-[accordion-item] [title] AJ. Operating Theatre Second Gallery [end-title] [content] [end-content] [end-accordion-item]
-[accordion-item] [title] AK. Lecture Hall Second Gallery [end-title] [content] [end-content] [end-accordion-item]
-[accordion-item] [title] AL. Library Gallery [end-title] [content] [end-content] [end-accordion-item]
-[accordion-item] [title] AM. Reading Room Gallery [end-title] [content] [end-content] [end-accordion-item]
-[end-accordion]
+
+
+h4. AG and AH. Private Rooms
+
+h4. AI. Dorm
+
+h4. AJ. Operating Theatre Second Gallery
+
+h4. AK. Lecture Hall Second Gallery
+
+h4. AL. Library Gallery
+
+h4. AM. Reading Room Gallery
+
 <!-- GM_INFO_END -->
