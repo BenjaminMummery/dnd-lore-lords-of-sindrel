@@ -22,155 +22,106 @@ h2. *Historical Events*
 
 _Dates use the [[The Soulwind Calendar | Soulwind calendar (SC)]]. Current year: **4218 SC** (adventure log canon). “Years ago” figures are measured from 4218._
 
-[accordion]
-    [accordion-item]
-        [title] ~3010 SC (_~1208 years ago_) — [[The Magedom of Houd | The Magedom of Houd]] [end-title]
-        [content]
-            * The northern kingdoms of [[Artresh | Artresh]] unite under the Mage Lord Council as the [[The Magedom of Houd | Magedom of Houd]] — well established by the time [[Sindrel | Sindrel]] is founded two centuries later.
-        [end-content]
-    [end-accordion-item]
+h3. ~3010 SC (_~1208 years ago_) — [[The Magedom of Houd | The Magedom of Houd]]
 
-    [accordion-item]
-        [title] 3218 SC (_~1000 years ago_) — Founding of [[Sindrel | Sindrel]] [end-title]
-        [content]
-            * Eight of the greatest mages of their day establish [[Sindrel | Sindrel]] in the far north as a haven of magical study, free from the petty politics of the surrounding kingdoms.
-            * They form the first [[The Octarion Circle | Octarion Circle]]; the city grows from a small camp into the dominant magical power of the north.
-            * The Great Houses take shape as training institutions for arriving mages.
-        [end-content]
-    [end-accordion-item]
+* The northern kingdoms of [[Artresh | Artresh]] unite under the Mage Lord Council as the [[The Magedom of Houd | Magedom of Houd]] — well established by the time [[Sindrel | Sindrel]] is founded two centuries later.
 
-    [accordion-item]
-        [title] ~3220s–3230s SC (_~980s years ago_) — Growth and trade [end-title]
-        [content]
-            * [[Sindrel | Sindrel]] develops trade ties with [[Soulwind | Soulwind]] along [[The Mage Road | the Mage Road]] and becomes wealthy enough to stand apart from its neighbour while keeping close ties.
-        [end-content]
-    [end-accordion-item]
+h3. 3218 SC (_~1000 years ago_) — Founding of [[Sindrel | Sindrel]]
 
-    [accordion-item]
-        [title] Founding era — [[The Fall of the Eighth House | the Fall of the Eighth House]] [end-title]
-        [content]
-            * Civic sermons remember a **betrayal**: the great necromancer's **dark ritual** and the seven houses' desperate alliance to defeat it.
-            * The eighth house of necromancy was destroyed; necromancy was purged from civic life. See [[The Fall of the Eighth House | The Fall of the Eighth House]].
-        [end-content]
-    [end-accordion-item]
+* Eight of the greatest mages of their day establish [[Sindrel | Sindrel]] in the far north as a haven of magical study, free from the petty politics of the surrounding kingdoms.
+* They form the first [[The Octarion Circle | Octarion Circle]]; the city grows from a small camp into the dominant magical power of the north.
+* The Great Houses take shape as training institutions for arriving mages.
 
-    [accordion-item]
-        [title] ~3250–3800 SC — Sindrel trade empire [end-title]
-        [content]
-            * [[Sindrel | Sindrel]] thrives as the heart of a trade empire.
-        [end-content]
-    [end-accordion-item]
+h3. ~3220s–3230s SC (_~980s years ago_) — Growth and trade
 
-    [accordion-item]
-        [title] ~3850 SC (_~368 years ago_) — Death of magic [end-title]
-        [content]
-            * The first stirrings of the death of magic are felt across [[Arcan | Arcan]].
-        [end-content]
-    [end-accordion-item]
+* [[Sindrel | Sindrel]] develops trade ties with [[Soulwind | Soulwind]] along [[The Mage Road | the Mage Road]] and becomes wealthy enough to stand apart from its neighbour while keeping close ties.
 
-    [accordion-item]
-        [title] ~3900 SC (_~318 years ago_) — [[Soulwind | Soulwind]]'s decline [end-title]
-        [content]
-            * As magic fades, [[Soulwind | Soulwind]]'s population diminishes. [[Sindrel | Sindrel]] becomes the centre of magical power on [[Arcan | Arcan]].
-        [end-content]
-    [end-accordion-item]
+h3. Founding era — [[The Fall of the Eighth House | the Fall of the Eighth House]] 
 
-    [accordion-item]
-        [title] 3958 SC (_260 years ago_) — The Seven Day War [end-title]
-        [content]
-            * Scarcity of magical resources drives conflict between [[The Magedom of Houd | The Magedom of Houd]] and [[The Thaumocracy of Tellerin | The Thaumocracy of Tellerin]]. The Tellerites are generally remembered as the aggressors; the Houdis were ultimately victorious.
-            * Decisive fighting on the Planes of Herrman. Tellerite advance delayed at the Battle of Brassmeade Bridge before the crossing was destroyed.
-            * Defeated Tellerites retreat and close their borders. The weakened Magedom gradually disintegrates into northern city-states.
-        [end-content]
-    [end-accordion-item]
+* Civic sermons remember a **betrayal**: the great necromancer's **dark ritual** and the seven houses' desperate alliance to defeat it.
+* The eighth house of necromancy was destroyed; necromancy was purged from civic life. See [[The Fall of the Eighth House | The Fall of the Eighth House]].
 
-    [accordion-item]
-        [title] ~4185 SC (_~33 years ago_) — The [[Anathemists | Anathemists]] [end-title]
-        [content]
-            * Inter-faith cells emerge in the north, preaching that hubristic magic caused the gods to withdraw. For decades they remain fringe.
-        [end-content]
-    [end-accordion-item]
+h3. ~3250–3800 SC — Sindrel trade empire
 
-    [accordion-item]
-        [title] ~4213 SC (_~5 years ago_) — [[Anathemists | Anathemist]] escalation [end-title]
-        [content]
-            * As magic fades faster, [[Anathemists | Anathemist]] cells grow bolder — probing [[The Mage Road | the Mage Road]], openly hostile to traffic bound for [[Sindrel | Sindrel]]. Infiltration of the city accelerates in the run-up to **4218 SC**.
-        [end-content]
-    [end-accordion-item]
+* [[Sindrel | Sindrel]] thrives as the heart of a trade empire.
 
-    [accordion-item]
-        [title] 4217 SC (_~1 year ago_) — The Mad King of [[World History | Corvus]] [end-title]
-        [content]
-            * In the city-state of **Corvus** — one of the petty kingdoms fractured from [[The Magedom of Houd | Houd]] after the Seven Day War — a tyrant known as the Mad King hires mercenaries (including the Black Bloods) to crush a rebel uprising.
-            * The rebels devastate the royal army. [[:pin | Pin]] (~**21**) and the Black Bloods fought for the King; [[:pin | Pin]]'s friend Essen is executed on the field. See [[Hesh | Hesh]].
-        [end-content]
-    [end-accordion-item]
 
-[end-accordion]
+h3. ~3850 SC (_~368 years ago_) — Death of magic
+
+* The first stirrings of the death of magic are felt across [[Arcan | Arcan]].
+
+h3. ~3900 SC (_~318 years ago_) — [[Soulwind | Soulwind]]'s decline
+
+* As magic fades, [[Soulwind | Soulwind]]'s population diminishes. [[Sindrel | Sindrel]] becomes the centre of magical power on [[Arcan | Arcan]].
+
+h3. 3958 SC (_260 years ago_) — The Seven Day War
+
+* Scarcity of magical resources drives conflict between [[The Magedom of Houd | The Magedom of Houd]] and [[The Thaumocracy of Tellerin | The Thaumocracy of Tellerin]]. The Tellerites are generally remembered as the aggressors; the Houdis were ultimately victorious.
+* Decisive fighting on the Planes of Herrman. Tellerite advance delayed at the Battle of Brassmeade Bridge before the crossing was destroyed.
+* Defeated Tellerites retreat and close their borders. The weakened Magedom gradually disintegrates into northern city-states.
+
+h3. ~4185 SC (_~33 years ago_) — The [[Anathemists | Anathemists]]
+
+* Inter-faith cells emerge in the north, preaching that hubristic magic caused the gods to withdraw. For decades they remain fringe.
+
+h3. ~4213 SC (_~5 years ago_) — [[Anathemists | Anathemist]] escalation
+
+* As magic fades faster, [[Anathemists | Anathemist]] cells grow bolder — probing [[The Mage Road | the Mage Road]], openly hostile to traffic bound for [[Sindrel | Sindrel]]. Infiltration of the city accelerates in the run-up to **4218 SC**.
+
+h3. 4217 SC (_~1 year ago_) — The Mad King of [[World History | Corvus]]
+
+* In the city-state of **Corvus** — one of the petty kingdoms fractured from [[The Magedom of Houd | Houd]] after the Seven Day War — a tyrant known as the Mad King hires mercenaries (including the Black Bloods) to crush a rebel uprising.
+* The rebels devastate the royal army. [[:pin | Pin]] (~**21**) and the Black Bloods fought for the King; [[:pin | Pin]]'s friend Essen is executed on the field. See [[Hesh | Hesh]].
 
 
 h2. *Campaign Timeline* - Year 4218 (_current year_)
 
 _City-wide events in the current year. Day-by-day party chronology lives on [[The Adventurers | The Adventurers]] (Timeline)._
 
-[accordion]
-    [accordion-item]
-        [title] Trian (_3rd month_) [end-title]
-        [content]
-            * The ruffians [[:raymond-quill | Raymond]] and [[:gillette-quill | Gillette Quill]] begin a series of minor felonies along [[The Mage Road | The Mage Road]].
-        [end-content]
-    [end-accordion-item]
+h3. Trian (_3rd month_)
 
-    [accordion-item]
-        [title] Eptan (_7th Month_) [end-title]
-        [content]
-            * [[:sebastian-warwick | Private Sebastian Warwick]] accidentally poisons his commanding officer's dog. He is posted to the [[Fallowhurst Outpost | Fallowhurst Outpost]] as a form of non-official punishment.
-        [end-content]
-    [end-accordion-item]
+* The ruffians [[:raymond-quill | Raymond]] and [[:gillette-quill | Gillette Quill]] begin a series of minor felonies along [[The Mage Road | The Mage Road]].
 
-    [accordion-item]
-        [title] Ostory (_8th Month_) [end-title]
-        [content]
-            *6th Ostory*
-            * The control rod of one of [[House Grimbolg | House Grimbolg]]'s water generators is inverted, causing a water storage tank to overflow. This results in the drowning of one of their [[Factor | factors]], [[:dogara | Hydromancer D'gara]], as well as significant losses from the adjacent storage silos.
+h3. Eptan (_7th Month_)
 
-            *8th Ostory*
-            * [[:nielsenn | Nielsenn]], [[Adjutant | adjutant]] of [[House Mabon | House Mabon]], is vaporised when one of his own trapped locks misfire.
+* [[:sebastian-warwick | Private Sebastian Warwick]] accidentally poisons his commanding officer's dog. He is posted to the [[Fallowhurst Outpost | Fallowhurst Outpost]] as a form of non-official punishment.
 
-            *14th Ostory*
-            * A summoning being carried out by  [[:caller-georg |Caller Johann Georg]], [[Factor | factor]] of [[House Beltus | House Beltus]], goes badly wrong. The demon is able to break free of the summoning circle and possess the summoner. Under its influence, [[:caller-georg | Caller Georg]] runs amok through the halls of the [[Beltan Institute | Beltan Institute]] defacing a number of portraits and other precious items before his heart finally gives out. As a final sick joke, the demon enchants its own sulphurous leavings which, when gathered up with the rest of the day's refuse, explode. The page of Goerg's newly purchased grimoire showing the appropriate summoning circle for a succubus is found to have been vandalised.
+h3. Ostory (_8th Month_) 
 
-            *21st Ostory*
-            * The punch ladle at a diplomatic function being hosted by [[House Lithra | House Lithra]] is exchanged with one that has been enchanted with a geis of truth speaking. This results in three major diplomatic incidents, the end of two mariages, and a very awkward proposal. House [[Factor | factor]] [[:emissary-isius | Emissary Isius]] has to withdraw from public life.
+* *6th Ostory*
+** The control rod of one of [[House Grimbolg | House Grimbolg]]'s water generators is inverted, causing a water storage tank to overflow. This results in the drowning of one of their [[Factor | factors]], [[:dogara | Hydromancer D'gara]], as well as significant losses from the adjacent storage silos.
 
-            *25th Ostory*
-            * Night of the [[Ditchquer | Ditchquer]] tournament closing ceremony.
-            * A series of explosive devices are found in the sewers below [[The Fulcrum | The Fulcrum]] where the ceremony is being held. One detonates early, causing some minor structural damage. The others are discovered and diffused. High ranking [[Factor | Factors]] of each house are in attendance, any or all of whom may have been the intended target. Reinforcements from [[House Oestra | House Oestra]] are called in to support the [[House Meness | House Meness]] guards already in place.
+* *8th Ostory*
+** [[:nielsenn | Nielsenn]], [[Adjutant | adjutant]] of [[House Mabon | House Mabon]], is vaporised when one of his own trapped locks misfire.
 
-            *34th Ostory*
-            * [[:f-lar-mnementh | Tyromancer Pterath]], [[Factor | factor]] of [[House Goela | House Goela]], is poisoned. Investigators determine that a large dosage of hallucinogens had been added to his cheese. Pterath survives, but will be unwilling to attempt any further acts of divination.
-        [end-content]
-    [end-accordion-item]
+* *14th Ostory*
+** A summoning being carried out by  [[:caller-georg |Caller Johann Georg]], [[Factor | factor]] of [[House Beltus | House Beltus]], goes badly wrong. The demon is able to break free of the summoning circle and possess the summoner. Under its influence, [[:caller-georg | Caller Georg]] runs amok through the halls of the [[Beltan Institute | Beltan Institute]] defacing a number of portraits and other precious items before his heart finally gives out. As a final sick joke, the demon enchants its own sulphurous leavings which, when gathered up with the rest of the day's refuse, explode. The page of Goerg's newly purchased grimoire showing the appropriate summoning circle for a succubus is found to have been vandalised.
 
-    [accordion-item]
-        [title] Enean (_9th Month_) [end-title]
-        [content]
-            * In response to increasing [[Anathemists | Anathemist]] attacks, [[The Vermillion Company | The Vermillion Company]] under the command of [[:lacerta-kirrahe | Captain Kirrahe]] are hired to protect the [[Sindrel Coach | Sindrel Coach]].
+* *21st Ostory*
+** The punch ladle at a diplomatic function being hosted by [[House Lithra | House Lithra]] is exchanged with one that has been enchanted with a geis of truth speaking. This results in three major diplomatic incidents, the end of two mariages, and a very awkward proposal. House [[Factor | factor]] [[:emissary-isius | Emissary Isius]] has to withdraw from public life.
 
-            *8th Enean*
-            * [[:craftsman-shegrim | Craftsman Shegrim]], a high-level [[Factor | factor]] of [[House Mabon | House Mabon]], is commissioned anonymously to place a spell of reflection on an amulet. The amulet has _already_ been enchanted with a spell of reflection, causing the enchantment to rebound. In a city where magic is everywhere, he becomes a walking danger to everyone around him.
+* *25th Ostory*
+** Night of the [[Ditchquer | Ditchquer]] tournament closing ceremony.
+** A series of explosive devices are found in the sewers below [[The Fulcrum | The Fulcrum]] where the ceremony is being held. One detonates early, causing some minor structural damage. The others are discovered and diffused. High ranking [[Factor | Factors]] of each house are in attendance, any or all of whom may have been the intended target. Reinforcements from [[House Oestra | House Oestra]] are called in to support the [[House Meness | House Meness]] guards already in place.
 
-            *10th Enean*
-            * [[:dulcinia-von-phthasia | Dulcinia von Phthasia]] and her bodyguard [[:pthul | Pthul]] depart [[Soulwind | Soulwind]].
+* *34th Ostory*
+** [[:f-lar-mnementh | Tyromancer Pterath]], [[Factor | factor]] of [[House Goela | House Goela]], is poisoned. Investigators determine that a large dosage of hallucinogens had been added to his cheese. Pterath survives, but will be unwilling to attempt any further acts of divination.
 
-            *17th Enean*
-            * A [[House Meness | House Meness]] [[Factor | factor]], [[:major-vindas | Major Vindas]], is killed by piece of armour with an inverted reflection enchantment – instead of reversing incoming force it amplifies it. When she invites an aide to help her test the armour with a low level firebolt spell, she is incinerated instantly.
+h3. Enean (_9th Month_) [end-title]
 
-            *24th Enean onward*
-            * [[The Adventurers | The Wonch]] arrive on [[The Mage Road | the Mage Road]]. See [[The Adventurers | The Adventurers]] for the day-by-day timeline.
-        [end-content]
-    [end-accordion-item]
-[end-accordion]
+* In response to increasing [[Anathemists | Anathemist]] attacks, [[The Vermillion Company | The Vermillion Company]] under the command of [[:lacerta-kirrahe | Captain Kirrahe]] are hired to protect the [[Sindrel Coach | Sindrel Coach]].
+
+* *8th Enean*
+** [[:craftsman-shegrim | Craftsman Shegrim]], a high-level [[Factor | factor]] of [[House Mabon | House Mabon]], is commissioned anonymously to place a spell of reflection on an amulet. The amulet has _already_ been enchanted with a spell of reflection, causing the enchantment to rebound. In a city where magic is everywhere, he becomes a walking danger to everyone around him.
+
+* *10th Enean*
+** [[:dulcinia-von-phthasia | Dulcinia von Phthasia]] and her bodyguard [[:pthul | Pthul]] depart [[Soulwind | Soulwind]].
+
+* *17th Enean*
+** A [[House Meness | House Meness]] [[Factor | factor]], [[:major-vindas | Major Vindas]], is killed by piece of armour with an inverted reflection enchantment – instead of reversing incoming force it amplifies it. When she invites an aide to help her test the armour with a low level firebolt spell, she is incinerated instantly.
+
+* *24th Enean onward*
+** [[The Adventurers | The Wonch]] arrive on [[The Mage Road | the Mage Road]]. See [[The Adventurers | The Adventurers]] for the day-by-day timeline.
 
 <!-- GM_INFO_START -->
 h2. GM notes
