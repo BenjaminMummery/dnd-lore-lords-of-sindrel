@@ -12,6 +12,8 @@ op_gm_only: false
 is_player_character: true
 tags:
 - she/her
+dndbeyond_id: '157065911'
+dndbeyond_url: https://www.dndbeyond.com/characters/157065911
 dynamic_sheet:
   name: Nakoma Deathwalker Mor'got'ha
   class_summary: Barbarian 2 / Wizard 1
