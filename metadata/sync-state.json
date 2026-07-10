@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-07-10T13:08:49Z",
+  "last_git_publish": "2026-07-10T13:16:26Z",
   "last_portal_pull": "2026-07-10T11:22:43Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -1007,8 +1007,8 @@
       "op_id": "7228de2b917f4d6ca2edbd8ef5cc3ea7",
       "op_kind": "Wiki",
       "op_slug": "world-history",
-      "op_updated_at": "2026-07-10T13:08:49Z",
-      "repo_blob_sha": "a6b0d2f2ffa00fea5e49136ef1d75472cefe4a90",
+      "op_updated_at": "2026-07-10T13:16:25Z",
+      "repo_blob_sha": "91690165adb78a6e8081751d4fdd9430f649daad",
       "repo_hash_at_sync": "621ee5d9b3a935631836b90551a8a7931553fcb265be6e38f4816d7699c1f637",
       "repo_path": "lore/wiki/wiki/world-history.textile"
     },
@@ -1497,9 +1497,9 @@
       "op_id": "be38f28555f8414bad61e1322b81af36",
       "op_kind": "Wiki",
       "op_slug": "the-investigation",
-      "op_updated_at": "2026-07-05T13:07:45Z",
-      "repo_blob_sha": "5353ab78778701d1589724d1b05fb09a46f0bc3d",
-      "repo_hash_at_sync": "91a36fd78b24ddc95088154529f31be1b22c1a1fde5df6629deb8f592a2ba069",
+      "op_updated_at": "2026-07-10T13:16:23Z",
+      "repo_blob_sha": "6e77d87465353824cfa95011cd5a01bbc2ab86ea",
+      "repo_hash_at_sync": "7858c3a91c796cdbd5bb65a7b19ab36a4f3d7b772d9e197184e36e0b7e1a1523",
       "repo_path": "lore/wiki/wiki/the-investigation.textile"
     },
     "be39fcd75540438d9a18e31861ccc436": {
@@ -1617,9 +1617,9 @@
       "op_id": "c81fb8888f854632a2f5bcafa7b89e5a",
       "op_kind": "Wiki",
       "op_slug": "fallowhurst-college",
-      "op_updated_at": "2026-07-04T21:31:55Z",
-      "repo_blob_sha": "9c0d612569631ab2236e5311a25b373841f5cc91",
-      "repo_hash_at_sync": "8ee28ba7be4ce159980c811e1e0438d5a59ac8ebe03b45b72a93de0ac091f4f2",
+      "op_updated_at": "2026-07-10T13:16:20Z",
+      "repo_blob_sha": "84f208d00917e96e1e7c01e34d20ada686d52cb2",
+      "repo_hash_at_sync": "af8bc791a774e3bfc79e94a0ed37cde8c7ce0f24d7c92846c7528f0a42470430",
       "repo_path": "lore/wiki/wiki/fallowhurst-college.textile"
     },
     "c8478d23d0c846acbe6807329bdfff94": {
