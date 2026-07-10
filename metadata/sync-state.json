@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-07-10T10:47:07Z",
+  "last_git_publish": "2026-07-10T10:53:24Z",
   "last_portal_pull": "2026-07-10T10:53:13Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -607,9 +607,9 @@
       "op_id": "42cee9f0b8134dccab7714a196fd04d5",
       "op_kind": "Character",
       "op_slug": "ayr",
-      "op_updated_at": "2026-07-10T10:47:04Z",
-      "repo_blob_sha": "886de8c70914d0b6ee338ccd650d2a76daf90092",
-      "repo_hash_at_sync": "f84cd5bf880f99a865c85c75a8d688a459fd7c6d22789a3c3a6b6ef1194e21b3",
+      "op_updated_at": "2026-07-10T10:53:24Z",
+      "repo_blob_sha": "21ab0cb4ff206dd7858bef67fb2b5cceb1906f56",
+      "repo_hash_at_sync": "a1deffac05f83eb6bc4b1d40bdd4a40ae9841372802cc7138d189df705c55bcb",
       "repo_path": "lore/characters/ayr.textile"
     },
     "46e3468d573f4714bd7ff0fb59d65696": {
@@ -897,9 +897,9 @@
       "op_id": "684c57a053864975b1a77f2842946c08",
       "op_kind": "Character",
       "op_slug": "amanira",
-      "op_updated_at": "2026-07-10T10:49:19Z",
-      "repo_blob_sha": "307880a929dcf5cd918bb92a17a85d3d13efb231",
-      "repo_hash_at_sync": "64a54e9e9889b5c2be571bf99d518adb5ac7a98f13c4f8c643bf09e652e17c07",
+      "op_updated_at": "2026-07-10T10:53:22Z",
+      "repo_blob_sha": "a0b04748c61bb9e8ae2f5873d32eb54ea3206b3b",
+      "repo_hash_at_sync": "6c9cbfdfb960ee3efe95e238c536d5d09f0bcc16c103fc71472ccee59abf99e1",
       "repo_path": "lore/characters/amanira.textile"
     },
     "689a5e01c2214591bcd30469314707f8": {
