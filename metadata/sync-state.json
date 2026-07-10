@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-07-10T13:31:28Z",
+  "last_git_publish": "2026-07-10T13:48:46Z",
   "last_portal_pull": "2026-07-10T13:31:15Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -1497,8 +1497,8 @@
       "op_id": "be38f28555f8414bad61e1322b81af36",
       "op_kind": "Wiki",
       "op_slug": "the-investigation",
-      "op_updated_at": "2026-07-10T13:31:28Z",
-      "repo_blob_sha": "b9e52681d12ebfa26ff6c0847df28796be43b67d",
+      "op_updated_at": "2026-07-10T13:48:46Z",
+      "repo_blob_sha": "e6a99d50cbbfa285f14a69b4c8d1bc450871fa7e",
       "repo_hash_at_sync": "7858c3a91c796cdbd5bb65a7b19ab36a4f3d7b772d9e197184e36e0b7e1a1523",
       "repo_path": "lore/wiki/wiki/the-investigation.textile"
     },
