@@ -205,6 +205,102 @@ dynamic_sheet:
     Each creature in that area must make a DC 12 Dexterity saving throw, taking 10
     (3d6) necrotic damage on a failed save, or half as much damage on a successful
     one."}]}]'
+  features_traits: '<strong>Natural Athlete.</strong> You have proficiency in the
+    Athletics skill.<br>
+
+    <strong>Stone’s Endurance.</strong> As a reaction, reduce damage dealt to you
+    by 1d12 +2 once per short rest.<br>
+
+    <strong>Powerful Build.</strong> You count as one size larger when determining
+    your carrying capacity and the weight you can push, drag, or lift.<br>
+
+    <strong>Mountain Born.</strong> You don''t suffer the penalties for being in high
+    altitudes, and have resistance to cold damage.<br>
+
+    <strong>Ability Score Increase.</strong> Your Strength score increases by 2, and
+    your Constitution score increases by 1.<br>
+
+    <strong>Languages.</strong> You can speak, read, and write Common and Giant.<br>
+
+    <strong>Age.</strong> Goliaths have lifespans comparable to humans. They enter
+    adulthood in their late teens and usually live less than a century.<br>
+
+    <strong>Size.</strong> Goliaths are between 7 and 8 feet tall and weigh between
+    280 and 340 pounds. Your size is Medium.<br>
+
+    <strong>Speed.</strong> Your base walking speed is 30 feet.<br>
+
+    <strong>Rage.</strong> As a bonus action enter a rage for up to 1 minute (10 rounds).
+    You gain advantage on STR checks and saving throws (not attacks), melee damage
+    with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can''t
+    cast or concentrate on spells while raging. Your rage ends early if you are knocked
+    unconscious or if your turn ends and you haven’t attacked a hostile creature since
+    your last turn or taken damage since then. You can also end your rage as a bonus
+    action.<br>
+
+    <strong>Unarmored Defense.</strong> While not wearing armor, your AC equals 11
+    + any shield bonus.<br>
+
+    <strong>Reckless Attack.</strong> When you make your first attack on your turn,
+    you can decide to attack recklessly, giving you advantage on melee weapon attack
+    rolls using STR during this turn, but attack rolls against you have advantage
+    until your next turn.<br>
+
+    <strong>Danger Sense.</strong> You have advantage on DEX saving throws against
+    effects that you can see while not blinded, deafened, or incapacitated.<br>
+
+    <strong>Primal Path.</strong> At 3rd level, you choose a path that shapes the
+    nature of your rage. Your choice grants you features at 3rd level and again at
+    6th, 10th, and 14th levels.<br>
+
+    <strong>Proficiencies.</strong> Armor: Light armor, medium armor, shields Weapons:
+    Simple weapons, martial weapons Tools: None Saving Throws: Strength, Constitution
+    Skills: Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception,
+    and Survival<br>
+
+    <strong>Hit Points.</strong> Hit Dice: 1d12 per barbarian level Hit Points at
+    1st Level: 12 + your Constitution modifier Hit Points at Higher Levels: 1d12 (or
+    7) + your Constitution modifier per barbarian level after 1st<br>
+
+    <strong>Equipment.</strong> You start with the following equipment, in addition
+    to the equipment granted by your background: (a) a greataxe or (b) any martial
+    melee weapon (a) two handaxes or (b) any simple weapon An explorer’s pack and
+    four javelins<br>
+
+    <strong>Spellcasting.</strong> You can cast prepared wizard spells using INT as
+    your spellcasting modifier (Spell DC 11, Spell Attack +3) and wizard spells in
+    your spellbook as rituals if they have the ritual tag. You can use an arcane focus
+    as a spellcasting focus.<br>
+
+    <strong>Arcane Recovery.</strong> Once per day when you finish a short rest, you
+    can choose expended spell slots to recover - up to a combined level of 2, and
+    none of the slots can be 6th level or higher.<br>
+
+    <strong>Arcane Tradition.</strong> When you reach 2nd level, you choose an arcane
+    tradition, shaping your practice of magic through one of eight schools: Abjuration,
+    Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation.
+    The School of Evocation&amp;nbsp;is detailed at the end of the class description,
+    and more choices are available in other sources. Your choice grants you features
+    at 2nd level and again at 6th, 10th, and 14th level.<br>
+
+    <strong>Proficiencies.</strong> Armor: None Weapons: Daggers, darts, slings, quarterstaffs,
+    light crossbows Tools: None Saving Throws: Intelligence, Wisdom Skills: Choose
+    two from Arcana, History, Insight, Investigation, Medicine, and Religion<br>
+
+    <strong>Hit Points.</strong> Hit Dice: 1d6 per wizard level Hit Points at 1st
+    Level: 6 + your Constitution modifier Hit Points at Higher Levels: 1d6 (or 4)
+    + your Constitution modifier per wizard level after 1st<br>
+
+    <strong>Equipment.</strong> You start with the following equipment, in addition
+    to the equipment granted by your background: (a) a quarterstaff or (b) a dagger
+    (a) a component pouch or (b) an arcane focus (a) a scholar’s pack or (b) an explorer’s
+    pack A spellbook<br>
+
+    <strong>Hero''s Journey Boon.</strong> At your GM''s discretion you have been
+    granted a Hero''s Journey Boon.<br>
+
+    <strong>Dark Bargain.</strong> At your GM''s discretion, you have taken a Dark
+    Bargain.'
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457474/572fdc897647939edd9359829283e7ba.jpg
 ---
@@ -222,41 +318,6 @@ Deathwalker has only been recorded in a handful of major battles. Accounts disag
 Her most recent traveling companions seem to be an eclectic bunch.
 
 <!-- GM_INFO_START -->
-<!-- OP_DDB_GM_FEATURES -->
-<notextile>
-<div class="ddb-sheet ddb-sheet-gm">
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Features &amp; Traits</h2>
-    <div class="ddb-block"><strong>Natural Athlete.</strong> You have proficiency in the Athletics skill.<br>
-<strong>Stone’s Endurance.</strong> As a reaction, reduce damage dealt to you by 1d12 +2 once per short rest.<br>
-<strong>Powerful Build.</strong> You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.<br>
-<strong>Mountain Born.</strong> You don't suffer the penalties for being in high altitudes, and have resistance to cold damage.<br>
-<strong>Ability Score Increase.</strong> Your Strength score increases by 2, and your Constitution score increases by 1.<br>
-<strong>Languages.</strong> You can speak, read, and write Common and Giant.<br>
-<strong>Age.</strong> Goliaths have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century.<br>
-<strong>Size.</strong> Goliaths are between 7 and 8 feet tall and weigh between 280 and 340 pounds. Your size is Medium.<br>
-<strong>Speed.</strong> Your base walking speed is 30 feet.<br>
-<strong>Rage.</strong> As a bonus action enter a rage for up to 1 minute (10 rounds). You gain advantage on STR checks and saving throws (not attacks), melee damage with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can't cast or concentrate on spells while raging. Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage as a bonus action.<br>
-<strong>Unarmored Defense.</strong> While not wearing armor, your AC equals 11 + any shield bonus.<br>
-<strong>Reckless Attack.</strong> When you make your first attack on your turn, you can decide to attack recklessly, giving you advantage on melee weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.<br>
-<strong>Danger Sense.</strong> You have advantage on DEX saving throws against effects that you can see while not blinded, deafened, or incapacitated.<br>
-<strong>Primal Path.</strong> At 3rd level, you choose a path that shapes the nature of your rage. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.<br>
-<strong>Proficiencies.</strong> Armor: Light armor, medium armor, shields Weapons: Simple weapons, martial weapons Tools: None Saving Throws: Strength, Constitution Skills: Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival<br>
-<strong>Hit Points.</strong> Hit Dice: 1d12 per barbarian level Hit Points at 1st Level: 12 + your Constitution modifier Hit Points at Higher Levels: 1d12 (or 7) + your Constitution modifier per barbarian level after 1st<br>
-<strong>Equipment.</strong> You start with the following equipment, in addition to the equipment granted by your background: (a) a greataxe or (b) any martial melee weapon (a) two handaxes or (b) any simple weapon An explorer’s pack and four javelins<br>
-<strong>Spellcasting.</strong> You can cast prepared wizard spells using INT as your spellcasting modifier (Spell DC 11, Spell Attack +3) and wizard spells in your spellbook as rituals if they have the ritual tag. You can use an arcane focus as a spellcasting focus.<br>
-<strong>Arcane Recovery.</strong> Once per day when you finish a short rest, you can choose expended spell slots to recover - up to a combined level of 2, and none of the slots can be 6th level or higher.<br>
-<strong>Arcane Tradition.</strong> When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation. The School of Evocation&amp;nbsp;is detailed at the end of the class description, and more choices are available in other sources. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.<br>
-<strong>Proficiencies.</strong> Armor: None Weapons: Daggers, darts, slings, quarterstaffs, light crossbows Tools: None Saving Throws: Intelligence, Wisdom Skills: Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion<br>
-<strong>Hit Points.</strong> Hit Dice: 1d6 per wizard level Hit Points at 1st Level: 6 + your Constitution modifier Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier per wizard level after 1st<br>
-<strong>Equipment.</strong> You start with the following equipment, in addition to the equipment granted by your background: (a) a quarterstaff or (b) a dagger (a) a component pouch or (b) an arcane focus (a) a scholar’s pack or (b) an explorer’s pack A spellbook<br>
-<strong>Hero's Journey Boon.</strong> At your GM's discretion you have been granted a Hero's Journey Boon.<br>
-<strong>Dark Bargain.</strong> At your GM's discretion, you have taken a Dark Bargain.</div>
-  </div>
-</div>
-</notextile>
-<!-- OP_DDB_GM_FEATURES_END -->
-
 **Player secret (OP Player Secrets UI only - do not put in bio; not API-synced):**
 
 h2. [[The Fallowhurst Sigil | The Fallowhurst Sigil]]

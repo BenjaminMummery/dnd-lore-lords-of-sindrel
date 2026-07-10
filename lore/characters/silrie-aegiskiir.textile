@@ -168,18 +168,107 @@ dynamic_sheet:
   spell_slots_used_json: '{}'
   spells_json: '[]'
   ddb_last_sync: 2026-07-10 07:33 UTC
-  description: 'A tall, pale figure of about 5''11" with long white hair bound in
-    pale wrappings. An ornate ritual mask covers their face. Deep purple and navy
-    robes, white bindings at the arms — the dress of someone who treats movement as
-    a grammar.
+  features_traits: '<strong>Ability Score Increases.</strong> When determining your
+    character’s ability scores, increase one score by 2 and increase a different score
+    by 1, or increase three different scores by 1.<br>
 
+    <strong>Languages.</strong> Your character can speak, read, and write Common and
+    one other language that you and your DM agree is appropriate for the character.<br>
 
-    h3. Key Items
+    <strong>Creature Type.</strong> You are a Humanoid but are also considered an
+    elf for any prerequisite or effect that requires you to be an elf.<br>
 
+    <strong>Size.</strong> You are Medium.<br>
 
-    * [[Silver Guest Bracelet | Silver Guest Bracelet]]
+    <strong>Speed.</strong> Your walking speed is 30 ft.<br>
 
-    * [[Knuckledusters | Knuckledusters]]'
+    <strong>Astral Fire.</strong> You know one of the following cantrips of your choice:
+    dancing lights , light , or sacred flame . Your spellcasting ability is either
+    Intelligence, Wisdom, or Charisma (choose when you select this race).<br>
+
+    <strong>Darkvision.</strong> You can see in dim light within 60 ft. of you as
+    if it were bright light, and in darkness as if it were dim light, only discerning
+    colors in that darkness as shades of gray.<br>
+
+    <strong>Fey Ancestry.</strong> You have advantage on saving throws you make to
+    avoid or end the charmed condition on yourself.<br>
+
+    <strong>Keen Senses.</strong> You have proficiency in the Perception skill.<br>
+
+    <strong>Starlight Step.</strong> As a bonus action, you can magically teleport
+    up to 30 ft. to an unoccupied space you can see. You can use this feature 2 times
+    per long rest.<br>
+
+    <strong>Astral Trance.</strong> You don’t need to sleep, and magic can’t put you
+    to sleep. You can finish a long rest in 4 hours if those hours are spent in a
+    trancelike meditation in which you remain conscious. When you finish this trance
+    you gain proficiency in a skill of your choice and one weapon or tool of your
+    choice from the Player’s Handbook . This lasts until you finish your next long
+    rest.<br>
+
+    <strong>Arms of the Astral Self.</strong> As a bonus action, you can spend 1 ki
+    point to summon the arms of your astral self. When you do so, each creature of
+    your choice that you can see within 10 ft. of you must succeed on a Dex. saving
+    throw ( DC 13 ) or take force damage. For 10 mins: - You can use your Wis. mod
+    in place of your Str. mod when making Str. checks/saving throws. - You can use
+    the spectral arms to make unarmed strikes. - When you make an unarmed strike with
+    the arms on your turn, your reach for it is 5 ft. greater than normal. - The unarmed
+    strikes you make with the arms can use your Wis. mod in place of your Str. or
+    Dex. mod for the attack and damage rolls, and their damage type is force.<br>
+
+    <strong>Unarmored Defense.</strong> While not wearing armor and not using a shield,
+    your AC equals 10 + DEX modifier + WIS modifier.<br>
+
+    <strong>Martial Arts.</strong> While you are unarmed or wielding only monk weapons
+    and you aren’t wearing armor or wielding a shield, you can use DEX instead of
+    STR for the attack and damage rolls, you can roll your Martial Arts damage die
+    in place of the normal damage, and when you use the Attack action on your turn,
+    you can make one unarmed strike as a bonus action.<br>
+
+    <strong>Ki.</strong> You can spend Ki Points to fuel ki features. You have 3 points
+    per short rest and your Ki save DC is 13. Flurry of Blows - After you take the
+    Attack action on your turn, you can spend 1 ki point to make two unarmed strikes
+    as a bonus action. Patient Defense - You can spend 1 ki point to take the Dodge
+    action as a bonus action on your turn. Step of the Wind - You can spend 1 ki point
+    to take the Disengage or Dash action as a bonus action on your turn, and your
+    jump distance is doubled for the turn.<br>
+
+    <strong>Unarmored Movement.</strong> Your speed increases by 10 feet while you
+    are not wearing armor or wielding a shield.<br>
+
+    <strong>Monastic Tradition.</strong> When you reach 3rd level, you commit yourself
+    to a monastic tradition: the Way of the Open Hand, detailed at the end of the
+    class description or one from another source. Your tradition grants you features
+    at 3rd level and again at 6th, 11th, and 17th level.<br>
+
+    <strong>Deflect Missiles.</strong> You can use your reaction to deflect or catch
+    the missile when you are hit by a ranged weapon attack. When you do so, the damage
+    you take from the attack is reduced by 1d10 . If you reduce damage to 0 and have
+    a free hand, you can spend 1 ki point to make a ranged attack (as with a monk
+    weapon) with range 20/60.<br>
+
+    <strong>Proficiencies.</strong> Armor: None Weapons: Simple weapons, shortswords
+    Tools: Choose one type of artisan’s tools or one musical instrument Saving Throws:
+    Strength, Dexterity Skills: Choose two from Acrobatics, Athletics, History, Insight,
+    Religion, and Stealth<br>
+
+    <strong>Hit Points.</strong> Hit Dice: 1d8 per monk level Hit Points at 1st Level:
+    8 + your Constitution modifier Hit Points at Higher Levels: 1d8 (or 5) + your
+    Constitution modifier per monk level after 1st<br>
+
+    <strong>Equipment.</strong> You start with the following equipment, in addition
+    to the equipment granted by your background: (a) a shortsword or (b) any simple
+    weapon (a) a dungeoneer’s pack or (b) an explorer’s pack 10 darts<br>
+
+    <strong>Magic Initiate (Cleric).</strong> You learn two cantrips of your choice
+    from the cleric spell list. You learn one 1st-level spell from that same list
+    and can cast it at its lowest level once per long rest.<br>
+
+    <strong>Hero''s Journey Boon.</strong> At your GM''s discretion you have been
+    granted a Hero''s Journey Boon.<br>
+
+    <strong>Dark Bargain.</strong> At your GM''s discretion, you have taken a Dark
+    Bargain.'
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7442634/1000025365.jpg
 ---
@@ -214,7 +303,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7442634/1000025365.jpg
       <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+4</span></div>
       <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
     </div>
-    
+
   </div>
 
   <div class="ddb-columns">
@@ -293,7 +382,7 @@ Persuasion +1</div></div>
 <strong>Deflect Missiles Attack.</strong> If you reduce damage to 0 and have a free hand, you can spend 1 ki point to make a ranged attack (as with a monk weapon).</div>
 </div>
 
-  
+
 
   <div class="ddb-columns ddb-bottom-row">
     <div class="ddb-section ddb-half">
@@ -302,7 +391,7 @@ Persuasion +1</div></div>
       <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Abyssal, Celestial, Common, Elvish</span></div>
       <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">Cartographer's Tools</span></div>
     </div>
-    
+
   </div>
 
   <div class="ddb-footer">
@@ -323,40 +412,6 @@ h3. Key Items
 Lawful Neutral.
 
 <!-- GM_INFO_START -->
-<!-- OP_DDB_GM_FEATURES -->
-<notextile>
-<div class="ddb-sheet ddb-sheet-gm">
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Features &amp; Traits</h2>
-    <div class="ddb-block"><strong>Ability Score Increases.</strong> When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1.<br>
-<strong>Languages.</strong> Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character.<br>
-<strong>Creature Type.</strong> You are a Humanoid but are also considered an elf for any prerequisite or effect that requires you to be an elf.<br>
-<strong>Size.</strong> You are Medium.<br>
-<strong>Speed.</strong> Your walking speed is 30 ft.<br>
-<strong>Astral Fire.</strong> You know one of the following cantrips of your choice: dancing lights , light , or sacred flame . Your spellcasting ability is either Intelligence, Wisdom, or Charisma (choose when you select this race).<br>
-<strong>Darkvision.</strong> You can see in dim light within 60 ft. of you as if it were bright light, and in darkness as if it were dim light, only discerning colors in that darkness as shades of gray.<br>
-<strong>Fey Ancestry.</strong> You have advantage on saving throws you make to avoid or end the charmed condition on yourself.<br>
-<strong>Keen Senses.</strong> You have proficiency in the Perception skill.<br>
-<strong>Starlight Step.</strong> As a bonus action, you can magically teleport up to 30 ft. to an unoccupied space you can see. You can use this feature 2 times per long rest.<br>
-<strong>Astral Trance.</strong> You don’t need to sleep, and magic can’t put you to sleep. You can finish a long rest in 4 hours if those hours are spent in a trancelike meditation in which you remain conscious. When you finish this trance you gain proficiency in a skill of your choice and one weapon or tool of your choice from the Player’s Handbook . This lasts until you finish your next long rest.<br>
-<strong>Arms of the Astral Self.</strong> As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 ft. of you must succeed on a Dex. saving throw ( DC 13 ) or take force damage. For 10 mins: - You can use your Wis. mod in place of your Str. mod when making Str. checks/saving throws. - You can use the spectral arms to make unarmed strikes. - When you make an unarmed strike with the arms on your turn, your reach for it is 5 ft. greater than normal. - The unarmed strikes you make with the arms can use your Wis. mod in place of your Str. or Dex. mod for the attack and damage rolls, and their damage type is force.<br>
-<strong>Unarmored Defense.</strong> While not wearing armor and not using a shield, your AC equals 10 + DEX modifier + WIS modifier.<br>
-<strong>Martial Arts.</strong> While you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield, you can use DEX instead of STR for the attack and damage rolls, you can roll your Martial Arts damage die in place of the normal damage, and when you use the Attack action on your turn, you can make one unarmed strike as a bonus action.<br>
-<strong>Ki.</strong> You can spend Ki Points to fuel ki features. You have 3 points per short rest and your Ki save DC is 13. Flurry of Blows - After you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action. Patient Defense - You can spend 1 ki point to take the Dodge action as a bonus action on your turn. Step of the Wind - You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.<br>
-<strong>Unarmored Movement.</strong> Your speed increases by 10 feet while you are not wearing armor or wielding a shield.<br>
-<strong>Monastic Tradition.</strong> When you reach 3rd level, you commit yourself to a monastic tradition: the Way of the Open Hand, detailed at the end of the class description or one from another source. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.<br>
-<strong>Deflect Missiles.</strong> You can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 . If you reduce damage to 0 and have a free hand, you can spend 1 ki point to make a ranged attack (as with a monk weapon) with range 20/60.<br>
-<strong>Proficiencies.</strong> Armor: None Weapons: Simple weapons, shortswords Tools: Choose one type of artisan’s tools or one musical instrument Saving Throws: Strength, Dexterity Skills: Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth<br>
-<strong>Hit Points.</strong> Hit Dice: 1d8 per monk level Hit Points at 1st Level: 8 + your Constitution modifier Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per monk level after 1st<br>
-<strong>Equipment.</strong> You start with the following equipment, in addition to the equipment granted by your background: (a) a shortsword or (b) any simple weapon (a) a dungeoneer’s pack or (b) an explorer’s pack 10 darts<br>
-<strong>Magic Initiate (Cleric).</strong> You learn two cantrips of your choice from the cleric spell list. You learn one 1st-level spell from that same list and can cast it at its lowest level once per long rest.<br>
-<strong>Hero's Journey Boon.</strong> At your GM's discretion you have been granted a Hero's Journey Boon.<br>
-<strong>Dark Bargain.</strong> At your GM's discretion, you have taken a Dark Bargain.</div>
-  </div>
-</div>
-</notextile>
-<!-- OP_DDB_GM_FEATURES_END -->
-
 h2. Player sheet (D&D Beyond)
 
 * *Age:* 87 (medium).

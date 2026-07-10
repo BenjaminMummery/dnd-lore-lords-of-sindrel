@@ -218,27 +218,79 @@ dynamic_sheet:
     or carried to fly to your open hand. The object must weigh no more than 10 pounds
     or the spell fails."}]'
   ddb_last_sync: 2026-07-10 07:34 UTC
-  description: 'Wilrin is a halfling sorcerer — slight of frame, sharp of cheekbone,
-    with rounded ears flushed pink at the tips. His hair and beard are the same dark
-    burgundy, the beard trimmed neat and the hair swept back in layered spikes. His
-    complexion is pale; his eyes do not match — one dark and watchful, the other unnaturally
-    pale, a reminder of the [[The Fallowhurst Sigil | Fallowhurst sigil]] that bound
-    him. He dresses in a fitted wine-dark coat embroidered with curling spiral work
-    at the chest and closed with a row of polished buttons.
+  features_traits: '<strong>Lucky.</strong> When you roll a 1 on the d20 for an attack
+    roll, ability check, or saving throw, you can reroll the die and must use the
+    new roll.<br>
 
+    <strong>Brave.</strong> You have advantage on saving throws against being frightened.<br>
 
-    h3. Key Items
+    <strong>Halfling Nimbleness.</strong> You can move through the space of any creature
+    that is of a size larger than yours.<br>
 
+    <strong>Ability Score Increase.</strong> Your Dexterity score increases by 2.<br>
 
-    * [[Anasthetic Scalpel | Anasthetic Scalpel]]
+    <strong>Languages.</strong> You can speak, read, and write Common and Halfling.
+    The Halfling language isn’t secret, but halflings are loath to share it with others.
+    They write very little, so they don’t have a rich body of literature. Their oral
+    tradition, however, is very strong. Almost all halflings speak Common to converse
+    with the people in whose lands they dwell or through which they are traveling.<br>
 
-    * [[Bone Dice | Bone Dice]]
+    <strong>Age.</strong> A halfling reaches adulthood at the age of 20 and generally
+    lives into the middle of his or her second century.<br>
 
-    * [[Dragonborn Skull | Dragonborn Skull]]
+    <strong>Size.</strong> Halflings average about 3 feet tall and weigh about 40
+    pounds. Your size is Small.<br>
 
-    * [[Silver Guest Bracelet | Silver Guest Bracelet]]
+    <strong>Speed.</strong> Your base walking speed is 25 feet.<br>
 
-    * [[The Fallowhurst Sigil | The Fallowhurst Sigil]] (bound — sigil scar)'
+    <strong>Naturally Stealthy.</strong> You can attempt to hide even when you are
+    obscured only by a creature that is at least one size larger than you.<br>
+
+    <strong>Ability Score Increase.</strong> Your Charisma score increases by 1.<br>
+
+    <strong>Wild Magic Surge.</strong> Once per turn, the DM can have you roll a d20
+    immediately after you cast a sorcerer spell of 1st level or higher. If you roll
+    a 1, roll on the Wild Magic Surge table to create a magical effect.<br>
+
+    <strong>Tides of Chaos.</strong> Once per long rest, you can gain advantage on
+    one attack roll, ability check, or saving throw. Before you regain use of this
+    feature, the DM can have you roll on the Wild Magic Surge table after you cast
+    a 1st level or higher spell. You then regain the use of this feature.<br>
+
+    <strong>Spellcasting.</strong> You can cast known sorcerer spells using CHA as
+    your spellcasting modifier (Spell DC 14, Spell Attack +6). You can use an arcane
+    focus as a spellcasting focus.<br>
+
+    <strong>Sorcerous Origin.</strong> Choose a sorcerous origin, which describes
+    the source of your innate magical power: Draconic Bloodline, detailed at the end
+    of the class description, or one from another source. Your choice grants you features
+    when you choose it at 1st level and again at 6th, 14th, and 18th level.<br>
+
+    <strong>Font of Magic.</strong> You have 3 sorcery points that you regain when
+    you finish a long rest. You can use your sorcery points to gain additional spell
+    slots or sacrifice spell slots to gain additional sorcery points as a bonus action.<br>
+
+    <strong>Metamagic.</strong> You gain the ability to twist spells to suit your
+    needs.<br>
+
+    <strong>Proficiencies.</strong> Armor: None Weapons: Daggers, darts, slings, quarterstaffs,
+    light crossbows Tools: None Saving Throws: Constitution, Charisma Skills: Choose
+    two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion<br>
+
+    <strong>Hit Points.</strong> Hit Dice: 1d6 per sorcerer level Hit Points at 1st
+    Level: 6 + your Constitution modifier Hit Points at Higher Levels: 1d6 (or 4)
+    + your Constitution modifier per sorcerer level after 1st<br>
+
+    <strong>Equipment.</strong> You start with the following equipment, in addition
+    to the equipment granted by your background: (a) a light crossbow and 20 bolts
+    or (b) any simple weapon (a) a component pouch or (b) an arcane focus (a) a dungeoneer’s
+    pack or (b) an explorer’s pack Two daggers<br>
+
+    <strong>Hero''s Journey Boon.</strong> At your GM''s discretion you have been
+    granted a Hero''s Journey Boon.<br>
+
+    <strong>Dark Bargain.</strong> At your GM''s discretion, you have taken a Dark
+    Bargain.'
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2026-01-15_at_14.33.55.jpeg
 ---
@@ -273,7 +325,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2
       <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+3</span></div>
       <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
     </div>
-    
+
   </div>
 
   <div class="ddb-columns">
@@ -344,7 +396,7 @@ Persuasion +6 *</div></div>
 <div class="ddb-block"><strong>Convert Sorcery Points.</strong> You can use your sorcery points to gain additional spell slots or sacrifice spell slots to gain additional sorcery points as a bonus action.</div>
 </div>
 
-  
+
 
   <div class="ddb-columns ddb-bottom-row">
     <div class="ddb-section ddb-half">
@@ -390,37 +442,6 @@ h3. Key Items
 
 
 <!-- GM_INFO_START -->
-<!-- OP_DDB_GM_FEATURES -->
-<notextile>
-<div class="ddb-sheet ddb-sheet-gm">
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Features &amp; Traits</h2>
-    <div class="ddb-block"><strong>Lucky.</strong> When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.<br>
-<strong>Brave.</strong> You have advantage on saving throws against being frightened.<br>
-<strong>Halfling Nimbleness.</strong> You can move through the space of any creature that is of a size larger than yours.<br>
-<strong>Ability Score Increase.</strong> Your Dexterity score increases by 2.<br>
-<strong>Languages.</strong> You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.<br>
-<strong>Age.</strong> A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.<br>
-<strong>Size.</strong> Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.<br>
-<strong>Speed.</strong> Your base walking speed is 25 feet.<br>
-<strong>Naturally Stealthy.</strong> You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.<br>
-<strong>Ability Score Increase.</strong> Your Charisma score increases by 1.<br>
-<strong>Wild Magic Surge.</strong> Once per turn, the DM can have you roll a d20 immediately after you cast a sorcerer spell of 1st level or higher. If you roll a 1, roll on the Wild Magic Surge table to create a magical effect.<br>
-<strong>Tides of Chaos.</strong> Once per long rest, you can gain advantage on one attack roll, ability check, or saving throw. Before you regain use of this feature, the DM can have you roll on the Wild Magic Surge table after you cast a 1st level or higher spell. You then regain the use of this feature.<br>
-<strong>Spellcasting.</strong> You can cast known sorcerer spells using CHA as your spellcasting modifier (Spell DC 14, Spell Attack +6). You can use an arcane focus as a spellcasting focus.<br>
-<strong>Sorcerous Origin.</strong> Choose a sorcerous origin, which describes the source of your innate magical power: Draconic Bloodline, detailed at the end of the class description, or one from another source. Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.<br>
-<strong>Font of Magic.</strong> You have 3 sorcery points that you regain when you finish a long rest. You can use your sorcery points to gain additional spell slots or sacrifice spell slots to gain additional sorcery points as a bonus action.<br>
-<strong>Metamagic.</strong> You gain the ability to twist spells to suit your needs.<br>
-<strong>Proficiencies.</strong> Armor: None Weapons: Daggers, darts, slings, quarterstaffs, light crossbows Tools: None Saving Throws: Constitution, Charisma Skills: Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion<br>
-<strong>Hit Points.</strong> Hit Dice: 1d6 per sorcerer level Hit Points at 1st Level: 6 + your Constitution modifier Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st<br>
-<strong>Equipment.</strong> You start with the following equipment, in addition to the equipment granted by your background: (a) a light crossbow and 20 bolts or (b) any simple weapon (a) a component pouch or (b) an arcane focus (a) a dungeoneer’s pack or (b) an explorer’s pack Two daggers<br>
-<strong>Hero's Journey Boon.</strong> At your GM's discretion you have been granted a Hero's Journey Boon.<br>
-<strong>Dark Bargain.</strong> At your GM's discretion, you have taken a Dark Bargain.</div>
-  </div>
-</div>
-</notextile>
-<!-- OP_DDB_GM_FEATURES_END -->
-
 h2. Player sheet (D&D Beyond)
 
 * *Personality:* Like a nomad — cannot settle in one place for long. Wherever he goes, tries to bring a little warmth and tranquility of home. Lives by his own set of weird and wonderful rules.

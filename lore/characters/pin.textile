@@ -153,19 +153,64 @@ dynamic_sheet:
   spell_slots_used_json: '{}'
   spells_json: '[]'
   ddb_last_sync: 2026-07-10 07:33 UTC
-  description: 'A slim young man of about 5''9" — fair-skinned, brown-haired, green-eyed,
-    wiry at a hundred and forty-five pounds. He carries himself with a soldier''s
-    quiet economy; watchful, hard to read. A young warrior seeking community, purpose
-    and answers: does his sword hold the spirit of his dead friend, or is he losing
-    his mind?
+  features_traits: '<strong>Languages.</strong> You can speak, read, and write Common
+    and one extra language.<br>
 
+    <strong>Ability Score Increase.</strong> Your ability scores each increase by
+    1.<br>
 
-    h3. Key Items
+    <strong>Age.</strong> Humans reach adulthood in their late teens and live less
+    than a century.<br>
 
+    <strong>Size.</strong> Humans vary widely in height and build, from barely 5 feet
+    to well over 6 feet tall. Regardless of your position in that range, your size
+    is Medium.<br>
 
-    * [[Hesh | Hesh]]
+    <strong>Speed.</strong> Your base walking speed is 30 feet.<br>
 
-    * [[Silver Guest Bracelet | Silver Guest Bracelet]]'
+    <strong>Combat Superiority.</strong> You learn maneuvers that are fueled by superiority
+    dice. Maneuvers enhance an attack in some way. You have superiority dice per short
+    rest.<br>
+
+    <strong>Student of War.</strong> You gain proficiency with one type of artisan’s
+    tools.<br>
+
+    <strong>Maneuvers.</strong> The maneuvers are presented in alphabetical order.<br>
+
+    <strong>Fighting Style.</strong> You adopt a fighting style specialty.<br>
+
+    <strong>Second Wind.</strong> Once per short rest, you can use a bonus action
+    to regain 1d10 + 3 HP.<br>
+
+    <strong>Action Surge.</strong> You can take one additional action on your turn.
+    This can be used 1 times per short rest.<br>
+
+    <strong>Martial Archetype.</strong> At 3rd level, you choose an archetype that
+    you strive to emulate in your combat styles and techniques. Choose Champion, Battle
+    Master, or Eldritch Knight, all detailed at the end of the class description.
+    The archetype you choose grants you features at 3rd level and again at 7th, 10th,
+    15th, and 18th level.<br>
+
+    <strong>Proficiencies.</strong> Armor: All armor, shields Weapons: Simple weapons,
+    martial weapons Tools: None Saving Throws: Strength, Constitution Skills: Choose
+    two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation,
+    Perception, and Survival<br>
+
+    <strong>Hit Points.</strong> Hit Dice: 1d10 per fighter level Hit Points at 1st
+    Level: 10 + your Constitution modifier Hit Points at Higher Levels: 1d10 (or 6)
+    + your Constitution modifier per fighter level after 1st<br>
+
+    <strong>Equipment.</strong> You start with the following equipment, in addition
+    to the equipment granted by your background: (a) chain mail or (b) leather armor,
+    longbow, and 20 arrows (a) a martial weapon and a shield or (b) two martial weapons
+    (a) a light crossbow and 20 bolts or (b) two handaxes (a) a dungeoneer’s pack
+    or (b) an explorer’s pack<br>
+
+    <strong>Hero''s Journey Boon.</strong> At your GM''s discretion you have been
+    granted a Hero''s Journey Boon.<br>
+
+    <strong>Dark Bargain.</strong> At your GM''s discretion, you have taken a Dark
+    Bargain.'
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457450/WhatsApp_Image_2026-01-11_at_12.12.06.jpeg
 ---
@@ -200,7 +245,7 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457450/WhatsApp_Image_2
       <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+2</span></div>
       <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
     </div>
-    
+
   </div>
 
   <div class="ddb-columns">
@@ -275,7 +320,7 @@ Persuasion +0</div></div>
 <strong>Maneuvers: Riposte.</strong> When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against it (add the superiority die to the attack’s damage roll on hit).</div>
 </div>
 
-  
+
 
   <div class="ddb-columns ddb-bottom-row">
     <div class="ddb-section ddb-half">
@@ -284,7 +329,7 @@ Persuasion +0</div></div>
       <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Dwarvish</span></div>
       <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
     </div>
-    
+
   </div>
 
   <div class="ddb-footer">
@@ -331,33 +376,6 @@ h4. Recent Events
 * *28th Enean 4218 [[The Soulwind Calendar | SC]]* - During downtime in [[Sindrel | Sindrel]], asked magical shops about the [[The Fallowhurst Sigil | Fallowhurst sigil]] seen at [[Fallowhurst College | Fallowhurst College]]; could not reproduce it from memory. Later drank with [[:hielaman | Captain Hielaman]]; woke with a black eye after a [[Ditchquer | Ditchquer]] argument.
 
 <!-- GM_INFO_START -->
-<!-- OP_DDB_GM_FEATURES -->
-<notextile>
-<div class="ddb-sheet ddb-sheet-gm">
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Features &amp; Traits</h2>
-    <div class="ddb-block"><strong>Languages.</strong> You can speak, read, and write Common and one extra language.<br>
-<strong>Ability Score Increase.</strong> Your ability scores each increase by 1.<br>
-<strong>Age.</strong> Humans reach adulthood in their late teens and live less than a century.<br>
-<strong>Size.</strong> Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.<br>
-<strong>Speed.</strong> Your base walking speed is 30 feet.<br>
-<strong>Combat Superiority.</strong> You learn maneuvers that are fueled by superiority dice. Maneuvers enhance an attack in some way. You have superiority dice per short rest.<br>
-<strong>Student of War.</strong> You gain proficiency with one type of artisan’s tools.<br>
-<strong>Maneuvers.</strong> The maneuvers are presented in alphabetical order.<br>
-<strong>Fighting Style.</strong> You adopt a fighting style specialty.<br>
-<strong>Second Wind.</strong> Once per short rest, you can use a bonus action to regain 1d10 + 3 HP.<br>
-<strong>Action Surge.</strong> You can take one additional action on your turn. This can be used 1 times per short rest.<br>
-<strong>Martial Archetype.</strong> At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.<br>
-<strong>Proficiencies.</strong> Armor: All armor, shields Weapons: Simple weapons, martial weapons Tools: None Saving Throws: Strength, Constitution Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival<br>
-<strong>Hit Points.</strong> Hit Dice: 1d10 per fighter level Hit Points at 1st Level: 10 + your Constitution modifier Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per fighter level after 1st<br>
-<strong>Equipment.</strong> You start with the following equipment, in addition to the equipment granted by your background: (a) chain mail or (b) leather armor, longbow, and 20 arrows (a) a martial weapon and a shield or (b) two martial weapons (a) a light crossbow and 20 bolts or (b) two handaxes (a) a dungeoneer’s pack or (b) an explorer’s pack<br>
-<strong>Hero's Journey Boon.</strong> At your GM's discretion you have been granted a Hero's Journey Boon.<br>
-<strong>Dark Bargain.</strong> At your GM's discretion, you have taken a Dark Bargain.</div>
-  </div>
-</div>
-</notextile>
-<!-- OP_DDB_GM_FEATURES_END -->
-
 Pin is **22** in **4218 SC**. The battle at **Corvus** (~**4217 SC**) fell when he was **~21** — the year before the campaign.
 
 h3. The sword

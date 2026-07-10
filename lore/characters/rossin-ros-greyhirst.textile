@@ -154,15 +154,96 @@ dynamic_sheet:
     within the past day. You might be able to persuade a beast to perform a small
     favor for you, at the GM''s discretion."}]'
   ddb_last_sync: 2026-07-10 07:33 UTC
-  companions_json: "[{\"name\":\"Tama\",\"type_line\":\"Medium beast, unaligned\",\"ac\":13,\"hp\":\"13 (2d8 + 4)\",\"speed\":\"40 ft.\",\"initiative\":\"+3\",\"abilities\":[[12,1],[16,3],[12,1],[4,-3],[12,1],[6,-2]],\"skills\":\"Perception +3, Stealth +5\",\"senses\":\"darkvision 60 ft., passive Perception 13\",\"languages\":\"—\",\"challenge\":\"1/2 (100 XP)\",\"proficiency_bonus\":\"+2\",\"traits\":[{\"name\":\"Keen Hearing and Smell\",\"text\":\"Tama has advantage on Wisdom (Perception) checks that rely on hearing or smell.\"},{\"name\":\"Pack Tactics\",\"text\":\"Tama has advantage on an attack roll against a creature if at least one of Tama's allies is within 5 feet of the creature and the ally isn't incapacitated.\"}],\"actions\":[{\"name\":\"Bite\",\"text\":\"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 3) piercing damage.\"}]}]"
-  description: "h3. Description
+  companions_json: '[{"name":"Tama","type_line":"Medium beast, unaligned","ac":13,"hp":"13
+    (2d8 + 4)","speed":"40 ft.","initiative":"+3","abilities":[[12,1],[16,3],[12,1],[4,-3],[12,1],[6,-2]],"skills":"Perception
+    +3, Stealth +5","senses":"darkvision 60 ft., passive Perception 13","languages":"—","challenge":"1/2
+    (100 XP)","proficiency_bonus":"+2","traits":[{"name":"Keen Hearing and Smell","text":"Tama
+    has advantage on Wisdom (Perception) checks that rely on hearing or smell."},{"name":"Pack
+    Tactics","text":"Tama has advantage on an attack roll against a creature if at
+    least one of Tama''s allies is within 5 feet of the creature and the ally isn''t
+    incapacitated."}],"actions":[{"name":"Bite","text":"Melee Weapon Attack: +5 to
+    hit, reach 5 ft., one target. Hit: 7 (2d4 + 3) piercing damage."}]}]'
+  features_traits: '<strong>Darkvision.</strong> You can see in darkness (shades of
+    gray) up to 60 ft.<br>
 
-A woman of about five foot nine, tawny-pale of skin, with pale grey-green eyes. Her hair is dusky grey at the roots and black toward the ends. Olive green and brown leather armour with feathered shoulder details — a ranger's kit worn with the confidence of someone who has already decided where the arrow goes.
+    <strong>Fey Ancestry.</strong> You have advantage on saving throws against being
+    charmed, and magic can’t put you to sleep.<br>
 
-h3. Key Items
+    <strong>Skill Versatility.</strong> You gain proficiency in two skills of your
+    choice.<br>
 
-* [[Pipes of Faunal Calling | Pipes of Faunal Calling]]
-* [[Silver Guest Bracelet | Silver Guest Bracelet]]"
+    <strong>Ability Score Increase.</strong> Your Charisma score increases by 2, and
+    two other ability scores of your choice increase by 1.<br>
+
+    <strong>Languages.</strong> You can speak, read, and write Common, Elvish, and
+    one extra language of your choice.<br>
+
+    <strong>Age.</strong> Half-elves mature at the same rate humans do and reach adulthood
+    around the age of 20. They live much longer than humans, however, often exceeding
+    180 years.<br>
+
+    <strong>Size.</strong> Half-elves are about the same size as humans, ranging from
+    5 to 6 feet tall. Your size is Medium.<br>
+
+    <strong>Speed.</strong> Your base walking speed is 30 feet.<br>
+
+    <strong>Ranger’s Companion.</strong> You gain a beast companion that accompanies
+    you on your adventures and is trained to fight alongside you. The beast obeys
+    your commands and takes its turn on your initiative. On your turn, you can command
+    the beast where to move (no action required by you) or take the Attack, Dash,
+    Disengage, or Help action. If you don''t issue a command, the beast takes the
+    Dodge action.<br>
+
+    <strong>Favored Enemy.</strong> You have advantage on Survival checks to track
+    your favored enemies, as well as on INT checks to recall information about them.
+    You also learn one language of your choice that is spoken by your favored enemies,
+    if they speak one at all.<br>
+
+    <strong>Natural Explorer.</strong> You have a favored terrain type. Your proficiency
+    bonus is doubled for proficient skills when you make an INT or WIS check related
+    to it. While traveling for an hour or more in your chosen terrain, difficult terrain
+    doesn’t slow your group’s travel, your group can’t become lost except by magical
+    means, you remain alert to danger even when you are engaged in another activity,
+    you can move stealthily at a normal pace (while alone), you find twice as much
+    food while foraging, and while tracking creatures, you learn the exact number,
+    sizes, and how long ago they passed through the area.<br>
+
+    <strong>Fighting Style.</strong> You adopt a particular style of fighting as your
+    specialty.<br>
+
+    <strong>Spellcasting.</strong> You can cast known ranger spells using WIS as your
+    spellcasting modifier (Spell DC 12, Spell Attack +4).<br>
+
+    <strong>Ranger Archetype.</strong> At 3rd level, you choose an archetype that
+    you strive to emulate: the Hunter that is detailed at the end of the class description
+    or one from another source. Your choice grants you features at 3rd level and again
+    at 7th, 11th, and 15th level.<br>
+
+    <strong>Primeval Awareness.</strong> As an action, you can expend one ranger spell
+    slot (1 minute per level of spell slot) to sense whether any aberrations, celestials,
+    dragons, elementals, fey, fiends, or undead are present within 1 mile of you (or
+    within up to 6 miles if you are in your favored terrain). This feature doesn’t
+    reveal the creatures’ location or number.<br>
+
+    <strong>Proficiencies.</strong> Armor: Light armor, medium armor, shields Weapons:
+    Simple weapons, martial weapons Tools: None Saving Throws: Strength, Dexterity
+    Skills: Choose three from Animal Handling, Athletics, Insight, Investigation,
+    Nature, Perception, Stealth, and Survival<br>
+
+    <strong>Hit Points.</strong> Hit Dice: 1d10 per ranger level Hit Points at 1st
+    Level: 10 + your Constitution modifier Hit Points at Higher Levels: 1d10 (or 6)
+    + your Constitution modifier per ranger level after 1st<br>
+
+    <strong>Equipment.</strong> You start with the following equipment, in addition
+    to the equipment granted by your background: (a) scale mail or (b) leather armor
+    (a) two shortswords or (b) two simple melee weapons (a) a dungeoneer’s pack or
+    (b) an explorer’s pack A longbow and a quiver of 20 arrows<br>
+
+    <strong>Hero''s Journey Boon.</strong> At your GM''s discretion you have been
+    granted a Hero''s Journey Boon.<br>
+
+    <strong>Dark Bargain.</strong> At your GM''s discretion, you have taken a Dark
+    Bargain.'
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457462/WhatsApp_Image_2026-01-10_at_17.14.42.jpeg
 ---
@@ -331,36 +412,6 @@ FALSE – She was caught clearing the spring of poisonous plants, which admitted
 Yes the merchant had refused to trade, though she had no intent for revenge and no villagers were harmed, even if over the years the tale mysteriously seems to include more and more casualties.
 
 <!-- GM_INFO_START -->
-<!-- OP_DDB_GM_FEATURES -->
-<notextile>
-<div class="ddb-sheet ddb-sheet-gm">
-  <div class="ddb-section">
-    <h2 class="ddb-section-title">Features &amp; Traits</h2>
-    <div class="ddb-block"><strong>Darkvision.</strong> You can see in darkness (shades of gray) up to 60 ft.<br>
-<strong>Fey Ancestry.</strong> You have advantage on saving throws against being charmed, and magic can’t put you to sleep.<br>
-<strong>Skill Versatility.</strong> You gain proficiency in two skills of your choice.<br>
-<strong>Ability Score Increase.</strong> Your Charisma score increases by 2, and two other ability scores of your choice increase by 1.<br>
-<strong>Languages.</strong> You can speak, read, and write Common, Elvish, and one extra language of your choice.<br>
-<strong>Age.</strong> Half-elves mature at the same rate humans do and reach adulthood around the age of 20. They live much longer than humans, however, often exceeding 180 years.<br>
-<strong>Size.</strong> Half-elves are about the same size as humans, ranging from 5 to 6 feet tall. Your size is Medium.<br>
-<strong>Speed.</strong> Your base walking speed is 30 feet.<br>
-<strong>Ranger’s Companion.</strong> You gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. The beast obeys your commands and takes its turn on your initiative. On your turn, you can command the beast where to move (no action required by you) or take the Attack, Dash, Disengage, or Help action. If you don't issue a command, the beast takes the Dodge action.<br>
-<strong>Favored Enemy.</strong> You have advantage on Survival checks to track your favored enemies, as well as on INT checks to recall information about them. You also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.<br>
-<strong>Natural Explorer.</strong> You have a favored terrain type. Your proficiency bonus is doubled for proficient skills when you make an INT or WIS check related to it. While traveling for an hour or more in your chosen terrain, difficult terrain doesn’t slow your group’s travel, your group can’t become lost except by magical means, you remain alert to danger even when you are engaged in another activity, you can move stealthily at a normal pace (while alone), you find twice as much food while foraging, and while tracking creatures, you learn the exact number, sizes, and how long ago they passed through the area.<br>
-<strong>Fighting Style.</strong> You adopt a particular style of fighting as your specialty.<br>
-<strong>Spellcasting.</strong> You can cast known ranger spells using WIS as your spellcasting modifier (Spell DC 12, Spell Attack +4).<br>
-<strong>Ranger Archetype.</strong> At 3rd level, you choose an archetype that you strive to emulate: the Hunter that is detailed at the end of the class description or one from another source. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.<br>
-<strong>Primeval Awareness.</strong> As an action, you can expend one ranger spell slot (1 minute per level of spell slot) to sense whether any aberrations, celestials, dragons, elementals, fey, fiends, or undead are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain). This feature doesn’t reveal the creatures’ location or number.<br>
-<strong>Proficiencies.</strong> Armor: Light armor, medium armor, shields Weapons: Simple weapons, martial weapons Tools: None Saving Throws: Strength, Dexterity Skills: Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival<br>
-<strong>Hit Points.</strong> Hit Dice: 1d10 per ranger level Hit Points at 1st Level: 10 + your Constitution modifier Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per ranger level after 1st<br>
-<strong>Equipment.</strong> You start with the following equipment, in addition to the equipment granted by your background: (a) scale mail or (b) leather armor (a) two shortswords or (b) two simple melee weapons (a) a dungeoneer’s pack or (b) an explorer’s pack A longbow and a quiver of 20 arrows<br>
-<strong>Hero's Journey Boon.</strong> At your GM's discretion you have been granted a Hero's Journey Boon.<br>
-<strong>Dark Bargain.</strong> At your GM's discretion, you have taken a Dark Bargain.</div>
-  </div>
-</div>
-</notextile>
-<!-- OP_DDB_GM_FEATURES_END -->
-
 h2. Player sheet (D&D Beyond)
 
 * *Age:* 87 (medium).
