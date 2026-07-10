@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-07-10T13:48:46Z",
+  "last_git_publish": "2026-07-10T13:59:43Z",
   "last_portal_pull": "2026-07-10T13:31:15Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -607,9 +607,9 @@
       "op_id": "42cee9f0b8134dccab7714a196fd04d5",
       "op_kind": "Character",
       "op_slug": "ayr",
-      "op_updated_at": "2026-07-10T13:31:26Z",
-      "repo_blob_sha": "c0882e12e7dcea61624310178317594bf1fa4d69",
-      "repo_hash_at_sync": "53005d086ca6039fbcbc47c30de55a735855d5578884c811bf3e4a01f32f1d21",
+      "op_updated_at": "2026-07-10T13:59:42Z",
+      "repo_blob_sha": "0225b59b4eae62a1851d33cab6fbea31d0a717ac",
+      "repo_hash_at_sync": "c0ed9b3a225d1c62dbc19e8e0c2d282eef0c7e56d3724fa16a1cbcc56466f7fe",
       "repo_path": "lore/characters/ayr.textile"
     },
     "46e3468d573f4714bd7ff0fb59d65696": {
