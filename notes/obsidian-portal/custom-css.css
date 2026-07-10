@@ -1041,8 +1041,10 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
   font-size: 14px;
   line-height: 1.45;
   color: #211b18;
-  max-width: 920px;
-  margin: 0 auto;
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  box-sizing: border-box;
 }
 
 .ds_sindrel_beyond .ddb-sheet .ddb-header,
@@ -1719,7 +1721,6 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
 .ds_sinbdrel_beyond .ddb-sheet .ddb-school-icon {
   width: 18px;
   height: 18px;
-  object-fit: contain;
   display: block;
 }
 
@@ -1729,6 +1730,20 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
   border-top: 1px solid #d6d0c6;
   font-size: 0.82rem;
   color: #334155;
+}
+
+/* Required dsf_bio placeholder (native bio block below sheet). */
+.ds_sindrel_beyond .ddb-sheet .ddb-sr-only,
+.ds_sinbdrel_beyond .ddb-sheet .ddb-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 
 .ds_sindrel_beyond .ddb-sheet .ddb-footer,
@@ -1749,10 +1764,6 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
   font-style: italic;
 }
 
-.ds_sindrel_beyond .character-content h2:first-child,
-.ds_sinbdrel_beyond .character-content h2:first-child {
-  display: none;
-}
 /* DST field chrome (edit mode + multiline values) */
 .ds_sindrel_beyond .ddb-sheet .dsf,
 .ds_sinbdrel_beyond .ddb-sheet .dsf {
@@ -1792,10 +1803,15 @@ ul.wonch-timeline li.wonch-timeline-hint:hover {
   border-radius: 8px;
 }
 
-.ds_sindrel_beyond.editable .dsf:not(.readonly),
-.ds_sinbdrel_beyond.editable .dsf:not(.readonly) {
+.ds_sindrel_beyond.editable .dsf.dsfu:not(.readonly),
+.ds_sinbdrel_beyond.editable .dsf.dsfu:not(.readonly) {
   background: #ece8df;
   cursor: pointer;
   border-radius: 2px;
   border: 1px solid #6d6862;
+}
+
+/* Native character biography below DST. */
+.character-show .character-bio {
+  margin-top: 1.25rem;
 }
