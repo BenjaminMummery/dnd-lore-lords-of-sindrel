@@ -408,6 +408,20 @@ def pct(n: int, d: int) -> str:
     return f"{100 * n / d:.0f}%" if d else "n/a"
 
 
+def rounded_percents(counts: list[int], total: int) -> list[int]:
+    """Integer percentages summing to 100 (largest remainder / Hamilton method)."""
+    if not total:
+        return [0] * len(counts)
+    exact = [100 * n / total for n in counts]
+    floors = [int(p) for p in exact]
+    remainder = 100 - sum(floors)
+    order = sorted(range(len(counts)), key=lambda i: exact[i] - floors[i], reverse=True)
+    out = floors[:]
+    for k in range(remainder):
+        out[order[k]] += 1
+    return out
+
+
 def session_sort_key(path: Path, fm: dict) -> tuple:
     title = fm.get("title") or fm.get("name") or path.stem
     m = re.search(r"Session\s+(\d+)", title, re.I)
@@ -442,6 +456,7 @@ def race_chart_data(characters: list[dict]) -> dict:
     return {
         "labels": labels,
         "counts": values,
+        "percents": rounded_percents(values, tagged_n),
         "colors": colors,
         "tagged": tagged_n,
         "untagged": untagged,
@@ -465,6 +480,7 @@ def gender_chart_data(characters: list[dict]) -> dict:
     return {
         "labels": GENDER_LABELS,
         "counts": values,
+        "percents": rounded_percents(values, tagged_n),
         "targets": GENDER_TARGETS,
         "tagged": tagged_n,
         "untagged": untagged,
@@ -759,6 +775,7 @@ def markdown_summary(
     counts = gender["counts"]
     tagged = gender["tagged"]
     male, female, nb = counts
+    gender_pcts = gender.get("percents") or rounded_percents(counts, tagged)
     wl = wealth.get("level", "?")
     wn = wealth.get("name", "")
     lines = [
@@ -773,19 +790,21 @@ def markdown_summary(
         sess = f" (Session {session})" if session else ""
         lines.extend([f"## Current date{sess}", "", f"- {campaign['date']}", ""])
     lines.extend([
-        "## NPC gender (tagged persons only)",
+        "## NPC gender (tagged persons only; percents sum to 100% of pie)",
         "",
-        f"- he/him: {male} ({pct(male, tagged)}) - target 45%",
-        f"- she/her: {female} ({pct(female, tagged)}) - target 45%",
-        f"- non-binary: {nb} ({pct(nb, tagged)}) - target 10%",
+        f"- he/him: {male} ({gender_pcts[0]}%) - target 45%",
+        f"- she/her: {female} ({gender_pcts[1]}%) - target 45%",
+        f"- non-binary: {nb} ({gender_pcts[2]}%) - target 10%",
         f"- Untagged: {len(gender['untagged'])}",
         "",
-        "## NPC race (tagged persons only)",
+        "## NPC race (tagged persons only; percents sum to 100% of pie)",
         "",
     ])
     race_tagged = race["tagged"]
-    for label, count in zip(race.get("labels", []), race.get("counts", [])):
-        lines.append(f"- {label}: {count} ({pct(count, race_tagged)})")
+    race_counts = race.get("counts", [])
+    race_pcts = race.get("percents") or rounded_percents(race_counts, race_tagged)
+    for label, count, pct_val in zip(race.get("labels", []), race_counts, race_pcts):
+        lines.append(f"- {label}: {count} ({pct_val}%)")
     lines.extend([
         f"- Untagged: {len(race['untagged'])}",
         "",
@@ -1077,7 +1096,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       <div class="panel-row-demographics">
         <section class="panel panel-gender">
           <h2>NPC gender</h2>
-          <p class="note">__TAGGED__ tagged · __UNTAGGED__ untagged</p>
+          <p class="note">__GENDER_PIE_TOTAL__ in pie · __UNTAGGED__ untagged excluded from pie</p>
           <div class="chart-wrap">
             <canvas id="genderChart"></canvas>
           </div>
@@ -1086,7 +1105,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
         <section class="panel panel-race">
           <h2>NPC race</h2>
-          <p class="note">__RACE_TAGGED__ tagged · __RACE_UNTAGGED__ untagged</p>
+          <p class="note">__RACE_PIE_TOTAL__ in pie · __RACE_UNTAGGED__ untagged excluded from pie</p>
           <div class="chart-wrap">
             <canvas id="raceChart"></canvas>
           </div>
@@ -1106,6 +1125,30 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     const chartText = "#ece8df";
     const chartGrid = "#3a3433";
     const chartMuted = "#9a9288";
+
+    /** Percents of pie slices only — always sums to 100. */
+    function pieSlicePercents(counts) {
+      const total = counts.reduce((a, b) => a + b, 0);
+      if (!total) return counts.map(() => 0);
+      const exact = counts.map((n) => (100 * n) / total);
+      const floors = exact.map((p) => Math.floor(p));
+      let remainder = 100 - floors.reduce((a, b) => a + b, 0);
+      const order = counts
+        .map((_, i) => i)
+        .sort((a, b) => (exact[b] - floors[b]) - (exact[a] - floors[a]));
+      const out = floors.slice();
+      for (let k = 0; k < remainder; k++) out[order[k]] += 1;
+      return out;
+    }
+
+    function pieLegendLabel(name, count, percent) {
+      return name + ": " + percent + "% (" + count + ")";
+    }
+
+    function pieLegendLabels(names, counts) {
+      const percents = pieSlicePercents(counts);
+      return names.map((name, i) => pieLegendLabel(name, counts[i], percents[i]));
+    }
 
     const targetLinesPlugin = {
       id: "targetLines",
@@ -1147,11 +1190,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     new Chart(document.getElementById("genderChart"), {
       type: "pie",
       data: {
-        labels: genderData.labels.map((l, i) => {
-          const n = genderData.counts[i];
-          const p = genderData.tagged ? Math.round(100 * n / genderData.tagged) : 0;
-          return l + " (" + n + ", " + p + "%)";
-        }),
+        labels: pieLegendLabels(genderData.labels, genderData.counts),
         datasets: [{
           data: genderData.counts,
           backgroundColor: ["#ff6b6b", "#6bcb77", "#4d96ff"],
@@ -1169,6 +1208,12 @@ HTML_TEMPLATE = """<!DOCTYPE html>
           },
           tooltip: {
             callbacks: {
+              label(ctx) {
+                const percents = pieSlicePercents(genderData.counts);
+                const name = genderData.labels[ctx.dataIndex];
+                const n = genderData.counts[ctx.dataIndex];
+                return pieLegendLabel(name, n, percents[ctx.dataIndex]);
+              },
               afterLabel(ctx) {
                 const target = genderData.targets[ctx.dataIndex];
                 return "Target: " + Math.round(target * 100) + "%";
@@ -1183,11 +1228,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     new Chart(document.getElementById("raceChart"), {
       type: "pie",
       data: {
-        labels: raceData.labels.map((l, i) => {
-          const n = raceData.counts[i];
-          const p = raceData.tagged ? Math.round(100 * n / raceData.tagged) : 0;
-          return l + " (" + n + ", " + p + "%)";
-        }),
+        labels: pieLegendLabels(raceData.labels, raceData.counts),
         datasets: [{
           data: raceData.counts,
           backgroundColor: raceData.colors,
@@ -1202,6 +1243,16 @@ HTML_TEMPLATE = """<!DOCTYPE html>
           legend: {
             position: "bottom",
             labels: { color: chartText, font: { family: "Georgia, serif", size: 10 } },
+          },
+          tooltip: {
+            callbacks: {
+              label(ctx) {
+                const percents = pieSlicePercents(raceData.counts);
+                const name = raceData.labels[ctx.dataIndex];
+                const n = raceData.counts[ctx.dataIndex];
+                return pieLegendLabel(name, n, percents[ctx.dataIndex]);
+              },
+            },
           },
         },
       },
@@ -1453,10 +1504,10 @@ def render_html(
     as_of = faction.get("as_of") or "As of latest GM notes"
     return (
         HTML_TEMPLATE.replace("__GENERATED__", generated)
-        .replace("__TAGGED__", str(gender["tagged"]))
+        .replace("__GENDER_PIE_TOTAL__", str(sum(gender["counts"])))
         .replace("__UNTAGGED__", str(len(gender["untagged"])))
         .replace("__UNTAGGED_LIST__", untagged_list)
-        .replace("__RACE_TAGGED__", str(race["tagged"]))
+        .replace("__RACE_PIE_TOTAL__", str(sum(race["counts"])))
         .replace("__RACE_UNTAGGED__", str(len(race["untagged"])))
         .replace("__RACE_UNTAGGED_LIST__", race_untagged_list)
         .replace("__FACTION_AS_OF__", html.escape(as_of))

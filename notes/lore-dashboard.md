@@ -1,19 +1,19 @@
 # Lore dashboard
 
-_Auto-generated on 2026-07-14 11:37. Open [lore-dashboard.html](lore-dashboard.html) for charts._
+_Auto-generated on 2026-07-14 23:31. Open [lore-dashboard.html](lore-dashboard.html) for charts._
 
 ## Current date (Session 12)
 
 - 31st Enean 4218 ( SC)
 
-## NPC gender (tagged persons only)
+## NPC gender (tagged persons only; percents sum to 100% of pie)
 
 - he/him: 33 (55%) - target 45%
 - she/her: 17 (28%) - target 45%
 - non-binary: 10 (17%) - target 10%
 - Untagged: 0
 
-## NPC race (tagged persons only)
+## NPC race (tagged persons only; percents sum to 100% of pie)
 
 - Human: 21 (37%)
 - Half-orc: 6 (11%)
@@ -22,9 +22,9 @@ _Auto-generated on 2026-07-14 11:37. Open [lore-dashboard.html](lore-dashboard.h
 - Dwarf: 4 (7%)
 - Halfling: 3 (5%)
 - Gnome: 3 (5%)
-- Drow: 2 (4%)
-- Genasi: 2 (4%)
-- Fey: 2 (4%)
+- Drow: 2 (3%)
+- Genasi: 2 (3%)
+- Fey: 2 (3%)
 - Dragonborn: 1 (2%)
 - Tabaxi: 1 (2%)
 - Lizardfolk: 1 (2%)

@@ -18,17 +18,124 @@ Notes: This page is for future planning and will never be published.
 
 h2. The Summons
 
-The party attend House  Oestra and are shouted at for their troubles.
+When the party finally answer the summons, they get to approach the Leageur from without rather than within.
+
+bq). The Leageur occupies an entire walled district of Sindrel’s ground level like a declaration of intent. While the headquarters of other Great Houses might resemble temples, libraries, palaces or occasionally architectural nervous breakdowns, the Leageur looks unmistakably like a fortress.
+<br>
+At least, it does after a second glance.
+<br>
+The first glance tends to be distracted by the marble.
+<br>
+House Oestra have covered the exterior of the complex in fluted columns, soaring domes and enough crimson pennants to suggest that a very patriotic hurricane has recently passed through. White marble gleams in the sunlight. Bronze doors tower overhead. Heroic statuary adorns every approach. The entire ensemble projects the reassuring message that civilisation was grand, noble and entirely in control of events.
+<br>
+The second glance noticed the murder holes.
+<br>
+The third noticed the iron gates.
+<br>
+By the fourth, you realise that the marble is largely decorative and that nearly every attractive feature concels something designed to repel a siege.
+<br>
+The broad ceremonial avenues narrow abruptly at strategic points. Grand staircases can be sealed by portcullises hidden within ornamental arches. The elegant colonnades stand before walls thick enough to stop artillery, constructed from magically reinforced volcanic concrete and merely pretending to be marble for social reasons.
+<br>
+Beyond the walls lie a series of vast open spaces whose scale seems almost absurd. Parade grounds stretch across acres of stone. Assembly halls large enough to accommodate entire armies stand empty beneath colossal domes. Armouries occupy wings grander than most noble palaces.
+<br>
+And yet there are remarkably few people.
+<br>
+The result is a headquarters that feels less inhabited than prepared. Every courtyard appears ready for a parade. Every hall seems moments away from hosting a senate session. Every wall gives the impression that a war could begin at any moment.
+<br>
+At the very centre of the Leageur stands the Senate Hall of Oestra, crowned by its vast dome and surrounded by enough fortifications to survive the collapse of civilisation several times over.
+
+h3. The Senate Chamber
+
+bq). The Senate chamber of the Leageur is built to make visitors feel small on purpose: White stone, bronze Oestran sunburst, ranks of empty benches climbing into shadow. House guards stand at the walls with the bored competence of men who have never needed to be imaginative. At the far end of an expanse of polished marble floor stands a grand throne of dark iron atop a tiered dais.
+<br>
+[[:commander-locke | Prefect Locke]] waits by the Triumphal door — half-plate, eyepatch, arms folded, visibly wishing to be anywhere else.
+<br>
+[[:silas-oestra | Silas Oestra]] does not wait. He paces the floor before the dais, hand clenched on the hilt of his sword, knuckles white as bone. For all his rank, the heir of House Oestra wears his authority with palpable discomfort. A human who cannot quite have reached thirty: fair-skinned, lean, restless, with dark hair worn longer than strict [[House Oestra | Oestra]] fashion permits and a clean-shaven jaw that still looks a little unfinished. He wears Oestra finery as though armour could supply what birth has not yet granted — blackened breastplate over crimson cloth, bronze at the shoulders, long sword worn openly — every piece correct, nothing quite settled. Chest out, chin high, voice slightly nasal and much too fast, as if volume and procedure might stand in for respect. He speaks before you have fully stopped moving.
+
+h3. Silas
+
+bq). "There you are. At last. Why am I not surprised that you exhibit such reluctance to come when invited after seeming so eager to go poking around when unwelcome? It is customary to kneel, incidentally."
+
+
+bq). "Very well. I am given to understand that you were commissioned by a Hexine Circle to investigate the leak of privileged information, and by extension the series of so called sabotages that have plagued the Great HOuses. Instead you have abused that authority to conduct a campaign of trespass and intimidation against **mine**.
+<br>
+You were caught emerging from regions of this House you had no authority nor permission to enter, and in which your very presence was an act of desecration against the lineage of this house, my lineage. Were that not enough, you proceeded to exploit the poor judgement of one of my prefects in order to muscle your way into essential and secret military infrastructure. And in pursuit of what, precisely? [[House Grimbolg | Grimbolg]] lost a silo. [[House Beltus | Beltus]] lost a caller to his own demon. [[House Lithra | Lithra]] caused an international embarrassment. Nothing that cannot be explained by lax discipline and carelessness. Meanwhile [[House Meness | Meness]] cannot keep our core infrastructure secure. And yet for some reason you appear to be focussed on _us_.
+<br>
+We suffered **no such incidents**. None. Our security held. Our people held. That is not a mystery. That is proof that whatever you are hunting, it is **not here**.
+<br>
+So explain to me — politely, if you can manage it — why my House keeps paying for your indiscretions.
+
+h4. Culmination
+
+bq). "Silence! I will not be lied to in my own hall. Were you members of my house I would have you executed for such insolence. Locke may have bought into your ridiculous tale, and believe me he will be suitably disciplined when may father returns, but I am not so easily misled. Were it up to me you would have no investigatorial mandate whatsoever - Founder's teeth all of this on the back of a few accidents, a failed bombing, and one anathemist saying 'Kosmios', my father would _weep_ to see how far we have fallen."
+<br>
+You see Locke stiffen. An odd expression passes across Silas's face for a second before he continues.
+<br>
+"The [[Hexine Circle | Hexine Circle]] commissioned you to find **spies**, not to invade my House. There is a difference, and I suggest you learn it before my father's patience - and mine - is exhausted.
+<br>
+You will investigate criminals, smugglers, the sort of vermin who nest in  [[The Wallarch District | Wallarch]] dives. That is useful work. Breaking archive seals and bullying armourers is not investigation. It is **harassment**, and I will not have it recorded that House Oestra tolerated it.
+<br>
+Any further transgression of your bounds will be treated as an attack against the city, is that understood?"
 
 h2. Info from the Black Cats
 
-* A new group muscled in on the waste cart business - initially the cats thought this was a new criminal enterprise but they showed no intention to expand beyond one cart.
-* Precise information on their movements is hard to interpret - Scratches set to watch them proved to be unequal to the task - they kept popping up where they shouldn't be (the intention is that the players can put 2 and 2 together and figure out that they were using the interconnected archives to get around; the black cats don't know this).
-* Known individuals (there are notes on these somewhere).
+_Sable honours the bargain at the start of Session 13 — she already has the slashed sigil parchment. Delivery is calm, transactional, and still withholding syndicate truth unless the party Insight-checks or presses hard._
+
+Sable will share Black Cat knowledge, and will allow the party to interview Chuggaz if desired.
+
+h3. What Sable says (player-facing)
+
+* *The cart crew* — A small group with surprising cash and brutality muscled in on the garbage-collection business in [[The Wallarch District | Wallarch]]. They roughed up a small-time drug pusher and took over his cart. The Cats watched them, expecting a rival syndicate; instead they stayed narrow — one cart, no turf expansion, no dues paid.
+* *What they bought* — Gold for information, mostly routes into House properties and servant-layer access. The Cats assumed extortion prep, not terrorism.
+* *After the Fulcrum bombing* — The newcomers vanished. The abandoned cart was left near the break in the [[Quarantine Zone | quarantine wall]]; [[:hielaman | Hielaman]] impounded it. The cats are concerned that if he looks too closely he'll notice the secret compartments used for smuggling, likely prompting him to start investigating the other carts.
+* *The tail mystery* — Scratches set to watch the heavy lifters were reprimanded for being feckless. Their quarry reappeared in Cat territory without crossing watched thoroughfares, or entered the [[Osteomantic Archives | Archive]] and did not emerge — only to be spotted hours or days later elsewhere. Sable presents this as incompetent tails; she does not know about archive interconnect. _(Party can put 2 and 2 together.)_
+* *Who they were* — Three nicknames, partial descriptions:
+** *The Bears* ([[:georges-de-selve | Georges]] & [[:jean-de-dinteville | Jean]]) — Two large men; most of the violence and lifting. Operated as visiting merchants by day. *Not seen in Wallarch since the Fulcrum bombing* — they left the city. The Cats have *not* connected them to the merchant pair who returned on the 25th Enean coach.
+** *The Weasel* ([[:arouraios | Arouraios]]) — Dark hair, little glasses, neat beard. Educated — soft hands, ink stains. Not imposing, but maddeningly good at losing tails in back alleys. Seen once early in the operation, then lost entirely.
+** *The Snake* ([[:barnabus | Barnabus]]) — Grey hair, scarred cheek, aura of a right bastard. Fancy foreign clothes. Observed in conversation with the Bears, who *appeared to defer to him*. Operates out of a grand house on Ambassador Street — [[:regnif-d-log | d'Log]]'s lodgings. Rare sightings in the last month; Cats do not work much in the fancy districts. Sable's read: *coordinator*, not hired muscle.
+* *Who they never saw* — [[:regnif-d-log | d'Log]] himself; [[:nielsenn | Nielsenn]].
+* *Chuggaz*
+** Sable knows what Chugga saw on the bombing night - Two men, one large, one wiry, entered via the servant's door, then left the same way a short time later. Not servants he recognised (and he knows most people), but dressed in servants clothes. At the time he assumed they were part of the Cats operation (he's aware that there were efforts to get more access for latches going on, not his department).
+** Sable claims he was *relocated for his own safety* after hearing colleagues dragged from beds. Bold-faced lie. If pressed: he is a Fulcrum contact who sometimes drinks at the Repose; he knows Wallarch routes; he is *not here* and the party should stop frightening servants. She will not admit he is a **Latch** or name the syndicate.
+* *What she still wants* — The impounded cart off [[:hielaman | Hielaman]]'s desk. Sigil bought the descriptions; cart problem remains. She may offer a kompromat fragment on Meness *superiors* (not Hielaman) if the party keep the Repose out of paperwork.
+
+h3. GM truth (what Vault knows but Sable won't volunteer)
+
+* The Anathemists used the Cats' **garbage-cart pipeline** — trick panels, paid access — same night as the Fulcrum bombing. Hielaman has not examined the cart closely yet; if he does, he may unravel the whole network.
+* **[[:chuggaz | Chuggaz]]** is an embedded **Latch** at the Fulcrum. Rosters and servant-route gossip pass up to Sable's tier. He knows *who paid for extended shifts* on bombing night — bribery and roster fraud — but **not** Anathemist ideology or the wider plot. Vault will lie, transfer, or disappear him before he talks Cat business.
+* Vault correlated the cart crew with sabotage **only after** the bombing; until then they thought rival syndicate.
+* Vault **suspects** Barnabus coordinated; does not know Anathemist cell structure, Sacrum HQ, Kosmios, or d'Log's ignorance.
+
+h3. Party might conclude (reasonable deductions)
+
+* Ceremony night: **servants' routes + waste cart** abused same night as the coachman lead.
+* **Barnabus + Ambassador Street** = next rung; Bears gone, Weasel vanished, Snake is the live target.
+* Archive tail mystery → party can connect **interlinked catacombs** if they ask how Bears "teleported" (Cats cannot answer).
+* Chuggaz is dirty — bribery, roster fraud — even if Sable won't say *Black Cats*.
+
+h3. What Sable will not give without hard leverage
+
+* Chuggaz as Latch; Vault identity; syndicate ideology; full truth about what the carts conceal; anything that burns the Repose relay.
+
+h3. Chuggaz's Tale
+
+Chuggaz was coordinating a few Scratches who were lifting some shiny from the distracted (and inebriated) gentility. His position at the Roster Desk meant that he could fudge paperwork and obfuscate logs to hide their movements. His biggest job was editing the waste manifests to cover a few additional carts - Cats-operated outfits providing a way to smuggle out purloined goods. He will be _very_ evasive. Nans saw him paying off the night clerk - the man should have been his replacement but Chuggaz suggested he have a night off.
+
+* He wasn't aware of any bombing plot.
+* He did see two men, one large, one wiry, enter via the servant's door, then leave the same way a short time later. Not servants he recognised (and he knows most people), but dressed in servants clothes. At the time he assumed they were part of the Cats operation (he's aware that there were efforts to get more access for latches going on, not his department).
+* When the bomb went off, he fled the tunnels immediately.
+
+**Default contact:** [[:sable-silvestre | Sable Silvestre]] — **Tally** relay for **Vault**; uses *disguise self* / *sleep* if cornered; will not admit Vault structure without kompromat bargain. See [[The Black Cats | the-black-cats]] stat blocks.
+
+**Cats' posture (Session 12):** Wonch worry Vault more than Hielaman. Prefer misdirection, stall, harmless gossip — not open war unless cornered. May offer kompromat on Meness **superiors** (not Hielaman) in exchange for cart / impound problem handled.
+
 
 Potential routes from here:
 
-1. 
+# Lithra gate records — cross-reference wealthy arrivals given a more complete description from the Black Cats (d'Log, merchant pair 25th Enean).
+# Follow the Snake - stakeout / polite call at [[:regnif-d-log | d'Log]]'s townhouse on Ambassador Street.
+# Meness impound - gain access to the cart. Physical evidence of bomb components, plus the Black Cats smuggling system. Option of doing as the Cats requested for additional leverage, or sharing info with [[:hielaman | Hielaman]].
+# [[:gillette-quill | Gillette]] / [[:raymond-quill | Ray]] — may seek the party at [[Radwasp House | Radwasp House]] after Silrie's intervention.
 
 h2. Consequences of Handing the Sigil to The Black Cats
 
