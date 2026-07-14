@@ -1,9 +1,13 @@
 ---
+op_id: 8998caedb29d44e3a4a987449c31e7ea
 op_slug: swyfgrin
 op_kind: Character
 op_type: Character
 name: Swyfgrin
 title: Swyfgrin
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/swyfgrin
+op_created_at: '2026-07-14T10:40:04Z'
+op_updated_at: '2026-07-14T10:40:04Z'
 op_gm_only: true
 is_player_character: false
 tags:

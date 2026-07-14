@@ -1,5 +1,5 @@
 ---
-op_id: acb373164a99443380d7b4a6abc73fd
+op_id: acb373164a99443380d7b4a6aabc73fd
 op_slug: queen-aubryn
 op_kind: Character
 op_type: Character
@@ -7,12 +7,12 @@ name: Queen Aubryn
 title: Queen Aubryn
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/queen-aubryn
 op_created_at: '2026-01-15T13:38:03Z'
-op_updated_at: '2026-01-15T13:38:03Z'
+op_updated_at: '2026-07-14T10:39:48Z'
 op_gm_only: true
 is_player_character: false
 tags:
-- she/they
 - character backstory
+- she/they
 - Fey
 ---
 
