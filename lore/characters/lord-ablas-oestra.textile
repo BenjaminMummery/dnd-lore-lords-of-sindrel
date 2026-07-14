@@ -14,6 +14,7 @@ tags:
 - House Oestra
 - Lord of Sindrel
 - he/him
+- Human
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7440785/bdbdb62fda17e7b45427df2f2b00c397.jpg
 ---
 

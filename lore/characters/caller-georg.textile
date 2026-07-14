@@ -15,6 +15,7 @@ tags:
 - Factor
 - Deceased
 - he/him
+- Elf
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481299/2673663_blazingpumpkinart_demon-summoning.jpg
 ---
 
@@ -29,5 +30,8 @@ Johann Georg is a [[Factor | Factor]] of [[House Beltus | House Beltus]].
 ** Under its influence, ran amok through the Institute's portrait-lined halls, defacing portraits and precious items before his heart gave out.
 ** The page of his newly purchased grimoire showing the summoning circle for a succubus was found vandalised.
 
-<hr>
-fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]] — Hexine Circle briefing on the sabotage campaign.
+<div class="op-footnotes">
+
+fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
+
+</div>

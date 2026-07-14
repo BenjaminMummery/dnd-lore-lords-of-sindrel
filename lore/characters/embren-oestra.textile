@@ -12,6 +12,7 @@ op_gm_only: false
 is_player_character: false
 tags:
 - he/him
+- Human
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7441221/embren.jpg
 ---
 
@@ -23,10 +24,13 @@ You see a tall, gaunt figure of indeterminate ancestry beneath a wide-brimmed ha
 ** Encountered in [[Fallowhurst | Fallowhurst]] village in plague-doctor garb; examined [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s arrow wounds and directed the party toward the estate, then entered the manor without further conversation.[1]
 ** Pursued the party into the [[Fallowhurst College | Fallowhurst College]] museum and attacked through a barricade wielding his [[Anasthetic Scalpel | enchanted scalpel]]; [[:wilrin-racenglade | Wilrin Ravenglade]] seized the blade during the fight.[2]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
 
 fn2. [[Session 3: "Graduation" | Session 3: "Graduation"]]
+
+</div>
 
 <!-- GM_INFO_START -->
 

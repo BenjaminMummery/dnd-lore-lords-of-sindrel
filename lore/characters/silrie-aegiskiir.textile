@@ -417,4 +417,11 @@ h2. Player sheet (D&D Beyond)
 * *Age:* 87 (medium).
 * *Eyes (beneath mask):* Black cornea with bright silver iris.
 * *Personality / ideals / bonds / flaws:* _Not entered on sheet yet — add when player provides._
+
+h2. Role playing notes
+
+1) Motivated to Sindrel to search for a way to leave this realm and return back to their journey of the gods path
+
+2) Has few regrets, as both culture and monk training teaches to follow ones destiny. If there was to be a regret, it would be not having a chance to say goodbye to their loved ones before taking leave - and wondering if they'd be able to return home to say hello again
+
 <!-- GM_INFO_END -->

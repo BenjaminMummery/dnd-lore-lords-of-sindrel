@@ -46,10 +46,13 @@ Once donned, the buckler cannot be removed by ordinary means.[1] [[:ayr | Ayr]] 
 <p><strong>Cry for vengeance.</strong> While you wear this shield, you are drawn toward vengeance for the unjustly slain. When you learn of a concrete wrong that fits that charge, you must succeed on a DC 14 Wisdom saving throw or feel compelled to pursue vengeance if a reasonable path exists. You have advantage on checks made to uncover the perpetrators of such wrongs. Every so often you feel the rage of vengeance surge up — but you can quickly shake it off. Right?</p>
 </div>
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 8: The Dark Shrine | Session 8: The Dark Shrine]]
 
 fn2. [[Session 9: Downtime 2 | Session 9: Downtime 2]] — removal attempt and dream.
+
+</div>
 
 <!-- GM_INFO_START -->
 h2. Alternate names (unsettled)

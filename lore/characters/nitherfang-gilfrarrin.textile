@@ -13,6 +13,7 @@ is_player_character: false
 tags:
 - character backstory
 - he/him
+- Drow
 ---
 
 <!-- OP_DESCRIPTION -->

@@ -14,6 +14,7 @@ tags:
 - she/her
 - House Lithra
 - Adjutant
+- Halfling
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -27,8 +28,11 @@ You see a tired young halfling woman with warm brown skin and a slight build, he
 * *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
 ** Woken by [[The Adventurers | the Wonch]]; given good tea by [[:amanira | Amanira]] and interviewed over breakfast. Shared her memory of the coachman.
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
+
+</div>
 
 <!-- GM_INFO_START -->
 h2. Role

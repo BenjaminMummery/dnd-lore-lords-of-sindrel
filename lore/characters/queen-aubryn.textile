@@ -1,5 +1,5 @@
 ---
-op_id: acb373164a99443380d7b4a6aabc73fd
+op_id: acb373164a99443380d7b4a6abc73fd
 op_slug: queen-aubryn
 op_kind: Character
 op_type: Character
@@ -13,9 +13,36 @@ is_player_character: false
 tags:
 - she/they
 - character backstory
+- Fey
 ---
 
 <!-- OP_DESCRIPTION -->
 
 
 <!-- OP_BIO -->
+[[The Fey | Fey]] monarch of the [[Midsummer Enclave | Midsummer Enclave]], ruling alongside [[:king-titan | King Titan]].
+
+When the death of magic made [[Arcan | Arcan]] hostile to fey life, Aubryn and Titan wove the **Midsummer Enclave** — a sealed bubble of eternal midsummer where wonder and sorcery could persist.
+
+h3. The changeling theft
+
+Aubryn's court practices the old **changeling bargain**: take a mortal child of promise, leave a **fey shapeshifter** in its place. When Wilrin Ravenglade was three, living on a simple farm in [[Oakhaven | Oakhaven]] with halfling parents [[:bramble-ravenglade | Bramble]] and [[:willow-ravenglade | Willow]], fairies of their court entered on a night of unnatural sky-glow. They lifted the true infant through the open window and carried him along a hidden path into the Enclave.
+
+In the crib they left a **changeling decoy** — a shapeshifter wearing Wilrin's face — the court's substitute so the theft would not unravel at once.
+
+h3. Raising Wilrin
+
+Wilrin was raised in the Enclave's too-bright colours and confusing sounds — given food and shelter beneath vast mushrooms by fey who **did not care about him**. He had no real parents there and taught himself to endure. Constant exposure to fey magic reshaped him; wild sorcery surfaced at eleven and never behaved. He learned charisma as survival, pleasing capricious creatures on daily walks while practising magic in private with alarming results (flame that blasted too wide, sudden shrinking, and worse).
+
+At twenty he tired of chaos without purpose and wanted the world he was born to. He slipped out via a waterfall threshold between worlds and made for the mortal north, arcane instinct drawing him toward [[Sindrel | Sindrel]].
+
+Whether Aubryn counts his departure as theft answered or a prince dismissed is mood-dependent. **Time fuckery** in the Enclave means Wilrin, his foster monarchs, and his birth parents may meet again at incompatible ages.
+
+<!-- GM_INFO_START -->
+h2. Links
+
+* Consort: [[:king-titan | King Titan]].
+* Foster child: [[:wilrin-racenglade | Wilrin Ravenglade]].
+* Realm: [[Midsummer Enclave | Midsummer Enclave]].
+* Source: `wilrin-racenglade.textile` OP_BIO (*Chapter 1–4*); court history on `midsummer-enclave.textile`.
+<!-- GM_INFO_END -->

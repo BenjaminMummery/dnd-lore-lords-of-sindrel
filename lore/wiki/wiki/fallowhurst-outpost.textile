@@ -15,5 +15,8 @@ tags:
 
 A guardpost intended to prevent travellers from [[Sindrel | Sindrel]] accidentally entering [[Fallowhurst | Fallowhurst]]. Construction and iconography indicate that it was originally built and garrisoned by [[House Oestra | House Oestra]] and designed for eight people, however when [[The Adventurers | The Adventurers]] arrived it was crewed only by [[:sebastian-warwick | Private Sebastian Warwick]] of [[House Meness | House Meness]] and [[:myrath | Agent Myrath]] of [[House Lithra | House Lithra]].[1]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 3: "Graduation" | Session 3: "Graduation"]]
+
+</div>

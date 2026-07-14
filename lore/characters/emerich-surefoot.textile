@@ -13,6 +13,7 @@ is_player_character: false
 tags:
 - Black Cats
 - he/him
+- Half-elf
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7492296/emerich.jpg
 ---
 
@@ -27,10 +28,13 @@ Low-level enforcer for [[The Black Cats | The Black Cats]].
 * *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[2]
 ** Caught running near the [[Osteomantic Archives | Osteomantic Archives]] at noon; after pathetic dissembling, revealed his Black Cats affiliation and that his contact uses the back room of [[The Cutthroat's Repose | The Cutthroat's Repose]] (password: "Swordfish"). [[The Adventurers | The Wonch]] let him go.
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 4: Sindrel! | Session 4: Sindrel!]]
 
 fn2. [[Session 6: Wallarch | Session 6: Wallarch]]
+
+</div>
 
 <!-- GM_INFO_START -->
 h2. Prep

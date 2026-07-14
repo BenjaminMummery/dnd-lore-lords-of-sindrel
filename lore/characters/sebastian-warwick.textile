@@ -14,6 +14,7 @@ tags:
 - House Meness
 - Adjutant
 - he/they
+- Human
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469931/ba348eb47975d34b43f5ca2a6c77415c.jpg
 ---
 
@@ -29,7 +30,10 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469931/ba348eb47975d34b
 ** Warwick records [[The Adventurers | the adventurers]]'s account of their journey in a [[Private Warwick's Report | report]] for his superiors.
 ** [[The Adventurers | The Adventurers]] depart for [[Sindrel | Sindrel]].
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
 
 fn2. [[Session 4: Sindrel! | Session 4: Sindrel!]]
+
+</div>

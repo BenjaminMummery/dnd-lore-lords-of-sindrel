@@ -12,6 +12,7 @@ op_gm_only: false
 is_player_character: false
 tags:
 - he/him
+- Human
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7433932/127682.jpg
 ---
 
@@ -32,14 +33,17 @@ Pthul is utterly devoted to his charge, [[:dulcinia-von-phthasia | Dulcinia von 
 ** Traveled with the party from the [[Fallowhurst Outpost | Fallowhurst Outpost]] to [[Sindrel | Sindrel]].[3]
 ** Parted company with the Adventurers after their arrival in the city (afternoon); made for [[The Pointed Hat | The Pointed Hat]].[4]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 1: The White Dragon | Session 1: The White Dragon]]
 
-fn2. [[Session 2: Fallowhurst | Session 2: Fallowhurst]] — coach over the cliff; college escape in Session 3.
+fn2. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
 
 fn3. [[Session 3: "Graduation" | Session 3: "Graduation"]]
 
 fn4. [[Session 4: Sindrel! | Session 4: Sindrel!]]
+
+</div>
 
 <!-- GM_INFO_START -->
 <div class="stat-block">

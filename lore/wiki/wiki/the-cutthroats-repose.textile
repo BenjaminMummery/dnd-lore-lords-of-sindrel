@@ -41,12 +41,15 @@ h2. Notable Denizens
 * [[:garric-brunt | Garric]], a half-ork door guard.
 * [[:sable-silvestre | Sable]], a [[The Black Cats | Black Cats]] representative operating out of the back room.
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 4: Sindrel! | Session 4: Sindrel!]]
 
 fn2. [[Session 6: Wallarch | Session 6: Wallarch]]
 
 fn3. [[Session 12: No Questions, Some Answers | Session 12: No Questions, Some Answers]]
+
+</div>
 
 <!-- GM_INFO_START -->
 h2. Overview

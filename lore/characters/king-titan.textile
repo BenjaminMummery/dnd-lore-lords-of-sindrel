@@ -13,9 +13,34 @@ is_player_character: false
 tags:
 - he/they
 - character backstory
+- Fey
 ---
 
 <!-- OP_DESCRIPTION -->
 
 
 <!-- OP_BIO -->
+[[The Fey | Fey]] monarch of the [[Midsummer Enclave | Midsummer Enclave]], ruling alongside [[:queen-aubryn | Queen Aubryn]].
+
+As magic faded across [[Arcan | Arcan]], many fey courts fled to other planes. Titan and Aubryn instead sealed a **pocket dimension** — an endlessly looping perfect midsummer day where magic would not die — and made it their court.
+
+h3. The changeling theft
+
+On a night when the sky over [[Oakhaven | Oakhaven]] glowed with strange bright light, their court took the three-year-old halfling **Wilrin Ravenglade** from his crib — window open, child gone, [[:bramble-ravenglade | Bramble]] and [[:willow-ravenglade | Willow]] searching the farm in vain. This was not a simple kidnapping. Per Aubryn's custom, the infant was **replaced in the crib by a fey shapeshifter**: a changeling decoy wearing the child's face, left to satisfy faerie law and buy the court time while the true Wilrin was carried across a hidden magical path into the Enclave. Wilrin was too young to remember [[Oakhaven | Oakhaven]]; what Bramble found that night is the empty crib in [[:wilrin-racenglade | Wilrin]]'s telling — the decoy may not have held once the real child was secured.
+
+h3. Raising Wilrin
+
+Wilrin grew up under huge strange mushrooms in the Enclave — fed and sheltered by fey creatures who were **indifferent** rather than parental. No teachers; he learned to survive alone. Surrounded by magic, wild sorcery woke in him around age eleven (uncontrolled telekinesis, then worse). By twenty he had learned to charm unpredictable fey on long walks, but his power remained dangerous and erratic.
+
+He left at twenty through a hidden threshold where the worlds meet, near a noisy waterfall — basic clothes, a dagger, dried food, no coin — and stepped back into the mortal smell of dirt and woodsmoke. Arcane blood pulled him north toward [[Sindrel | Sindrel]]; nearly a month on the road followed before the campaign opening.
+
+The Enclave's **time distortion** means Wilrin's years inside need not line up with the mortal world. [[:bramble-ravenglade | Bramble]] and [[:willow-ravenglade | Willow]] may still be young and farming when he returns.
+
+<!-- GM_INFO_START -->
+h2. Links
+
+* Consort: [[:queen-aubryn | Queen Aubryn]].
+* Foster child: [[:wilrin-racenglade | Wilrin Ravenglade]].
+* Realm: [[Midsummer Enclave | Midsummer Enclave]].
+* Source: `wilrin-racenglade.textile` OP_BIO (*Chapter 1–4*); court history on `midsummer-enclave.textile`.
+<!-- GM_INFO_END -->

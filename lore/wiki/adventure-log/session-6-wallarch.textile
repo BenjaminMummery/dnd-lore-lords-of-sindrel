@@ -71,5 +71,8 @@ In the side chamber, [[:nakoma-deathwalker-mor-got-ha | DW]] and [[:amanira | Am
 At the conclusion of the funeral, the [[:seelie-ophelan | two]] [[:temperance-halke | attendants]] gathered up the mortal remains of [[:micycle-smynth | Micycle]], and proceeded towards the room where [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and [[:amanira | Amanira]] were exploring.
 
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 4: Sindrel! | Session 4: Sindrel!]]
+
+</div>

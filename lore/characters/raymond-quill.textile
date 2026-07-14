@@ -12,6 +12,7 @@ op_gm_only: false
 is_player_character: false
 tags:
 - he/him
+- Human
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7433944/516db71a9a089cbb40109ce80dfa0971.jpg
 ---
 
@@ -33,7 +34,8 @@ Large, burly, and a complete bastard
 * *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** According to [[:gillette-quill | Gillette]], the brothers' attempted meditation-retreat business failed to attract investors, leaving them doing odd jobs for [[The Black Cats | the Black Cats]] while still talking hopefully about inner peace.[5]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 1: The White Dragon | Session 1: The White Dragon]]
 
 fn2. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
@@ -43,6 +45,8 @@ fn3. [[Session 3: "Graduation" | Session 3: "Graduation"]]
 fn4. [[Session 4: Sindrel! | Session 4: Sindrel!]]
 
 fn5. [[Session 12: No Questions, Some Answers | Session 12: No Questions, Some Answers]]
+
+</div>
 
 <!-- GM_INFO_START -->
 The strong brother — large, burly, and brutal. Fights beside [[:gillette-quill | Gillette]].

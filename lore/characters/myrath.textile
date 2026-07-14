@@ -14,6 +14,7 @@ tags:
 - House Lithra
 - Adjutant
 - she/her
+- Elf
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481279/5f82b9bcb958e80952652b16343300b6.jpg
 ---
 
@@ -29,7 +30,10 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481279/5f82b9bcb958e809
 * *26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** Saw the party depart toward [[Sindrel | Sindrel]] after breakfast (morning).[2]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
 
 fn2. [[Session 3: "Graduation" | Session 3: "Graduation"]]
+
+</div>

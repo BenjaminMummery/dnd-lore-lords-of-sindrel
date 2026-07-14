@@ -18,8 +18,11 @@ A silver band issued to visitors entering [[Sindrel | Sindrel]] without Great Ho
 
 [[The Adventurers | The Wonch]] received silver bracelets on arrival (26 Enean 4218 SC) with **36 days** to find a patron or leave.[1]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 4: Sindrel! | Session 4: Sindrel!]]
+
+</div>
 
 <!-- GM_INFO_START -->
 Binding at the inner gate — spoken name, putting on the band, brief contact with an attuned gold bracelet or [[Factor | Factor]] tattoo — completes a ritual visitors rarely recognise as magic.

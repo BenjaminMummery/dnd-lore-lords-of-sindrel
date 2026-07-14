@@ -12,6 +12,7 @@ op_gm_only: true
 is_player_character: false
 tags:
 - he/him
+- Human
 ---
 
 <!-- OP_DESCRIPTION -->

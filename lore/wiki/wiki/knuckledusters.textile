@@ -34,5 +34,8 @@ With a small gesture, the rings separate, allowing the hands to be used freely. 
 <p>While wearing these knuckledusters, you have a +1 bonus to attack and damage rolls made with unarmed strikes and with this weapon.</p>
 </div>
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 9: Downtime 2 | Session 9: Downtime 2]]
+
+</div>

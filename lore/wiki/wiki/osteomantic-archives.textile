@@ -125,12 +125,15 @@ Only after a moment does the full extent of the decoration become apparent. The 
 <br>
 Each alcove bears a small plaque naming the deceased. The remainder of each skeleton is carefully arranged around the skull in a compact display.
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 7: Into The Catacombs | Session 7: Into The Catacombs]]
 
 fn2. [[Session 8: The Dark Shrine | Session 8: The Dark Shrine]]
 
 fn3. [[Session 4: Sindrel! | Session 4: Sindrel!]]
+
+</div>
 
 <!-- GM_INFO_START -->
 This system was set up by [[The Eighth House | Samhain]], but she didn't see fit to share the knowledge with her compatriots. The labyrinthine nature of the catacombs has successfully obscured this fact from all but the highest level curators.

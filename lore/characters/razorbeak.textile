@@ -24,9 +24,12 @@ Just a regular chicken. Definitely nothing suspicious about it.
 * *30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[3]
 ** [[:cedric | Cedric]] built a like-for-like miniature of the townhouse for the chicken to inhabit (evening).
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 6: Wallarch | Session 6: Wallarch]]
 
 fn2. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
 
 fn3. [[Session 9: Downtime 2 | Session 9: Downtime 2]]
+
+</div>

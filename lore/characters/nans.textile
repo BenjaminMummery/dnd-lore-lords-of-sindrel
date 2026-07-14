@@ -27,10 +27,13 @@ Nans is a lean elf woman with medium-brown skin and a neat, economical build, he
 ** On duty at [[The Fulcrum | The Fulcrum]] when [[The Adventurers | the Wonch]] questioned staff about the bombing; one of three staff named as worth interviewing after the extended ceremony-night shifts.[1]
 ** Interviewed by the Wonch at shifts-end; relayed Chuggaz's behavior on the bombing night.[2]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
 
 fn2. [[Session 12: No Questions, Some Answers | Session 12: No Questions, Some Answers]]
+
+</div>
 
 <!-- GM_INFO_START -->
 Beltus

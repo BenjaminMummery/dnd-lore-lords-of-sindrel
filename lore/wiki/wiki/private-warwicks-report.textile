@@ -29,7 +29,10 @@ The following details were omitted from their discussion with Warwick, so are li
 
 **Current holder:** [[:hielaman | Captain Hielaman]] (received unopened from [[The Adventurers | the Wonch]], 26 Enean 4218 SC).
 
-<hr>
-fn1. [[Session 3: "Graduation" | Session 3: "Graduation"]] — inferred contents from conversation at the outpost.
+<div class="op-footnotes">
+
+fn1. [[Session 3: "Graduation" | Session 3: "Graduation"]]
+
+</div>
 
 fn2. [[Session 4: Sindrel! | Session 4: Sindrel!]] — delivered unopened to Hielaman.

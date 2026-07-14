@@ -31,6 +31,81 @@ FEMALE_TAGS = {"she/her"}
 NB_TAGS = {"they/them", "he/they", "she/they", "any/all"}
 GENDER_LABELS = ["he/him", "she/her", "non-binary"]
 GENDER_TARGETS = [0.45, 0.45, 0.10]
+RACE_TAGS = {
+    "Aarakocra",
+    "Aasimar",
+    "Autognome",
+    "Beast",
+    "Bugbear",
+    "Centaur",
+    "Changeling",
+    "Dhampir",
+    "Dragon",
+    "Dragonborn",
+    "Drow",
+    "Duergar",
+    "Dwarf",
+    "Elf",
+    "Eladrin",
+    "Fairy",
+    "Fey",
+    "Firbolg",
+    "Genasi",
+    "Giff",
+    "Githyanki",
+    "Githzerai",
+    "Gnome",
+    "Goblin",
+    "Goliath",
+    "Grung",
+    "Harengon",
+    "Half-elf",
+    "Half-orc",
+    "Halfling",
+    "Hexblood",
+    "Hobgoblin",
+    "Human",
+    "Kalashtar",
+    "Kenku",
+    "Kobold",
+    "Leonin",
+    "Lizardfolk",
+    "Loxodon",
+    "Minotaur",
+    "Orc",
+    "Owlin",
+    "Plasmoid",
+    "Reborn",
+    "Satyr",
+    "Shifter",
+    "Simic Hybrid",
+    "Tabaxi",
+    "Thri-kreen",
+    "Tiefling",
+    "Tortle",
+    "Triton",
+    "Vedalken",
+    "Verdan",
+    "Warforged",
+    "Yuan-ti",
+}
+RACE_COLORS = {
+    "Human": "#ff6b6b",
+    "Elf": "#6bcb77",
+    "Dwarf": "#c0a060",
+    "Halfling": "#ffd93d",
+    "Gnome": "#4d96ff",
+    "Half-elf": "#9d6bcd",
+    "Half-orc": "#7ec8e3",
+    "Tiefling": "#b48cff",
+    "Dragonborn": "#e8651a",
+    "Genasi": "#f4a261",
+    "Kenku": "#64748b",
+    "Lizardfolk": "#3d9b5a",
+    "Drow": "#383838",
+    "Tabaxi": "#c9a86c",
+    "Fey": "#e85d9a",
+}
 CREATURE_SLUGS = {
     "zalatan",
     "razorbeak",
@@ -39,6 +114,8 @@ CREATURE_SLUGS = {
     "pads-silently",
     "arise-to-victory-over-the-infidel-hoards",
     "nans",
+    "tama",
+    "kithrak-ii",
 }
 
 PC_MENTION_GROUPS = [
@@ -292,6 +369,11 @@ def parse_frontmatter(text: str) -> dict:
     return fm
 
 
+def race_bucket(tags: list[str]) -> str | None:
+    found = [t for t in tags if t in RACE_TAGS]
+    return found[0] if found else None
+
+
 def pronoun_bucket(tags: list[str]) -> str | None:
     found = [t for t in tags if t in PRONOUN_TAGS]
     if not found:
@@ -315,6 +397,7 @@ def load_characters() -> list[dict]:
                 "is_pc": fm.get("is_player_character") == "true",
                 "tags": fm.get("tags") or [],
                 "pronoun": pronoun_bucket(fm.get("tags") or []),
+                "race": race_bucket(fm.get("tags") or []),
                 "creature": path.stem in CREATURE_SLUGS,
             }
         )
@@ -338,6 +421,31 @@ def short_name(name: str) -> str:
     if " " in name:
         return name.split()[0]
     return name[:14]
+
+
+def race_chart_data(characters: list[dict]) -> dict:
+    npcs = [
+        c
+        for c in characters
+        if not c["is_pc"] and not c["creature"] and c["race"]
+    ]
+    counts = Counter(c["race"] for c in npcs)
+    labels = [race for race, _ in counts.most_common()]
+    values = [counts[label] for label in labels]
+    colors = [RACE_COLORS.get(label, "#9a9288") for label in labels]
+    tagged_n = sum(values)
+    untagged = [
+        c["slug"]
+        for c in characters
+        if not c["is_pc"] and not c["creature"] and not c["race"]
+    ]
+    return {
+        "labels": labels,
+        "counts": values,
+        "colors": colors,
+        "tagged": tagged_n,
+        "untagged": untagged,
+    }
 
 
 def gender_chart_data(characters: list[dict]) -> dict:
@@ -639,6 +747,7 @@ def faction_mentions_chart_data() -> dict:
 
 def markdown_summary(
     gender: dict,
+    race: dict,
     mentions: dict,
     faction: dict,
     wealth: dict,
@@ -670,6 +779,15 @@ def markdown_summary(
         f"- she/her: {female} ({pct(female, tagged)}) - target 45%",
         f"- non-binary: {nb} ({pct(nb, tagged)}) - target 10%",
         f"- Untagged: {len(gender['untagged'])}",
+        "",
+        "## NPC race (tagged persons only)",
+        "",
+    ])
+    race_tagged = race["tagged"]
+    for label, count in zip(race.get("labels", []), race.get("counts", [])):
+        lines.append(f"- {label}: {count} ({pct(count, race_tagged)})")
+    lines.extend([
+        f"- Untagged: {len(race['untagged'])}",
         "",
         "## Party wealth",
         "",
@@ -775,7 +893,17 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     }
     .col-right { flex: 1; }
     .col-right .panel { flex: 1; min-height: 200px; }
-    .col-right .panel-gender { flex: 0 1 auto; min-height: 0; }
+    .panel-row-demographics {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      flex: 0 1 auto;
+    }
+    @media (max-width: 1100px) {
+      .panel-row-demographics { grid-template-columns: 1fr; }
+    }
+    .panel-row-demographics .panel { flex: 1; min-height: 0; }
+    .col-right .panel-gender, .col-right .panel-race { flex: 0 1 auto; min-height: 0; }
     .col-right .chart-wrap { flex: 1; min-height: 290px; }
     .panel {
       background: var(--panel);
@@ -813,10 +941,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       flex: 1;
       min-height: 0;
     }
-    #genderChart { max-width: 100%; margin: 0 auto; }
+    #genderChart, #raceChart { max-width: 100%; margin: 0 auto; }
     #mentionsChart, #factionMentionsChart { height: 100%; min-height: 290px; }
     #factionChart { height: 100%; min-height: 140px; }
-    .panel-gender .chart-wrap { flex: 1; min-height: 180px; max-height: 220px; }
+    .panel-gender .chart-wrap, .panel-race .chart-wrap { flex: 1; min-height: 180px; max-height: 220px; }
     .panel-clocks .chart-wrap { flex: none; }
     .panel-clocks, .wealth-panel { flex: 0 1 auto; }
     .legend-target {
@@ -946,19 +1074,31 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         </div>
       </section>
 
-      <section class="panel panel-gender">
-        <h2>NPC gender</h2>
-        <p class="note">__TAGGED__ tagged · __UNTAGGED__ untagged</p>
-        <div class="chart-wrap">
-          <canvas id="genderChart"></canvas>
-        </div>
-        __UNTAGGED_LIST__
-      </section>
+      <div class="panel-row-demographics">
+        <section class="panel panel-gender">
+          <h2>NPC gender</h2>
+          <p class="note">__TAGGED__ tagged · __UNTAGGED__ untagged</p>
+          <div class="chart-wrap">
+            <canvas id="genderChart"></canvas>
+          </div>
+          __UNTAGGED_LIST__
+        </section>
+
+        <section class="panel panel-race">
+          <h2>NPC race</h2>
+          <p class="note">__RACE_TAGGED__ tagged · __RACE_UNTAGGED__ untagged</p>
+          <div class="chart-wrap">
+            <canvas id="raceChart"></canvas>
+          </div>
+          __RACE_UNTAGGED_LIST__
+        </section>
+      </div>
     </div>
   </div>
 
   <script>
     const genderData = __GENDER_JSON__;
+    const raceData = __RACE_JSON__;
     const mentionsData = __MENTIONS_JSON__;
     const factionMentionsData = __FACTION_MENTIONS_JSON__;
     const factionData = __FACTION_JSON__;
@@ -1038,6 +1178,33 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         },
       },
       plugins: [targetLinesPlugin],
+    });
+
+    new Chart(document.getElementById("raceChart"), {
+      type: "pie",
+      data: {
+        labels: raceData.labels.map((l, i) => {
+          const n = raceData.counts[i];
+          const p = raceData.tagged ? Math.round(100 * n / raceData.tagged) : 0;
+          return l + " (" + n + ", " + p + "%)";
+        }),
+        datasets: [{
+          data: raceData.counts,
+          backgroundColor: raceData.colors,
+          borderColor: "#1e1a18",
+          borderWidth: 2,
+        }],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: {
+            position: "bottom",
+            labels: { color: chartText, font: { family: "Georgia, serif", size: 10 } },
+          },
+        },
+      },
     });
 
     function proportionStackChart(canvasId, data, yTitle) {
@@ -1257,6 +1424,7 @@ def faction_chart_height(count: int) -> int:
 
 def render_html(
     gender: dict,
+    race: dict,
     mentions: dict,
     faction_mentions: dict,
     faction: dict,
@@ -1274,12 +1442,23 @@ def render_html(
             f'<ul class="untagged">{items}</ul>'
         )
 
+    race_untagged_list = ""
+    if race["untagged"]:
+        items = "".join(f"<li>{slug}</li>" for slug in race["untagged"])
+        race_untagged_list = (
+            f'<p class="note"><strong>Untagged NPCs:</strong></p>'
+            f'<ul class="untagged">{items}</ul>'
+        )
+
     as_of = faction.get("as_of") or "As of latest GM notes"
     return (
         HTML_TEMPLATE.replace("__GENERATED__", generated)
         .replace("__TAGGED__", str(gender["tagged"]))
         .replace("__UNTAGGED__", str(len(gender["untagged"])))
         .replace("__UNTAGGED_LIST__", untagged_list)
+        .replace("__RACE_TAGGED__", str(race["tagged"]))
+        .replace("__RACE_UNTAGGED__", str(len(race["untagged"])))
+        .replace("__RACE_UNTAGGED_LIST__", race_untagged_list)
         .replace("__FACTION_AS_OF__", html.escape(as_of))
         .replace(
             "__FACTION_CHART_HEIGHT__",
@@ -1290,6 +1469,7 @@ def render_html(
         .replace("__WEALTH_BLOCK__", wealth_block(wealth))
         .replace("__GREETING_BLOCK__", greeting_block(greeting))
         .replace("__GENDER_JSON__", json.dumps(gender))
+        .replace("__RACE_JSON__", json.dumps(race))
         .replace("__MENTIONS_JSON__", json.dumps(mentions))
         .replace("__FACTION_MENTIONS_JSON__", json.dumps(faction_mentions))
         .replace("__FACTION_JSON__", json.dumps(faction))
@@ -1300,6 +1480,7 @@ def main() -> None:
     characters = load_characters()
     generated = datetime.now().strftime("%Y-%m-%d %H:%M")
     gender = gender_chart_data(characters)
+    race = race_chart_data(characters)
     mentions = pc_mentions_chart_data(characters)
     faction_mentions = faction_mentions_chart_data()
     adventurers = parse_adventurers()
@@ -1312,13 +1493,14 @@ def main() -> None:
     OUT_MD.parent.mkdir(parents=True, exist_ok=True)
     OUT_MD.write_text(
         markdown_summary(
-            gender, mentions, faction, wealth, stay, campaign, journeymans_answer, generated
+            gender, race, mentions, faction, wealth, stay, campaign, journeymans_answer, generated
         ),
         encoding="utf-8",
     )
     OUT_HTML.write_text(
         render_html(
             gender,
+            race,
             mentions,
             faction_mentions,
             faction,

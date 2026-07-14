@@ -13,6 +13,7 @@ is_player_character: false
 tags:
 - she/her
 - Black Cats
+- Human
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -24,10 +25,14 @@ You see a sharp-featured human woman in her thirties, dark hair cropped close an
 * *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** Met [[The Adventurers | the Wonch]] in the Repose back room while negotiating over [[:chuggaz | Chuggaz]] and the Fulcrum sabotage lead; accepted a slashed parchment demonstration of [[The Fallowhurst Sigil | The Fallowhurst Sigil]] in exchange for information.[2]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 6: Wallarch | Session 6: Wallarch]] — Emerich under duress after the noon chase.
 
 fn2. [[Session 12: No Questions, Some Answers | Session 12: No Questions, Some Answers]]
+
+</div>
+
 
 <!-- GM_INFO_START -->
 h2. Black Cats link

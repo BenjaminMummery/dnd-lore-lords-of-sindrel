@@ -12,10 +12,28 @@ op_gm_only: true
 is_player_character: false
 tags:
 - character backstory
+- Human
+- he/him
 ---
 
 <!-- OP_DESCRIPTION -->
 
 
 <!-- OP_BIO -->
+Father of [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]].
 
+Raol is a human man of Chondathan descent — tawny skin, black hair, green eyes, slender and tall (about 6'1"). He works as a carpenter and farmhand, and spends much of his time in the woods foraging and searching for good timber to harvest sustainably when commissions allow.
+
+Worldly pressure on his trade forced him to range beyond his usual territories. On one of those excursions he happened upon [[:sylthana-mistayruar | Sylthana Mistayruar]] for the first time; she sent him packing, convinced he had come to strip the forest rather than take a measured cut.
+
+He and Sylthana eventually built a life together across the boundary of her clan's woods and the human settlements he knew. Their daughter Ros inherited his moderate fighting skill and his restlessness more than her mother's druidic vocation — a disappointment Sylthana never quite hid.
+
+Raol and Sylthana also have a younger half-elven son (_name TBC_); Ros has been estranged from him for years and rarely speaks of him.
+
+<!-- GM_INFO_START -->
+h2. Links
+
+* Daughter: [[:rossin-ros-greyhirst | Ros Greyhirst]] — journeying toward [[Sindrel | Sindrel]] as of 4218 SC; regrets losing touch with her mother's clan and her brother.
+* Partner: [[:sylthana-mistayruar | Sylthana Mistayruar]].
+* Source: player backstory on `rossin-ros-greyhirst.textile` (OP_BIO family section).
+<!-- GM_INFO_END -->

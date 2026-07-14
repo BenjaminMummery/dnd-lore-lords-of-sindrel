@@ -1,6 +1,6 @@
 # Lore dashboard
 
-_Auto-generated on 2026-07-10 15:08. Open [lore-dashboard.html](lore-dashboard.html) for charts._
+_Auto-generated on 2026-07-14 11:28. Open [lore-dashboard.html](lore-dashboard.html) for charts._
 
 ## Current date (Session 12)
 
@@ -8,10 +8,29 @@ _Auto-generated on 2026-07-10 15:08. Open [lore-dashboard.html](lore-dashboard.h
 
 ## NPC gender (tagged persons only)
 
-- he/him: 31 (54%) - target 45%
-- she/her: 16 (28%) - target 45%
-- non-binary: 10 (18%) - target 10%
-- Untagged: 4
+- he/him: 33 (55%) - target 45%
+- she/her: 17 (28%) - target 45%
+- non-binary: 10 (17%) - target 10%
+- Untagged: 0
+
+## NPC race (tagged persons only)
+
+- Human: 21 (37%)
+- Half-orc: 6 (11%)
+- Elf: 5 (9%)
+- Half-elf: 4 (7%)
+- Dwarf: 4 (7%)
+- Halfling: 3 (5%)
+- Gnome: 3 (5%)
+- Drow: 2 (4%)
+- Genasi: 2 (4%)
+- Fey: 2 (4%)
+- Dragonborn: 1 (2%)
+- Tabaxi: 1 (2%)
+- Lizardfolk: 1 (2%)
+- Kenku: 1 (2%)
+- Tiefling: 1 (2%)
+- Untagged: 3
 
 ## Party wealth
 

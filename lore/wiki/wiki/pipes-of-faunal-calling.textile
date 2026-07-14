@@ -31,5 +31,8 @@ A set of pan flutes sold at a [[House Mabon | House Mabon]] journeyman fair near
 <p><strong>Faunal calling.</strong> As an action, you can play a short melody on these pipes. Choose one beast that can hear you and that has heard this melody played on these pipes at least once before. That beast instantly knows your location, regardless of distance, until you finish a long rest or play a different calling melody that supersedes the first. A beast can be bound to only one calling melody at a time.</p>
 </div>
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 4: Sindrel! | Session 4: Sindrel!]]
+
+</div>

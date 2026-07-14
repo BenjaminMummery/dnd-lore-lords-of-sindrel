@@ -15,6 +15,7 @@ tags:
 - Factor
 - Deceased
 - she/her
+- Half-orc
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7492300/93fb2850db01402f04a02797c93848dc.jpg
 ---
 
@@ -27,5 +28,8 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7492300/93fb2850db01402f
 * *17th Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
 ** Killed testing a piece of armour with an inverted reflection enchantment — instead of reversing incoming force it amplified it. When she invited an aide to help test the armour with a low-level firebolt spell, she was incinerated instantly.
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
+
+</div>

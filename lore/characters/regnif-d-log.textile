@@ -12,6 +12,7 @@ op_gm_only: true
 is_player_character: false
 tags:
 - he/him
+- Human
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -30,8 +31,8 @@ Goldfinger is not an innocent abroad. He is a wealthy fixer who moves money thro
 h2. Role in [[:ayr | Ayr]]'s backstory
 
 * **Eviction:** Ayr's family lost their home when they failed payments to **GF & Sons Trust** — Goldfinger's lending arm. That pushed them into the underground underworld where Ayr learned to steal.
-* **Prior thefts:** Ayr had already robbed von Goldfinger of trinkets and coin *(TODO: player to specify further item — see [[:ayr | Ayr]] backstory)* before the fatal job.
-* **The mimic job:** Goldfinger set up a **fake job** that lured Ayr's crew into a mimic trap. Ayr alone survived; he lost his eye (now the **green orb**). The rest of the crew died. Ayr blames his own mistake as much as Goldfinger's malice.
+* **Prior thefts:** Ayr had robbed von Goldfinger of trinkets, coin, and the kit for a **false persona** — clothing, handwriting samples, and genuine documents later altered for forged names — plus the Baron's **signet ring**. *(GM: ring may be a hidden key to something in Goldfinger's holdings; not confirmed in play.)*
+* **The mimic job:** Goldfinger's **fake commission** lured **seven** of Ayr's crew into a vault mimic trap (chest type). Swyfgrin fought it while wounded; others fell; survivors **pushed Ayr out** and the door **sealed**. Ayr alone escaped; **the rest died in the vault** (player-facing). He lost his natural eye on the job; wears a self-built **green glass eye** (see [[:ayr | Ayr]]). He blames his own mistake as much as Goldfinger's malice.
 * **What Ayr knows:** the name Goldfinger / von Goldfinger, GF & Sons, mimic-hunter cover story rooted in real hatred of mimics, and his guilt. **What he does not know (through Session 11):** that Goldfinger is in [[Sindrel | Sindrel]] as Regnif d'Log, or that the Wonch investigation is closing on that household.
 * **If they meet:** recognition should be visceral — voice, manner, or a tell Ayr's player supplies — before the name lands. The investigation thread on **recent wealthy arrivals** ([[The Adventurers | the-adventurers]] mapping) is Ayr's personal stake in the same lead that exposes Barnabus and the cell.
 

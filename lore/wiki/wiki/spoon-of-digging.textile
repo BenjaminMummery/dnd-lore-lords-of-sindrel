@@ -30,5 +30,8 @@ An ordinary-looking tea spoon, enchanted so that it can excavate solid rock as e
 <p><strong>Digging.</strong> As an action, you can use this spoon to excavate earth, stone, or metal as easily as scooping sugar. You remove a heaped teaspoon of material (roughly 5 ml). The GM may abstract long excavation tasks rather than resolving each spoonful.</p>
 </div>
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 4: Sindrel! | Session 4: Sindrel!]]
+
+</div>

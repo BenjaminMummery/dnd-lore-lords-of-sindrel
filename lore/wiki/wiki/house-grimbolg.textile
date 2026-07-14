@@ -69,8 +69,11 @@ h2. Relationship to [[The Adventurers | the Wonch]]
 
 House Grimbolg, particularly [[:navinea-senetera | Navinea Senetera]] are neutral to positively disposed to [[The Adventurers | the Wonch]]. Their interactions have been polite and respectful.[2] [[:rossin-ros-greyhirst | Rossin Greyhirst]]'s insight and expertise on natural systems is of interest and may lead to a future roundtable with Grimbolg transmuters.
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
+
+</div>
 
 fn2. [[Session 9: Downtime 2 | Session 9: Downtime 2]] — Navinea's invitation to the Amalthean.
 

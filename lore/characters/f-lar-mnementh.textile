@@ -14,6 +14,7 @@ tags:
 - he/him
 - House Goela
 - Factor
+- Lizardfolk
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7478597/lizard_priest.jpg
 ---
 
@@ -27,8 +28,11 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7478597/lizard_priest.jp
 ** Poisoned during the Anathemist sabotage campaign; investigators determined a large dosage of hallucinogens had been added to his cheese.
 ** Survived, but has been unwilling to attempt any further acts of divination.
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
+
+</div>
 
 <!-- GM_INFO_START -->
 Poisoned by the anathamist spies - his cheese was laced with halucinigens.

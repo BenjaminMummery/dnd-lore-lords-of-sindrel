@@ -33,5 +33,8 @@ The blade is enchanted with an anaesthetic effect. When used in surgery it rende
 <p><strong>Numbing edge.</strong> When you hit a creature other than an elf or undead with this weapon, the target must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>
 </div>
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
+
+</div>

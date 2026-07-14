@@ -1,0 +1,32 @@
+---
+op_slug: swyfgrin
+op_kind: Character
+op_type: Character
+name: Swyfgrin
+title: Swyfgrin
+op_gm_only: true
+is_player_character: false
+tags:
+- character backstory
+- he/him
+- Deceased
+---
+
+<!-- OP_DESCRIPTION -->
+
+
+<!-- OP_BIO -->
+[[:ayr | Ayr]]'s former thief-crew **crewmate and friend** — not kin — from the underground gang that recruited Ayr after his family lost their home in **Goatheim** to **GF & Sons Trust**.
+
+Swyfgrin specialised in the acrobatic work of a burglary crew: the **tossing stunts** and ledge-hops that got a lighter partner up to treasure-room balconies while the rest covered below. Ayr still thinks of those jobs when [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] hurls him up a cliff face — same trust, same arithmetic of height and grip.
+
+On the **Baron von Goldfinger** mimic job, **seven** of the crew entered the vault. The trap was a chest-mimic; it took the first member at once. Swyfgrin had more mimic experience than Ayr and **fought it off** long enough to take wounds of his own while others fell. Survivors **shoved Ayr out**; the vault door **sealed**. **Died in the vault** with the rest of the crew — as far as players know.
+
+<!-- GM_INFO_START -->
+h2. Links
+
+* [[:ayr | Ayr]] — sole escapee from the vault job; irrational hatred of mimics; sworn revenge on Goldfinger ([[:regnif-d-log | Regnif d'Log]] in [[Sindrel | Sindrel]], unknown to Ayr through Session 11).
+* **Vault roster** — see *Vault crew roster* on [[:ayr | Ayr]] GM block; remaining names TBD (Geo).
+* **Race** — not established; **not gnome** (must be large enough to run the **tossing stunts** that hurl Small [[:ayr | Ayr]] up to ledges).
+* Source: `ayr.textile` GM block; player Q&A (Jul 2026).
+<!-- GM_INFO_END -->

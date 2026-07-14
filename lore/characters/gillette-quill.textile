@@ -12,6 +12,7 @@ op_gm_only: false
 is_player_character: false
 tags:
 - he/him
+- Human
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7433940/516db71a9a089cbb40109ce80dfa0971.jpg
 ---
 
@@ -33,7 +34,8 @@ Small, wily, and a complete bastard
 ** Recognised the Wonch while serving tankards at [[The Cutthroat's Repose | The Cutthroat's Repose]] and fled toward the kitchen with devestating lack of conviction.[5]
 ** Told [[:silrie-aegiskiir | Silrie]] that he and [[:raymond-quill | Ray]] had failed to secure investors for their meditation-retreat scheme and had taken odd jobs with [[The Black Cats | the Black Cats]]. Silrie's disappointment landed harder than threats would have.[5]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 1: The White Dragon | Session 1: The White Dragon]]
 
 fn2. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
@@ -43,6 +45,8 @@ fn3. [[Session 3: "Graduation" | Session 3: "Graduation"]]
 fn4. [[Session 4: Sindrel! | Session 4: Sindrel!]]
 
 fn5. [[Session 12: No Questions, Some Answers | Session 12: No Questions, Some Answers]]
+
+</div>
 
 <!-- GM_INFO_START -->
 The fast brother — small, wiry, and vicious. Fights beside [[:raymond-quill | Raymond]]; see *Brothers' Grift* on Raymond's stat block.

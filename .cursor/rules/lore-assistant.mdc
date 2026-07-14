@@ -98,21 +98,18 @@ City Cats layout block (after Black Cats; no separate Undead section):
 
 Extend the **OTHERS** `:not()` chain with `:not(.tag-city-cats)` only (not `.tag-undead` - undead characters stay in their normal buckets).
 
-### Obsidian Portal - Custom JavaScript (future tweaks)
+### Obsidian Portal - Custom JavaScript
 
-**Ascendant-only** - Campaign Settings → Advanced → **Custom JavaScript** (Members Only / Public). Not synced via the lore bridge; local reference only.
+**Ascendant-only** — Campaign Settings → Advanced → **Custom JavaScript** (Public). Not synced via the lore bridge; local reference: `notes/obsidian-portal/custom-javascript.js` (paste entire file into OP).
 
-Use for **client-side presentation and interaction** on top of published content - not lore sync, GM secrets, or economy tracking (those stay in Textile + repo/bridge).
+**Live behaviour** (hooks `opJsInitializedEvent`, `ajaxComplete`, `page:load`):
 
-Reasonable future options ([Custom JavaScript Basics](https://help.obsidianportal.com/article/190-custom-javascript-basics)):
+- **VS Code-style heading folds** — wraps `h1`–`h6` sections in `<details class="op-heading-fold">`; `h1` and `h2` open by default (`defaultOpenLevel: 2`). Skips accordions, stat blocks, GM-only boxes, character name headers, and footnote blocks.
+- **Footnote relocation** — promotes `<!-- op-footnotes -->` … `<!-- /op-footnotes -->` comment pairs into a `.op-footnotes` div, then moves all footnote blocks to the **end of the page content root** so they are never folded inside a section.
 
-- Default accordion behaviour on adventure logs (e.g. open first section via `opJsInitializedEvent`).
-- GM QoL: floating edit link, page-type helpers.
-- Light DOM enhancements for tables, TOC, or images.
+Constraints: visitors may **Deny** custom JS (CSS withheld until Allow); no server-side writes; hook after `opJsInitializedEvent`. Escape hatch: `[campaign-slug].obsidianportal.com/reset-custom-js`.
 
-Constraints: visitors may **Deny** custom JS (CSS withheld until Allow); no server-side writes; prefer Custom Navigation / Custom Layout for static HTML injection; hook insertables after `opJsInitializedEvent`. Escape hatch: `[campaign-slug].obsidianportal.com/reset-custom-js`.
-
-Local CSS backups: `notes/obsidian-portal/` (grey palette = current live theme).
+Local backups: `notes/obsidian-portal/` (grey palette CSS + custom JS).
 
 ## Modes of response
 
@@ -149,9 +146,28 @@ When wiki or character content ties facts to play or a specific adventure log be
 
 1. Marker in prose: `[1]` immediately **after** sentence-ending punctuation — e.g. `routes.[1]`, not `routes[1].` (same for `?` / `!`). If the citation applies to a whole sentence, place the marker at the end of that sentence. Reuse the same number for the same session.
 2. Definition: `fn1. [[Session N: Title | Session N: Title]]` — optional em dash note for what happened there.
-3. **Wiki pages** — all `fn*` lines immediately before `<!-- GM_INFO_START -->` on mixed pages. On GM-only pages (`op_gm_only: true`), place `fn*` at the end of the player body before `<!-- GM_INFO_START -->`, or at file end before `<!-- GM_INFO_END -->` when the whole page is GM-only with no player section.
-4. **Character pages** — all `fn*` lines at the **end of `OP_BIO`**, immediately before `<!-- GM_INFO_START -->`. Optional `<hr>` before the `fn*` block (matches wiki style). GM-block prose may reference `[1]` when the matching `fn*` is defined in `OP_BIO` above.
-5. **Which session to cite:** the log where the party **witnessed** the beat or **learned** the fact — not necessarily the in-world date on the bio heading (e.g. Ostory sabotage deaths → footnote **Session 5** briefing; Cornucopia tour detail → **Session 11**). Skip footnotes for pre-campaign backstory with no log source.
+3. **Wrapper (required)** — wrap all `fn*` definitions in an **`.op-footnotes`** block so campaign Custom JavaScript can relocate them past heading folds. The block must sit at the **end of the player-facing body** (never inside `GM_INFO`).
+
+   **Character pages** — at the end of `OP_BIO`, immediately before `<!-- GM_INFO_START -->`:
+
+   ```
+   <div class="op-footnotes">
+
+   fn1. [[Session N: Title | Session N: Title]]
+
+   </div>
+   ```
+
+   **Wiki pages** — immediately before `<!-- GM_INFO_START -->` (or at file end on GM-only pages with no player section). Either:
+
+   - `<div class="op-footnotes">` … `fn*` lines … `</div>` (matches character pages), or
+   - `<!-- op-footnotes -->` … `fn*` lines … `<!-- /op-footnotes -->` (comment pair; JS promotes to `.op-footnotes` on render — preferred when the block sits among many `h2.`/`h3.` sections).
+
+   Optional `<hr>` immediately before the wrapper on wiki pages. Do **not** leave bare `fn*` lines outside the wrapper.
+
+4. **Which session to cite:** the log where the party **witnessed** the beat or **learned** the fact — not necessarily the in-world date on the bio heading (e.g. Ostory sabotage deaths → footnote **Session 5** briefing; Cornucopia tour detail → **Session 11**). Skip footnotes for pre-campaign backstory with no log source.
+
+   GM-block prose may reference `[1]` when the matching `fn*` is defined in the player body above.
 
 **Exceptions (keep inline text or links):**
 
@@ -160,7 +176,7 @@ When wiki or character content ties facts to play or a specific adventure log be
 - **Campaign status lines** — e.g. `_Through Session 11 (date SC)._` on `home-page`, `the-adventurers`, faction clocks; these are “current as of” markers, not scene citations.
 - **Bare session numbers in GM meta** — e.g. “What's Changed Since Session 2” as a **heading** (no link needed); footnote the first prose citation in that section instead.
 
-**Proactive check:** when editing wiki or character pages, grep for `[[Session` and `(Session N)` in player body and GM blocks; convert citations that point at adventure logs. Report pages still using inline session links or play-derived `**` bio lines missing footnotes.
+**Proactive check:** when editing wiki or character pages, grep for `[[Session` and `(Session N)` in player body and GM blocks; convert citations that point at adventure logs. Report pages still using inline session links, play-derived `**` bio lines missing `[N]` markers, bare `fn*` lines not wrapped in `.op-footnotes`, or footnote blocks placed inside `GM_INFO`.
 
 ## Read-aloud descriptions (wiki vs adventure logs)
 
@@ -268,7 +284,7 @@ Chronological `OP_BIO` entries use dated headings from the adventure logs:
 
 `* *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*`
 
-followed by `**` event lines. One-line role intro (rank + house) may precede the first date block. **Every in-play event drawn from an adventure log must sit under the log's dated heading** — do not lump events under the wrong day. **Footnote** each play-derived `**` line per *Session citations (footnotes)* — cite the session where the party learned or witnessed the beat, then add `fn*` definitions (and optional `<hr>`) at the end of `OP_BIO`.
+followed by `**` event lines. One-line role intro (rank + house) may precede the first date block. **Every in-play event drawn from an adventure log must sit under the log's dated heading** — do not lump events under the wrong day. **Footnote** each play-derived `**` line per *Session citations (footnotes)* — cite the session where the party learned or witnessed the beat, then add `fn*` definitions inside `<div class="op-footnotes">` at the end of `OP_BIO`.
 
 ### DM stat blocks (GM block only)
 
@@ -494,4 +510,4 @@ When preparing a push, or after accumulating a significant batch of lore edits, 
 - **Player secrets** - never add `OP_PLAYER_SECRETS` markers to bio; they publish visibly. Use OP Player Secrets UI + optional `GM_INFO` mirror in repo.
 - **GM notes** - active todos live in `notes/todo.md` (e.g. OP Custom CSS, NPC statblocks); check when resuming work.
 - **Read-aloud alignment** - when adventure logs or location wiki pages change, run the *Read-aloud descriptions* check (wiki authoritative; flag missing wiki prose and log/wiki contradictions).
-- **Session footnotes** - when wiki or character pages change, grep for inline `[[Session` / `(Session N)` citations; convert per *Session citations (footnotes)* unless an exception applies. Ensure play-derived `OP_BIO` `**` lines have `[N]` markers and matching `fn*` definitions.
+- **Session footnotes** - when wiki or character pages change, grep for inline `[[Session` / `(Session N)` citations; convert per *Session citations (footnotes)* unless an exception applies. Ensure play-derived `OP_BIO` `**` lines have `[N]` markers and matching `fn*` definitions inside an `.op-footnotes` wrapper at the end of the player body.

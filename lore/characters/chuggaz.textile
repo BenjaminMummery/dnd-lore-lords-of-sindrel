@@ -13,6 +13,7 @@ is_player_character: false
 tags:
 - Adjutant
 - he/him
+- Dragonborn
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -30,10 +31,14 @@ According to [[:nort | Nort]], he is rumoured to be connected to [[The Black Cat
 ** Vanished from the roster desk before the Wonch arrived, leaving a cooling coffee and an empty locker behind; [[:kithrak-ii | Kithrak II]] tracked his trail toward [[The Wallarch District | Wallarch]].[2]
 ** According to [[:sable-silvestre | Sable]], has been moved to a secure location under Black Cat guard.
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
 
 fn2. [[Session 12: No Questions, Some Answers | Session 12: No Questions, Some Answers]]
+
+</div>
+
 
 <!-- GM_INFO_START -->
 house Grimbolg, black cat

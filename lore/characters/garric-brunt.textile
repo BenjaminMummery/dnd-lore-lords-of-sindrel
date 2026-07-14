@@ -13,6 +13,7 @@ is_player_character: false
 tags:
 - Black Cats
 - he/him
+- Half-orc
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -24,8 +25,11 @@ Door muscle at guarding the back room of [[The Cutthroat's Repose | The Cutthroa
 * *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** Was present for the negotiation between [[The Adventurers | the Wonch]] and[[:sable-silvestre | Sable]].[1]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 12: No Questions, Some Answers | Session 12: No Questions, Some Answers]]
+
+</div>
 
 <!-- GM_INFO_START -->
 h2. Prep

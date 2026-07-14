@@ -20,8 +20,11 @@ The silver greatsword set in the hands of the [[House Oestra | House Oestra]] fo
 
 **Current holder:** [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]].
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 8: The Dark Shrine | Session 8: The Dark Shrine]]
+
+</div>
 
 <!-- GM_INFO_START -->
 A pale imitation of [[Gladius | Gladius]] — silver inset on pale stone, not a blade meant ever to be drawn.

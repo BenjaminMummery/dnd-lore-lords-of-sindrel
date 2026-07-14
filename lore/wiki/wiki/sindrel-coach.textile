@@ -20,7 +20,10 @@ On the 25th of Enean 4218 SC the coach was ambushed by [[Anathemists | Anathemis
 
 **Current holder:** Destroyed / abandoned at the [[The Mage Road | Mage Road]] cutting (25 Enean 4218 SC).
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 1: The White Dragon | Session 1: The White Dragon]]
 
 fn2. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
+
+</div>

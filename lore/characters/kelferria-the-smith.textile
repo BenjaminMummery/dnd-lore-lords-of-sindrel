@@ -14,6 +14,7 @@ tags:
 - House Mabon
 - Factor
 - she/they
+- Genasi
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7481287/ksenia-kozhevnikova-smith-kseniakozhevnikova-detail1.jpg
 ---
 
@@ -26,5 +27,8 @@ Kelferria is a fire genasi woman with copper-bronze skin and a broad, smith's bu
 * *30th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
 ** Took [[:ayr | Ayr]]'s measurements for commissioned plate; promised a formal quote — already committed to a large order.
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 9: Downtime 2 | Session 9: Downtime 2]]
+
+</div>

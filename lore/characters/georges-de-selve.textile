@@ -12,6 +12,7 @@ op_gm_only: false
 is_player_character: false
 tags:
 - he/him
+- Human
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469571/960px-Georges_de_Selve.jpg
 ---
 
@@ -26,10 +27,13 @@ De Selve is a broad-shouldered human man with olive skin and a heavy, well-fed b
 * *26th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** Arrived in [[Sindrel | Sindrel]] with the group (afternoon).[2]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 1: The White Dragon | Session 1: The White Dragon]]
 
 fn2. [[Session 4: Sindrel! | Session 4: Sindrel!]]
+
+</div>
 
 <!-- GM_INFO_START -->
 Real name: Georges de Selve

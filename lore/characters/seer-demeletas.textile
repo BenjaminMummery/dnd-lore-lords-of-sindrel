@@ -14,6 +14,7 @@ tags:
 - House Goela
 - Factor
 - he/him
+- Tiefling
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469951/tief.jpeg
 ---
 
@@ -31,5 +32,8 @@ h2. Spies lead
 
 bq). Your path leads through earth and ash and brimstone, but beware the fire and fury – its blinding light hides the spectre of death. It is easy to get lost in the dark, but remember to trust in righteousness. Your lucky number is eight. Your lucky colour is red. Pay close attention to your friends, you may find yourself looking to them at times you don't expect. Avoid shellfish, but be open to trying new experiences.
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
+
+</div>

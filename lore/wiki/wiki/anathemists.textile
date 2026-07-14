@@ -28,8 +28,11 @@ In the **last few years** (~**4213 SC** onward), as magic fades faster, they hav
 
 * *25th of Enean, 4218 [[The Soulwind Calendar | SC]]*: A force of Anathemists ambush the [[Sindrel | Sindrel]] coach. They claim to be interested only in the gold and other valuables carried therein. Despite taking losses, they deploy a novel weapon, slaying the [[:lacerta-kirrahe | leader]] of the [[The Vermillion Company | mercenaries]] guarding the coach.[1]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 1: The White Dragon | Session 1: The White Dragon]]
+
+</div>
 
 <!-- GM_INFO_START -->
 "Anathema" is a name for a formal curse by a pope or a council of the Church, excommunicating a person or denouncing a doctrine.

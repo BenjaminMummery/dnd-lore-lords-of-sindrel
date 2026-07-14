@@ -14,6 +14,7 @@ tags:
 - House Lithra
 - Adjutant
 - he/him
+- Human
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -28,10 +29,15 @@ You see a human man with light brown skin and a lean, precise build, his black h
 ** Summoned before dawn. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s knock sent [[:wilrin-racenglade | Wilrin]]'s door flying; Wilrin's firebolt and Deathwalker's Chill Touch left door and curtains badly singed — Cedric was extremely consternated.
 ** Built a like-for-like miniature of the townhouse for [[:razorbeak | the Chicken]].
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 9: Downtime 2 | Session 9: Downtime 2]]
 
 fn2. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
+
+</div>
+
+
 
 <!-- GM_INFO_START -->
 h2. True role

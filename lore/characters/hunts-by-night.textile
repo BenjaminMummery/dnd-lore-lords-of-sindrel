@@ -26,7 +26,10 @@ A [[Sindrel | Sindrel]] street cat. Part of the informal network known to [[:ama
 * *30th–31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[2]
 ** At [[Radwasp House | Radwasp House]], tried to warn the party about [[:tama | the giant stoat]]; sought out [[:pads-silently | Pads-Silently]] when unsuccessful (morning of the 31st).
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
 
 fn2. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
+
+</div>

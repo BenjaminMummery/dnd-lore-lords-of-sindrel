@@ -13,6 +13,7 @@ is_player_character: false
 tags:
 - Anathemist
 - she/her
+- Half-orc
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7440581/download.jpeg
 ---
 
@@ -25,8 +26,11 @@ h3. Key Items
 * *25th of Enean, 4218 [[The Soulwind Calendar | SC]]*[1]
 ** Led the ambush of the coach to [[Sindrel | Sindrel]], bringing him into direct conflict with [[The Adventurers | the Adventurers]]. During this ill-fated assault, he killed the [[:lacerta-kirrahe | Captain]] of the [[The Vermillion Company | Vermillion Company]].
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 1: The White Dragon | Session 1: The White Dragon]]
+
+</div>
 
 <!-- GM_INFO_START -->
 Awake Ye Soldiers of Righteousness

@@ -14,6 +14,7 @@ op_gm_only: false
 is_player_character: false
 tags:
 - she/her
+- Human
 # Party-known affiliations only on public pages (house, rank, pronouns).
 # Unrevealed ties stay in GM_INFO until shown in play.
 # avatar_url: https://...
@@ -32,8 +33,11 @@ Bio bullets from adventure logs must use dated headings matching the log (see lo
 * *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
 ** What the party witnessed or learned in play.
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session N: Title | Session N: Title]]
+
+</div>
 
 <!-- GM_INFO_START -->
 h2. Prep

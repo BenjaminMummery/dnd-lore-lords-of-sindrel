@@ -13,6 +13,7 @@ is_player_character: false
 tags:
 - he/him
 - Black Cats
+- Dwarf
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -24,8 +25,13 @@ Public face of [[The Cutthroat's Repose | The Cutthroat's Repose]] in [[The Wall
 * *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** Served the Wonch in the Repose public room and gave [[:ayr | Ayr]] very little about [[:chuggaz | Chuggaz]] beyond ale strong enough to win the exchange on its own.[1]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 12: No Questions, Some Answers | Session 12: No Questions, Some Answers]]
+
+</div>
+
+
 
 <!-- GM_INFO_START -->
 h2. Prep

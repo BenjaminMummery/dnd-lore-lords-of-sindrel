@@ -13,6 +13,7 @@ is_player_character: false
 tags:
 - Deceased
 - he/him
+- Human
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7553365/images.jpeg
 ---
 
@@ -24,5 +25,8 @@ At the [[Osteomantic Archives | Wallarch Osteomantic Archives]], you see the mor
 ** [[The Adventurers | The Wonch]] witnessed his funeral at the [[Osteomantic Archives | Wallarch Osteomantic Archives]] (early afternoon).
 ** Archive staff including [[:seelie-ophelan | Seelie Ophelan]] and [[:temperance-halke | Temperance Halke]] collected his remains after the rite; the party's departure from the chamber lacked dignity.
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 6: Wallarch | Session 6: Wallarch]]
+
+</div>

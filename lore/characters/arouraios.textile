@@ -13,6 +13,7 @@ is_player_character: false
 tags:
 - he/him
 - Suspect
+- Half-elf
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -24,8 +25,12 @@ You see a man with dark hair, a neatly trimmed beard, and small, fussy glasses. 
 * *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** [[:nort | Nort]] recalled a lost-looking coachman with a neatly trimmed beard and small, fussy glasses, bringing a carriage down near the entrance service tunnels during the closing ceremony. She could not name him or his dignitary; described the carriage coat of arms as something with a bird on it.[1]
 
-<hr>
+
+<div class="op-footnotes">
+
 fn1. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
+
+</div>
 
 <!-- GM_INFO_START -->
 h2. Physical description

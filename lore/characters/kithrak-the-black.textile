@@ -24,5 +24,8 @@ Ancient black dragon whose territory spanned much of the [[Arkay Mountain Range 
 * *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** [[The Adventurers | The Wonch]] passed through the Hall of Aberrations during their catacomb expedition and recognised the colossal skeleton (late afternoon).[1]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 7: Into The Catacombs | Session 7: Into The Catacombs]]
+
+</div>

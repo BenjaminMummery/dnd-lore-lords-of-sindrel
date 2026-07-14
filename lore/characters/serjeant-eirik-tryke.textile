@@ -14,6 +14,7 @@ tags:
 - House Meness
 - Adjutant
 - he/him
+- Half-elf
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -27,10 +28,13 @@ A half-elf man with fair skin and a medium, soldier's build, his sandy hair kept
 ** Showed the northwest foundation blast site and explained that twelve devices, correctly placed, might have brought the tower down.
 ** Saluted the Wonch through the Fulcrum service tunnels when they returned to pursue the Chuggaz lead.[2]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
 
 fn2. [[Session 12: No Questions, Some Answers | Session 12: No Questions, Some Answers]]
+
+</div>
 
 <!-- GM_INFO_START -->
 h2. Prep

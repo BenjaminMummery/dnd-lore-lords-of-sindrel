@@ -25,12 +25,15 @@ tags:
 * *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** Interrogated by [[:hielaman | Captain Hielaman]] before the [[Hexine Circle | Hexine Circle]] convened; his testimony exposed that the Anathemists had access to sensitive information could only have been obtained by infiltrating one of the Houses.[3]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 3: "Graduation" | Session 3: "Graduation"]]
 
 fn2. [[Session 4: Sindrel! | Session 4: Sindrel!]]
 
 fn3. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
+
+</div>
 
 <!-- GM_INFO_START -->
 Captured after the Anathemist patrol skirmish on the road from [[Fallowhurst | Fallowhurst]]; interrogated by [[:hielaman | Captain Hielaman]] before the [[Hexine Circle | Hexine Circle]] convened. His zealot name is *Arise To Victory Over The Infidel Hoards*.

@@ -39,10 +39,13 @@ Delivered to [[Radwasp House | Radwasp House]] on the 30th of Enean 4218 SC.[2]
 <p><strong>Unfolding strike.</strong> Upon a successful hit against a creature with this sword as a melee attack, you may expend one or more charges as a bonus action. For each charge expended, the attack deals an additional 1d10 slashing damage as the blade unfolds outward through the strike. Does not apply Sap.</p>
 </div>
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
 
 fn2. [[Session 9: Downtime 2 | Session 9: Downtime 2]]
+
+</div>
 
 <!-- GM_INFO_START -->
 Someone once wanted to attach the perpetual engine to a [[Spoon of Digging | Spoon of Digging]]. Experts debate which use would be more dangerous for the world.

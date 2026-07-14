@@ -12,10 +12,28 @@ op_gm_only: true
 is_player_character: false
 tags:
 - character backstory
+- Elf
+- she/her
 ---
 
 <!-- OP_DESCRIPTION -->
 
 
 <!-- OP_BIO -->
+Mother of [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]].
 
+Sylthana is a wood elf of the Grugagh — wild elves of pale copper skin, light green eyes, very dark brown or black hair, slim build (about 5'8"). She belongs to a druidic clan that is semi-nomadic, riding stags when they need speed across their territory.
+
+She is stoic by training and temperament, with a fiery streak that showed more often as Ros grew older. Their arguments centred on paths: Sylthana wanted druidic study; Ros wanted the fighting craft she saw in [[:raol-greyhirst | Raol]].
+
+Ros spent her younger years living with Sylthana and the clan, apart from Raol. Sylthana never gave her an Elvish name — among the Grugagh it is fashionable, even acceptable, for a half-elf child to carry a human name. Ros read that as silent rejection. Sylthana insists it was not; other elves in the clan treated it as disapproval and ostracised Ros until she left.
+
+Sylthana and Raol have a younger half-elven son (_name TBC_) whom Ros has not seen or heard from in decades.
+
+<!-- GM_INFO_START -->
+h2. Links
+
+* Daughter: [[:rossin-ros-greyhirst | Ros Greyhirst]] — half-elf ranger; fell out of favour with the clan and withdrew into relative solitude before travelling toward [[Sindrel | Sindrel]].
+* Partner: [[:raol-greyhirst | Raol Greyhirst]].
+* Source: player backstory on `rossin-ros-greyhirst.textile` (OP_BIO family section).
+<!-- GM_INFO_END -->

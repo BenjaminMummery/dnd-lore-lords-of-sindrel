@@ -321,7 +321,7 @@ dndbeyond_synced_at: '2026-07-10T13:59:14Z'
       <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+1</span></div>
       <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
     </div>
-    
+
   </div>
 
   <div class="ddb-columns">
@@ -394,7 +394,7 @@ Persuasion +4</div></div>
 <strong>Harness Divine Power.</strong> You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, which can be no higher than level 1. You regain all expended uses when you finish a long rest.</div>
 </div>
 
-  
+
 
   <div class="ddb-columns ddb-bottom-row">
     <div class="ddb-section ddb-half">
@@ -425,7 +425,7 @@ Persuasion +4</div></div>
 </div>
 
 <!-- OP_DESCRIPTION -->
-A stocky gnome with weathered brown skin, a curling white mustache, and sage-green hair worn upward. One eye is natural brown; the other a glowing green orb set in the socket. Silver plate with a golden diamond badge on the breast - armour polished as if piety could be made visible.
+A stocky gnome with weathered brown skin, a curling white mustache, and sage-green hair worn upward. One eye is natural brown; the other a faintly glowing green **glass eye** in the socket — a tinkered replacement with a removable outer ring he can swap for plainer fittings when a disguise must hide the scarring. Silver plate with a golden diamond badge on the breast - armour polished as if piety could be made visible.
 
 h3. Key Items
 
@@ -451,7 +451,7 @@ h2. Ayr's Backstory
 
 Thief? That was a life long ago.
 
-Young Ayr loved his underground cities, loved his family, and enjoyed a very typical and fun gnomish childhood. It changed when his family were evicted from their little home after failing to make bank payments to **GF & Sons Trust**, and were forced to begging on the streets and to live amongst the hustle and bustle of the underground underworld.
+Young Ayr loved the **underground warrens** of **Goatheim** — one of the old kingdoms that once united into [[The Magedom of Houd | the Magedom of Houd]] — loved his family, and enjoyed a very typical and fun gnomish childhood. It changed when his family were evicted from their little home after failing to make bank payments to **GF & Sons Trust**, and were forced to begging on the streets and to live amongst the hustle and bustle of the underground underworld.
 
 Funnily enough, Ayr seemed quite quick to take to a new life of living day to day based on what you could find, or steal.
 
@@ -463,7 +463,11 @@ He did keep to a rule though: only take from those who have more than their "fai
 
 Ayr's life would forever be changed when a seemingly easy job went horribly wrong.
 
-**Baron von Goldfinger** — a noble whom he had once relieved of trinkets, coin, and *(TODO: player to specify)* — set up a fake job that led to Ayr's crew being set upon by a vicious mimic, carefully lured into what should have been an obvious farce. Ayr was the only survivor — albeit with one less eye than he started with. The rest of his crew died on the same job; he blames himself as much as Goldfinger.
+**Baron von Goldfinger** — a noble whom he had once relieved of trinkets, coin, and far more besides — set up a fake job that led to Ayr's crew being set upon by a vicious mimic, carefully lured into what should have been an obvious farce.
+
+*The prior theft:* Ayr had not only lifted valuables from the Baron's household. He had taken the raw material for a **false persona** — clothing, handwriting samples, and documents that were genuine save for altered names, all later reworked into forged identities. The Baron's **signet ring** went with them. *(GM: the ring may be a hidden key to something in Goldfinger's holdings — cipher, lock, or national-treasure gimmick — but nothing is confirmed in play yet.)*
+
+*The mimic job:* Seven of the crew entered the vault. The trap was a stereotypical **mimic chest**; it took the first member by surprise. It was Ayr's first mimic — street tricks and stabby-stabby did nothing. **[[:swyfgrin | Swyfgrin]]**, more experienced, fought it off long enough to take wounds of his own while others fell. As the slaughter closed in, the survivors **shoved Ayr out** and the vault **door sealed** behind him. Everyone still inside **died** — as far as Ayr and the table know, he alone escaped. He lost his natural eye on the same job; the **green glass eye** he wears now is his own later work (see *Green glass eye* below).
 
 Since then he has developed both an irrational hatred of mimics and of creatures that harm ordinary people going about their business, and has sworn revenge on von Goldfinger when the opportunity arises. Depending on what is closest, that is who he tends to direct his ire at.
 
@@ -495,12 +499,29 @@ _Pre-Session 1 (20th Enean 4218)._
 
 * On [[The Mage Road | the Mage Road]] south of [[The White Dragon Coaching Inn | the White Dragon]], still days from [[Soulwind | Soulwind]]. His **mimic-hunter cover** is holding; he hopes it lands paid work in [[Sindrel | Sindrel]].
 * **Noble caravan theft** — en route he relieved a wealthy caravan of poorly secured chest contents (same rule: only those with more than their share). Coin helped fund mail adjustments at the inn.
-* **Green orb** — self-doubt is new to him. He uses the mirror and the orb stares back as hard as he stares at it — a reminder of the mimic job and the crew he lost. He does not feel strong enough yet for payback on **Goldfinger**.
+* **Green glass eye** — self-doubt is new to him. He uses the mirror and the eye stares back as hard as he stares at it — a reminder of the mimic job and the crew he lost. He does not feel strong enough yet for payback on **Goldfinger**.
 * Mail still ill-fitting until the White Dragon blacksmith (24th Enean); shield got cheap pewter embellishments.
+
+h2. Green glass eye (GM)
+
+Socket-mounted **mechanical glass eye** with a **tinkered outer ring** Ayr built after the mimic job. The ring is removable — plainer fittings hide scarring and help disguises. The green glow is the current fitting. He expects it may turn **purple** if [[Shrine of the Queen of Ravens | Raven Queen]] influence deepens. In play it flavours **Hunter's Mark**-style tracking; he does not frame that as paladin magic yet.
+
+Like [[Hesh | Hesh]], this was a **proper enchanted item at some point** and still carries a **little residual power** outside [[Sindrel | Sindrel]]'s magical density — enough for the faint glow and odd moments of clarity, not a full active item. **Repowering or restoration** in Sindrel (or with the right artificer) could wake stronger abilities; **what those were or could become is undecided**. Ayr believes he tinker-built the whole thing; whether he incorporated salvaged enchanted glass, refitted someone else's work, or his own enchantment has simply faded is open prep.
+
+h2. Vault crew roster (GM)
+
+Seven entered the **Baron von Goldfinger** vault on the mimic job. Player-facing canon: **everyone inside died**; Ayr alone escaped when he was shoved out before the door sealed. *(GM-only: one or more may have survived — do not reveal without a deliberate beat.)*
+
+| | Name | Notes |
+|---|---|---|
+| — | **[[:ayr | Ayr]]** | Shoved out before the door sealed; sole escapee |
+| 1 | *(first casualty)* | Taken at once by the chest-mimic |
+| 2 | **[[:swyfgrin | Swyfgrin]]** | Acrobatics specialist; fought the mimic while wounded |
+| 3–6 | *(TBD — Geo)* | Four remaining crew slots; add names when supplied |
 
 h2. Crew, grudges, and Divine Sense
 
-* **Swyfgrin** — old thief-crew partner. Ayr remembers pulling similar **tossing stunts** with him to reach treasure-room ledges (as when [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] threw him up the cliff, 25 Enean). *(TODO: confirm whether Swyfgrin died on the mimic job — see Todos.)*
+* **[[:swyfgrin | Swyfgrin]]** — thief-crew **crewmate and friend**, not family. Specialist in the acrobatic **tossing stunts** and ledge-hops (Ayr still thinks of those jobs when [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] throws him up a cliff). On the Goldfinger vault job he fought the chest-mimic while wounded and helped buy the moment when others **pushed Ayr out** before the door sealed. **Died in the vault** — as far as players know, with the rest of the crew Ayr left behind.
 * **Divine Sense** — an **old traveller in plate** once taught him a trick for "sensing bad things." Ayr thought it was a joke until it worked at [[Fallowhurst College | Fallowhurst College]] (25 Enean) and likely saved the party. He does not frame it as paladin magic — just a road lesson that paid off.
 * **Anathemist grudge** — the zealot who killed [[:lacerta-kirrahe | Captain Kirrahe]] with the thunder-weapon (25 Enean ambush) is on Ayr's personal list. He does not know their name.
 * **"Wanted"** — after the [[Anathemists | Anathemist]] patrol encounter leaving [[Fallowhurst Outpost | the Outpost]] (26 Enean), Ayr believes the party is **wanted**. He is fine with that if it gets him closer to their leader.

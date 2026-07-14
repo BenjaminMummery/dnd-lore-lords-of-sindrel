@@ -29,7 +29,8 @@ h2. Interactions with the Wonch
 * On their entrance to Wallarch, the wonch noticed Emerich watching them and gave chase.[3]
 * While pursuing [[:chuggaz | Chuggaz]], the Wonch met [[:sable-silvestre | Sable Silvestre]] in the back room of [[The Cutthroat's Repose | The Cutthroat's Repose]] and traded a [[The Fallowhurst Sigil | Fallowhurst sigil]] demonstration for promised information.[4]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
 
 fn2. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
@@ -37,6 +38,8 @@ fn2. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins
 fn3. [[Session 6: Wallarch | Session 6: Wallarch]] — Wallarch chase; Emerich assaulted.
 
 fn4. [[Session 12: No Questions, Some Answers | Session 12: No Questions, Some Answers]]
+
+</div>
 
 <!-- GM_INFO_START -->
 h2. Relation to City Cats (felines)

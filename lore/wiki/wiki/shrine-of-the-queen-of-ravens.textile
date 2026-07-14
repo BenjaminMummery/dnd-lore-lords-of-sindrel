@@ -19,8 +19,11 @@ The party entered via a door blocked by tree roots and blood moss. Within they f
 
 [[:ayr | Ayr]] took an elaborate buckler from the lead corpse's wrist — [[The Unanswered Cry | The Unanswered Cry]] — and could not remove it.
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 8: The Dark Shrine | Session 8: The Dark Shrine]]
+
+</div>
 
 <!-- GM_INFO_START -->
 h2. Location

@@ -14,6 +14,7 @@ tags:
 - she/her
 - House Grimbolg
 - Archive worker
+- Human
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -23,8 +24,11 @@ You see a broad-shouldered human woman with deep brown skin and a sturdy, porter
 * *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
 ** Present at the funeral of [[:micycle-smynth | Micycle Smynth]]. One of the two archive staff [[:rossin-ros-greyhirst | Ros]] spotted in dark robes during the service. Temperance and [[:seelie-ophelan | Seelie Ophelan]] collected [[:micycle-smynth | Micycle]]'s remains after the cold flame stripped the flesh and carried them toward the room where [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and [[:amanira | Amanira]] were exploring — narrowly avoided when the party fled.
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 6: Wallarch | Session 6: Wallarch]]
+
+</div>
 
 <!-- GM_INFO_START -->
 h2. True role

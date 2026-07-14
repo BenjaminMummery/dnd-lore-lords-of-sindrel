@@ -41,13 +41,15 @@ Even shorter (agent applies defaults): `NPC: Fulcrum clerk` · `NPC: Leageur att
 
 Staff in a house → native. Dignitary in the salon → visitor.
 
-## Species (pick Core unless you want variety)
+## Species (population first, then tier)
 
-**Native:** Core human/elf/half-elf/dwarf/gnome/halfling · Common tiefling/aasimar/dragonborn/genasi/half-orc
+**Bias away from Human** on new improvisations (~1 in 4–5 may still be Human). Pick **population** first, then species from that profile. See `notes/lore-dashboard.md` race counts.
 
-**Visitor (Artresh):** Core human/orc/dwarf/halfling/goblin · Rare tiefling/aasimar/fey
+**Native:** Core human/elf/half-elf/dwarf/gnome/halfling · Common tiefling/aasimar/dragonborn/genasi/half-orc — prefer Common/non-human Core for native staff.
 
-**Refugee:** Core tiefling/aasimar/genasi/half-elf/elf · Uncommon human/dwarf/halfling
+**Visitor (Artresh):** Core human/orc/dwarf/halfling/goblin · Rare tiefling/aasimar/fey — Human OK more often; still vary.
+
+**Refugee:** Core tiefling/aasimar/genasi/half-elf/elf · Uncommon human/dwarf/halfling — Human should be uncommon here.
 
 ## Names by house
 

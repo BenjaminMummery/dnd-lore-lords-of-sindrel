@@ -25,11 +25,12 @@ Add house, rank, population, or pronouns only when you want to override defaults
 ## Workflow
 
 1. **Location** → population (table below)
-2. **Population** → species tier (pick Core unless scene needs variety)
+2. **Population** → species tier (see *Species picking* below)
 3. **House / affiliation** → tells + naming nudge (native workers = Adjutant; Unaffiliated = visitors only)
 4. **Gender** → bias underrepresented buckets (see below); honour user override
-5. **Fill output template** → return to user
-6. **Hook** — player-safe by default; label **GM-only** if it uses secrets the party has not learned
+5. **Species** → bias away from human while respecting the three populations (see *Species picking*)
+6. **Fill output template** → return to user
+7. **Hook** — player-safe by default; label **GM-only** if it uses secrets the party has not learned
 
 ## Output template
 
@@ -69,7 +70,21 @@ Return exactly this structure (omit Hook if nothing useful):
 
 ## Species tiers (Sindrel)
 
-Pick **Core** for a random passer-by. Use Uncommon/Rare only when the scene needs variety or the prompt specifies.
+Use the tier lists below **after** choosing population. Founder statue body types are **flavour**, not quotas.
+
+### Species picking (new NPCs)
+
+Glance at `notes/lore-dashboard.md` race counts if unsure — the tagged roster skews **Human**. For **new** quick NPCs:
+
+1. **Pick population first** (native / visitor / refugee) — non-negotiable; see location table.
+2. **Default away from Human** unless the prompt or scene strongly implies mundane visitor stock.
+3. **Keep a few Humans in the mix** (~1 in 4–5 improvisations) so the city does not read as artificially exotic.
+4. **Within each population**, prefer **Common** over Core when both fit; reach to **Uncommon** when the scene can bear a glance.
+5. **Do not** pick Human as a lazy default for native Sindrellians — pre-Fade native mix should show elf, tiefling, genasi, dwarf, etc.
+6. **Visitors** may be Human more often (Artresh mundane dominant) — still vary with half-elf, dwarf, halfling, half-orc on roads and in trade scenes.
+7. **Refugees** — Human should be **uncommon** in the tier list; favour tiefling, aasimar, genasi, half-elf, elf, changeling, shifter.
+
+When the user specifies a species, use it. When canon names a specific NPC, read their page — do not re-roll.
 
 ### Native Sindrellian (pre-Fade mix)
 

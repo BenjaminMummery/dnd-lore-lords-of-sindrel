@@ -14,6 +14,7 @@ tags:
 - House Mabon
 - Factor
 - they/them
+- Kenku
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7467759/Screenshot_2026-01-29_at_15.32.50.png
 ---
 
@@ -33,7 +34,10 @@ h2. Spies lead
 
 bq). "Incidents, the last months. Misfortune maybe, sabotage we fear. Appearing random, but always a design beneath. The random hides the pattern. Find the parts that do not fit, pull on them until deception unravels."
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]]
 
 fn2. [[Session 9: Downtime 2 | Session 9: Downtime 2]]
+
+</div>

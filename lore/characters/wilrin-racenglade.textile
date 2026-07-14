@@ -439,7 +439,42 @@ h3. Key Items
 * [[The Fallowhurst Sigil | The Fallowhurst Sigil]] (bound — sigil scar)
 
 <!-- OP_BIO -->
+h3. Chapter 1: Taken
 
+Wilrin RavenGlade was born in [[Oakhaven | Oakhaven]]. His parents were halflings, [[:willow-ravenglade | Willow]] and [[:bramble-ravenglade | Bramble]]. They lived a simple, happy farm life.
+
+One night when Wilrin was three years old, the sky glowed with a strange, bright light. When his [[:bramble-ravenglade | father]] checked the crib, Wilrin was gone. The window was open. His parents searched but found nothing.
+
+[[The Fey | Fairies]] had taken Wilrin. They carried him across a hidden, magical path into the [[Midsummer Enclave | Midsummer Enclave]]. He was too young to remember the world he left.
+
+h3. Chapter 2: The Magic Starts
+
+Wilrin grew up in the [[Midsummer Enclave | Midsummer Enclave]]. The colors were too bright, and the sounds were confusing. [[The Fey | Fey]] creatures took care of him, but they didn't care about him. They were indifferent. They gave him food and shelter under huge, strange mushrooms.
+
+Wilrin had no teachers and no real parents. He learned to survive on his own.
+
+Because he was always surrounded by magic, it started to change him. When he was eleven, he stood by a glowing pool. He wanted a smooth, gray rock nearby. Suddenly, the rock flew into his hand. He was scared. When he tried again, nothing happened. The magic was in him, but he couldn't control it.
+
+h3. Chapter 3: Wild Power
+
+By age twenty, Wilrin was good at talking to the strange creatures. He was charismatic because he learned to please the unpredictable fey. He went on long walks every day, practicing his magic in private.
+
+He only tried to do simple things, like making a small flame. But the results were always wrong and dangerous.
+One time, he tried to make a small fire, but a huge blast of flame shot out instead. Another time, he tried to move a rock, and he suddenly shrank down to the size of a doll. His magic was completely wild. It was strong and very unpredictable.
+
+h3. Chapter 4: Going Home
+
+At twenty, Wilrin was tired of the chaos. He had seen everything the Feywild had to offer, and it wasn't enough anymore. He felt like he needed a goal and a purpose outside of just surviving. He wanted to see the world where he was born.
+
+He found a way out—a hidden spot where the two worlds meet, near a noisy waterfall.
+
+He left quickly. He wore the basic clothes he had, carried a simple dagger, and had a small bag of dried food. He had no coins.
+
+He stepped through the path. The strong smell of magic was replaced by the smell of dirt and woodsmoke. In the instant he stepped through, he became aware of a yearning desire pulling him north as his arcane blood aligned to the magical field like a compass needle. It did not take him long to learn of [[Sindrel | Sindrel]], nor to put the pieces together that that was where his magical senses were leading him.
+
+Nearly a month has passed - the journey has been long but every step has made the raging turmoil of magic within him slightly calmer. Now the end of his journey is almost in sight.
+
+Wilrin, a man shaped by wild magic, this is where his adventure begins.
 
 <!-- GM_INFO_START -->
 h2. Player sheet (D&D Beyond)
@@ -452,4 +487,5 @@ h2. Player sheet (D&D Beyond)
 h2. Midsummer Enclave
 
 The time fuckery of the [[Midsummer Enclave | Midsummer Enclave]] means that Wilrin's experiences within it do not have to line up temporally with the rest of the world. He may have returned before he left — his parents can be young, active members of society!
+
 <!-- GM_INFO_END -->

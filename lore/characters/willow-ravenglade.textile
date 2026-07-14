@@ -13,6 +13,7 @@ is_player_character: false
 tags:
 - she/her
 - character backstory
+- Halfling
 ---
 
 <!-- OP_DESCRIPTION -->

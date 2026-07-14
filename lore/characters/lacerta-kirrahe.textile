@@ -14,6 +14,7 @@ tags:
 - Vermillion Company
 - Deceased
 - he/him
+- Half-orc
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7440781/fef5e54185b45d487f1f2f2cfdda15bf.jpg
 ---
 
@@ -27,8 +28,11 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7440781/fef5e54185b45d48
 * *25th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** During an [[Anathemists | Anathemist]] ambush of the [[Sindrel Coach | Sindrel coach]], shot and killed by [[:commander-wake | the Anathemist leader]] using an unknown weapon.[1]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 1: The White Dragon | Session 1: The White Dragon]]
+
+</div>
 
 <!-- GM_INFO_START -->
 lacerta-kirrahe

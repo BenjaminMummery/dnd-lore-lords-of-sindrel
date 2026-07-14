@@ -13,6 +13,7 @@ is_player_character: false
 tags:
 - he/him
 - Archive worker
+- Human
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -23,8 +24,11 @@ You see a young human man with light brown skin and a slight, scholarly build, h
 ** Present at the funeral of [[:micycle-smynth | Micycle Smynth]], presided over by the [[:celebrant-alruna | celebrant]].
 ** [[:rossin-ros-greyhirst | Ros]] noticed two figures in archive robes among the mourners; at the rite's end, Seelie and [[:temperance-halke | Temperance Halke]] gathered the mortal remains and carried them toward the undercroft.
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 6: Wallarch | Session 6: Wallarch]]
+
+</div>
 
 <!-- GM_INFO_START -->
 h2. True role

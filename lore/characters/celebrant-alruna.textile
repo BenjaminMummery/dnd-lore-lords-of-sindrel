@@ -15,6 +15,7 @@ tags:
 - Adjutant
 - Archive worker
 - she/her
+- Elf
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7495130/alruna.jpg
 ---
 
@@ -27,8 +28,11 @@ She speaks in measured liturgical cadence, each phrase placed like a stone - the
 * *29th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** Presided over the funeral of [[:micycle-smynth | Micycle Smynth]] at the [[Osteomantic Archives | Wallarch Osteomantic Archives]] when [[The Adventurers | the Wonch]] visited.[1]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 6: Wallarch | Session 6: Wallarch]]
+
+</div>
 
 <!-- GM_INFO_START -->
 h2. True role

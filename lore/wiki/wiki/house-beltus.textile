@@ -60,8 +60,11 @@ As a final sick joke, the demon enchanted its own sulphurous leavings, which exp
 
 Information recently uncovered by [[The Adventurers | the Wonch]] suggests that this event may have been a cover for the theft of a large quantity of sulfur.[1]
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
+
+</div>
 
 <!-- GM_INFO_START -->
 h2. Overview:

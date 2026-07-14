@@ -15,6 +15,7 @@ tags:
 - she/her
 - Deceased
 - Factor
+- Tabaxi
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7553465/images.jpeg
 ---
 
@@ -27,8 +28,11 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7553465/images.jpeg
 * *6th Ostory, year 4218 ([[The Soulwind Calendar | SC]])*[1][2]
 ** Killed during maintenance on a water silo when the control rod's gems were physically swapped; the rod generated water instead of ablating it, flooding the silo before she could save herself.
 
-<hr>
+<div class="op-footnotes">
+
 fn1. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins]] — Hexine Circle briefing on the sabotage campaign.
+
+</div>
 
 fn2. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason, and Plot]]
 
