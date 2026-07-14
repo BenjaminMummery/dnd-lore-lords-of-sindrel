@@ -7,7 +7,7 @@ name: Wilrin Ravenglade
 title: Wilrin Ravenglade
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/wilrin-racenglade
 op_created_at: '2025-12-14T17:07:18Z'
-op_updated_at: '2026-07-10T07:37:15Z'
+op_updated_at: '2026-07-14T10:51:56Z'
 op_gm_only: false
 is_player_character: true
 tags:
@@ -42,7 +42,6 @@ dynamic_sheet:
   class_summary: Sorcerer (Wild Magic) 3
   prof_bonus: '+2'
   player_campaign: Ne0ni · The Lords of Sindrel
-  avatar_url: https://www.dndbeyond.com/avatars/54284/245/1581111423-151085741.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
   ac: '13'
   hp_current: '13'
   hp_max: '14'
@@ -141,38 +140,12 @@ dynamic_sheet:
   passive_insight: '12'
   inspiration: 'No'
   temp_hp: '0'
-  actions: 'Dagger. +1 to hit, range 20 ft., 1d4 piercing
-
-    Crossbow, Light. +1 to hit, range 80 ft., 1d8 piercing
-
-    Sorcery Points. You have 3 sorcery points that you regain when you finish a long
-    rest.
-
-    Metamagic - Twinned Spell. You can spend sorcery points equal to a spell''s level
-    (1 for a cantrip) to target a second creature in range with the same spell, as
-    long as the spell at the level it''s being cast is incapable of targeting more
-    than one creature.
-
-    Tides of Chaos. Once per long rest, you can gain advantage on one attack roll,
-    ability check, or saving throw. Before you regain use of this feature, the DM
-    can have you roll on the Wild Magic Surge table after you cast a 1st level or
-    higher spell. You then regain the use of this feature.
-
-    Metamagic - Quickened Spell. When you cast a spell that has a casting time of
-    1 action, you can spend 2 sorcery points to change the casting time to 1 bonus
-    action for this casting.'
-  bonus_actions: Convert Sorcery Points. You can use your sorcery points to gain additional
-    spell slots or sacrifice spell slots to gain additional sorcery points as a bonus
-    action.
   proficiencies: Crossbow, Light, Dagger, Dart, Flute, Quarterstaff, Sling
   languages: Common, Gnomish, Halfling
   tools: —
   spellcasting_ability: cha
   spell_save_dc: '14'
   spell_attack: '+6'
-  spell_slots: '1st 4/4
-
-    2nd 0/2'
   spell_slots_json: '[{"level": 1, "label": "1st", "max": 4}, {"level": 2, "label":
     "2nd", "max": 2}]'
   spell_slots_used_json: '{"2": 2}'
@@ -218,214 +191,78 @@ dynamic_sheet:
     or carried to fly to your open hand. The object must weigh no more than 10 pounds
     or the spell fails."}]'
   ddb_last_sync: 2026-07-10 07:34 UTC
-  features_traits: '<strong>Lucky.</strong> When you roll a 1 on the d20 for an attack
-    roll, ability check, or saving throw, you can reroll the die and must use the
-    new roll.<br>
-
-    <strong>Brave.</strong> You have advantage on saving throws against being frightened.<br>
-
-    <strong>Halfling Nimbleness.</strong> You can move through the space of any creature
-    that is of a size larger than yours.<br>
-
-    <strong>Ability Score Increase.</strong> Your Dexterity score increases by 2.<br>
-
-    <strong>Languages.</strong> You can speak, read, and write Common and Halfling.
-    The Halfling language isn’t secret, but halflings are loath to share it with others.
-    They write very little, so they don’t have a rich body of literature. Their oral
-    tradition, however, is very strong. Almost all halflings speak Common to converse
-    with the people in whose lands they dwell or through which they are traveling.<br>
-
-    <strong>Age.</strong> A halfling reaches adulthood at the age of 20 and generally
-    lives into the middle of his or her second century.<br>
-
-    <strong>Size.</strong> Halflings average about 3 feet tall and weigh about 40
-    pounds. Your size is Small.<br>
-
-    <strong>Speed.</strong> Your base walking speed is 25 feet.<br>
-
-    <strong>Naturally Stealthy.</strong> You can attempt to hide even when you are
-    obscured only by a creature that is at least one size larger than you.<br>
-
-    <strong>Ability Score Increase.</strong> Your Charisma score increases by 1.<br>
-
-    <strong>Wild Magic Surge.</strong> Once per turn, the DM can have you roll a d20
-    immediately after you cast a sorcerer spell of 1st level or higher. If you roll
-    a 1, roll on the Wild Magic Surge table to create a magical effect.<br>
-
-    <strong>Tides of Chaos.</strong> Once per long rest, you can gain advantage on
-    one attack roll, ability check, or saving throw. Before you regain use of this
-    feature, the DM can have you roll on the Wild Magic Surge table after you cast
-    a 1st level or higher spell. You then regain the use of this feature.<br>
-
-    <strong>Spellcasting.</strong> You can cast known sorcerer spells using CHA as
-    your spellcasting modifier (Spell DC 14, Spell Attack +6). You can use an arcane
-    focus as a spellcasting focus.<br>
-
-    <strong>Sorcerous Origin.</strong> Choose a sorcerous origin, which describes
-    the source of your innate magical power: Draconic Bloodline, detailed at the end
-    of the class description, or one from another source. Your choice grants you features
-    when you choose it at 1st level and again at 6th, 14th, and 18th level.<br>
-
-    <strong>Font of Magic.</strong> You have 3 sorcery points that you regain when
-    you finish a long rest. You can use your sorcery points to gain additional spell
-    slots or sacrifice spell slots to gain additional sorcery points as a bonus action.<br>
-
-    <strong>Metamagic.</strong> You gain the ability to twist spells to suit your
-    needs.<br>
-
-    <strong>Proficiencies.</strong> Armor: None Weapons: Daggers, darts, slings, quarterstaffs,
-    light crossbows Tools: None Saving Throws: Constitution, Charisma Skills: Choose
-    two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion<br>
-
-    <strong>Hit Points.</strong> Hit Dice: 1d6 per sorcerer level Hit Points at 1st
-    Level: 6 + your Constitution modifier Hit Points at Higher Levels: 1d6 (or 4)
-    + your Constitution modifier per sorcerer level after 1st<br>
-
-    <strong>Equipment.</strong> You start with the following equipment, in addition
-    to the equipment granted by your background: (a) a light crossbow and 20 bolts
-    or (b) any simple weapon (a) a component pouch or (b) an arcane focus (a) a dungeoneer’s
-    pack or (b) an explorer’s pack Two daggers<br>
-
-    <strong>Hero''s Journey Boon.</strong> At your GM''s discretion you have been
-    granted a Hero''s Journey Boon.<br>
-
-    <strong>Dark Bargain.</strong> At your GM''s discretion, you have taken a Dark
-    Bargain.'
+  avatar_url: <img src="https://www.dndbeyond.com/avatars/54284/245/1581111423-151085741.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp"
+    alt="">
+  actions: "<strong>Dagger.</strong> +1 to hit, range 20 ft., 1d4 piercing<br>\r\n\
+    <strong>Crossbow, Light.</strong> +1 to hit, range 80 ft., 1d8 piercing<br>\r\n\
+    <strong>Sorcery Points.</strong> You have 3 sorcery points that you regain when\
+    \ you finish a long rest.<br>\r\n<strong>Metamagic - Twinned Spell.</strong> You\
+    \ can spend sorcery points equal to a spell's level (1 for a cantrip) to target\
+    \ a second creature in range with the same spell, as long as the spell at the\
+    \ level it's being cast is incapable of targeting more than one creature.<br>\r\
+    \n<strong>Tides of Chaos.</strong> Once per long rest, you can gain advantage\
+    \ on one attack roll, ability check, or saving throw. Before you regain use of\
+    \ this feature, the DM can have you roll on the Wild Magic Surge table after you\
+    \ cast a 1st level or higher spell. You then regain the use of this feature.<br>\r\
+    \n<strong>Metamagic - Quickened Spell.</strong> When you cast a spell that has\
+    \ a casting time of 1 action, you can spend 2 sorcery points to change the casting\
+    \ time to 1 bonus action for this casting."
+  bonus_actions: <strong>Convert Sorcery Points.</strong> You can use your sorcery
+    points to gain additional spell slots or sacrifice spell slots to gain additional
+    sorcery points as a bonus action.
+  spell_slots: "1st 4/4\r\n2nd 0/2"
+  features_traits: "<strong>Lucky.</strong> When you roll a 1 on the d20 for an attack\
+    \ roll, ability check, or saving throw, you can reroll the die and must use the\
+    \ new roll.<br>\r\n<strong>Brave.</strong> You have advantage on saving throws\
+    \ against being frightened.<br>\r\n<strong>Halfling Nimbleness.</strong> You can\
+    \ move through the space of any creature that is of a size larger than yours.<br>\r\
+    \n<strong>Ability Score Increase.</strong> Your Dexterity score increases by 2.<br>\r\
+    \n<strong>Languages.</strong> You can speak, read, and write Common and Halfling.\
+    \ The Halfling language isn’t secret, but halflings are loath to share it with\
+    \ others. They write very little, so they don’t have a rich body of literature.\
+    \ Their oral tradition, however, is very strong. Almost all halflings speak Common\
+    \ to converse with the people in whose lands they dwell or through which they\
+    \ are traveling.<br>\r\n<strong>Age.</strong> A halfling reaches adulthood at\
+    \ the age of 20 and generally lives into the middle of his or her second century.<br>\r\
+    \n<strong>Size.</strong> Halflings average about 3 feet tall and weigh about 40\
+    \ pounds. Your size is Small.<br>\r\n<strong>Speed.</strong> Your base walking\
+    \ speed is 25 feet.<br>\r\n<strong>Naturally Stealthy.</strong> You can attempt\
+    \ to hide even when you are obscured only by a creature that is at least one size\
+    \ larger than you.<br>\r\n<strong>Ability Score Increase.</strong> Your Charisma\
+    \ score increases by 1.<br>\r\n<strong>Wild Magic Surge.</strong> Once per turn,\
+    \ the DM can have you roll a d20 immediately after you cast a sorcerer spell of\
+    \ 1st level or higher. If you roll a 1, roll on the Wild Magic Surge table to\
+    \ create a magical effect.<br>\r\n<strong>Tides of Chaos.</strong> Once per long\
+    \ rest, you can gain advantage on one attack roll, ability check, or saving throw.\
+    \ Before you regain use of this feature, the DM can have you roll on the Wild\
+    \ Magic Surge table after you cast a 1st level or higher spell. You then regain\
+    \ the use of this feature.<br>\r\n<strong>Spellcasting.</strong> You can cast\
+    \ known sorcerer spells using CHA as your spellcasting modifier (Spell DC 14,\
+    \ Spell Attack +6). You can use an arcane focus as a spellcasting focus.<br>\r\
+    \n<strong>Sorcerous Origin.</strong> Choose a sorcerous origin, which describes\
+    \ the source of your innate magical power: Draconic Bloodline, detailed at the\
+    \ end of the class description, or one from another source. Your choice grants\
+    \ you features when you choose it at 1st level and again at 6th, 14th, and 18th\
+    \ level.<br>\r\n<strong>Font of Magic.</strong> You have 3 sorcery points that\
+    \ you regain when you finish a long rest. You can use your sorcery points to gain\
+    \ additional spell slots or sacrifice spell slots to gain additional sorcery points\
+    \ as a bonus action.<br>\r\n<strong>Metamagic.</strong> You gain the ability to\
+    \ twist spells to suit your needs.<br>\r\n<strong>Proficiencies.</strong> Armor:\
+    \ None Weapons: Daggers, darts, slings, quarterstaffs, light crossbows Tools:\
+    \ None Saving Throws: Constitution, Charisma Skills: Choose two from Arcana, Deception,\
+    \ Insight, Intimidation, Persuasion, and Religion<br>\r\n<strong>Hit Points.</strong>\
+    \ Hit Dice: 1d6 per sorcerer level Hit Points at 1st Level: 6 + your Constitution\
+    \ modifier Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier\
+    \ per sorcerer level after 1st<br>\r\n<strong>Equipment.</strong> You start with\
+    \ the following equipment, in addition to the equipment granted by your background:\
+    \ (a) a light crossbow and 20 bolts or (b) any simple weapon (a) a component pouch\
+    \ or (b) an arcane focus (a) a dungeoneer’s pack or (b) an explorer’s pack Two\
+    \ daggers<br>\r\n<strong>Hero's Journey Boon.</strong> At your GM's discretion\
+    \ you have been granted a Hero's Journey Boon.<br>\r\n<strong>Dark Bargain.</strong>\
+    \ At your GM's discretion, you have taken a Dark Bargain."
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457590/WhatsApp_Image_2026-01-15_at_14.33.55.jpeg
 ---
-
-<!-- OP_DDB_SHEET -->
-<div class="ddb-sheet">
-  <div class="ddb-header">
-    <div class="ddb-header-main">
-      <h1 class="ddb-name">Wilrin RavenGlade</h1>
-      <p class="ddb-subtitle">Sorcerer (Wild Magic) 3</p>
-      <ul class="ddb-meta">
-        <li><span class="ddb-label">Proficiency</span> +2</li>
-        <li><span class="ddb-label">Inspiration</span> No</li>
-      </ul>
-      <p class="ddb-links">Ne0ni · The Lords of Sindrel</p>
-    </div>
-    <div class="ddb-avatar-wrap"><img src="https://www.dndbeyond.com/avatars/54284/245/1581111423-151085741.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp" alt=""></div>
-  </div>
-
-  <div class="ddb-section ddb-defenses">
-    <h2 class="ddb-section-title">Defenses</h2>
-    <div class="ddb-pill-grid">
-      <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">13</span></div>
-      <div class="ddb-pill ddb-pill-wide">
-        <span class="ddb-pill-label">HP</span>
-        <span class="ddb-pill-value">13</span>
-        <span class="ddb-pill-sep">/</span>
-        <span class="ddb-pill-value">14</span>
-      </div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Temp</span><span class="ddb-pill-value">0</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">25 ft.</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+3</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
-    </div>
-
-  </div>
-
-  <div class="ddb-columns">
-    <div class="ddb-section">
-      <h2 class="ddb-section-title">Abilities</h2>
-      <div class="ddb-ability-grid">
-        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">9 (-1)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">16 (+3)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">13 (+1)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">12 (+1)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">15 (+2)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">19 (+4)</span></div>
-      </div>
-      <h3 class="ddb-subsection-title">Saving Throws</h3>
-      <div class="ddb-ability-grid">
-        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">-1</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">+3</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+3 *</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">+1</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+2</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+6 *</span></div>
-      </div>
-    </div>
-
-    <div class="ddb-section">
-      <h2 class="ddb-section-title">Skills &amp; Senses</h2>
-      <div class="ddb-block ddb-skills"><h3 class="ddb-subsection-title">STR</h3><br>
-<div class="ddb-block ddb-skill-group">Athletics -1</div><br>
-<h3 class="ddb-subsection-title">DEX</h3><br>
-<div class="ddb-block ddb-skill-group">Acrobatics +3<br><br>
-Sleight Of Hand +3<br><br>
-Stealth +3</div><br>
-<h3 class="ddb-subsection-title">INT</h3><br>
-<div class="ddb-block ddb-skill-group">Arcana +3 *<br><br>
-History +1<br><br>
-Investigation +1<br><br>
-Nature +1<br><br>
-Religion +1</div><br>
-<h3 class="ddb-subsection-title">WIS</h3><br>
-<div class="ddb-block ddb-skill-group">Animal Handling +2<br><br>
-Insight +2<br><br>
-Medicine +2<br><br>
-Perception +2<br><br>
-Survival +4 *</div><br>
-<h3 class="ddb-subsection-title">CHA</h3><br>
-<div class="ddb-block ddb-skill-group">Deception +6 *<br><br>
-Intimidation +4<br><br>
-Performance +4<br><br>
-Persuasion +6 *</div></div>
-      <div class="ddb-sense-row">
-        <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">12</span></div>
-        <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">11</span></div>
-        <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">12</span></div>
-      </div>
-    </div>
-  </div>
-
-  <div class="ddb-section">
-<h2 class="ddb-section-title">Combat</h2>
-<h3 class="ddb-subsection-title">Actions</h3>
-<div class="ddb-block"><strong>Dagger.</strong> +1 to hit, range 20 ft., 1d4 piercing<br>
-<strong>Crossbow, Light.</strong> +1 to hit, range 80 ft., 1d8 piercing<br>
-<strong>Sorcery Points.</strong> You have 3 sorcery points that you regain when you finish a long rest.<br>
-<strong>Metamagic - Twinned Spell.</strong> You can spend sorcery points equal to a spell's level (1 for a cantrip) to target a second creature in range with the same spell, as long as the spell at the level it's being cast is incapable of targeting more than one creature.<br>
-<strong>Tides of Chaos.</strong> Once per long rest, you can gain advantage on one attack roll, ability check, or saving throw. Before you regain use of this feature, the DM can have you roll on the Wild Magic Surge table after you cast a 1st level or higher spell. You then regain the use of this feature.<br>
-<strong>Metamagic - Quickened Spell.</strong> When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.</div>
-<h3 class="ddb-subsection-title">Bonus Actions</h3>
-<div class="ddb-block"><strong>Convert Sorcery Points.</strong> You can use your sorcery points to gain additional spell slots or sacrifice spell slots to gain additional sorcery points as a bonus action.</div>
-</div>
-
-
-
-  <div class="ddb-columns ddb-bottom-row">
-    <div class="ddb-section ddb-half">
-      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
-      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Crossbow, Light, Dagger, Dart, Flute, Quarterstaff, Sling</span></div>
-      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Gnomish, Halfling</span></div>
-      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
-    </div>
-      <div class="ddb-section ddb-half">
-    <h2 class="ddb-section-title">Spellcasting</h2>
-    <div class="ddb-spell-header">
-      <div><span class="ddb-label">Ability</span> cha</div>
-      <div><span class="ddb-label">Save DC</span> 14</div>
-      <div><span class="ddb-label">Attack</span> +6</div>
-    </div>
-    <h3 class="ddb-subsection-title">Spell Slots</h3>
-    <div class="ddb-block">1st 4/4<br>
-2nd 0/2</div>
-    <h3 class="ddb-subsection-title">Spells Prepared / Known</h3>
-    <div class="ddb-block">Cantrips: Fire Bolt, Mage Hand, Minor Illusion, Retrieve</div>
-  </div>
-
-  </div>
-
-  <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-10 08:42 UTC</p>
-    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
-  </div>
-</div>
 
 <!-- OP_DESCRIPTION -->
 Wilrin is a halfling sorcerer — slight of frame, sharp of cheekbone, with rounded ears flushed pink at the tips. His hair and beard are the same dark burgundy, the beard trimmed neat and the hair swept back in layered spikes. His complexion is pale; his eyes do not match — one dark and watchful, the other unnaturally pale, a reminder of the [[The Fallowhurst Sigil | Fallowhurst sigil]] that bound him. He dresses in a fitted wine-dark coat embroidered with curling spiral work at the chest and closed with a row of polished buttons.
@@ -488,4 +325,7 @@ h2. Midsummer Enclave
 
 The time fuckery of the [[Midsummer Enclave | Midsummer Enclave]] means that Wilrin's experiences within it do not have to line up temporally with the rest of the world. He may have returned before he left — his parents can be young, active members of society!
 
+h2. The Sigil
+
+Injudicious use of [[The Fallowhurst Sigil | The Fallowhurst Sigil]] has left Wilrin indelibly bonded to [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]]. Whenever [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] takes damage, Wilrin should roll 1d8. On a 1, [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] takes half damage (rounded up) and Wilrin takes the difference.
 <!-- GM_INFO_END -->

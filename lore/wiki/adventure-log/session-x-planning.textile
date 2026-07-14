@@ -1,0 +1,39 @@
+---
+op_id: e29c0674519f48e68f931ab80cac0f3a
+op_slug: session-x-planning
+op_kind: Wiki
+op_type: Post
+name: 'Session X: Planning'
+title: 'Session X: Planning'
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-x-planning
+op_created_at: '2026-07-14T17:41:44Z'
+op_updated_at: '2026-07-14T17:45:32Z'
+op_gm_only: true
+tags: []
+post_title: 'Session X: Planning'
+post_time: '2026-07-14T17:30:00Z'
+---
+
+Notes: This page is for future planning and will never be published.
+
+h2. The Summons
+
+The party attend House  Oestra and are shouted at for their troubles.
+
+h2. Info from the Black Cats
+
+* A new group muscled in on the waste cart business - initially the cats thought this was a new criminal enterprise but they showed no intention to expand beyond one cart.
+* Precise information on their movements is hard to interpret - Scratches set to watch them proved to be unequal to the task - they kept popping up where they shouldn't be (the intention is that the players can put 2 and 2 together and figure out that they were using the interconnected archives to get around; the black cats don't know this).
+* Known individuals (there are notes on these somewhere).
+
+Potential routes from here:
+
+1. 
+
+h2. Consequences of Handing the Sigil to The Black Cats
+
+Nothing immediate, the cats will beginning attempting to utilise it leading to an increase in reports of hauntings and other spookies.
+
+h2. Dulcinia
+
+What's going on with her off-screen? What does getting help from the houses of healing actually entail? Probably not a one-and-done, magical sustain of life - she's tied to sindrel.

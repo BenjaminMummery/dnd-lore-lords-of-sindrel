@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-07-14T10:49:12Z",
-  "last_portal_pull": "2026-07-14T10:38:30Z",
+  "last_portal_pull": "2026-07-14T20:29:22Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -1027,9 +1027,9 @@
       "op_id": "72799128ec3843bbb489b2f8b72126af",
       "op_kind": "Character",
       "op_slug": "wilrin-racenglade",
-      "op_updated_at": "2026-07-14T10:40:10Z",
+      "op_updated_at": "2026-07-14T10:51:56Z",
       "repo_blob_sha": "a242d1bb1d4f1b16405be32a84703a6df13f1a37",
-      "repo_hash_at_sync": "82537314b3b8304eca46c7a0e3b22b8a6112fe4a5339e9e3068448ec973a97ab",
+      "repo_hash_at_sync": "76a9326ac7164538908389c6e4664b3e16980cf0d561e3711c491dcd0050783e",
       "repo_path": "lore/characters/wilrin-racenglade.textile"
     },
     "72c6d96ea30544f5b06f749d4aa2b5b2": {
@@ -1791,6 +1791,16 @@
       "repo_blob_sha": "bedbf4926028393596986bfd4d1a5bed48e9feac",
       "repo_hash_at_sync": "e138bc78283e8cab3050ea1115b22aa3ec892cbca7c78f3f0505873bb0be2cde",
       "repo_path": "lore/characters/hielaman.textile"
+    },
+    "e29c0674519f48e68f931ab80cac0f3a": {
+      "last_synced_title": "Session X: Planning",
+      "op_id": "e29c0674519f48e68f931ab80cac0f3a",
+      "op_kind": "Wiki",
+      "op_slug": "session-x-planning",
+      "op_updated_at": "2026-07-14T17:45:32Z",
+      "repo_blob_sha": null,
+      "repo_hash_at_sync": "83be594049e8e6d0bed2ba2586c0e65ddc7da9cf770f7667457fb7321a0bceed",
+      "repo_path": "lore/wiki/adventure-log/session-x-planning.textile"
     },
     "e2da37ba92ce4862a0165713a93c5a64": {
       "last_synced_title": "Osteomantic Archives",
