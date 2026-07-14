@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-07-14T10:41:21Z",
+  "last_git_publish": "2026-07-14T10:43:13Z",
   "last_portal_pull": "2026-07-14T10:38:30Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -1148,7 +1148,7 @@
       "op_kind": "Character",
       "op_slug": "swyfgrin",
       "op_updated_at": "2026-07-14T10:40:04Z",
-      "repo_blob_sha": "634763a81765d880d55f41d3e944893ed6ee1db3",
+      "repo_blob_sha": "96c7a9497e76174321e65dfbf03f2f38ae2f8b31",
       "repo_hash_at_sync": "f0e9b0fbf9c4234600b6b42d3bd5017104af7f5fed31662e6ec00db8e71a2282",
       "repo_path": "lore/characters/swyfgrin.textile"
     },
@@ -1338,8 +1338,8 @@
       "op_kind": "Character",
       "op_slug": "queen-aubryn",
       "op_updated_at": "2026-07-14T10:39:48Z",
-      "repo_blob_sha": "1598bd3c32cea00e64e86f0bf8327454024c478c",
-      "repo_hash_at_sync": "714a1f2f6ec24f437a441a55ba8981314eb17afca8b64135d270b7399989b57d",
+      "repo_blob_sha": "db0da98dec00e7ae1e3ed881199cedeed5ad2e45",
+      "repo_hash_at_sync": "dfbac07b33079ab8f0e02f7904e076695cadfcaa3132e9258d18b442de38f367",
       "repo_path": "lore/characters/queen-aubryn.textile"
     },
     "acc2981d5b254210810f6c765df8c6c1": {
