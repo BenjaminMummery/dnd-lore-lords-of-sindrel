@@ -7,7 +7,7 @@ name: Pin
 title: Pin
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/pin
 op_created_at: '2025-12-14T17:12:16Z'
-op_updated_at: '2026-07-10T07:36:50Z'
+op_updated_at: '2026-07-14T10:07:37Z'
 op_gm_only: false
 is_player_character: true
 tags:
@@ -17,7 +17,6 @@ dynamic_sheet:
   class_summary: Fighter (Battle Master) 3
   prof_bonus: '+2'
   player_campaign: 165309 · The Lords of Sindrel
-  avatar_url: https://www.dndbeyond.com/avatars/54026/691/1581111423-159193691.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
   ac: '13'
   hp_current: '22'
   hp_max: '22'
@@ -116,35 +115,6 @@ dynamic_sheet:
   passive_insight: '11'
   inspiration: 'No'
   temp_hp: '0'
-  actions: 'Longsword. +5 to hit, range 5 ft., 1d8 slashing
-
-    Handaxe. +5 to hit, range 20 ft., 1d6 slashing
-
-    Longbow. +5 to hit, range 150 ft., 1d8 piercing
-
-    Action Surge. You can take one additional action on your turn. This can be used
-    times per short rest.
-
-    Superiority Dice. You learn maneuvers that are fueled by superiority dice. Maneuvers
-    enhance an attack in some way. You have superiority dice per short rest.'
-  bonus_actions: 'Second Wind. Once per short rest, you can use a bonus action to
-    regain 1d10 + 3 HP.
-
-    Maneuvers: Commander’s Strike. When you take the Attack action on your turn, you
-    can forgo one of your attacks and use a bonus action to direct an ally that can
-    see or hear you to strike using its reaction, adding the superiority die to the
-    damage roll.'
-  reactions: 'Fighting Style: Protection. While wielding a shield and a creature you
-    can see attacks a target other than you within 5 ft., you can use your reaction
-    to impose disadvantage on the attack roll.
-
-    Maneuvers: Parry. When another creature damages you with a melee attack, you can
-    use your reaction and expend one superiority die to reduce the damage by the number
-    you roll on your superiority die +0.
-
-    Maneuvers: Riposte. When a creature misses you with a melee attack, you can use
-    your reaction and expend one superiority die to make a melee weapon attack against
-    it (add the superiority die to the attack’s damage roll on hit).'
   proficiencies: Heavy Armor, Light Armor, Medium Armor, Shields; Martial Weapons,
     Simple Weapons; Cook's Utensils, Playing Card Set, Shields, Vehicles (Land)
   languages: Common, Dwarvish
@@ -153,190 +123,66 @@ dynamic_sheet:
   spell_slots_used_json: '{}'
   spells_json: '[]'
   ddb_last_sync: 2026-07-10 07:33 UTC
-  features_traits: '<strong>Languages.</strong> You can speak, read, and write Common
-    and one extra language.<br>
-
-    <strong>Ability Score Increase.</strong> Your ability scores each increase by
-    1.<br>
-
-    <strong>Age.</strong> Humans reach adulthood in their late teens and live less
-    than a century.<br>
-
-    <strong>Size.</strong> Humans vary widely in height and build, from barely 5 feet
-    to well over 6 feet tall. Regardless of your position in that range, your size
-    is Medium.<br>
-
-    <strong>Speed.</strong> Your base walking speed is 30 feet.<br>
-
-    <strong>Combat Superiority.</strong> You learn maneuvers that are fueled by superiority
-    dice. Maneuvers enhance an attack in some way. You have superiority dice per short
-    rest.<br>
-
-    <strong>Student of War.</strong> You gain proficiency with one type of artisan’s
-    tools.<br>
-
-    <strong>Maneuvers.</strong> The maneuvers are presented in alphabetical order.<br>
-
-    <strong>Fighting Style.</strong> You adopt a fighting style specialty.<br>
-
-    <strong>Second Wind.</strong> Once per short rest, you can use a bonus action
-    to regain 1d10 + 3 HP.<br>
-
-    <strong>Action Surge.</strong> You can take one additional action on your turn.
-    This can be used 1 times per short rest.<br>
-
-    <strong>Martial Archetype.</strong> At 3rd level, you choose an archetype that
-    you strive to emulate in your combat styles and techniques. Choose Champion, Battle
-    Master, or Eldritch Knight, all detailed at the end of the class description.
-    The archetype you choose grants you features at 3rd level and again at 7th, 10th,
-    15th, and 18th level.<br>
-
-    <strong>Proficiencies.</strong> Armor: All armor, shields Weapons: Simple weapons,
-    martial weapons Tools: None Saving Throws: Strength, Constitution Skills: Choose
-    two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation,
-    Perception, and Survival<br>
-
-    <strong>Hit Points.</strong> Hit Dice: 1d10 per fighter level Hit Points at 1st
-    Level: 10 + your Constitution modifier Hit Points at Higher Levels: 1d10 (or 6)
-    + your Constitution modifier per fighter level after 1st<br>
-
-    <strong>Equipment.</strong> You start with the following equipment, in addition
-    to the equipment granted by your background: (a) chain mail or (b) leather armor,
-    longbow, and 20 arrows (a) a martial weapon and a shield or (b) two martial weapons
-    (a) a light crossbow and 20 bolts or (b) two handaxes (a) a dungeoneer’s pack
-    or (b) an explorer’s pack<br>
-
-    <strong>Hero''s Journey Boon.</strong> At your GM''s discretion you have been
-    granted a Hero''s Journey Boon.<br>
-
-    <strong>Dark Bargain.</strong> At your GM''s discretion, you have taken a Dark
-    Bargain.'
+  avatar_url: <img src="https://www.dndbeyond.com/avatars/54026/691/1581111423-159193691.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp"
+    alt="">
+  actions: "<strong>Longsword.</strong> +5 to hit, range 5 ft., 1d8 slashing<br>\r\
+    \n<strong>Handaxe.</strong> +5 to hit, range 20 ft., 1d6 slashing<br>\r\n<strong>Longbow.</strong>\
+    \ +5 to hit, range 150 ft., 1d8 piercing<br>\r\n<strong>Action Surge.</strong>\
+    \ You can take one additional action on your turn. This can be used times per\
+    \ short rest.<br>\r\n<strong>Superiority Dice.</strong> You learn maneuvers that\
+    \ are fueled by superiority dice. Maneuvers enhance an attack in some way. You\
+    \ have superiority dice per short rest."
+  bonus_actions: "<strong>Second Wind.</strong> Once per short rest, you can use a\
+    \ bonus action to regain 1d10 + 3 HP.<br>\r\n<strong>Maneuvers: Commander’s Strike.</strong>\
+    \ When you take the Attack action on your turn, you can forgo one of your attacks\
+    \ and use a bonus action to direct an ally that can see or hear you to strike\
+    \ using its reaction, adding the superiority die to the damage roll."
+  reactions: "<strong>Fighting Style: Protection.</strong> While wielding a shield\
+    \ and a creature you can see attacks a target other than you within 5 ft., you\
+    \ can use your reaction to impose disadvantage on the attack roll.<br>\r\n<strong>Maneuvers:\
+    \ Parry.</strong> When another creature damages you with a melee attack, you can\
+    \ use your reaction and expend one superiority die to reduce the damage by the\
+    \ number you roll on your superiority die +0.<br>\r\n<strong>Maneuvers: Riposte.</strong>\
+    \ When a creature misses you with a melee attack, you can use your reaction and\
+    \ expend one superiority die to make a melee weapon attack against it (add the\
+    \ superiority die to the attack’s damage roll on hit)."
+  features_traits: "<strong>Languages.</strong> You can speak, read, and write Common\
+    \ and one extra language.<br>\r\n<strong>Ability Score Increase.</strong> Your\
+    \ ability scores each increase by 1.<br>\r\n<strong>Age.</strong> Humans reach\
+    \ adulthood in their late teens and live less than a century.<br>\r\n<strong>Size.</strong>\
+    \ Humans vary widely in height and build, from barely 5 feet to well over 6 feet\
+    \ tall. Regardless of your position in that range, your size is Medium.<br>\r\n\
+    <strong>Speed.</strong> Your base walking speed is 30 feet.<br>\r\n<strong>Combat\
+    \ Superiority.</strong> You learn maneuvers that are fueled by superiority dice.\
+    \ Maneuvers enhance an attack in some way. You have superiority dice per short\
+    \ rest.<br>\r\n<strong>Student of War.</strong> You gain proficiency with one\
+    \ type of artisan’s tools.<br>\r\n<strong>Maneuvers.</strong> The maneuvers are\
+    \ presented in alphabetical order.<br>\r\n<strong>Fighting Style.</strong> You\
+    \ adopt a fighting style specialty.<br>\r\n<strong>Second Wind.</strong> Once\
+    \ per short rest, you can use a bonus action to regain 1d10 + 3 HP.<br>\r\n<strong>Action\
+    \ Surge.</strong> You can take one additional action on your turn. This can be\
+    \ used 1 times per short rest.<br>\r\n<strong>Martial Archetype.</strong> At 3rd\
+    \ level, you choose an archetype that you strive to emulate in your combat styles\
+    \ and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed\
+    \ at the end of the class description. The archetype you choose grants you features\
+    \ at 3rd level and again at 7th, 10th, 15th, and 18th level.<br>\r\n<strong>Proficiencies.</strong>\
+    \ Armor: All armor, shields Weapons: Simple weapons, martial weapons Tools: None\
+    \ Saving Throws: Strength, Constitution Skills: Choose two skills from Acrobatics,\
+    \ Animal Handling, Athletics, History, Insight, Intimidation, Perception, and\
+    \ Survival<br>\r\n<strong>Hit Points.</strong> Hit Dice: 1d10 per fighter level\
+    \ Hit Points at 1st Level: 10 + your Constitution modifier Hit Points at Higher\
+    \ Levels: 1d10 (or 6) + your Constitution modifier per fighter level after 1st<br>\r\
+    \n<strong>Equipment.</strong> You start with the following equipment, in addition\
+    \ to the equipment granted by your background: (a) chain mail or (b) leather armor,\
+    \ longbow, and 20 arrows (a) a martial weapon and a shield or (b) two martial\
+    \ weapons (a) a light crossbow and 20 bolts or (b) two handaxes (a) a dungeoneer’s\
+    \ pack or (b) an explorer’s pack<br>\r\n<strong>Hero's Journey Boon.</strong>\
+    \ At your GM's discretion you have been granted a Hero's Journey Boon.<br>\r\n\
+    <strong>Dark Bargain.</strong> At your GM's discretion, you have taken a Dark\
+    \ Bargain."
 dynamic_sheet_template_id: 38274b74909343e1a3e95400091308c3
 avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457450/WhatsApp_Image_2026-01-11_at_12.12.06.jpeg
 ---
-
-<!-- OP_DDB_SHEET -->
-<div class="ddb-sheet">
-  <div class="ddb-header">
-    <div class="ddb-header-main">
-      <h1 class="ddb-name">Pin</h1>
-      <p class="ddb-subtitle">Fighter (Battle Master) 3</p>
-      <ul class="ddb-meta">
-        <li><span class="ddb-label">Proficiency</span> +2</li>
-        <li><span class="ddb-label">Inspiration</span> No</li>
-      </ul>
-      <p class="ddb-links">165309 · The Lords of Sindrel</p>
-    </div>
-    <div class="ddb-avatar-wrap"><img src="https://www.dndbeyond.com/avatars/54026/691/1581111423-159193691.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp" alt=""></div>
-  </div>
-
-  <div class="ddb-section ddb-defenses">
-    <h2 class="ddb-section-title">Defenses</h2>
-    <div class="ddb-pill-grid">
-      <div class="ddb-pill"><span class="ddb-pill-label">AC</span><span class="ddb-pill-value">13</span></div>
-      <div class="ddb-pill ddb-pill-wide">
-        <span class="ddb-pill-label">HP</span>
-        <span class="ddb-pill-value">22</span>
-        <span class="ddb-pill-sep">/</span>
-        <span class="ddb-pill-value">22</span>
-      </div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Temp</span><span class="ddb-pill-value">0</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Speed</span><span class="ddb-pill-value">30 ft.</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Init</span><span class="ddb-pill-value">+2</span></div>
-      <div class="ddb-pill"><span class="ddb-pill-label">Hit Dice</span><span class="ddb-pill-value"></span></div>
-    </div>
-
-  </div>
-
-  <div class="ddb-columns">
-    <div class="ddb-section">
-      <h2 class="ddb-section-title">Abilities</h2>
-      <div class="ddb-ability-grid">
-        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">16 (+3)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">14 (+2)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">15 (+2)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">9 (-1)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">13 (+1)</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">11 (+0)</span></div>
-      </div>
-      <h3 class="ddb-subsection-title">Saving Throws</h3>
-      <div class="ddb-ability-grid">
-        <div class="ddb-ability"><span class="ddb-ability-label">STR</span><span class="ddb-ability-value">+5 *</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">DEX</span><span class="ddb-ability-value">+2</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CON</span><span class="ddb-ability-value">+4 *</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">INT</span><span class="ddb-ability-value">-1</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">WIS</span><span class="ddb-ability-value">+1</span></div>
-        <div class="ddb-ability"><span class="ddb-ability-label">CHA</span><span class="ddb-ability-value">+0</span></div>
-      </div>
-    </div>
-
-    <div class="ddb-section">
-      <h2 class="ddb-section-title">Skills &amp; Senses</h2>
-      <div class="ddb-block ddb-skills"><h3 class="ddb-subsection-title">STR</h3><br>
-<div class="ddb-block ddb-skill-group">Athletics +5 *</div><br>
-<h3 class="ddb-subsection-title">DEX</h3><br>
-<div class="ddb-block ddb-skill-group">Acrobatics +2<br><br>
-Sleight Of Hand +2<br><br>
-Stealth +2</div><br>
-<h3 class="ddb-subsection-title">INT</h3><br>
-<div class="ddb-block ddb-skill-group">Arcana -1<br><br>
-History -1<br><br>
-Investigation -1<br><br>
-Nature -1<br><br>
-Religion -1</div><br>
-<h3 class="ddb-subsection-title">WIS</h3><br>
-<div class="ddb-block ddb-skill-group">Animal Handling +1<br><br>
-Insight +1<br><br>
-Medicine +1<br><br>
-Perception +3 *<br><br>
-Survival +3 *</div><br>
-<h3 class="ddb-subsection-title">CHA</h3><br>
-<div class="ddb-block ddb-skill-group">Deception +0<br><br>
-Intimidation +2 *<br><br>
-Performance +0<br><br>
-Persuasion +0</div></div>
-      <div class="ddb-sense-row">
-        <div><span class="ddb-sense-label">Passive Perception</span><span class="ddb-sense-value">13</span></div>
-        <div><span class="ddb-sense-label">Passive Investigation</span><span class="ddb-sense-value">9</span></div>
-        <div><span class="ddb-sense-label">Passive Insight</span><span class="ddb-sense-value">11</span></div>
-      </div>
-    </div>
-  </div>
-
-  <div class="ddb-section">
-<h2 class="ddb-section-title">Combat</h2>
-<h3 class="ddb-subsection-title">Actions</h3>
-<div class="ddb-block"><strong>Longsword.</strong> +5 to hit, range 5 ft., 1d8 slashing<br>
-<strong>Handaxe.</strong> +5 to hit, range 20 ft., 1d6 slashing<br>
-<strong>Longbow.</strong> +5 to hit, range 150 ft., 1d8 piercing<br>
-<strong>Action Surge.</strong> You can take one additional action on your turn. This can be used times per short rest.<br>
-<strong>Superiority Dice.</strong> You learn maneuvers that are fueled by superiority dice. Maneuvers enhance an attack in some way. You have superiority dice per short rest.</div>
-<h3 class="ddb-subsection-title">Bonus Actions</h3>
-<div class="ddb-block"><strong>Second Wind.</strong> Once per short rest, you can use a bonus action to regain 1d10 + 3 HP.<br>
-<strong>Maneuvers: Commander’s Strike.</strong> When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct an ally that can see or hear you to strike using its reaction, adding the superiority die to the damage roll.</div>
-<h3 class="ddb-subsection-title">Reactions</h3>
-<div class="ddb-block"><strong>Fighting Style: Protection.</strong> While wielding a shield and a creature you can see attacks a target other than you within 5 ft., you can use your reaction to impose disadvantage on the attack roll.<br>
-<strong>Maneuvers: Parry.</strong> When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die +0.<br>
-<strong>Maneuvers: Riposte.</strong> When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against it (add the superiority die to the attack’s damage roll on hit).</div>
-</div>
-
-
-
-  <div class="ddb-columns ddb-bottom-row">
-    <div class="ddb-section ddb-half">
-      <h2 class="ddb-section-title">Proficiencies &amp; Training</h2>
-      <div class="ddb-kv"><span class="ddb-label">Proficiencies</span><span class="ddb-kv-value">Heavy Armor, Light Armor, Medium Armor, Shields; Martial Weapons, Simple Weapons; Cook's Utensils, Playing Card Set, Shields, Vehicles (Land)</span></div>
-      <div class="ddb-kv"><span class="ddb-label">Languages</span><span class="ddb-kv-value">Common, Dwarvish</span></div>
-      <div class="ddb-kv"><span class="ddb-label">Tools</span><span class="ddb-kv-value">—</span></div>
-    </div>
-
-  </div>
-
-  <div class="ddb-footer">
-    <p class="ddb-sync"><span class="ddb-label">D&amp;D Beyond sync</span> 2026-07-10 08:42 UTC</p>
-    <p class="ddb-disclaimer">Unofficial fan layout inspired by digital character sheet sections. Not affiliated with Wizards of the Coast or D&amp;D Beyond.</p>
-  </div>
-</div>
 
 <!-- OP_DESCRIPTION -->
 A slim young man of about 5'9" — fair-skinned, brown-haired, green-eyed, wiry at a hundred and forty-five pounds. He carries himself with a soldier's quiet economy; watchful, hard to read. A young warrior seeking community, purpose and answers: does his sword hold the spirit of his dead friend, or is he losing his mind?
@@ -400,20 +246,4 @@ Soul-trap impressions (confirmed / possible / ruled out): see [[Hesh | Hesh]] GM
 h4. Distinction - Fallowhurst sigil
 
 The [[The Fallowhurst Sigil | Fallowhurst sigil]] is **unrelated** to the sword. Session 4 shop visits were about the binding circle from [[Fallowhurst College | Fallowhurst College]], not blade markings.
-
-h4. Roleplaying Notes
-
-Wants:
-* To find family and kinship once again
-* To find the courage to seek answers to the mystery surrounding Hesh and Essen
-
-Needs:
-* To accept that magic has its uses, and its practitioners can be allies, or even friends
-
-
-Current Thoughts and Opinions:
-* Sindril is a place to be feared. Those who wield magic so freely cannot be trusted
-* His new allies are ones of convenience, he feels little kinship with them
-* He is particularly wary of Wilrin and Deathwalker after their flagrant and careless misuse of blood magic.
-* The Anathemists may be on to something...
 <!-- GM_INFO_END -->
