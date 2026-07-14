@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-07-10T14:08:45Z",
-  "last_portal_pull": "2026-07-10T13:31:15Z",
+  "last_portal_pull": "2026-07-14T07:57:23Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -417,9 +417,9 @@
       "op_id": "27142b6fc6b246bf9f2b6e8ea11dbfac",
       "op_kind": "Character",
       "op_slug": "kithrak-ii",
-      "op_updated_at": "2026-07-09T12:19:38Z",
+      "op_updated_at": "2026-07-14T07:52:11Z",
       "repo_blob_sha": "1cc2540238a5fa134e08b2caf07cd3734d5d966a",
-      "repo_hash_at_sync": "397d4104eda5048e7f8147192f82490d9a0fefca2edf7a1f1d471faf64840517",
+      "repo_hash_at_sync": "41f32843db0893cca36a67553b88582f30d0e3deb41032a3de6c8b63038f84d0",
       "repo_path": "lore/characters/kithrak-ii.textile"
     },
     "296cf30dcb054a71bfcc585e8aedd604": {
@@ -587,9 +587,9 @@
       "op_id": "4101f6ab35084d1e9b100cbb94da82cd",
       "op_kind": "Character",
       "op_slug": "tama",
-      "op_updated_at": "2026-07-05T14:38:21Z",
+      "op_updated_at": "2026-07-14T07:55:28Z",
       "repo_blob_sha": "e4c708247952ffb9b723da96ae410087d374aace",
-      "repo_hash_at_sync": "8b7c74dec491e6eba042101ac737cdc6d4fb66f11e97279dbf6edca4d580a97d",
+      "repo_hash_at_sync": "1fa895da67fb50780e83f18677e6fac4c65ab659a6022f6248ff4d3a4bfc30f1",
       "repo_path": "lore/characters/tama.textile"
     },
     "4218123e54f44a588e83d83288cfc883": {
@@ -1617,9 +1617,9 @@
       "op_id": "c81fb8888f854632a2f5bcafa7b89e5a",
       "op_kind": "Wiki",
       "op_slug": "fallowhurst-college",
-      "op_updated_at": "2026-07-10T13:16:20Z",
+      "op_updated_at": "2026-07-14T07:44:41Z",
       "repo_blob_sha": "84f208d00917e96e1e7c01e34d20ada686d52cb2",
-      "repo_hash_at_sync": "af8bc791a774e3bfc79e94a0ed37cde8c7ce0f24d7c92846c7528f0a42470430",
+      "repo_hash_at_sync": "e077674e6654b4ffa0c6af8707a208a5a45b9672f8fc1f2fd0965f4ac6c4a937",
       "repo_path": "lore/wiki/wiki/fallowhurst-college.textile"
     },
     "c8478d23d0c846acbe6807329bdfff94": {

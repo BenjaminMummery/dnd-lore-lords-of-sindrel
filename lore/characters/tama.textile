@@ -7,7 +7,7 @@ name: Giant Stoat
 title: Giant Stoat
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/tama
 op_created_at: '2026-01-05T12:04:14Z'
-op_updated_at: '2026-07-05T14:22:31Z'
+op_updated_at: '2026-07-14T07:55:28Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -21,9 +21,18 @@ A stoat the size of a large dog - long-bodied, russet-and-cream fur, bright pred
 <!-- OP_BIO -->
 Tama was first encountered by the [[The Adventurers | Neighbourhood Wonch]] in the orchard of [[Fallowhurst College | Fallowhurst College]].
 
+* *date todo*
+** After being caught in [[Strangle Vines | Strangle Vines]] at [[Fallowhurst | Fallowhurst]] Orchard, was freed by [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]] and [[:ayr | Ayr Ravenshield]][1]
 *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Reunited with the party in [[Merrylane | Merrylane Park]]; bonded to [[:rossin-ros-greyhirst | Ros]] as her animal companion.[2]
 
-- Reunited with the party in [[Merrylane | Merrylane Park]]; bonded to [[:rossin-ros-greyhirst | Ros]] as her animal companion.
+<div class="op-footnotes">
+
+fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
+
+fn2. [[Session 10: Shakes Spear in the Park | Session 10: Shakes Spear in the Park]]
+
+</div>
 
 <!-- GM_INFO_START -->
 <div class="stat-block">

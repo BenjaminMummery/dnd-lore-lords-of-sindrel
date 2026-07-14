@@ -7,13 +7,13 @@ name: Fallowhurst College
 title: Fallowhurst College
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/fallowhurst-college
 op_created_at: '2026-01-07T14:31:54Z'
-op_updated_at: '2026-07-04T11:38:49Z'
+op_updated_at: '2026-07-14T07:44:41Z'
 op_gm_only: false
 tags:
 - location
 ---
 
-[[File:1544298  | class=media-item-align-right | 700px | Byrgenwerth_concept_art_1.webp]]
+[[File:1544298  | class=media-item-align-right | 600px | Byrgenwerth_concept_art_1.webp]]
 
 A ruined college located in [[Fallowhurst | Fallowhurst]].
 
@@ -27,7 +27,11 @@ h2. Mysteries and Clues
 
 [[File:1543100  | class=media-item-align-right | 490954184_1243446153797378_5596828094446578458_n.jpg]]
 
+<div class="op-footnotes">
+
 fn1. [[Session 2: Fallowhurst | Session 2: Fallowhurst]]
+
+</div>
 
 <!-- GM_INFO_START -->
 Originally the estate of [[House Oestra | House Oestra]], it was converted to a medical college at the direction of [[:embren-oestra | Embren Oestra]].
@@ -267,5 +271,4 @@ h4. AK. Lecture Hall Second Gallery
 h4. AL. Library Gallery
 
 h4. AM. Reading Room Gallery
-
 <!-- GM_INFO_END -->
