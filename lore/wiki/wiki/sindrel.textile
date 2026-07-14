@@ -25,6 +25,8 @@ h2. Races of Sindrel
 
 Sindrel's ancestry mix is *not* a single citywide average. Three populations overlap everywhere, but each dominates different streets and social levels. Continental baseline for outsiders: [[Artresh | Artresh]] (*Races of Artresh*).
 
+Despite its reputation as a magical refuge, the city still carries **anti-drow prejudice** north from old [[The Magedom of Houd | Houd]] — the [[The Thaumocracy of Tellerin | Tellarin]] wars are not forgotten. A drow may draw stares and suspicion here as readily as in [[Soulwind | Soulwind]], even if Sindrel is readier to tolerate odd ancestry in practice.
+
 h3. Three populations
 
 h4. 1. Native Sindrellians
@@ -215,8 +217,8 @@ When generating or placing an NPC, decide *which population they belong to first
 
 * *Core:* human, elf, half-elf, dwarf, gnome, halfling
 * *Common:* tiefling, aasimar, dragonborn, genasi, half-orc
-* *Uncommon:* tabaxi, kenku, triton, changeling, shifter, duergar, drow, deep gnome
-* *Rare:* fairy, satyr, eladrin, firbolg, harengon
+* *Uncommon:* tabaxi, kenku, triton, changeling, shifter, duergar, deep gnome
+* *Rare:* fairy, satyr, eladrin, firbolg, harengon, drow
 * *Restricted:* same as [[Artresh | Artresh]] (*Non-existent* and plot-only kinds)
 
 *Species profile (visitor tiers):* follow current [[Artresh | Artresh]] tiers (*Races of Artresh*).

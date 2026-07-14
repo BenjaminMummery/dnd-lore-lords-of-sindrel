@@ -353,8 +353,6 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7457470/sytqgzfrl5c41.jp
 <!-- OP_DESCRIPTION -->
 A drow woman with blue-violet skin and long platinum hair. Angular features, pointed ears, brown leather strapped over olive kit; a moss-trimmed green cloak and rune-marked stones at her belt - a druidic traveller plainly out of sympathy with a city of stone.
 
-fdsfdsfds
-
 h3. Key Items
 
 * [[Silver Guest Bracelet | Silver Guest Bracelet]]
@@ -363,12 +361,17 @@ h3. Key Items
 
 
 <!-- GM_INFO_START -->
-Hello, Dungeon Master! I am sorry for leaving my homework until last minute, but here goes:
+h2. True origin
 
-My character seeks to understand the loss of magic, which they experience as the fading of nature itself. There must be a cause to be studied and understood! They have journeyed to [[Sindrel | Sindrel]] seeking answers, and perhaps even healing for a diseased world.
+**Public tale:** an arduous, **murderous escape from the Underdark** to the surface — the story [[:amanira | Amanira]] tells and northern rumour repeats. **This is false.**
 
-They don’t regret leaving anything material behind, but they yearn for the harmony that only the primordial force of nature could bring.
+**Truth:** she is from the [[The Thaumocracy of Tellerin | Tellarin Empire]], not the underdark. Her cover story trades on northern willingness to believe in drow fleeing the deep rather than drow arriving from the south.
 
-Rumours abound about my arduous (murderous) escape to the surface.
-(Which I haven’t fleshed out yet, and happy to receive guidance from the DM!)
+**Stakes:** [[Artresh | Artresh]] public knowledge holds that Tellarin was and is **majority drow**, and **anti-drow sentiment** runs through the former Houd states ([[Soulwind | Soulwind]], [[Sindrel | Sindrel]], and the petty kingdoms). If her true origin surfaced, reactions would range from cold suspicion to open hostility depending on who learned it and when.
+
+h2. Player notes
+
+* Seeks to understand the **loss of magic**, experienced as the fading of nature — a cause to study; journeyed to [[Sindrel | Sindrel]] for answers and perhaps healing for a diseased world.
+* Does not regret leaving anything material behind; yearns for the harmony only primordial nature could bring.
+* The **underdark escape** backstory is player-facing cover until the table learns otherwise — do not reveal Tellarin origin without a deliberate beat.
 <!-- GM_INFO_END -->

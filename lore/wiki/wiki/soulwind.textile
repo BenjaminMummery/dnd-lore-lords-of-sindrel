@@ -17,6 +17,8 @@ tags:
 
 Crumbling metropolis, once a seat of magical learning.
 
+As a successor state of old [[The Magedom of Houd | Houd]], Soulwind shares the northern **anti-drow prejudice** — folk memory of [[The Thaumocracy of Tellerin | Tellarin]] invasions and of a **majority-drow** southern empire.
+
 Soulwind is notable for [[The Soulwind Calendar | The Soulwind Calendar]], a horological system widely used across [[Arcan | Arcan]]. It is linked to its closest major neighbour, [[Sindrel | Sindrel]], by [[The Mage Road | The Mage Road]].
 
 The estate of the von Phthasia family is in Soulwind, and it is from here that [[:dulcinia-von-phthasia | Dulcinia von Phthasia]] and her bodyguard [[:pthul | Pthul]] departed for [[Sindrel | Sindrel]].

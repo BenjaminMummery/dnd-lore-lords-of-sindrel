@@ -14,7 +14,7 @@ tags:
 - location
 ---
 
-The Thaumocratic Empire of Tellerin once covered much of the south of the continent. They are typically remembered as being a dark and threatening force, famous for their use of necromancers in battle.
+The Thaumocratic Empire of Tellerin once covered much of the south of the continent. They are typically remembered as being a dark and threatening force, famous for their use of necromancers in battle. Across the northern successor states it is common knowledge that the empire was — and, behind its closed borders, presumably still is — majority drow.
 
 Following their failed attempt to invade [[The Magedom of Houd | The Magedom of Houd]] in [[World History | 3958]] [[The Soulwind Calendar | SC]], the empire withdrew. Most of the outer colonies were abandoned and the imperial core closed its borders to outsiders. Of their current political or social structure little is known.
 
