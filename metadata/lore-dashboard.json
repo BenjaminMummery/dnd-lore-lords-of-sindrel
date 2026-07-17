@@ -33,7 +33,14 @@
           "\\bStoat(?:'s|'s)?\\b"
         ]
       }
-    ]
+    ],
+    "colors": {
+      "amanira": "#9d6bcd",
+      "ayr": "#efe9e0",
+      "pin": "#a67c52",
+      "silrie-aegiskiir": "#4682d6",
+      "wilrin-racenglade": "#d94f4f"
+    }
   },
   "npc_demographics": {
     "creature_slugs": [
