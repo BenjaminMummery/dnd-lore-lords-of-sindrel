@@ -83,6 +83,101 @@ _Sable honours the bargain at the start of Session 13 — she already has the sl
 
 Sable will share Black Cat knowledge, and will allow the party to interview Chuggaz if desired.
 
+h3. Sable's dialogue (script)
+
+_Setting: same back room, evening of 31st Enean or early 1st Ostory — party return to collect. Slashed sigil parchment folded in the waxed cloth wrap beside her ledger. Tea if you want the Session 12 continuity beat._
+
+h4. Opening — honouring the bargain
+
+bq). "We had an arrangement. You delivered on your side - dramatically, but adequately. I'll perform mine."
+<br>
+"Ask your questions. I'll answer the ones you've paid for."
+
+h4. The cart crew
+
+bq). "A few months ago a crew muscled in on the garbage trade down here. Aggressive, well funded. They beat a small-time pusher off his route, took his cart, started buying information - routes, servant's gates, house properties. The sort of questions you ask when you mean to get in somewhere you're not invited.
+<br>
+We watched them, or tried to, assuming they were trying to set themselves up as a rival concern. But they didn't seem to have any interest in expansion, or going after big scores.
+<br>
+Then the Fulcrum went up, and they just...up and left. Ditched the cart near the Quarantine Wall breach, (curse them for that, Hielaman's lot got it before we did) and they haven't been seen since. That's when we got wind of the potential anathemist angle and working backwards from what we knew of their movements, the pattern wasn't hard to find - they always seemed to be in the area whenever the Houses had one of their little mishaps."
+
+h4. The Bears, the Weasel, the Snake
+
+bq). "The bulk of their work down here was two men, both with pale skin and dark hair and beards. The nicknamed them *the Bears* - one large, one wiry, both dangerous. They ran the cart, did the violence and heavy lifting. Merchants by day, if you can trust our tails reports. Haven't been seen in Wallarch since the bombing. Best guess is they left the city."
+<br>
+"Then there's *The Weasel* - dark hair, little glasses, neat beard. Soft hands and Ink stains. Educated. If you believe the Scratch we had watching, he seemed to know the back alleys and snickleways almost as well as a local. Annoying at evasion, but we didn't see any violence out of him. Decent at disguise, never seemed out of place"
+<br>
+"Last up *The Snake* - grey hair, scarred cheek. Fancy foreign clothes with an out-of-town crest. The Bears deferred to her in conversation. We tailed her as far as Ambassador Street, couldn't be more precise than that, we don't work the fancy districts often so for Scratches harder to move around up there. Rare sightings this past month." She taps the ledger cover once. "Coordinator. Not hired muscle."
+
+
+h4. The Cart
+
+bq). "Captain Hielaman has not looked closely yet. He has larger fires. When he does look —" she meets your eyes, quiet and flat — "he may find compartments we use for other business. Not theirs. Ours. I mention it because your investigation and his curiosity are on converging paths, and I would prefer they didn't."
+
+_If asked what's in the cart:_ bold-faced mode from Session 12.
+
+bq). "Nothing that concerns your bombing. The important aspect is the _fact_ of their existence - we would prefer the Captain not go looking for similar features on the _active_ carts."
+
+h4. The tail mystery
+
+bq). "We put Scratches on the heavy men — the ones doing the lifting. Feckless work, by their own admission. Their quarry reappeared in Cat territory without crossing a watched street. Or went into the [[Osteomantic Archives | Archive]] and didn't come out — only to turn up elsewhere hours later. Days later."
+<br>
+"I reprimanded the tails. Incompetence is common. Explanations are not." She sips her tea. "If you find a better one, keep me informed. I'd rather not pay for useless eyes twice."
+
+
+
+_If asked about d'Log or Nielsenn:_
+
+bq). "Never saw the lord. Never saw a Nielsenn. The Snake was the face we got."
+
+h4. Chuggaz — the lie
+
+_Only if the party ask after Chuggaz — they will._
+
+bq). "Relocated. For his own safety. Your colleagues have been dragging [[The Fulcrum | Fulcrum]] staff from their beds — he heard, and he left. I don't know where."
+<br>
+The lie is delivered the way Session 12 established: blatant, mutual, unprovable.
+
+_If pressed harder:_
+
+bq). "He's a contact. Drinks here sometimes. Knows the service routes. That's the extent of my obligation to him." Quiet. Precise. "Stop frightening servants. You'll get better answers from me than from kicking down roster desks."
+
+_DC 14 Insight:_ still holding back *Latch* and *Vault*. She does not break eye contact.
+
+h4. Chuggaz — what she will share (paid for)
+
+_If the party accept the bargain is fulfilled and ask what Chuggaz saw on bombing night — or if they demand it as part of delivery:_
+
+bq). "He reported two men. One large, one wiry. Servants' door at the [[The Fulcrum | Fulcrum]]. In and out again, short interval. Clothes right for the tunnels, faces wrong — not staff he knew, and he knows most of them. At the time he assumed another access purchase. Not his department."
+<br>
+"When the bomb went off, he ran. So would you."
+
+_If they want to interview him directly:_
+
+bq). "I can arrange a conversation. Here. Not at his desk, and not with [[:hielaman | Meness]] paperwork in your pockets. You want him — you go through me."
+
+h4. What she still wants
+
+bq). "The descriptions were the price for your —" another glance at the waxed wrap — "artwork. The cart is still on Hielaman's desk. That problem remains."
+<br>
+"Get it off his board. Steal it back. Bury the examination. Bring me something that makes him look elsewhere." She folds her hands. "Or don't. We've concluded our transaction. The next one is separate."
+
+_Optional kompromat tease if party engage constructively:_
+
+bq). "Meness superiors — not Hielaman — owe people favours they haven't repaid. I could spare you a fragment. Useful if you want the Repose kept out of a serjeant's report."
+
+h4. Exit lines
+
+_If satisfied:_
+
+bq). "A fair deal." She means it the way she meant it last night — accurate, not warm. "Don't make me revise the entry."
+
+_If threatened or the party get hands-on:_ *disguise self* toward the kitchen; *sleep* if cornered. She does not fight to the death on premises.
+
+_If they mention the sigil again:_
+
+bq). "I've filed it. I don't discuss filing systems with customers."
+
 h3. What Sable says (player-facing)
 
 * *The cart crew* — A small group with surprising cash and brutality muscled in on the garbage-collection business in [[The Wallarch District | Wallarch]]. They roughed up a small-time drug pusher and took over his cart. The Cats watched them, expecting a rival syndicate; instead they stayed narrow — one cart, no turf expansion, no dues paid.
@@ -92,7 +187,7 @@ h3. What Sable says (player-facing)
 * *Who they were* — Three nicknames, partial descriptions:
 ** *The Bears* ([[:georges-de-selve | Georges]] & [[:jean-de-dinteville | Jean]]) — Two large men; most of the violence and lifting. Operated as visiting merchants by day. *Not seen in Wallarch since the Fulcrum bombing* — they left the city. The Cats have *not* connected them to the merchant pair who returned on the 25th Enean coach.
 ** *The Weasel* ([[:arouraios | Arouraios]]) — Dark hair, little glasses, neat beard. Educated — soft hands, ink stains. Not imposing, but maddeningly good at losing tails in back alleys. Seen once early in the operation, then lost entirely.
-** *The Snake* ([[:barnabus | Barnabus]]) — Grey hair, scarred cheek, aura of a right bastard. Fancy foreign clothes. Observed in conversation with the Bears, who *appeared to defer to him*. Operates out of a grand house on Ambassador Street — [[:regnif-d-log | d'Log]]'s lodgings. Rare sightings in the last month; Cats do not work much in the fancy districts. Sable's read: *coordinator*, not hired muscle.
+** *The Snake* ([[:marceline | Marceline]]) — Grey hair, scarred cheek, aura of a right bastard. Fancy foreign clothes. Observed in conversation with the Bears, who *appeared to defer to her*. Operates out of a grand house on Ambassador Street — [[:regnif-d-log | d'Log]]'s lodgings. Rare sightings in the last month; Cats do not work much in the fancy districts. Sable's read: *coordinator*, not hired muscle.
 * *Who they never saw* — [[:regnif-d-log | d'Log]] himself; [[:nielsenn | Nielsenn]].
 * *Chuggaz*
 ** Sable knows what Chugga saw on the bombing night - Two men, one large, one wiry, entered via the servant's door, then left the same way a short time later. Not servants he recognised (and he knows most people), but dressed in servants clothes. At the time he assumed they were part of the Cats operation (he's aware that there were efforts to get more access for latches going on, not his department).
@@ -104,12 +199,12 @@ h3. GM truth (what Vault knows but Sable won't volunteer)
 * The Anathemists used the Cats' **garbage-cart pipeline** — trick panels, paid access — same night as the Fulcrum bombing. Hielaman has not examined the cart closely yet; if he does, he may unravel the whole network.
 * **[[:chuggaz | Chuggaz]]** is an embedded **Latch** at the Fulcrum. Rosters and servant-route gossip pass up to Sable's tier. He knows *who paid for extended shifts* on bombing night — bribery and roster fraud — but **not** Anathemist ideology or the wider plot. Vault will lie, transfer, or disappear him before he talks Cat business.
 * Vault correlated the cart crew with sabotage **only after** the bombing; until then they thought rival syndicate.
-* Vault **suspects** Barnabus coordinated; does not know Anathemist cell structure, Sacrum HQ, Kosmios, or d'Log's ignorance.
+* Vault **suspects** Marceline coordinated; does not know Anathemist cell structure, Sacrum HQ, Kosmios, or d'Log's ignorance.
 
 h3. Party might conclude (reasonable deductions)
 
 * Ceremony night: **servants' routes + waste cart** abused same night as the coachman lead.
-* **Barnabus + Ambassador Street** = next rung; Bears gone, Weasel vanished, Snake is the live target.
+* **Marceline + Ambassador Street** = next rung; Bears gone, Weasel vanished, Snake is the live target.
 * Archive tail mystery → party can connect **interlinked catacombs** if they ask how Bears "teleported" (Cats cannot answer).
 * Chuggaz is dirty — bribery, roster fraud — even if Sable won't say *Black Cats*.
 

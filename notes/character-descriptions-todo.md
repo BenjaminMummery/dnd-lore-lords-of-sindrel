@@ -51,7 +51,7 @@ Hexine Circle + Fulcrum bombing witnesses. **Done** (template pass: read-aloud d
 - [ ] emissary-isius
 - [ ] nielsenn
 - [ ] arouraios — **priority:** flesh out read-aloud beyond coachman/beard/glasses
-- [ ] barnabus (GM-only)
+- [ ] marceline (GM-only)
 - [ ] myrath
 - [ ] razorbeak
 - [ ] kithrak-the-black

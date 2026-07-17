@@ -1,0 +1,45 @@
+---
+op_slug: marceline
+op_kind: Character
+op_type: Character
+name: Marceline
+title: Marceline
+op_gm_only: true
+is_player_character: false
+tags:
+- she/her
+- Human
+---
+
+<!-- OP_DESCRIPTION -->
+You see a grey-haired woman with a scarred cheek, dressed in fancy foreign clothes that mark her as wealthy rather than local. She carries herself like someone accustomed to being obeyed.
+
+<!-- OP_BIO -->
+
+
+<!-- GM_INFO_START -->
+h2. bio
+
+* *28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** During the [[Ditchquer | Ditchquer]] closing ceremony, stole [[:silas-oestra | Silas Oestra]]'s [[Silas Oestra's Chamber Key | chamber key]] and passed it to [[:arouraios | Arouraios]], disguised as a coachman — a brief exchange between two servants beneath the notice of the room.
+
+h2. Role in the Anathemist Plot
+
+Marceline is the **de-facto coordinator and cell lead** for the [[Anathemists | Anathemist]] infiltration of [[Sindrel | Sindrel]]. She is embedded in [[:regnif-d-log | Regnif d'Log]]'s household, outwardly serving as d'Log's butler.
+
+[[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] are **senior lieutenants** - merchant cover for logistics, strike actions, and exit. [[:arouraios | Arouraios]] reports to Marceline as route-finder and mapper. [[:regnif-d-log | d'Log]] is the patsy, not the leader.
+
+Marceline acts as the cell's fixer, handler, and domestic infiltrator. She exploits the invisible authority of service: appointments, letters, errands, household accounts, livery contacts, deliveries, tradespeople, and servants' gossip. She does not need to force access when she can arrange it as part of somebody else's routine.
+
+Supposedly acting as [[:regnif-d-log | Regnif d'Log]]'s agent, Marceline made a deal with [[:kelferria-the-smith | Kelferria]] of [[House Mabon | House Mabon]] for a large order of enchanted armour. She made a large down payment and promised much more, but the samples were the true objective. The armour served two purposes: protection within the [[Quarantine Zone | Quarantine Zone]], allowing the cell to use The [[Quarantine Zone | Sacrum]] as a staging ground, and disguise. Because Kelferria supplies [[House Oestra | House Oestra]], the chest-plates can pass as Oestra armour at a distance once crudely decorated with the Oestra crest.
+
+In the sabotage campaign before the [[Ditchquer | Ditchquer]] closing ceremony, Marceline used servant networks to learn which households, [[Factor | Factors]], and House officials are vulnerable to distraction or theft. She helped identify [[:nielsenn | Nielsenn]] as a useful locksmith and helped arrange the circumstances that allow him to be kidnapped and his death staged. She also hid suspicious purchases inside d'Log's household accounts, including unusually high charcoal use at the lodgings.
+
+During the [[Ditchquer | Ditchquer]] closing ceremony, Marceline stole [[:silas-oestra | Silas Oestra]]'s [[Silas Oestra's Chamber Key | chamber key]] and passed it to [[:arouraios | Arouraios]], who was disguised as a coachman. A brief exchange between two servants passed beneath the notice of anyone in the room. This theft enabled [[:georges-de-selve | Georges de Selve]], [[:jean-de-dinteville | Jean de Dinteville]], and [[:nielsenn | Nielsenn]] to access [[:silas-oestra | Silas Oestra]]'s rooms.
+
+After the [[Ditchquer | Ditchquer]] operation, Marceline remained in [[Sindrel | Sindrel]] as part of d'Log's retinue, permitted to stay until her master's business is concluded. This makes her the spy cell's remaining embedded agent after Georges and Jean depart.
+
+h3. Investigative footprint
+
+Evidence pointing to Marceline may include household account irregularities, messages sent in d'Log's name, servant testimony, the Kelferria armour order, charcoal purchases, unexplained knowledge of [[:silas-oestra | Silas Oestra]]'s movements, and any clue showing that d'Log's authority was used without d'Log's understanding.
+<!-- GM_INFO_END -->

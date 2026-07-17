@@ -26,14 +26,14 @@ Player Secrets (Ascendant UI) do **not** sync. Keep PC secrets in OP Player Secr
 
 | Secret | Canon |
 |--------|--------|
-| **Barnabus** = cell lead / coordinator | `lore/characters/barnabus.textile`, `the-investigation` GM |
-| **Georges / Jean** = senior lieutenants (not independent masterminds) | `georges-de-selve`, `jean-de-dinteville`, `barnabus` |
+| **Marceline** = cell lead / coordinator | `lore/characters/marceline.textile`, `the-investigation` GM |
+| **Georges / Jean** = senior lieutenants (not independent masterminds) | `georges-de-selve`, `jean-de-dinteville`, `marceline` |
 | **Arouraios** = mapper; chalk marks are navigation intel | `arouraios`, `the-investigation` GM |
-| **Regnif d'Log** = patsy, not the leader | `regnif-d-log`, `barnabus` |
+| **Regnif d'Log** = patsy, not the leader | `regnif-d-log`, `marceline` |
 | Full **Ditchquer heist**: key theft → catacombs → Silas's rooms → copy/stolen Kosmios material | `the-investigation` GM |
 | **Nielsenn** kidnapped, coerced, killed; shop explosion staged | `nielsenn`, `the-investigation` GM |
 | Sulphur / nitre / charcoal thefts hidden inside House sabotage; stockpile at **Sacrum** | `the-investigation` GM, `house-grimbolg` (party suspects saltpetre only) |
-| **Kelferria** armour order = QZ protection + crude Oestra disguises | `kelferria-the-smith`, `barnabus` |
+| **Kelferria** armour order = QZ protection + crude Oestra disguises | `kelferria-the-smith`, `marceline` |
 | **Chuggaz** = confirmed **Latch** (not mere rumour); embedded at Fulcrum; passes rosters **up to Tallies / Vault** | `chuggaz` GM |
 | Cats **don't** know Chuggaz is tied to the bombing plot | `chuggaz` GM, `the-black-cats` GM |
 | Real culprits may **not** be ideological Anathemists alone (false-flag / proxies) | `the-investigation` GM meta |
@@ -161,7 +161,7 @@ Facts learned in play — safe in player-facing wiki sections and adventure log:
 
 Whole-page prep — never public on OP:
 
-`project-kosmios`, `peaches-of-immortality`, `the-octarion-circle`, `kosmios`, `zotikó`, `thanismot`, `the-soulwind-institute`, `barnabus`, `silas-oestra`, `regnif-d-log`, `letter-from-oestra-to-embren-oestra`, founder character pages (check frontmatter), **founder signature item pages** (`the-gladius`, `the-amulet-of-stars`, `cel-s`, `the-shaper-s-hands`, `the-crown-of-shadows`, `the-shadow-s-vestment`, `mask-of-foreknowledge`, `the-red-mourning`, `swordbreaker`), etc.
+`project-kosmios`, `peaches-of-immortality`, `the-octarion-circle`, `kosmios`, `zotikó`, `thanismot`, `the-soulwind-institute`, `marceline`, `silas-oestra`, `regnif-d-log`, `letter-from-oestra-to-embren-oestra`, founder character pages (check frontmatter), **founder signature item pages** (`the-gladius`, `the-amulet-of-stars`, `cel-s`, `the-shaper-s-hands`, `the-crown-of-shadows`, `the-shadow-s-vestment`, `mask-of-foreknowledge`, `the-red-mourning`, `swordbreaker`), etc.
 
 Re-check frontmatter when creating new wiki pages.
 

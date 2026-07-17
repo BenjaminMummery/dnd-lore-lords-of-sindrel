@@ -26,7 +26,7 @@ h2. Goldfinger
 
 **Regnif d'Log** is **Goldfinger** in disguise — the name [[:ayr | Ayr]] knew in his thief years as **Baron von Goldfinger**, backed by **GF & Sons Trust**. The Ambassador Street household and foreign-noble cover are how Goldfinger operates when he needs respectability; the man is the same.
 
-Goldfinger is not an innocent abroad. He is a wealthy fixer who moves money through trusts and fronts, commissions theft, and buys distance from consequences. In the [[Anathemists | Anathemist]] cell he is still a **patsy** for [[:barnabus | Barnabus]] — not the spy plot's mastermind — but his criminal history predates Barnabus by years.
+Goldfinger is not an innocent abroad. He is a wealthy fixer who moves money through trusts and fronts, commissions theft, and buys distance from consequences. In the [[Anathemists | Anathemist]] cell he is still a **patsy** for [[:marceline | Marceline]] — not the spy plot's mastermind — but his criminal history predates Marceline by years.
 
 h2. Role in [[:ayr | Ayr]]'s backstory
 
@@ -34,21 +34,45 @@ h2. Role in [[:ayr | Ayr]]'s backstory
 * **Prior thefts:** Ayr had robbed von Goldfinger of trinkets, coin, and the kit for a **false persona** — clothing, handwriting samples, and genuine documents later altered for forged names — plus the Baron's **signet ring**. *(GM: ring may be a hidden key to something in Goldfinger's holdings; not confirmed in play.)*
 * **The mimic job:** Goldfinger's **fake commission** lured **seven** of Ayr's crew into a vault mimic trap (chest type). Swyfgrin fought it while wounded; others fell; survivors **pushed Ayr out** and the door **sealed**. Ayr alone escaped; **the rest died in the vault** (player-facing). He lost his natural eye on the job; wears a self-built **green glass eye** (see [[:ayr | Ayr]]). He blames his own mistake as much as Goldfinger's malice.
 * **What Ayr knows:** the name Goldfinger / von Goldfinger, GF & Sons, mimic-hunter cover story rooted in real hatred of mimics, and his guilt. **What he does not know (through Session 11):** that Goldfinger is in [[Sindrel | Sindrel]] as Regnif d'Log, or that the Wonch investigation is closing on that household.
-* **If they meet:** recognition should be visceral — voice, manner, or a tell Ayr's player supplies — before the name lands. The investigation thread on **recent wealthy arrivals** ([[The Adventurers | the-adventurers]] mapping) is Ayr's personal stake in the same lead that exposes Barnabus and the cell.
+* **If they meet:** recognition should be visceral — voice, manner, or a tell Ayr's player supplies — before the name lands. The investigation thread on **recent wealthy arrivals** ([[The Adventurers | the-adventurers]] mapping) is Ayr's personal stake in the same lead that exposes Marceline and the cell.
 
 Do not reveal the link until the party has a fair shot at d'Log's name or face from investigation; Ayr's thief past remains party-secret until he chooses otherwise.
 
+h2. Heraldry
+
+Foreign-noble cover on Ambassador Street — ostentatious, more achievement than the house strictly merits. **Sun Roc** (fantasy bird; roc-scale, impossibly grand) as the main charge. Gold references are deliberate (Goldfinger / GF & Sons) but never explained in-player. The **voided ring**, **escutcheon of pretence**, **crossed keys**, and **hooded falcon** are deliberate spy/liar symbolism — legible to heraldry-literate NPCs, not explained in play.
+
+The d'Log identity is both disguise and advertisement - to anyone literate in the language of heraldry, he's openly proclaiming his willingness to do shady deals.
+
+h3. Arms
+
+*Formal blazon:* Quarterly, 1st and 4th Sable semé of bezants; 2nd and 3rd Or; overall a Sun Roc displayed, the body Argent, wings elevated and addorsed, every primary feather tipped Or, beaked and membered Or, langued Gules, grasping in the dexter talon a signet ring voided Or; overall an escutcheon of pretence Argent charged with two keys in saltire Gules.
+
+*Plain English:* Quartered shield — **black** fields strewn with gold coins (*bezants*), alternating with plain **gold** quarters (wealth in shadow, wealth on display). Over the whole, a Sun Roc with wings spread: white body grading to gold-tipped feathers, gold beak and talons, red tongue, clutching a **pierced / hollow signet ring** (heraldic *voided* — looks damaged; reads as *not genuine* to the trained eye). Over the centre, a smaller **escutcheon of pretence** (claimed identity laid over the house arms) in white, bearing **two crossed red keys**.
+
+h3. Achievement
+
+* *Crest:* Issuant from a ducal coronet Or, a falcon close proper, hooded Gules — concealed until deployed; spy symbolism, distinct from the Sun Roc on the shield.
+* *Supporters:* Two amphipteres erect, wings elevated Argent semé of bezants, bodies Vert, each gorged with a chain of bezants Or.
+* *Motto:* *In Manibus Aureis* — "In Golden Hands" (fake Cosmian Latin). On-the-nose for Goldfinger / GF & Sons: everything passes through paid hands; also reads as *held by wealth* or *at gold's disposal*. d'Log would quote it with unearned solemnity.
+
+h3. In play
+
+* Full achievement on the Ambassador Street townhouse doors and stationery.
+* Coach panels and livery often show a simplified version: Sun Roc on Sable only — readable at distance (matches [[:nort | Nort]]'s "bird crest" memory without naming d'Log); escutcheon and voided ring omitted at small scale.
+* [[:arouraios | Arouraios]]'s coachman disguise uses this livery; the Black Cats nicknamed [[:marceline | Marceline]] *the Snake* partly from foreign clothes bearing the out-of-town crest.
+
 h2. Role in the Anathemist Plot
 
-Regnif d'Log is the spy cell's patsy. He entered [[Sindrel | Sindrel]] with his servants, [[:arouraios | Arouraios]] and [[:barnabus | Barnabus]], while [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] entered separately under merchant cover. d'Log is not the mastermind; [[:barnabus | Barnabus]] is the de-facto cell lead. d'Log's usefulness lies in his respectability, his money, and his carelessness.
+Regnif d'Log is the spy cell's patsy. He entered [[Sindrel | Sindrel]] with his servants, [[:arouraios | Arouraios]] and [[:marceline | Marceline]], while [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] entered separately under merchant cover. d'Log is not the mastermind; [[:marceline | Marceline]] is the de-facto cell lead. d'Log's usefulness lies in his respectability, his money, and his carelessness.
 
-d'Log's household gives [[:barnabus | Barnabus]] and Arouraios a reason to be in [[Sindrel | Sindrel]]. It gives them rooms, errands, appointments, servants' access, household accounts, and a plausible reason to conduct business with local specialists. When Barnabus deals with [[:kelferria-the-smith | Kelferria]] for enchanted armour, he does so while supposedly acting as d'Log's agent. This ties the transaction to a plausible wealthy patron rather than to the [[Anathemists | Anathemist]] cell itself.
+d'Log's household gives [[:marceline | Marceline]] and Arouraios a reason to be in [[Sindrel | Sindrel]]. It gives them rooms, errands, appointments, servants' access, household accounts, and a plausible reason to conduct business with local specialists. When Marceline deals with [[:kelferria-the-smith | Kelferria]] for enchanted armour, she does so while supposedly acting as d'Log's agent. This ties the transaction to a plausible wealthy patron rather than to the [[Anathemists | Anathemist]] cell itself.
 
-In the sabotage campaign before the [[Ditchquer | Ditchquer]] closing ceremony, d'Log unknowingly provided cover for purchases, meetings, and movements. He authorised, signed, or failed to question arrangements made by [[:barnabus | Barnabus]]. He paid for unusually large quantities of charcoal under the impression that his lodgings were cold or poorly heated.
+In the sabotage campaign before the [[Ditchquer | Ditchquer]] closing ceremony, d'Log unknowingly provided cover for purchases, meetings, and movements. He authorised, signed, or failed to question arrangements made by [[:marceline | Marceline]]. He paid for unusually large quantities of charcoal under the impression that his lodgings were cold or poorly heated.
 
-d'Log may possess documents, receipts, orders, or correspondence that incriminate his household while also showing his ignorance. He is useful to the conspiracy precisely because he leaves a paper trail that points at him before it points at [[:barnabus | Barnabus]].
+d'Log may possess documents, receipts, orders, or correspondence that incriminate his household while also showing his ignorance. He is useful to the conspiracy precisely because he leaves a paper trail that points at him before it points at [[:marceline | Marceline]].
 
-During and after the [[Ditchquer | Ditchquer]] operation, d'Log's most important contribution is passive: his retinue remains a respectable shield. [[:barnabus | Barnabus]] is permitted to stay in [[Sindrel | Sindrel]] as part of d'Log's household until his master's business is concluded, leaving an Anathemist agent embedded in the city even after Georges and Jean depart.
+During and after the [[Ditchquer | Ditchquer]] operation, d'Log's most important contribution is passive: his retinue remains a respectable shield. [[:marceline | Marceline]] is permitted to stay in [[Sindrel | Sindrel]] as part of d'Log's household until her master's business is concluded, leaving an Anathemist agent embedded in the city even after Georges and Jean depart.
 
 h3. Investigative footprint
 

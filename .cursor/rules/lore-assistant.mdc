@@ -72,7 +72,7 @@ When the user's message begins with `NPC:` or `Quick NPC:` (case-insensitive), f
 **Purpose:** stop agents from “helpfully” tagging characters with factions the **party has not learned in play**, which would spoil the Obsidian Portal character index. This is a guardrail when **adding or changing** tags - not a reason to strip lore the user or GM has already established.
 
 - **Player-visible index** (`op_gm_only: false`): `tags` should reflect affiliations the **party currently knows** from play - uniform, introduction, seating, etc. - not secrets inferred from GM wiki prose or `GM_INFO` blocks.
-- **Do not add** undercover or unrevealed tags unless the user explicitly asks (e.g. do **not** tag [[:barnabus | Barnabus]] as Anathemist, merchant spies as their true faction, Embren as Oestra, or Fulcrum staff house ties before shown in session - even if the character page body or GM notes state the truth).
+- **Do not add** undercover or unrevealed tags unless the user explicitly asks (e.g. do **not** tag [[:marceline | Marceline]] as Anathemist, merchant spies as their true faction, Embren as Oestra, or Fulcrum staff house ties before shown in session - even if the character page body or GM notes state the truth).
 - **Preserve** existing deliberate choices: GM blocks, session bios, and tags the user has set (e.g. [[:cedric | Cedric]] as [[House Meness | Meness]] [[Adjutant | Adjutant]], Tryke/Stegg, City Cats). Do not remove them to “enforce” player knowledge.
 - **GM-only pages** (`op_gm_only: true`) may carry full tags for GM index use; still avoid adding spoilery tags to player-visible pages by mistake.
 - Unrevealed index affiliations belong in `<!-- GM_INFO_START -->` until revealed in play (e.g. Fulcrum staff → Lithra/Beltus/Grimbolg).

@@ -189,6 +189,6 @@ The bombing of the [[The Fulcrum | Fulcrum]], the demon sulphur, the sabotaged s
 <!-- GM_INFO_START -->
 * Alandria was initially pissed at the party interfering in her task, but after a moment saw the potential embarrassment for Halan - the threat is out of the park, so her request is fulfilled. If [[The Adventurers | the Wonch]] fuck up, then Alandria gains some leverage having argued against their inclusion while Halan supported it.
 * The amber-robed figures were demons, of course.
-* The poncy coachman was [[:arouraios | Arouraios]] on his way back to the cart having been received [[:silas-oestra | Silas Oestra]]'s stolen key from [[:barnabus | Barnabus]].
+* The poncy coachman was [[:arouraios | Arouraios]] on his way back to the cart having been received [[:silas-oestra | Silas Oestra]]'s stolen key from [[:marceline | Marceline]].
 * [[The Black Cats | The Black Cats]] are concerned. From their point of view, Deathwalker showed up in their territory flashing about a huge amount of cash and demanding information. She then reappeared with backup, and assaulted one of their enforcers. Now she and her friends are sniffing around _another_ low level member (Chuggaz). They don't know what she's up to, but she and the rest of the wonch are clearly a threat.
 <!-- GM_INFO_END -->

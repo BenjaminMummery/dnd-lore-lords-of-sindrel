@@ -156,7 +156,7 @@ h2. Project Kosmios — the plan
 
 h2. Kosmios panic after the Fulcrum bombing
 
-The anathemists did not know the word **Kosmios** at the time of the Fulcrum bombing. The cell learned it only after [[:barnabus | Barnabus]] read material stolen from [[:silas-oestra | Silas]]'s rooms during the heist.
+The anathemists did not know the word **Kosmios** at the time of the Fulcrum bombing. The cell learned it only after [[:marceline | Marceline]] read material stolen from [[:silas-oestra | Silas]]'s rooms during the heist.
 
 When the higher-ups learned from Hielaman that the Anathemist Lieutenant had dropped the word 'Kosmios', House elite **panicked**: if the enemy knew **Kosmios**, the Fulcrum attack might have been an attempt on the **rift** beneath the city, not opportunistic terror. That reframing is **partly wrong** — the Fulcrum was chosen as **diversion**; the bombers did not yet understand what they were adjacent to. It is **partly right** — the cell now wants [[Dockward | Dockward]] as the real lever.
 <!-- GM_INFO_END -->

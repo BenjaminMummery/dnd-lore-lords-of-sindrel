@@ -45,7 +45,7 @@ They have been cautiously probing [[Sindrel | Sindrel]]'s defences and have beco
 
 h2. Sindrel infiltration cell
 
-Embedded spy team (see [[The Investigation | The Investigation]] GM): [[:barnabus | Barnabus]] (cell lead), [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] (senior lieutenants), [[:arouraios | Arouraios]] (mapper), [[:regnif-d-log | Regnif d'Log]] (patsy).
+Embedded spy team (see [[The Investigation | The Investigation]] GM): [[:marceline | Marceline]] (cell lead), [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] (senior lieutenants), [[:arouraios | Arouraios]] (mapper), [[:regnif-d-log | Regnif d'Log]] (patsy).
 
 h2. Next target — [[Dockward | Dockward]]
 
@@ -53,7 +53,7 @@ Having acquired **Kosmios** intelligence from stolen Oestra files (post-[[Ditchq
 
 The **[[The Fulcrum | Fulcrum]]** bombing was **not** this strike; it was diversion while the heist ran. The cell did not understand Kosmios or the sub-Fulcrum anchor at bomb time.
 
-**Status (end Session 11):** fresh gunpowder from [[Quarantine Zone | Sacrum]] stockpile; [[:barnabus | Barnabus]] stay-behind in city; Bears out of Wallarch since the blast. Timeline: days to weeks before Dockward attempt — after party pressure at Repose / cart threads if you want breathing room.
+**Status (end Session 11):** fresh gunpowder from [[Quarantine Zone | Sacrum]] stockpile; [[:marceline | Marceline]] stay-behind in city; Bears out of Wallarch since the blast. Timeline: days to weeks before Dockward attempt — after party pressure at Repose / cart threads if you want breathing room.
 
 h2. Ideology
 

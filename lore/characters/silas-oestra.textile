@@ -28,7 +28,7 @@ h2. Bio
 
 * *25th of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
 ** Present at the [[Ditchquer | Ditchquer]] closing ceremony at [[The Fulcrum | The Fulcrum]] while high-ranking [[Factor | Factors]] from every House attended.
-** His rooms were the true target of the [[Anathemists | Anathemist]] operation that night; [[:barnabus | Barnabus]] stole his [[Silas Oestra's Chamber Key | chamber key]] during the distraction.
+** His rooms were the true target of the [[Anathemists | Anathemist]] operation that night; [[:marceline | Marceline]] stole his [[Silas Oestra's Chamber Key | chamber key]] during the distraction.
 * *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
 ** Sent a formal summons to the Wonch as they left the [[House Grimbolg | Cornucopia]]; they kept Oestra waiting while pursuing [[:chuggaz | Chuggaz]] into [[The Wallarch District | Wallarch]].
 
@@ -36,7 +36,7 @@ h2. Target of the [[Ditchquer | Ditchquer]] Heist
 
 Silas's rooms were the true target of the [[Anathemists | Anathemist]] operation during the [[Ditchquer | Ditchquer]] closing ceremony.
 
-[[:barnabus | Barnabus]] pickpocketed [[:silas-oestra | Silas Oestra]]'s [[Silas Oestra's Chamber Key | chamber key]] at the party and passed it to Arouraios, who was disguised as a coachman. [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] collected the key, then used it with [[:nielsenn | Nielsenn's]] locksmith skills to access Silas's rooms through the [[Osteomantic Archives | archive]] route while [[House Oestra | House Oestra]]'s attention was drawn away by [[The Fulcrum | the Fulcrum]] explosives.
+[[:marceline | Marceline]] pickpocketed [[:silas-oestra | Silas Oestra]]'s [[Silas Oestra's Chamber Key | chamber key]] at the party and passed it to Arouraios, who was disguised as a coachman. [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] collected the key, then used it with [[:nielsenn | Nielsenn's]] locksmith skills to access Silas's rooms through the [[Osteomantic Archives | archive]] route while [[House Oestra | House Oestra]]'s attention was drawn away by [[The Fulcrum | the Fulcrum]] explosives.
 
 The conspirators copied what they could and stole what they could not. The exact stolen material remains a key unresolved point, but the breach is directly connected to the [[Anathemists | Anathemists]]' knowledge of [[Kosmios | Kosmios]].
 
@@ -46,7 +46,7 @@ Silas is the public heir — a **sacrificial lamb raised for the slaughter**. [[
 
 h2. Silas's awareness (Session 12)
 
-* **Ditchquer night:** [[:barnabus | Barnabus]] lifted his key. Silas noticed the loss later; had it reissued. Did not search his rooms thoroughly - nothing looked disturbed.
+* **Ditchquer night:** [[:marceline | Marceline]] lifted his key. Silas noticed the loss later; had it reissued. Did not search his rooms thoroughly - nothing looked disturbed.
 * **After the captured Anathemist interrogation:** general intelligence suggested a high-level security breach somewhere in the Houses.
 * **Silas's audit:** found **missing files** from his chambers. He now knows the breach was **his** - his key, his custody, his failure to report.
 * **Current state:** furious that [[The Adventurers | the Wonch]] have trampled Oestra security (catacomb exit); **terrified** that anyone else will learn he lost classified material. Will not volunteer key loss, file theft, or Kosmios.

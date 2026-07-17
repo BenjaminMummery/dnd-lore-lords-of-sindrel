@@ -192,21 +192,21 @@ The public wiki states the Hexine Circle assumes Anathemist spies are responsibl
 
 h2. The Spies
 
-* [[:barnabus | Barnabus]] - butler; **cell lead / coordinator**
+* [[:marceline | Marceline]] - butler; **cell lead / coordinator**
 * [[:georges-de-selve | Georges de Selve]] - merchant; senior lieutenant (logistics, quartermaster, strike team)
 * [[:jean-de-dinteville | Jean de Dinteville]] - merchant; senior lieutenant (social intel, target selection)
-* [[:arouraios | Arouraios]] - servant / cartographer; reports to Barnabus
+* [[:arouraios | Arouraios]] - servant / cartographer; reports to Marceline
 * [[:regnif-d-log | Regnif d'Log]] - patsy
 
-Barnabus runs the embedded half of the cell (retainer cover, Sacrum staging, stay-behind). Georges and Jean execute merchant-cover operations and the Ditchquer climax on his timeline; Jean's timings and Georges's supply runs implement Barnabus's plan rather than a separate agenda.
+Marceline runs the embedded half of the cell (retainer cover, Sacrum staging, stay-behind). Georges and Jean execute merchant-cover operations and the Ditchquer climax on her timeline; Jean's timings and Georges's supply runs implement Marceline's plan rather than a separate agenda.
 
 h2. The Heist
 
 h3. Setup
 
-* Enter the city as small groups - Regnif d'Log] and his servants [[:arouraios | Arouraios]] and [[:barnabus | Barnabus]] as one group, the merchants [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] as another.
+* Enter the city as small groups - Regnif d'Log] and his servants [[:arouraios | Arouraios]] and [[:marceline | Marceline]] as one group, the merchants [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] as another.
 * Use the criminals around the city to infiltrate the garbage collection. This gives them a way to move materials around the city.
-* [[:barnabus | Barnabus]], supposedly acting as an agent of [[:regnif-d-log | d'Log]], made a deal with a magical armourer ([[kelferria-the-smith | Kelferria]] of [[House Mabon | House Mabon]]) for a large order of enchanted armour. He made a large down payment with promises of a lot more.  Kelferria produced a few samples, which is what he actually wanted. This serves two purposes: protection within the [[Quarantine Zone | quarantine zone]] so they can use The [[Quarantine Zone | Sacrum]] as their staging ground, and disguises - the armorer supplies [[House Oestra | House Oestra]], so the chest-plates, once clumsily decorated with the oestra crest, will pass as Oestra at a distance.
+* [[:marceline | Marceline]], supposedly acting as an agent of [[:regnif-d-log | d'Log]], made a deal with a magical armourer ([[kelferria-the-smith | Kelferria]] of [[House Mabon | House Mabon]]) for a large order of enchanted armour. She made a large down payment with promises of a lot more.  Kelferria produced a few samples, which is what she actually wanted. This serves two purposes: protection within the [[Quarantine Zone | quarantine zone]] so they can use The [[Quarantine Zone | Sacrum]] as their staging ground, and disguises - the armorer supplies [[House Oestra | House Oestra]], so the chest-plates, once clumsily decorated with the oestra crest, will pass as Oestra at a distance.
 
 h3. Gathering Supplies
 
@@ -220,18 +220,18 @@ h3. Gathering Supplies
 h3. The [[Ditchquer | Ditchquer]] Closing Ceremony
 
 * [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] plant the explosives.
-* At the [[Ditchquer | Ditchquer]] Closing ceremony, [[:barnabus | Barnabus]] lifts [[:silas-oestra | Silas Oestra]]'s key and passes it off to [[:arouraios | Arouraios]] who is disguised as a coachman.
+* At the [[Ditchquer | Ditchquer]] Closing ceremony, [[:marceline | Marceline]] lifts [[:silas-oestra | Silas Oestra]]'s key and passes it off to [[:arouraios | Arouraios]] who is disguised as a coachman.
 * [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]]  emerge from the tunnels and colect the key from  [[:arouraios | Arouraios]]
 * They collect the [[:nielsenn| Nielsenn]] and make their way into the catacombs.
 * The first explosive detonates. Reinforcements are summoned from [[House Oestra | House Oestra]], leaving them understaffed.
 * [[:georges-de-selve | Georges de Selve]], [[:jean-de-dinteville | Jean de Dinteville]] and the locksmith [[:nielsenn| Nielsenn]] emerge from the archives within the [[House Oestra | leaguer]]. In the dark, the symbol painted on their armour passes as House Oestra.
 * They make their way to the keep, using the key and locksmith to access [[:silas-oestra | Silas's]] rooms. They copy what they can and steal what they can't, then leave.
 * [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] take [[:nielsenn| Nielsenn]] back to the hq, where they kill him. They then leave the city, returning to the disguise as merchants.
-* 35 days later, they return for more 'merchanting'. Barnabus, as part of d'Log's retinue, has been permitted to remain until his master's business is concluded.
+* 35 days later, they return for more 'merchanting'. Marceline, as part of d'Log's retinue, has been permitted to remain until her master's business is concluded.
 
 h3. Kosmios and elite panic
 
-The anathemists did not know the word **Kosmios** at the time of the Fulcrum bombing. The cell learned it only after [[:barnabus | Barnabus]] read material stolen from [[:silas-oestra | Silas]]'s rooms during the heist.
+The anathemists did not know the word **Kosmios** at the time of the Fulcrum bombing. The cell learned it only after [[:marceline | Marceline]] read material stolen from [[:silas-oestra | Silas]]'s rooms during the heist.
 
 When the higher-ups learned from Hielaman that the Anathemist Lieutenant had dropped the word 'Kosmios', House elite **panicked**: if the enemy knew **Kosmios**, the Fulcrum attack might have been an attempt on the **rift** beneath the city, not opportunistic terror. That reframing is **partly wrong** — the Fulcrum was chosen as **diversion**; the bombers did not yet understand what they were adjacent to. It is **partly right** — the cell now wants [[Dockward | Dockward]] as the real lever.
 

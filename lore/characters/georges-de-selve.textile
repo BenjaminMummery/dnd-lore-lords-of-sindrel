@@ -42,7 +42,7 @@ h2. Role in the Anathemist Plot
 
 Georges de Selve is one of the [[Anathemists | Anathemist]] agents operating under the cover of a wealthy merchant. He entered [[Sindrel | Sindrel]] separately from [[:regnif-d-log | Regnif d'Log]]'s household, alongside Jean de Dinteville, allowing the spy cell to appear as two unrelated groups rather than a single conspiracy.
 
-Georges is a **senior lieutenant** to [[:barnabus | Barnabus]], the cell lead. He acts as quartermaster and commercial face - implementing supply plans and exit strategy Barnabus sets, not owning the overall operation.
+Georges is a **senior lieutenant** to [[:marceline | Marceline]], the cell lead. He acts as quartermaster and commercial face - implementing supply plans and exit strategy Marceline sets, not owning the overall operation.
 
 Georges acts as the cell's quartermaster and commercial face. Under the cover of ordinary mercantile business, he arranges carts, containers, storehouse access, minor bribes, supplier relationships, and the movement of goods around the city. His merchant identity allows him to purchase or transport suspicious materials in pieces, never drawing attention to the whole.
 
