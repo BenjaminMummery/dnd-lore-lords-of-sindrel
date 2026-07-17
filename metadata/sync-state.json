@@ -1238,7 +1238,7 @@
       "op_kind": "Character",
       "op_slug": "barnabus",
       "op_updated_at": "2026-07-04T21:30:43Z",
-      "repo_blob_sha": null,
+      "repo_blob_sha": "6c36e8d23c4af871a3b890bd473cd27ce092c986",
       "repo_hash_at_sync": "99c64f32d6164d0b438e35c4c32390948b92eb71f68b3a2de00f5368577bf00f",
       "repo_path": "lore/characters/barnabus.textile"
     },
