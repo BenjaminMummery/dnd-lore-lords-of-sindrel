@@ -111,6 +111,8 @@ Constraints: visitors may **Deny** custom JS (CSS withheld until Allow); no serv
 
 Local backups: `notes/obsidian-portal/` (grey palette CSS + custom JS).
 
+**ASCII only in pasted OP code:** Custom JavaScript, Custom CSS, and any HTML pasted into Campaign Settings must use plain ASCII hyphens (`-`), not em dash (U+2014) or en dash (U+2013). OP flags unicode "mimic" characters that can break scripts.
+
 ## Modes of response
 
 - **Lookup**: answer from canon; quote or paraphrase with citations.
@@ -461,7 +463,7 @@ When a **new adventure log** is added or a session recap is substantially update
 - One italic `_Through Session N (date SC)._` line — **canonical** session marker for player-facing status (do not duplicate under Party Wealth).
 - **Current date** and **As of session** on the lines below the italic.
 - **Days remaining in Sindrel** under `h3.` or `h4.` as `**~N days** (silver guest bracelets)` when the count changes in play.
-- These fields feed **`notes/lore-dashboard.html`** via `scripts/generate_lore_dashboard.py` (also run by pre-commit on commit).
+- These fields feed the **lore bridge dashboard** at `https://obsidianportal-git-sync.onrender.com/` via `obsidianportal-git-sync/src/lore_bridge/dashboard.py` (live from GitHub `main`).
 
 **Faction clocks** (GM-only block):
 - Track each Great House's **opinion** of the Wonch using **only** the nine-step scale on `the-adventurers.textile` (GM block) — no ad-hoc labels (e.g. Transactional).
@@ -506,7 +508,7 @@ When preparing a push, or after accumulating a significant batch of lore edits, 
 - **`op_updated_at` on merge** - after pull/stash/merge, ensure no touched file regressed to a lower timestamp; keep max(local, incoming).
 - **Line endings** - scan staged `.textile` for CRLF-only churn; normalize to LF before push if working tree shows phantom edits on OP-pulled files.
 - **Story so far** - if adventure logs changed, check whether `home-page.textile` **Story so far** needs updating (see above).
-- **Campaign status, faction clocks & party wealth** - if adventure logs changed, check whether `the-adventurers.textile` needs updating: current date, days remaining, faction clocks, wealth (see above). Commit regenerates `notes/lore-dashboard.html` via pre-commit.
+- **Campaign status, faction clocks & party wealth** - if adventure logs changed, check whether `the-adventurers.textile` needs updating: current date, days remaining, faction clocks, wealth (see above). Dashboard refreshes on the lore bridge after push to `main`.
 - **Player secrets** - never add `OP_PLAYER_SECRETS` markers to bio; they publish visibly. Use OP Player Secrets UI + optional `GM_INFO` mirror in repo.
 - **GM notes** - active todos live in `notes/todo.md` (e.g. OP Custom CSS, NPC statblocks); check when resuming work.
 - **Read-aloud alignment** - when adventure logs or location wiki pages change, run the *Read-aloud descriptions* check (wiki authoritative; flag missing wiki prose and log/wiki contradictions).

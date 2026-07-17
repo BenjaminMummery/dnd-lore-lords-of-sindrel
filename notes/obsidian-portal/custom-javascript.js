@@ -2,12 +2,12 @@
 // Paste into Settings -> Advanced -> Custom JavaScript (Public).
 //
 // Footnotes (end of page, never folded):
-//   Preferred — HTML comments (Textile inside is parsed normally):
+//   Preferred - HTML comments (Textile inside is parsed normally):
 //     <!-- op-footnotes -->
 //     h4. Footnotes
 //     p(#fn1). [1] Clarification here.
 //     <!-- /op-footnotes -->
-//   Or Textile div (not a raw HTML <div> — Textile inside raw HTML is not parsed):
+//   Or Textile div (not a raw HTML <div> - Textile inside raw HTML is not parsed):
 //     div(op-footnotes).
 //
 //     h4. Footnotes

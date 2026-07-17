@@ -1,0 +1,127 @@
+{
+  "title": "Lords of Sindrel",
+  "party_wealth_title": "Wonch wealth",
+  "campaign_status": {
+    "wiki_slug": "the-adventurers"
+  },
+  "pc_mentions": {
+    "groups": [
+      {
+        "id": "nakoma-kithrak",
+        "name": "Nakoma / Kithrak",
+        "color": "#383838",
+        "borderColor": "#c8c4bc",
+        "character_slugs": ["nakoma-deathwalker-mor-got-ha", "kithrak-ii"],
+        "text_patterns": [
+          "Deathwalker(?:'s|'s)?",
+          "Mor['']got['']ha",
+          "\\bDW(?:'s|'s)?\\b",
+          "Kithrak(?:'s|'s)?\\b"
+        ]
+      },
+      {
+        "id": "ros-tama",
+        "name": "Ros / Tama",
+        "color": "#3e9b6f",
+        "character_slugs": ["rossin-ros-greyhirst", "tama"],
+        "text_patterns": [
+          "\\bRos(?:'s|'s)?\\b",
+          "\\bGreyhirst(?:'s|'s)?\\b",
+          "\\bTama(?:'s|'s)?\\b",
+          "giant stoat",
+          "\\bthe stoat\\b",
+          "\\bStoat(?:'s|'s)?\\b"
+        ]
+      }
+    ]
+  },
+  "npc_demographics": {
+    "creature_slugs": [
+      "zalatan",
+      "razorbeak",
+      "kithrak-the-black",
+      "hunts-by-night",
+      "pads-silently",
+      "arise-to-victory-over-the-infidel-hoards",
+      "nans",
+      "tama",
+      "kithrak-ii"
+    ]
+  },
+  "faction_mentions": {
+    "House Oestra": {
+      "color": "#e63946",
+      "link_slugs": ["house-oestra"],
+      "wiki_pages": ["House Oestra"],
+      "text_patterns": ["\\bOestra Leageur\\b", "\\bthe Leageur\\b"]
+    },
+    "House Meness": {
+      "color": "#7ec8e3",
+      "link_slugs": ["house-meness"],
+      "wiki_pages": ["House Meness"],
+      "text_patterns": ["\\bPanopticon\\b"]
+    },
+    "House Goela": {
+      "color": "#b48cff",
+      "link_slugs": ["house-goela"],
+      "wiki_pages": ["House Goela"]
+    },
+    "House Grimbolg": {
+      "color": "#6bcb77",
+      "link_slugs": ["house-grimbolg"],
+      "wiki_pages": ["House Grimbolg"],
+      "text_patterns": ["\\bCornucopia\\b", "\\bAmalthean\\b"]
+    },
+    "House Beltus": {
+      "color": "#ffd93d",
+      "link_slugs": ["house-beltus", "beltan-institute"],
+      "wiki_pages": ["House Beltus", "Beltan Institute"],
+      "text_patterns": ["\\bBeltan Institute\\b"]
+    },
+    "House Mabon": {
+      "color": "#5b9bd5",
+      "link_slugs": ["house-mabon"],
+      "wiki_pages": ["House Mabon"]
+    },
+    "House Lithra": {
+      "color": "#c0c0c0",
+      "link_slugs": ["house-lithra"],
+      "wiki_pages": ["House Lithra"],
+      "text_patterns": ["\\bEidolon\\b"]
+    },
+    "Anathemists": {
+      "color": "#e8651a",
+      "wiki_pages": ["Anathemists"],
+      "text_patterns": ["\\bAnathemists\\b", "\\bAnathemist\\b"]
+    },
+    "The Black Cats": {
+      "color": "#7a8490",
+      "wiki_pages": ["The Black Cats"],
+      "text_patterns": ["\\bBlack Cats\\b"]
+    },
+    "The Vermillion Company": {
+      "color": "#c42126",
+      "wiki_pages": ["The Vermillion Company"],
+      "text_patterns": ["\\bVermillion Company\\b", "\\bVermillion\\b"]
+    }
+  },
+  "custom_tiles": [
+    {
+      "id": "stay",
+      "title": "Time remaining",
+      "type": "stay_bar",
+      "after": "date",
+      "heading": "Days remaining in Sindrel",
+      "limit_pattern": "(\\d+)-day visitor limit"
+    },
+    {
+      "id": "journeyman",
+      "title": "The Journeyman's Answer",
+      "type": "charge_count",
+      "after": "wealth",
+      "wiki_slug": "the-journeymans-answer",
+      "pattern": "\\*\\*Stored charges:\\*\\*\\s*(\\d+)\\s*(?:_\\(([^)]+)\\)_)?",
+      "sub_label": "stored {label} · +1 at dawn"
+    }
+  ]
+}

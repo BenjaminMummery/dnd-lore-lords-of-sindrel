@@ -17,9 +17,3 @@ repos:
         language: system
         files: ^lore/.*\.textile$
         pass_filenames: false
-      - id: generate-lore-dashboard
-        name: generate lore dashboard
-        entry: python3 scripts/generate_lore_dashboard.py
-        language: system
-        files: ^lore/
-        pass_filenames: false
