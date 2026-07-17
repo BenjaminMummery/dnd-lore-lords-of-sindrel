@@ -7,7 +7,7 @@ name: 'Session X: Planning'
 title: 'Session X: Planning'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-x-planning
 op_created_at: '2026-07-14T17:41:44Z'
-op_updated_at: '2026-07-14T17:45:32Z'
+op_updated_at: '2026-07-17T08:20:51Z'
 op_gm_only: true
 tags: []
 post_title: 'Session X: Planning'
@@ -239,7 +239,3 @@ Nothing immediate, the cats will beginning attempting to utilise it leading to a
 h2. Dulcinia
 
 What's going on with her off-screen? What does getting help from the houses of healing actually entail? Probably not a one-and-done, magical sustain of life - she's tied to sindrel.
-
-h2. The Anathemists
-
-The party haven't yet
