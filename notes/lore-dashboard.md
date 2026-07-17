@@ -1,6 +1,6 @@
 # Lore dashboard
 
-_Auto-generated on 2026-07-17 08:57. Open [lore-dashboard.html](lore-dashboard.html) for charts._
+_Auto-generated on 2026-07-17 09:27. Open [lore-dashboard.html](lore-dashboard.html) for charts._
 
 ## Current date (Session 12)
 
@@ -8,15 +8,15 @@ _Auto-generated on 2026-07-17 08:57. Open [lore-dashboard.html](lore-dashboard.h
 
 ## NPC gender (tagged persons only; percents sum to 100% of pie)
 
-- he/him: 32 (53%) - target 45%
+- he/him: 33 (54%) - target 45%
 - she/her: 18 (30%) - target 45%
-- non-binary: 10 (17%) - target 10%
+- non-binary: 10 (16%) - target 10%
 - Untagged: 0
 
 ## NPC race (tagged persons only; percents sum to 100% of pie)
 
-- Human: 21 (37%)
-- Half-orc: 6 (11%)
+- Human: 22 (38%)
+- Half-orc: 6 (10%)
 - Elf: 5 (9%)
 - Half-elf: 4 (7%)
 - Dwarf: 4 (7%)

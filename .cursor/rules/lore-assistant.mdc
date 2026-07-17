@@ -104,7 +104,7 @@ Extend the **OTHERS** `:not()` chain with `:not(.tag-city-cats)` only (not `.tag
 
 **Live behaviour** (hooks `opJsInitializedEvent`, `ajaxComplete`, `page:load`):
 
-- **VS Code-style heading folds** — wraps `h1`–`h6` sections in `<details class="op-heading-fold">`; `h1` and `h2` open by default (`defaultOpenLevel: 2`). Skips accordions, stat blocks, GM-only boxes, character name headers, and footnote blocks.
+- **VS Code-style heading folds** — wraps `h1`–`h6` sections in `<details class="op-heading-fold">`; all levels open by default (`defaultOpenLevel: 6`). Skips accordions, stat blocks, GM-only boxes, character name headers, and footnote blocks.
 - **Footnote relocation** — promotes `<!-- op-footnotes -->` … `<!-- /op-footnotes -->` comment pairs into a `.op-footnotes` div, then moves all footnote blocks to the **end of the page content root** so they are never folded inside a section.
 
 Constraints: visitors may **Deny** custom JS (CSS withheld until Allow); no server-side writes; hook after `opJsInitializedEvent`. Escape hatch: `[campaign-slug].obsidianportal.com/reset-custom-js`.

@@ -22,6 +22,10 @@ You see a grey-haired woman with a scarred cheek, dressed in fancy foreign cloth
 
 
 <!-- GM_INFO_START -->
+h2. Zealot name
+
+*Hold Fast the Covenant in Shadow* — used in [[Anathemists | Anathemist]] oaths and secure cell traffic; cover name **Marceline** in [[Sindrel | Sindrel]].
+
 h2. bio
 
 * *28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*

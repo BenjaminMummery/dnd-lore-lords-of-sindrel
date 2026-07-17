@@ -47,6 +47,47 @@ h2. Sindrel infiltration cell
 
 Embedded spy team (see [[The Investigation | The Investigation]] GM): [[:marceline | Marceline]] (cell lead), [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] (senior lieutenants), [[:arouraios | Arouraios]] (mapper), [[:regnif-d-log | Regnif d'Log]] (patsy).
 
+h2. Zealot names
+
+Initiates who pass into the order's inner cadre **choose** (or are assigned) a long, grandiose **imperative** name in antiquated religious Common — a battle cry or sermon title turned into personal identity. Pattern matches rank-and-file examples such as *Awake Ye Soldiers of Righteousness* and *Arise To Victory over the Infidel Hoards*: opening verb (*Awake*, *Arise*, *Bind*, *Mark*…), occasionally *Ye*, then a phrase of duty, enemy, or holy purpose.
+
+* **In the order:** zealot names on oaths, prayer, and secure cell traffic.
+* **Under cover in [[Sindrel | Sindrel]]:** mundane names only — Marceline, Jean, Georges, Arouraios, merchant and household identities.
+* **Interrogation risk:** captured soldiers may know a handler's zealot name but not the cover; lieutenants may know fragments of the cell's naming scheme, not full operational roster.
+
+|_. Cover |_. Role |_. Zealot name |
+| [[:marceline | Marceline]] | Cell lead | *Hold Fast the Covenant in Shadow* |
+| [[:jean-de-dinteville | Jean de Dinteville]] | Social intel, target selection | *Let the Proud Stumble at the Feast* |
+| [[:georges-de-selve | Georges de Selve]] | Quartermaster, strike logistics | *Bear Ye the Burden of Fire and Judgement* |
+| [[:arouraios | Arouraios]] | Mapper, routes | *Lay Bare Every Path the Wicked Built* |
+
+h3. Quick zealot names (NPC prep)
+
+Roll or pick when you need a soldier, courier, or minor officer on the spot. Mix structures — not every name uses *Ye*. **First word must be unique** in this list: players will shorten names at the table (*Awake*, *Arise*, *Lay*, etc.). Cell zealot names live in the table above — do not duplicate them here.
+
+* *Break the Towers of the Hubristic*
+* *Bring Judgement to the Blasphemous Path*
+* *Burn Righteous Fire Through the Abodes of the Accursed*
+* *Cast Down the Altars of False Wonder*
+* *Consume the Proud with Holy Fire*
+* *Deny the Wicked Their Hidden Ways*
+* *Fear Not the Magicians' Wrath*
+* *Gather the Host at the Appointed Hour*
+* *Gird Thyself for Holy Fire*
+* *Keep the Faithful in Steadfast Rank*
+* *Kindle Wrath Against the Sorcerous*
+* *Overthrow the Court of Hubris*
+* *Prepare the Hour of the Faithful*
+* *Proclaim the Fall of the Adversary*
+* *Purge the Blasphemers from the Land*
+* *Repent Ye Wizards in Dust and Ash*
+* *Seal the Gates Against the Unclean*
+* *Smite the Unclean Where They Gather*
+* *Spurn the Gifts of False Gods*
+* *Stand Firm Against the Sorcerous Tide*
+* *Tread Not the Paths of Sorcery*
+* *Watch the Roads by Night*
+
 h2. Next target — [[Dockward | Dockward]]
 
 Having acquired **Kosmios** intelligence from stolen Oestra files (post-[[Ditchquer | Ditchquer]] heist), the cell treats **[[Dockward | Dockward]]** as the priority strike. Ideological cover: destroy the city's trade heart. Operational truth: sabotage the **scaled rift control array** on the annulus before [[Project Kosmios | Project Kosmios]] upgrades complete — or trigger catastrophic instability if they cannot fully destroy it.
@@ -55,9 +96,11 @@ The **[[The Fulcrum | Fulcrum]]** bombing was **not** this strike; it was divers
 
 **Status (end Session 11):** fresh gunpowder from [[Quarantine Zone | Sacrum]] stockpile; [[:marceline | Marceline]] stay-behind in city; Bears out of Wallarch since the blast. Timeline: days to weeks before Dockward attempt — after party pressure at Repose / cart threads if you want breathing room.
 
+h3. Arise
+
+Once the cell learn of the capture of [[:arise-to-victory-over-the-infidel-hoards | Arise to Victory Over the Infidel Hoards]], they will begin to plan a jailbreak.
+
 h2. Ideology
-
-
 
 Anathemist ideology has its roots in the teachings of , which holds that the ability to perform magic was gifted to mortals by [[The Gods | the Gods]]. The Anathemist interpretation holds that the most powerful magic users turned their backs on the gods and used their power hubristically to improve their own station, ultimately coming to challenge the gods themselves. In retaliation, they believe, the Gods stripped mortals of their gift of magic, and turned their backs on the world.
 

@@ -36,6 +36,8 @@ fn3. [[Session 5: The Investigation Begins | Session 5: The Investigation Begins
 </div>
 
 <!-- GM_INFO_START -->
+Name: Arise to Victory over the Infidel Hoards
+
 Captured after the Anathemist patrol skirmish on the road from [[Fallowhurst | Fallowhurst]]; interrogated by [[:hielaman | Captain Hielaman]] before the [[Hexine Circle | Hexine Circle]] convened. His zealot name is *Arise To Victory Over The Infidel Hoards*.
 
 <div class="stat-block">

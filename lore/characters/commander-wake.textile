@@ -33,5 +33,5 @@ fn1. [[Session 1: The White Dragon | Session 1: The White Dragon]]
 </div>
 
 <!-- GM_INFO_START -->
-Awake Ye Soldiers of Righteousness
+Name: Awake Ye Soldiers of Righteousness
 <!-- GM_INFO_END -->

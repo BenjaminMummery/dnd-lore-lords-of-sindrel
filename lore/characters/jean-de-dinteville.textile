@@ -13,7 +13,7 @@ is_player_character: false
 tags:
 - he/him
 - Human
-avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469575/Ambassadors-Dinteville.jpg
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469571/960px-Georges_de_Selve.jpg
 ---
 
 <!-- OP_DESCRIPTION -->
@@ -37,6 +37,8 @@ fn2. [[Session 4: Sindrel! | Session 4: Sindrel!]]
 
 <!-- GM_INFO_START -->
 Real name: Jean de Dinteville
+
+Zealot name: *Let the Proud Stumble at the Feast*
 
 h2. Role in the Anathemist Plot
 

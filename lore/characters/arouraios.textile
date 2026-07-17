@@ -33,6 +33,10 @@ fn1. [[Session 11: Gunpowder, Treason, and Plot | Session 11: Gunpowder, Treason
 </div>
 
 <!-- GM_INFO_START -->
+h2. Zealot name
+
+*Lay Bare Every Path the Wicked Built* — cover identity **Arouraios** (servant / cartographer); player-facing page title *The Coachman with the Poncy Glasses*.
+
 h2. Physical description
 
 Poncy little glasses.

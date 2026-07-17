@@ -387,7 +387,7 @@
       return;
     }
     prepareFootnotes(root);
-    var defaultOpenLevel = options.defaultOpenLevel != null ? options.defaultOpenLevel : 2;
+    var defaultOpenLevel = options.defaultOpenLevel != null ? options.defaultOpenLevel : 6;
 
     var headings = Array.prototype.slice
       .call(root.querySelectorAll("h1, h2, h3, h4, h5, h6"))
@@ -472,7 +472,7 @@
 
   function run(options) {
     injectStyles();
-    var opts = options || { defaultOpenLevel: 2 };
+    var opts = options || { defaultOpenLevel: 6 };
     contentRoots().forEach(function (root) {
       foldHeadings(root, opts);
       if (needsRefold(root)) {
@@ -493,7 +493,7 @@
         setTimeout(function () {
           contentRoots().forEach(function (root) {
             if (needsRefold(root)) {
-              foldHeadings(root, { force: true, defaultOpenLevel: 2 });
+              foldHeadings(root, { force: true, defaultOpenLevel: 6 });
             }
           });
         }, delay);
