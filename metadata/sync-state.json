@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-07-17T08:01:30Z",
+  "last_git_publish": "2026-07-17T08:29:48Z",
   "last_portal_pull": "2026-07-17T08:27:58Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -657,9 +657,9 @@
       "op_id": "4a5e190c4caf45fe9f822c4acdc9f5ac",
       "op_kind": "Character",
       "op_slug": "commander-wake",
-      "op_updated_at": "2026-07-14T10:39:00Z",
-      "repo_blob_sha": "a8382c0ffd03dbabca34bda2f2e9843e57638541",
-      "repo_hash_at_sync": "16d1a64a5ff1866a9f860197ef00e3736e3923e07a0e7770a6590068e781355c",
+      "op_updated_at": "2026-07-17T08:28:12Z",
+      "repo_blob_sha": "2bc5acfa681d2638a0a278db882e78bd01a225aa",
+      "repo_hash_at_sync": "5a7e7e958b748d450d22e5c1627783e1d99b2869325b422227b8b6916b89b356",
       "repo_path": "lore/characters/commander-wake.textile"
     },
     "4b956b3b793641ce80656e74c1fa02a1": {
@@ -677,9 +677,9 @@
       "op_id": "4fe58ab4b800450e97fefba3710e0f4c",
       "op_kind": "Character",
       "op_slug": "marceline",
-      "op_updated_at": "2026-07-17T07:58:23Z",
-      "repo_blob_sha": "36be238d0cc405b66cf10e4ce16b04b1800dcad1",
-      "repo_hash_at_sync": "6e32e13e4102872c464f2190f8fe711e51f5c49512fb19812bd72d7c67d366f8",
+      "op_updated_at": "2026-07-17T08:28:22Z",
+      "repo_blob_sha": "4010ff492fd63fd3cb556c5a866152bb8d54020d",
+      "repo_hash_at_sync": "b00fc6e5e3b7ff319a0eb5de47b096c2bbdb9a1ab0667ad03961b08c9fb32d36",
       "repo_path": "lore/characters/marceline.textile"
     },
     "521416db6e4648db81c7704ac1c1e72d": {
@@ -967,9 +967,9 @@
       "op_id": "6eacb1bcf1914d3ab6564eada8c4d045",
       "op_kind": "Character",
       "op_slug": "jean-de-dinteville",
-      "op_updated_at": "2026-07-17T07:58:19Z",
-      "repo_blob_sha": "10a443da6345ac7edd5c707259561975a6903d1e",
-      "repo_hash_at_sync": "9c35adc4699b3417ecc847eb84901636772400a4c3007a6d7b5c8cab279bdcc8",
+      "op_updated_at": "2026-07-17T08:28:19Z",
+      "repo_blob_sha": "dcd6fc1e9c7eedaf104c9cff6e0ef610f1aefd0e",
+      "repo_hash_at_sync": "49144caf2431d3fc2c680b68d3ecb63b8b32fe1771cb072d3e3e129d48c30b0a",
       "repo_path": "lore/characters/jean-de-dinteville.textile"
     },
     "6f9dfa0ebbf147a791ed50efe8aceb19": {
@@ -1257,9 +1257,9 @@
       "op_id": "9d238159f301494ea08cd185326fe371",
       "op_kind": "Character",
       "op_slug": "arouraios",
-      "op_updated_at": "2026-07-17T07:58:09Z",
-      "repo_blob_sha": "654a416ccc00e45d1d81f90bbea6c4134b63a65e",
-      "repo_hash_at_sync": "e88f3dc1cd86649e38fc9a5114bfbc2d19ac8ef19cace3c14a679f5c7dc99386",
+      "op_updated_at": "2026-07-17T08:28:09Z",
+      "repo_blob_sha": "c6c482e96439e085486c5948e78592f082046adf",
+      "repo_hash_at_sync": "85e374d17d2b2a1e1ee3b6627d3f3ac3ac327cba35c6dd88fd2579428a7944e0",
       "repo_path": "lore/characters/arouraios.textile"
     },
     "9ded0d990e7843c0aba38af113a1435d": {
@@ -1327,9 +1327,9 @@
       "op_id": "a89336819da9492ab3cf1d3cbda7436b",
       "op_kind": "Character",
       "op_slug": "arise-to-victory-over-the-infidel-hoards",
-      "op_updated_at": "2026-07-14T10:38:43Z",
-      "repo_blob_sha": "e7e65bc75ef19c6a4249d7ad57570172f3602cf7",
-      "repo_hash_at_sync": "ceb6ff3c8d172f92b8a02f10a152e18d5c0dff8ddba8b5e6339bfafabf5d9b12",
+      "op_updated_at": "2026-07-17T08:28:07Z",
+      "repo_blob_sha": "b9075bc6986e7dddeca32515fc4e824ec6c1e568",
+      "repo_hash_at_sync": "d96f9d651fb56b5a6b8d696eb978044e6bfe90ff70a12aaaa0ed012b2f7d9d24",
       "repo_path": "lore/characters/arise-to-victory-over-the-infidel-hoards.textile"
     },
     "aa02ab3ce62f4689aa31a1de853374b9": {
@@ -1467,9 +1467,9 @@
       "op_id": "b98a65653b164125a107c0b7e65305a6",
       "op_kind": "Character",
       "op_slug": "georges-de-selve",
-      "op_updated_at": "2026-07-17T07:58:16Z",
-      "repo_blob_sha": "662dc1553753ad56a0007b270fb08715db07cada",
-      "repo_hash_at_sync": "958be73b635ce970a34bbc2b1c30a6f6c11a519ebe0732fcdbed8ec4e9abb76e",
+      "op_updated_at": "2026-07-17T08:28:17Z",
+      "repo_blob_sha": "56e44a7e83f68259a2a89dd174f5d4698de46335",
+      "repo_hash_at_sync": "1a9b799c109bd787d41dff27421f7f6c9561abf5208aecca0f434ef53b81fe80",
       "repo_path": "lore/characters/georges-de-selve.textile"
     },
     "ba04065d82a84b0bb7719d137b915843": {
@@ -1487,9 +1487,9 @@
       "op_id": "ba31365df7b14eef9094b4a9527967ba",
       "op_kind": "Wiki",
       "op_slug": "anathemists",
-      "op_updated_at": "2026-07-17T07:58:49Z",
-      "repo_blob_sha": "9c41ed0b48060097cdabdcb257c427720c510b5f",
-      "repo_hash_at_sync": "8e0e0aa40f62a633f59ce77b2b2986f32150125aeeb7cb38ee725fe3f8d72d30",
+      "op_updated_at": "2026-07-17T08:28:43Z",
+      "repo_blob_sha": "b8e19ca0ef446bf2cdf3f780b8dc7301872ad36b",
+      "repo_hash_at_sync": "ebc4e2e866ff8e9248faaf1bf4053945744e5538ab4b0c494ba8122a88717505",
       "repo_path": "lore/wiki/wiki/anathemists.textile"
     },
     "ba70a1fc7e2545f58bdc5e1419cb44bc": {
@@ -1807,9 +1807,9 @@
       "op_id": "e29c0674519f48e68f931ab80cac0f3a",
       "op_kind": "Wiki",
       "op_slug": "session-x-planning",
-      "op_updated_at": "2026-07-17T08:20:51Z",
-      "repo_blob_sha": "1b719a7548187c7a124a2968e811790890288403",
-      "repo_hash_at_sync": "d880245c6ca7754866455239d9e95b93c1cd326507f15145388733eac9d95d85",
+      "op_updated_at": "2026-07-17T08:28:39Z",
+      "repo_blob_sha": "19b67aeb3eb18d163ffb6aae33ed02d53dc3e65a",
+      "repo_hash_at_sync": "07a7b7c60adb56b1458eb9b0626670c382ee1715523dd0f41a01f452679a6a47",
       "repo_path": "lore/wiki/adventure-log/session-x-planning.textile"
     },
     "e2da37ba92ce4862a0165713a93c5a64": {
