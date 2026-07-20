@@ -43,12 +43,13 @@
     style.id = "op-heading-fold-styles";
     style.textContent =
       ".op-heading-fold { margin: 0 0 0.5rem; }" +
-      ".op-fold-summary { cursor: pointer; list-style: none; display: flex; align-items: baseline; gap: 0.35rem; }" +
+      ".op-fold-summary { cursor: pointer; list-style: none; display: flex; align-items: baseline; gap: 0.35rem; width: 100%; }" +
       ".op-fold-summary::-webkit-details-marker { display: none; }" +
       ".op-fold-summary::before { content: '>'; color: #64748b; font-size: 0.75rem; flex-shrink: 0; }" +
       ".op-heading-fold[open] > .op-fold-summary::before { content: 'v'; }" +
       ".op-fold-summary h1, .op-fold-summary h2, .op-fold-summary h3, " +
       ".op-fold-summary h4, .op-fold-summary h5, .op-fold-summary h6 { margin: 0; display: inline; }" +
+      ".op-heading-fold-h2 > .op-fold-summary h2 { display: block; flex: 1; min-width: 0; color: #4b0c0f; font-weight: bold; }" +
       ".op-fold-body { padding: 0.35rem 0 0.5rem; }" +
       ".op-fold-body .op-inline-link-heading { display: inline; font-size: inherit; font-weight: inherit; " +
       "letter-spacing: normal; border: none; margin: 0; padding: 0; }" +

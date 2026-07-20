@@ -43,7 +43,7 @@ Staff in a house → native. Dignitary in the salon → visitor.
 
 ## Species (population first, then tier)
 
-**Bias away from Human** on new improvisations (~1 in 4–5 may still be Human). Pick **population** first, then species from that profile. See `notes/lore-dashboard.md` race counts.
+**Bias away from Human** on new improvisations (~1 in 4–5 may still be Human). Pick **population** first, then species from that profile. See the [lore bridge dashboard](https://obsidianportal-git-sync.onrender.com/) for race counts.
 
 **Native:** Core human/elf/half-elf/dwarf/gnome/halfling · Common tiefling/aasimar/dragonborn/genasi/half-orc — prefer Common/non-human Core for native staff.
 
@@ -90,7 +90,7 @@ Oestra Latinate · Beltus Persian · Meness Norse · Goela Greek · Lithra Egypt
 
 ## Gender
 
-Target 45/45/10 he/she/nb — bias underrepresented when improvising. See `notes/lore-dashboard.md`.
+Target 45/45/10 he/she/nb — bias underrepresented when improvising. See the [lore bridge dashboard](https://obsidianportal-git-sync.onrender.com/).
 
 ## Persist
 
