@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-07-17T10:26:21Z",
-  "last_portal_pull": "2026-07-17T08:27:58Z",
+  "last_portal_pull": "2026-07-20T11:41:15Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -1927,9 +1927,9 @@
       "op_id": "fb7afdff854544d5a53af88202ee65c9",
       "op_kind": "Character",
       "op_slug": "regnif-d-log",
-      "op_updated_at": "2026-07-17T07:58:30Z",
-      "repo_blob_sha": "97909a1bfe86e545f1bd94eb2d2cc02f2ad6cd96",
-      "repo_hash_at_sync": "5c69273cf24f80a7fb4f4044a2c4716f4fc74201332eca45f05f2a09ce84a63d",
+      "op_updated_at": "2026-07-17T20:55:05Z",
+      "repo_blob_sha": "1abf10249592ad773b9f085ed372d82f35af84b8",
+      "repo_hash_at_sync": "8028f35daffe5800273931e314674aa4a9d2b17b8f73fe247bc1eb241e20d721",
       "repo_path": "lore/characters/regnif-d-log.textile"
     },
     "fc2247b3d087498b8e0e04ddf4dd13f2": {

@@ -7,7 +7,7 @@ name: Regnif d'Log
 title: Regnif d'Log
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/regnif-d-log
 op_created_at: '2026-02-13T21:45:46Z'
-op_updated_at: '2026-07-01T11:04:07Z'
+op_updated_at: '2026-07-17T20:55:05Z'
 op_gm_only: true
 is_player_character: false
 tags:
@@ -40,6 +40,8 @@ Do not reveal the link until the party has a fair shot at d'Log's name or face f
 
 h2. Heraldry
 
+[[File:1576621  | class=media-item-align-right | 500px | d_log_colour.png]]
+
 Foreign-noble cover on Ambassador Street — ostentatious, more achievement than the house strictly merits. **Sun Roc** (fantasy bird; roc-scale, impossibly grand) as the main charge. Gold references are deliberate (Goldfinger / GF & Sons) but never explained in-player. The **voided ring**, **escutcheon of pretence**, **crossed keys**, and **hooded falcon** are deliberate spy/liar symbolism — legible to heraldry-literate NPCs, not explained in play.
 
 The d'Log identity is both disguise and advertisement - to anyone literate in the language of heraldry, he's openly proclaiming his willingness to do shady deals.
@@ -52,6 +54,7 @@ h3. Arms
 
 h3. Achievement
 
+* *Crest:* Issuant from a ducal coronet Or, a falcon close proper, hooded Gules — concealed until deployed; spy symbolism, distinct from the Sun Roc on the shield.
 * *Supporters:* Two amphipteres erect, wings elevated Argent semé of bezants, bodies Vert, each gorged with a chain of bezants Or.
 * *Motto:* *In Manibus Aureis* — "In Golden Hands" (fake Cosmian Latin). On-the-nose for Goldfinger / GF & Sons: everything passes through paid hands; also reads as *held by wealth* or *at gold's disposal*. d'Log would quote it with unearned solemnity.
 
