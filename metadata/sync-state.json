@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-07-17T10:26:21Z",
+  "last_git_publish": "2026-07-20T11:43:07Z",
   "last_portal_pull": "2026-07-20T11:41:15Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -1807,8 +1807,8 @@
       "op_id": "e29c0674519f48e68f931ab80cac0f3a",
       "op_kind": "Wiki",
       "op_slug": "session-x-planning",
-      "op_updated_at": "2026-07-17T08:28:39Z",
-      "repo_blob_sha": "19b67aeb3eb18d163ffb6aae33ed02d53dc3e65a",
+      "op_updated_at": "2026-07-20T11:41:52Z",
+      "repo_blob_sha": "aa91c37f0e194b444512f4c014d4ecafaf1a3ac0",
       "repo_hash_at_sync": "07a7b7c60adb56b1458eb9b0626670c382ee1715523dd0f41a01f452679a6a47",
       "repo_path": "lore/wiki/adventure-log/session-x-planning.textile"
     },
@@ -1927,9 +1927,9 @@
       "op_id": "fb7afdff854544d5a53af88202ee65c9",
       "op_kind": "Character",
       "op_slug": "regnif-d-log",
-      "op_updated_at": "2026-07-17T20:55:05Z",
-      "repo_blob_sha": "1abf10249592ad773b9f085ed372d82f35af84b8",
-      "repo_hash_at_sync": "8028f35daffe5800273931e314674aa4a9d2b17b8f73fe247bc1eb241e20d721",
+      "op_updated_at": "2026-07-20T11:41:39Z",
+      "repo_blob_sha": "bcebc8ce6348a12766c1e01675e06bcea6abe7d2",
+      "repo_hash_at_sync": "5a80be8ab3b72cfd6f1c1872bb760a68642209c1c33aab94d3e8356cbb21f5ce",
       "repo_path": "lore/characters/regnif-d-log.textile"
     },
     "fc2247b3d087498b8e0e04ddf4dd13f2": {
