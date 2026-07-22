@@ -7,7 +7,7 @@ name: 'Session X: Planning'
 title: 'Session X: Planning'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-x-planning
 op_created_at: '2026-07-14T17:41:44Z'
-op_updated_at: '2026-07-17T08:20:51Z'
+op_updated_at: '2026-07-20T11:44:53Z'
 op_gm_only: true
 tags: []
 post_title: 'Session X: Planning'
@@ -184,7 +184,7 @@ Chuggaz was coordinating a few Scratches who were lifting some shiny from the di
 
 Potential routes from here:
 
-# Lithra gate records — cross-reference wealthy arrivals given a more complete description from the Black Cats (d'Log *32nd Eptan*, merchant pair *33rd Eptan*; second coach arrival *26th Enean* with the Wonch).
+# Lithra gate records — cross-reference wealthy arrivals given a more complete description from the Black Cats (d'Log, merchant pair 25th Enean).
 # Follow the Snake - stakeout / polite call at [[:regnif-d-log | d'Log]]'s townhouse on Ambassador Street.
 # Meness impound - gain access to the cart. Physical evidence of bomb components, plus the Black Cats smuggling system. Option of doing as the Cats requested for additional leverage, or sharing info with [[:hielaman | Hielaman]].
 # [[:gillette-quill | Gillette]] / [[:raymond-quill | Ray]] — may seek the party at [[Radwasp House | Radwasp House]] after Silrie's intervention.
@@ -196,9 +196,7 @@ bq). TODO: physical description
 
 The relevant record should reads:
 
-bq(in-world-document). _32nd Eptan 4218 SC_<br>Sir [[:regnif-d-log | Regnif d'Log]] of Goatheim. Diplomatic business. Residence: Greysheath House, Ambassador Street. Registered retainers: [[:marceline | Marceline]], household steward; [[:arouraios | Arouraios]], secretary and cartographer. Arms: Quarterly, 1st and 4th Sable semé of bezants; 2nd and 3rd Or; overall a Sun Roc displayed, the body Argent, wings elevated and addorsed, every primary feather tipped Or, beaked and membered Or, langued Gules, grasping in the dexter talon a signet ring voided Or; overall an escutcheon of pretence Argent charged with two keys in saltire Gules.* *Supporters:* Two amphipteres erect, wings elevated Argent semé of bezants, bodies Vert, each gorged with a chain of bezants Or. *Motto:* _In Manibus Aureis_. Stay extended on Lithran authority until formal conclusion of diplomatic business.
-
-bq(in-world-document). _33rd Eptan 4218 SC_<br>[[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]], merchants (declared origin [[Artresh | Artresh]]). Commercial business. Separate gate manifest from d'Log household. Stay on standard mercantile registration pending renewal.
+bq(in-world-document). _28th Eptan 4218 SC_<br>Sir [[:regnif-d-log | Regnif d'Log]] of Goatheim.<br>Diplomatic business.<br>Residence: Greysheath House, Ambassador Street.<br>Registered retainers: [[:marceline | Marceline]], household steward; [[:arouraios | Arouraios]], secretary and cartographer.<br>Arms: Quarterly, 1st and 4th Sable semé of bezants; 2nd and 3rd Or; overall a Sun Roc displayed, the body Argent, wings elevated and addorsed, every primary feather tipped Or, beaked and membered Or, langued Gules, grasping in the dexter talon a signet ring voided Or; overall an escutcheon of pretence Argent charged with two keys in saltire Gules.* *Supporters:* Two amphipteres erect, wings elevated Argent semé of bezants, bodies Vert, each gorged with a chain of bezants Or. *Motto:* _In Manibus Aureis_.<br>Stay extended on Lithran authority until formal conclusion of diplomatic business.
 
 h2. Optional: Stake-out Ambassador Street
 
