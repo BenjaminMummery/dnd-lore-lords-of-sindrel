@@ -150,11 +150,11 @@ h2. Districts
 
 Though often described as a single city, Sindrel is more accurately understood as two overlapping cities occupying the same space. The Lower City rests upon the ground beneath the floating districts, spreading outward from the base of [[The Fulcrum | the Fulcrum]]. Here are found the markets, warehouses, academies, military installations, and residential districts that sustain daily life. Many Sindrellans, particularly [[Adjutant | Adjutants]], spend the majority of their lives in the Lower City, traversing its streets and climbing the great ramps that connect it to the levels above.
 
-Suspended overhead is the Upper City, a network of floating plazas, bridges, towers, and estates connected by an intricate lattice of walkways. Airships pass between these structures like gondolas through a crowded harbour, while merchants, diplomats, and nobles conduct their affairs high above the streets below. To visitors arriving from abroad, the Upper City is often the face of Sindrel; a dazzling display of magical architecture that seems to defy gravity itself.
+Above the ground, the Upper City rises in successive tiers - floating plazas, towers, and estates stepping upward in a roughly conical pattern around the Fulcrum (excluding [[Dockward | Dockward]]). Each tier is smaller than the one below; ramps and walkways link tier to tier, but **no bridge connects to the Fulcrum itself** — the spire stands apart at the centre, with districts arranged around it at a respectful distance. Airships pass between the upper structures like gondolas through a crowded harbour, while merchants, diplomats, and nobles conduct their affairs high above the streets below. To visitors arriving from abroad, the Upper City is often the face of Sindrel; a dazzling display of magical architecture that seems to defy gravity itself.
 
-The two halves of the city are linked by a series of broad ascending ramps that spiral gradually upward from the Lower City to the floating districts. Most citizens make these journeys on foot. The wealthy travel by carriages drawn by summoned beasts, while the most influential members of the Great Houses make use of [[House Beltus | House Beltus]]'s teleportation network to bypass distance altogether.
+The two halves of the city are linked by broad ascending ramps that spiral gradually upward from the Lower City into the tiered districts. Most citizens make these journeys on foot. The wealthy travel by carriages drawn by summoned beasts, while the most influential members of the Great Houses make use of [[House Beltus | House Beltus]]'s teleportation network to bypass distance altogether.
 
-At the centre of both cities stands [[The Fulcrum | The Fulcrum]]. Rising from the ground and extending through the floating districts to heights beyond [[Dockward | Dockward]], it serves as the political heart of Sindrel and the most visible reminder that all parts of the city ultimately answer to the same authority.
+At the centre of both cities stands [[The Fulcrum | The Fulcrum]]. Rising from the ground and extending through the tiered districts to heights beyond [[Dockward | Dockward]], it serves as the political heart of Sindrel and the most visible reminder that all parts of the city ultimately answer to the same authority — even though nothing is built *onto* it.
 
 h3. Lower City Districts
 
@@ -194,7 +194,7 @@ Home to [[The Heptade Academy | the Heptade Academy]] and much of Sindrel's acad
 
 h4. [[Dockward | Dockward]]
 
-The centre of Sindrel's airship trade, a mile-wide floating ring suspended around the upper reaches of [[The Fulcrum | the Fulcrum]] like a colossal halo. Colloquially called _the annulus_, it is the gateway through which much of the city's commerce enters and leaves.
+The centre of Sindrel's airship trade — a floating ring suspended around the upper reaches of [[The Fulcrum | the Fulcrum]] like a colossal halo. Colloquially called _the annulus_, it is the gateway through which much of the city's commerce enters and leaves. The ring is **narrow relative to the Lower City** — less than half its width — and sits apart from the conical tier districts below it; it is not itself one of those tiers.
 
 h3. Singular Landmarks
 

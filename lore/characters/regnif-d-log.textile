@@ -66,7 +66,7 @@ h3. In play
 
 h2. Role in the Anathemist Plot
 
-Regnif d'Log is the spy cell's patsy. He entered [[Sindrel | Sindrel]] with his servants, [[:arouraios | Arouraios]] and [[:marceline | Marceline]], while [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] entered separately under merchant cover. d'Log is not the mastermind; [[:marceline | Marceline]] is the de-facto cell lead. d'Log's usefulness lies in his respectability, his money, and his carelessness.
+Regnif d'Log is the spy cell's patsy. He entered [[Sindrel | Sindrel]] with his servants, [[:arouraios | Arouraios]] and [[:marceline | Marceline]], on the **32nd of Eptan 4218 ([[The Soulwind Calendar | SC]])**, while [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] entered separately under merchant cover on the **33rd**. d'Log is not the mastermind; [[:marceline | Marceline]] is the de-facto cell lead. d'Log's usefulness lies in his respectability, his money, and his carelessness.
 
 d'Log's household gives [[:marceline | Marceline]] and Arouraios a reason to be in [[Sindrel | Sindrel]]. It gives them rooms, errands, appointments, servants' access, household accounts, and a plausible reason to conduct business with local specialists. When Marceline deals with [[:kelferria-the-smith | Kelferria]] for enchanted armour, she does so while supposedly acting as d'Log's agent. This ties the transaction to a plausible wealthy patron rather than to the [[Anathemists | Anathemist]] cell itself.
 

@@ -42,7 +42,7 @@ Zealot name: *Bear Ye the Burden of Fire and Judgement*
 
 h2. Role in the Anathemist Plot
 
-Georges de Selve is one of the [[Anathemists | Anathemist]] agents operating under the cover of a wealthy merchant. He entered [[Sindrel | Sindrel]] separately from [[:regnif-d-log | Regnif d'Log]]'s household, alongside Jean de Dinteville, allowing the spy cell to appear as two unrelated groups rather than a single conspiracy.
+Georges de Selve is one of the [[Anathemists | Anathemist]] agents operating under the cover of a wealthy merchant. He entered [[Sindrel | Sindrel]] separately from [[:regnif-d-log | Regnif d'Log]]'s household on the **33rd of Eptan 4218 ([[The Soulwind Calendar | SC]])**, alongside Jean de Dinteville, allowing the spy cell to appear as two unrelated groups rather than a single conspiracy.
 
 Georges is a **senior lieutenant** to [[:marceline | Marceline]], the cell lead. He acts as quartermaster and commercial face - implementing supply plans and exit strategy Marceline sets, not owning the overall operation.
 
@@ -54,7 +54,32 @@ During the [[Ditchquer | Ditchquer]] closing ceremony, Georges and Jean planted 
 
 Georges, Jean, and the kidnapped locksmith [[:nielsenn | Nielsenn]] then emerge from the [[Osteomantic Archives | archives]] within the [[House Oestra | leaguer]]. In the dark, the crude symbol painted on their armour passed as [[House Oestra | House Oestra]]. Using Silas's key and Nielsenn's locksmith expertise, they gain access to [[:silas-oestra | Silas Oestra]]'s rooms, copied what they could, and stole what they could not.
 
-Afterwards, Georges and Jean took [[:nielsenn | Nielsenn]] back to the Sacum, killed him, and left the city, returning to their cover identities as merchants. Thirty-five days later, they returned to [[Sindrel | Sindrel]] for more “merchanting”, this time accompanied by [[The Adventurers | The Adventurers]].
+Afterwards, Georges and Jean took [[:nielsenn | Nielsenn]] back to the Sacrum, killed him, and left the city, returning to their cover identities as merchants. Thirty-five days after the [[Ditchquer | Ditchquer]] heist they returned to [[Sindrel | Sindrel]] for more “merchanting”, this time accompanied by [[The Adventurers | The Adventurers]] (*26th Enean 4218* — see player-facing bio).
+
+h3. Timeline
+
+* *33rd of Eptan, year 4218 ([[The Soulwind Calendar | SC]])*
+** Entered Sindrel in the guise of a merchant.
+* *36th of Eptan, year 4218 ([[The Soulwind Calendar | SC]])*
+** Theft of Black Cats waste cart.
+* *6th of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** [[House Grimbolg | Grimbolg]] water-silo sabotage ([[:dogara | D'gara]] drowned); nitre theft under cover of the flood.
+* *8th of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** Kidnap of [[:nielsenn | Nielsenn]]; staged shop explosion (public record: vaporisation).
+* *14th of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** [[House Beltus | Beltus]] summoning sabotage ([[:caller-georg | Caller Georg]] killed in the chaos); sulphur theft under cover of the demon incident.
+* *21st of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** Sabotage of [[:emissary-isius | Emissary Isius]] — opportunistic attack to obscure the wider plan.
+* *25th of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** Used the stolen cart to move bombs to the fulcrum.
+** With the aid of [[:jean-de-dinteville | Jean de Dinteville]] and [[:arouraios | Arouraios]], moved bombs through the servants entrance into the fulcrum tunnels.
+** Primed the explosives.
+** Exited, received Silas's stolen key from [[:arouraios | Arouraios]].
+** Rode the cart back to the Quarantine Zone breach, abandoned it. Passed through into the Sacrum, collecting Nielsenn.
+** Emerged in Leageur, using the chaos of the bombing and fake Oestra armour as cover.
+** Accessed Silas's rooms with the aid of Nielsenn, stealing Kosmios documentation.
+** Returned to the Sacrum via the catacombs, murdered Nielsenn.
+** Departed Sindrel.
 
 h3. Investigative footprint
 

@@ -20,11 +20,8 @@ tags:
 You see a man with dark hair, a neatly trimmed beard, and small, fussy glasses. His hands are soft, with ink stains at the fingers - educated, not physically imposing, but watchful with an air of slippery situational awareness.
 
 <!-- OP_BIO -->
-* *28th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** On the night of the [[Ditchquer | Ditchquer]] closing ceremony attack, a coachman matching this description was seen emerging from the tunnels below [[The Fulcrum | The Fulcrum]] and boarding a coach parked next to the exit.
-* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
-** [[:nort | Nort]] recalled a lost-looking coachman with a neatly trimmed beard and small, fussy glasses, bringing a carriage down near the entrance service tunnels during the closing ceremony. She could not name him or his dignitary; described the carriage coat of arms as something with a bird on it.[1]
-
+* *25th of Ostory, year 4218 ([[The Soulwind Calendar | SC]]) - The Fulcrum Bombing*
+** [[:nort | Nort]] saw a lost-looking coachman with a neatly trimmed beard and small, fussy glasses, bringing a carriage down near the entrance service tunnels during the closing ceremony. She could not name him or his dignitary; described the carriage coat of arms as something with a bird on it.[1]
 
 <div class="op-footnotes">
 
@@ -43,7 +40,7 @@ Poncy little glasses.
 
 h2. Role in the Anathemist Plot
 
-Arouraios is part of the [[Anathemists | Anathemist]] spy cell embedded in [[:regnif-d-log | Regnif d'Log]]'s household, outwardly serving as a servant and cartographer. He entered [[Sindrel | Sindrel]] with d'Log and [[:marceline | Marceline]], creating a domestic retinue that appeared separate from the merchant cover used by [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]].
+Arouraios is part of the [[Anathemists | Anathemist]] spy cell embedded in [[:regnif-d-log | Regnif d'Log]]'s household, outwardly serving as a servant and cartographer. He entered [[Sindrel | Sindrel]] with d'Log and [[:marceline | Marceline]] on the **32nd of Eptan 4218 ([[The Soulwind Calendar | SC]])**, creating a domestic retinue that appeared separate from the merchant cover used by [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] (who registered **33rd Eptan**).
 
 He reports to [[:marceline | Marceline]], the cell lead, as route-finder, surveyor, and mapper.
 
@@ -53,9 +50,37 @@ In the sabotage campaign before the [[Ditchquer | Ditchquer]] closing ceremony, 
 
 Arouraios is responsible for the chalk marks found in the catacombs. These marks are not random graffiti, but a working navigation system for the cell: route markers, danger signs, temporary storage indicators, and instructions for moving through confusing or unsafe passages.
 
-During the [[Ditchquer | Ditchquer]] closing ceremony, Arouraios was disguised as a coachman. After [[:marceline | Marceline]] stole [[:silas-oestra | Silas Oestra]]'s key, she passed it to Arouraios who returned to the stationary coach. [[:georges-de-selve | Georges de Selv]]e and [[:jean-de-dinteville | Jean de Dinteville]], emerging from the tunnels after planting their explosives, collected the key from him.
+During the [[Ditchquer | Ditchquer]] closing ceremony, Arouraios was disguised as a coachman. After [[:marceline | Marceline]] stole [[:silas-oestra | Silas Oestra]]'s key, she passed it to Arouraios who returned to the stationary coach. [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]], emerging from the tunnels after planting their explosives, collected the key from him.
 
 Arouraios's canonical role in the [[Ditchquer | Ditchquer]] operation is therefore the key handoff. His broader operational role is what makes that handoff possible: he knows where the coach must be, when the merchants will emerge, and how the tunnel route connects to the rest of the plan.
+
+h3. Timeline
+
+* *32nd of Eptan, year 4218 ([[The Soulwind Calendar | SC]])*
+** Entered Sindrel as part of the d'Log household.
+* *36th of Eptan, year 4218 ([[The Soulwind Calendar | SC]])*
+** Theft of Black Cats waste cart.
+* *6th of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** [[House Grimbolg | Grimbolg]] water-silo sabotage ([[:dogara | D'gara]] drowned); nitre theft under cover of the flood.
+* *8th of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** Kidnap of [[:nielsenn | Nielsenn]]; staged shop explosion (public record: vaporisation).
+* *14th of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** [[House Beltus | Beltus]] summoning sabotage ([[:caller-georg | Caller Georg]] killed in the chaos); sulphur theft under cover of the demon incident.
+* *21st of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** Sabotage of [[:emissary-isius | Emissary Isius]] — opportunistic attack to obscure the wider plan.
+* *25th of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** Drove d'Log and Marceline to the ceremony.
+** Parked the coach by the servants' entrance.
+** Assisted [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] in moving the bombs.
+** While they primed the fuses, entered the function and received Silas's stolen key from [[:marceline | Marceline]].
+** Returned to the coach.
+** Handed off the key to Georges and Jean.
+* *34th of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** Poisoning of [[:f-lar-mnementh | Tyromancer Pterath]] ([[House Goela | Goela]]) — stay-behind operation; delivery routes and handoffs under Marceline's direction.
+* *8th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** Anonymous approach to [[:craftsman-shegrim | Craftsman Shegrim]] — courier and cover for Marceline's double-reflection amulet commission.
+* *17th of Enean, year 4218 ([[The Soulwind Calendar | SC]])*
+** [[:major-vindas | Major Vindas]] killed by inverted reflection armour — chestplate chain traced to Shegrim commission (Marceline stay-behind).
 
 h3. Investigative footprint
 

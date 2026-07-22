@@ -128,6 +128,7 @@ h3. Enean (_9th Month_) [end-title]
 h2. GM notes
 
 * **Anchor year:** 4218 SC (31st Enean) — all “years ago” on this page are from 4218.
+
 * **3218:** Dimensional tear discovered; SinDReG dispatched; SinDReL camp founded around the rift — true origin of [[Sindrel | Sindrel]] (public myth: eight mages, no rift).
 * **~3220s:** **Rift stabilisation** planned and executed (~3228 SC) — tear under Circle control; short windows for exploration.
 * **~3226:** **Soulwind conduit** — two-way link along [[The Mage Road | the Mage Road]]; transference towers; burst power to refocus the rift between world-targets.
@@ -145,6 +146,12 @@ h2. GM notes
 * **Conduit:** Destroyed at Riftlock (~3245 SC); tower ruins remain on [[The Mage Road | the Mage Road]].
 * **3958:** Seven Day War (~260 years before 4218). **Brassmeade Bridge:** [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and a handful of goliath warriors held the crossing **ten days**; slain; resurrected by [[:nitherfang-gilfrarrin | Nitherfang Gilfrarrin]]. **Contractor networks** deliver war dead to the [[Osteomantic Archives | Osteomantic Archives]] across the **3960s–4020s**; Seven Day War diorama grows piecemeal.
 * **~4217:** Mad King of **Corvus** — [[:pin | Pin]] (~21) with Black Bloods (King's side). **GM:** [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] fought for the rebels.
-* **~4185 / ~4213:** [[Anathemists | Anathemists]] emerge (~33 years ago); escalate sharply ~5 years before present.
 * **~4150:** [[Project Kosmios | Project Kosmios]] — move [[Sindrel | Sindrel]] bodily into [[Kosmios | Kosmios]]; see [[The Octarion Circle | Octarion Circle]] for founder afflictions and the seven-house limitation.
+* **~4185 / ~4213:** [[Anathemists | Anathemists]] emerge (~33 years ago); escalate sharply ~5 years before present.
+* **4218**
+** *32nd Eptan* — [[:regnif-d-log | d'Log]] household ([[:marceline | Marceline]], [[:arouraios | Arouraios]]) enter Sindrel.
+** *33rd Eptan* — [[:georges-de-selve | Georges]] / [[:jean-de-dinteville | Jean]] (merchant cover) enter Sindrel
+** *25th Ostory* — Ditchquer / Fulcrum heist, [[:georges-de-selve | Georges]] / [[:jean-de-dinteville | Jean]] leave;
+** *34th Ostory; 8th / 17th Enean* — stay-behind sabotage ([[:marceline | Marceline]], [[:arouraios | Arouraios]]);
+** *26th Enean* — [[:georges-de-selve | Georges]] / [[:jean-de-dinteville | Jean]] return with the Wonch. Full chronology: [[The Investigation | The Investigation]] GM *Anathemist cell timeline*.
 <!-- GM_INFO_END -->

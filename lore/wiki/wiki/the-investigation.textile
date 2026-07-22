@@ -200,11 +200,59 @@ h2. The Spies
 
 Marceline runs the embedded half of the cell (retainer cover, Sacrum staging, stay-behind). Georges and Jean execute merchant-cover operations and the Ditchquer climax on her timeline; Jean's timings and Georges's supply runs implement Marceline's plan rather than a separate agenda.
 
+h2. Anathemist cell timeline (4218 SC)
+
+Canonical collated chronology for the embedded cell. Per-agent beats and investigative footprints: [[:marceline | Marceline]], [[:georges-de-selve | Georges de Selve]], [[:jean-de-dinteville | Jean de Dinteville]], [[:arouraios | Arouraios]], [[:regnif-d-log | Regnif d'Log]] (patsy — character GM *Timeline* sections).
+
+* *32nd Eptan*
+** [[:regnif-d-log | d'Log]] household enters [[Sindrel | Sindrel]] — Greysheath House, Ambassador Street; Sun Roc arms; diplomatic registration. [[:marceline | Marceline]] (butler), [[:arouraios | Arouraios]] (secretary / cartographer). [[:regnif-d-log | d'Log]] unknowing patsy.
+** [[:marceline | Marceline]]: [[:kelferria-the-smith | Kelferria]] enchanted-armour order placed in d'Log's name (samples for [[Quarantine Zone | Sacrum]] staging and false [[House Oestra | Oestra]] kit).
+
+* *33rd Eptan*
+** [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] enter under merchant cover (separate gate manifest; declared origin [[Artresh | Artresh]]).
+
+* *36th Eptan*
+** Cell: theft of [[The Black Cats | Black Cats]] waste cart — garbage-collection pipeline for moving materials. [[:arouraios | Arouraios]] maps routes; [[:georges-de-selve | Georges]] / [[:jean-de-dinteville | Jean]] operational muscle.
+
+* *6th Ostory*
+** [[House Grimbolg | Grimbolg]] water-silo sabotage — control rod inverted; [[:dogara | D'gara]] drowned; nitre stolen from adjacent silos under cover of flood. [[:georges-de-selve | Georges]]: cart logistics.
+
+* *8th Ostory*
+** Kidnap of [[:nielsenn | Nielsenn]]; staged shop explosion (public record: vaporisation). [[:marceline | Marceline]]: identified target; cell holds him in [[Quarantine Zone | Sacrum]] for the heist.
+
+* *14th Ostory*
+** [[House Beltus | Beltus]] summoning sabotage — circle vandalised; [[:caller-georg | Caller Georg]] killed in demon chaos; sulphur silo emptied and fire set to cover theft. [[:jean-de-dinteville | Jean]]: social intel and timing; [[:georges-de-selve | Georges]]: cart.
+
+* *21st Ostory*
+** [[House Lithra | Lithra]] diplomatic function — truth-speaking punch ladle swapped; [[:emissary-isius | Emissary Isius]] scandal. Opportunistic paranoia beat. [[:jean-de-dinteville | Jean]]: selected target and timing.
+
+* *25th Ostory* — [[Ditchquer | Ditchquer]] closing ceremony / Fulcrum diversion / Oestra heist
+** [[:georges-de-selve | Georges]] / [[:jean-de-dinteville | Jean]]: stolen cart delivers bombs to [[The Fulcrum | Fulcrum]]; with [[:arouraios | Arouraios]], move devices through servants' entrance into service tunnels; prime fuses.
+** [[:marceline | Marceline]]: pickpockets [[:silas-oestra | Silas Oestra]]'s [[Silas Oestra's Chamber Key | chamber key]] at the ceremony.
+** [[:arouraios | Arouraios]]: drives d'Log and Marceline; parks coach at servants' entrance; assists bomb move; receives key from Marceline inside function; returns to coach; hands key to Georges and Jean.
+** First device detonates; [[House Oestra | Oestra]] reinforcements drawn to [[The Fulcrum | Fulcrum]].
+** Georges / Jean: collect key; cart to [[Quarantine Zone | Quarantine Zone]] breach (abandoned near [[The Wallarch District | Wallarch]]); through breach to [[Quarantine Zone | Sacrum]]; collect [[:nielsenn | Nielsenn]].
+** Georges / Jean / Nielsenn: emerge from [[Osteomantic Archives | archives]] in [[House Oestra | Leageur]] in false Oestra armour; access Silas's rooms; copy and steal files (including **Kosmios** material — cell learns the name here).
+** Georges / Jean: return via catacombs to Sacrum; murder Nielsenn; **depart Sindrel**.
+** [[:marceline | Marceline]], [[:arouraios | Arouraios]], and d'Log household **remain** (stay-behind).
+
+* *34th Ostory*
+** Stay-behind ([[:marceline | Marceline]], [[:arouraios | Arouraios]]): poisoning of [[:f-lar-mnementh | Tyromancer Pterath]] ([[House Goela | Goela]]). Arouraios: delivery routes and handoffs.
+
+* *8th Enean*
+** Stay-behind ([[:marceline | Marceline]], [[:arouraios | Arouraios]]): anonymous commission to [[:craftsman-shegrim | Craftsman Shegrim]] — double-reflection amulet trap. Arouraios: courier and cover.
+
+* *17th Enean*
+** Stay-behind ([[:marceline | Marceline]], [[:arouraios | Arouraios]]): [[:major-vindas | Major Vindas]] killed testing inverted reflection armour (chestplate chain via Shegrim).
+
+* *26th Enean*
+** [[:georges-de-selve | Georges]] and [[:jean-de-dinteville | Jean]] return on the [[Sindrel Coach | Sindrel Coach]] with [[The Adventurers | the Wonch]] (~35 days after Ditchquer); merchant cover re-established. [[:marceline | Marceline]] still embedded in d'Log household.
+
 h2. The Heist
 
 h3. Setup
 
-* Enter the city as small groups - Regnif d'Log] and his servants [[:arouraios | Arouraios]] and [[:marceline | Marceline]] as one group, the merchants [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] as another.
+* Enter the city as small groups — see *Anathemist cell timeline* (*32nd / 33rd Eptan*).
 * Use the criminals around the city to infiltrate the garbage collection. This gives them a way to move materials around the city.
 * [[:marceline | Marceline]], supposedly acting as an agent of [[:regnif-d-log | d'Log]], made a deal with a magical armourer ([[kelferria-the-smith | Kelferria]] of [[House Mabon | House Mabon]]) for a large order of enchanted armour. She made a large down payment with promises of a lot more.  Kelferria produced a few samples, which is what she actually wanted. This serves two purposes: protection within the [[Quarantine Zone | quarantine zone]] so they can use The [[Quarantine Zone | Sacrum]] as their staging ground, and disguises - the armorer supplies [[House Oestra | House Oestra]], so the chest-plates, once clumsily decorated with the oestra crest, will pass as Oestra at a distance.
 
@@ -219,6 +267,8 @@ h3. Gathering Supplies
 
 h3. The [[Ditchquer | Ditchquer]] Closing Ceremony
 
+_Full beat order with role assignments: *Anathemist cell timeline* — *25th Ostory*._
+
 * [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] plant the explosives.
 * At the [[Ditchquer | Ditchquer]] Closing ceremony, [[:marceline | Marceline]] lifts [[:silas-oestra | Silas Oestra]]'s key and passes it off to [[:arouraios | Arouraios]] who is disguised as a coachman.
 * [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]]  emerge from the tunnels and colect the key from  [[:arouraios | Arouraios]]
@@ -227,7 +277,7 @@ h3. The [[Ditchquer | Ditchquer]] Closing Ceremony
 * [[:georges-de-selve | Georges de Selve]], [[:jean-de-dinteville | Jean de Dinteville]] and the locksmith [[:nielsenn| Nielsenn]] emerge from the archives within the [[House Oestra | leaguer]]. In the dark, the symbol painted on their armour passes as House Oestra.
 * They make their way to the keep, using the key and locksmith to access [[:silas-oestra | Silas's]] rooms. They copy what they can and steal what they can't, then leave.
 * [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] take [[:nielsenn| Nielsenn]] back to the hq, where they kill him. They then leave the city, returning to the disguise as merchants.
-* 35 days later, they return for more 'merchanting'. Marceline, as part of d'Log's retinue, has been permitted to remain until her master's business is concluded.
+* Marceline, as part of d'Log's retinue, has been permitted to remain until her master's business is concluded (*26th Enean* — Georges and Jean return: *Anathemist cell timeline*).
 
 h3. Kosmios and elite panic
 

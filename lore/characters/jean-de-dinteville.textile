@@ -42,7 +42,7 @@ Zealot name: *Let the Proud Stumble at the Feast*
 
 h2. Role in the Anathemist Plot
 
-Jean de Dinteville is one of the [[Anathemists | Anathemist]] agents operating under the cover of a wealthy merchant. He entered [[Sindrel | Sindrel]] with [[:georges-de-selve | Georges de Selve]], separately from [[:regnif-d-log | Regnif d'Log]], [[:marceline | Marceline]], and [[:arouraios | Arouraios]]. This allowed the cell to maintain two plausible social fronts inside the city: a respectable merchant partnership and a visiting household retinue.
+Jean de Dinteville is one of the [[Anathemists | Anathemist]] agents operating under the cover of a wealthy merchant. He entered [[Sindrel | Sindrel]] with [[:georges-de-selve | Georges de Selve]] on the **33rd of Eptan 4218 ([[The Soulwind Calendar | SC]])**, separately from [[:regnif-d-log | Regnif d'Log]], [[:marceline | Marceline]], and [[:arouraios | Arouraios]] (household **32nd Eptan**). This allowed the cell to maintain two plausible social fronts inside the city: a respectable merchant partnership and a visiting household retinue.
 
 Jean is a **senior lieutenant** to [[:marceline | Marceline]], the cell lead. Target selection and social access (e.g. the [[Ditchquer | Ditchquer]] night, the [[House Lithra | Lithra]] punchbowl scandal) serve objectives Marceline sets; Jean does not run the cell independently.
 
@@ -56,7 +56,32 @@ During the [[Ditchquer | Ditchquer]] closing ceremony, Jean and Georges planted 
 
 Jean and Georges then travelled through the [[Osteomantic Archives | archives]], collected [[:nielsenn | Nielsenn]] from the [[Quarantine Zone | Sacrum]], then emerged within the [[House Oestra | Leageur]] wearing armour whose painted symbol passed as [[House Oestra | House Oestra]] in the dark. With Silas's key and Nielsenn's locksmith skills, they accessed [[:silas-oestra | Silas Oestra]]'s rooms, copied what they could, and stole what they could not. Jean and Georges then took Nielsenn back to the cell's headquarters, killed him, and left [[Sindrel | Sindrel]], returning to their merchant identities.
 
-Thirty-five days later, Jean and Georges returned to [[Sindrel | Sindrel]] for more “merchanting”, this time in the company of [[The Adventurers | The Adventurers]].
+Thirty-five days after the [[Ditchquer | Ditchquer]] heist they returned to [[Sindrel | Sindrel]] for more “merchanting”, this time in the company of [[The Adventurers | The Adventurers]] (*26th Enean 4218* — see player-facing bio).
+
+h3. Timeline
+
+* *33rd of Eptan, year 4218 ([[The Soulwind Calendar | SC]])*
+** Entered Sindrel in the guise of a merchant.
+* *36th of Eptan, year 4218 ([[The Soulwind Calendar | SC]])*
+** Theft of Black Cats waste cart.
+* *6th of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** [[House Grimbolg | Grimbolg]] water-silo sabotage ([[:dogara | D'gara]] drowned); nitre theft under cover of the flood.
+* *8th of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** Kidnap of [[:nielsenn | Nielsenn]]; staged shop explosion (public record: vaporisation).
+* *14th of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** [[House Beltus | Beltus]] summoning sabotage ([[:caller-georg | Caller Georg]] killed in the chaos); sulphur theft under cover of the demon incident.
+* *21st of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** Sabotage of [[:emissary-isius | Emissary Isius]] — opportunistic attack to obscure the wider plan.
+* *25th of Ostory, year 4218 ([[The Soulwind Calendar | SC]])*
+** Used the stolen cart to move bombs to the fulcrum.
+** With the aid of [[:georges-de-selve | Georges de Selve]] and [[:arouraios | Arouraios]], moved bombs through the servants entrance into the fulcrum tunnels.
+** Primed the explosives.
+** Exited, received Silas's stolen key from [[:arouraios | Arouraios]].
+** Rode the cart back to the Quarantine Zone breach, abandoned it. Passed through into the Sacrum, collecting Nielsenn.
+** Emerged in Leageur, using the chaos of the bombing and fake Oestra armour as cover.
+** Accessed Silas's rooms with the aid of Nielsenn, stealing Kosmios documentation.
+** Returned to the Sacrum via the catacombs, murdered Nielsenn.
+** Departed Sindrel.
 
 h3. Investigative footprint
 

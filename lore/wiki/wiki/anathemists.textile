@@ -47,6 +47,17 @@ h2. Sindrel infiltration cell
 
 Embedded spy team (see [[The Investigation | The Investigation]] GM): [[:marceline | Marceline]] (cell lead), [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] (senior lieutenants), [[:arouraios | Arouraios]] (mapper), [[:regnif-d-log | Regnif d'Log]] (patsy).
 
+h3. Infiltration timeline (4218 SC)
+
+* *32nd Eptan* — d'Log household enters [[Sindrel | Sindrel]] (Marceline, Arouraios).
+* *33rd Eptan* — Georges and Jean enter under merchant cover.
+* *6th–25th Ostory* — sabotage campaign and gunpowder thefts (full cell).
+* *25th Ostory* — Ditchquer / Fulcrum heist; Georges and Jean depart.
+* *34th Ostory; 8th / 17th Enean* — stay-behind sabotage (Marceline, Arouraios only).
+* *26th Enean* — Georges and Jean return on the coach with [[The Adventurers | the Wonch]].
+
+Detail: [[The Investigation | The Investigation]] GM *Anathemist cell timeline*.
+
 h2. Zealot names
 
 Initiates who pass into the order's inner cadre **choose** (or are assigned) a long, grandiose **imperative** name in antiquated religious Common — a battle cry or sermon title turned into personal identity. Pattern matches rank-and-file examples such as *Awake Ye Soldiers of Righteousness* and *Arise To Victory over the Infidel Hoards*: opening verb (*Awake*, *Arise*, *Bind*, *Mark*…), occasionally *Ye*, then a phrase of duty, enemy, or holy purpose.
