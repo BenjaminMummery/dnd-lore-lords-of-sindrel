@@ -1,0 +1,58 @@
+\documentclass[letterpaper,twocolumn,openany,nodeprecatedcode]{dndbook}
+
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[singlelinecheck=false]{caption}
+\usepackage[toc,nonumberlist,nopostdot]{glossaries}
+
+\captionsetup[table]{labelformat=empty,font={sf,sc,bf,},skip=0pt}
+
+\makeglossaries
+\input{glossary-entries}
+\input{attributed-quote}
+\input{timeline}
+
+\setglossarystyle{altlist}
+\renewcommand*{\glsnamefont}[1]{\textbf{#1}}
+
+\title{A Traveller's Guide to Arcan}
+\author{Compiled for the convenience of registered guests}
+\date{4218 SC}
+
+\begin{document}
+
+\frontmatter
+
+\maketitle
+\tableofcontents
+
+% Part 0 — Front matter
+\input{chapters/front-matter/publishers-note}
+\input{chapters/front-matter/how-to-use}
+\input{chapters/front-matter/maps}
+\input{chapters/front-matter/calendar-coin-courtesy}
+
+\mainmatter
+
+% Part I — Arcan: The Changing World
+\part{Arcan: The Changing World}
+\input{chapters/arcan/01-age-of-fading-magic}
+\input{chapters/arcan/02-wheel-and-forms}
+\input{chapters/arcan/03-geography-of-arcan}
+\input{chapters/arcan/04-peoples-and-tongues}
+\input{chapters/arcan/05-trade-winds-of-history}
+
+% Part II — Artresh: The Northern Continent
+\part{Artresh: The Northern Continent}
+\input{chapters/artresh/06-land-of-artresh}
+\input{chapters/artresh/07-northern-trade}
+\input{chapters/artresh/08-thrones-and-successor-states}
+\input{chapters/artresh/09-faith-on-artresh}
+\input{chapters/artresh/10-chronicle-of-artresh}
+
+\appendix
+
+\part{Reference}
+\input{chapters/reference/glossary}
+
+\end{document}

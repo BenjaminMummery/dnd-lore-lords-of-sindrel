@@ -19,9 +19,9 @@ avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7467306/Half-Elf-Illustr
 ---
 
 <!-- OP_DESCRIPTION -->
-The captain is a gruff half-elf man with pale skin and an athletic, square-shouldered build, his pale hair cropped short and his jaw clean-shaven, his knuckles scarred from sword work. On duty he wears the [[House Meness | Meness]] watch uniform: a long white high-collared tunic-coat squared at the shoulders, charcoal trousers tucked into polished black boots, black calfskin gloves, and a broad belt from which hang a shortsword and truncheon — the House trident embroidered on the coat's back. He carries a standard-issue kite shield when armed for the field.
+You see a gruff half-elf man in his forties with pale skin and an athletic, square-shouldered build — broad through the chest, narrow at the waist, moving like someone who drills formations for breakfast. His pale hair is cropped short and practical; his jaw is clean-shaven; his knuckles are scarred from sword work. On duty he wears the [[House Meness | Meness]] watch uniform in full: a long white high-collared tunic-coat squared at the shoulders and falling to the knee, fastened with a vertical line of pale metal buttons and edged with subtle woven knotwork in the old northern style. Charcoal trousers are tucked into polished black boots; black calfskin gloves cover his hands. A broad leather belt hangs with a shortsword and truncheon at his hip, and the House trident is embroidered large on the coat's back — white cloth chosen to be seen, not to hide in. Small runic rank bars at his collar and shoulder-tabs mark him as a senior officer; when armed for the field he carries a standard-issue kite shield, white-lacquered and unapologetically visible.
 
-Hielaman carries himself with poise and precision — a man accustomed to command and conscious that he represents his House in every interaction. He is watchful, impatient with nonsense. He speaks in clipped, authoritative sentences, as though every word were an order waiting to be obeyed.
+He carries himself with poise and precision — a man accustomed to command and conscious that he represents his House in every interaction. He is watchful, impatient with nonsense. He speaks in clipped, authoritative sentences, as though every word were an order waiting to be obeyed.
 
 h3. Key Items
 

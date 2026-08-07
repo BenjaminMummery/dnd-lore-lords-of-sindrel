@@ -1,0 +1,27 @@
+
+h2. The Summons
+
+Late afternoon - a messenger from House Oestra finds the adventurers as they're leaving the Cornucopia.
+
+Text of the message:
+
+bq). By order of the House of Oestra
+<br>
+Let it be known to the recipients of this writ - the investigators commissioned under the [[Hexine Circle | Hexine Circle]] and presently lodged at [[Radwasp House | Radwasp House]] - that their presence is required before the Senate of [[House Oestra | House Oestra]] at the Leageur.
+<br>
+They will attend in person and without delay. Arms may be worn; shields are not required and will not be furnished. A House escort will meet them at the Triumphal Gate should they lack suitable conveyance.
+<br>
+The matter concerns breaches of Oestran security and the disposition of the investigators duties. Testimony will be taken. Evasion, fabrication, or tardiness will be recorded as contempt of a Great House.
+<br>
+Amanuensis Cassian Horation
+By authority of Silas Oestra, Heir Apparent
+<br>
+Impetus Est Optima Protectio
+
+Alternative: Cedric at the door
+
+bq). “Good morning. [[House Oestra | House Oestra]] requests your attendance at the Leageur, and I use the word requests in the sense that one requests a fire to please stop spreading. [[:commander-locke | Prefect Locke]] will receive you at the Triumphal Gate. [[:silas-oestra | Master Silas]] is… eager to continue your recent conversation regarding the catacombs. I would advise punctuality. The House does not enjoy being kept waiting, and I would prefer not to explain singed curtains to [[House Lithra | Lithra]] again.”
+
+The party have elected to keep Oestra waiting. This is going to be interesting.
+
+h2. Oestra

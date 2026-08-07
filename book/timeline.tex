@@ -1,0 +1,68 @@
+% Vertical timeline for two-column DnD guide layout.
+%
+% Usage:
+%   \begin{DndTimeline}[The Fade at a Glance]
+%     \DndTimelineEvent{3850 SC}{First stirrings of the death of magic.}
+%     \DndTimelineEvent{4218 SC}{Present year.}
+%   \end{DndTimeline}
+
+\RequirePackage{tikz}
+\usetikzlibrary{calc}
+
+\newcounter{dndtimelineevent}
+
+% TikZ x units = cm. Spine at x=0; dates/text at this offset.
+\newcommand{\dndtimelinecontent}{0.14}
+
+\NewDocumentEnvironment{DndTimeline}{O{}}{%
+  \setcounter{dndtimelineevent}{0}%
+  \IfValueT{#1}{%
+    \par\vspace{0.25\baselineskip}%
+    \begingroup\DndFontTableTitle #1\nopagebreak\par\endgroup
+    \vspace{0.35\baselineskip}%
+  }{}%
+  \begin{center}%
+  \begin{tikzpicture}[
+    x=1cm,
+    y=1cm,
+    dnd timeline dot/.style={fill=titlered, circle, inner sep=1.75pt},
+    dnd timeline date/.style={anchor=west, font=\bfseries\small},
+    dnd timeline text/.style={
+      anchor=north west,
+      align=left,
+      text width=\dimexpr\columnwidth-0.75cm\relax,
+      font=\small,
+    },
+  ]
+}{%
+  \ifnum\value{dndtimelineevent}>0\relax
+    \draw[titlered, line width=0.9pt]
+      (dndtimelinefirstdot) -- (dndtimelinelastdot);
+  \fi
+  \end{tikzpicture}%
+  \end{center}%
+  \vspace{0.35\baselineskip}%
+}
+
+\newcommand{\DndTimelineEvent}[2]{%
+  \stepcounter{dndtimelineevent}%
+  \edef\dndtimelineid{\number\value{dndtimelineevent}}%
+  \def\dndtimelinedate{#1}%
+  \def\dndtimelinetext{#2}%
+  \ifnum\value{dndtimelineevent}=1\relax
+    \node[dnd timeline date] (dndt-\dndtimelineid-d)
+      at (\dndtimelinecontent, 0) {\dndtimelinedate};
+  \else
+    \node[dnd timeline date] (dndt-\dndtimelineid-d)
+      at ($ (dndtimelineprev) + (0,-0.55) $) {\dndtimelinedate};
+  \fi
+  \node[dnd timeline text] (dndt-\dndtimelineid-v)
+    at ([yshift=-0.15cm]dndt-\dndtimelineid-d.south west) {\dndtimelinetext};
+  \node[dnd timeline dot] (dndt-\dndtimelineid-o)
+    at (0, 0 |- dndt-\dndtimelineid-d.west) {};
+  \ifnum\value{dndtimelineevent}=1\relax
+    \coordinate (dndtimelinefirstdot) at (dndt-\dndtimelineid-o);
+  \fi
+  \coordinate (dndtimelinelastdot) at (dndt-\dndtimelineid-o);
+  \coordinate (dndtimelineprev) at (dndt-\dndtimelineid-v.south west);
+}

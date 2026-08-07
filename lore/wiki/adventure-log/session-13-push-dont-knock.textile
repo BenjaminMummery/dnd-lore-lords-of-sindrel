@@ -1,0 +1,157 @@
+---
+op_slug: session-13-push-dont-knock
+op_kind: Wiki
+op_type: Post
+name: "Session 13: Push, Don't Knock"
+title: "Session 13: Push, Don't Knock"
+op_gm_only: false
+tags: []
+post_title: 'Session 13: Push, Don''t Knock'
+post_tagline: birds, bracelets, and a broken bar
+post_time: '2026-07-22T21:00:00Z'
+---
+
+h2. Dramatis Personae
+
+[accordion]
+    [accordion-item]
+        [title] [[The Adventurers | The Adventurers]] [end-title]
+        [content]
+            * [[:amanira | Amanira]], a drow druid.
+            * [[:ayr | Ayr]], gnome paladin.
+            * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
+            * [[:pin | Pin]], a human fighter.
+            * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
+            * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
+            * [[:wilrin-racenglade | Wilrin Ravenglade]], a halfling sorcerer.
+        [end-content]
+    [end-accordion-item]
+    [accordion-item]
+        [title] [[The Black Cats | The Black Cats]] [end-title]
+        [content]
+            * [[:sable-silvestre | Sable]]
+        [end-content]
+    [end-accordion-item]
+    [accordion-item]
+        [title] [[House Lithra | House Lithra]] [end-title]
+        [content]
+            * [[:kebi-neferu | Kebi Neferu]] — records clerk at the gate-side archive.
+        [end-content]
+    [end-accordion-item]
+    [accordion-item]
+        [title] [[Radwasp House | Radwasp House]] [end-title]
+        [content]
+            * [[:cedric | Cedric]]
+            * [[:gillette-quill | Gillette Quill]]
+            * a chicken
+        [end-content]
+    [end-accordion-item]
+[end-accordion]
+
+h2. The Price of Answers
+
+_Evening of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
+Session 12 ended with a bargain struck in [[The Wallarch District | Wallarch]]: a demonstration of the necromantic sigil, traded to [[The Black Cats | the Black Cats]] for information. Session 13 opened where that debt came due.
+
+[[The Adventurers | The Wonch]] were still in [[:sable-silvestre | Sable]]'s private room at the Cutthroat's Repose. The ledger was closed. The sigil parchment was already hers. What remained was the calm, transactional delivery of everything the Cats had promised.
+
+bq). "We had an arrangement. You delivered on your side — dramatically, but adequately. I'll perform mine."
+<br>
+"Ask your questions. I'll answer the ones you've paid for."
+
+What followed was methodical. Sable described the cart crew that had muscled into the garbage trade months earlier: aggressive, well funded, buying routes and servants' gates rather than territory. After the [[The Fulcrum | Fulcrum]] bombing they abandoned their cart near the [[Quarantine Zone | Quarantine Wall]] breach — to the Cats' irritation, [[:hielaman | Captain Hielaman]]'s people got there first — and the familiar faces vanished.
+
+bq). "Four that we know of.
+<br>
+"The bulk of their work down here was two men, both with pale skin and dark hair and beards. We nicknamed them *the Bears* — one large, one smaller, both dangerous. They ran the cart, did the violence and heavy lifting. Merchants by day, if you can trust our tails' reports. Haven't been seen in Wallarch since the bombing. Best guess is they left the city.
+<br>
+"Then there's *The Weasel* — dark hair, little glasses, neat beard. Soft hands and ink stains, so probably educated. If you believe the Scratch we had watching, he seemed to know the back alleys and snickleways almost as well as a local. Annoying at evasion, but we didn't see any violence out of him. Decent at disguise too; never seemed out of place.
+<br>
+"Last up, *The Snake* — grey hair, scarred cheek. Fancy foreign clothes with an out-of-town crest. Not courtly fancy, but fancy. The Bears deferred to her in conversation. We tailed her as far as Ambassador Street; couldn't be more precise than that. Rare sightings this past month." She taps the ledger cover once. "Coordinator, I suspect. Not hired muscle."
+
+The Weasel and Snake's daytime cover, Sable added, matched a noble household on Ambassador Street — a crest heavy with birds on a black-and-gold field. [[:wilrin-racenglade | Wilrin]]'s history, even with [[:amanira | Amanira]]'s guidance, turned up no familiar Great House match.
+
+When pressed on [[:chuggaz | Chuggaz]], Sable admitted he was at a Cat safe house and offered to summon him. The Wonch demanded he be sent to [[Radwasp House | Radwasp House]] instead. Sable refused an interview outside Cat control. They took her word for what Chuggaz saw on the night of the bombing. Chuggaz had contrived to remain at his post in the Fulcrum tunnels past his allotted duties - a valuable position for the Black Cats' purposes as he could wave through waste carts that weren't on the official schedule. Carts with convenient nooks and crannies in which purloined goods could be quietly secreted. From this vantage, he was witness to two men matching the Bears, in servant dress, entering through the Fulcrum servants' door and departing again within a short interval; faces wrong for staff Chuggaz knew.
+
+The questioning widened. Sable would not sell the ledger's broader contents — inflation, she said, beyond the paid transaction — but dangled *compromat* on [[House Oestra | House Oestra]] if the party wanted leverage before answering [[:silas-oestra | Silas Oestra]]'s summons. Officially the House had been on training exercises for months, street presence near zero, country institutions absorbed by [[House Meness | House Meness]] — while buying weapons and armour at an alarming rate. Not training, she implied. Not something they wanted known. She also mentioned a familiar name, Silas Oestra, whose summons even now languished in the Wonch's possession. The young heir of House Oestra, and a man making liberal use of the privileges of his position. Young Silas had apparently spent the last few months leaving a trail of trashed drinking establishments and disgruntled practitioners of negotiable affection across the city. Most recently, he'd been banned from [[The Bound Garden | The Bound Garden]], a house of ill repute on the upper tiers.
+
+Sable reiterated her offer with regards to the impounded cart - if the Wonch could prevent Heilaman from learning of its hidden compartments, and thus developing an interest in similar features on the _active_ carts, further favours from the Black Cats would be forthcoming.
+
+h2. Lithra Records Office
+
+_Night of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
+[[House Oestra | House Oestra]]'s writ still waited. The party chose investigation over obedience, again. The next lead was gate records: who entered Sindrel roughly two months ago, when the Anathemist cell appeared. [[House Lithra | House Lithra]]'s archive beside the main gate was the obvious place to ask.
+
+bq). The records office crouches beside the gate — plain by Sindrel standards, which is to say absurdly grand by the standards of anywhere else. Warm grey stone rises in paired pylons flanking a shallow portico. Beyond them, slender columns stand close together, their capitals carved into closed buds and wreaths that some long-dead architect briefly thought was very subtle and cool. The building is seamless Sindrel stonework, as though the city simply decided one morning that there ought to be a hypostyle hall here and then grew one. Ash, slate, and smoke grey dominate, with silver filigree at lintels and the occasional thread of muted gold or deep blue. Stones stare into the threshold like a hint rather than a boast. High above the doors, the House Lithra eye is worked into the clerestory grille in the shape you might mistake for decoration until you notice it is looking directly down at everyone who passes through the entrance.
+
+The door was closed. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] ignored the knockers, set her shoulders, and pushed. The bar across the inside gave up with a creaking snap. [[:kebi-neferu | Kebi Neferu]], a half-elf clerk in Lithra grey — warm brown skin, dark hair in a severe knot, sleeves rolled for desk work — stepped back just in time to avoid being flattened, and asked, with admirable restraint, why the Wonch had destroyed the door.
+
+bq). The interior is something like a library that takes itself incredibly seriously. The air is dry and a little warmer than the mountain climate warrants, lit by very well-enclosed lanterns — even magically conjured flame is regarded as too dangerous to be left unguarded here, because every wall and basically all available space is taken up by shelves. Most shelves are filled with ledgers, manifests, bound registers; people move even at this late hour, busy with the administrative work of tracking everyone entering and leaving the city. Your new acquaintance leads you through to a side room where there are the means to make tea, and comfortable, if slightly dilapidated chairs.
+
+Tea had proven to be a useful social lubricant with the startled-awake Nort, and so the Wonch deployed it again. [[:amanira | Amanira]] produced a functionally perfect cup. [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s attempt involved baked beans and a protein-shake philosophy that left [[:kebi-neferu | Kebi]] somewhat shaken for the second time that day. Once fortified, the Wonch explained they were [[Hexine Circle | Hexine Circle]] investigators seeking noble arrivals over the past two months, and offered the Black Cats' bird-heavy crest sketch.
+
+A group investigation through the registers found what they needed.
+
+h3. Stoic Sphinx
+
+_Night of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
+bq(in-world-document). _32nd of Eptan 4218 SC_
+<br>Sir [[:regnif-d-log | Regnif d'Log]] of Goatheim.
+<br>Diplomatic business.
+<br>Residence: Greysheath House, Ambassador Street.
+<br>Registered retainers: [[:marceline | Marceline]], household steward; [[:arouraios | Arouraios]], secretary and cartographer.
+<br>Arms: Quarterly, 1st and 4th Sable semé of bezants; 2nd and 3rd Or; overall a Sun Roc displayed, the body Argent, wings elevated and addorsed, every primary feather tipped Or, beaked and membered Or, langued Gules, grasping in the dexter talon a signet ring voided Or; overall an escutcheon of pretence Argent charged with two keys in saltire Gules. *Supporters:* Two amphipteres erect, wings elevated Argent semé of bezants, bodies Vert, each gorged with a chain of bezants Or. *Motto:* _In Manibus Aureis_.
+<br>Stay extended on Lithran authority until formal conclusion of diplomatic business.
+<br>
+_4218·VII·032 — Stoic Sphinx_ (diplomatic manifest, Greysheath House)
+<br>
+_4218·VII·032 — Ardent Inquiry_ — Marceline, retainer, bound to master serial steward.
+<br>
+_4218·VII·032 — Laconic Inquiry_ — Arouraios, retainer, bound to master serial secretary.
+
+The following day's entries contained two familiar names:
+
+bq(in-world-document). Georges de Selve, _4218·VII·033 — Sanguine Dragon Merchant_. Departed _4218·VII·025_.
+<br>Jean de Hinterville
+
+Names the party remembered from the [[Session 1: The White Dragon | White Dragon]] caravan, the Fallowhurst road, and the Anathemist ambush. They matched the Bears' merchant cover.
+
+Heraldry checks (with official blazon read aloud) let those trained in such language reconstruct the Sun Roc and amphiptere supporters — matching Sable's description exactly. [[:rossin-ros-greyhirst | Ros]] recalled seeing it on a coach parked near [[Radwasp House | Radwasp House]] when they moved in. Greysheath House was on Ambassador Street; d'Log's household had arrived roughly two months before the Wonch, and looked deeply suspicious.
+
+Further questions yielded bracelet registration codes for the party's own entry, an explanation of Lithra's two-word daily naming scheme (a randomly assigned moniker used to distinguish the registration of bracelets asigned on the same day), and, after persuasion, the fact that lodestones beneath the city log nearest bracelet positions on a routine basis, controlled from the Panopticon. Factors rarely used the gate ledgers; the airship dock was the glamorous route. Captain Hielaman's somewhat abortive rescue after the Anathemists accosted the Wonch on the plain before Sindrel appeared in the records. No smoking gun tied a Great House Factor to the Anathemist entries — yet.
+
+[[:kebi-neferu | Kebi]] promised to summon a joiner from [[House Grimbolg | Grimbolg]] to repair the door.
+
+h2. Casing the Joint for Justice
+
+_Late night of the 31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
+The party returned to [[Radwasp House | Radwasp House]], a short walk from Greysheath. [[:cedric | Cedric]] met the party at the door with another [[House Oestra | Oestra]] message — same hand as before, now with an addendum that further delay would not be tolerated. [[:pin | Pin]] instructed him to bin it. [[:wilrin-racenglade | Wilrin]] read it first anyway, noting the amanuensis's hand for possible forgery later.
+
+[[:gillette-quill | Gillette Quill]] had arrived ahead of them — sent from the Repose after [[:silrie-aegiskiir | Silrie]]'s intervention — and was nervously eating the potpouri. Cedric assigned him a guest room; [[:raymond-quill | Ray]] could follow. Gillette was nervous about walking out on the Cats but accepted shelter and a shoulder from Silrie.
+
+Greysheath could not wait for Oestra's pleasure. The plan: send Gillette to scout entrances and occupancy like the reformed ruffian he almost was; send [[:amanira | Amanira]] separately without telling him, to verify his report; deploy Ros across the street; let Deathwalker aperform elaborate chicken-based reconnaissance (*Critch* — keep-up-the-chicken — was invented as practice); Wilrin, Pin, and Ayr valiently investigated Radwasp House's stock of spirits.
+
+Gillette reported back at Radwasp after casing the joint:
+
+* A coach with suspiciously stiff suspension — built for heavier loads than passengers alone.
+* A coal scuttle on the house exterior with deep cart tracks, as if for frequent deliveries.
+
+The chicken overflight counted five people inside Greysheath. Amanira's watch saw nothing that contradicted Gillette's account, trust tentatively earned.
+
+The session ended with the Wonch back at Radwasp, anti-drunk sandwiches, and a plan still to make: how to approach [[:regnif-d-log | Regnif d'Log]]'s townhouse — knock, stake out, or pound the door — while [[House Oestra | House Oestra]]'s patience ran out.
+
+<!-- GM_INFO_START -->
+
+h2. Prep pointers
+
+* [[:silas-oestra | Silas]] and the Senate contempt hearing remain unplayed — see [[Session X: Planning | Session X: Planning]] (*The Summons*).
+* Ambassador Street confrontation, burn plan, and catacomb chase are next beats when the party enters Greysheath.
+* [[:chuggaz | Chuggaz]] remains at a Cat safe house; Sable would summon him to the Repose, not Radwasp.
+* Cart liberation favour still open with [[:sable-silvestre | Sable]].
+* Lithra records clerk improvised as Katie Neferu — promote to character page if reused.
+
+<!-- GM_INFO_END -->

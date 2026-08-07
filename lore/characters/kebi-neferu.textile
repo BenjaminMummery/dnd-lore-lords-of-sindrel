@@ -1,0 +1,68 @@
+---
+op_slug: kebi-neferu
+op_kind: Character
+op_type: Character
+name: Kebi Neferu
+title: Kebi Neferu
+op_gm_only: false
+is_player_character: false
+tags:
+- she/her
+- Half-elf
+- House Lithra
+- Adjutant
+---
+
+<!-- OP_DESCRIPTION -->
+You see a composed half-elf woman in her thirties with warm brown skin and a slight, desk-trained build. Her dark hair is drawn back in a severe knot that does not quite hide a grey streak at the temple; no facial hair. She wears [[House Lithra | Lithra]] grey over silver — layered ash-coloured wool and fine linen, a narrow beaded usekh at the throat, sleeves rolled for ledger work but cuffs still crisp — and a gold guest-bracelet pin on her cuff that marks house patronage rather than visitor silver. She presents as unhurried and professionally restrained, the sort of clerk who has filed ten thousand names and intends to file ten thousand more. Her eyes flick to your bracelet before your face; she speaks in complete sentences, measured and dry, and does not fill silence she did not invite.
+
+<!-- OP_BIO -->
+[[Adjutant | Adjutant]] of [[House Lithra | House Lithra]] — records clerk at the gate-side archive beside [[Sindrel | Sindrel]]'s main entrance.
+
+* *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
+** [[The Adventurers | The Wonch]] broke the archive door's interior bar after [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] pushed past the knockers; Kebi stepped back in time and asked, with admirable restraint, why they had destroyed it.
+** Led the party through the ledger hall to a side room for tea; endured [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s disastrous attempt at hospitality.
+** Assisted [[Hexine Circle | Hexine Circle]] investigators searching gate registers for noble arrivals over the preceding two months; the search surfaced [[:regnif-d-log | Regnif d'Log]]'s diplomatic manifest (*Stoic Sphinx*, 32nd Eptan) and linked the Sun Roc arms to the Black Cats' bird-heavy crest sketch.
+** Explained bracelet registration codes, [[House Lithra | Lithra]]'s two-word daily naming scheme for ledger entries, and — after persuasion — that lodestones beneath the city log nearest bracelet positions from the Panopticon.
+** Promised to summon a [[House Grimbolg | Grimbolg]] joiner to repair the door.
+
+<div class="op-footnotes">
+
+fn1. [[Session 13: Push, Don't Knock | Session 13: Push, Don't Knock]]
+
+</div>
+
+<!-- GM_INFO_START -->
+h2. Prep
+
+* Knows which ledger volumes are consultation-only versus what clerks may pull without a [[Factor | Factor]]'s countersignature — and which adjutants routinely ask for the wrong shelf.
+* Wisdom on House traffic patterns: [[Factor | Factors]] rarely use gate ledgers; the airship dock is the glamorous route. Captain [[:hielaman | Hielaman]]'s pointless plane rescue after the [[Fallowhurst | Fallowhurst]] calamity appears in the records.
+* No smoking gun tying a Great House [[Factor | Factor]] to the Anathemist entries — yet.
+* The party learned her name at the archive; she is identifiable on return.
+
+h2. Stat block
+
+<p><em>Non-combatant.</em> Fights only if the archive itself is threatened; otherwise summons security or closes the consultation ledgers.</p>
+
+<div class="stat-block">
+<h3>Kebi Neferu</h3>
+<p><em>Medium humanoid (half-elf), lawful neutral</em></p>
+<p><strong>Armor Class</strong> 10<br>
+<strong>Hit Points</strong> 9 (2d8)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +0</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>10 (+0)</td><td>10 (+0)</td><td>10 (+0)</td><td>14 (+2)</td><td>13 (+1)</td><td>12 (+1)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> History +4, Insight +3, Investigation +4, Persuasion +3<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 11<br>
+<strong>Languages</strong> Common, Elvish<br>
+<strong>Challenge</strong> 0 (10 XP)</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Ledger slap.</strong> <em>Melee Weapon Attack:</em> +2 to hit, reach 5 ft., one target. <em>Hit:</em> 1 bludgeoning damage and the target must succeed on a DC 12 Wisdom saving throw or feel disproportionately guilty about paperwork.</p>
+</div>
+<!-- GM_INFO_END -->

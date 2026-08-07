@@ -1,0 +1,34 @@
+# Lords of Sindrel — locations visited or established through Session 12
+# Render: uv run python scripts/render-sindrel-tubemap.py
+
+# S1–3: approach to the city
+line approach #00782A
+  white-dragon[White Dragon Inn] -> mage-road[Mage Road] -> fallowhurst -> fallowhurst-college[Fallowhurst College] -> fallowhurst-outpost[Fallowhurst Outpost] -> merchants[Merchant's Quarter]
+
+# S4+: lower city (ground level)
+line lower-city #DC241F
+  merchants -> pointed-hat[Pointed Hat] -> temple[Dawn Father Temple] -> sevenways -> fulcrum[The Fulcrum] -> leageur[The Leageur] -> granary[Granary Ward] -> cornucopia[The Cornucopia]
+  sevenways -> wallarch
+
+# S4, 6, 12: Wallarch & quarantine edge
+line wallarch #9B0056
+  wallarch -> repose[Cutthroat's Repose] -> wallarch-archives[Wallarch Archives] -> crossroads[The Crossroads] -> quarantine[Quarantine Zone]
+
+# S6–8: catacombs
+line catacombs #B36305
+  wallarch-archives -> hall-dragons[Hall of Dragons] -> hall-sages[Hall of Sages] -> crossroads -> hall-aberrations[Hall of Aberrations] -> hall-founders[Hall of the Founders] -> shrine[Queen of Ravens Shrine] -> oestra-archives[Oestra Archives] -> leageur
+
+# S4–12: upper city tiers
+line upper-city #0098D4
+  scholars[Scholars Ward] -> heptade[Heptade Academy] -> healing[Houses of Healing] -> merrylane -> radwasp[Radwasp House] -> merrylane-park[Merrylane Park] -> eidolon[The Eidolon] -> fulcrum
+
+# S5, 10–11: institutions & House seats
+line institutions #EE7C0E
+  fulcrum -> hexine[Hexine Circle Tower] -> panopticon[The Panopticon]
+  fulcrum -> dockward -> prow[The Prow]
+  merrylane-park -> canted[Canted Terrace] -> bound-garden[The Bound Garden] -> beltan[Beltan Institute]
+  leageur -> oestra-senate[Oestra Senate]
+
+# S11–12: Fulcrum service layer
+line fulcrum-service #95CDBA
+  fulcrum -> servants-tunnels[Fulcrum Tunnels] -> servants-quarters[Servants' Quarters]

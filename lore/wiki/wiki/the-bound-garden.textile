@@ -1,0 +1,51 @@
+---
+op_slug: the-bound-garden
+op_kind: Wiki
+op_type: WikiPage
+name: The Bound Garden
+title: The Bound Garden
+op_gm_only: false
+tags:
+- location
+- Sindrel
+---
+
+An upper-tier house of negotiable affection on [[The Canted Terrace | the Canted Terrace]] — illicit in letter, tolerated in practice, and spoken of by anyone who matters as though it were a respectable private club that happens to require an introduction. Foreign factors, visiting heirs, and Sindrellians with expense accounts treat it as part of the city's unwritten hospitality. The [[Hexine Circle | Hexine Circle]] does not advertise it; neither does it shut it down.
+
+[[:silas-oestra | Silas Oestra]] was banned from the premises in early 4218 SC after an incident the proprietors describe, with admirable vagueness, as _a failure of manners toward the staff_.[1]
+
+h3. Exterior
+
+bq). The sign is modest on purpose: gilt letters on black lacquer, _The Bound Garden_, and beneath them, in smaller script, _Private Repose. By Introduction._ No painted nymphs, no winking cherubs — only a pierced bronze screen set into the facade so that lamplight falls through arabesque cutouts and spills onto the Terrace walk in patterns too pretty to be innocent.
+<br>
+The building is [[House Beltus | Beltus]]-leaning in its bones whether or not anyone admits the connection: black marble steps, gold-threaded tiles, smoke-coloured veils behind the screen, and a door that opens before your hand quite reaches it. Coachmen know the address. Factors mention it without blushing. Merrylane residents pretend not to know which direction it lies.
+
+h3. Interior
+
+bq). Incense first — amber, musk, something sweet enough to make you forget what district you are in. Corridors turn where straight lines would be easier; pierced screens throw latticed shadow across black polished floors. Attendants appear when needed and never when they are not: flawless, unhurried, attentive in a way that feels less like service and more like being _seen through_. The rooms are small palaces — cushions, low lamps, reflecting pools no larger than a washbasin, gold filigree on every latch. Nothing is shabby. Nothing is hurried. The price list, if you ever see one, is written in the same calm hand as a summoning contract.
+
+h2. Reputation
+
+* **Open secret** — not on civic maps; universally known among the upper tiers.
+* **Discreet admission** — introduction, House credit, or a name vouched for by an existing client.
+* **Upper-tier clientele** — diplomats, merchant princes, bored heirs, and Factors who prefer their indulgences screened from [[Merrylane | Merrylane]] windows.
+* **Staff** — the house maintains that its attendants are _bound for the evening_ and _released at dawn_. No employment contracts are filed with the city. No one asks follow-up questions.
+
+<div class="op-footnotes">
+
+fn1. [[Session 13: Push, Don't Knock | Session 13: Push, Don't Knock]] — [[:sable-silvestre | Sable Silvestre]]'s intelligence on [[:silas-oestra | Silas Oestra]].
+
+</div>
+
+<!-- GM_INFO_START -->
+h2. Overview
+
+Covert [[House Beltus | House Beltus]] revenue and influence operation. Public proprietor is a shell Caller; senior Beltus Factors hold the real keys. No human sex workers on the roster — clients are attended by **summoned succubi** (or incubi on request), bound for the appointment and dismissed afterward. Beltus treats this as disciplined conjuration: circles, witnesses among senior staff, banishment on the hour. The house is illegal; the House considers it **regulated**.
+
+**Why here:** [[The Canted Terrace | The Canted Terrace]] is already screened from [[Merrylane | Merrylane]], respectable enough for foreign clients, close to [[Beltan Institute | Beltan Institute]] expertise if a binding slips. An open secret suits Beltus — visible enough to collect kompromat, deniable enough to disavow.
+
+**Silas:** banned after he attempted to **command** an attendant as though she were Oestra levy infantry. The binding held; the proprietors did not forgive the insult to their craft.
+
+**Investigation hooks:** succubus circles resemble the vandalised page in [[:caller-georg | Caller Georg]]'s grimoire; sulphur receipts; a Factor's ledger listing _garden maintenance_; clients who remember more than they should after dismissal ( botched banishment ).
+
+<!-- GM_INFO_END -->

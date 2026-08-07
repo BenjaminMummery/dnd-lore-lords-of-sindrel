@@ -20,3 +20,8 @@ The Canted Terrace is an upper-level district associated with [[House Beltus | H
 The Terrace is not secret, but it is discreet. It is the sort of place everyone important knows about and very few wealthy residents wish to see from their windows.
 
 A network of service platforms are positioned below the Terrace. The magical refuse of a thousand summonings run down sealed waste pipes to be collected by recycling carts below. One of these still bears the scars of the sulphurous explosion that followed the death of [[:caller-georg | Caller Georg]].
+
+h2. Locations
+
+* [[Beltan Institute | The Beltan Institute]]
+* [[The Bound Garden | The Bound Garden]] — upper-tier house of negotiable affection; illicit but tolerated; an open secret among Factors and foreign visitors.

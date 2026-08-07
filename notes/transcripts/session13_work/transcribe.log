@@ -1,0 +1,5108 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+{
+  "approach": "align + per-window best-source selection (not amplitude stack)",
+  "reason": "Opposite table mics: stacking causes phase issues; switching preserves clearest speaker per moment.",
+  "mp3": "/Users/bmummery/Downloads/The Lords of Sindrel Session 13.mp3",
+  "wav": "/Users/bmummery/Downloads/2026-07-22-18-54-25.WAV",
+  "sample_rate": 16000,
+  "duration_sec": 11555.89325,
+  "cross_correlation_offset_samples": -196780,
+  "cross_correlation_offset_sec": -12.29875,
+  "wav_stereo_correlation": 0.9999999999999999,
+  "merged_wav": "notes/transcripts/session13_work/session13_merged.wav"
+}
+[    0.0] Ignore it as a harsh word.
+[    2.0] We are important players.
+[    4.0] We get reset.
+[    6.0] We get it that way.
+[    8.0] We're getting there.
+[   10.0] Otherwise engaged.
+[   12.0] Yeah.
+[   14.0] We went to get one in the city.
+[   16.0] We're engaged?
+[   18.0] You did. You went to find...
+[   20.0] You tried to find chuggers with advantage.
+[   22.0] And you had a conversation with
+[   24.0] Nans?
+[   26.0] Naught?
+[   28.0] Nans!
+[   30.0] Nans because it was a Nanship business.
+[   32.0] You'll find out.
+[   34.0] Because I believed it.
+[   38.0] Okay.
+[   40.0] You followed chuggers to
+[   42.0] Warlarch.
+[   44.0] You met
+[   46.0] the Black Hats.
+[   48.0] And their representative Sable.
+[   50.0] And Ross started like a
+[   52.0] shindig. You did?
+[   54.0] That was cool.
+[   56.0] A party party?
+[   58.0] Traded.
+[   60.0] Rather than doing a heist,
+[   62.0] you decided to hand over
+[   64.0] a potentially magical super weapon
+[   66.0] to the local organized crime group.
+[   68.0] That was a good one.
+[   70.0] I raised rats.
+[   72.0] I killed little zombie rats.
+[   74.0] The heist was a dodgy with positions.
+[   76.0] It's true.
+[   78.0] I perfectly convinced one of
+[   80.0] our bandit friends to join
+[   82.0] my cult.
+[   84.0] Well, that's funny.
+[   86.0] It wasn't
+[   88.0] just any naturally, was it?
+[   90.0] It wouldn't be naturally.
+[   92.0] Do you like that?
+[   96.0] Yes, I was disappointed in him.
+[   98.0] I really enjoyed
+[  100.0] the whole heist conversation because I tried
+[  102.0] to construct a scenario where you didn't have
+[  104.0] a good option and you had
+[  106.0] to try and pick what you thought was the least bad option.
+[  108.0] And what you did instead was
+[  110.0] construct an option so much worse
+[  112.0] than any possibility
+[  114.0] I had considered.
+[  116.0] You can't plan for us.
+[  118.0] No.
+[  120.0] This is why I never plan more than
+[  122.0] a session ahead because
+[  124.0] shit's going to happen.
+[  126.0] So,
+[  128.0] we re-joined the narrative roughly
+[  130.0] where we left off. It is
+[  132.0] evening, darkness closing in around
+[  134.0] you. Not that you can tell from the back room
+[  136.0] of the cutthroats we pose.
+[  138.0] Sable has
+[  140.0] pocketed the scrap of paper
+[  142.0] with the fallowhurst sigil on it
+[  144.0] and
+[  147.6] kind of recovering
+[  149.6] her composure across the table from
+[  151.6] your, she says, well
+[  153.6] we had an arrangement
+[  155.6] you delivered on your side
+[  157.6] dramatically but adequately.
+[  159.6] I hope for mine.
+[  161.6] Ask your questions and I'll answer the ones you've paid for.
+[  163.6] Is anyone prepping questions?
+[  167.1] No.
+[  169.1] Well, we were looking for
+[  171.1] questions, right?
+[  173.1] I think our main questions
+[  175.1] were to do with
+[  177.1] anathemists.
+[  179.1] She has chuggers
+[  181.1] in
+[  183.1] a way that was said
+[  185.1] one thing was said but the meaning behind it
+[  187.1] was very different than what she knows.
+[  189.1] Chuggers is locked up in a basement.
+[  191.1] Chuggers might or might not still be living but we assume
+[  193.1] they are.
+[  195.1] Is what I gather for the conversation.
+[  197.1] The information she gave you was
+[  199.1] chuggers had been upset
+[  201.1] by news of his colleagues being dragged
+[  203.1] from their beds and interrogated by
+[  205.1] armed agents of the state
+[  207.1] and she had arranged somewhere
+[  209.1] quiet and calming for him
+[  211.1] to be safely
+[  213.1] relaxed.
+[  219.1] Chuggers is
+[  221.1] at one of our safe houses.
+[  223.1] I can summon him if you particularly
+[  225.1] want to interview the man or if
+[  227.1] you ask questions to which I know the answers
+[  229.1] on his behalf.
+[  233.1] Okay. Have you ever done
+[  235.1] dealings with anathemists?
+[  237.1] Dealings, no.
+[  239.1] We have had encounters.
+[  241.1] About
+[  243.1] two months ago a small
+[  245.1] group showed up in the city.
+[  247.1] Took over
+[  249.1] one of the garbage
+[  251.1] carts.
+[  253.1] They were aggressive, well funded.
+[  255.1] Started buying information.
+[  257.1] Roots, servants' gates, house properties,
+[  259.1] those sorts of things.
+[  261.1] We assumed they were trying to set
+[  263.1] themselves up as a rival concern
+[  265.1] to our own
+[  267.1] but they did not seem to have any interest in
+[  269.1] expansion or going after big scores.
+[  271.1] Then after the falcon went up
+[  273.1] they just punished.
+[  275.1] Ditched the cart near the quarantine breach
+[  277.1] and cursed them for that.
+[  279.1] High lemon got to it before we did
+[  281.1] and they haven't been seen since. At least
+[  283.1] the faces we're most familiar with
+[  285.1] haven't been seen since.
+[  287.1] That's when we got wind of the potential saboteur
+[  289.1] angle and working backwards from
+[  291.1] what we knew of their movements the pattern wasn't
+[  293.1] hard to find even with our very
+[  295.1] patchy information. They always
+[  297.1] seemed to be in the area whenever the houses
+[  299.1] had their little mishaps.
+[  301.1] There was
+[  303.1] a cart
+[  305.1] mentioned by one of
+[  307.1] the servants that appeared
+[  309.1] when all this shindig
+[  311.1] with the falcon was going down.
+[  313.1] Do you know
+[  315.1] anything like someone from
+[  317.1] that came in that had a
+[  319.1] fancy symbol?
+[  322.4] Yes.
+[  324.4] So,
+[  326.4] we know of four individuals.
+[  328.4] The two that we nicknamed
+[  330.4] the bears, one large
+[  332.4] one a little smaller
+[  334.4] both dangerous. They were doing most
+[  336.4] of the violence.
+[  338.4] That was so good.
+[  340.4] Fuck yes.
+[  342.4] They're
+[  344.4] free of the rain.
+[  346.4] They're free of the rain.
+[  348.4] No, I'm afraid
+[  352.3] they're where I need to go.
+[  354.3] Because I only have names.
+[  356.3] They're the ones
+[  358.3] who
+[  360.3] ran the cart, did the violence and heavy lifting.
+[  362.3] Merchants by day, if you can
+[  364.3] trust our tales reports, haven't seen
+[  366.3] them in Woolarch since the bonnet. In the best cases
+[  368.3] they left the city.
+[  370.3] Then there's the one we called
+[  372.3] the weasel. Dark hair, little glasses
+[  374.3] and neat beard, soft hands with ink stains
+[  376.3] so probably educated.
+[  378.3] If you believe the scratch we had watching him
+[  380.3] he seemed to know the back alleys and snicker weasels
+[  382.3] almost as well as the local.
+[  384.3] Very annoying at evasion but we didn't
+[  386.3] see any violence out of him.
+[  388.3] Decent at the skies.
+[  392.8] He seemed to be connected to
+[  394.8] a fancy house on Ambassador Street.
+[  396.8] Oops, I'm visiting Noble.
+[  398.8] I have a description of the Noble's coat of arms
+[  400.8] which
+[  402.8] does heavily feature birds.
+[  404.8] The last one we saw
+[  408.5] we called the snake. Grey hair,
+[  410.5] scarred cheek, fancy foreign clothes
+[  412.5] with an outer tongue crest.
+[  414.5] Again, matching.
+[  416.5] Not courtly fancy but fancy.
+[  418.5] The bears deferred to her in conversation
+[  420.5] and
+[  422.5] we're pretty sure she was
+[  424.5] a coordinator, not hired
+[  426.5] muscle.
+[  430.8] From your description of a coachman
+[  432.8] we would guess that was the weasel
+[  434.8] that North ran across.
+[  436.8] The coat of arms in question is
+[  442.8] a sunrock
+[  444.8] on a black and gold
+[  446.8] field
+[  448.8] flanked by winged serpents.
+[  450.8] Does that crest ring a bell
+[  466.5] for me?
+[  468.5] Roll history for me.
+[  473.3] This is white.
+[  477.3] 18 plus
+[  479.3] minus one.
+[  481.3] 17 plus guidances.
+[  484.3] 21.
+[  487.7] Okay.
+[  489.7] This is, doesn't match
+[  491.7] any house crest that you're familiar with.
+[  493.7] Okay.
+[  496.9] And with a 21 I'm going to give you
+[  498.9] that that's a little bit suspicious.
+[  502.9] It's a big house.
+[  517.7] Did you find
+[  519.7] or think of any connections between
+[  521.7] the various different
+[  523.7] things that the Inverness did
+[  525.7] to the other houses?
+[  527.7] As far as we're aware
+[  529.7] they were just
+[  531.7] opportunistic acts of sabotage.
+[  533.7] Why, do you never have a connection?
+[  535.7] Do you?
+[  537.7] No, do you?
+[  547.7] Let's see if we can get a good coat
+[  549.7] that got confusing.
+[  553.7] You said that we can
+[  555.7] get any answers we want.
+[  557.7] The answers you've paid for.
+[  559.7] Which we've
+[  561.7] paid for quite a lot.
+[  564.7] What's in your little black book?
+[  566.7] I thought you were going to know.
+[  568.7] Inflation.
+[  570.7] Significantly more
+[  572.7] than our transaction covers.
+[  574.7] I don't know about that.
+[  576.7] How many pages did we get?
+[  578.7] How many pages have you got?
+[  580.7] This is worth the
+[  582.7] flights I bet.
+[  584.7] Are any of the houses
+[  587.7] paying you
+[  589.7] for
+[  591.7] these?
+[  593.7] Well, you are nosy about our business
+[  595.7] and here I thought you were just chasing
+[  597.7] anathemists. Well, we are.
+[  599.7] But I'm kind of thinking that whatever
+[  601.7] house is probably paying
+[  603.7] is probably also paying the anathemists.
+[  605.7] None of the houses
+[  607.7] are particularly
+[  609.7] willing to deal with us.
+[  611.7] We have
+[  613.7] arrangements with a few key individuals.
+[  615.7] Often under some
+[  617.7] duress on their part.
+[  620.7] And they are
+[  622.7] not part of this conversation.
+[  632.7] I look so much farther
+[  637.0] than the table at you now.
+[  639.0] I know. I know.
+[  641.0] You're focused for here.
+[  643.0] Oh really?
+[  645.0] I will try and project more.
+[  647.0] So
+[  649.0] it's a bit of a chaos, isn't it?
+[  651.0] Yeah.
+[  653.0] From what I remember,
+[  655.0] to be allowed to stay in
+[  657.0] syndrome you need to have
+[  659.0] a backing from a house.
+[  661.0] That is correct.
+[  663.0] Who's your patron?
+[  665.0] Let's just say we have
+[  667.0] our own arrangement.
+[  669.0] Could you give us back
+[  671.0] again?
+[  673.0] To stay longer than we need to stay.
+[  680.0] I suppose so.
+[  683.0] Just paid you for it.
+[  685.0] You just paid me for information.
+[  687.0] Could you tell us how we could do that
+[  689.0] ourselves?
+[  691.0] Who was
+[  693.0] bringing in the anathemists then?
+[  696.0] That we don't know.
+[  698.0] You would have to have a look at
+[  700.0] records of recent
+[  702.0] entries to the city.
+[  704.0] About two months ago?
+[  706.0] That would be
+[  708.0] around when they showed up, yes.
+[  710.0] How would we get access to those?
+[  714.0] I understand that you are
+[  716.0] hexene circle investigators.
+[  718.0] I'm sure for you you could simply ask.
+[  720.0] Yeah, we've tried that on a couple of them
+[  722.0] and they're not really very happy about it.
+[  724.0] The powerful seldom are
+[  726.0] when you expose their little secrets.
+[  728.0] Me?
+[  729.0] House?
+[  730.0] Where do we have to go?
+[  731.0] House Ostra summoned us.
+[  732.0] We're playing gate to House Lyfra.
+[  734.0] Do you see this?
+[  735.0] It arrives on the list.
+[  736.0] Yeah.
+[  737.0] And there's also the House Ostra summoned
+[  739.0] up pending.
+[  740.0] Do you have any information
+[  742.0] of a unsavory nature
+[  744.0] about House Ostra?
+[  747.0] We have some rumors
+[  749.0] and some mysteries.
+[  751.0] House Ostra's
+[  753.0] more or less removed
+[  755.0] itself from the grand stage
+[  757.0] of syndrome recently.
+[  759.0] I'm not in the blackmail, really.
+[  763.0] You want Compromat?
+[  766.0] Whatever that word means, yes.
+[  768.0] Maybe.
+[  769.0] I don't know.
+[  770.0] It means blackmail material.
+[  771.0] Yes.
+[  775.0] I'm sure I could find you some
+[  779.0] dirty little secrets
+[  780.0] from some highly placed individuals.
+[  784.0] I'm just thinking, because if they're
+[  785.0] trying to get a bully us in this meeting
+[  787.0] that they've told us to go to,
+[  789.0] it might be fun to be like,
+[  791.0] well, well, well.
+[  792.0] Actually.
+[  793.0] You were the bear.
+[  797.0] Little do you know that I know
+[  799.0] what you would want me to do.
+[  803.0] Well, if you just want something
+[  804.0] to needle them with.
+[  807.0] House Ostra have officially been
+[  809.0] on training exercises
+[  811.0] for the last few months.
+[  813.0] Their presence on the streets
+[  814.0] has fallen to more or less zero.
+[  816.0] Their institutions out in the country
+[  818.0] have been taken over by
+[  820.0] House Menace.
+[  822.0] But they have been
+[  824.0] buying up weapons and armour
+[  826.0] at an alarming rate.
+[  830.0] Now I don't know exactly
+[  831.0] what it is that they're doing,
+[  832.0] but I am damn certain
+[  833.0] it's not a training exercise
+[  835.0] and that they don't want anyone
+[  836.0] to know about it.
+[  840.4] Interesting.
+[  846.7] Huge.
+[  848.7] Without the other mind,
+[  849.7] I guess like,
+[  851.7] do we...
+[  853.7] DM question.
+[  855.7] As a party, have we kind of
+[  857.7] sussed out, like,
+[  859.7] who of the hexene circle
+[  861.7] seems to lead it a bit more?
+[  864.7] Give me an insight roll.
+[  867.7] As a player, not as a character.
+[  873.7] It's a mental roll.
+[  876.7] What are you doing with my rhythm?
+[  878.7] My rhythm saps are really hard.
+[  883.7] I can't roll for the love of a person again.
+[  886.7] Wait, what was this roll?
+[  888.7] Is it...
+[  890.7] The insight.
+[  891.7] I did say insight.
+[  893.7] Fuck off.
+[  894.7] Was that a sick roll?
+[  897.7] It's like a bell.
+[  901.7] It's a five,
+[  902.7] so that's not going to be anything
+[  904.7] of worth.
+[  906.7] Where did I eat all?
+[  907.7] Thank you for the guidance.
+[  909.7] The point is for the first
+[  910.7] to be useful.
+[  911.7] Okay.
+[  917.7] So that's a six.
+[  920.7] Wait.
+[  922.7] I was going inside.
+[  923.7] Yeah.
+[  925.7] Eleven.
+[  929.7] Why don't we have...
+[  930.7] I need the lucky feet.
+[  936.0] Okay, so,
+[  937.0] with an eleven...
+[  938.0] You're bad.
+[  941.0] Alright, here's what you have
+[  942.0] of the internal dynamics
+[  944.0] of the hexene circle
+[  945.0] with an eleven.
+[  947.0] Navinia of House Grimbolg
+[  950.0] is not particularly
+[  951.0] first about controlling it
+[  953.0] or really being involved.
+[  955.0] You're on a conversation
+[  956.0] with her on the day.
+[  957.0] She was more interested
+[  958.0] in how do we prevent
+[  959.0] further acts of sabotage
+[  960.0] rather than necessarily
+[  961.0] finding the ones that
+[  962.0] have really happened.
+[  963.0] So she's not really
+[  964.0] a player in a political sense.
+[  966.0] You haven't seen any sign
+[  968.0] of ambition or social
+[  969.0] manipulation out of
+[  970.0] Journey and the Galaras.
+[  972.0] So you're almost certainly
+[  973.0] also not a player
+[  974.0] in a political sense.
+[  976.0] Uh,
+[  977.0] Heiliman,
+[  981.0] Locke,
+[  983.0] Helen,
+[  986.0] and
+[  987.0] Alandra.
+[  988.0] Wasn't it Helen that was
+[  989.0] the one that said
+[  990.0] talk to him
+[  991.0] as he was talking?
+[  992.0] Yes.
+[  993.0] So,
+[  994.0] Helen is functionally
+[  996.0] the face.
+[  998.0] And...
+[ 1000.0] Would you get this
+[ 1001.0] with an eleven?
+[ 1002.0] Yeah, I'll get this too.
+[ 1004.0] When you
+[ 1006.0] had your
+[ 1007.0] your confrontation
+[ 1008.0] with
+[ 1009.0] Cora and Alandra
+[ 1010.0] outside
+[ 1011.0] Mary Lane Park,
+[ 1013.0] her
+[ 1014.0] the thing that
+[ 1015.0] kind of
+[ 1016.0] mollified her
+[ 1017.0] to the outcome
+[ 1018.0] you'd all created
+[ 1019.0] was that she could
+[ 1020.0] use it to
+[ 1021.0] embarrass Helen.
+[ 1024.0] Because she mentioned
+[ 1025.0] that the
+[ 1026.0] request for
+[ 1027.0] resolving this issue
+[ 1028.0] had come from
+[ 1029.0] House Liffer.
+[ 1030.0] So there's some tension there.
+[ 1031.0] You've not seen
+[ 1033.0] much between
+[ 1034.0] Heiliman
+[ 1035.0] and Locke and the rest.
+[ 1037.0] So if they are playing a game
+[ 1039.0] you don't know what it is yet.
+[ 1041.0] Yeah.
+[ 1043.0] Yeah, so
+[ 1044.0] Helen functionally
+[ 1046.0] takes point.
+[ 1047.0] Yeah.
+[ 1048.0] And seems to have been
+[ 1049.0] the impetus for a lot of stuff.
+[ 1051.0] Alandra is
+[ 1053.0] vying for position.
+[ 1055.0] I guess then if there is a
+[ 1061.1] kind of
+[ 1062.1] premise of a
+[ 1063.1] potential
+[ 1065.1] coup
+[ 1067.1] then
+[ 1069.1] they want to take out
+[ 1070.1] who seems to be
+[ 1071.1] running it
+[ 1072.1] a bit more.
+[ 1073.1] Potentially.
+[ 1075.1] Or it might just be
+[ 1076.1] like a
+[ 1077.1] I don't know
+[ 1078.1] because if it's a coup
+[ 1079.1] if they're planning a coup
+[ 1082.8] they'd have to have backing
+[ 1083.8] of some of the other houses
+[ 1085.8] or at least have a way
+[ 1086.8] to get them on their side
+[ 1087.8] because there's
+[ 1088.8] seven active houses.
+[ 1090.8] Yeah.
+[ 1092.8] And you kind of would
+[ 1093.8] if you're doing a coup
+[ 1095.8] you'd want backing
+[ 1096.8] from at least another two.
+[ 1098.8] But I guess if there's someone
+[ 1100.8] who's
+[ 1101.8] it's possible that they have
+[ 1102.8] but if there's someone
+[ 1103.8] on the internet
+[ 1104.8] who doesn't believe
+[ 1105.8] in the Hechtian Circle
+[ 1107.8] because when we think about
+[ 1108.8] the Hechtian Circle
+[ 1109.8] and the working of the houses
+[ 1111.8] the entire city
+[ 1113.8] is built around
+[ 1114.8] how these houses
+[ 1115.8] will accept you into it.
+[ 1117.8] True.
+[ 1118.8] And so getting rid of it
+[ 1120.8] or dismantling it
+[ 1121.8] in some way
+[ 1122.8] would enable people
+[ 1123.8] who have less power
+[ 1124.8] like people like anathemists
+[ 1126.8] and things like that
+[ 1127.8] or maybe the anathemists are being
+[ 1129.8] kind of double used
+[ 1131.8] in a way of trying to
+[ 1133.8] flame the fire a bit
+[ 1134.8] to make them do things
+[ 1135.8] but there's someone actually
+[ 1136.8] kind of controlling it
+[ 1137.8] who is magical
+[ 1138.8] and has a right person.
+[ 1139.8] Yeah.
+[ 1140.8] I'm trying to think
+[ 1141.8] because like
+[ 1142.8] the houses that we have
+[ 1143.8] are
+[ 1144.8] Sorry.
+[ 1145.8] The house Austro
+[ 1147.8] which is the military people.
+[ 1148.8] Yeah.
+[ 1149.8] I'm trying to think like
+[ 1150.8] if I was a Hechtian
+[ 1152.8] if I'd been in a barrel
+[ 1153.8] which Deforca has
+[ 1154.8] what would I do?
+[ 1156.8] So if the military ones
+[ 1157.8] are the ones that are
+[ 1158.8] amassing our arms
+[ 1159.8] things that you need to
+[ 1160.8] control a city
+[ 1161.8] are its food supply
+[ 1163.8] so that would be
+[ 1165.8] house
+[ 1166.8] Grimbolg.
+[ 1167.8] Grimbolg.
+[ 1168.8] So either target them
+[ 1169.8] or get them under their wing
+[ 1170.8] or somehow have some form
+[ 1171.8] of blackmail information
+[ 1172.8] on them to get them
+[ 1173.8] to comply.
+[ 1174.8] Yeah.
+[ 1175.8] Because the one thing
+[ 1176.8] that wins wars
+[ 1177.8] is controlling the resources.
+[ 1178.8] Yes.
+[ 1179.8] Then you've got
+[ 1181.8] the way to disseminate
+[ 1183.8] information throughout the city
+[ 1184.8] which is
+[ 1185.8] a
+[ 1186.8] demon lady.
+[ 1187.8] Beltus.
+[ 1188.8] Yeah.
+[ 1189.8] Which either you'd want to
+[ 1191.8] destroy so that information
+[ 1192.8] can't get out fast
+[ 1194.8] or you'd want to have
+[ 1195.8] control over it
+[ 1196.8] so that they can delay
+[ 1198.8] the knowledge going through
+[ 1199.8] or control the information
+[ 1200.8] pathways.
+[ 1201.8] So Beltus and the Litha
+[ 1202.8] kind of have dual duty
+[ 1203.8] on information transfer.
+[ 1205.8] Magic involving
+[ 1207.8] sending messages over distances
+[ 1209.8] like telepathically
+[ 1210.8] or whatever
+[ 1211.8] would be Lythra.
+[ 1212.8] Yeah.
+[ 1213.8] The physical transportation
+[ 1214.8] network is Beltus.
+[ 1215.8] It's two parallel
+[ 1216.8] communication avenues there.
+[ 1217.8] So if they had
+[ 1218.8] the magical one
+[ 1219.8] then it would be possible
+[ 1220.8] to communicate with
+[ 1221.8] the anathemists.
+[ 1223.8] Yeah.
+[ 1224.8] But then it's magic
+[ 1225.8] which is anathemists hate.
+[ 1227.8] Then
+[ 1228.8] if you're doing
+[ 1229.8] the physical network
+[ 1230.8] you'd want to lock people
+[ 1231.8] into certain parts of the city
+[ 1232.8] because they're like
+[ 1233.8] to travel between areas
+[ 1236.8] you can either travel by foot
+[ 1237.8] or you can travel by like
+[ 1239.8] the portalling thing, right?
+[ 1241.8] Yep.
+[ 1242.8] So if you wanted to
+[ 1243.8] isolate people
+[ 1245.8] then you would want to
+[ 1246.8] control the portals
+[ 1248.8] to block them off.
+[ 1249.8] Yeah.
+[ 1251.8] I'm just trying to think
+[ 1252.8] what ones would be
+[ 1253.8] the most advantageous
+[ 1254.8] to have on your side
+[ 1255.8] if you were doing a coup?
+[ 1258.8] Who controls a post-op?
+[ 1261.8] Yeah.
+[ 1262.8] Yeah,
+[ 1263.8] meaningfully
+[ 1264.8] probably the threat.
+[ 1265.8] We're generally thinking
+[ 1266.8] about getting like a call
+[ 1267.8] about
+[ 1269.8] that.
+[ 1270.8] Are you right?
+[ 1271.8] Because I think
+[ 1272.8] if I was trying to
+[ 1275.8] I think the whole goal of this
+[ 1277.8] is obviously to take down the city.
+[ 1281.8] If I was to do that
+[ 1283.8] and I was a magical person
+[ 1285.8] what would the best way
+[ 1286.8] to take down a city
+[ 1288.8] or at least distract the people
+[ 1290.8] so that I can have my
+[ 1292.8] ins and things on the inside
+[ 1295.8] would be to convince
+[ 1297.8] a bunch of people
+[ 1298.8] who hate magic
+[ 1299.8] to start causing problems
+[ 1301.8] so people would look that way
+[ 1303.8] and they would never think
+[ 1304.8] that you would be involved in that
+[ 1306.8] because you're a magic user
+[ 1307.8] and no way would they
+[ 1308.8] want a magic user
+[ 1309.8] to work with them.
+[ 1310.8] But also
+[ 1311.8] if you can convince
+[ 1312.8] a group that
+[ 1313.8] hate magic
+[ 1314.8] to attack the city
+[ 1315.8] then the natural thing
+[ 1316.8] to do is to do
+[ 1317.8] martial law
+[ 1318.8] which then would be
+[ 1319.8] House Ostra
+[ 1320.8] taking over
+[ 1321.8] military wise
+[ 1322.8] in order to protect
+[ 1323.8] the city.
+[ 1324.8] But if they're amassing weapons
+[ 1326.8] it might be a case
+[ 1327.8] that they know
+[ 1328.8] that the anatomists
+[ 1329.8] are going to
+[ 1330.8] abort like a massive attack
+[ 1331.8] so that they can
+[ 1332.8] then do it.
+[ 1333.8] So the reason I laughed
+[ 1336.8] a second ago
+[ 1337.8] is I've been listening
+[ 1338.8] to a lot of a podcast
+[ 1339.8] called Knowledge Fight
+[ 1340.8] which is a Alex Jones
+[ 1342.8] analysis slash mockery thing
+[ 1344.8] and I just had in my head
+[ 1346.8] Alex Jones' voice like
+[ 1347.8] fuck when programming
+[ 1348.8] was an inside job
+[ 1349.8] it's a false word
+[ 1353.8] because genuinely
+[ 1354.8] the anatomists
+[ 1355.8] they're not actually
+[ 1356.8] that big of a...
+[ 1357.8] No they're not
+[ 1358.8] but they're different
+[ 1359.8] they are bigger than them
+[ 1360.8] I mean you're alone
+[ 1361.8] they're bigger than them
+[ 1362.8] he's been in a group of people
+[ 1363.8] that aren't correct
+[ 1364.8] making that noise
+[ 1365.8] just to make people
+[ 1366.8] look one way
+[ 1367.8] yeah
+[ 1368.8] it's all about even
+[ 1369.8] setting us on
+[ 1370.8] this thing
+[ 1371.8] to go like
+[ 1372.8] if it's not that big
+[ 1373.8] of a deal
+[ 1374.8] then why did you just
+[ 1375.8] get a group of people
+[ 1376.8] to work for the
+[ 1377.8] hexane's area
+[ 1378.8] to investigate it
+[ 1379.8] if you didn't think
+[ 1380.8] it was that big a deal
+[ 1381.8] and we feel like
+[ 1382.8] I think that
+[ 1383.8] the anatomists
+[ 1384.8] the anatomists
+[ 1385.8] may not be that big of a deal
+[ 1386.8] which means again
+[ 1387.8] it's kind of this
+[ 1388.8] diversion of attention
+[ 1390.8] because there's something
+[ 1391.8] else happening
+[ 1392.8] I mean the anatomists
+[ 1393.8] are a pawn
+[ 1394.8] for sure
+[ 1395.8] I think it's a chess board
+[ 1396.8] and there's some
+[ 1397.8] little fuckers who are
+[ 1398.8] going to die
+[ 1399.8] and no one really cares
+[ 1400.8] but they're
+[ 1401.8] keeping us occupied
+[ 1402.8] and keeping us in a distraction
+[ 1405.8] yeah because we are also
+[ 1407.8] adding to the distraction
+[ 1410.8] Jill
+[ 1411.8] Jill
+[ 1412.8] you had something you were
+[ 1413.8] going to say
+[ 1414.8] Jenna like that
+[ 1415.8] ah
+[ 1416.8] they're keeping us busy
+[ 1417.8] yeah
+[ 1418.8] if we actually
+[ 1419.8] think about this
+[ 1420.8] in the premise
+[ 1421.8] as a chess board
+[ 1422.8] at chess pieces
+[ 1423.8] pawns are anatomists
+[ 1426.8] knights being
+[ 1429.8] Austria
+[ 1433.3] I mean the question is
+[ 1434.3] who's the person at the top?
+[ 1436.3] that's what
+[ 1437.3] I'm trying to work with
+[ 1438.3] and I don't know
+[ 1439.3] if Austria is
+[ 1440.3] the person at the top
+[ 1441.3] or if they're not
+[ 1442.3] a person at the top
+[ 1443.3] it's the problem
+[ 1444.3] I don't think we have
+[ 1445.3] enough information
+[ 1446.3] to know who's the
+[ 1447.3] headhunter
+[ 1448.3] have we gone and
+[ 1449.3] bothered Mabong?
+[ 1450.3] yeah
+[ 1451.3] Mabong
+[ 1452.3] not yet
+[ 1453.3] yeah so far you've
+[ 1456.3] commissioned a couple
+[ 1457.3] of things from
+[ 1458.3] Jonium and Gallerus
+[ 1459.3] and had a conversation
+[ 1460.3] with Kelferia the Smith
+[ 1461.3] and that's about the extent
+[ 1462.3] of your interaction
+[ 1463.3] with Mabong
+[ 1464.3] alright
+[ 1465.3] because then you
+[ 1466.3] have to like
+[ 1467.3] remember
+[ 1468.3] but you have to
+[ 1469.3] remember that
+[ 1470.3] Mabong is the one that
+[ 1471.3] come up with like
+[ 1472.3] the cool inventions
+[ 1473.3] yeah making
+[ 1474.3] and they could have
+[ 1475.3] made a gun
+[ 1476.3] they could have
+[ 1477.3] they could have
+[ 1480.3] they could have given
+[ 1481.3] the enoughness and idea
+[ 1482.3] of how to make a bomb
+[ 1483.3] yeah
+[ 1484.3] but they didn't give me
+[ 1486.3] a world ending weapon
+[ 1488.3] would they do that?
+[ 1489.3] you're a spoon
+[ 1492.3] no
+[ 1493.3] it's a journeyman's answer
+[ 1495.3] I made a spoon
+[ 1498.3] I made a spoon
+[ 1499.3] then you have to remember
+[ 1500.3] that it might not be
+[ 1501.3] that everybody knows
+[ 1502.3] within the room
+[ 1503.3] what's going on
+[ 1504.3] no I was going to ask
+[ 1505.3] what Goela fits in
+[ 1506.3] because I cannot get
+[ 1507.3] a new one
+[ 1508.3] I might have missed it
+[ 1509.3] yes Goela
+[ 1510.3] yes
+[ 1511.3] okay so
+[ 1512.3] breakdown of the houses
+[ 1513.3] you've got
+[ 1514.3] Mabong who are your
+[ 1515.3] your
+[ 1516.3] your
+[ 1518.3] your
+[ 1519.3] yes
+[ 1520.3] yes
+[ 1521.3] okay so
+[ 1522.3] breakdown of the houses
+[ 1523.3] you've got
+[ 1524.3] Mabong who are your
+[ 1526.3] Mabong who are your
+[ 1527.3] Mabong who are your
+[ 1528.3] Mabong who are your
+[ 1529.3] ian chanters
+[ 1530.3] they are the backbone
+[ 1531.3] of Signor's trade empire
+[ 1532.3] because they produce
+[ 1533.3] the stuff
+[ 1534.3] that gets traded out
+[ 1535.3] to other places
+[ 1536.3] Goela are
+[ 1537.3] yeah I skipped them
+[ 1538.3] and they're actually
+[ 1539.3] is their goal
+[ 1541.3] they are
+[ 1542.3] the diviners
+[ 1543.3] so their
+[ 1544.3] role is essentially
+[ 1545.3] information for trade
+[ 1546.3] yes
+[ 1548.3] you should go on that
+[ 1549.3] I should
+[ 1550.3] yeah
+[ 1551.3] Zenic was like
+[ 1552.3] fortune telling
+[ 1553.3] yes
+[ 1554.3] why don't I just
+[ 1555.3] I'm going to chip that around.
+[ 1557.2] Who the hell is this barn?
+[ 1558.8] Who did the barn?
+[ 1560.0] Who did the barn?
+[ 1562.0] They're not weird.
+[ 1564.0] They won't tell us directly.
+[ 1566.0] It'll be like, oh yes, watch out for the boom, boom, boom.
+[ 1569.5] And you'll be like, what the fuck is that?
+[ 1570.8] Did we not have that?
+[ 1572.2] It was like red, 63, something else.
+[ 1574.5] Shellfish.
+[ 1575.2] Don't avoid shellfish.
+[ 1576.5] Hang on a second.
+[ 1577.5] I will find it for you.
+[ 1579.6] We got ran out of them.
+[ 1582.0] I don't think that has yet come up
+[ 1584.8] for a good reason, yeah.
+[ 1586.2] Which one?
+[ 1587.2] The brown combinations and the dark ones.
+[ 1590.2] No.
+[ 1590.7] Out of character, I reckon it's just
+[ 1592.0] because Hades made it up from the spot.
+[ 1593.7] OK, so the divination you got given
+[ 1597.0] is your path leads to earth and ash and brimstone,
+[ 1600.5] but beware the fire and fury.
+[ 1601.9] Its blinding light hides the spectre of death.
+[ 1604.5] It is easy to get lost in the dark,
+[ 1606.0] but remember to trust in righteousness.
+[ 1607.6] Your lucky number is eight.
+[ 1608.7] Your lucky color is red.
+[ 1609.8] Pay close attention to your friends.
+[ 1611.2] You may find yourself looking to come in terms
+[ 1612.6] you don't expect.
+[ 1613.8] Avoid shellfish, but be open to trying new experiences.
+[ 1616.9] Lucky equals for silvery for hard food.
+[ 1620.9] That's why I tried to hold it all, but it didn't work.
+[ 1624.0] Would anyone like to roll, I guess, wisdom
+[ 1627.0] on the divination?
+[ 1628.6] Go on.
+[ 1630.6] Oh, wait.
+[ 1631.0] Cash.
+[ 1632.1] What was the shh?
+[ 1633.1] No.
+[ 1633.6] What was the shh?
+[ 1634.4] What was the least of the past ones?
+[ 1635.8] Swordfish.
+[ 1636.8] Just a shh.
+[ 1637.4] Hey, it's funny.
+[ 1638.7] OK.
+[ 1639.7] I'm going to go with the water.
+[ 1641.2] I'm going to go with the shellfish.
+[ 1642.7] It was wisdom.
+[ 1643.7] Oh, I'm a death rower.
+[ 1644.7] I thought I was not.
+[ 1645.7] I don't need the word.
+[ 1646.7] I just got out of the room.
+[ 1648.7] Straight line, sorry.
+[ 1649.7] OK, so we're going to be with a natural company.
+[ 1652.7] Earth and ash and rimstone.
+[ 1655.7] Gum powder.
+[ 1656.7] It is the ingredients of gum powder.
+[ 1658.7] Yeah.
+[ 1659.7] It was for a reason.
+[ 1660.7] It wasn't just made up on the spot.
+[ 1663.7] I think it was.
+[ 1664.7] It was.
+[ 1665.7] It was.
+[ 1666.7] Yeah.
+[ 1667.7] I was.
+[ 1668.7] I was.
+[ 1669.7] I was.
+[ 1670.7] I was.
+[ 1671.7] I think it was.
+[ 1672.7] I think it really was.
+[ 1674.3] I think aany exchanges.
+[ 1676.0] I however that you know
+[ 1678.9] I remember the moment.
+[ 1683.7] Like how do I insert for your ingredients for gun powder in a way just to sound like a fortune
+[ 1694.9] cookie push.
+[ 1697.0] Mother success.
+[ 1698.4] For the father and period Logaritha, you would interpret as the bombing is not just
+[ 1700.0] a bombing.
+[ 1701.0] It's easier lost in the dark with members of the Trust of Righteousness.
+[ 1704.5] Your path through the archives, the right-handed turn was always the correct choice.
+[ 1709.2] And now we'll never know, will we?
+[ 1715.2] We've been on a normal choice, right? Someone robbed her.
+[ 1718.2] Can you just look at it?
+[ 1719.2] Then I have to rush.
+[ 1720.2] You don't have enough information to judge what any of the rest of it means.
+[ 1725.2] But you suspect the shellfish might just be bullshit.
+[ 1729.2] I'm going to eat shellfish.
+[ 1731.2] I thought, I had a moron where I thought I could remember what the fish password was.
+[ 1737.2] It was a swordfish, but I was like, if it was a shellfish,
+[ 1740.2] would it stay away from the shellfish with a warning to stay away from the black cats?
+[ 1752.4] Actually, no, you did roll a natural 20, didn't you?
+[ 1755.8] I did, yeah.
+[ 1756.8] Okay, so inferences you could make based on the rest.
+[ 1760.8] Thank you.
+[ 1761.8] Okay, and this is stuff that you're basically figuring out anyway.
+[ 1765.8] So your lucky color is red, could point to House Ostro.
+[ 1768.8] They're the ones who use red iconography.
+[ 1771.8] Your lucky number is eight, could indicate the eighth house.
+[ 1775.8] You already kind of know that the use of the archive connects to the quarantine zone,
+[ 1779.8] which is where the eighth house was based.
+[ 1781.8] And I'm already impressed with it, you know?
+[ 1783.8] Yeah.
+[ 1784.8] And to pay close attention to your friends, you may find yourself looking at them
+[ 1787.8] sometimes, I don't expect, is just about all of you becoming a cohesive group.
+[ 1793.8] Another avenue for the reason why House Ostro could be amassing on
+[ 1797.8] is that they've also figured out one of the houses is going to do a coup.
+[ 1801.8] And they're trying to preemptively gather resources in order to prevent the coup.
+[ 1806.8] Just to be devil's advocate.
+[ 1808.8] Sounds like when you visit Ostro soon.
+[ 1810.8] They could.
+[ 1811.8] I don't want them to be, because I don't like them.
+[ 1814.8] But they could.
+[ 1817.8] They had the only house that wasn't sabotaged.
+[ 1820.8] We should be very suspicious of them, to be totally honest.
+[ 1826.2] Well, they're working a lot.
+[ 1828.2] I'm also curious when the bombing happened.
+[ 1832.2] Obviously, there's always guards on the front gate of Cinco.
+[ 1838.2] And there is only one gate in and out of Cinco.
+[ 1841.2] So far as we know.
+[ 1843.2] That's what I'm curious about.
+[ 1844.2] Technically, that's not true.
+[ 1846.2] But that's what I'm curious about asking.
+[ 1848.2] I'm not asking Black Hat lady about it.
+[ 1851.2] Because surely, when the bombs went off,
+[ 1855.2] the guards from the front gate wouldn't have left their posts.
+[ 1858.2] There was enough guards inside that would have run to do their stuff.
+[ 1861.2] The group of anatomists that obviously set all the bombs
+[ 1864.2] and were running away when it was all happening,
+[ 1868.2] wouldn't have been able to run out the front door.
+[ 1871.2] I miss you, disguise.
+[ 1872.2] They're the ones with the chalk marks on the doors.
+[ 1875.2] I'm wondering if the cat lady is going to know
+[ 1879.2] if there's any secret ways out of the city.
+[ 1882.2] Definitely, that's good.
+[ 1884.2] We definitely accidentally found one that weren't aware of it.
+[ 1887.2] Yeah.
+[ 1888.2] So yeah, you know that your stoke got into the city somehow,
+[ 1892.2] and that will not have been the main gate.
+[ 1895.2] You know that there were...
+[ 1897.2] The stoke can actually fly.
+[ 1899.2] The stoke just walked in with it.
+[ 1901.2] I'm confident.
+[ 1903.2] Do any...
+[ 1904.2] They trinched the stoke.
+[ 1906.2] You're not.
+[ 1908.2] Do you speak with arms?
+[ 1910.2] Yes.
+[ 1911.2] Why don't you ask your stoke?
+[ 1913.2] I'm not.
+[ 1914.2] I'm not.
+[ 1915.2] I'm not.
+[ 1916.2] I'm not.
+[ 1917.2] I'm not.
+[ 1918.2] I'm not.
+[ 1919.2] I'm not.
+[ 1920.2] I'm not.
+[ 1921.2] I'm not.
+[ 1922.2] I'm not.
+[ 1923.2] I think they did.
+[ 1924.2] So you gave you...
+[ 1926.2] When you first reconnected with the stokes,
+[ 1929.2] you got the stokes' story as to how they ended up there.
+[ 1932.2] They couldn't find their route back.
+[ 1934.2] That's why they were stuck in Mary Lane Park.
+[ 1936.2] So even the stoke doesn't know.
+[ 1938.2] Oh, pointless.
+[ 1939.2] So we don't know where, but we know the stoke got in somehow.
+[ 1942.2] Yeah.
+[ 1943.2] And you know that the catacombs have been extending
+[ 1947.2] outwards beyond their original boundaries.
+[ 1950.2] That's all you said.
+[ 1951.2] It's like, I wonder if it's a magic thing that you can't...
+[ 1954.2] As soon as you're in the city, you forget how to get out of it again.
+[ 1957.2] I'm all friendly around the lotus here.
+[ 1960.2] Yeah!
+[ 1961.2] We're in the middle of the sun.
+[ 1963.2] Well, welcome everybody.
+[ 1964.2] We're going to stop machines.
+[ 1966.2] So the cat...
+[ 1968.2] We went into the domain part of the eighth house,
+[ 1974.2] and we kept going forever and forever.
+[ 1976.2] Wasn't there a point where we were on the...
+[ 1978.2] Essentially, even though we're underground,
+[ 1980.2] on the bounds or outside of the city?
+[ 1983.2] So, yeah, there's two stages to this.
+[ 1987.2] There's the first part where you were heading
+[ 1989.2] inwards towards the quarantine zone,
+[ 1992.2] where things got more and more structured,
+[ 1995.2] more and more elaborate, became more museum-like.
+[ 1998.2] But you ultimately turned back
+[ 2000.2] because of the necromantic radiation
+[ 2002.2] posing a threat to life, limb and chicken.
+[ 2006.2] On your way back out, you kind of got lost
+[ 2010.2] and wandered through an area that,
+[ 2012.2] by your kind of sense of direction and space,
+[ 2015.2] should have been outside the city bounds.
+[ 2019.2] And then managed to find your way back in.
+[ 2021.2] But that bit was becoming less structured
+[ 2023.2] and more like the sort of memory of the catacombs
+[ 2027.2] copied outwards into less and less human-created spaces.
+[ 2034.2] She was...
+[ 2035.2] Maybe the catacombs are your fake house.
+[ 2039.2] Yeah.
+[ 2040.2] I've got a chicken in your mouth.
+[ 2042.2] A chicken is in its little house in our garden.
+[ 2045.2] It's bad water.
+[ 2048.4] Yeah.
+[ 2049.4] We had Cedric build a house with a chicken.
+[ 2052.4] I was expecting a townhouse recreation.
+[ 2054.4] He's a very good butler.
+[ 2056.4] Cedric just is there to a breath.
+[ 2060.4] No one butters like Cedric.
+[ 2066.4] Anything else you want to ask Sable?
+[ 2068.4] We wanted to ask about the...
+[ 2069.4] How do you...
+[ 2070.4] Are there any other ways in and out of the Sierra?
+[ 2073.4] None that are easily usable.
+[ 2078.4] Give us a straight answer.
+[ 2081.4] There are rumours of people and things
+[ 2085.4] finding their way into the city by arcane means,
+[ 2089.4] which are beyond our ability to determine.
+[ 2093.4] Not very good for an underground organisation.
+[ 2098.6] We're not particularly interested in leaving Syndrome.
+[ 2101.6] We're interested in...
+[ 2102.6] Yeah, but would you not be interested in getting good in?
+[ 2105.6] Really?
+[ 2106.6] What was it?
+[ 2109.6] In order to rule the city,
+[ 2111.6] you need to supply yourself with goods that people want,
+[ 2115.6] that you can't get by other means.
+[ 2117.6] Do you know not Businesswoman?
+[ 2119.6] Sorry, all death sigils.
+[ 2122.6] I don't know if you thought we were just going to pay
+[ 2124.6] attention to the fact that they want to rule Syndrome.
+[ 2127.6] Okay.
+[ 2128.6] The little ambition never hurt anybody.
+[ 2131.6] See, it's interesting.
+[ 2133.6] I think that when I asked if you've ever had
+[ 2136.6] dealings with the anatomists, you said no.
+[ 2138.6] But is that because you're one and the same, really?
+[ 2142.6] We do not want to Rule Story Syndrome.
+[ 2145.6] We just want our fair share.
+[ 2151.1] That's not at all.
+[ 2152.1] Yeah, O'Cram does want to rule the organisation.
+[ 2155.1] They never get it, though.
+[ 2156.1] And she definitely went with her business attitude.
+[ 2160.1] What?
+[ 2161.1] That's very beautiful.
+[ 2164.1] Really?
+[ 2166.1] It's very beautiful.
+[ 2169.1] Probably still having this numbers.
+[ 2172.1] Real.
+[ 2175.1] Shouldn't Windows be the same thing as 172?
+[ 2178.1] Yes.
+[ 2179.1] It's been to the House system.
+[ 2181.1] Since the League they'll have transportation gates
+[ 2185.1] and things like that.
+[ 2187.1] Which, if she's saying there's more arcane means,
+[ 2189.1] then that'd not be the House who can get people in
+[ 2191.1] and out of the city.
+[ 2192.1] There's rumours of arcane memes, and let's give a magical stoke.
+[ 2194.7] So you've seen at least one mechanism, because when you were on the planes outside
+[ 2200.2] Syndrome and fought the anathemists, a bunch of Housemen-esque troops teleported in.
+[ 2205.9] No, no, no. If we want something to know how the fuck we're gonna get injured,
+[ 2210.2] you're gonna be supposed to transport people in case some of them are like,
+[ 2215.3] and are letting them in.
+[ 2217.4] It's a good avenue.
+[ 2223.0] Um, okay, I skipped over a detail earlier, which was, because you asked about Chuggers
+[ 2228.8] and what he would know.
+[ 2230.6] Give us Chuggers.
+[ 2233.0] You demand the Chugs.
+[ 2235.0] Give the Labour Chuggers to Radwass.
+[ 2237.0] Yes. Chug, Chug, Chug.
+[ 2239.2] I will not have one of our members interviewed in a environment we do not control.
+[ 2245.8] You're saying the term when trusted not meet Chuggers?
+[ 2247.8] It makes me really suspicious.
+[ 2249.3] If you really want to meet him, I will have him summoned now.
+[ 2251.8] She's Chuggers.
+[ 2252.8] No.
+[ 2271.4] You resurrected him briefly.
+[ 2275.6] Um.
+[ 2281.8] Do you know what I think?
+[ 2285.8] I'm not!
+[ 2286.5] I'm not!
+[ 2290.6] I'll answer that question while I'm on initiative.
+[ 2305.4] Yeah.
+[ 2306.4] So as part of her answer about their dealings with the anathemists,
+[ 2309.5] she would have included on the night of the Falcon bombing Chuggers reported seeing two men
+[ 2314.5] who matched the description of the bears. They went in and out through the servant's door
+[ 2320.4] within a short interval. They were dressed as servants but he didn't recognise them and he
+[ 2326.0] knows most of the servants by sight. And at the time he assumed that they were part of
+[ 2332.2] the Black Cats doing something else. Why isn't Chuggers there? He works there.
+[ 2338.2] But he wasn't on that day. He wasn't on shift. Ah, I see.
+[ 2348.3] I'm very good about it.
+[ 2362.5] In our email function as a non-criminal social group
+[ 2367.6] we find it expedient to move items discreetly using waistcarts.
+[ 2378.1] Chuggers is able to adjust schedules for the fulcrum so that we can move carts in and out
+[ 2385.3] as part of what appears to be the regular froth of transport and therefore when there is a
+[ 2393.0] shall we say a large event full of opportunities occurring we find it expedient to try and keep
+[ 2399.6] him in his post as long as possible. To a thieving. Look, should some small insignificant items
+[ 2409.4] happen to find their way? Stop nothing against it. I was just trying to figure out why was there.
+[ 2415.0] Such things just need an owner who will care for them better than whoever lost them. Agreed.
+[ 2421.6] Now I can be back on my shit that you've done.
+[ 2429.9] Can you check your pockets? Yeah.
+[ 2433.9] Okay, investigation role please. Oh my god, your trunk is gone.
+[ 2438.2] That'd be very bad. Very very bad.
+[ 2445.4] Where do you keep your stuff? And from when was I elegant?
+[ 2452.3] Uh, you should have been gay.
+[ 2454.3] You've got my fucking arm.
+[ 2456.3] How round the pockets?
+[ 2458.3] 16.
+[ 2460.3] You're doing great.
+[ 2462.3] I'm gonna be going down the thing isn't it.
+[ 2464.3] You've got a parasyne.
+[ 2466.3] Unlucky.
+[ 2472.2] Barsey no.
+[ 2474.2] This isn't werewolf.
+[ 2477.4] Um, okay, is there anything else you want to ask Sable while you're here?
+[ 2491.8] Do you know anything about a particular noble named Dulcinea?
+[ 2496.3] Down the tooth?
+[ 2499.9] Oh yeah, we forgot about Dulcinea.
+[ 2501.9] Good old Dulcinea.
+[ 2503.9] Glass.
+[ 2505.9] And what's his face?
+[ 2507.9] The tool?
+[ 2509.9] Tool?
+[ 2511.9] And she was Dulcinea from Fazio.
+[ 2513.9] Fazio, that's how you pronounce that.
+[ 2515.9] Uh, tool.
+[ 2521.3] Oh my god, I love your fake cat.
+[ 2534.8] I just remember a certain member of Houselith were making a joke.
+[ 2538.8] Maybe to divert attention.
+[ 2542.8] Um, okay.
+[ 2544.8] So she will...
+[ 2546.8] She will frown and kind of lean back so that she can pick up and open the ledger without its contents being visible to any of you.
+[ 2554.8] Flip through a few pages and then goes...
+[ 2558.8] Recent arrival, noble, yes.
+[ 2564.8] Is there such a thing as mage eyes?
+[ 2566.8] No, you can't.
+[ 2568.8] Maybe illiterate eyes you can see from...
+[ 2570.8] Wrong.
+[ 2572.8] Not so far a time away.
+[ 2574.8] Some sort of scrying smell.
+[ 2578.8] Uh, last time we had any awareness of her, she was currently resident at one of the Houses of Healing, I believe.
+[ 2586.8] That is what we know as well, too.
+[ 2588.8] We should check out, huh?
+[ 2592.8] Great.
+[ 2595.8] I'll take that.
+[ 2598.8] Be healed.
+[ 2600.8] Stop.
+[ 2602.8] I mean, you've been hit like four days.
+[ 2604.8] Nah, that's fair.
+[ 2613.8] Fallowhurst.
+[ 2615.8] Abandoned village somewhere near the mage road?
+[ 2618.8] That's the one.
+[ 2621.8] Does she... does she answer that there as if she's actually questioning what she's saying?
+[ 2627.8] Insight.
+[ 2629.8] I wanna know if she's just acting.
+[ 2633.8] Be better, be better.
+[ 2635.8] That's what you like to see.
+[ 2638.8] That's okay.
+[ 2640.8] When you were ready to steal the book.
+[ 2642.8] 24.
+[ 2644.8] I'm not in the room.
+[ 2646.8] I was excited for the distortion.
+[ 2650.8] I'm not in the room.
+[ 2654.8] Okay, um...
+[ 2656.8] I'll be room, room, room.
+[ 2658.8] Okay, that's really high.
+[ 2660.8] There is a subtle double bluff going on because she doesn't really know any more about Fallowhurst than she's saying,
+[ 2668.8] but she is trying to play up pretending not to know things about Fallowhurst.
+[ 2675.8] You should literally just be like, you don't know shit.
+[ 2679.8] We know more than you.
+[ 2680.8] This is somebody whose whole livelihood depends on always knowing more than anyone else,
+[ 2686.8] so trying to play the part of like, I never heard of Fallowhurst,
+[ 2692.8] while actually covering up the fact that she has never heard of Fallowhurst is part of the game.
+[ 2696.8] Hello.
+[ 2698.8] I don't know anyone else.
+[ 2702.4] I think it's never somewhere.
+[ 2705.4] I wonder if there's anything at all, if they know any information about our young looking million dead man from the college.
+[ 2717.4] Well, she doesn't know about Fallowhurst.
+[ 2719.4] Well, she doesn't know anything about Fallowhurst.
+[ 2722.4] She's saying it in a way to make us think that she probably does, even if she's saying she doesn't.
+[ 2728.4] But really, she actually doesn't.
+[ 2730.4] We should say that.
+[ 2732.4] It might make her a person.
+[ 2735.4] True.
+[ 2736.4] She may know a person, I guess.
+[ 2738.4] How old is this girl?
+[ 2739.4] What race is she expecting?
+[ 2741.4] Um, that's fine.
+[ 2743.4] Absolutely.
+[ 2744.4] That's true.
+[ 2745.4] That would be very, very soon.
+[ 2747.4] You guys were saying Catgirl, right?
+[ 2749.4] No.
+[ 2750.4] I was saying Catgirl, but...
+[ 2752.4] I was just like, so it's Batgirl?
+[ 2754.4] No, no.
+[ 2756.4] I thought she was a melanistic Bat.
+[ 2759.4] Another victim.
+[ 2761.4] She's in.
+[ 2762.4] Okay.
+[ 2763.4] She's a deaf person.
+[ 2764.4] Her name is Sheena.
+[ 2765.4] Now it's a Bat.
+[ 2767.4] Because that's what worked.
+[ 2769.4] I'm annoyed that I didn't think of that.
+[ 2771.4] What is that?
+[ 2776.4] It's a Khajiit.
+[ 2777.4] Oh, no.
+[ 2778.4] No.
+[ 2779.4] Trust it.
+[ 2780.4] A Khajiit.
+[ 2782.4] I should have a new Khajiit for you this time.
+[ 2785.4] No, no, no.
+[ 2790.1] Nope.
+[ 2791.1] That's not good.
+[ 2792.1] Wrong racing tile.
+[ 2793.1] What's the normal word?
+[ 2797.1] It's a good try.
+[ 2800.1] Now, we've tapped back in for literally eight years,
+[ 2803.1] so she might have no shit.
+[ 2805.1] You can ask the question.
+[ 2806.1] She might live a lot less.
+[ 2808.1] Shit.
+[ 2809.1] She might already be.
+[ 2810.1] That's funny.
+[ 2817.0] Huh?
+[ 2818.0] Yeah, yeah, yeah.
+[ 2819.0] Everyone have written down the name of the card we saw on the dead body.
+[ 2824.0] Carlos Winterborn.
+[ 2825.0] Carlos Winterborn.
+[ 2827.0] I think he was the one that was like the oldest, like the embalmed,
+[ 2831.0] fresh-looking, freshly necromantic.
+[ 2834.0] That means necromance.
+[ 2836.0] Do you want to ask her if she knows anything about Carlos Winterborn?
+[ 2839.0] Yes.
+[ 2840.0] Have you heard of the name?
+[ 2842.0] Yeah.
+[ 2843.0] Like, no connection to that one.
+[ 2846.0] Have you ever heard of the name Carlos Winterborn?
+[ 2849.0] I'm not familiar with a Carlos.
+[ 2852.0] The Winterborns are one of the high families within Costa.
+[ 2857.0] Ah!
+[ 2858.0] Did you do that?
+[ 2861.1] Yeah.
+[ 2862.1] Oh!
+[ 2863.1] Oh!
+[ 2864.1] Ah!
+[ 2867.6] That's a cannon right there.
+[ 2870.6] No, I didn't do that.
+[ 2873.6] I was going to ask like how many times,
+[ 2876.6] do you know how many times the caravans have been attacked
+[ 2880.6] coming from the public place that we came from
+[ 2884.6] and going towards the city?
+[ 2889.6] So she knows that over the past few months,
+[ 2894.6] the rate of attacks has increased to marketplace,
+[ 2897.6] to the point where it's in the air on a sort of every other week basis.
+[ 2900.6] And the caravan still goes the same route every single time?
+[ 2903.6] Yes.
+[ 2904.6] It's frontally the caravan.
+[ 2907.6] So the caravan is funded by...
+[ 2916.2] Yes.
+[ 2919.1] Yes, the caravan isn't run by Syndral.
+[ 2921.1] It's run by the White Dragon.
+[ 2924.1] They are coaching them that you state that.
+[ 2928.1] Because they make their money off travellers.
+[ 2931.1] So to the best of her knowledge,
+[ 2935.0] or at least as far as she's willing to tell you,
+[ 2937.0] it's run by whoever owns and operates the White Dragon.
+[ 2941.0] Okay.
+[ 2942.0] And who owns and operates the White Dragon?
+[ 2945.0] That she doesn't know.
+[ 2947.0] She doesn't think they have any presence in Syndral.
+[ 2949.0] When the caravans get attacked,
+[ 2951.0] what predominately do they kill the people?
+[ 2953.0] Do they just steal stuff off them?
+[ 2955.0] What specific things do they steal?
+[ 2957.0] Typically theft.
+[ 2959.0] Gold, jewels, anything valuable.
+[ 2962.0] They seem to try to do property damage.
+[ 2967.0] Where I do armchair psychologise,
+[ 2970.0] I would say they're attempting to dissuade people
+[ 2973.0] from visiting Syndral while also funding their operation.
+[ 2980.8] I think it's quite interesting that
+[ 2982.8] when you gave your report to Sebastian Warwick
+[ 2987.8] after leaving Fallohurst,
+[ 2989.8] you specifically omitted two details.
+[ 2992.8] Yeah, we didn't tell them about the body.
+[ 2994.8] Or the Syndral.
+[ 2995.8] No.
+[ 2996.8] And you killed both of these information in the back.
+[ 2999.8] Hey, we love an underdog.
+[ 3000.8] You killed a cat.
+[ 3002.8] Where is it?
+[ 3003.8] In the other side?
+[ 3004.8] Yeah, I'm here.
+[ 3005.8] Take me, I'm here.
+[ 3006.8] I'm neutral.
+[ 3009.8] This is custom.
+[ 3010.8] Ah!
+[ 3011.8] Is it from the highlighter?
+[ 3012.8] Ah!
+[ 3014.8] We've got one lighting character.
+[ 3018.8] Can I have some apples, Lacey?
+[ 3020.8] Can I have some strawberries?
+[ 3022.8] Everything is so far down.
+[ 3023.8] I'll take two munchies.
+[ 3029.7] Do Doctor Organisations only have scratchers in the city
+[ 3043.7] or do you also have external?
+[ 3049.3] We will occasionally have somebody go out
+[ 3053.3] with one of the caravans,
+[ 3055.3] but as you can see, she holds up her arms
+[ 3059.3] and there are no bracelets.
+[ 3062.3] Entrance and exit through official routes
+[ 3064.3] is not exactly convenient for many of us.
+[ 3068.3] I thought you said she's had a patron to stay here.
+[ 3071.3] Why don't she have a bracelet?
+[ 3074.3] I said we had our own arrangements.
+[ 3077.3] Then who are the people who organise,
+[ 3081.3] who gets to stay and who doesn't?
+[ 3082.3] Like, who people go around and kick people out?
+[ 3085.3] The other three?
+[ 3086.3] Because they're the ones on the front getting their bracelets.
+[ 3089.3] Given the bracelets when you entered,
+[ 3092.3] the main gate is staffed by a combination of menace and littler.
+[ 3097.3] Within the city, menace are the kind of law and order.
+[ 3100.3] They're the cops, so they would be the people checking and enforcing.
+[ 3104.3] Because no one's kicked them out.
+[ 3106.3] Wait, so Austria is not...
+[ 3117.3] Austria is military, menace is police.
+[ 3121.3] Well, if the police were trying to do a coup,
+[ 3124.3] and a cab, it's probably the police guys.
+[ 3128.3] It's always the police.
+[ 3132.3] I said it as sorry from the get-go,
+[ 3135.3] but it's definitely the police.
+[ 3137.3] No wonder what they've come to is this one.
+[ 3142.3] Ayer's gonna kind of just, like, be looking at them.
+[ 3144.3] Just talk about bracelets and, like, looking at the date and, like...
+[ 3147.3] So, if it gets near the end of our time here
+[ 3150.3] and I have a lot of steam to blow off,
+[ 3152.3] where can I go to find some beasties?
+[ 3155.3] Beasties?
+[ 3156.3] What?
+[ 3157.3] You want to blow off steam with beasties?
+[ 3159.3] Kill some stuff.
+[ 3161.3] Just asking a general question.
+[ 3163.3] So, your way of blowing off steam is to just go and kill things?
+[ 3168.3] Yeah!
+[ 3172.3] I'm not, I'm not, I'm going to go across the room.
+[ 3175.3] So, you have to be a German?
+[ 3177.3] Yeah, I'm a German.
+[ 3179.3] If it's a wild beast,
+[ 3181.3] it doesn't mean I die.
+[ 3183.3] Why?
+[ 3184.3] I don't come into it.
+[ 3186.3] I'm thinking some things that shouldn't be there
+[ 3189.3] that need taking care of.
+[ 3191.3] Oh, you're thinking Monster Hunter, huh?
+[ 3193.3] I'm so far away from here.
+[ 3196.3] But I said...
+[ 3198.3] He just wants to play Monster Hunter.
+[ 3204.3] What's the morality of killing...
+[ 3206.3] We are hunting mole, after all.
+[ 3208.3] The ultimate monster.
+[ 3210.3] We are pest control.
+[ 3213.3] Yeah, exactly.
+[ 3214.3] It's just doing things that, like...
+[ 3216.3] If you're trying to live a kind of, you just kind of kill it.
+[ 3218.3] I just want to kill something like this.
+[ 3219.3] Like, you shouldn't beat it.
+[ 3220.3] It's like, who...
+[ 3221.3] I mean, it's at the side, it doesn't get to be there.
+[ 3224.3] It's like being sharp shouldn't be here.
+[ 3226.3] It's like the shallow ends of the spirit.
+[ 3228.3] There's not paying any attention to any of this.
+[ 3230.3] It's not sharp, be pested.
+[ 3231.3] Where are they?
+[ 3232.3] Where are they?
+[ 3233.3] Ow!
+[ 3234.3] If we be pested.
+[ 3236.3] Sorry, there isn't like an equivalent to the shooting gallery, whatever.
+[ 3240.3] I think the best way, if you wanted to actually kill things,
+[ 3245.3] would be going and offering your services to House Deltas,
+[ 3249.3] given that it's their demons to be pest control.
+[ 3252.3] Interesting.
+[ 3253.3] Most people who want to blow off some steam
+[ 3256.3] and do some, like, physical activity, just give it to Bitchquare.
+[ 3260.3] Bitchquare.
+[ 3261.3] I feel like there's some die bar that you go to
+[ 3264.3] that everyone gets drunk and there's, like, a sandbar.
+[ 3266.3] Every now and then you can just go through it.
+[ 3269.3] I mean, maybe this is your calling to get into Bitchquare.
+[ 3274.3] They could easily throw you.
+[ 3277.3] I'm just gonna ask.
+[ 3279.3] So there's no areas in the city having any issues
+[ 3282.3] with people disappearing and other things going on.
+[ 3286.3] I'm trying to find out if the streets are murder-y or are real.
+[ 3293.3] All that being eaten by.
+[ 3296.3] B-B-B-B-C.
+[ 3301.3] There are always those who will act unsafely in desperation.
+[ 3309.3] The quarantine zone has something of a reputation
+[ 3312.3] as a place that people go into and never come out of.
+[ 3316.3] So there's a sort of steady trickle of disappearances around Warlarch.
+[ 3322.3] How?
+[ 3323.3] No, don't.
+[ 3324.3] No, don't.
+[ 3326.7] No, don't.
+[ 3327.7] No, no, it doesn't work.
+[ 3332.8] Aside from that, I think the easiest way to get disappeared
+[ 3335.8] is to start a fight with a Housemeness officer.
+[ 3340.8] Good thing we haven't done that yet.
+[ 3342.8] Not yet.
+[ 3343.8] Literally done that.
+[ 3349.8] I mean, we didn't start a fight.
+[ 3353.8] Fight?
+[ 3355.8] And you don't know what happened.
+[ 3360.8] You just got drunk.
+[ 3362.8] So, in terms of routes from here,
+[ 3366.8] off the top of my head, and this is not an exhaustive route,
+[ 3370.8] you have a description of some heraldry
+[ 3373.8] that you could correlate with recent entrance to the city
+[ 3377.8] and get precise information that way.
+[ 3380.8] You know that the anathemists,
+[ 3384.8] or at least the higher-ranking anathemist saboteurs,
+[ 3387.8] have something to do with Ambassador Street,
+[ 3389.8] so you could go and investigate there.
+[ 3392.8] You could answer the House Oestra summons,
+[ 3394.8] or you could go and bother...
+[ 3398.8] Who are we suggesting bothering?
+[ 3400.8] Belsus?
+[ 3403.8] That thing came out?
+[ 3404.8] It was the ones that do the transportation, right?
+[ 3407.8] Yes.
+[ 3408.8] The boops.
+[ 3410.8] Teleporting.
+[ 3411.8] Yes, that would be Belsus.
+[ 3413.8] But we all said about check-in labs.
+[ 3416.8] Information about people that come into the city, right?
+[ 3418.8] Yeah, that's left, right?
+[ 3421.8] Or another option that I haven't thought of.
+[ 3423.8] I'm not trying to railroad you guys.
+[ 3425.8] Three more and we can just split up.
+[ 3427.8] That's Belsus.
+[ 3428.8] Belsus.
+[ 3429.8] That's the unofficial entry into the city option.
+[ 3437.9] Bye bye, Arty.
+[ 3438.9] Well, I'm guessing there's just at the bottom of the list.
+[ 3443.6] I mean, I just don't like being summoned.
+[ 3445.6] Yeah, I understand.
+[ 3446.6] Like, I'm a very contrarian bitch.
+[ 3450.6] Oh, God.
+[ 3451.6] We could not have a f-ing-ing-ing-ing F-1-1-2,
+[ 3454.6] because we could ban...
+[ 3457.6] We could ban...
+[ 3458.6] We could ban...
+[ 3460.6] The sigil.
+[ 3461.6] They're not the sigil.
+[ 3462.6] They're the house crest.
+[ 3464.6] And be like,
+[ 3467.6] Don't let anyone with this come into the city.
+[ 3470.6] Yeah.
+[ 3471.6] Yeah.
+[ 3472.6] We could.
+[ 3477.9] Hey, don't let that...
+[ 3478.9] Put it to a vote.
+[ 3479.9] Don't let that stop you.
+[ 3488.3] Anything but that.
+[ 3493.3] You don't want to figure out who it was.
+[ 3495.3] What do I do?
+[ 3496.3] But I don't want...
+[ 3497.3] I don't like being summoned.
+[ 3499.3] I do not like being told what to do.
+[ 3501.3] I'll be the other end of the spectrum.
+[ 3503.3] To be...
+[ 3504.3] To be...
+[ 3505.3] To be...
+[ 3506.3] To be a contrarian.
+[ 3508.3] I would like to...
+[ 3511.3] I think I would...
+[ 3512.3] You know, the OSHA thing,
+[ 3514.3] I mean, the signs that I don't really care about,
+[ 3516.3] I'm gonna go with the majority of that.
+[ 3520.3] I would like to go to the trans...
+[ 3523.3] I want to suss out the transportation situation there.
+[ 3527.3] Altus.
+[ 3529.3] Yeah.
+[ 3532.4] Because that's a pretty integral to access of the city.
+[ 3537.4] Um...
+[ 3539.4] Answering the summons crew.
+[ 3542.4] I'm summons, summons.
+[ 3544.4] I'm happy with what abs.
+[ 3546.4] I'm trans for a crew.
+[ 3548.4] I'm trans for a crew.
+[ 3552.9] We've now hit two stars.
+[ 3554.9] One level.
+[ 3556.9] So...
+[ 3558.9] What I'm gonna do is I'm gonna nudge you a little bit away from the transport plan.
+[ 3563.9] Um, purely because that is not something I have prepared for this session.
+[ 3566.9] That's okay.
+[ 3567.9] Yeah, yeah, yeah.
+[ 3568.9] I was abstained.
+[ 3569.9] I changed my vote.
+[ 3570.9] I just wrote that.
+[ 3572.9] I just wrote that on the map.
+[ 3574.9] That's one map to go to.
+[ 3575.9] Yeah, yeah, yeah.
+[ 3576.9] I don't know which way we're going.
+[ 3579.9] That's not a...
+[ 3580.9] That's not a detail specifically for planting,
+[ 3582.9] so I didn't know how that one lined up.
+[ 3584.9] But I will have it lined up from next session.
+[ 3586.9] That is totally fair.
+[ 3587.9] And that is T.
+[ 3589.9] T?
+[ 3590.9] What?
+[ 3591.9] What?
+[ 3593.9] What?
+[ 3597.4] What?
+[ 3598.4] It was because they have control over the gates and stuff.
+[ 3601.4] And getting into the city and out of the city,
+[ 3604.4] we saw some people blip.
+[ 3606.4] And if you're gonna get enough of this into the city,
+[ 3609.4] via means or out,
+[ 3611.4] which means that they don't have to go through the checkpoint,
+[ 3613.4] there has to be another way out.
+[ 3618.1] We got a good lead from them, too.
+[ 3621.1] So it's not like you're being summoned.
+[ 3623.1] You're investigating a lead.
+[ 3625.1] To who?
+[ 3626.1] Austra.
+[ 3627.1] No.
+[ 3629.1] I will only go if it's a majority profile.
+[ 3632.1] You will have to drag.
+[ 3634.1] Well, that's...
+[ 3635.1] But we got a good lead,
+[ 3637.1] so you're making your own choice on it.
+[ 3639.1] I've heard this about this one.
+[ 3641.1] How far away is the best one?
+[ 3643.1] That's like a direct link to some anatheists.
+[ 3647.1] OK, so...
+[ 3650.8] You're currently on the lowest level.
+[ 3653.8] Ambassador Street is several tiers up.
+[ 3656.8] So in terms of physical distance,
+[ 3658.8] not that that actually matters,
+[ 3659.8] because this is all happening in our heads.
+[ 3661.8] But in terms of physical distance,
+[ 3665.8] the House Litho Records office at the main gate
+[ 3667.8] would probably be the closest option.
+[ 3670.8] But you can go wherever you like.
+[ 3673.8] I mean, I'm down for that.
+[ 3675.8] It was the closest.
+[ 3677.8] I mean, really?
+[ 3678.8] What do you think about it?
+[ 3679.8] We are kind of wandering towards...
+[ 3681.8] It's on the way.
+[ 3683.8] But we're just not going directly there.
+[ 3686.8] Yeah, yeah.
+[ 3687.8] We just have...
+[ 3688.8] There's a lot of roadworks preventing us
+[ 3690.8] from going straight there.
+[ 3691.8] Yeah.
+[ 3692.8] The trans went on.
+[ 3694.8] We've got to walk.
+[ 3696.8] I mean, Central Street is like a three-dimensional puzzle
+[ 3699.8] of weird spiraling curves.
+[ 3701.8] We've got bars.
+[ 3702.8] We've got what we're doing.
+[ 3704.8] This thing is...
+[ 3706.8] We're making motion.
+[ 3707.8] Then we're like,
+[ 3708.8] oh no, we're going somewhere else.
+[ 3709.8] Yeah, yeah, yeah.
+[ 3710.8] They can see us on the map.
+[ 3711.8] We're getting closer.
+[ 3714.8] They're laughing at the game.
+[ 3717.8] We're just very busy people.
+[ 3719.8] We're doing what they asked us to do.
+[ 3723.8] Yeah.
+[ 3724.8] Sounds like the closest to the best option.
+[ 3728.8] It's like they think that we can do our job
+[ 3730.8] and also have to be constantly summoned by them.
+[ 3733.8] Right?
+[ 3735.8] It's actually crazy.
+[ 3736.8] It's like making...
+[ 3738.8] Look, look.
+[ 3739.8] We'll come to you and me.
+[ 3741.8] How many of them are we fighting?
+[ 3744.8] We can't have 10,000 fucking Zoom meetings
+[ 3747.8] and get our work done.
+[ 3749.8] At some point, you've got to stop at the meeting.
+[ 3752.8] Sometimes you've just got to send an email.
+[ 3754.8] Yeah.
+[ 3755.8] I think that's for one meeting and this is the kickback.
+[ 3759.8] Then I've like put everyone around to like,
+[ 3762.8] I don't like people.
+[ 3764.8] We're going to do this summer and then they say,
+[ 3766.8] like, I want one cent and it's going to be like literally
+[ 3770.8] I'm going to put the paper.
+[ 3774.8] Maybe I could have done that.
+[ 3778.8] We're all in charge.
+[ 3779.8] Or we should do this.
+[ 3780.8] Okay, we get out.
+[ 3781.8] We have to do that for the break.
+[ 3784.8] I've only written a few hundred words for that action.
+[ 3786.8] Well that's fun it's fun, it's fun.
+[ 3788.7] What's never gonna happen?
+[ 3791.7] I'm the longer you wait.
+[ 3793.8] The longer you wait.
+[ 3795.7] The longer you do.
+[ 3797.7] The longer you wait.
+[ 3800.7] The longer way.
+[ 3801.8] The longer way.
+[ 3810.7] It's like 100% you're really, like, really awesome, very well planned D&D story where I was like, nope, there's children in it, I'm speed to them.
+[ 3822.7] Can we try to run Death House?
+[ 3824.2] Yeah.
+[ 3824.7] And he was like, are these two spooky ghost children outside? No, fuck that, I'm not going in the house.
+[ 3831.2] Where this story ends.
+[ 3832.7] I'm not going in the house, dear.
+[ 3834.7] I'm not doing this D&D shit, I'm getting a different one.
+[ 3839.2] I mean, do there's the Harrier who just, like, cuddly, the tarrat off the top of her head?
+[ 3846.2] Yeah.
+[ 3854.4] So I, ah, this is not hiring.
+[ 3856.9] I have a little dashboard I got for myself to keep track of, like, vital statistics of the game.
+[ 3861.9] And one thing it has is a little bar chart of all the different factions and their opinion of you.
+[ 3868.9] And right now, the two lowest on there are Anatomists, whose opinion you kill on sight, and House Ostra, whose opinion is these fucked.
+[ 3879.9] Be scarce! Be scarce!
+[ 3883.4] Why did we hide those random idiots?
+[ 3887.9] They didn't know where it is on the top.
+[ 3890.9] We look for anatomists.
+[ 3892.4] Anatomists?
+[ 3893.9] Ostra!
+[ 3894.9] Oh, it's fine.
+[ 3895.4] Yeah, yeah.
+[ 3896.9] At least it's like two of them.
+[ 3898.9] Yeah.
+[ 3899.4] That's us.
+[ 3899.9] So one of them was the one.
+[ 3902.4] Yeah, the other one's Cedric.
+[ 3908.4] We have medicine Grimball to have here.
+[ 3910.4] The other ones we have interacted with.
+[ 3912.4] Wait, what?
+[ 3913.4] How?
+[ 3915.9] That's not on that list.
+[ 3917.4] That's on the other magnetic bars.
+[ 3920.4] Bars.
+[ 3920.9] It's like, you're completely magical when you draw the scene.
+[ 3924.4] Love, love.
+[ 3926.4] So, it is eight o'clock.
+[ 3931.3] Time to feed the cat.
+[ 3932.3] One second.
+[ 3933.3] Nice.
+[ 3934.3] Cat break.
+[ 3935.3] Cat break.
+[ 3943.3] Don't stop.
+[ 3945.3] Sorry, you forgot.
+[ 3949.3] I don't think I go on to something like the whole pat-tactic.
+[ 3953.3] It's like, houses come and go.
+[ 3957.3] A lot of them.
+[ 3958.3] A lot of them.
+[ 3959.3] Yeah, yeah.
+[ 3960.3] It's not crazy.
+[ 3962.3] The game that I play on Friday, my DM, he doesn't really do anything with his table, so it's always left.
+[ 3971.3] Whatever that was on the table last week.
+[ 3973.3] I know.
+[ 3974.3] I know.
+[ 3975.3] The map is always left there, but it's a whiteboard map.
+[ 3977.3] And so I constantly use that to kind of visibly make clear what my brain connections are to everything in the game.
+[ 3985.3] Don't be like, this.
+[ 3986.3] This.
+[ 3989.3] I keep that so bad.
+[ 3991.3] With this, I feel like we need a whiteboard or something so we can just connect pieces together mentally.
+[ 4000.3] Because it's like...
+[ 4002.3] Because you're doing a lot of space, won't they?
+[ 4005.3] Well...
+[ 4006.3] It's so pretty.
+[ 4007.3] The Goel and Manas, Mabon and Lyftra have all been attacked by magical means.
+[ 4013.3] And, well...
+[ 4015.3] Do you want a drink, or do you see?
+[ 4023.5] Oh, I should have done that once up there.
+[ 4024.5] I would look sexy.
+[ 4025.5] Okay, so, so I did.
+[ 4028.5] Do you want a drink?
+[ 4029.5] Wow!
+[ 4032.5] Oh, that's a good cup.
+[ 4034.5] Who wants this?
+[ 4036.5] Yeah, so, I was trying to remember when I built this.
+[ 4038.5] None of those...
+[ 4039.5] That was hard to accept.
+[ 4043.4] Why do you have to get this for me?
+[ 4046.4] Yes!
+[ 4051.4] Getting all the low ones out of the way.
+[ 4053.4] I think they're above an eight.
+[ 4055.4] Strolling the other ones out.
+[ 4057.4] Yeah, it would be...
+[ 4061.4] I wonder if...
+[ 4063.4] A bat-pack.
+[ 4065.4] Even though they're magical themselves, I wonder if they have...
+[ 4067.4] I have yet to roll about a challenge.
+[ 4069.4] Which means they hate me.
+[ 4070.4] Yeah.
+[ 4072.4] I like the way they're like...
+[ 4074.4] If I can start a organization...
+[ 4077.4] I'll destroy them and then I can get rid of magic.
+[ 4082.4] Make sense?
+[ 4083.4] Definitely.
+[ 4084.4] It's pin from the feature.
+[ 4085.4] Here we go.
+[ 4088.4] Good luck.
+[ 4089.4] Good luck.
+[ 4090.4] You're actually on a map map this whole time.
+[ 4093.4] Why be?
+[ 4097.4] You know everyone.
+[ 4102.4] Nothing in Pin's backstory, as currently written on the public part of Pin's page,
+[ 4108.4] specifies anything about being an anatheist.
+[ 4110.4] I could have read a public part of the page.
+[ 4113.4] Don't fuck bar.
+[ 4115.4] I am an anatheist.
+[ 4120.4] I'm an anatheist.
+[ 4127.4] Have we ever seen Pin use magic?
+[ 4130.4] Pin use magic?
+[ 4131.4] I don't think so.
+[ 4136.4] At least to me, if I could.
+[ 4137.4] I mean, Pin has directly killed at least one anatheist.
+[ 4140.4] There isn't...
+[ 4141.4] And been very nearly killed.
+[ 4143.4] If you're a fight, there is always a possibility.
+[ 4147.4] Halfway fighters can have magic.
+[ 4150.4] Yeah.
+[ 4151.4] Yeah.
+[ 4152.4] So you could accidentally fall into...
+[ 4153.4] Oh shit, now I know a lot of magic.
+[ 4155.4] Eldritch Knights.
+[ 4158.4] Don't do that.
+[ 4161.7] Give magic to them.
+[ 4162.7] Fire sword.
+[ 4167.5] You'd be like...
+[ 4168.5] If I could do that, you'd know better.
+[ 4170.5] I'm not on paper, that could be some old...
+[ 4171.5] Oh, no.
+[ 4172.5] Maybe.
+[ 4173.5] Maybe.
+[ 4175.5] Well...
+[ 4176.5] No.
+[ 4177.5] You'd have to do...
+[ 4180.5] Hey, hey, actually.
+[ 4181.5] What?
+[ 4182.5] That was kind of fun.
+[ 4183.5] That's true.
+[ 4184.5] That was kind of fun.
+[ 4185.5] That's true.
+[ 4186.5] The better.
+[ 4187.5] I think the worst outcome would have been if you actually rolled really high on the
+[ 4191.5] history check when you were at the shop and you tried to draw the sigil.
+[ 4194.5] You rolled really high.
+[ 4196.5] And then you fucking nuked the city.
+[ 4200.5] The what?
+[ 4201.5] Dropped on.
+[ 4202.5] It would have been possible.
+[ 4204.5] It's not necessarily nuking the city.
+[ 4206.5] You'd draw about that size.
+[ 4208.5] Yeah.
+[ 4209.5] So a small army.
+[ 4211.5] Who would march out the gate of the eight?
+[ 4215.5] I was like not drawing a blood singer.
+[ 4217.5] That's true.
+[ 4218.5] That's true.
+[ 4219.5] Who would do that?
+[ 4220.5] It's crazy.
+[ 4228.5] Night has actually fallen.
+[ 4231.5] Would you make your way across the city?
+[ 4234.5] Bye, Sable.
+[ 4235.5] Good thing they're at the closest.
+[ 4237.5] Oh, yeah.
+[ 4238.5] As you leave, Sable's like...
+[ 4239.5] The offer of liberating that cart still stands.
+[ 4244.5] Yeah, yeah.
+[ 4245.5] Should you want any more favors?
+[ 4248.5] I was going to say, what do we get?
+[ 4250.5] Cart liberation.
+[ 4251.5] Why don't we take it as a...
+[ 4254.5] If it arises, we'll take it.
+[ 4256.5] I mean, if the opportunity is there...
+[ 4258.5] If the opportunity is there, then I'll grab it.
+[ 4260.5] And then we'll take whatever information we want from it.
+[ 4264.5] Ah.
+[ 4265.5] Sable.
+[ 4266.5] You make your way across the city.
+[ 4268.5] The records office crouches beside the gate.
+[ 4271.5] Oddest by Syndral standards, which is to say absurdly ground by the standards of anywhere else.
+[ 4276.5] Warm grey stone rises in paired pylons flanking a shallow portico.
+[ 4281.5] Beyond them, slender columns stand close together.
+[ 4283.5] Their captors carve into closed buds and wreaths that some long-dead architect
+[ 4287.5] barely thought was very subtle and cool.
+[ 4290.5] The building is seamless.
+[ 4292.5] The standard Syndral stonework.
+[ 4294.5] As though the city simply decided one morning
+[ 4296.5] that there ought to be a hypostyle hall here and then grew one.
+[ 4300.5] Ash slate and smoke grey dominate with silver filigree at lintors
+[ 4303.5] and the occasional thread of muted gold or deep blue stones
+[ 4306.5] stare into a threshold like a hint rather than a boast.
+[ 4309.5] High above the doors, the house-lifer eye is worked into the clear story grill
+[ 4313.5] in the shape you might mistake for decoration
+[ 4315.5] until you notice it's looking directly down at everyone who passes through the entrance.
+[ 4320.5] Who are the judges?
+[ 4322.5] JUDGEY?!
+[ 4328.5] Uh, assuming that we were just going in via the front door?
+[ 4332.5] Well, they wanted us.
+[ 4334.5] They got us.
+[ 4335.5] They want us to sneak in?
+[ 4337.5] What's the point?
+[ 4338.5] Is the gate a pooch?
+[ 4340.5] Well?
+[ 4341.5] We were inside my head holding the latch going,
+[ 4343.5] AHH!
+[ 4345.5] Uh, that would be useful.
+[ 4346.5] This is...
+[ 4348.5] No.
+[ 4349.5] We can't get an oyster if we're not alive.
+[ 4351.5] Okay, that's fine.
+[ 4352.5] But it is funny to not go.
+[ 4353.5] I mean, you're allowed.
+[ 4355.5] You're just going like...
+[ 4356.5] No, no!
+[ 4357.5] Yeah.
+[ 4358.5] Majority of it.
+[ 4360.5] It's just the death awkward disagree.
+[ 4362.5] Yeah.
+[ 4364.5] Uh, the door is currently closed.
+[ 4366.5] How would you like to approach it?
+[ 4372.5] Is there a hole?
+[ 4373.5] Oh gosh.
+[ 4375.5] Does the door have a knob?
+[ 4377.5] Or does it need a knob?
+[ 4380.5] Okay, let's deal with this one at a time.
+[ 4385.5] The door does not have a key.
+[ 4388.5] The door doesn't have a knob.
+[ 4390.5] It has grand handles in the...
+[ 4395.5] Sure, it's going to knock it.
+[ 4396.5] No knob, big knockers.
+[ 4405.5] Oh my gosh.
+[ 4413.5] No, it hasn't got a knob.
+[ 4420.8] Um, you asked if it was a bush.
+[ 4422.8] Yeah.
+[ 4423.8] Yes.
+[ 4427.2] One, two, three, bush.
+[ 4428.2] Four, five, six, four.
+[ 4431.2] Guys, can I make one comment?
+[ 4435.2] What front door have you ever went to?
+[ 4438.2] That is a pool.
+[ 4439.2] That is a pool to open a front door.
+[ 4441.2] Well, I've never done that.
+[ 4443.2] I think on the other side, got a big, great, great, great game.
+[ 4447.2] No, no, no, no.
+[ 4448.2] No, no, no.
+[ 4449.2] So what do you think of it could just open?
+[ 4451.2] It's a...
+[ 4452.2] Hey, hey.
+[ 4453.2] It's a front door.
+[ 4454.2] Right, right.
+[ 4455.2] It's kind of like a civic building.
+[ 4457.2] Yeah.
+[ 4458.2] It's a game.
+[ 4459.2] Deadlock, I have never built a bus that has been a front door.
+[ 4461.2] Because Deadlock always pushes doors.
+[ 4464.2] It always works.
+[ 4466.2] Anytime I try to pull a door, it's never worked.
+[ 4468.2] Whenever I push the door, it's worked.
+[ 4470.2] So, you know.
+[ 4474.2] Well, I didn't want to know if it was a third.
+[ 4477.2] I was just going to push it.
+[ 4480.2] Would you like to push the door?
+[ 4481.2] I would love to.
+[ 4483.2] Roll strength, please.
+[ 4484.2] Should I roll the big one?
+[ 4485.2] Sure.
+[ 4486.2] Whoa.
+[ 4489.9] Whoa.
+[ 4490.9] That is...
+[ 4492.9] Eighteen.
+[ 4493.9] Eighteen.
+[ 4494.9] Mine.
+[ 4496.9] Okay.
+[ 4497.9] So...
+[ 4501.9] You walk up to the door.
+[ 4503.9] You ignore the knockers.
+[ 4506.9] You set your shoulders, set your feet, push as hard as you can.
+[ 4511.9] The door resists.
+[ 4514.9] It's a very sturdy door.
+[ 4517.9] The hinges are slightly less sturdy.
+[ 4519.9] Door fight back.
+[ 4523.6] You hear a creaking snapping noise, and from inside, somebody goes,
+[ 4527.6] What the fuck is happening?
+[ 4543.6] In response to the voice, do you stop?
+[ 4546.6] Open the door.
+[ 4551.6] I don't think you understand.
+[ 4552.6] When I start something, I cannot stop it.
+[ 4554.6] We know.
+[ 4555.6] It's okay.
+[ 4556.6] Okay.
+[ 4558.6] I'm going to make a dexterity saving throw for the person behind the door.
+[ 4564.6] We can turn every door into the door.
+[ 4570.6] Hey, it's all of the cover of my drink.
+[ 4573.6] I love it.
+[ 4574.6] It's what I do.
+[ 4576.6] You continue to push.
+[ 4581.6] There is a creaking snapping noise as the bar across the door just gives up.
+[ 4587.6] Nice.
+[ 4588.6] The doors swing open, and only just stepping back in time is a woman in her mid-thirties.
+[ 4597.6] I'm so strong.
+[ 4599.6] Just avoiding getting caught by the door as she sort of stares at you wide-eyed like,
+[ 4604.6] What?
+[ 4605.6] What?
+[ 4606.6] I was like,
+[ 4609.6] It was like,
+[ 4610.6] No, I'm not.
+[ 4611.6] Who are you?
+[ 4612.6] What are you doing?
+[ 4614.6] What?
+[ 4615.6] Opening the door.
+[ 4617.6] Why?
+[ 4618.6] Why?
+[ 4619.6] Because it was closed.
+[ 4624.6] I did it.
+[ 4625.6] I did it, baby.
+[ 4627.6] I lost it.
+[ 4632.6] It was closed.
+[ 4633.6] It was closed.
+[ 4637.6] It was closed.
+[ 4639.6] So the woman facing you is a half-elf with warm brown skin,
+[ 4645.6] dark hair drawn back into a severe knot that doesn't quite hide the Grey Street temple,
+[ 4649.6] wearing lifter-grey layered over silver,
+[ 4652.6] a narrow ouzek collar at her throat,
+[ 4654.6] sleeves rolled up for desk work,
+[ 4655.6] but the cuff's very neat and crisp.
+[ 4659.6] This detail about her moving with the unhurried precision of someone who filed 10,000 names
+[ 4665.6] doesn't really apply because she's currently in a state of shock.
+[ 4679.9] Okay.
+[ 4681.9] You seemed very deep in thought.
+[ 4683.9] I was.
+[ 4684.9] Yeah.
+[ 4685.9] Sorry, I'm just staring right at you.
+[ 4694.1] Yes, the door is normally closed unless we have visitors.
+[ 4700.1] You have visited.
+[ 4702.1] I've noticed that.
+[ 4703.1] What?
+[ 4705.4] Why did you destroy our door?
+[ 4707.4] I did not open it.
+[ 4709.4] Breaking the bar?
+[ 4712.4] No.
+[ 4713.4] Door will open and push.
+[ 4714.4] Door will open.
+[ 4715.4] It's just a weak door.
+[ 4716.4] Door will open and knock?
+[ 4720.9] Okay.
+[ 4721.9] Okay.
+[ 4722.9] I tried to pull the floor on a different door and it did not work.
+[ 4724.9] All doors are pushed off.
+[ 4725.9] Have you tried knock?
+[ 4727.9] No.
+[ 4728.9] Knock, knock, knock, knock, knock.
+[ 4732.9] Whenever I push the door, don't open.
+[ 4734.9] Yeah, yeah, no, I see that.
+[ 4745.9] Knock at the door, you just push.
+[ 4746.9] You just hold the door and then go.
+[ 4748.9] It's like shining every time you get to the door.
+[ 4753.9] Okay.
+[ 4755.9] Right.
+[ 4756.9] Right.
+[ 4757.9] Try and find somebody to repair this.
+[ 4759.9] What do you want?
+[ 4771.9] I fucking adore you.
+[ 4774.9] You're so fucking smart.
+[ 4776.9] You're fucking the chummin' character like I'm incredible.
+[ 4781.9] It's always the chummin'.
+[ 4784.9] I'm just going back to my fundamentals.
+[ 4786.9] Like, when you're going to experiment with me, you just push the door.
+[ 4795.9] Kevin from the office talk.
+[ 4797.9] I'm here, I'm here.
+[ 4799.9] That's funny because I don't know who that is.
+[ 4801.9] Oh shit.
+[ 4802.9] Sorry.
+[ 4803.9] Why are you being many-
+[ 4804.9] You were in your thing.
+[ 4805.9] I'm not in your thing.
+[ 4806.9] I'm not in your thing.
+[ 4807.9] I'm not in your thing.
+[ 4808.9] I'm not in your thing.
+[ 4809.9] I'm not in your thing.
+[ 4810.9] I'm not in your thing.
+[ 4811.9] I'm not in your thing.
+[ 4813.9] I'm not in your thing.
+[ 4814.9] I'm not in your thing.
+[ 4827.9] Are we telling them?
+[ 4828.9] We are investigators?
+[ 4830.9] And we have some questions.
+[ 4831.9] Okay.
+[ 4832.9] Okay.
+[ 4834.9] Normally, we have-
+[ 4835.9] Great.
+[ 4836.9] Great.
+[ 4837.9] Do you have tea?
+[ 4838.9] We can have it down and get to it and then we can like get out of your head and fix the door.
+[ 4840.9] Um, make a reservation roll for me, with advantage.
+[ 4845.9] Is the door, like, hanging off its hinges or is it on the floor?
+[ 4850.9] So the hinges are just about held together.
+[ 4852.9] What is...
+[ 4853.9] So ordinarily when it's closed there's a wooden bar that's placed across it.
+[ 4856.9] Yeah.
+[ 4857.4] You broke that.
+[ 4857.9] Oh yeah, I tried.
+[ 4858.9] Is that just, like, on the floor?
+[ 4860.9] In pieces, yeah.
+[ 4861.9] I'll just pick it up and put it...
+[ 4863.9] Fine, that's fine.
+[ 4864.9] That's fine.
+[ 4865.9] Don't say.
+[ 4867.9] Okay, that's shit.
+[ 4869.9] Did you bring my hat?
+[ 4871.9] My rolls aren't.
+[ 4873.9] Well, my, my, my guidance every time has nearly been almost always a one.
+[ 4879.9] What do you put ahead?
+[ 4880.9] Yeah.
+[ 4881.9] Um...
+[ 4883.9] 16, 1, 1.
+[ 4884.9] 18.
+[ 4885.9] 18.
+[ 4886.9] My, by the way, never let me do protection.
+[ 4888.9] I am only plus one.
+[ 4890.9] For Christmas time.
+[ 4891.9] But you got 18.
+[ 4892.9] Well, I got a, I got a one or a 16.
+[ 4894.9] So, nice little treat to that.
+[ 4896.9] Yes.
+[ 4898.9] Which one wants me?
+[ 4900.9] Which one wants me?
+[ 4901.9] Which one wants me?
+[ 4902.9] Which one wants me?
+[ 4906.9] Yeah, tea sounds like a good, good idea.
+[ 4909.9] Um, the canteen is this way.
+[ 4910.9] Great.
+[ 4912.9] So the interior of this building is something like a library that takes itself incredibly seriously.
+[ 4920.9] The air is dry and a little bit warmer than the mountain climate warrants.
+[ 4924.9] It's lit by very, very well-enclosed lanterns, which even magically conjured flame is regarded
+[ 4943.7] as too dangerous to be left unguarded here.
+[ 4947.9] Because every wall and basically all of the available space is taken up by shelves.
+[ 4954.5] Most stealing are filled with ledgers, manifests, bound registers, and there are people moving
+[ 4963.9] around even at this late hour, clearly busy doing the administrative work of keeping track
+[ 4969.8] of everyone entering and leaving the city.
+[ 4972.7] And your new friend leads you through all of this to a sore side room where there are the
+[ 4977.4] means to make tea, and some comfortable, if slightly dilapidated chairs, you have to say.
+[ 5010.8] If everyone rolls during the Spider-Man point in with every other middle-aged half-hour man.
+[ 5023.7] Basically.
+[ 5024.7] Okay, what am I going to make you roll for making tea?
+[ 5028.7] One question.
+[ 5029.7] Yes.
+[ 5030.7] Are all the ingredients of a tea on the counter?
+[ 5033.7] Yes.
+[ 5034.7] Not in cupboard.
+[ 5035.7] No.
+[ 5036.7] It's enough.
+[ 5037.7] I think there's going to be like less and less dough in the kitchen.
+[ 5042.7] I think there will be a lot of dough in the other.
+[ 5046.7] I'm going to count the counter because this is essentially the scarf room.
+[ 5050.7] And these are the people who run on tea.
+[ 5053.7] I bring you a cupboard when one door opens.
+[ 5056.7] That's it.
+[ 5057.7] Yeah, we can do it.
+[ 5059.7] One door opens.
+[ 5061.7] Good.
+[ 5062.7] Yeah.
+[ 5063.7] It's open.
+[ 5064.7] All right.
+[ 5067.6] Oh, that's neat.
+[ 5068.6] I guess we're going to be pretty sure Lawrence got tea.
+[ 5071.6] Yeah.
+[ 5072.6] Yeah.
+[ 5073.6] I used it to make tea for naught.
+[ 5076.6] Okay.
+[ 5077.6] What?
+[ 5078.6] All of the tea?
+[ 5079.6] I mean, you didn't get much from a lamb here.
+[ 5081.6] That's true.
+[ 5082.6] I feel like somebody's listening to it, but I didn't want to speak before he came out.
+[ 5088.6] Both of those are compelling arguments.
+[ 5090.6] I would say medicine.
+[ 5092.6] What for making tea?
+[ 5094.6] What for making tea?
+[ 5095.6] Yeah.
+[ 5096.6] Ooh.
+[ 5097.6] What tea is it?
+[ 5099.6] They're so great.
+[ 5100.6] I'm a man.
+[ 5101.6] It's actually not natural blood.
+[ 5104.6] Which is why I wasn't passing like,
+[ 5109.6] tea.
+[ 5110.6] Ooh, I cannot mix tea.
+[ 5112.6] Eight.
+[ 5113.6] Eight.
+[ 5114.6] Double tea.
+[ 5115.6] Yeah.
+[ 5116.6] 23.
+[ 5117.6] Oh, amazing.
+[ 5118.6] Got two tea options.
+[ 5120.6] Okay.
+[ 5122.6] It's really, you get that little cup.
+[ 5127.6] I was thinking the Miascula Chef.
+[ 5129.6] same vibe. Yes, Ammonero makes a functionally perfect cup of tea. What has Deathwalker made?
+[ 5138.7] Would you like to narrate that or would you like me to? Dirty bean water.
+[ 5142.1] What are you doing? What are you doing? Get beans, get tea. Exactly. It just baked beans and butter.
+[ 5150.3] Oh god, no.
+[ 5156.3] Okay, so for the second time in like today, I think, um, you have a somewhat shaken person
+[ 5166.9] calming themselves with tea, having had their life disrupted by the entrance of the point.
+[ 5174.1] Did they provide you with tea? Yeah, they provided stuff for them.
+[ 5178.1] Oh, we drink them and I have tea. No, but we don't have any left. We don't have any left.
+[ 5184.9] We use it all, we use them. That's what I'm talking about.
+[ 5187.6] What? What? A single serving of tea?
+[ 5191.6] I think that's pretty tasty. Maybe a little bit.
+[ 5195.6] We don't have any left.
+[ 5197.6] Bye. Bye.
+[ 5199.6] A single tea.
+[ 5201.6] A single tea.
+[ 5203.6] Yes.
+[ 5205.6] Never get a different number than my tea.
+[ 5211.6] Is this the thing that we're balling against at the end for the first time?
+[ 5215.6] My tea is left.
+[ 5225.6] We can have some of my tea. I made tea.
+[ 5227.6] Bean tea.
+[ 5229.6] Bean tea?
+[ 5231.6] Water cold. Yeah.
+[ 5233.6] Yeah, of course it's cold.
+[ 5235.6] A problem.
+[ 5237.6] A roll of water given that shape.
+[ 5239.6] Yeah, like a baked bean in water.
+[ 5243.6] Have you tried to make protein shake?
+[ 5252.6] Can I try and shake the tea?
+[ 5254.6] Yes, absolutely. You can try to shake the tea.
+[ 5258.6] I'm going to need two rolls from you.
+[ 5265.6] Athletics for the shaking inside the pan.
+[ 5269.6] You're actually going to need two rolls.
+[ 5271.6] Barstood.
+[ 5273.6] It's going to be the next layer.
+[ 5279.6] A sleight of hand.
+[ 5281.6] And then a guidance.
+[ 5283.6] Is that on both?
+[ 5285.6] A waste of tea.
+[ 5289.0] So three.
+[ 5292.7] So that would be ten and ten.
+[ 5296.7] Wow.
+[ 5300.7] You're making a protein shake.
+[ 5302.7] Yep.
+[ 5304.7] Still a bit chunky and a small amount of it now on this evening.
+[ 5308.7] Still a bit chunky.
+[ 5310.7] I'm drinking it.
+[ 5312.7] I'm drinking it.
+[ 5314.7] What was that I just wanted?
+[ 5316.7] What was the last thing?
+[ 5318.7] What was the thing?
+[ 5320.7] Protein.
+[ 5322.7] I think that if I'm thinking that I'll get taller.
+[ 5324.7] You become like me.
+[ 5326.7] I am going to be like four foot.
+[ 5329.7] But I hate shit.
+[ 5332.7] Every...
+[ 5334.7] What am I doing?
+[ 5336.7] So your new acquaintance recuperates a little bit under the influence of tea.
+[ 5342.7] Okay.
+[ 5343.7] So this is really good tea by the way.
+[ 5348.7] Yes.
+[ 5349.7] Investigators, you said.
+[ 5351.7] I believe I did recall a briefing about this.
+[ 5354.7] What can we do for you?
+[ 5360.9] The tea is actually...
+[ 5366.9] We're looking for records of who came in and exited the tea.
+[ 5375.9] How long did I?
+[ 5377.9] Two months, did you say?
+[ 5379.9] Two months.
+[ 5383.9] Do you also give me a description of the crest that you got from the black cats?
+[ 5388.9] Yeah.
+[ 5389.9] Yeah.
+[ 5390.9] Yeah, I'll draw it.
+[ 5391.9] Birds.
+[ 5392.9] I believe featured birds.
+[ 5394.9] Just loads of birds.
+[ 5395.9] Just said birds.
+[ 5396.9] On a field of black.
+[ 5398.9] Other birds.
+[ 5399.9] Just birds.
+[ 5400.9] Back in gold.
+[ 5401.9] Snakes.
+[ 5402.9] I'm in the campaign of birds.
+[ 5403.9] I'm doing that.
+[ 5404.9] Yeah.
+[ 5405.9] Okay.
+[ 5406.9] Like a...
+[ 5407.9] Squeakiest.
+[ 5408.9] Squeakiest.
+[ 5409.9] That's that.
+[ 5410.9] Squeakiest bird.
+[ 5411.9] Squeakiest bird.
+[ 5412.9] What was that?
+[ 5413.9] Oh, is that what that is?
+[ 5415.9] Oh, man.
+[ 5418.6] So...
+[ 5419.6] Okay.
+[ 5420.6] Okay.
+[ 5421.6] So two months ago and...
+[ 5423.6] Curator Farms, that would be noble visitors.
+[ 5425.6] I will fetch you the appropriate records.
+[ 5427.6] Gee.
+[ 5429.6] Heads away for a moment and returns shortly thereafter with a stack of records.
+[ 5435.6] And what I'm going to do is get anyone who wants to to roll an investigation to go through
+[ 5441.6] them and see what you can find.
+[ 5444.6] Yeah.
+[ 5445.6] Do we want to do this as individuals or do this as a group role?
+[ 5450.4] Group role.
+[ 5451.4] Group role.
+[ 5452.4] Yeah.
+[ 5453.4] Go on.
+[ 5454.4] We're a team.
+[ 5455.4] Investigation.
+[ 5456.4] I feel it would be wasted on me.
+[ 5458.4] Okay.
+[ 5459.4] Okay.
+[ 5460.4] I don't have that.
+[ 5461.4] Dude.
+[ 5462.4] What a good waste of me.
+[ 5463.4] 20.
+[ 5464.4] Okay.
+[ 5465.4] Okay.
+[ 5466.4] Very nice.
+[ 5467.4] Um, 18.
+[ 5468.4] Four.
+[ 5469.4] Four.
+[ 5470.4] Eight.
+[ 5471.4] 15.
+[ 5472.4] 15.
+[ 5473.4] 16.
+[ 5474.4] Oh, no.
+[ 5475.4] That's my investigation.
+[ 5476.4] I like the guidance.
+[ 5478.4] It doesn't matter.
+[ 5479.4] It doesn't matter.
+[ 5480.4] I'll give you something.
+[ 5481.4] That's okay.
+[ 5482.4] Seven.
+[ 5483.4] Seven.
+[ 5484.4] Yeah.
+[ 5485.4] Um, a dirty 20.
+[ 5488.4] Team 20.
+[ 5490.4] Okay.
+[ 5492.4] That is a really good...
+[ 5494.4] Alright.
+[ 5495.4] Alright.
+[ 5496.4] So you find.
+[ 5497.4] My best skill is acrobatics.
+[ 5499.4] It's not an acrobatics.
+[ 5501.4] It's my best skill.
+[ 5503.4] Athletics.
+[ 5504.4] Athletics.
+[ 5505.4] That's why you guys are shaking.
+[ 5506.4] Aception.
+[ 5507.4] I can do a flip to the strikes.
+[ 5510.4] And he's watching.
+[ 5511.4] He can do a back flip.
+[ 5513.4] Fucking nuts.
+[ 5514.4] It's nuts.
+[ 5515.4] It's really good.
+[ 5516.4] As you flip, kick the papers in the air.
+[ 5519.4] Oh wow.
+[ 5520.4] I need to do that.
+[ 5521.4] Yes.
+[ 5522.4] The section for swaging rolls.
+[ 5524.4] Plus six on both.
+[ 5526.4] Yeah, because chorizo's not right.
+[ 5528.4] The sauce are right.
+[ 5529.4] Session 13.
+[ 5530.4] We will look at that.
+[ 5531.4] That's good.
+[ 5532.4] That's good.
+[ 5533.4] That's good.
+[ 5534.4] Oh, that's what I needed back.
+[ 5537.4] I could have been doing this on time.
+[ 5539.4] You've been doing that.
+[ 5540.4] I work.
+[ 5541.4] I work.
+[ 5542.4] I've been having dang enough legs.
+[ 5543.4] Check.
+[ 5544.4] No.
+[ 5545.4] With five.
+[ 5546.4] One record.
+[ 5547.4] In one of the letters.
+[ 5548.4] Which reads.
+[ 5549.4] First, 32nd of Eptan 4218SC.
+[ 5552.4] So that's about two months ago.
+[ 5555.4] So Regnief Delig of Goodheim.
+[ 5558.4] Diplomatic business.
+[ 5560.4] Sorry, it's a sandwich.
+[ 5564.4] Residents.
+[ 5565.4] Residents.
+[ 5566.4] Greatheath House Ambassador Street.
+[ 5568.4] Registered retainers.
+[ 5569.4] Marcelline.
+[ 5570.4] Household steward.
+[ 5571.4] Secretary and cartographer.
+[ 5573.4] Arms.
+[ 5574.4] Quarterly first and fourth sable semae of bizance.
+[ 5576.4] Second and third oar.
+[ 5577.4] Overall a sunrock display.
+[ 5578.4] The body argent.
+[ 5579.4] Wings elevated and endorsed.
+[ 5580.4] Every primary further tipped oar.
+[ 5582.4] Beaked and membered oar.
+[ 5583.4] Langued gules.
+[ 5584.4] Grasping in the Dexter's hound.
+[ 5585.4] The signet during voided oar.
+[ 5587.4] Overall in a chute run of preference.
+[ 5589.4] Argent charged with two keys of saltire ghouls.
+[ 5591.4] Supporters.
+[ 5592.4] Two amphipteries erect.
+[ 5593.4] Wings elevated.
+[ 5594.4] Argent semae of elevated the death.
+[ 5596.4] Matches the description.
+[ 5597.4] I feel like I just tried to be the rascal.
+[ 5600.4] How, how, how much would you enjoy writing that?
+[ 5602.4] So much.
+[ 5603.4] The hound really is so much fun.
+[ 5606.4] Stay extended on myth and authority until formal conclusion of your romantic business.
+[ 5611.4] And then at the bottom, three lines that read Seregni's logo.
+[ 5615.4] 4218.VII.032.
+[ 5617.4] Stoic sphinx, diplomatic manifest.
+[ 5619.4] Greatheath House.
+[ 5620.4] All I got out of this was tangerine.
+[ 5623.4] I don't think.
+[ 5625.4] Marcelline retainer.
+[ 5627.4] 4118.VII.032.
+[ 5629.4] Ardent and victory.
+[ 5630.4] Bound to master serial steward.
+[ 5632.4] Auroras retainer.
+[ 5633.4] 4118.VII.032.
+[ 5635.4] Laconic and victory.
+[ 5636.4] Bound to master serial secretary.
+[ 5638.4] You know.
+[ 5639.4] You know that book.
+[ 5641.4] You know that book that you're making me read.
+[ 5647.4] Yes.
+[ 5648.4] Yes.
+[ 5649.4] You know when it does the thing where it's like, oh yeah, this is the relay messages.
+[ 5655.4] Yep.
+[ 5656.4] That's what you just, you just did that.
+[ 5668.4] That's what that sounds like.
+[ 5671.4] Yeah I felt like I was on some sort.
+[ 5673.4] Drunk.
+[ 5674.4] Drunk?
+[ 5675.4] Me too.
+[ 5676.4] Me too.
+[ 5677.4] I think I had a stroke.
+[ 5678.4] Yeah.
+[ 5679.4] Okay, and the past affair was six-to-two, which is very simple.
+[ 5682.4] It was really bad, and that was my biggest pasta fan.
+[ 5688.4] You see, when you said that...
+[ 5694.4] No!
+[ 5696.4] No!
+[ 5698.4] No!
+[ 5700.4] No!
+[ 5702.4] No!
+[ 5704.4] No!
+[ 5706.4] No!
+[ 5708.4] No!
+[ 5710.4] No!
+[ 5714.4] It's a map for an image.
+[ 5718.4] What's that?
+[ 5720.4] It's probably not this deep, but because I don't understand some of it, I've just seen random capital letters and I'm like...
+[ 5726.4] Maybe it means a word.
+[ 5728.4] Is it coded?
+[ 5730.4] Is it?
+[ 5732.4] Uh, I'll let you wrong for a moment, but there isn't much.
+[ 5736.7] I'll have a cap, though.
+[ 5738.4] I'm like, why are you just over it?
+[ 5740.1] I don't know.
+[ 5740.9] I took a humble bite.
+[ 5742.1] This is...
+[ 5742.9] It says, it says...
+[ 5744.9] Wait, wait, you're the Zodiac.
+[ 5746.9] This is the Zodiac speaking.
+[ 5748.9] Okay, because you...
+[ 5750.9] Like, so many of the party paths are so drastically...
+[ 5754.4] There is a second thing you notice as you happen to be looking at this page.
+[ 5758.1] Which is an entry for the following day.
+[ 5760.1] Which reads...
+[ 5760.9] Which reads...
+[ 5761.6] George De Selve, 4218 VII 033 Sanguine Dragon Merchant.
+[ 5766.4] Departed 4118 VII 025.
+[ 5769.4] And Jean de Interville, similar series of complete nonsense.
+[ 5774.4] You know these names.
+[ 5776.4] Oh, no.
+[ 5778.4] These are the names of the two merchants who were with you on the coach.
+[ 5782.4] When you got attacked by anatomists.
+[ 5784.4] And then went to Fallowhurst.
+[ 5786.4] George De Selve, Jean de Vinterville.
+[ 5791.2] My convert?
+[ 5793.2] No, no.
+[ 5795.2] The merchant, guys.
+[ 5797.2] So, yeah, on the coach, there was...
+[ 5800.4] You lot.
+[ 5801.4] Sinja and Thule.
+[ 5803.4] The Quill brothers.
+[ 5804.4] And two merchants.
+[ 5805.4] Can we leave them behind?
+[ 5807.1] Did we ever ask your names?
+[ 5808.1] They just came really soon.
+[ 5809.4] You didn't...
+[ 5810.4] I'm retconning that you knew their names at the time.
+[ 5813.2] Having gone through all of that with them.
+[ 5815.2] Yeah, we did forget the names of pretty much everyone else in that point.
+[ 5818.1] Oh, we forgot the answers.
+[ 5821.1] We're good merchants!
+[ 5823.1] We're not being effective.
+[ 5825.1] Merchants aren't important.
+[ 5827.1] The diamond doesn't.
+[ 5828.1] Yeah, they definitely don't gel with the description of the two bears who were
+[ 5833.1] according to the black cat spending their days remighting as merchants.
+[ 5837.1] Wait, they're not those people?
+[ 5839.1] No, they are.
+[ 5840.1] Oh.
+[ 5841.1] Obviously they match those descriptions.
+[ 5843.1] Gracie, facts are mad at the story.
+[ 5845.1] Call myself, there you go.
+[ 5847.1] Oh, I took your time.
+[ 5852.9] I thought it was a pure curiosity.
+[ 5856.9] My persuasion is a plus six, I'm really good at persuading you today.
+[ 5861.9] If I had walked up to the front door,
+[ 5864.9] and just persuaded the door to open for us,
+[ 5867.9] then it wouldn't work.
+[ 5871.9] I think the door will sink.
+[ 5873.9] DM, sometimes it's okay to say that.
+[ 5875.9] Yeah, no.
+[ 5878.9] You couldn't try.
+[ 5880.9] No, I got it.
+[ 5882.9] Also, you just because you're stupid.
+[ 5885.9] And the role will really be...
+[ 5887.9] Yeah, well, what?
+[ 5889.9] 20.
+[ 5890.9] Yeah, then make all the things still.
+[ 5893.9] I don't know, I feel like that's not magic.
+[ 5899.9] If you could present me a reasonable,
+[ 5902.9] diegetic explanation as to why that would work,
+[ 5906.9] I would allow it to potentially succeed.
+[ 5909.9] Magic door.
+[ 5910.9] Wait, wait, the door is the domain of wood.
+[ 5913.9] So, right, if we get animate dead,
+[ 5917.9] then you need the animate door,
+[ 5919.9] and then we could persuade it.
+[ 5921.9] There you go.
+[ 5922.9] That's the ploy.
+[ 5923.9] So animate it to a tent.
+[ 5926.9] Well, it'd be like a tree, right?
+[ 5928.9] Dead tree.
+[ 5929.9] Dead tree.
+[ 5932.9] That fails.
+[ 5934.9] That fails.
+[ 5935.9] That fails.
+[ 5936.9] I have class 2 animations.
+[ 5937.9] You get into the door.
+[ 5938.9] You get into the door.
+[ 5941.9] Don't need to animate.
+[ 5943.9] No, no.
+[ 5944.9] No, no, no, no, no.
+[ 5945.9] Sorry.
+[ 5946.9] I'm going to move with it.
+[ 5947.9] I said, I'm going to move with it.
+[ 5948.9] I said, I'm going to move with it.
+[ 5950.9] I'm going to look at the box.
+[ 5951.9] I'm going to look at the box.
+[ 5952.9] I'm going to look at the box.
+[ 5954.9] The door.
+[ 5955.9] The door.
+[ 5956.9] And then I'm going to push the door down.
+[ 5959.9] I won't open it from the inside.
+[ 5961.9] I'm going to keep walking on.
+[ 5962.9] So you recognize some names.
+[ 5966.9] Are any of your characters familiar with heraldic language?
+[ 5971.9] Say that again.
+[ 5972.9] Say that again.
+[ 5973.9] What is that?
+[ 5974.9] What is that?
+[ 5975.9] I mean, what are your names?
+[ 5976.9] IRL.
+[ 5977.9] IRL or...?
+[ 5978.9] IRL.
+[ 5979.9] Characters, not players.
+[ 5980.9] IRL.
+[ 5981.9] IRL.
+[ 5982.9] IRL.
+[ 5983.9] I would have been...
+[ 5984.9] I think heraldry.
+[ 5985.9] I would have experienced it based on where I was...
+[ 5989.9] You would have seen it.
+[ 5990.9] Seen it.
+[ 5991.9] I don't know if I could...
+[ 5992.9] Yeah, we have the official fate.
+[ 5997.9] It would have been like, see a word or hear a word and that's a picture that's what that
+[ 6006.9] means.
+[ 6007.9] That's a little bit.
+[ 6008.9] It's more, like, it's specific domain knowledge.
+[ 6011.9] So it is kind of common.
+[ 6013.9] It's just that it's very very specific terminology.
+[ 6018.9] It might be like, if somebody was a scribe, for example, then they would probably have heard of it, or know of the language.
+[ 6025.9] I think there's so much research on that.
+[ 6028.9] Oh, possibly.
+[ 6030.9] Cool.
+[ 6031.9] It would be common in old texts involving noble houses.
+[ 6035.9] Do you read books?
+[ 6036.9] I do like books.
+[ 6038.9] No, you would like this.
+[ 6040.9] I would like you to do a history novel.
+[ 6044.9] It's important.
+[ 6049.9] You got advantage, though, to roll again.
+[ 6051.9] Maybe.
+[ 6052.9] I don't know.
+[ 6053.9] I don't know.
+[ 6054.9] Because of proficiency.
+[ 6055.9] We'll see.
+[ 6056.9] Oh, proficiency.
+[ 6057.9] Oh, I'm sorry.
+[ 6058.9] I'm sorry.
+[ 6060.9] Okay.
+[ 6061.9] Okay.
+[ 6062.9] You can watch the instructions from that description.
+[ 6065.9] Okay.
+[ 6066.9] What this should actually look like.
+[ 6067.9] Okay.
+[ 6068.9] Which is...
+[ 6069.9] What?
+[ 6070.9] What?
+[ 6071.9] What?
+[ 6072.9] Please, please.
+[ 6074.9] Then I'll do that.
+[ 6075.9] No.
+[ 6076.9] No.
+[ 6078.9] No.
+[ 6079.9] No, no.
+[ 6082.9] No.
+[ 6083.9] No.
+[ 6084.9] No.
+[ 6085.9] No.
+[ 6086.9] No.
+[ 6087.9] Very good.
+[ 6088.9] Sorry.
+[ 6089.9] No.
+[ 6090.9] I don't understand.
+[ 6093.9] No.
+[ 6095.9] No.
+[ 6096.9] No.
+[ 6097.9] No.
+[ 6098.9] No.
+[ 6099.9] No.
+[ 6100.9] No.
+[ 6101.9] I'd like to hear that.
+[ 6103.9] It's because it's a work reason, so it sucks.
+[ 6107.9] People sometimes call their subsidiaries or their shell companies funny names, and we have one that has used the race, the golden part.
+[ 6116.9] It's a very weird... I'm not saying what they call it!
+[ 6119.9] So it's a really weird reason why I need that.
+[ 6121.9] It's extremely weird.
+[ 6123.9] Like, both in and out of universe, you can just...
+[ 6127.9] It's not about that.
+[ 6129.9] It's about that.
+[ 6131.9] It's gold and gold.
+[ 6133.9] Midas. Midas.
+[ 6135.9] Midas.
+[ 6136.9] Many of us.
+[ 6137.9] Many of us.
+[ 6138.9] Many of us.
+[ 6139.9] We have many.
+[ 6140.9] We have many of us.
+[ 6141.9] Many of us.
+[ 6142.9] Many of us.
+[ 6143.9] We have many of us.
+[ 6146.9] We have many of us.
+[ 6148.9] This whole bit is really divided into groupings.
+[ 6152.9] I'm okay with all this.
+[ 6158.9] I'm genuinely bored.
+[ 6160.9] I can just translate that.
+[ 6162.9] I was like...
+[ 6164.9] I was like...
+[ 6165.9] I was like...
+[ 6166.9] Bracking my brain, my brain.
+[ 6167.9] I'd be like...
+[ 6168.9] I'm like...
+[ 6169.9] I'm like...
+[ 6170.9] I'm like...
+[ 6171.9] I'm like...
+[ 6172.9] A.N.E.T.
+[ 6173.9] I'm like...
+[ 6174.9] I'm like...
+[ 6175.9] Um...
+[ 6176.9] Um...
+[ 6177.9] Welcome, welcome, I'm an alien.
+[ 6178.9] Yeah.
+[ 6179.9] Yeah.
+[ 6180.9] I'm called on Jen.
+[ 6181.9] Yeah.
+[ 6182.9] I'm on Jen.
+[ 6183.9] Both.
+[ 6184.9] How many are also...
+[ 6185.9] How many are also gets it?
+[ 6187.9] Okay.
+[ 6188.9] Okay.
+[ 6189.9] Is there anything else you guys want to do while you're at the records office?
+[ 6193.9] They could see what they write about us.
+[ 6196.9] That would be interesting.
+[ 6197.9] Yeah.
+[ 6198.9] Well, they have the records on...
+[ 6199.9] We like Ferris Bueller and Shane Bueller, right?
+[ 6203.9] Is it purely records of comings and goings?
+[ 6208.9] Yeah.
+[ 6209.9] Yeah, I'm not even going to make you off that.
+[ 6210.9] Yes, it is.
+[ 6211.9] Like, this is the...
+[ 6213.9] It's attached to the gate.
+[ 6214.9] This is my gate directly.
+[ 6215.9] Yes.
+[ 6216.9] Yeah, I can...
+[ 6217.9] We know what he got in.
+[ 6218.9] Can I want to get the little insert from when we turn up just to see what he said about our
+[ 6225.9] arrival?
+[ 6226.9] Um...
+[ 6227.9] Any chance that maybe we check to see if any of the representatives of the houses have
+[ 6232.9] gone outward in the same time?
+[ 6234.9] Yeah.
+[ 6235.9] Or near-ish to that time.
+[ 6236.9] That makes more sense.
+[ 6237.9] Sure.
+[ 6238.9] Or if there's one that goes out often.
+[ 6240.9] Yes.
+[ 6241.9] Okay.
+[ 6242.9] So I'm just going to give you that one, that's all of your entrances.
+[ 6247.9] Please ignore the non-diegetic censoring over there in his name.
+[ 6256.9] Read this.
+[ 6259.9] Read...
+[ 6261.9] Read...
+[ 6263.9] Um...
+[ 6265.9] At one point...
+[ 6266.9] Thank you.
+[ 6267.9] It just sounded like you were speaking.
+[ 6268.9] Bloody Dragon?
+[ 6269.9] Well, yeah.
+[ 6270.9] You know what it means?
+[ 6271.9] What does it mean?
+[ 6272.9] What does it mean?
+[ 6273.9] Uh...
+[ 6276.2] Like, there could just be a bloody dragon.
+[ 6281.5] Does it mean to...
+[ 6283.5] Um...
+[ 6284.5] Oh.
+[ 6285.5] Okay.
+[ 6286.5] Give me a...
+[ 6287.5] I believe this is...
+[ 6290.5] Intelligence.
+[ 6291.5] Okay.
+[ 6292.5] Um...
+[ 6293.5] Do you...
+[ 6294.5] Intelligence in knowing stuff.
+[ 6295.5] Wisdom would be understanding stuff.
+[ 6297.5] They do wisdom.
+[ 6298.5] They're mobile.
+[ 6299.5] They're mobile.
+[ 6300.5] But I'm a real person too.
+[ 6302.5] What did they want?
+[ 6303.5] What did they want?
+[ 6304.5] I did understand what they said.
+[ 6306.5] If I'm totally honest.
+[ 6307.5] I heard...
+[ 6308.5] Bloody Dragon!
+[ 6309.5] Bloody Dragon!
+[ 6310.5] I got a slam.
+[ 6311.5] Are you sure it's mine?
+[ 6312.5] Yeah.
+[ 6313.5] I think that's happened.
+[ 6314.5] Yeah, because you will not have encountered this system before.
+[ 6317.5] So this is...
+[ 6318.5] This is us and eight.
+[ 6319.5] Yeah.
+[ 6320.5] Okay, great.
+[ 6321.5] What about the one...
+[ 6322.5] So that's the H1N1.
+[ 6324.5] We will get certain segments.
+[ 6325.5] Okay, that's fine.
+[ 6326.5] I have not forgotten.
+[ 6327.5] Eight.
+[ 6328.5] Uh...
+[ 6329.5] Yeah, you don't have a good sense of this.
+[ 6332.5] What the hell do these things...
+[ 6333.5] That's what I just asked!
+[ 6334.5] Is that a week note?
+[ 6335.5] Are we coding?
+[ 6336.5] We've probably got a code.
+[ 6337.5] I don't know.
+[ 6338.5] We're probably like, numbered.
+[ 6339.5] Somebody else investigated.
+[ 6340.5] Have you read yours?
+[ 6341.5] Please.
+[ 6342.5] Read your funny words.
+[ 6343.5] Read your funny words!
+[ 6344.5] Read your funny words!
+[ 6345.5] Oh, redacted.
+[ 6346.5] The redaction...
+[ 6347.5] The redaction is non-diegetic.
+[ 6348.5] From cleus things.
+[ 6349.5] What the fuck.
+[ 6350.5] What the fuck.
+[ 6351.5] The sun.
+[ 6352.5] The sun.
+[ 6353.5] The sun.
+[ 6354.5] The sun.
+[ 6355.5] The sun.
+[ 6356.5] The sun.
+[ 6357.5] The sun.
+[ 6358.5] The sun.
+[ 6359.5] The sun.
+[ 6360.5] The sun.
+[ 6361.5] The sun.
+[ 6362.5] The sun.
+[ 6363.5] Oh the sonic dragon.
+[ 6364.5] The sonic meme.
+[ 6367.9] Hahahaha
+[ 6369.2] What the fuck?
+[ 6370.2] What the fuck.
+[ 6371.4] A
+[ 6391.6] Uuugh.
+[ 6393.5] Can I just... can I just...
+[ 6395.5] Can I jump up?
+[ 6396.5] Yeah.
+[ 6397.5] Yeah, I would literally...
+[ 6398.5] Yeah, what's that?
+[ 6399.5] Yeah, what's that about?
+[ 6400.5] Why am I stinking amphitheater or whatever it says?
+[ 6402.5] Stinking amphitheater!
+[ 6403.5] Is it a... is it a...
+[ 6404.5] Okay.
+[ 6405.5] It's a Vay-ment.
+[ 6406.5] Vay-ment and victory.
+[ 6407.5] That's the one.
+[ 6408.5] That's the one.
+[ 6409.5] That's the one.
+[ 6410.5] Stinking amphitheater.
+[ 6411.5] Okay, so...
+[ 6412.5] So, yeah, you ask, and she's like...
+[ 6415.5] Yeah.
+[ 6416.5] Yeah, so the...
+[ 6419.5] It's a unique identification code for your bracelets.
+[ 6423.5] Oh!
+[ 6425.5] Each of them is registered to the date of your entry.
+[ 6428.5] Yeah.
+[ 6429.5] And then a two-word unique phrase within that.
+[ 6432.5] Oh, so it's like, what were words?
+[ 6434.5] Yes.
+[ 6435.5] Three words.
+[ 6436.5] What were words?
+[ 6437.5] What were words?
+[ 6438.5] What were words?
+[ 6439.5] Where were words?
+[ 6440.5] Is it like the equivalent of...
+[ 6443.5] Why is it different?
+[ 6444.5] Like...
+[ 6447.5] It's your name.
+[ 6448.5] The code's name is so different.
+[ 6450.5] I'll come back to it.
+[ 6451.5] I'll let you just have a little look at your things first, and then...
+[ 6454.5] I may have...
+[ 6455.5] But it was just the same, right?
+[ 6457.5] Oh, my God.
+[ 6458.5] Yeah, so it's a...
+[ 6460.5] It's kind of...
+[ 6461.5] Yeah, it's a little bit like the amphitheater.
+[ 6462.5] It's more like, um...
+[ 6464.5] Okay, so it's just going to get weird and early.
+[ 6466.5] Uh...
+[ 6467.5] Does anybody use Ubuntu?
+[ 6469.5] What's that?
+[ 6470.5] It's a Linux distribution.
+[ 6473.5] No.
+[ 6474.5] No.
+[ 6475.5] It's software.
+[ 6476.5] So, each major Ubuntu release is given a name, so that you can easily, in conversation, determine
+[ 6484.5] which one you're talking about without having to remember specific numbers.
+[ 6486.5] Yeah.
+[ 6487.5] Um, I think the latest in that email...
+[ 6489.5] Oh, it's Apple Make on it.
+[ 6490.5] Oh, Singles is.
+[ 6491.5] No, it's just Apple Make on it.
+[ 6493.5] Yes, they did.
+[ 6494.5] So, Apple Mix, and one of the most recent ones, is Catalan.
+[ 6499.5] It's like a similar principle.
+[ 6501.5] So, HouseLithler uses that kind of idea.
+[ 6505.5] So, every bracelet assigns a new day, has the date of its assignment, and then a two-word
+[ 6513.5] phrase that uniquely identifies it within that.
+[ 6516.5] HouseLinux!
+[ 6517.5] What if I just say it right?
+[ 6519.5] It's invalid.
+[ 6521.5] Try it.
+[ 6522.5] I'm going to say the phrase...
+[ 6523.5] Arden.
+[ 6524.5] Arden.
+[ 6525.5] So, like, it glows a little bit, and sort of vibrates on your wrist, and then goes back
+[ 6529.5] to normal.
+[ 6530.5] I thought it was going to drop off.
+[ 6531.5] It's not on my wrist.
+[ 6532.5] It's on my ear.
+[ 6533.5] Okay.
+[ 6534.5] Okay.
+[ 6535.5] You can't see your clothing.
+[ 6536.5] You can feel it like a buzz.
+[ 6537.5] I'm kind of cool when I do want to say it.
+[ 6540.5] You get an ear notification.
+[ 6542.5] Yeah.
+[ 6543.5] Ooh!
+[ 6544.5] Sorry, I've got a technique.
+[ 6545.5] That might become a question.
+[ 6546.5] Yep.
+[ 6547.5] Yep.
+[ 6548.5] So...
+[ 6549.5] Really hope I've got the answers.
+[ 6550.5] Um, um...
+[ 6551.5] On...
+[ 6552.5] On...
+[ 6553.5] This one with our entries.
+[ 6555.5] Deckermoker is referred to as Sanguinish Dragon-Venturer.
+[ 6560.5] But on the arrival of the other two, George the Leaf is mentioned as Sanguin Dragon.
+[ 6571.5] So they match.
+[ 6572.5] So they match.
+[ 6573.5] But then...
+[ 6574.5] But then...
+[ 6575.5] Jean...
+[ 6576.5] Yeah, the...
+[ 6577.5] Jean de...
+[ 6579.5] The Interfield?
+[ 6580.5] Yes.
+[ 6581.5] Yes.
+[ 6582.5] Um, is...
+[ 6583.5] Punctuous Ziz.
+[ 6584.5] Punctuous Ziz.
+[ 6585.5] Which is what...
+[ 6586.5] Eh, it's silvery.
+[ 6587.5] Is...
+[ 6588.5] Um...
+[ 6589.5] Um...
+[ 6590.5] Yeah.
+[ 6591.5] Or not.
+[ 6592.5] Sorry.
+[ 6593.5] We're using the same bracelet?
+[ 6594.5] Punctuous Ziz.
+[ 6595.5] But yours is.
+[ 6596.5] Because their names are also on here.
+[ 6597.5] Because that was some different names.
+[ 6598.5] As Oblique Ziz.
+[ 6599.5] And yours is Oblique Ziz.
+[ 6600.5] Yeah.
+[ 6601.5] Oblique Ziz.
+[ 6602.5] So you leave.
+[ 6603.5] Return your bracelet.
+[ 6604.5] Yeah.
+[ 6605.5] Yeah.
+[ 6606.5] From the look of it, it's as if when these people come, it's like their names change ever
+[ 6613.5] social slightly.
+[ 6614.5] As if they're like, almost falsifying a license.
+[ 6615.5] Or who they are.
+[ 6616.5] Or who they are every time they're coming in and out.
+[ 6619.5] Is there a...
+[ 6620.5] Is there a thing?
+[ 6621.5] Right.
+[ 6622.5] So I think, to be clear, is our name and other people's entry name going to always be the
+[ 6627.5] same...
+[ 6628.5] Signet name?
+[ 6629.5] So the...
+[ 6630.5] The code and the...
+[ 6633.5] Like the two word phrase is the idea of the bracelet you were given.
+[ 6638.5] Hmm.
+[ 6639.5] Different.
+[ 6640.5] Am I even close to being onto something with looking at that?
+[ 6642.5] Or am I just digging down a rabbit hole?
+[ 6645.5] Um...
+[ 6646.5] Without, like, listening being like, yes!
+[ 6647.5] You're very...
+[ 6648.5] Yeah!
+[ 6649.5] I'm trying to...
+[ 6650.5] I don't know if I'm just, like, chasing down an endless rabbit hole.
+[ 6655.5] Okay, so I will give you...
+[ 6658.5] Sorry.
+[ 6659.5] No, no, no.
+[ 6660.5] I think so.
+[ 6661.5] So.
+[ 6662.5] The names are constructed out of a pool of common words that are just combined at random
+[ 6667.5] for each bracelet assigned that day.
+[ 6669.5] So they don't need a huge pool of potential combinations because you only have, like,
+[ 6676.5] one coat deriving per day.
+[ 6679.5] Um, yeah, I will just allow you to infer from the information in front of you.
+[ 6684.5] Like, these people entered, were given a bracelet, stayed for a period of time, exited.
+[ 6689.5] Next time they came in, they were given a different bracelet.
+[ 6692.5] They didn't actually, like...
+[ 6694.5] Did they change bracelet?
+[ 6695.5] But it felt that it does say Brian, Brian, and then it brought you guys to the previous
+[ 6700.5] visiting.
+[ 6701.5] Okay.
+[ 6702.5] Okay.
+[ 6703.5] Okay.
+[ 6704.5] I'm glad that I'm not just...
+[ 6705.5] Yeah, so the name is different.
+[ 6706.5] Oh, that would've been cool.
+[ 6707.5] One of us had visited and we just found out.
+[ 6708.5] But it does acknowledge the previous entry.
+[ 6710.5] God, they're really cool.
+[ 6712.5] They've been in there now.
+[ 6719.0] Are they here still?
+[ 6721.0] They arrived with you guys?
+[ 6723.0] You haven't seen them since?
+[ 6725.0] Does the records house have any...
+[ 6728.0] Well, do any of your other branches have any record of where people, like, stay or anything
+[ 6736.0] like that?
+[ 6737.0] Like, say we wanted to find these two merchants and question them, as is our right, as investigators.
+[ 6745.0] Is there any way that you would have knowledge of where they would be?
+[ 6749.0] This one has a residence on it.
+[ 6750.0] Is that for this person?
+[ 6751.0] Or is it, like, their diplomatic business?
+[ 6755.0] That was the special visitor, right?
+[ 6759.0] Let's do things in the order they came in.
+[ 6763.0] So, she looks at you for a second, as if thinking, and then goes like...
+[ 6770.0] How much security clearance were you guys given by the hexene circle?
+[ 6774.0] Yes.
+[ 6775.0] Mag.
+[ 6776.0] Yes.
+[ 6777.0] What's the highest?
+[ 6781.0] Eleven.
+[ 6782.0] They gave us a house.
+[ 6784.0] You are official investigators, of course.
+[ 6787.0] So, this is...
+[ 6789.0] No role leaders.
+[ 6790.0] They gave us a house?
+[ 6793.0] Yeah.
+[ 6794.0] Yeah, let's make this a persuasion, you know, like, thing.
+[ 6797.0] What's that?
+[ 6798.0] What's that?
+[ 6799.0] That's the wrong one.
+[ 6801.0] We did that.
+[ 6803.0] We did that because you are official investigators.
+[ 6807.0] You're also asking for very privileged knowledge.
+[ 6811.0] Yeah.
+[ 6812.0] Yeah.
+[ 6813.0] Either way, what's obvious from this is the answer is yes.
+[ 6816.0] It's how much information you get about it.
+[ 6819.0] Okay.
+[ 6820.0] Are we both rolling, or...?
+[ 6822.0] I can help for that because I'm Mr. Persuady.
+[ 6826.0] That's what I thought.
+[ 6827.0] Now we've got our skills.
+[ 6829.0] Okay, let's get to this as a group.
+[ 6832.0] No!
+[ 6833.0] No!
+[ 6835.0] You have advantage.
+[ 6837.0] Willing does not.
+[ 6842.0] It's a persuasion to get the information about this.
+[ 6848.0] I got eleven.
+[ 6850.0] I got eighteen.
+[ 6851.0] Okay.
+[ 6852.0] Well done.
+[ 6854.0] Excuse me.
+[ 6855.0] Okay.
+[ 6856.0] Obviously, we don't publicise this, but yes, the lodestones beneath the city will log the nearest bracelet.
+[ 6864.0] On a routine basis.
+[ 6866.0] That is, of course, controlled from the panopticon.
+[ 6870.0] Well, that's never a good thing.
+[ 6873.0] Headquarters of House Menace.
+[ 6875.0] Oh, of course.
+[ 6878.0] We should have known that the long road lead to the date.
+[ 6883.0] Well...
+[ 6884.0] Well, if we have to go to House Menace, then we could probably go after that.
+[ 6888.0] Cart.
+[ 6889.0] Cart.
+[ 6891.0] Oh, there.
+[ 6893.0] House Menace.
+[ 6894.0] Lord, Lord, Lord.
+[ 6898.0] No.
+[ 6899.0] No, House Menace is Captain Hyman.
+[ 6901.0] Oh, that's right.
+[ 6902.0] Oh, that's right.
+[ 6903.0] Yeah, yeah, yeah.
+[ 6904.0] The one who wanted to go do Ditch Square.
+[ 6907.0] Um...
+[ 6908.0] Okay.
+[ 6909.0] Still me was asking about House representatives regularly leaving or anything.
+[ 6914.0] Yes.
+[ 6918.0] Yes.
+[ 6919.0] What were you find for that?
+[ 6923.0] I just really liked the way...
+[ 6925.0] This is not a question.
+[ 6926.0] Yeah.
+[ 6927.0] Um, so you're going to be digging through a bunch of records trying to put together any
+[ 6931.0] patterns that you can find.
+[ 6932.0] That's fine.
+[ 6933.0] Which is going to be some form of wisdom roll.
+[ 6936.0] That's okay.
+[ 6937.0] Um, investigation if you want to.
+[ 6939.0] Look.
+[ 6941.0] Wisdom I'll take.
+[ 6942.0] Okay.
+[ 6943.0] Okay.
+[ 6946.3] Okay.
+[ 6947.3] It's not a roll.
+[ 6948.3] A roll.
+[ 6949.3] I'll guidance myself at the same time.
+[ 6951.3] Fuck off.
+[ 6952.3] Fuck off.
+[ 6954.3] I did change it.
+[ 6955.3] I did change it.
+[ 6956.3] Oh, that one.
+[ 6957.3] That one.
+[ 6959.3] Eight.
+[ 6960.3] Eight.
+[ 6961.3] Eighteen.
+[ 6962.3] Eighteen.
+[ 6963.3] I think that's a great roll.
+[ 6964.3] We need to kind of circle this idea a little bit.
+[ 6966.3] If you guys want to enter a situation very early, can I use this skill to do whatever?
+[ 6973.3] Whatever.
+[ 6974.3] If you can present me a mechanism by which you could use that skill, I will let you roll
+[ 6978.3] it.
+[ 6979.3] So.
+[ 6980.3] Okay.
+[ 6981.3] I'm going to intimidate everything.
+[ 6982.3] Because I find that we're leaning on investigation really heavily and that kind of gets boring.
+[ 6987.3] Yeah, please.
+[ 6988.3] I don't think many of us actually have a high investigation.
+[ 6991.3] It's amazing.
+[ 6992.3] It's amazing.
+[ 6993.3] I mean, it's amazing.
+[ 6995.3] Can I give you a good one?
+[ 6998.3] Okay.
+[ 6999.3] If it's the full thing and I can climb around it.
+[ 7002.3] Is there lots of clouds?
+[ 7004.3] I can move my ass and stuff.
+[ 7006.3] I like that.
+[ 7007.3] I'm de-cis-a-thou.
+[ 7008.3] I mean, did you roll an 18?
+[ 7009.3] So, where's the exit to like options 11?
+[ 7012.3] Yeah, but.
+[ 7013.3] Yeah.
+[ 7014.3] Yeah.
+[ 7015.3] Where's like...
+[ 7016.3] Where's the counter?
+[ 7017.3] To not touch it?
+[ 7018.3] Laser grips?
+[ 7019.3] It's acrobatics.
+[ 7020.3] What 21?
+[ 7021.3] Okay.
+[ 7022.3] Thank you.
+[ 7023.3] It's over.
+[ 7024.3] It's over.
+[ 7025.3] Who would one use at it?
+[ 7026.3] Who would one use at it?
+[ 7027.3] Okay.
+[ 7028.3] Okay.
+[ 7029.3] There is, there is functionally a dearth of house factors.
+[ 7036.3] factors in these records okay um yeah within 18 i will give you there are two ways in and out of
+[ 7045.9] central two official ways this is there is the main gate and there is the airship dock
+[ 7051.7] at the top of the city so your your wealthy your important and your like high level officials
+[ 7060.2] are primarily coming and going via airship the more glamorous way to travel
+[ 7065.3] rather than entering and leaving via the gate so the the house representatives the kind of
+[ 7071.8] hex encircle level that lot they're not in these records uh what you do find of course is captain
+[ 7082.2] hyman and briefly leaving and returning to uh come and rescue you guys from the planes
+[ 7088.2] absolutely pointlessly because everyone was already dead by the time we got there yeah okay
+[ 7092.6] i have two possible theories about the golden house one being the the the the dwarven lady lady
+[ 7113.0] emissary halloween is it is it col col col andrea
+[ 7117.8] uh col andrea is not dwarven she's human of house belters she was the one with the method
+[ 7129.0] who is the one at the party that was emissary hallon the pot company yes yeah that's how because
+[ 7139.9] she was dripping with like golden jewellery and also is like one of the big sort of like
+[ 7149.6] charismatic knows everybody fingers and more times the other one could possibly be
+[ 7158.5] at the food house because like golden greens
+[ 7162.9] oh jack you asked a question what was it did i did i yeah you had an idea oh all right well
+[ 7177.2] you're asking right though if it tracked like residencies information right and stuff and it had
+[ 7181.9] a residence listed but so big enough to go hang so i didn't know if that is relevant to is that
+[ 7190.0] their residence so that is his official address in the city okay cool yeah that was it that was it
+[ 7196.7] cool i just want to make sure i'm not and that's the guy with the crest yes you should maybe go
+[ 7204.4] check out gracie thanks and that's on ambassador i think i think i think it's the one
+[ 7210.6] that means if you go back and check up we've got an email
+[ 7220.7] wait do we live on ambassador street as well yeah that's where red lost houses
+[ 7228.2] then it'll be easier to sneak into it well it's night time let's go
+[ 7233.0] uh
+[ 7243.6] we have seen the this crest anywhere in fowlhurst college because there was a lot of like documents
+[ 7252.0] and books and things we worked here quite a few rooms we went to a study the lecture room and
+[ 7259.5] the research room you roll history for me
+[ 7266.4] it's all good history
+[ 7273.0] just got a roll history
+[ 7275.1] why do you argue for it if i did 50 bushels
+[ 7278.4] well i know i feel like everyone's gonna be like but i don't want to roll this
+[ 7286.2] hey
+[ 7289.9] if you want to do some kind of like context-dependent memory thing
+[ 7292.6] where somebody fakes being a skeleton hey let's talk the sigil again
+[ 7300.9] nice okay okay do not recall having seen this crest when we went on this college
+[ 7308.1] it's like
+[ 7320.4] you probably do look all seeing it on a coach parked a few doors down from you guys
+[ 7326.0] i'm so glad we pulled that man green
+[ 7341.4] okay so you leave the litho um records office as we found it
+[ 7349.0] it's amazing never having asked the name of the npc i made up for you but that's fine
+[ 7356.1] that's okay she'll come back she says we'll walk away
+[ 7370.7] okay her name is katie neferu
+[ 7373.7] uh-huh can she come with us she's cool no she's at work
+[ 7383.4] she's trying to organize a joiner to come and fix the door
+[ 7388.8] summoning somebody from house grim bog to like follow the wood back together
+[ 7396.5] uh so you head back home
+[ 7400.4] master district do you is your plan to revisit radwasp house
+[ 7407.7] and then go to great sheath or is your plan to go directly don't pass go don't collect 200
+[ 7416.9] i made amazing hands if we stop at radwasp
+[ 7438.6] so it's getting to kind of like 10 11 pm still be awake
+[ 7446.1] oh i was thinking oh i was thinking more like if we wanted to like scout the place
+[ 7469.2] is it march up to the door and go knock knock hello don't any crimes lately
+[ 7473.2] weren't well for us so much are you gonna stake it out are you gonna try and get your cat
+[ 7478.0] information network to get in there
+[ 7485.5] i did just i did just convince giselle i'm no that's something that's the name of my game
+[ 7491.4] um jillette jillette jillette just be
+[ 7507.5] our side right help us out he's like inconspicuous
+[ 7520.8] We only need to find the group.
+[ 7522.8] It's just like nothing.
+[ 7524.8] It's delicious.
+[ 7526.8] Then seven more.
+[ 7528.8] You're looking around the house.
+[ 7530.8] One guy, just maybe getting a bit of info before coming back to us and then we can plan from there.
+[ 7536.8] Like we can find out where the doors and windows are and stuff like that.
+[ 7540.8] Or like getting a bit of a night and see if it's...
+[ 7542.8] And we sent Gillette to Radwoffs.
+[ 7544.8] So we go to Radwoffs.
+[ 7546.8] Yes, exactly. Let him know.
+[ 7548.8] What if the mole's onto us knowing we're going to go there and...
+[ 7552.8] How did that matter?
+[ 7554.8] No, we haven't sent anyone that we've gone to Radwoffs.
+[ 7558.8] The date person could be in on it.
+[ 7560.8] We haven't said that we're going there.
+[ 7562.8] That was fair.
+[ 7564.8] What's her name? I think she's five.
+[ 7566.8] This is all stuff that presumably we would talk about on the way back.
+[ 7568.8] My only thought is...
+[ 7572.8] Obviously we could get Gillette to do it.
+[ 7576.8] But also like, you'd be really stealthy.
+[ 7580.8] Yes, but the difference is that Gillette looks like the probably street scumbag.
+[ 7586.8] I mean, we could do more with people.
+[ 7588.8] There's nothing against that.
+[ 7590.8] Besides, we're meant to be on the street. This is where we live.
+[ 7594.8] So walking around the street is not going to be weird.
+[ 7598.8] People have seen us come and go.
+[ 7600.8] Did they move in there after we moved in?
+[ 7602.8] No, they moved in there about two months before you did.
+[ 7606.8] Because they were the ones for the carriage.
+[ 7610.8] Let's just find a way out.
+[ 7612.8] Have some fun.
+[ 7614.8] Yeah, exactly.
+[ 7616.8] We've moved in and they've not moved away.
+[ 7618.8] As far as you know, right?
+[ 7620.8] As far as you know. Get to know the case and just force away.
+[ 7622.8] Then we can...
+[ 7624.8] I mean, let either stealthiest members and Gillette scout the place out.
+[ 7631.8] You've got multiple angles.
+[ 7633.8] And then you've also got a safety net that if Gillette tells you something different than what we've seen.
+[ 7639.8] If we don't tell Gillette that we're sending more people, then we know that Gillette is trustworthy.
+[ 7645.8] If Gillette comes back with the same information.
+[ 7647.8] Hopefully.
+[ 7651.1] Yeah.
+[ 7653.1] Okay, let's do that then.
+[ 7655.1] And then I think scouting is the thing we need to do.
+[ 7657.1] In some way or another.
+[ 7659.1] So if that is sending Gillette, but also sending a few of us to be a bit more sneaky.
+[ 7667.1] And then utilizing that as an opportunity to test the trustworthiness of Gillette for future opportunities.
+[ 7673.1] Because we could really use him.
+[ 7677.1] That could be good.
+[ 7679.1] That could work out.
+[ 7681.1] And then when we know the best way to get in there and talk to this person.
+[ 7683.1] That's when we can send in the cavalry.
+[ 7687.1] Ready to ride.
+[ 7689.1] Ready to open some doors.
+[ 7691.1] Hello.
+[ 7693.1] Hello.
+[ 7695.1] Does D.W. consider a window a door?
+[ 7697.1] Can I have one?
+[ 7699.1] Wow.
+[ 7701.1] Interesting philosophical question.
+[ 7703.1] D.W. hasn't defined it.
+[ 7705.1] I've never had it.
+[ 7707.1] I've never had it.
+[ 7709.1] It's just like you don't win a dog.
+[ 7713.1] Is that?
+[ 7715.1] So who's outside?
+[ 7717.1] Outside myself.
+[ 7719.1] Who's got stealth?
+[ 7721.1] Is it you two?
+[ 7723.1] Okay, sweet.
+[ 7725.1] Okay, sweet.
+[ 7727.1] Go.
+[ 7729.1] Yeah, you're not.
+[ 7731.1] Go on.
+[ 7735.1] Might be Tony better make a lie.
+[ 7741.1] Do your plannies stake out or break?
+[ 7743.1] Stake out or break?
+[ 7745.1] Stake out.
+[ 7747.1] No.
+[ 7749.1] No.
+[ 7751.1] We're scouting.
+[ 7753.1] So we're sending Gillette first.
+[ 7755.1] And then we're going to not be warned that we are also planning to go secretly.
+[ 7761.1] Okay.
+[ 7763.1] So us would like to use animal handling.
+[ 7767.1] And speak with animals to get the chicken to sort of fly around.
+[ 7771.1] As much as a chicken.
+[ 7773.1] Send up our drone.
+[ 7775.1] And then discuss what the chicken sees.
+[ 7779.1] I mean, I could throw the chicken.
+[ 7781.1] And then.
+[ 7783.1] And then.
+[ 7785.1] Yeah.
+[ 7787.1] In the window.
+[ 7789.1] I think I need to let her explain.
+[ 7793.1] Yeah.
+[ 7795.1] Yes, she has to speak about it.
+[ 7797.1] I mean, we've been here five, right?
+[ 7799.1] No.
+[ 7801.1] Definitely this weird shit all the time.
+[ 7805.1] Let's climb around the building.
+[ 7807.1] Okay.
+[ 7809.1] So you make your way back to Radbos house.
+[ 7815.1] Cedric meets you at the door.
+[ 7817.1] Ah, welcome home.
+[ 7819.1] There's a message from house Ostro, right?
+[ 7823.1] Fuck off recently.
+[ 7825.1] They seemed somewhat insistent about seeing you.
+[ 7828.1] Put it in the bin.
+[ 7830.1] Very good.
+[ 7832.1] I love him.
+[ 7834.1] Can I?
+[ 7838.3] Can I?
+[ 7840.3] Before you bin it, can I just have a look at it?
+[ 7842.3] How was written?
+[ 7844.3] No.
+[ 7846.3] Bin only.
+[ 7848.3] Dungeon is actually a same.
+[ 7850.3] You get teleports straight.
+[ 7852.3] Find out what happens.
+[ 7854.3] I'd like to read the handwriting.
+[ 7856.3] Okay.
+[ 7858.3] This is probably going to be like a contested role.
+[ 7860.3] But you're dead.
+[ 7862.3] Wait.
+[ 7864.3] Cedric.
+[ 7866.3] Cedric's just been given an instruction, so...
+[ 7870.3] Actually...
+[ 7873.6] Cedric, having been given contradictory instructions, we'll just kind of stop and turn to keep both of you in his field of vision.
+[ 7881.6] Sorry, what should I do?
+[ 7883.6] Bin it.
+[ 7885.6] Can I read it first?
+[ 7887.6] Bin it.
+[ 7889.6] I'm just going to leave this here.
+[ 7893.6] Put it on a little side table.
+[ 7895.6] And now this can be a contested role between the two of you.
+[ 7899.6] I'm kidding.
+[ 7901.6] You can read it.
+[ 7903.6] Yeah.
+[ 7905.6] Take note of the handwriting.
+[ 7907.6] For reasons.
+[ 7909.6] So the handwriting matches the previous message you received.
+[ 7911.6] Okay.
+[ 7913.6] It is very, very similar, except it has an addendum at the end that says that further delays will not be tolerated.
+[ 7921.6] Hey.
+[ 7923.6] Don't call back.
+[ 7925.6] Give it some water.
+[ 7927.6] Don't call back.
+[ 7929.6] This is technically the same delay, so we're still good.
+[ 7931.6] It's like in the game.
+[ 7933.6] I like that look nice.
+[ 7935.6] Yeah.
+[ 7937.6] Yeah.
+[ 7939.6] What field that is coming from you?
+[ 7941.6] We've been like, we should go.
+[ 7943.6] We've been like, we should go.
+[ 7945.6] Yeah.
+[ 7947.6] Have to go.
+[ 7949.6] I like the TV license.
+[ 7951.6] It's like, it's like.
+[ 7953.6] It's nice to just roll over the scroll or is it just like a scrap piece of paper?
+[ 7955.6] It's in a scroll.
+[ 7957.6] Is it wax seal?
+[ 7959.6] Do they have to break the wax seal?
+[ 7961.6] And is it signed by like, House Ostro?
+[ 7963.6] It is signed out.
+[ 7965.6] I'll find more.
+[ 7967.6] Who's got four drink head?
+[ 7969.6] Just two lemon.
+[ 7971.6] Go feel the same.
+[ 7973.6] Someone.
+[ 7975.6] Look at him.
+[ 7977.6] Look at him.
+[ 7979.6] Great.
+[ 7981.6] Great.
+[ 7983.6] It is.
+[ 7985.6] I will allow you to do a history roll on the word amenuensis if you want.
+[ 7989.6] Sure.
+[ 7991.6] No way, I don't have one.
+[ 7993.6] Seven.
+[ 7995.6] Seven.
+[ 7997.6] Eighteen.
+[ 7999.6] Yes.
+[ 8001.6] Amenuensis is a somewhat anachronistic and archaic word for a scribe.
+[ 8011.6] Is Cedric still there?
+[ 8013.6] He barely.
+[ 8015.6] Cedric is absolutely here to attend to your every whim.
+[ 8019.6] Can I...
+[ 8021.6] Just Azica.
+[ 8023.6] This is just one.
+[ 8025.6] A sign thing.
+[ 8027.6] Time thing when they want to be sneaky sneaky.
+[ 8031.6] Can I get Cedric to get me like, an ink and a quill.
+[ 8037.6] And I want to see if I can use Mage Hand to forge this writing style and signature of Ostro.
+[ 8047.6] I'm not saying no, but I am going to ask why Mage Hand rather than your actual hands.
+[ 8051.6] For this very easy to do with your actual hands task.
+[ 8055.6] I feel that
+[ 8059.6] Wilrond's hand probably aren't as like
+[ 8063.6] light and elegant is what we need to be.
+[ 8067.6] Whereas I feel my Mage Hand is weightless
+[ 8071.6] and I can like...
+[ 8074.6] It's like I've got a gyroscope.
+[ 8079.6] It's like a stabilizer in the Mage Hand.
+[ 8083.6] My background, I can just do it.
+[ 8085.6] The Mage Hand is the ultimate human shape.
+[ 8089.6] What's your skill?
+[ 8091.6] Skill is...
+[ 8093.6] I can forge documents including official papers and personal letters
+[ 8097.6] as long as I've seen an example of the kind of document or handwriting I'm trying to copy.
+[ 8101.6] Into Scions?
+[ 8103.6] Into Scions?
+[ 8105.6] Into Scions?
+[ 8107.6] Into Scions?
+[ 8109.6] Into Scions?
+[ 8111.6] Into Scions?
+[ 8113.6] I think it's gonna do it.
+[ 8115.6] As long as you're not under time pressure, I'm gonna take the time to do it.
+[ 8119.6] I'm not gonna do it.
+[ 8121.6] That's a good nail.
+[ 8123.6] That's my skill.
+[ 8125.6] Obviously it's a trap.
+[ 8127.6] That's gonna be something I'm gonna be doing.
+[ 8129.6] I'll scale it out, and it'll just be something interesting.
+[ 8131.8] Okay, cool.
+[ 8132.6] Okay, I'll keep that in reserve.
+[ 8134.2] Don't let me forget that we're doing that,
+[ 8135.8] but yes, we can do that.
+[ 8138.8] Is Gillette here?
+[ 8141.5] Yes, Surgit Groot.
+[ 8146.6] What honorific would still we use?
+[ 8148.7] Oh, that's a good question.
+[ 8149.9] I don't think honorifics exist.
+[ 8151.7] Oh, shit.
+[ 8152.5] Oh, shit.
+[ 8153.3] Oh, shit.
+[ 8154.2] Oh, shit.
+[ 8155.0] Oh, shit.
+[ 8155.8] Oh, shit.
+[ 8156.7] Oh, shit.
+[ 8157.5] Oh, shit.
+[ 8158.4] Oh, shit.
+[ 8159.2] Oh, shit.
+[ 8160.0] Oh, shit.
+[ 8161.9] If Surgit Groot exists in...
+[ 8164.3] Surgit's home.
+[ 8169.2] You there.
+[ 8170.2] You there.
+[ 8171.2] You there.
+[ 8172.2] You there.
+[ 8173.2] You there.
+[ 8177.2] Iron roll.
+[ 8178.2] Iron roll.
+[ 8179.2] Iron roll.
+[ 8180.2] I roll.
+[ 8182.9] Well, fuck yeah.
+[ 8183.9] Well, fuck yeah.
+[ 8184.9] Red is no help.
+[ 8185.9] It's just people suggesting Captain.
+[ 8186.9] Munch.
+[ 8187.9] Munch.
+[ 8188.9] Munch.
+[ 8189.9] Like a monkish honorific.
+[ 8190.9] Brother, brother.
+[ 8191.9] Achilles.
+[ 8192.9] Achilles.
+[ 8193.9] Akalay? Akalay or something?
+[ 8197.9] Master. Master.
+[ 8199.9] Okay. Okay.
+[ 8201.9] We came up with one which initially is a gender neutral
+[ 8205.9] uh, like, wench. Oh yeah!
+[ 8207.9] So, what I would
+[ 8209.9] like for us to do as a group is construct
+[ 8211.9] a gender neutral honorific that Cendric
+[ 8213.9] would use.
+[ 8215.9] Ooooh! Cendric!
+[ 8217.9] Oh wow! Because Cendric
+[ 8219.9] is a consummate professional.
+[ 8221.9] I want to crush me on
+[ 8223.9] police. He's northern?
+[ 8225.9] Murr. Murr?
+[ 8227.9] Murr's good.
+[ 8231.4] Murr lady.
+[ 8233.4] Miser?
+[ 8237.4] Murrlord.
+[ 8239.4] Reverend.
+[ 8241.4] Reverend.
+[ 8243.4] Heh. Heh.
+[ 8245.4] It's probably going to be like, dicks.
+[ 8248.4] You could just be like, you could be simply like...
+[ 8250.4] This?
+[ 8252.4] How...?
+[ 8253.4] Okay, I like Reverant. How about Reverat?
+[ 8256.4] As in, one who is revered?
+[ 8258.4] I'll take it.
+[ 8259.4] Yeah.
+[ 8260.4] Yeah.
+[ 8261.4] Okay, so...
+[ 8262.4] I want Wreckle.
+[ 8263.4] Wreckle?
+[ 8264.4] Cedric has defaulted to Reverat when referring to all of you, so you would be...
+[ 8267.4] Reverat Deathwalker, Reverat Pin.
+[ 8269.4] Reverat...
+[ 8270.4] I'll just take Reverat, guys.
+[ 8273.4] Oh.
+[ 8274.4] Certainly.
+[ 8275.4] We know each other getting a Cedric.
+[ 8277.4] Hey, what'd they be doing?
+[ 8279.4] Hey, what'd they be doing in there?
+[ 8283.4] A gentleman arrived.
+[ 8287.4] Apparently you had to direct him to come here. He was waiting for you in Parliament.
+[ 8291.4] Oh.
+[ 8293.4] Does anyone want me?
+[ 8294.4] Not me?
+[ 8295.4] No?
+[ 8297.4] Wow.
+[ 8299.4] She says that as she's walking.
+[ 8301.4] So, you kind of have to follow along with them.
+[ 8304.4] Follow along with them? They don't.
+[ 8307.4] I ain't.
+[ 8308.4] Clearly not well.
+[ 8310.4] There's no...
+[ 8311.4] There's no...
+[ 8312.4] Just my home.
+[ 8313.4] Just my home, Wendy.
+[ 8320.8] Does anyone care with Sorey? Or is this a Sorey?
+[ 8322.8] Someone wanted to come with Sorey.
+[ 8324.8] I would've.
+[ 8325.8] I would've.
+[ 8326.8] Come with!
+[ 8327.8] Come with!
+[ 8328.8] You'd be talking about me.
+[ 8332.8] They didn't want company.
+[ 8333.8] They didn't want company.
+[ 8334.8] They didn't want company.
+[ 8335.8] They didn't want company.
+[ 8336.8] The waiter.
+[ 8337.8] Father Rose wants to get some coffee.
+[ 8339.8] I'll come with him.
+[ 8340.8] I'll come with him.
+[ 8341.8] Good.
+[ 8342.8] You'll only get him.
+[ 8343.8] You'll only get him some tea.
+[ 8344.8] But it's because I would.
+[ 8346.8] Because I have.
+[ 8350.8] As you collectively arrive in the find Gillette, I'm clearly uncomfortable in these quite fine
+[ 8359.8] surroundings.
+[ 8360.8] You see his eyes shifting over the various knickknacks and decorations as if appraising their value
+[ 8367.8] and trying really hard not to deal with them.
+[ 8373.8] He drops the bowl of what he clearly believed to be some kind of fancy crisps that he was
+[ 8378.8] working his way through.
+[ 8380.8] It is quite totally pottery, yes.
+[ 8389.8] I'm going to get this thought out of where I do stuff.
+[ 8392.8] So FYI, imagine it's actually silvery knows that you don't like being able to go do stuff.
+[ 8398.8] So when they said something in which you would have to bat it instead, as if they purposely
+[ 8402.8] said that because they knew you would be like, I want to come up because of you instead
+[ 8407.8] of...
+[ 8408.8] Yeah!
+[ 8409.8] Yeah!
+[ 8410.8] Yeah!
+[ 8411.8] Yeah!
+[ 8412.8] Yeah!
+[ 8413.8] Yeah!
+[ 8414.8] Yeah!
+[ 8415.8] Yeah!
+[ 8416.8] Yeah!
+[ 8417.8] Yeah!
+[ 8418.8] Yeah!
+[ 8419.8] Yeah!
+[ 8420.8] It's like knowing you're so awesome, it doesn't let you pass out, so you say...
+[ 8423.8] I want to do a good food and they're like...
+[ 8425.8] Can I come in?
+[ 8426.8] Can I come in?
+[ 8427.8] Rather than being like...
+[ 8428.8] Do you want to come with me a food and they're like...
+[ 8429.8] No, we'll do it.
+[ 8430.8] No you'll do it.
+[ 8431.8] We'll do it.
+[ 8432.8] We're saying...
+[ 8433.8] We're saying...
+[ 8434.8] They claw...
+[ 8435.8] They claw...
+[ 8436.8] Darn!
+[ 8441.1] Darn!
+[ 8442.1] Fucking...
+[ 8444.1] Hahaha!
+[ 8448.1] Definitely, mentally...
+[ 8449.1] But in a way, we are.
+[ 8451.1] But in a way, we are.
+[ 8453.1] LAUGHTER
+[ 8455.1] I'm just doing you to buy the dog something to drink.
+[ 8457.1] Oh, I did.
+[ 8459.1] I did, dog.
+[ 8461.1] Don't do that.
+[ 8463.1] So, Gillette, it's Jotz's Pimery.
+[ 8465.1] Yes.
+[ 8467.1] Good boy.
+[ 8469.1] He's like, oh, shit.
+[ 8471.1] He like kneels down to try and gather them back up into the bowl.
+[ 8473.1] Cedric just sort of pours with the dustpan and brush.
+[ 8475.1] Don't worry, I'll take it.
+[ 8477.1] Yeah.
+[ 8479.1] And Gillette sort of like stands up.
+[ 8481.1] He stands up.
+[ 8483.1] Hi.
+[ 8485.1] Cain, as instructed.
+[ 8487.1] You guys got a really nice place here, huh?
+[ 8489.1] Yeah.
+[ 8491.1] Yeah.
+[ 8493.1] Yeah.
+[ 8495.1] We don't own it.
+[ 8497.1] We can get room for Jotz, right?
+[ 8499.1] Cedric?
+[ 8501.1] Absolutely.
+[ 8503.1] I've already made up one of the guest bedrooms.
+[ 8505.1] There you go, Cedric.
+[ 8507.1] So, we've got your place to stay as I promised.
+[ 8509.1] Fantastic. Can Raymond come as well?
+[ 8511.1] Yeah.
+[ 8513.1] How does he feel about, you know, walking your path a little bit?
+[ 8517.1] I mean...
+[ 8519.1] It's a conversation.
+[ 8521.1] We can work with him. It'll be okay.
+[ 8523.1] How are you doing?
+[ 8525.1] Well...
+[ 8527.1] Well, um...
+[ 8529.1] Slightly worried about the black cats,
+[ 8531.1] because I did just kind of walk out on them,
+[ 8533.1] and they're, you know, a little bit scary.
+[ 8535.1] But, um...
+[ 8537.1] Are you scarier than me?
+[ 8539.1] No.
+[ 8541.1] Good man.
+[ 8545.1] I think we've all actually put a shoulder on.
+[ 8547.1] Am I going to like slap, like, you know, shoulder?
+[ 8549.1] Shoulder.
+[ 8551.1] Uh, string?
+[ 8553.1] Yeah.
+[ 8555.1] Oh, no.
+[ 8557.1] Baller.
+[ 8559.1] He's here, mate.
+[ 8561.1] Yeah, no, yeah, no.
+[ 8563.1] I wouldn't, I wouldn't.
+[ 8565.1] That, uh...
+[ 8567.1] That's kind of...
+[ 8569.1] Uh...
+[ 8571.1] Any way, so...
+[ 8573.1] You'll take care of that.
+[ 8575.1] Yeah.
+[ 8577.1] Sure. That's okay.
+[ 8579.1] She loves me.
+[ 8581.1] That's very good for you, thank you.
+[ 8583.1] Since the bomb.
+[ 8585.1] You're going to have to go get that fuck at the car.
+[ 8587.1] Shit.
+[ 8589.1] So, we obviously, you know, I know it's quite late, and I guess you're through, yeah, we're going to settle into your space.
+[ 8596.1] But we do have a bit of an urgent situation to attend, and I wanted to know whether you would be interested in helping support something minor with us.
+[ 8607.1] Of course, yeah.
+[ 8609.1] Anything to walk the path, right?
+[ 8611.1] Yeah, absolutely.
+[ 8613.1] So, there is something we would really like you to help us just scout out an area.
+[ 8617.1] We have a bit of suspicions about something, but we don't really know what we're looking at.
+[ 8621.1] And since you seem a lot more inconspicuous than myself and Deathwalker to that, you might be a bit more helpful in terms of not being really noticed.
+[ 8632.1] We just kind of want you to kind of suss out what the building looks like and where the entrance and exit points are.
+[ 8639.1] And if it looks like there's anyone in there.
+[ 8642.1] But I'm not going to put you in any sort of danger, okay?
+[ 8645.1] This seems kind of dishonest. Is this okay?
+[ 8655.1] Yeah, so the thing is that we're obviously doing part of our job stuff to try and stop the people who are doing bad things.
+[ 8663.1] And one of those things is that we think that maybe this is one of the people, but we have to know whether it's safe for us to go to.
+[ 8671.1] So, we don't want to put anyone in any potential danger. So, we just want to know what the outside area looks like.
+[ 8678.1] Just look at that stuff, man.
+[ 8680.1] So, like, casing the joint for justice?
+[ 8684.1] Exactly that.
+[ 8686.1] We're going in so research, it's like, to walk apart of like, some kind of trend.
+[ 8693.1] Yeah, I'm going to need some kind of role to square the circle of you really getting on this guy's head.
+[ 8699.1] And ask him to do crimes.
+[ 8709.1] I think from his point of view, it's close enough to the burgundy lifestyle that you've been trying to steer him away from.
+[ 8717.1] Look, it's using skills that you've developed throughout your lifetime for the perfect good.
+[ 8724.1] And sometimes, you know, we all come to this life through different paths and you get to use the stuff that you've learned over the time to figure out how to help people.
+[ 8734.1] So, what's the line between you can't sell the enlightenment thing as a way to do the enlightenment thing, but you can do casing places and spying?
+[ 8753.1] So, I think if you feel, obviously, if you feel uncomfortable, then we're not going to make you do anything you're uncomfortable with.
+[ 8762.1] This is just part of what we are doing to help maintain the city and support preventing people get hurt.
+[ 8769.1] However, what we can do afterwards is have a bit of time to meditate and talk about it, if that would make you feel better.
+[ 8775.1] And we can sit with ourselves a little.
+[ 8778.1] The difference is the thing you're trying to sell, that's a religion. You can't sell religions, but you can get paid to look at people's houses and say how you could escape or get out of that house.
+[ 8792.1] It's a different thing.
+[ 8795.1] It's like you've got back to my issues, but it's like, religion, I've got a person with like, who do I hate?
+[ 8802.1] I definitely want some kind of role, could be persuasion, could be religion.
+[ 8811.1] So, it's like, someone looks like a bad word, or bad word, but then my religion is?
+[ 8817.1] Yeah, I mean, you're trying to make a religious argument, so yes.
+[ 8820.1] Okay.
+[ 8824.1] Are you there?
+[ 8829.1] Who is all there?
+[ 8832.1] To me, I did not.
+[ 8834.1] Do we have inspiration at all?
+[ 8836.1] Back to our game.
+[ 8839.1] Okay, yeah, I probably should have given you inspiration for your original conversation with Gillette.
+[ 8844.1] So, watch this not turn out well at all.
+[ 8849.1] Oh, sorry.
+[ 8851.1] Better than what you say?
+[ 8853.1] Say, I swear you'd have close to negotiation as a kind of acrobatics.
+[ 8857.1] We will literally bend over brackets.
+[ 8860.1] Before.
+[ 8861.1] Bit.
+[ 8862.1] Bit.
+[ 8863.1] Nice.
+[ 8864.1] That's what you would say.
+[ 8868.1] That was a new one for you.
+[ 8870.1] That was a new one for the one again.
+[ 8872.1] I mean, it tastes very bad.
+[ 8878.1] It's 19.
+[ 8880.1] Okay.
+[ 8882.1] So, in 19, he's not, like, totally sold?
+[ 8886.1] But he's like, okay, there's a thing here I'm not understanding, and I'm going to trust these people.
+[ 8892.1] I did promise that we would have a conversation afterwards.
+[ 8895.1] You did.
+[ 8896.1] So that we can talk more.
+[ 8897.1] Look, I don't buy into the yoga shit either.
+[ 8900.1] Bit.
+[ 8901.1] Bit.
+[ 8902.1] I get paid.
+[ 8903.1] That's what you want.
+[ 8904.1] Listen, he does care about it.
+[ 8905.1] He does.
+[ 8906.1] He does.
+[ 8907.1] How can you remember that?
+[ 8908.1] How can you remember that?
+[ 8909.1] This is important.
+[ 8910.1] Did you say that?
+[ 8911.1] He's going to.
+[ 8912.1] He tried to.
+[ 8913.1] I love you.
+[ 8914.1] I love you.
+[ 8915.1] I love you.
+[ 8916.1] I love you.
+[ 8917.1] I love you.
+[ 8918.1] I love you.
+[ 8919.1] I love you.
+[ 8920.1] I love you.
+[ 8921.1] I love you.
+[ 8922.1] I love you.
+[ 8923.1] I felt like a little bit more of a glow there.
+[ 8926.1] A little bit inside.
+[ 8927.1] As if like this.
+[ 8928.1] The throw.
+[ 8929.1] The throw.
+[ 8930.1] The throw.
+[ 8931.1] You're like, this is fine.
+[ 8932.1] Inside.
+[ 8933.1] Inside.
+[ 8934.1] Inside.
+[ 8936.1] Like, why not?
+[ 8937.1] What?
+[ 8938.1] What?
+[ 8939.1] What are you saying?
+[ 8940.1] Don't.
+[ 8941.1] Don't close your door.
+[ 8942.1] Holy crap.
+[ 8943.1] four Laughing.
+[ 8944.1] Ha ha ha.
+[ 8945.1] St
+[ 8950.6] He will probably look too sorry to be like, is this coffee okay and I'm gonna do what we do.
+[ 8977.0] I actually thought that would be so fun.
+[ 8984.0] That would be so fun.
+[ 8987.0] You're gonna be a hot.
+[ 8988.0] No coffee.
+[ 8989.0] No coffee.
+[ 8990.0] I can drink coffee.
+[ 8991.0] Do you like to ask me Silvery?
+[ 8992.0] Coffee's all good.
+[ 8993.0] Coffee's all good.
+[ 8994.0] I'm nothing.
+[ 8995.0] I gracefully not.
+[ 8997.0] Sustenance is crucial.
+[ 8999.0] Swap hats.
+[ 9000.0] Swap hats.
+[ 9001.0] A little bit of caffeine.
+[ 9002.0] A little bit of caffeine never hurt anyone.
+[ 9005.0] You will take some coffee.
+[ 9006.0] As I think I might because I am the coffee.
+[ 9009.0] Do you want coffee?
+[ 9010.0] Do anyone want coffee?
+[ 9011.0] Yes please.
+[ 9012.0] Yes please.
+[ 9013.0] No thank you.
+[ 9014.0] Have a good day.
+[ 9015.0] Have a good day.
+[ 9016.0] I think we're about to go to a little whiskey.
+[ 9017.0] Yeah yeah yeah.
+[ 9018.0] Yeah yeah yeah.
+[ 9019.0] Two old.
+[ 9020.0] Two old.
+[ 9021.0] I can't explain.
+[ 9022.0] We have a little cake.
+[ 9023.0] We can like.
+[ 9024.0] Chill around.
+[ 9025.0] We can like chill around the hard.
+[ 9026.0] Yeah yeah yeah.
+[ 9027.0] Like hell whiskey.
+[ 9028.0] Yeah.
+[ 9029.0] We can chat.
+[ 9030.0] We can chat.
+[ 9031.0] We can chat.
+[ 9032.0] We're getting better.
+[ 9033.0] Better.
+[ 9034.0] I'm going to suggest it, because it's summer, it's what I usually really like to do.
+[ 9039.5] I'm going to summer every time I'm in D&D.
+[ 9042.0] I have it stacked with ice packs so that I always have a really nice cold case.
+[ 9049.0] And this went in this warm.
+[ 9052.0] And now it's nice and cold.
+[ 9053.5] I'll bet the examples.
+[ 9055.0] I don't know if I know what ice packs make.
+[ 9057.0] Like both.
+[ 9058.0] But we think it's going to be like a loop cold.
+[ 9061.0] You know?
+[ 9062.0] Yeah.
+[ 9063.0] My favorite.
+[ 9064.0] My favorite.
+[ 9065.0] Why is the literally warm up cold?
+[ 9067.0] No?
+[ 9068.0] Where's the middle ground for that?
+[ 9069.0] A slight chill?
+[ 9071.0] Huh?
+[ 9072.0] Read me down.
+[ 9073.0] Read me down.
+[ 9074.0] Well, when you said look cold, it was not like that.
+[ 9076.0] Those two bits.
+[ 9077.0] Those two bits.
+[ 9078.0] But you didn't.
+[ 9079.0] Maybe it doesn't.
+[ 9080.0] Yes.
+[ 9081.0] T.J.
+[ 9082.0] T.J.
+[ 9083.0] T.J.
+[ 9084.0] T.J.
+[ 9085.0] T.J.
+[ 9086.0] T.J.
+[ 9087.0] T.J.
+[ 9088.0] T.J.
+[ 9089.0] T.J.
+[ 9090.0] T.J.
+[ 9091.0] T.J.
+[ 9092.0] T.J.
+[ 9093.0] T.J.
+[ 9094.0] T.J.
+[ 9095.0] T.J.
+[ 9096.0] T.J.
+[ 9097.0] T.J.
+[ 9098.0] T.J.
+[ 9099.0] T.J.
+[ 9100.0] T.J.
+[ 9101.0] T.J.
+[ 9102.0] T.J.
+[ 9103.0] T.J.
+[ 9104.0] T.J.
+[ 9105.0] T.J.
+[ 9106.0] T.J.
+[ 9107.0] T.J.
+[ 9108.0] T.J.
+[ 9109.0] T.J.
+[ 9110.0] T.J.
+[ 9111.0] T.J.
+[ 9112.0] T.J.
+[ 9113.0] T.J.
+[ 9114.0] T.J.
+[ 9115.0] T.J.
+[ 9116.0] T.J.
+[ 9117.0] T.J.
+[ 9118.0] T.J.
+[ 9119.0] T.J.
+[ 9120.0] Jack and Johnny
+[ 9122.0] Jack and Johnny
+[ 9124.0] Jack and Johnny
+[ 9126.0] Please try
+[ 9128.0] Please try
+[ 9130.0] In my cloying, you were just English as Jack Cloying
+[ 9132.0] Ahhhh
+[ 9134.0] I'm not saying
+[ 9136.0] I'm not saying
+[ 9138.0] Durning
+[ 9140.0] Durning
+[ 9142.0] Cloying
+[ 9144.0] Cloying
+[ 9146.0] Cloying
+[ 9148.0] I didn't know why I'm a poor kid
+[ 9150.0] with champs
+[ 9152.0] Oh my god
+[ 9154.0] Oh my god
+[ 9156.0] Oh my god
+[ 9160.6] I didn't know you
+[ 9165.7] I didn't know you
+[ 9167.7] I didn't know you
+[ 9169.7] Cloying
+[ 9171.7] Cloying
+[ 9173.7] Cloying
+[ 9175.7] Cloying
+[ 9177.7] Cloying
+[ 9179.7] I never
+[ 9181.7] tried to
+[ 9183.7] My work is just tight right now
+[ 9185.7] I literally didn't like it
+[ 9187.7] I was like
+[ 9189.7] I was like
+[ 9191.7] The ball
+[ 9193.7] The ball
+[ 9195.7] Is that the one I want?
+[ 9197.7] Is that the one I want?
+[ 9199.7] That exists
+[ 9201.7] Sorry
+[ 9203.7] Do you want that?
+[ 9205.7] Do you want that?
+[ 9207.7] Do you want that?
+[ 9209.7] Okay
+[ 9211.7] Do you want that?
+[ 9213.7] Do you want the light?
+[ 9215.7] I don't use it
+[ 9217.7] Back, back
+[ 9219.7] I was
+[ 9221.7] I was
+[ 9223.7] I was
+[ 9225.7] Legolas
+[ 9227.7] InValley
+[ 9229.7] You guys
+[ 9231.7] No reason
+[ 9233.7] Barely
+[ 9235.7] I was
+[ 9237.7] it is
+[ 9239.7] it looks pretty on that monitor
+[ 9251.2] does
+[ 9253.2] pixel density is very nice
+[ 9255.2] for reading stuff while i always mine
+[ 9257.2] yeah
+[ 9259.2] yeah
+[ 9261.2] right
+[ 9267.2] the
+[ 9269.2] the new mod time is bad
+[ 9271.2] for pixel density
+[ 9273.2] but i found software tweaks to help with text reading
+[ 9275.2] it is OLED
+[ 9277.2] it is a bit like
+[ 9279.2] no, i know
+[ 9281.2] it's like i had a buddy
+[ 9283.2] and he chipped it up the air button
+[ 9285.2] and he chipped it up the air button
+[ 9287.2] for
+[ 9289.2] 40% of retail
+[ 9291.2] i was
+[ 9293.2] in the same way
+[ 9295.2] i had a really good attack
+[ 9297.2] i had a really good attack
+[ 9299.2] i had a really good attack
+[ 9301.2] i had a really good attack
+[ 9303.2] i was
+[ 9305.2] running on a log
+[ 9307.2] i was like
+[ 9309.2] it was a team
+[ 9311.2] it was a team
+[ 9313.2] it was a team
+[ 9315.2] it was a team
+[ 9317.2] it was a team
+[ 9319.2] yeah, some of them can be really loud
+[ 9321.2] it's good to know
+[ 9323.2] it's good to know
+[ 9325.2] good
+[ 9327.2] yeah
+[ 9329.2] what do you think about this
+[ 9331.2] the quill brothers
+[ 9333.2] existed solely so that you
+[ 9335.2] could have an easy combat slash social encounter
+[ 9337.2] in session 1
+[ 9339.2] they're two little one
+[ 9341.2] fun things would everyone share
+[ 9343.2] with the boy
+[ 9345.2] yeah
+[ 9347.2] they're all in the kitchen
+[ 9349.2] they're all in the kitchen
+[ 9351.2] you're here and you're literally just a boy
+[ 9353.2] oh great
+[ 9355.2] the women are in the kitchen
+[ 9357.2] you're so good
+[ 9359.2] you're so good
+[ 9361.2] we went to the parlour
+[ 9363.2] not the kitchen
+[ 9365.2] not the kitchen
+[ 9367.2] oh my god
+[ 9369.2] oh my god
+[ 9371.2] i'm so glad
+[ 9373.2] i'm so glad
+[ 9375.2] that's it
+[ 9377.2] i'm gonna go fucking rape
+[ 9379.2] i didn't say anything
+[ 9381.2] you just did
+[ 9383.2] i was turning women
+[ 9390.6] oh my god
+[ 9392.6] get in my line
+[ 9394.6] the parlour
+[ 9396.6] the parlour
+[ 9398.6] the parlour
+[ 9400.6] the parlour
+[ 9402.6] the parlour
+[ 9404.6] the parlour
+[ 9406.6] serious character
+[ 9408.6] non-binary
+[ 9410.6] that's why we have that whole moment
+[ 9412.6] about the parlour
+[ 9414.6] so i used my
+[ 9416.6] so like the enbies and the women
+[ 9418.6] you were all like oh the fucking kitchen
+[ 9420.6] the parlour
+[ 9422.6] the parlour
+[ 9424.6] where was i'm in here?
+[ 9426.6] with you?
+[ 9428.6] you're so sweet
+[ 9430.6] i don't know how you guys are
+[ 9432.6] i don't know how you guys are
+[ 9434.6] are you on the parlour?
+[ 9436.6] yeah
+[ 9438.6] this place is like
+[ 9440.6] they're gonna have a good parlour
+[ 9442.6] so i used a tree
+[ 9444.6] it's a great option
+[ 9446.6] and we all took a whiskey
+[ 9448.6] and we were sharing
+[ 9450.6] i missed all of it
+[ 9452.6] so
+[ 9454.6] sorry
+[ 9458.6] i love the energy
+[ 9460.6] i love the energy
+[ 9462.6] it's so good
+[ 9464.6] yeah
+[ 9466.6] yeah
+[ 9468.6] yeah
+[ 9470.6] yeah
+[ 9472.6] fuck
+[ 9474.6] it's like
+[ 9476.6] shit
+[ 9477.6] heh
+[ 9478.6] heh
+[ 9479.6] just go drink
+[ 9480.6] just go drink
+[ 9481.6] we're gonna break
+[ 9482.6] parlours and nockitchens
+[ 9483.6] complete
+[ 9484.6] it's like an old
+[ 9485.6] it's like an old
+[ 9486.6] you've never seen it
+[ 9487.6] yeah, like drama
+[ 9488.6] they're sitting
+[ 9489.6] it's a sitting room for a scene
+[ 9490.6] it's like
+[ 9494.6] it's like a creepy little
+[ 9495.6] touring game
+[ 9496.6] well
+[ 9497.6] I
+[ 9498.6] I
+[ 9499.6] I
+[ 9500.6] that's all
+[ 9501.6] it's like
+[ 9502.6] its own fiery femmes and women
+[ 9503.6] That's what I've did.
+[ 9504.6] That's what I've done.
+[ 9505.6] Shall we do that for like five minutes?
+[ 9508.1] Sorry!
+[ 9509.1] Sorry!
+[ 9510.1] It's not that bad!
+[ 9511.0] It's not that bad.
+[ 9512.0] True!
+[ 9513.0] True!
+[ 9514.0] Repeat it again.
+[ 9515.0] Just make sure.
+[ 9516.0] Oh don't worry!
+[ 9517.0] Oh don't worry!
+[ 9518.0] I got dumped in for the next part of my life.
+[ 9519.9] It's okay you've got to stand.
+[ 9520.9] Put your time on.
+[ 9521.9] I think it's a different.
+[ 9522.9] I think it's a different kind of moment.
+[ 9523.9] It's alright we forget you.
+[ 9524.9] It's okay I'm just like, okay.
+[ 9525.9] It's okay I'm just like, okay.
+[ 9526.9] Sorry!
+[ 9527.9] I'm just like, okay.
+[ 9528.9] I'm just like, okay.
+[ 9529.9] Sorry, I'm just like, okay.
+[ 9530.9] Sorry, I'm just like, I'm just like, okay.
+[ 9531.9] It's all right, we forget you.
+[ 9532.9] Okay, so, while you're persuading Gillette to do crimes for justice...
+[ 9539.9] We're not a crime!
+[ 9541.9] It's just looking at things.
+[ 9543.9] I am neutral neutral.
+[ 9546.9] I don't know what I am.
+[ 9549.9] I don't know what I am.
+[ 9552.9] Carry on.
+[ 9553.9] Carry on.
+[ 9554.9] Is that true?
+[ 9555.9] You don't know your alignment.
+[ 9556.9] You don't know your alignment.
+[ 9557.9] I mean, I think we all...
+[ 9558.9] I mean, I think we all...
+[ 9559.9] It is.
+[ 9560.9] One on one.
+[ 9561.9] Why did you do that?
+[ 9563.9] Because.
+[ 9564.9] Lawful neutral.
+[ 9565.9] Lawful neutral.
+[ 9566.9] I guess it'd be okay.
+[ 9567.9] I guess it'd be okay.
+[ 9568.9] My heuristic.
+[ 9569.9] My heuristic is that the alignment is for you as rebel players.
+[ 9574.9] I don't attach any mechanical significance to it.
+[ 9579.9] Because I think any moral question that has a clearly good and clearly evil answer is
+[ 9587.2] a boring question.
+[ 9588.5] I have this on one of my character journal books at home.
+[ 9593.5] I was just using it for Pathfinder.
+[ 9596.5] It has these little different personality bits with five dots,
+[ 9601.5] and you can have these more detailed alignments.
+[ 9604.5] I'll take a picture of it.
+[ 9606.5] That really helped me actually play my character better by being like, actually,
+[ 9611.5] because it got crucible.
+[ 9613.5] It seemed to be more related to my site.
+[ 9616.5] Selfish, altruistic kind of things, stuff like that,
+[ 9619.5] and a lot more detail.
+[ 9620.5] A lot more detail.
+[ 9621.5] Cruising.
+[ 9622.5] Cruising.
+[ 9623.5] Cruising.
+[ 9624.5] Yes, we're right.
+[ 9625.5] Dropping.
+[ 9626.5] Dropping, nice.
+[ 9627.5] Okay, so what are the lads up to?
+[ 9630.5] What are the lads up to?
+[ 9631.5] I thought they were just...
+[ 9632.5] I thought they were just...
+[ 9633.5] I thought they were just...
+[ 9634.5] I've got a lot of whiskey.
+[ 9635.5] I've got a lot of whiskey.
+[ 9636.5] I've got a lot of delves.
+[ 9637.5] I've got a lot of delves.
+[ 9638.5] Ouch.
+[ 9639.5] Yes.
+[ 9641.5] We went over that.
+[ 9642.5] I didn't hit that.
+[ 9643.5] I didn't hit that.
+[ 9644.5] You were in the other room.
+[ 9645.5] You were in the other room.
+[ 9646.5] This is bad.
+[ 9647.5] The yep, the yep, the yep, the yep.
+[ 9649.5] The parlour.
+[ 9650.5] Cracked up into some whiskey.
+[ 9652.5] And I started sharing this bowl.
+[ 9655.5] And Finn was telling us about how he was...
+[ 9658.5] Orange slavery.
+[ 9659.5] Orange slavery.
+[ 9660.5] Yeah, yeah.
+[ 9661.5] Suck.
+[ 9663.5] I'm about to put this out.
+[ 9665.5] I was like...
+[ 9666.5] We're not recommend?
+[ 9667.5] We're not recommend?
+[ 9668.5] Yeah.
+[ 9669.5] He's not supposed to child.
+[ 9670.5] He's not supposed to child.
+[ 9671.5] Like there, he's my favorite.
+[ 9672.5] And he's like...
+[ 9673.5] He's my favorite.
+[ 9674.5] He's my favorite.
+[ 9676.5] I'm going to need you to explain that.
+[ 9677.5] I'm going to need you to explain that.
+[ 9678.5] Go, go.
+[ 9681.5] Finn shared how have the main package.
+[ 9684.5] You did not have any.
+[ 9685.5] He's uncool.
+[ 9686.5] He's uncool.
+[ 9688.5] I'm going to mention...
+[ 9691.5] It's interesting you guys talk about that.
+[ 9693.5] I have not seen my family in longer than I can remember either.
+[ 9697.5] Damn.
+[ 9698.5] I assume they're still alive. I keep sending money home to them.
+[ 9707.0] But I assume they get it. But it's been...
+[ 9711.4] How long did those live?
+[ 9715.9] Yeah, long. It's been a very long time.
+[ 9721.8] Well, in terms of how the timeline and when things happened,
+[ 9724.5] so it's probably been a good...
+[ 9725.7] It's been at least 10 years.
+[ 9726.8] Damn.
+[ 9729.5] Okay, so gnomes can live between 350 and 500 years.
+[ 9733.3] Die, okay, all right.
+[ 9735.0] No, let me keep on going.
+[ 9736.5] I remember my last weekend.
+[ 9738.5] Yeah, the third time still alive.
+[ 9741.5] As a world-building detail, because magic itself is dying out,
+[ 9745.0] the more magically in need of it is exactly so declining.
+[ 9748.8] So I think gnome lifespans have been gradually coming out.
+[ 9751.8] Okay, that'll work.
+[ 9753.5] Anyways, yeah, it's been a long time.
+[ 9755.3] So yeah, I don't know.
+[ 9756.3] Whatever you say, you look so young.
+[ 9759.8] I had to leave.
+[ 9760.5] I had to leave.
+[ 9761.9] What did you do?
+[ 9763.3] I didn't do it.
+[ 9768.1] What did you do?
+[ 9769.1] What did you do?
+[ 9771.4] I didn't even die.
+[ 9772.1] I didn't do it.
+[ 9772.8] No, I'm the slavery.
+[ 9779.0] We had everything taken from us.
+[ 9780.4] And we needed a way to survive.
+[ 9782.6] And that was a path of life to a love that to happen.
+[ 9785.1] They don't know about it.
+[ 9786.0] Oh, man.
+[ 9786.6] That's where you're going to be.
+[ 9787.4] That's where you're going to be.
+[ 9788.5] That's where I'm going to be.
+[ 9789.4] It is.
+[ 9790.0] That's where I'm going to be.
+[ 9793.3] Just take on the kind of responsibility, you know.
+[ 9805.5] I can bear you a little bit.
+[ 9806.3] I can bear you a little bit in a look.
+[ 9808.0] And then...
+[ 9808.1] Yeah.
+[ 9808.6] Okay, so for your approach to Grey Sheath House,
+[ 9818.4] I'm just going to make sure I understand the avenues at play here.
+[ 9820.9] So you have Gillette kind of scoping out the exterior.
+[ 9826.6] You have a plan to throw a chicken at it?
+[ 9829.7] Yeah.
+[ 9830.2] Yeah.
+[ 9830.7] Yeah.
+[ 9831.7] Yeah.
+[ 9832.3] It's on a drone.
+[ 9833.1] Like a drone?
+[ 9834.1] Yeah.
+[ 9836.6] It's all seeing and all knowing.
+[ 9837.8] It's basically at a time.
+[ 9841.9] Is that a lot?
+[ 9842.5] Is that a lot?
+[ 9843.3] A knot or something?
+[ 9844.4] Is it?
+[ 9845.2] Is it?
+[ 9845.7] I don't know.
+[ 9846.2] I don't know.
+[ 9846.9] That's the news.
+[ 9847.5] No, they're what I was talking about.
+[ 9848.2] No, they're what I was talking about.
+[ 9854.2] Are you looking at the right now?
+[ 9855.0] Are you looking at the right now?
+[ 9856.2] Defending our nation.
+[ 9857.0] Defending our nation securing the future.
+[ 9859.0] That's a shit.
+[ 9859.7] Well, that is what we're doing.
+[ 9861.4] I mean...
+[ 9862.1] I mean...
+[ 9862.7] Can I do that?
+[ 9863.7] Okay.
+[ 9864.2] That's prongs one and two.
+[ 9866.7] You also had sneaky people within the group identified?
+[ 9869.8] Yes.
+[ 9871.6] Sorry.
+[ 9872.5] I would like...
+[ 9874.3] When Gillette grows up, I would like to one-shape into a cat and sort of follow him.
+[ 9878.5] Nice.
+[ 9879.0] Yeah.
+[ 9879.5] Oh, okay.
+[ 9880.5] Okay.
+[ 9882.7] Okay, so Gillette plus cat.
+[ 9884.0] Yep.
+[ 9885.7] Other sneakies.
+[ 9887.0] Is your plan to encase the joint slash break-in while Gillette is casing it?
+[ 9892.3] Or wait for him to report back?
+[ 9893.8] I don't think there was any breaking in.
+[ 9895.3] We're not planning to break in.
+[ 9896.3] We're going to scout out, get in for a break-in.
+[ 9898.6] Back, then plan out.
+[ 9899.7] Not yet.
+[ 9900.1] Can't talk.
+[ 9900.6] Okay.
+[ 9901.7] Okay.
+[ 9904.1] This is the scouting outfit.
+[ 9905.4] Where's the opposite?
+[ 9908.6] So Ambassador Street is like very fancy townhouses on both sides,
+[ 9913.7] but they are all detached.
+[ 9915.4] So like spaces between them that you could slip through.
+[ 9920.3] What's between...
+[ 9921.1] If they're away, I can climb up.
+[ 9926.1] Yes.
+[ 9927.0] I mean, you can climb onto our roof, right?
+[ 9929.9] So I want to climb up onto our roof opposite.
+[ 9933.6] Oh, someone could have a house.
+[ 9935.4] You've got a house, we can look at it.
+[ 9937.4] The carriage as well.
+[ 9938.9] Jack made a good point about the carriage.
+[ 9940.4] The carriage is on the street.
+[ 9942.3] Oh, say, the house, I feel like.
+[ 9944.6] Yeah.
+[ 9945.3] Yeah.
+[ 9945.8] We've assumed he's actually...
+[ 9947.4] We're totally...
+[ 9947.9] Look at that.
+[ 9948.4] ...still lives there.
+[ 9949.2] No, but I mean...
+[ 9950.0] No, but I mean, like, how about a carriage?
+[ 9952.0] At the carriage.
+[ 9952.7] In the carriage case, it's like...
+[ 9954.0] Oh, okay.
+[ 9956.9] Sombi's carriage.
+[ 9957.7] Like, does the carriage have...
+[ 9958.4] It's the carriage's back.
+[ 9959.1] Does the carriage have tenet windows?
+[ 9960.6] Is it limited?
+[ 9961.5] Is it limited?
+[ 9962.6] It's not limited.
+[ 9963.4] It's not limited.
+[ 9964.0] It's not limited.
+[ 9965.6] It's not limited.
+[ 9966.8] I crawl.
+[ 9967.3] I crawl.
+[ 9967.8] I crawl.
+[ 9969.0] It's not limited.
+[ 9969.6] It's not limited.
+[ 9970.4] Then the horse on the front would like play...
+[ 9971.9] Wha-baa.
+[ 9972.6] Yeah.
+[ 9973.4] Yeah, it's horseshoes with a neon lights on.
+[ 9975.4] We missed this.
+[ 9976.2] We missed this carriage.
+[ 9977.4] It ripped.
+[ 9978.1] It ripped.
+[ 9978.6] The horse goes...
+[ 9980.2] It ripped!
+[ 9983.7] It does that thing where like...
+[ 9984.6] You know that the real quick plays are like the quick plays from the start
+[ 9987.1] from the start
+[ 9987.7] Just got a load of VHS
+[ 9989.6] Mmmhmm
+[ 9990.6] And it's got me nuts
+[ 9991.6] And it's got me nuts
+[ 9992.6] It's got nuts
+[ 9993.6] 10-ish woofers
+[ 9994.6] How would a nut
+[ 9995.6] How would a nut work with a nut?
+[ 9997.6] I'm not just a nut
+[ 9998.6] I'm a nut
+[10001.6] I'm a nut
+[10002.6] I'm a nut
+[10003.6] I'm a nut
+[10004.6] I'm a nut
+[10005.6] I believe a nut
+[10006.6] I believe a nut or a horse involves a piece of sliced ginger
+[10009.6] We could go on
+[10010.6] We could go on
+[10011.6] We could go on track so quickly
+[10012.6] Rub it on
+[10013.6] Rub it on
+[10014.6] Do other people know?
+[10015.6] Okay, so there's an old trick for selling an old, tired horse
+[10021.6] Nag
+[10022.6] By convincing somebody that it's actually really youthful and full of energy
+[10026.6] And the way that you do this is before they come to buy it
+[10028.6] You take a piece of cut ginger
+[10031.6] And shove it up their nose
+[10032.6] I'm on the right end
+[10034.6] I'm on the right end
+[10035.6] I'm on the right end
+[10036.6] I'm on the right end
+[10037.6] I'm on the right end
+[10038.6] I'm on the right end
+[10039.6] I'm on the right end
+[10040.6] I'm on the right end
+[10041.6] I'm on the right end
+[10042.6] And if they ever do this
+[10044.6] If we did make this into a potluck
+[10046.6] It would be farth
+[10047.6] It would be farth
+[10050.6] Okay, we like have a sight
+[10052.6] Sight stick
+[10053.6] We're gonna come back
+[10058.6] Sorry, we just needed to start a whole bunch of really esoteric knowledge
+[10064.6] That's the name of the potluck
+[10066.6] Oi, coming
+[10067.6] Oi, coming
+[10068.6] Scale around
+[10069.6] To get a bit more
+[10071.6] It's ginger cannon in the world?
+[10075.6] A world?
+[10077.6] Ginger?
+[10079.6] Yeah, this has got to be ginger.
+[10081.6] Is that the conversation we're having back in the dream?
+[10083.6] Is ginger in the dream?
+[10085.6] Is ginger in the dream?
+[10087.6] I don't know the thing you can do.
+[10089.6] They did not have ginger.
+[10091.6] Go back.
+[10093.6] Go back written letters.
+[10095.6] Spiciest.
+[10097.6] Yes.
+[10099.6] Plan A.
+[10101.6] Plan A.
+[10103.6] Gillette and Ammonira in cat form.
+[10105.6] Scoping out the house from the street side.
+[10109.6] Yes.
+[10111.6] No, I think that Gillette doesn't see that I'm the cat.
+[10115.6] He's a random cat.
+[10117.6] The whole boy is that Gillette.
+[10119.6] Okay.
+[10121.6] Who watches The Watchman?
+[10123.6] You do.
+[10125.6] Two.
+[10129.6] Two.
+[10131.6] You wanted to climb onto a roof opposite.
+[10133.6] Despite from there.
+[10135.6] So he's having a look around the walls.
+[10137.6] Yeah.
+[10139.6] I'm thinking of...
+[10141.6] Because there will be windows.
+[10143.6] It's not a story though.
+[10145.6] Yes.
+[10147.6] I'm thinking I'll check out the windows.
+[10149.6] I'm checking out the windows.
+[10151.6] Are they unlocked?
+[10153.6] They're an obvious place where we can step into the sort of thing.
+[10155.6] Is there anything such?
+[10157.6] Just kind of gauging those close up bits.
+[10161.6] Okay.
+[10163.6] I'm wondering how much of a gap there is between the two.
+[10167.6] Could you like spider?
+[10169.6] I can't get one.
+[10171.6] Oh!
+[10173.6] I can't get one.
+[10175.6] Maya! Maya!
+[10177.6] I have Ash.
+[10179.6] Or you go back.
+[10181.6] I can actually make notes so I don't get anything.
+[10189.6] I probably can just like...
+[10191.6] I'm willing to try.
+[10193.6] Wall climb.
+[10195.6] I can touch you and you can do it.
+[10197.6] See? Even now.
+[10199.6] I've got four arms.
+[10201.6] Two legs.
+[10203.6] Three.
+[10205.6] I don't know.
+[10207.6] I have.
+[10209.6] He's dead.
+[10211.6] My big o' Ash alarm.
+[10213.6] I get like a 10 foot reach.
+[10215.6] Then double my arm length.
+[10217.6] Get me a 10 foot reach.
+[10219.6] Get me a 10 foot reach.
+[10221.6] I'm just a dank.
+[10223.6] Again, we're in air.
+[10225.6] What are you doing?
+[10227.6] Okay.
+[10229.6] We just rested up.
+[10231.6] Um...
+[10233.6] Right.
+[10235.6] That was definitely fine.
+[10237.6] Listening for something wrong.
+[10239.6] Preparation step one.
+[10243.6] Um...
+[10245.6] Give me a stealth roll using your cat statistics.
+[10249.6] Me!
+[10251.6] To avoid being detected by Gillette.
+[10255.6] But she doesn't know that she's a cat.
+[10257.6] I love you.
+[10259.6] That's weird.
+[10261.6] Where's your regular lats?
+[10263.6] For now.
+[10265.6] Yes.
+[10269.6] Okay.
+[10271.6] And I ride him.
+[10273.6] He's like the allergic pig.
+[10275.6] I know he's a level one.
+[10277.6] Sit down.
+[10279.6] And I have a human.
+[10281.6] A human's eye.
+[10283.6] A human's eye.
+[10285.6] It's funny.
+[10287.6] And you're not here every time.
+[10289.6] Because I'm not sure whether he sees a cat.
+[10291.6] Yes.
+[10293.6] You would have run out.
+[10295.6] You would have run out.
+[10297.6] Yeah.
+[10299.6] You manage to avoid...
+[10301.6] You step out of the room in a completely natural way
+[10305.6] that does not arouse any suspicion whatsoever.
+[10308.6] And momentarily later step back in as a cat
+[10311.6] in a way that also does not arouse any suspicion.
+[10313.6] You have successfully decanted yourself.
+[10317.6] Um...
+[10319.6] Ross, I am going to need
+[10321.6] either animal handling or persuasion
+[10325.6] to convey the plan to the chicken.
+[10329.6] Animal handling.
+[10331.6] Go for it.
+[10335.6] Um, I think with advert...
+[10337.6] I was going to say with advantage.
+[10339.6] Speak with animals.
+[10341.6] Sure.
+[10343.6] Exactly the same.
+[10345.6] Hell yeah.
+[10347.6] That's very 19.
+[10349.6] Um...
+[10351.6] There's chicken that sees further than any chicken should.
+[10355.6] You conveyed to him
+[10357.6] what you wanted to achieve.
+[10359.6] And you then hand the chicken over
+[10363.6] to death walker.
+[10365.6] Part of what I've conveyed is
+[10367.6] you're safe.
+[10369.6] Are there any specific things
+[10373.6] you ask the chicken to look out for?
+[10375.6] Bearing in mind they need to be things
+[10377.6] the chicken could comprehend.
+[10379.6] If there's anyone else in the house,
+[10383.6] if there's more than one person,
+[10385.6] because I feel like the chicken might not recognize
+[10387.6] specific stuff.
+[10389.6] Number of people.
+[10391.6] Can't do before anything happens.
+[10393.6] Yeah.
+[10395.6] If there's more things than just the one thing.
+[10397.6] Check.
+[10399.6] I like to think of this chicken.
+[10401.6] And by the way, I've completely
+[10403.6] underestimated this chicken's intelligence.
+[10405.6] The chicken's actually just like
+[10407.6] fucking soup.
+[10409.6] That's what I mean.
+[10411.6] That's what I mean.
+[10413.6] Not really.
+[10415.6] It's actually molested.
+[10417.6] It's all white.
+[10419.6] Just in case the chicken saved you
+[10421.6] more than nothing else to give us more information.
+[10423.6] Is that true?
+[10425.6] No.
+[10427.6] It's not true.
+[10429.6] It's not true.
+[10431.6] The chicken saved you more than nothing else to give us more information.
+[10434.6] Is that true?
+[10436.6] Let's do...
+[10440.6] Let's do silvery.
+[10442.6] So you want to stroll around the house
+[10445.6] checking on the walls and windows?
+[10447.6] Yes.
+[10449.6] That makes sense, right, right?
+[10451.6] Yep, that feels right.
+[10453.6] Okay.
+[10455.6] What stat would you like to use for this and why?
+[10457.6] I mean it's obviously acrobatic.
+[10460.6] And I'll say obviously why.
+[10462.6] Well, because I'm literally
+[10464.6] climbing around things
+[10466.6] and trying to make sure
+[10468.6] I'm dexterous in my movements.
+[10470.6] Moving up literal vertical
+[10472.6] spaces.
+[10474.6] Okay. Make that roll.
+[10476.6] And if...
+[10478.6] I can't do flips and stuff.
+[10480.6] I'm just trying to be stealthy.
+[10482.6] Stealthy flips.
+[10484.6] What is going on?
+[10486.6] I'm mad.
+[10488.6] I'm mad.
+[10490.6] I'm mad.
+[10492.6] I'm mad.
+[10494.6] I'm not bestowing the dice rolls.
+[10496.6] Huh?
+[10498.6] Yes, exactly.
+[10500.6] Erm...
+[10502.6] Fourteen.
+[10506.3] Fourteen.
+[10508.3] I'm not stopping writing this on me.
+[10510.3] As you go.
+[10512.3] As you go.
+[10514.3] Yeah, exactly.
+[10516.3] I'm not doing that.
+[10518.3] And then it would be...
+[10520.3] Whatever.
+[10522.3] With a
+[10524.3] fourteen
+[10526.3] you avoid
+[10528.3] detection, which is good.
+[10530.3] As you're
+[10532.3] sneaking, clambering around.
+[10534.3] You get up close to a few
+[10536.3] windows and you notice
+[10538.3] that they have been retrofitted
+[10540.3] with quite heavy shutters.
+[10542.3] Okay.
+[10544.3] Erm...
+[10546.3] And these...
+[10550.5] Fourteen.
+[10552.5] Something is strange about them.
+[10554.5] You can't necessarily identify exactly what it is.
+[10556.5] But they're not a design you recognise.
+[10558.5] The security shuttle
+[10560.5] didn't press the button and it went...
+[10562.5] Erm... I'm gonna call this a
+[10564.5] door for you when we end up breaking this.
+[10566.5] I'm gonna say this is actually a door
+[10568.5] so you can put shit in.
+[10570.5] Erm... Okay.
+[10572.5] Good to know.
+[10574.5] Erm...
+[10576.5] Let's do...
+[10578.5] Lots.
+[10580.5] Lots.
+[10582.5] You're climbing up onto the roof opposite.
+[10584.5] And spying on the house on there. What would you like to hold for this?
+[10586.5] Erm... probably...
+[10588.5] Can I do stuff?
+[10596.8] Because I don't wanna...
+[10598.8] I'm thinking I'm like...
+[10600.8] Kind of...
+[10604.3] Stealthily.
+[10606.3] I didn't hear a mechanism.
+[10608.3] Yeah.
+[10610.3] I don't know that yet.
+[10612.3] Yes.
+[10614.3] Maybe it's just beer is the problem.
+[10616.3] I haven't tried whiskey yet.
+[10618.3] Yes.
+[10620.3] Okay.
+[10622.3] Fifteen. So you work your way up onto the
+[10624.3] roof of the house opposite.
+[10626.3] And from up here...
+[10628.3] You can see
+[10630.3] a bit more of the layout.
+[10632.3] So there's the cart out front.
+[10634.3] Erm...
+[10636.3] There currently isn't a horse.
+[10638.3] The horse has been removed
+[10640.3] from the cart, presumably to some form of stable.
+[10642.3] And you can kind of see
+[10644.3] where that would likely be
+[10646.3] in the layout.
+[10648.3] And you're like, oh okay, so that's kind of close
+[10650.3] to the back wall.
+[10652.3] So from the roof of the stable, we could get
+[10654.3] up
+[10656.3] to the roof of the house.
+[10658.3] Quite easily and without being detected.
+[10660.3] Erm... so you have a potential
+[10664.0] route of ingress that way.
+[10666.0] Erm... let's do...
+[10668.0] Oh, you can also...
+[10671.8] You can also see a bit of
+[10673.8] movement behind
+[10675.8] windows and things. You can't make out specific people.
+[10677.8] I figure I'm kind of far away. Yeah.
+[10679.8] Yeah, you have catching glimpses
+[10681.8] from the other side of a road.
+[10683.8] So you couldn't necessarily identify anyone.
+[10685.8] But there's at least
+[10687.8] two or three people in there.
+[10689.8] Erm...
+[10691.8] Death walker and chicken.
+[10693.8] I'm gonna stretch
+[10695.8] before I fit too much.
+[10697.8] That's a good plan.
+[10699.8] Roll for a stretch.
+[10701.8] Erm...
+[10703.8] I meant that one.
+[10705.8] Stop.
+[10707.8] I'll let it. I'll let it because it's clearly
+[10709.8] a jab.
+[10715.8] I wonder if I could do the, like,
+[10717.8] stuff. Oh my god. Oh my god.
+[10719.8] Yay!
+[10725.8] How do you do that, children?
+[10727.8] Ha ha ha!
+[10729.8] Wait, no, wait. Hang on.
+[10731.8] I think it's a seven.
+[10733.8] So that's a fourteen.
+[10735.8] You crushed the chicken. Jesus, you're
+[10737.8] an addict. That is weird.
+[10739.8] Yes.
+[10741.8] It's plus seven.
+[10743.8] That's seven, eh?
+[10745.8] I was feeling through the chicken over the wrong balance.
+[10747.8] Very detailed.
+[10749.8] For a completely innocent neighbour.
+[10751.8] Jab on all of us.
+[10753.8] One by one.
+[10755.8] One by one.
+[10757.8] One by one.
+[10759.8] One massive jab.
+[10761.8] You can do six.
+[10763.8] Push them off.
+[10765.8] Push them off.
+[10767.8] Do a little somersault.
+[10769.8] And stab them.
+[10771.8] The chicken.
+[10773.8] Basically I think you two can do some insane
+[10775.8] Bollywood shit.
+[10777.8] Strengthen dags.
+[10779.8] Okay, so you...
+[10781.8] Bahubali this.
+[10783.8] Bahubali is so good.
+[10785.8] You've not seen Bahubali.
+[10787.8] You need to watch it. It's great.
+[10789.8] You could do like an AOE.
+[10791.8] Like, if you extend your stuff.
+[10795.8] Oh yeah, I could like...
+[10797.8] You hold the other end.
+[10799.8] It's like...
+[10801.8] You can't do it like this.
+[10803.8] You can't do it like this.
+[10805.8] It was like...
+[10807.8] It was like...
+[10809.8] Yeah.
+[10811.8] It was like...
+[10813.8] It was like...
+[10817.8] So the chicken flies in an elegant arc
+[10819.8] over Grey Sheath House.
+[10823.8] And makes its way
+[10825.8] fluttering back down.
+[10829.8] Yeah, it's a nice parabola.
+[10831.8] Can I make it out to be like this new game
+[10833.8] which is what chickens do? You know like, keep up the blue.
+[10835.8] It's like that. But I've got to run to go get the chicken.
+[10837.8] That's ridiculous.
+[10839.8] He tried to run and run and run and run.
+[10841.8] Yeah.
+[10843.8] And then...
+[10845.8] It tastes like a new game.
+[10847.8] Everyone's going to be playing.
+[10849.8] He's not going to see you.
+[10853.8] I'm practising for Quitch.
+[10855.8] Nah.
+[10857.8] Did it squirt?
+[10859.8] Quitch.
+[10861.8] Quitch.
+[10863.8] Quitch.
+[10865.8] That's another sport.
+[10867.8] Alright, um...
+[10869.8] That's a sport I've already played.
+[10871.8] Give me another hand.
+[10873.8] I'd love to.
+[10875.8] I just want to have this scene
+[10877.8] where you've got so very carefully, very quietly,
+[10881.8] very dexterously, sort of nosing it on windows
+[10884.8] by Roz spying from across the street.
+[10886.8] And you're like...
+[10891.8] It's 13.
+[10893.8] Yeah, I'm in the chicken gym.
+[10897.8] Well, Roz said it was safe, so I've got to catch it.
+[10899.8] Yeah, you successfully catch the chicken.
+[10903.8] Up to you where you launch the chicken
+[10905.8] back into the house the other way.
+[10907.8] I mean, it'd be fun to, right?
+[10909.8] It's going to make it out to be a game.
+[10911.8] Okay, so you catch, sort of turn it into a spin
+[10913.8] and just launch the chicken back.
+[10915.8] Yeah.
+[10917.8] I'm going to make you roll to catch the chicken again in a minute.
+[10919.8] Okay.
+[10921.8] Oh, yeah.
+[10923.8] Okay.
+[10925.8] For that, I might use the big diamond.
+[10927.8] The information you're going to get
+[10929.8] out of your chicken spy drone
+[10931.8] when you regroup
+[10933.8] is that there are a total of five people in this house.
+[10936.8] He's got true sight.
+[10938.8] That little bastard can see through stuff.
+[10940.8] That little bastard can see through stuff.
+[10942.8] Chicken's got, like, heat-seeking...
+[10947.8] Yeah.
+[10950.8] That's hope we don't get sighted for it.
+[10953.8] One of us always wears the chicken again first.
+[10959.8] Cool, so...
+[10961.8] Amino, you're following Gillette.
+[10963.8] Yes, he's generally looking around,
+[10965.8] but also looking around.
+[10967.8] Is there anything in particular you're watching for?
+[10972.8] I was seeing what he does,
+[10974.8] and then the idea would be later when we regroup
+[10977.8] he says something else that I know is blatantly not true.
+[10981.8] Okay, so you're checking up on him?
+[10982.8] Yes.
+[10983.8] Gotcha.
+[10984.8] All right, so Gillette's going to kind of wander out.
+[10987.8] Looking a bit shifty, like, trying to not look too obvious.
+[10991.8] He's a ruffian in a very fancy neighborhood,
+[10994.8] so he does stick out a little bit.
+[10996.8] But he will kind of, like,
+[10998.8] sidle up to the coach and sort of, like,
+[11000.8] crumble a little bit.
+[11002.8] Give the coach...
+[11003.8] Give the wheels a prod.
+[11006.8] Hear around the coach and look at the house.
+[11014.8] He doesn't do anything that you would immediately spot as being suspicious.
+[11019.8] What I would like you to do is...
+[11023.8] a role to determine what you think his intentions are.
+[11026.8] So insight would be the obvious one,
+[11028.8] but if you have another suggestion, please go for it.
+[11032.8] Um... insight or perception?
+[11035.8] Sure.
+[11037.8] Wait, this is the only one.
+[11040.8] I'm going to do a ten.
+[11045.2] Cool.
+[11046.2] Cool.
+[11047.2] As far as you can tell, he's doing what he's been told.
+[11049.2] Cool.
+[11055.7] Okay.
+[11057.7] Do you reconvene at Rad Wasp House to share your findings?
+[11061.7] Oh, yeah.
+[11062.7] Oh, yeah.
+[11064.7] You need to roll to catch the chicken.
+[11067.7] Uh, 20.
+[11068.7] Do it either.
+[11069.7] Yes.
+[11070.7] I'm excited.
+[11071.7] Having easier the chicken back, then run really, really fast,
+[11074.7] and you're just there welcoming it
+[11076.7] since it was, like, a beautiful landing.
+[11079.7] Yeah.
+[11083.7] That's something I'm going to have to actually decide
+[11085.7] what the rules of Critch Day are.
+[11087.7] Oh, Critch Day?
+[11088.7] Critch Day?
+[11090.7] Yeah, Critch Day is just around the chicken.
+[11092.7] That's the practice that you do.
+[11093.7] I like to think that it's, like, the game that they play
+[11098.7] in the Eldorado is, like, the little rings on the walls,
+[11102.7] the ball that fits, like, it's perfect through it.
+[11104.7] Yes.
+[11105.7] And you're only allowed to hit it with your knees and elbows.
+[11106.7] Yes.
+[11107.7] And I know the name of that.
+[11108.7] But you see some people, like, they're sort of, like,
+[11110.7] you can kick it, but it has to be, like,
+[11112.7] like, people who, like, flip kicks.
+[11114.7] Yeah.
+[11115.7] Interesting, because what I think about
+[11117.7] is the game that came out of the Legend of Korra.
+[11119.7] That is also what I kind of had to do.
+[11121.7] Well, I had a bind, then, yeah.
+[11123.7] But there were toddles.
+[11125.7] Yeah, it was quidditch, but underground.
+[11127.7] Yeah.
+[11128.7] They all wore marbles on their heads,
+[11130.7] so you could see the tongue.
+[11133.7] Okay.
+[11134.7] I was thinking that they would have, like,
+[11135.7] set up, like, skateboard.
+[11138.7] That would be sick.
+[11139.7] You reconvene at Red Boss.
+[11141.7] We're all laughing.
+[11142.7] We're all laughing.
+[11143.7] I think I would say I'm laughing.
+[11145.7] Okay.
+[11146.7] So, you can't share your information.
+[11148.7] How am I going to get on there?
+[11150.7] With the chicken.
+[11151.7] With the chicken?
+[11152.7] Yeah, I can.
+[11153.7] I mean, you could just throw the chicken up.
+[11155.7] I could also try.
+[11156.7] I mean, I could also try.
+[11157.7] Hey, that's fine.
+[11158.7] Hey, that's fine.
+[11159.7] I could come back.
+[11160.7] I could.
+[11161.7] I could.
+[11162.7] There were no silly ideas in this game.
+[11163.7] Or rather.
+[11164.7] Or rather.
+[11165.7] It's all.
+[11166.7] It's all.
+[11167.7] I have really, really high athletics.
+[11169.7] I could climb.
+[11170.7] No, I can't go.
+[11171.7] No, I can't go.
+[11172.7] Are you tired?
+[11173.7] Are you tired?
+[11174.7] I think that they've been out,
+[11175.7] where we've been making our way
+[11176.7] to the, like, actual top shelf expensive liquor.
+[11180.7] How f**k do I want to get off the grass?
+[11182.7] The answer to that question is the words,
+[11183.7] constitutions, aiming sight.
+[11185.7] Yes.
+[11186.7] Sweet.
+[11188.7] How dumpty...
+[11191.7] How do you say it goes deeper?
+[11192.7] All of the drinks.
+[11194.7] Drunken.
+[11195.7] Drunken there, too.
+[11196.7] Is it or disease?
+[11197.7] Is it not a dissident?
+[11198.7] Is it not a dissident?
+[11199.7] Is it a dissident?
+[11200.7] Is it top shelf?
+[11201.7] It's a point of exhaustion.
+[11203.7] No, I meant, like,
+[11205.7] constitutions represented.
+[11206.7] Oh, I see.
+[11207.7] I don't know, we'll see how many bottles there are going to be.
+[11211.3] I'm giving them so many.
+[11212.3] A good few.
+[11213.3] A good few.
+[11214.3] A good few?
+[11215.3] Is a good few like...
+[11217.3] What?
+[11218.3] Is it a good few?
+[11219.3] One bottle of whiskey would fuck you up.
+[11221.3] Bottle?
+[11222.3] Bottle?
+[11223.3] Well, my thought is that it's like...
+[11224.3] A bottle's put three words for me.
+[11225.3] A good bottle of whiskey that's like...
+[11228.3] They're like...
+[11229.3] They're like...
+[11230.3] Dipped and raw.
+[11231.3] Dipped and wax.
+[11232.3] They're dusty.
+[11233.3] Like, if it's a whiskey, it'll be...
+[11234.3] If it's maybe straight, it's going to be like 56%.
+[11237.9] Yeah, shit.
+[11238.9] Yeah.
+[11239.9] Yeah.
+[11240.9] Yeah, okay.
+[11241.9] You will have this advantage.
+[11242.9] That's amazing.
+[11243.9] Alcohol is...
+[11244.9] Now, alcohol is...
+[11245.9] Ditter disease.
+[11246.9] No.
+[11247.9] How am I rolling?
+[11248.9] How am I rolling?
+[11249.9] Uh...
+[11250.9] Alcohol is a poison.
+[11251.9] Okay.
+[11252.9] Yeah.
+[11253.9] If it's poison, you can use it.
+[11254.9] Okay.
+[11255.9] Constitution?
+[11256.9] Uh...
+[11257.9] A disadvantage.
+[11258.9] With disadvantage.
+[11259.9] Okay.
+[11260.9] I eat.
+[11261.9] I eat.
+[11262.9] I eat.
+[11263.9] 20.
+[11264.9] 30.
+[11266.5] Okay.
+[11267.9] Okay.
+[11269.3] Okay.
+[11270.3] So your fucken power.
+[11271.3] Somehow.
+[11276.3] Wait.
+[11277.3] So your fucking power.
+[11278.3] Somehow.
+[11279.5] What's hisUM.
+[11288.5] What are you doing couple of times?
+[11293.3] Too many.
+[11294.3] That's why he's asking.
+[11296.3] That's why he's asking.
+[11300.3] You are going to take one level of exhaustion.
+[11302.3] Yeah.
+[11304.3] We're like...
+[11306.3] Disadvantage on the little chest.
+[11308.3] Dear, dear, you're getting me drunk.
+[11310.3] Whiskey's had a problem.
+[11312.3] I can throw over nothing.
+[11314.3] One level is disadvantage on 30 checks.
+[11316.3] Two level is your speed of heart.
+[11318.3] Three is disadvantage on attack rolls and saving throws.
+[11321.3] Four is your hit point.
+[11324.3] Five is your speed is reduced to zero.
+[11327.3] Six is death.
+[11329.3] Minding all of those are eight wounded with each other.
+[11338.3] When they come in, we've got...
+[11340.3] And we're trying to like...
+[11342.3] And we're trying to like...
+[11344.3] And we're trying to like...
+[11346.3] And we're trying to like...
+[11348.3] And we're trying to like...
+[11350.3] Or just like...
+[11355.3] Or just like...
+[11357.3] Or just like...
+[11359.3] No.
+[11360.9] I'm standing in the bar.
+[11362.9] Yay!
+[11366.3] You're standing in the bar.
+[11368.3] Yeah, I'm getting like...
+[11370.3] You're standing in theame right here.
+[11372.3] To myion?
+[11373.3] If I come in to this, I'm going to make floor in this out.
+[11375.3] Okay.
+[11377.3] hahahaha
+[11379.3] what are you trying to say?
+[11381.3] caked beans
+[11383.3] hahahaha
+[11385.3] she's not wrong
+[11387.3] she's not wrong
+[11389.3] survival
+[11391.3] because it sounds like during
+[11393.3] it's a good one
+[11395.3] I haven't got advantage of that with me
+[11397.3] it's 11
+[11399.3] so I think I'm going to make you a sandwich
+[11401.3] because 11 is kind of average
+[11403.3] so
+[11405.3] I think
+[11407.3] I think the most average
+[11409.3] sandwich is probably just like
+[11411.3] bread
+[11413.3] butter
+[11415.3] a slice of cheese
+[11417.3] that's really good
+[11419.3] cheese
+[11421.3] that's average
+[11423.3] that is average
+[11425.3] yeah
+[11427.3] it's not even like
+[11429.3] I mean a drunk
+[11431.3] I want my man
+[11433.3] chicken
+[11435.3] fries
+[11437.3] or crisps
+[11439.3] oregano
+[11441.3] what's up
+[11443.3] oil
+[11445.3] I want it
+[11447.3] red
+[11449.3] that's not so special
+[11451.3] it tastes better
+[11453.3] see
+[11455.3] alright
+[11457.3] they're right
+[11459.3] it'll be ripped
+[11461.3] out
+[11463.3] anti-drunk sandwich
+[11465.3] what have you guys been up to?
+[11467.3] what have you guys been up to?
+[11469.3] sorry chicken
+[11471.3] it's very good
+[11473.3] it's very good
+[11475.3] it's a bite
+[11477.3] hahahaha
+[11485.2] so you know most of it already
+[11487.2] the port from Gillette
+[11489.2] is number one
+[11491.2] the coach has
+[11493.2] surprisingly stiff
+[11495.2] suspension
+[11497.2] almost as if it's designed for moving heavier
+[11499.2] loads than just people
+[11503.2] number two
+[11505.2] there is a cold scuttle
+[11507.2] on the outside of the house
+[11509.2] which has an oddly
+[11511.2] deep like
+[11513.2] cart tracks leading up to it
+[11515.2] as if they'd been getting
+[11517.2] a lot of deliveries
+[11521.2] that's all you're going to get from me
+[11523.2] nothing in there
+[11525.2] goes against what you saw him doing
+[11527.2] with your... was it ten?
+[11529.2] yeah
+[11531.2] so
+[11533.2] how do you want to
+[11535.2] approach
+[11537.2] Gracie House?
+[11539.2] do we want to discuss that?
+[11541.2] in the WhatsApp chat?
+[11543.2] do we want to call that a night?
+[11545.2] do we want to call that a night?
+[11547.2] and now we're back at the Radwa
+[11549.2] buzz buzz buzz
+[11551.2] we're going to pound the door
+[11553.2] and we need a voice
+[11555.2] the one

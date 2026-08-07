@@ -82,8 +82,8 @@
     "House Beltus": {
       "color": "#ffd93d",
       "link_slugs": ["house-beltus", "beltan-institute"],
-      "wiki_pages": ["House Beltus", "Beltan Institute"],
-      "text_patterns": ["\\bBeltan Institute\\b"]
+      "wiki_pages": ["House Beltus", "Beltan Institute", "The Bound Garden"],
+      "text_patterns": ["\\bBeltan Institute\\b", "\\bBound Garden\\b"]
     },
     "House Mabon": {
       "color": "#5b9bd5",

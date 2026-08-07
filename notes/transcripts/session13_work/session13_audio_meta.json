@@ -1,0 +1,12 @@
+{
+  "approach": "align + per-window best-source selection (not amplitude stack)",
+  "reason": "Opposite table mics: stacking causes phase issues; switching preserves clearest speaker per moment.",
+  "mp3": "/Users/bmummery/Downloads/The Lords of Sindrel Session 13.mp3",
+  "wav": "/Users/bmummery/Downloads/2026-07-22-18-54-25.WAV",
+  "sample_rate": 16000,
+  "duration_sec": 11555.89325,
+  "cross_correlation_offset_samples": -196780,
+  "cross_correlation_offset_sec": -12.29875,
+  "wav_stereo_correlation": 0.9999999999999999,
+  "merged_wav": "notes/transcripts/session13_work/session13_merged.wav"
+}

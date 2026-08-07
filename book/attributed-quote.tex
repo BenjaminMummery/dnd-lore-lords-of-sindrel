@@ -1,0 +1,25 @@
+% Attributed quotation: DndReadAloud styling with optional right-aligned attribution.
+%
+% Usage:
+%   \begin{DndQuote}{Name}[4215 SC]
+%     Quote text.
+%   \end{DndQuote}
+%
+%   \begin{DndQuote}{Name}
+%     Quote text without a date.
+%   \end{DndQuote}
+
+\NewDocumentEnvironment{DndQuote}{m o}
+  {\begin{DndReadAloud}}
+  {%
+    \IfValueTF{#2}{%
+      \par\vspace{0.35\baselineskip}%
+      \hfill\textit{--- #1, #2}%
+    }{%
+      \IfBlankTF{#1}{}{%
+        \par\vspace{0.35\baselineskip}%
+        \hfill\textit{--- #1}%
+      }%
+    }%
+    \end{DndReadAloud}%
+  }

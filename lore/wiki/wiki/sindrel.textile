@@ -196,6 +196,10 @@ h4. [[Dockward | Dockward]]
 
 The centre of Sindrel's airship trade — a floating ring suspended around the upper reaches of [[The Fulcrum | the Fulcrum]] like a colossal halo. Colloquially called _the annulus_, it is the gateway through which much of the city's commerce enters and leaves. The ring is **narrow relative to the Lower City** — less than half its width — and sits apart from the conical tier districts below it; it is not itself one of those tiers.
 
+h4. [[The Canted Terrace | The Canted Terrace]]
+
+An upper-level district associated with [[House Beltus | House Beltus]] — respectable, screened from [[Merrylane | Merrylane]], and home to the [[Beltan Institute | Beltan Institute]] and the discreetly famous [[The Bound Garden | Bound Garden]].
+
 h3. Singular Landmarks
 
 Some locations exist outside the ordinary district structure.
