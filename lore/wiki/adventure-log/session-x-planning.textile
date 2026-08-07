@@ -7,7 +7,7 @@ name: 'Session X: Planning'
 title: 'Session X: Planning'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-x-planning
 op_created_at: '2026-07-14T17:41:44Z'
-op_updated_at: '2026-07-20T11:44:53Z'
+op_updated_at: '2026-07-22T17:22:44Z'
 op_gm_only: true
 tags: []
 post_title: 'Session X: Planning'
@@ -191,12 +191,21 @@ Potential routes from here:
 
 h2. Optional Lithra Records Office
 
-bq). TODO: physical description
+bq). The Records Office crouches beside the gate like a clerk who has insisted on a throne - modest by Sindrel's standards, which is to say absurdly grand by the standards of anywhere else. Warm grey stone rises in paired pylons flanking a shallow portico; beyond them, slender columns stand close together, their capitals carved into closed buds and reeds that some long-dead architect clearly thought were subtle. The building is seamless Sindrel stonework, as though the city simply decided one morning that there ought to be a hypostyle hall here and grew one. Ash, slate, and smoke-grey dominate, with silver filigree at the lintels and the occasional thread of muted gold or deep blue stone set into the threshold like a hint rather than a boast. High above the doors, the House eye is worked into a clerestory grille in a shape you might mistake for decoration — until you notice it is looking directly down at everyone who passes the gate.
 
 
-The relevant record should reads:
+bq). Inside, the office feels less like a fortress and more like a library that has taken itself very seriously. The air is dry and warmer than the mountain climate warrants; the light falls in careful bands from high windows, and the silence has that particular quality of a place where people are expected to read rather than talk. Floor to ceiling, grey stone shelves line the walls in ordered ranks, each bay stacked with ledgers, manifests, and bound registers — the comings and goings of Sindrel reduced to ink and paper: names, dates, declared business, retainer lists, and the serial numbers of silver guest bracelets that mark how long a visitor may remain. Clerks move between the stacks with the unhurried certainty of people who know exactly which shelf holds last Eptan's merchants and which drawer hides a diplomatic registration that someone will swear was never filed. Every corridor bends just enough that you cannot quite see the gate from where you stand, which, for a building whose entire purpose is remembering who crossed it, seems entirely deliberate.
 
-bq(in-world-document). _28th Eptan 4218 SC_<br>Sir [[:regnif-d-log | Regnif d'Log]] of Goatheim.<br>Diplomatic business.<br>Residence: Greysheath House, Ambassador Street.<br>Registered retainers: [[:marceline | Marceline]], household steward; [[:arouraios | Arouraios]], secretary and cartographer.<br>Arms: Quarterly, 1st and 4th Sable semé of bezants; 2nd and 3rd Or; overall a Sun Roc displayed, the body Argent, wings elevated and addorsed, every primary feather tipped Or, beaked and membered Or, langued Gules, grasping in the dexter talon a signet ring voided Or; overall an escutcheon of pretence Argent charged with two keys in saltire Gules.* *Supporters:* Two amphipteres erect, wings elevated Argent semé of bezants, bodies Vert, each gorged with a chain of bezants Or. *Motto:* _In Manibus Aureis_.<br>Stay extended on Lithran authority until formal conclusion of diplomatic business.
+h3. The Record
+The relevant record reads:
+
+bq(in-world-document). _28th Eptan 4218 SC_<br>Sir [[:regnif-d-log | Regnif d'Log]] of Goatheim. ()<br>Diplomatic business.<br>Residence: Greysheath House, Ambassador Street.<br>Registered retainers: [[:marceline | Marceline]], household steward; [[:arouraios | Arouraios]], secretary and cartographer.<br>Arms: Quarterly, 1st and 4th Sable semé of bezants; 2nd and 3rd Or; overall a Sun Roc displayed, the body Argent, wings elevated and addorsed, every primary feather tipped Or, beaked and membered Or, langued Gules, grasping in the dexter talon a signet ring voided Or; overall an escutcheon of pretence Argent charged with two keys in saltire Gules. *Supporters:* Two amphipteres erect, wings elevated Argent semé of bezants, bodies Vert, each gorged with a chain of bezants Or. *Motto:* _In Manibus Aureis_.<br>Stay extended on Lithran authority until formal conclusion of diplomatic business.<br>
+Sir Regnif d'Log : 4218·VII·032 — Stoic Sphynx : Diplomatic manifest; Greysheath House<br>
+Marceline (retainer) : 4218·VII·032 — Ardent Amphiptere : Bound to master serial; steward<br>
+Arouraios (retainer) : 4218·VII·032 — Laconic Amphiptere : Bound to master serial; secretary
+
+
+
 
 h2. Optional: Stake-out Ambassador Street
 
