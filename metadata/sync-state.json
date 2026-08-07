@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-08-07T16:00:14Z",
+  "last_git_publish": "2026-08-07T20:11:10Z",
   "last_portal_pull": "2026-08-07T20:09:17Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -578,8 +578,8 @@
       "op_kind": "Wiki",
       "op_slug": "sindrel",
       "op_updated_at": "2026-08-07T15:59:57Z",
-      "repo_blob_sha": "6a908852d271a39f626d017deb4bfdfedca9339b",
-      "repo_hash_at_sync": "e07ec62aa0c87220b167c698c22e4252e8e35c0b9fd09aef3e36fd250c20742c",
+      "repo_blob_sha": "a08e86d8c26b43228bebad2031aad55091bd02e5",
+      "repo_hash_at_sync": "bcbec8838f79a9d69a6ec0c061e1551f152a8c44771e67e40f16fc7610c057e5",
       "repo_path": "lore/wiki/wiki/sindrel.textile"
     },
     "4101f6ab35084d1e9b100cbb94da82cd": {
@@ -978,8 +978,8 @@
       "op_kind": "Wiki",
       "op_slug": "main-page",
       "op_updated_at": "2026-08-07T15:59:57Z",
-      "repo_blob_sha": "a32e57def5abdbc7c561d335600b7d42e2d0629c",
-      "repo_hash_at_sync": "335f6f85dea66e1d25dddd7bcc2ee13a96dfc3a7c5e807df5274ddc21ba64262",
+      "repo_blob_sha": "e1c87d5cbbf1f423d714f129f19af613b41d6091",
+      "repo_hash_at_sync": "39f870b0840ace91ee28bb473f7c5c9f63d3b138290489070033bf19b4210a1e",
       "repo_path": "lore/wiki/wiki/main-page.textile"
     },
     "6fa7cadf93784d9885bb792317fc8305": {
@@ -1227,8 +1227,8 @@
       "op_id": "97dafd48b49143e2acf1ceae5effc0a5",
       "op_kind": "Wiki",
       "op_slug": "the-bound-garden",
-      "op_updated_at": "2026-08-07T15:59:57Z",
-      "repo_blob_sha": "74da9813b3cb9730ab4c6b6c99e40e3cf0d89b1b",
+      "op_updated_at": "2026-08-07T20:10:49Z",
+      "repo_blob_sha": "f9d77b239ee445f96d39fe5dec51c68048b2a77a",
       "repo_hash_at_sync": "e73407ea8cc1b69aa2fe956204058473ecbde125333da64f2cb9a4b81a7e545a",
       "repo_path": "lore/wiki/wiki/the-bound-garden.textile"
     },
@@ -1408,7 +1408,7 @@
       "op_kind": "Character",
       "op_slug": "silas-oestra",
       "op_updated_at": "2026-08-07T15:59:57Z",
-      "repo_blob_sha": "ab3c6e6cda5d3f937546a1459d96c017b6f18339",
+      "repo_blob_sha": "efd137d4e3288d063155d4be5b3b31bc503b679f",
       "repo_hash_at_sync": "33ecb780d531292d28e5f9cc5ea703658de02ac41b2fdebea9cd86c8417cc266",
       "repo_path": "lore/characters/silas-oestra.textile"
     },
@@ -1488,8 +1488,8 @@
       "op_kind": "Wiki",
       "op_slug": "session-13-push-dont-knock",
       "op_updated_at": "2026-08-07T15:59:57Z",
-      "repo_blob_sha": "42735a7261714fc8ad52b11ceca00f4bb2b9abd9",
-      "repo_hash_at_sync": "8313e4b788b670f7c21dbaec2bd5756f1a48107830b5066d6ced094d6f43d98b",
+      "repo_blob_sha": "feab818805ad42a1b08d5fa7da74a76d63c2ad90",
+      "repo_hash_at_sync": "fe2979d9b69279a41be8e17f0c34578a5811203f959bd3634d4886a19a9b56a7",
       "repo_path": "lore/wiki/adventure-log/session-13-push-dont-knock.textile"
     },
     "ba04065d82a84b0bb7719d137b915843": {
@@ -1598,7 +1598,7 @@
       "op_kind": "Character",
       "op_slug": "kebi-neferu",
       "op_updated_at": "2026-08-07T15:59:09Z",
-      "repo_blob_sha": "794c7871b4ae35f2a93f3e4bac76d8305acb775d",
+      "repo_blob_sha": "80f6b7d5e5793548123160c397dd4465d3f2dfca",
       "repo_hash_at_sync": "246c5a56f2b9fb9b3553fd799fe97e52d42d2763b5c85729f11657279914f8dc",
       "repo_path": "lore/characters/kebi-neferu.textile"
     },
@@ -1837,8 +1837,8 @@
       "op_id": "e29c0674519f48e68f931ab80cac0f3a",
       "op_kind": "Wiki",
       "op_slug": "session-x-planning",
-      "op_updated_at": "2026-08-07T15:59:12Z",
-      "repo_blob_sha": "ced594d1932b98ed239c2dbd2c9a415533e3ddc4",
+      "op_updated_at": "2026-08-07T20:09:58Z",
+      "repo_blob_sha": "679943add54b8a0909e2534f6ddaa8499f725b8d",
       "repo_hash_at_sync": "07a7b7c60adb56b1458eb9b0626670c382ee1715523dd0f41a01f452679a6a47",
       "repo_path": "lore/wiki/adventure-log/session-x-planning.textile"
     },
