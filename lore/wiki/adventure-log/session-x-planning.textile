@@ -7,7 +7,7 @@ name: 'Session X: Planning'
 title: 'Session X: Planning'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-x-planning
 op_created_at: '2026-07-14T17:41:44Z'
-op_updated_at: '2026-07-22T17:22:44Z'
+op_updated_at: '2026-08-07T22:20:29Z'
 op_gm_only: true
 tags: []
 post_title: 'Session X: Planning'
@@ -51,25 +51,61 @@ Demeletas
 
 
 
-h3. The Record
-The relevant record reads:
-
-bq(in-world-document). _28th Eptan 4218 SC_<br>Sir [[:regnif-d-log | Regnif d'Log]] of Goatheim. ()<br>Diplomatic business.<br>Residence: Greysheath House, Ambassador Street.<br>Registered retainers: [[:marceline | Marceline]], household steward; [[:arouraios | Arouraios]], secretary and cartographer.<br>Arms: Quarterly, 1st and 4th Sable semé of bezants; 2nd and 3rd Or; overall a Sun Roc displayed, the body Argent, wings elevated and addorsed, every primary feather tipped Or, beaked and membered Or, langued Gules, grasping in the dexter talon a signet ring voided Or; overall an escutcheon of pretence Argent charged with two keys in saltire Gules. *Supporters:* Two amphipteres erect, wings elevated Argent semé of bezants, bodies Vert, each gorged with a chain of bezants Or. *Motto:* _In Manibus Aureis_.<br>Stay extended on Lithran authority until formal conclusion of diplomatic business.<br>
-Sir Regnif d'Log : 4218·VII·032 — Stoic Sphynx : Diplomatic manifest; Greysheath House<br>
-Marceline (retainer) : 4218·VII·032 — Ardent Amphiptere : Bound to master serial; steward<br>
-Arouraios (retainer) : 4218·VII·032 — Laconic Amphiptere : Bound to master serial; secretary
-
-
-
-
 
 h2. Confrontation at Ambassador Street
 
+[[File:1580321  | class=media-item-align-right | 800px | Town-House-in-Charles-Street.jpg]]
+[[File:1580322  | class=media-item-align-right | 800px | exec-d23bf9c5-dc83-44ed-9af3-be9f8ac93e4d.png]]
+
+h3. Inhabitants of Greysheath House
+
+* d'Log
+* Aurorious
+* Marceline
+* Harsa Nefer (she/her) (Human, forties, grey hair in a coil, Lithra grey livery, gold adjutant bracelet. Quiet, tired, professionally invisible.) Upstairs rooms, linens, fires, plate, keeping the kitchen and pantry vaguely in order.
+* Wahibre ten-Sutekh (he/him) (Dwarf, thirties, trimmed beard, same grey livery and bracelet. Polite, nervous, talks too much when frightened) Scullery, coal scuttles to the cellar hatch, boots and mud at the back stair, hauling trays when told.
+
 h3. Social stage
 
-TODO
+h4. Assuming a midnight entry
+
+* [[:regnif-d-log | D'log]] is asleep in the Boudoir (X)
+* [[:marceline | Marceline]] will answer the door, clearly tired but in control. If the Wonch present a sufficiently unarguable case, she will ultimately wake d'Log.
+
+h4. Once everyone is awake
+
+* If Marceline twigs that they're investigators, she'll start trying to deflect onto d'Log - "The master has been dispatching us on some strange errands lately."
+* Depending on the time of day, d'Log will entertain his guests either in the Morning Room (P), Library (V), or Drawing Room (Z). Wherever he is, the shutters will be closed.
+* d'Log will apologise for the cold, mentioning that he had the shutters installed to try and keep the house warm.
+* Marceline will take the first opportunity to alert [[:arouraios | Arauraios]] and trigger the burn plan.
+
+h3. Things to find
+
+* *Charcoal receipts / orders* 
+** d'Log signed, Marceline managed.
+** Genuine signatures. d'Log really thought the house was freezing. Supports gunpowder logistics without him understanding scale.
+* *Kelferria armour commission*
+** Marceline via d'Log's name
+** Forged signature on the armour order — d'Log has no memory of it. 
+** Samples = Sacrum kit + crude false Oestra crest plates
+* *Household ledgers / messages in d'Log's name*
+** Irregularities, errands, appointments he d'Log doesn't recognise or understand.
+* *Partially burned Oestra folder*
+** Marceline tried to destroy evidence
+** Behind the fire grate — Oestran crest visible; contents already gone (smuggled out with Georges/Jean). 
+** Shell proves Oestra theft happened; not the full Kosmios/Dockward intel.
+* *Aurorious's route book*
+** Easy navigation through the catacombs / other paths around the city.
 
 h3. The burn plan
+
+* Marceline draws a hand-crossbow and puts a bolt through d'Log's leg (opportunity, he's the closest target)
+* Araurious throws an incendiary. The room fills with smoke
+* They run, locking the door behind them, and seeding their path with more incendiaries.
+* The shutters are locked, as are the ones throughout the rest of the house.
+* Aurorious grabs his route book from its hiding place in the library (or wherever) and exits via the front door.
+* Marceline goes out via the hidden path in the store, leads into the basement of the next house over.
+* As soon as the party get out of the room, they hear screams from elsewhere in the house - the other two servants trapped by the fire and about to burn to death.
 
 Objectives:
 
@@ -90,12 +126,58 @@ At the breach, the stolen enchanted armour allows the Anathemists to enter the n
 
 Preferred default outcome: d'Log survives and is exposed as Goldfinger; the Wonch prove Marceline leads the cell; Arouraios is captured or loses his route book; Marceline escapes in false Oestra armour; the party sees her enter the Quarantine Zone and knows where the investigation ends. If Marceline is captured, honour that victory — Georges and Jean remain at large with the gunpowder, stolen intelligence, and Dockward operation.
 
+h2. The Quarantine Zone
+
+h3. Entrance from the Wallarch Breach
+
+bq). The iron boundary rises in a line too straight to be natural: black metal banded with bronze, ward-glyphs repeating at intervals no craftsman would choose without instruction, maintenance scaffolds clinging to the face like lichen on a wound that refuses to close.
+<br>
+Down a side street, around the back of a warehouse, through a gap between buildings that was never meant to be a path, gradually the crowded bustle of Wallarch fades into the background and you find your way to the  breach. A break in the wall, a narrow crack that runs vertically, a hair's breadth at the top, barely wider enough for a person at the base. It's a squeeze. Deathwalker needs to turn sideways.
+<br>
+On the other side, the Quarantine Zone stretches away. Deserted streets. Houses whose blank windows regard you like empty eye sockets. All shrouded in deathly silence. Nothing moves, not a bird, not a rat, not a single sign of life can be seen.
+<br>
+Standing within it, you understand why the Quarantine Zone is the stuff of horror stories and childish nightmares. The air has a weight to it - not heat, not cold, but pressure at the temples, as though the district ahead were watching you from directions geometry does not admit. Your skin registers it before your mind names it: a wrong place. A dead place.
+
+h3. Within
+
+bq). The further you go, the more the schizophrenic architecture of Sindrel gives way to an unfamiliar pattern. Dark stone and pointed arches, gargoyles worn smooth by centuries of bad weather and worse magic, skull motifs chosen with the restraint of people who thought they were being tasteful. Streets lie where they fell: courts, ossuary gates, memory-archives with their doors hanging open, hospitals and academies and civic halls all arranged with the terrible patience of a civilisation that believed death was a transition, not an ending.
+<br>
+That belief lingers in the stones. The Zone feels less abandoned than unresolved — as though someone left in the middle of a sentence and the punctuation never arrived. In places the necromantic residue is visible: a faint glow on lintels, frost that is not cold, dust that arranges itself into ridges no wind could have made.
+<br>
+Somewhere ahead — at the heart of the wound, where the public story says the [[The Eighth House | Eighth House]] died — the architecture grows denser, more deliberate, more official. If the Zone is a scar, that is the place the blade went deepest.
+
+Wisdom check - the thing you _should_ be seeing but aren't. Every detail of the quarantine zone remains as it was left in a single instant (the food has desiccated rather than rotting - not even bacteria lives here). But there are no bodies.
+
 h2. The Sacrum
+
+
+bq). You know the building before anyone names it. The Sacrum.
+<br>
+It sits at the centre of the Quarantine Zone like a verdict - flying buttresses of black stone, pointed arches stacked upon pointed arches, gargoyles festoon the lintels. Skull motifs here are not decoration; they are punctuation. A grand sprawling mass of halls, archives, and spires.
+<br>
+The doors are grand. The windows are narrow.. No lamp burns at the entrance. The Sacrum is dark, and cold, and hungry.
+
+
+h3. Interior
+
+bq). The air is dry and colder than the Zone outside — preserved, not fresh. Corridors branch into memorial galleries where niches wait in ranks, not the compact alcoves of the catacombs but spaces in which a full skeleton could stand. Floors are black polished stone. Vaulting draws the eye upward into shadow, then denies it a resting place. Every room feels like the antechamber to a larger grief.
+<br>
+There is no bustle of a living headquarters — no clerks, no petitioners, no polite necromantic commerce. What remains is worse than emptiness: the sense of duties half-finished. The necromantic pressure is strongest here — not the diffuse wrongness of the streets, but a focused weight, as though the building itself were still trying to complete a ritual interrupted a thousand years ago.
 
 The party will need magical protection to get here. Luckily, Kelferria has plenty to hand.
 
 TODO: description of the Sacrum
 TODO: the rest of the tunnels to reach it (if the party go that way).
+
+Things to find:
+* The Anathemists have been busy, constructing a lot of explosives. The 12 at the fulcrum were merely an opening salvo, they're planning to bring down dockward.
+* Nielsenn's corpse, casually tossed aside. His spirit will be nearby, and can share his side of the story.
+* Whoever got here will have called in reinforcements - the merchants will be here, armed and ready for a fight.
+* The anathemists will get some villain monologueing, decrying the rot of sindrel and the eveil machinations of house Oestra.
+
+h2. Wrap up
+
+The anathemists are captured, but we still don't know exactly what went down. Luckily we're pretty sure it involves house Oestra, and probably Silas.
 
 
 h2. Consequences of Handing the Sigil to The Black Cats
@@ -108,7 +190,31 @@ What's going on with her off-screen? What does getting help from the houses of h
 
 h2. The Bonded Garden
 
-Potential lead the party might follow before talking to Silas.
+bq). The Canted Terrace does not announce itself. It sidesteps.
+<br>
+The walk up is all polished steps and iron lamps, ceremonial gutters, and carved stonework. The district sits high enough to be respectable and at an angle to everything fashionable - walled, screened, and spoken of in the careful tones people use for places they are not supposed to enjoy looking at. Coachmen know the routes. Factors mention addresses without blushing. Merrylane, somewhere beyond the sightline tricks, pretends not to know which way you turned.
+<br>
+Incense reaches you before the name does - amber, musk, something sweet enough to make you forget what quarter you are in. Then the sign: modest on purpose, gilt on black lacquer. The Bound Garden. Beneath it, in smaller script: Private Repose. By Introduction.
+<br>
+No painted nymphs. No winking cherubs. Only a pierced bronze screen set into the facade, and lamplight falling through arabesque cutouts to spill across the Terrace walk in patterns too pretty to be innocent. Black marble steps. Gold-threaded tiles glimpsed through smoke-coloured veils. 
+
+At the door: if they have no introduction, an attendant may appear behind the screen — flawless, unhurried, attentive in a way that feels less like service and more like being seen through. Discreet admission is introduction, House credit, or a vouched name.
+
+Optional one-liner if someone asks what kind of place it is: "The sort of club respectable people call a club, and everyone else calls none of their business."
+
+bq). The door admits you into warmth that has been arranged, not accumulated.
+<br>
+Incense first - amber, musk, sweetness. Pierced screens throw latticed shadow across black polished floors. Through them you can see a suggestion of bodies moving in a smoky haze - never glimpsed clearly, always tantalisingly vague. Lamplight is low and deliberate. Gold filigree catches on every latch, every hinge, every frame — nothing shabby, nothing hurried, nothing that looks as though it has ever been surprised by a guest.
+<br>
+Attendants appear when needed and never when they are not: flawless, unhurried, attentive in a way that feels less like service and more like being seen through. Their smiles are perfect. Their silence is professional.
+<br>
+The rooms open off the corridor like small palaces - cushions piled in calculated disorder, low lamps, reflecting pools no larger than a washbasin, veils of smoke-coloured silk drawn against walls. Somewhere deeper in the building, very faintly, you catch the suggestion of music, as if someone had remembered that pleasure ought to have a soundtrack.
+<br>
+If you ever saw a price list, it would be written in the same calm hand as a summoning contract. The Bound Garden sells discretion the way other houses sell wine: expensively, and with the unspoken understanding that you are not to ask what happens in the cellar when the last lamp goes out.
+
+Potential lead the party might follow before talking to Silas. The Bonded Garden summons Succubi to fulfil its clients' desires.
+
+If the party decide to go this way, they can get some embarrassing information on Silas. Rather than any sexual proclivities, it's even more embarrassing. He exclusively requested the demon to appear in the form of his father, playing out a series of scenarios where he succeeds in winning his father's admiration. His final visit turned violent - a fencing match he was scripted to win became heated and he ended up attempting to kill the image of Lord Oestra.
 
 
 h2. The Summons
