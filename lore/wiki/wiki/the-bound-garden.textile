@@ -37,7 +37,7 @@ h2. Reputation
 
 <div class="op-footnotes">
 
-fn1. [[Session 13: Push, Don't Knock | Session 13: Push, Don't Knock]] — [[:sable-silvestre | Sable Silvestre]]'s intelligence on [[:silas-oestra | Silas Oestra]].
+fn1. [[Session 13: Push, Don''t Knock | Session 13: Push, Don''t Knock]] — [[:sable-silvestre | Sable Silvestre]]'s intelligence on [[:silas-oestra | Silas Oestra]].
 
 </div>
 

@@ -18,30 +18,97 @@ Notes: This page is for future planning and will never be published.
 
 h2. Structure
 
-* Info from the black cats
-** Optional: Interview Chuggaz
-** Takeaways:
-*** d'Log's crest.
-*** Anathemist base on ambassador street - precise address unknown.
-*** Anathemist-used cart in Meness impound.
-*** Cats not directly involved in Anathemist sabotage.
-* Optional: Lithra Records Office
-** d'Log name, precise address
-** Potentially: identify the merchants
-* Optional: Stake-out Ambassador Street
-* Confrontation at Ambassador Street
-** Setup - The shutters on most windows are closed (and locked) - d'Log believes this is his idea - an attempt to trap heat.
-** Respectibility - Marceline and Arouraios will deflect, claiming to have carried messages and run errands for d'Log without knowing what was in them. This is backed up by orders for large quantities of charcoal and armour in d'Log's name. d'Log claims innocence. As a precaution, Marceline and Arouraios will close any open shutters.
-*** Charcoal orders - genuine, signed by d'Log. He genuinely just thought the house was unusually cold and doesn't really know how much is used.
-*** Armour order - d'Log's signature is a forgery, he has no idea about its existence.
-*** A document folder with the Oestra crest, partially burned, fallen down behind the fire grate. The documents are long gone, smuggled out of the city by the merchants, and Marceline attempted to destroy the incriminating folder.
-*** Arouraios's maps of the catacombs - coded, not immediately obvious for what they are.
-** Burn Plan - once social evasion fails, Marceline activates the burn plan.
-*** Aurorious positions himself near the door
-*** Marceline attempts to shoot d'Log with a wrist crossbow - succeeds in incapacitating him (arrow to the knee?).
-*** Aurorious detonates incendiaries from his position, then leavs and locks the door - attempt to burn down the house and any evidence left therein. Rapidly fills the space with smoke.
-*** The shutters and doors are locked - the servants, d'Log, and party are in danger of burning to death.
-*** Mareceline has an escape route in the cellar - they've excavated a tunnel that connects to the catacombs.
+Events (ordering depends on party decisions)
+
+* *Letter from Seer Demeletas* Setting up a date with Deathwalker.
+* *The Summons* Showdown with Silas
+* *Confrontation at Ambassador Street* Marceline (or whoever) escapes, makes their way to the Sacrum.
+* *Acquiring Protection* Kelferiia (or another route) provides the magical protection necessary to enter the quarantine zone
+* *Journey to the Sacrum* Either via the Wallarch Breach, or through the catacombs. Marceline took the catacombs route.
+* *The Bonded Garden* If the party want even more leverage before they go to Silas
+
+h2. A Letter from Demeletas
+
+bq(in-world-document). You smiled as though the future were foreseen —<br>
+Not mine to give, and yet I did not mind.<br>
+I am not won by courtly art, but lean<br>
+Toward candour, and a wit that does not hide.
+<br>
+On thirty-third Enean, when dusk has passed its prime,<br>
+Come to the Pythiol, by the upper stair;<br>
+A private chamber I have, dim lamps lamps and bread and wine,<br>
+And no one else required to witness there.
+<br>
+No one shall meet you at the seers door;<br>
+Within, all waits — the wine, the bread, the light.<br>
+It seems a closed door never long keeps more<br>
+Than passing trouble for you — push tonight.<br>
+<br>
+I shall be hungry for your company,<br>
+And pleased to find you difficult to ignore.
+<br>
+Demeletas
+
+
+
+h3. The Record
+The relevant record reads:
+
+bq(in-world-document). _28th Eptan 4218 SC_<br>Sir [[:regnif-d-log | Regnif d'Log]] of Goatheim. ()<br>Diplomatic business.<br>Residence: Greysheath House, Ambassador Street.<br>Registered retainers: [[:marceline | Marceline]], household steward; [[:arouraios | Arouraios]], secretary and cartographer.<br>Arms: Quarterly, 1st and 4th Sable semé of bezants; 2nd and 3rd Or; overall a Sun Roc displayed, the body Argent, wings elevated and addorsed, every primary feather tipped Or, beaked and membered Or, langued Gules, grasping in the dexter talon a signet ring voided Or; overall an escutcheon of pretence Argent charged with two keys in saltire Gules. *Supporters:* Two amphipteres erect, wings elevated Argent semé of bezants, bodies Vert, each gorged with a chain of bezants Or. *Motto:* _In Manibus Aureis_.<br>Stay extended on Lithran authority until formal conclusion of diplomatic business.<br>
+Sir Regnif d'Log : 4218·VII·032 — Stoic Sphynx : Diplomatic manifest; Greysheath House<br>
+Marceline (retainer) : 4218·VII·032 — Ardent Amphiptere : Bound to master serial; steward<br>
+Arouraios (retainer) : 4218·VII·032 — Laconic Amphiptere : Bound to master serial; secretary
+
+
+
+
+
+h2. Confrontation at Ambassador Street
+
+h3. Social stage
+
+TODO
+
+h3. The burn plan
+
+Objectives:
+
+* Save d'Log, whom Marceline intends to leave as the dead mastermind.
+* Preserve the household ledgers, Kelferria commission, charcoal receipts, Silas's stolen papers, or evidence of the Dockward plan.
+* Capture Arouraios and his route book.
+* Pursue Marceline (see below).
+* Protect servants, neighbours, or others endangered by the fire and structural damage.
+* Escape with their own lives
+
+h4. Pursue Marceline
+
+If pursued, run a short chase through Ambassador Street's service passages, [[Merrylane | Merrylane]] Park, into the Merrylane Osteomantic Archive, and through the catacombs.
+
+Two pieces of enchanted armour is stashed by the Wallarch breach (the ones typically used by the Bears). Marceline and Aurorious's pieces were stashed on the catacomb route from the Merrylane Osteomantic Archive.
+
+At the breach, the stolen enchanted armour allows the Anathemists to enter the necromantic contamination. The Wonch can follow immediately at considerable risk or withdraw to obtain protection, information, and reinforcements. The radiation should be a dangerous, telegraphed obstacle rather than an absolute barrier.
+
+Preferred default outcome: d'Log survives and is exposed as Goldfinger; the Wonch prove Marceline leads the cell; Arouraios is captured or loses his route book; Marceline escapes in false Oestra armour; the party sees her enter the Quarantine Zone and knows where the investigation ends. If Marceline is captured, honour that victory — Georges and Jean remain at large with the gunpowder, stolen intelligence, and Dockward operation.
+
+h2. The Sacrum
+
+The party will need magical protection to get here. Luckily, Kelferria has plenty to hand.
+
+TODO: description of the Sacrum
+TODO: the rest of the tunnels to reach it (if the party go that way).
+
+
+h2. Consequences of Handing the Sigil to The Black Cats
+
+Nothing immediate, the cats will beginning attempting to utilise it leading to an increase in reports of hauntings and other spookies.
+
+h2. Dulcinia
+
+What's going on with her off-screen? What does getting help from the houses of healing actually entail? Probably not a one-and-done, magical sustain of life - she's tied to sindrel.
+
+h2. The Bonded Garden
+
+Potential lead the party might follow before talking to Silas.
 
 
 h2. The Summons
@@ -104,142 +171,3 @@ You see Locke stiffen. An odd expression passes across Silas's face for a second
 You will investigate criminals, smugglers, the sort of vermin who nest in  [[The Wallarch District | Wallarch]] dives. That is useful work. Breaking archive seals and bullying armourers is not investigation. It is **harassment**, and I will not have it recorded that House Oestra tolerated it.
 <br>
 Any further transgression of your bounds will be treated as an attack against the city, is that understood?"
-
-h2. Info from the Black Cats
-
-_Sable honours the bargain at the start of Session 13 — she already has the slashed sigil parchment. Delivery is calm, transactional, and still withholding syndicate truth unless the party Insight-checks or presses hard._
-
-h3. Opening — honouring the bargain
-
-bq). "We had an arrangement. You delivered on your side - dramatically, but adequately. I'll perform mine."
-<br>
-"Ask your questions. I'll answer the ones you've paid for."
-
-h3. The cart crew
-
-bq). "A few months ago a crew muscled in on the garbage trade down here. Aggressive, well funded. They beat a small-time pusher off his route, took his cart, started buying information - routes, servant's gates, house properties. The sort of questions you ask when you mean to get in somewhere you're not invited.
-<br>
-We watched them, or tried to, assuming they were trying to set themselves up as a rival concern. But they didn't seem to have any interest in expansion, or going after big scores.
-<br>
-Then the Fulcrum went up, and they just...up and left. Ditched the cart near the Quarantine Wall breach, (curse them for that, Hielaman's lot got it before we did) and they haven't been seen since. That's when we got wind of the potential saboteur angle and working backwards from what we knew of their movements, the pattern wasn't hard to find even with our patchy record of their movements - they always seemed to be in the area whenever the Houses had one of their little mishaps."
-
-h3. The Bears, the Weasel, the Snake
-
-bq). "Four that we know of.
-<br>
-"The bulk of their work down here was two men, both with pale skin and dark hair and beards. The nicknamed them *the Bears* - one large, one smaller, both dangerous. They ran the cart, did the violence and heavy lifting. Merchants by day, if you can trust our tails reports. Haven't been seen in Wallarch since the bombing. Best guess is they left the city.
-<br>
-"Then there's *The Weasel* - dark hair, little glasses, neat beard. Soft hands and Ink stains so probably educated. If you believe the Scratch we had watching, he seemed to know the back alleys and snickleways almost as well as a local. Annoying at evasion, but we didn't see any violence out of him. Decent at disguise too, never seemed out of place
-<br>
-"Last up *The Snake* - grey hair, scarred cheek. Fancy foreign clothes with an out-of-town crest. Not courtly fancy, but fancy. The Bears deferred to her in conversation. We tailed her as far as Ambassador Street, couldn't be more precise than that, we don't work the upper districts often so for Scratches it's harder to move around up there. Rare sightings this past month." She taps the ledger cover once. "Coordinator, I suspect. Not hired muscle."
-
-
-h3. The Cart
-
-bq). "Captain Hielaman has not looked closely yet. He has larger fires. When he does look —" she meets your eyes, quiet and flat — "he may find compartments we use for other business. Not theirs. Ours. I mention it because your investigation and his curiosity are on converging paths, and I would prefer they didn't."
-
-_If asked what's in the cart:_ bold-faced mode from Session 12.
-
-bq). "Nothing that concerns your bombing. The important aspect is the _fact_ of their existence - we would prefer the Captain not go looking for similar features on the _active_ carts."
-
-h3. The tail mystery
-
-bq). "We put Scratches on the heavy men — the ones doing the lifting. Feckless work, by their own admission. They frequently lost their quarry, or swore blind that they'd left the district only to have them turn up like a bad penny in the heart of our territory within hours. At least when they were using that cart that was too large to lose sight of.
-<br>
-"I reprimanded the tails. Incompetence is, sadly, common, but I refuse to pay for useless eyes."
-
-
-h3. If asked about d'Log or Nielsenn:
-
-bq). "Never saw the lord. Never saw a Nielsenn. The Snake was the face we got."
-
-h3. Chuggaz
-
-bq). "He's a contact. Drinks here sometimes. Knows the service routes. He's done the occasional discrete favour for us, which is what he expected you lot to be after him for. Arrived in something of a panic. I'll have him summoned if you wish, or can take my word for what he knows about the matter."
-
-_DC 14 Insight:_ still holding back *Latch* and *Vault*. She does not break eye contact.
-
-h4. Chuggaz according to Sable
-
-bq). "He reported two men. One large, one wiry. Servants' door at the [[The Fulcrum | Fulcrum]]. In and out again, short interval. Clothes right for the tunnels, faces wrong — not staff he knew, and he knows most of them. At the time he assumed they were ours, just not his department."
-<br>
-"When the bomb went off, he ran. So would you."
-
-
-
-h3. Conclusion
-
-bq). "The descriptions were the price for your...artwork. The cart is still on Hielaman's desk. That problem remains."
-<br>
-"Get it off his board. Steal it back. Bury the examination. Bring me something that makes him look elsewhere." She folds her hands. "Or don't. We've concluded our transaction. The next one is separate."
-
-
-h3. Chuggaz's Tale
-
-Chuggaz was coordinating a few Scratches who were lifting some shiny from the distracted (and inebriated) gentility. His position at the Roster Desk meant that he could fudge paperwork and obfuscate logs to hide their movements. His biggest job was editing the waste manifests to cover a few additional carts - Cats-operated outfits providing a way to smuggle out purloined goods. He will be _very_ evasive. Nans saw him paying off the night clerk - the man should have been his replacement but Chuggaz suggested he have a night off.
-
-* He wasn't aware of any bombing plot.
-* He did see two men, one large, one wiry, enter via the servant's door, then leave the same way a short time later. Not servants he recognised (and he knows most people), but dressed in servants clothes. At the time he assumed they were part of the Cats operation (he's aware that there were efforts to get more access for latches going on, not his department).
-* When the bomb went off, he fled the tunnels immediately.
-
-Potential routes from here:
-
-# Lithra gate records — cross-reference wealthy arrivals given a more complete description from the Black Cats (d'Log, merchant pair 25th Enean).
-# Follow the Snake - stakeout / polite call at [[:regnif-d-log | d'Log]]'s townhouse on Ambassador Street.
-# Meness impound - gain access to the cart. Physical evidence of bomb components, plus the Black Cats smuggling system. Option of doing as the Cats requested for additional leverage, or sharing info with [[:hielaman | Hielaman]].
-# [[:gillette-quill | Gillette]] / [[:raymond-quill | Ray]] — may seek the party at [[Radwasp House | Radwasp House]] after Silrie's intervention.
-
-h2. Optional Lithra Records Office
-
-bq). The Records Office crouches beside the gate like a clerk who has insisted on a throne - modest by Sindrel's standards, which is to say absurdly grand by the standards of anywhere else. Warm grey stone rises in paired pylons flanking a shallow portico; beyond them, slender columns stand close together, their capitals carved into closed buds and reeds that some long-dead architect clearly thought were subtle. The building is seamless Sindrel stonework, as though the city simply decided one morning that there ought to be a hypostyle hall here and grew one. Ash, slate, and smoke-grey dominate, with silver filigree at the lintels and the occasional thread of muted gold or deep blue stone set into the threshold like a hint rather than a boast. High above the doors, the House eye is worked into a clerestory grille in a shape you might mistake for decoration — until you notice it is looking directly down at everyone who passes the gate.
-
-
-bq). Inside, the office feels less like a fortress and more like a library that has taken itself very seriously. The air is dry and warmer than the mountain climate warrants; the light falls in careful bands from high windows, and the silence has that particular quality of a place where people are expected to read rather than talk. Floor to ceiling, grey stone shelves line the walls in ordered ranks, each bay stacked with ledgers, manifests, and bound registers — the comings and goings of Sindrel reduced to ink and paper: names, dates, declared business, retainer lists, and the serial numbers of silver guest bracelets that mark how long a visitor may remain. Clerks move between the stacks with the unhurried certainty of people who know exactly which shelf holds last Eptan's merchants and which drawer hides a diplomatic registration that someone will swear was never filed. Every corridor bends just enough that you cannot quite see the gate from where you stand, which, for a building whose entire purpose is remembering who crossed it, seems entirely deliberate.
-
-h3. The Record
-The relevant record reads:
-
-bq(in-world-document). _28th Eptan 4218 SC_<br>Sir [[:regnif-d-log | Regnif d'Log]] of Goatheim. ()<br>Diplomatic business.<br>Residence: Greysheath House, Ambassador Street.<br>Registered retainers: [[:marceline | Marceline]], household steward; [[:arouraios | Arouraios]], secretary and cartographer.<br>Arms: Quarterly, 1st and 4th Sable semé of bezants; 2nd and 3rd Or; overall a Sun Roc displayed, the body Argent, wings elevated and addorsed, every primary feather tipped Or, beaked and membered Or, langued Gules, grasping in the dexter talon a signet ring voided Or; overall an escutcheon of pretence Argent charged with two keys in saltire Gules. *Supporters:* Two amphipteres erect, wings elevated Argent semé of bezants, bodies Vert, each gorged with a chain of bezants Or. *Motto:* _In Manibus Aureis_.<br>Stay extended on Lithran authority until formal conclusion of diplomatic business.<br>
-Sir Regnif d'Log : 4218·VII·032 — Stoic Sphynx : Diplomatic manifest; Greysheath House<br>
-Marceline (retainer) : 4218·VII·032 — Ardent Amphiptere : Bound to master serial; steward<br>
-Arouraios (retainer) : 4218·VII·032 — Laconic Amphiptere : Bound to master serial; secretary
-
-
-
-
-h2. Optional: Stake-out Ambassador Street
-
-h2. Confrontation at Ambassador Street
-
-h3. Social stage
-
-TODO
-
-h3. The burn plan
-
-Objectives:
-
-* Save d'Log, whom Marceline intends to leave as the dead mastermind.
-* Preserve the household ledgers, Kelferria commission, charcoal receipts, Silas's stolen papers, or evidence of the Dockward plan.
-* Capture Arouraios and his route book.
-* Pursue Marceline (see below).
-* Protect servants, neighbours, or others endangered by the fire and structural damage.
-* Escape with their own lives
-
-h4. Pursue Marceline
-
-If pursued, run a short chase through Ambassador Street's service passages, [[Merrylane | Merrylane]] Park, into the Merrylane Osteomantic Archive, and through the catacombs.
-
-Two pieces of enchanted armour is stashed by the Wallarch breach (the ones typically used by the Bears). Marceline and Aurorious's pieces were stashed on the catacomb route from the Merrylane Osteomantic Archive.
-
-At the breach, the stolen enchanted armour allows the Anathemists to enter the necromantic contamination. The Wonch can follow immediately at considerable risk or withdraw to obtain protection, information, and reinforcements. The radiation should be a dangerous, telegraphed obstacle rather than an absolute barrier.
-
-Preferred default outcome: d'Log survives and is exposed as Goldfinger; the Wonch prove Marceline leads the cell; Arouraios is captured or loses his route book; Marceline escapes in false Oestra armour; the party sees her enter the Quarantine Zone and knows where the investigation ends. If Marceline is captured, honour that victory — Georges and Jean remain at large with the gunpowder, stolen intelligence, and Dockward operation.
-
-h2. Consequences of Handing the Sigil to The Black Cats
-
-Nothing immediate, the cats will beginning attempting to utilise it leading to an increase in reports of hauntings and other spookies.
-
-h2. Dulcinia
-
-What's going on with her off-screen? What does getting help from the houses of healing actually entail? Probably not a one-and-done, magical sustain of life - she's tied to sindrel.
