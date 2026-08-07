@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-07-22T07:41:02Z",
+  "last_git_publish": "2026-08-07T16:00:14Z",
   "last_portal_pull": "2026-08-07T15:26:44Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -337,9 +337,9 @@
       "op_id": "1f1dcd47ef314d36b701fced4db451c8",
       "op_kind": "Character",
       "op_slug": "alandria",
-      "op_updated_at": "2026-07-14T10:38:39Z",
-      "repo_blob_sha": "65a3ddbf37f4ea8bf86c259593056a79b39b8b33",
-      "repo_hash_at_sync": "518d5bf1a3fa5da3a9e55af2d185068905e35e84374b693e9b43898ab91847f8",
+      "op_updated_at": "2026-08-07T15:58:34Z",
+      "repo_blob_sha": "fa010b9ad7058229ef1690093c131c5362955074",
+      "repo_hash_at_sync": "4eb4a1326a95c5493f03cb5a7a02578d43a5c872155d331e1fe9b1d1c0ce045d",
       "repo_path": "lore/characters/alandria.textile"
     },
     "1fa4c6baa1344fd2860a41f7c01e76c9": {
@@ -467,9 +467,9 @@
       "op_id": "2ef9ed585eb74ad39950b46b2f0a0b4d",
       "op_kind": "Character",
       "op_slug": "emissary-halan",
-      "op_updated_at": "2026-07-14T10:39:09Z",
-      "repo_blob_sha": "6e6c9e2e32f2121f7a1c71061f39188ef21e73ee",
-      "repo_hash_at_sync": "b41ac6bfae76d0234133400c81e2ca09e414977bb07038145462ced6a3eac164",
+      "op_updated_at": "2026-08-07T15:58:41Z",
+      "repo_blob_sha": "e20e51e1307ee1d4571053a028a4b87bdba81ddb",
+      "repo_hash_at_sync": "db1d82accb60972ae10781c7cad219fabbbbc2bb12ea9156000884df56566cf9",
       "repo_path": "lore/characters/emissary-halan.textile"
     },
     "2f8ab8860d5b4c71ab03586e2a1cb65d": {
@@ -577,8 +577,8 @@
       "op_id": "3dd6af69d11e4345a987028922d1e974",
       "op_kind": "Wiki",
       "op_slug": "sindrel",
-      "op_updated_at": "2026-07-22T07:38:53Z",
-      "repo_blob_sha": "74024cea8754fce8491f3b627242439321f66015",
+      "op_updated_at": "2026-08-07T15:59:50Z",
+      "repo_blob_sha": "6a908852d271a39f626d017deb4bfdfedca9339b",
       "repo_hash_at_sync": "bcbec8838f79a9d69a6ec0c061e1551f152a8c44771e67e40f16fc7610c057e5",
       "repo_path": "lore/wiki/wiki/sindrel.textile"
     },
@@ -877,9 +877,9 @@
       "op_id": "657d7e6dbdff4d64a475ef9de389e8b2",
       "op_kind": "Wiki",
       "op_slug": "the-canted-terrace",
-      "op_updated_at": "2026-06-26T21:28:14Z",
-      "repo_blob_sha": "8372dde14cdae9ff6408f6d8ab383457d449b31c",
-      "repo_hash_at_sync": "9bf70d72b3b5b426d0b0f3b4ba19233f3b82d076668964a0218fc7a4953c7f3f",
+      "op_updated_at": "2026-08-07T15:59:58Z",
+      "repo_blob_sha": "ee6585c8a9b11c86fa8b5d26fc5c5633c0149763",
+      "repo_hash_at_sync": "4b7cf56f712e495ddf223710105cacf66706d9a01f9b0b9f85faf96e1ccf9c5a",
       "repo_path": "lore/wiki/wiki/the-canted-terrace.textile"
     },
     "65fe644e7b0e4ed0ac5a4469601a8f73": {
@@ -977,8 +977,8 @@
       "op_id": "6f9dfa0ebbf147a791ed50efe8aceb19",
       "op_kind": "Wiki",
       "op_slug": "main-page",
-      "op_updated_at": "2026-07-08T12:36:48Z",
-      "repo_blob_sha": "87bde971325d806441c169e558360033340bbb3c",
+      "op_updated_at": "2026-08-07T15:59:34Z",
+      "repo_blob_sha": "a32e57def5abdbc7c561d335600b7d42e2d0629c",
       "repo_hash_at_sync": "39f870b0840ace91ee28bb473f7c5c9f63d3b138290489070033bf19b4210a1e",
       "repo_path": "lore/wiki/wiki/main-page.textile"
     },
@@ -1087,8 +1087,8 @@
       "op_id": "7d77af4f53574b049e98cd0a3784f6af",
       "op_kind": "Character",
       "op_slug": "nakoma-deathwalker-mor-got-ha",
-      "op_updated_at": "2026-07-22T17:20:58Z",
-      "repo_blob_sha": "5d3577e144fd07b879ef050bfeed8a86357680bf",
+      "op_updated_at": "2026-08-07T15:58:53Z",
+      "repo_blob_sha": "46c2641e7ccb4e1c212bc2e401eee946eae88c1d",
       "repo_hash_at_sync": "c8c717c14e761d64d4b4eda00d9cad208fd96be75dc637bae65f9708aad91cbe",
       "repo_path": "lore/characters/nakoma-deathwalker-mor-got-ha.textile"
     },
@@ -1221,6 +1221,16 @@
       "repo_blob_sha": "7a84df6cd1870e442e88ce91d122851889f08850",
       "repo_hash_at_sync": "89741ac2091f69ec227f01d7051f415d56e7b7ae393332844a80dbd7bbc3f31e",
       "repo_path": "lore/wiki/wiki/private-warwicks-report.textile"
+    },
+    "97dafd48b49143e2acf1ceae5effc0a5": {
+      "last_synced_title": "The Bound Garden",
+      "op_id": "97dafd48b49143e2acf1ceae5effc0a5",
+      "op_kind": "Wiki",
+      "op_slug": "the-bound-garden",
+      "op_updated_at": "2026-08-07T15:59:57Z",
+      "repo_blob_sha": "74da9813b3cb9730ab4c6b6c99e40e3cf0d89b1b",
+      "repo_hash_at_sync": "e73407ea8cc1b69aa2fe956204058473ecbde125333da64f2cb9a4b81a7e545a",
+      "repo_path": "lore/wiki/wiki/the-bound-garden.textile"
     },
     "9915ce65e3cb41caacd36bafb491a11a": {
       "last_synced_title": "Celebrant",
@@ -1397,9 +1407,9 @@
       "op_id": "b5169502faac497fb610e7d86f095561",
       "op_kind": "Character",
       "op_slug": "silas-oestra",
-      "op_updated_at": "2026-07-17T07:58:32Z",
-      "repo_blob_sha": "a85568c1c701b5143f94d01446a73286b187c606",
-      "repo_hash_at_sync": "e8aa3e62163e73385911f1f335d1dd26920984d042d28d852dd2e547758cf4d9",
+      "op_updated_at": "2026-08-07T15:59:01Z",
+      "repo_blob_sha": "ab3c6e6cda5d3f937546a1459d96c017b6f18339",
+      "repo_hash_at_sync": "33ecb780d531292d28e5f9cc5ea703658de02ac41b2fdebea9cd86c8417cc266",
       "repo_path": "lore/characters/silas-oestra.textile"
     },
     "b5905d329c974734a0bf65293f730993": {
@@ -1471,6 +1481,16 @@
       "repo_blob_sha": "ecf83a5e870e01ffc99904b73f05e7b17b96bf7b",
       "repo_hash_at_sync": "4b80022bf9c64325e4400fce77e6bd2dc4cf672553d699e8b1a279817d3d0bc7",
       "repo_path": "lore/characters/georges-de-selve.textile"
+    },
+    "b9f6f920b1ca4174a771aa4a2c753b9e": {
+      "last_synced_title": "Session 13: Push, Don't Knock",
+      "op_id": "b9f6f920b1ca4174a771aa4a2c753b9e",
+      "op_kind": "Wiki",
+      "op_slug": "session-13-push-dont-knock",
+      "op_updated_at": "2026-08-07T15:59:09Z",
+      "repo_blob_sha": "7712dd1656fc07423780faffeedd98143ad72d18",
+      "repo_hash_at_sync": "fe2979d9b69279a41be8e17f0c34578a5811203f959bd3634d4886a19a9b56a7",
+      "repo_path": "lore/wiki/adventure-log/session-13-push-dont-knock.textile"
     },
     "ba04065d82a84b0bb7719d137b915843": {
       "last_synced_title": "Oakhaven",
@@ -1571,6 +1591,16 @@
       "repo_blob_sha": "65570a58d190d9b0b8342aaa630970a3c2ffadf7",
       "repo_hash_at_sync": "883dbeb974dc898d443bab0812af5ab325da91046eb5590d8703b3fa934281dd",
       "repo_path": "lore/characters/emissary-isius.textile"
+    },
+    "c25de3ca664d45faa53636a3a393b7cc": {
+      "last_synced_title": "Kebi Neferu",
+      "op_id": "c25de3ca664d45faa53636a3a393b7cc",
+      "op_kind": "Character",
+      "op_slug": "kebi-neferu",
+      "op_updated_at": "2026-08-07T15:58:49Z",
+      "repo_blob_sha": "e614edf9f421385fab24c29d3b1958fdf6250c2e",
+      "repo_hash_at_sync": "246c5a56f2b9fb9b3553fd799fe97e52d42d2763b5c85729f11657279914f8dc",
+      "repo_path": "lore/characters/kebi-neferu.textile"
     },
     "c2ad5441db234ff29d569bdfc08f9d8d": {
       "last_synced_title": "Granary Ward",
@@ -1797,9 +1827,9 @@
       "op_id": "e12cd3da90b44b63a004da5715927ff5",
       "op_kind": "Character",
       "op_slug": "hielaman",
-      "op_updated_at": "2026-07-14T10:39:19Z",
-      "repo_blob_sha": "bedbf4926028393596986bfd4d1a5bed48e9feac",
-      "repo_hash_at_sync": "e138bc78283e8cab3050ea1115b22aa3ec892cbca7c78f3f0505873bb0be2cde",
+      "op_updated_at": "2026-08-07T15:58:46Z",
+      "repo_blob_sha": "400fbce8f942dc9f51e87ec67e0f1c325964e112",
+      "repo_hash_at_sync": "57c936551a97017eb8b44e158a4235185966651cf7401d88bd749b81b9d4a701",
       "repo_path": "lore/characters/hielaman.textile"
     },
     "e29c0674519f48e68f931ab80cac0f3a": {
@@ -1807,9 +1837,9 @@
       "op_id": "e29c0674519f48e68f931ab80cac0f3a",
       "op_kind": "Wiki",
       "op_slug": "session-x-planning",
-      "op_updated_at": "2026-07-22T17:22:44Z",
-      "repo_blob_sha": "cb3168ff1919673b59a3456afe654819e2563a61",
-      "repo_hash_at_sync": "b76733a5ef9bbffbab71d721fdd7d546394e8cc5cd43cdf79bce404fd30293bd",
+      "op_updated_at": "2026-08-07T15:59:12Z",
+      "repo_blob_sha": "ced594d1932b98ed239c2dbd2c9a415533e3ddc4",
+      "repo_hash_at_sync": "07a7b7c60adb56b1458eb9b0626670c382ee1715523dd0f41a01f452679a6a47",
       "repo_path": "lore/wiki/adventure-log/session-x-planning.textile"
     },
     "e2da37ba92ce4862a0165713a93c5a64": {

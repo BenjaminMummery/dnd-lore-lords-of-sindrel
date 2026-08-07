@@ -1,9 +1,13 @@
 ---
+op_id: 97dafd48b49143e2acf1ceae5effc0a5
 op_slug: the-bound-garden
 op_kind: Wiki
 op_type: WikiPage
 name: The Bound Garden
 title: The Bound Garden
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-bound-garden
+op_created_at: '2026-08-07T15:59:57Z'
+op_updated_at: '2026-08-07T15:59:57Z'
 op_gm_only: false
 tags:
 - location
@@ -47,5 +51,4 @@ Covert [[House Beltus | House Beltus]] revenue and influence operation. Public p
 **Silas:** banned after he attempted to **command** an attendant as though she were Oestra levy infantry. The binding held; the proprietors did not forgive the insult to their craft.
 
 **Investigation hooks:** succubus circles resemble the vandalised page in [[:caller-georg | Caller Georg]]'s grimoire; sulphur receipts; a Factor's ledger listing _garden maintenance_; clients who remember more than they should after dismissal ( botched banishment ).
-
 <!-- GM_INFO_END -->

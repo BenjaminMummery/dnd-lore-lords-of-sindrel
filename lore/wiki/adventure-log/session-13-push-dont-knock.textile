@@ -1,9 +1,13 @@
 ---
+op_id: b9f6f920b1ca4174a771aa4a2c753b9e
 op_slug: session-13-push-dont-knock
 op_kind: Wiki
 op_type: Post
-name: "Session 13: Push, Don't Knock"
-title: "Session 13: Push, Don't Knock"
+name: 'Session 13: Push, Don''t Knock'
+title: 'Session 13: Push, Don''t Knock'
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-13-push-dont-knock
+op_created_at: '2026-08-07T15:59:09Z'
+op_updated_at: '2026-08-07T15:59:09Z'
 op_gm_only: false
 tags: []
 post_title: 'Session 13: Push, Don''t Knock'
@@ -145,7 +149,6 @@ The chicken overflight counted five people inside Greysheath. Amanira's watch sa
 The session ended with the Wonch back at Radwasp, anti-drunk sandwiches, and a plan still to make: how to approach [[:regnif-d-log | Regnif d'Log]]'s townhouse — knock, stake out, or pound the door — while [[House Oestra | House Oestra]]'s patience ran out.
 
 <!-- GM_INFO_START -->
-
 h2. Prep pointers
 
 * [[:silas-oestra | Silas]] and the Senate contempt hearing remain unplayed — see [[Session X: Planning | Session X: Planning]] (*The Summons*).
@@ -153,5 +156,4 @@ h2. Prep pointers
 * [[:chuggaz | Chuggaz]] remains at a Cat safe house; Sable would summon him to the Repose, not Radwasp.
 * Cart liberation favour still open with [[:sable-silvestre | Sable]].
 * Lithra records clerk improvised as Katie Neferu — promote to character page if reused.
-
 <!-- GM_INFO_END -->

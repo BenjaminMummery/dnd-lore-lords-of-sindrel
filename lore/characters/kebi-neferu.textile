@@ -1,9 +1,13 @@
 ---
+op_id: c25de3ca664d45faa53636a3a393b7cc
 op_slug: kebi-neferu
 op_kind: Character
 op_type: Character
 name: Kebi Neferu
 title: Kebi Neferu
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/kebi-neferu
+op_created_at: '2026-08-07T15:58:49Z'
+op_updated_at: '2026-08-07T15:58:49Z'
 op_gm_only: false
 is_player_character: false
 tags:
