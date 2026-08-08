@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-08-07T20:11:10Z",
+  "last_git_publish": "2026-08-08T15:25:12Z",
   "last_portal_pull": "2026-08-08T15:23:25Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -1597,9 +1597,9 @@
       "op_id": "c25de3ca664d45faa53636a3a393b7cc",
       "op_kind": "Character",
       "op_slug": "kebi-neferu",
-      "op_updated_at": "2026-08-08T13:37:23Z",
-      "repo_blob_sha": "80f6b7d5e5793548123160c397dd4465d3f2dfca",
-      "repo_hash_at_sync": "9d1d2cca7c883067bb65dd7d5346f3df4fa6422e734e4028610425ba614bb768",
+      "op_updated_at": "2026-08-08T15:23:50Z",
+      "repo_blob_sha": "cf79c12afd0618f943fe058ee939d4069a8969e4",
+      "repo_hash_at_sync": "07c7597b83268a375cb42a6ee4588ae3e7efd68070232a491497b766a3408dbd",
       "repo_path": "lore/characters/kebi-neferu.textile"
     },
     "c2ad5441db234ff29d569bdfc08f9d8d": {
@@ -1837,9 +1837,9 @@
       "op_id": "e29c0674519f48e68f931ab80cac0f3a",
       "op_kind": "Wiki",
       "op_slug": "session-x-planning",
-      "op_updated_at": "2026-08-08T07:10:38Z",
-      "repo_blob_sha": "27496e1cf7b2f0f1d1c73cfdbf67f8496c6929eb",
-      "repo_hash_at_sync": "40629ab9021747e4501877fce0edf289a3aa96fb9938d5f8578a3518654f5ba8",
+      "op_updated_at": "2026-08-08T15:24:09Z",
+      "repo_blob_sha": "ac3e922d80c40fd36aa47f6a8b56ed1ab8dbe769",
+      "repo_hash_at_sync": "744c652126231561ab020562c605cf731a02268b813d3b9b6f7fb649868c9935",
       "repo_path": "lore/wiki/adventure-log/session-x-planning.textile"
     },
     "e2da37ba92ce4862a0165713a93c5a64": {
