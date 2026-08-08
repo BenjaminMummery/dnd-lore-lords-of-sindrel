@@ -7,7 +7,7 @@ name: Kebi Neferu
 title: Kebi Neferu
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/kebi-neferu
 op_created_at: '2026-08-07T15:58:49Z'
-op_updated_at: '2026-08-07T15:59:09Z'
+op_updated_at: '2026-08-08T13:37:23Z'
 op_gm_only: false
 is_player_character: false
 tags:
@@ -18,7 +18,7 @@ tags:
 ---
 
 <!-- OP_DESCRIPTION -->
-You see a composed half-elf woman in her thirties with warm brown skin and a slight, desk-trained build. Her dark hair is drawn back in a severe knot that does not quite hide a grey streak at the temple; no facial hair. She wears [[House Lithra | Lithra]] grey over silver — layered ash-coloured wool and fine linen, a narrow beaded usekh at the throat, sleeves rolled for ledger work but cuffs still crisp — and a gold guest-bracelet pin on her cuff that marks house patronage rather than visitor silver. She presents as unhurried and professionally restrained, the sort of clerk who has filed ten thousand names and intends to file ten thousand more. Her eyes flick to your bracelet before your face; she speaks in complete sentences, measured and dry, and does not fill silence she did not invite.
+A composed half-elf woman in her thirties with warm brown skin and a slight, desk-trained build. Her dark hair is drawn back in a severe knot that does not quite hide a grey streak at the temple.. She wears [[House Lithra | Lithra]] grey over silver - layered ash-coloured wool and fine linen, a narrow beaded usekh at the throat, sleeves rolled for ledger work but cuffs still crisp, and a gold bracelet that marks house patronage rather than visitor silver. She presents as unhurried and professionally restrained, the sort of clerk who has filed ten thousand names and intends to file ten thousand more. Her eyes flick to your bracelet before your face; she speaks in complete sentences, measured and dry, and does not fill silence she did not invite.
 
 <!-- OP_BIO -->
 [[Adjutant | Adjutant]] of [[House Lithra | House Lithra]] — records clerk at the gate-side archive beside [[Sindrel | Sindrel]]'s main entrance.
@@ -26,7 +26,7 @@ You see a composed half-elf woman in her thirties with warm brown skin and a sli
 * *31st of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
 ** [[The Adventurers | The Wonch]] broke the archive door's interior bar after [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] pushed past the knockers; Kebi stepped back in time and asked, with admirable restraint, why they had destroyed it.
 ** Led the party through the ledger hall to a side room for tea; endured [[:nakoma-deathwalker-mor-got-ha | Deathwalker]]'s disastrous attempt at hospitality.
-** Assisted [[Hexine Circle | Hexine Circle]] investigators searching gate registers for noble arrivals over the preceding two months; the search surfaced [[:regnif-d-log | Regnif d'Log]]'s diplomatic manifest (*Stoic Sphinx*, 32nd Eptan) and linked the Sun Roc arms to the Black Cats' bird-heavy crest sketch.
+** Assisted [[Hexine Circle | Hexine Circle]] investigators searching gate registers for noble arrivals over the preceding two months; the search surfaced [[:regnif-d-log | Regnif d'Log]]'s diplomatic manifest and linked the Sun Roc arms to the Black Cats' bird-heavy crest sketch.
 ** Explained bracelet registration codes, [[House Lithra | Lithra]]'s two-word daily naming scheme for ledger entries, and — after persuasion — that lodestones beneath the city log nearest bracelet positions from the Panopticon.
 ** Promised to summon a [[House Grimbolg | Grimbolg]] joiner to repair the door.
 
