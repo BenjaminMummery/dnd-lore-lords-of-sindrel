@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-08-08T15:25:12Z",
+  "last_git_publish": "2026-08-25T18:56:09Z",
   "last_portal_pull": "2026-08-08T15:23:25Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -677,9 +677,9 @@
       "op_id": "4fe58ab4b800450e97fefba3710e0f4c",
       "op_kind": "Character",
       "op_slug": "marceline",
-      "op_updated_at": "2026-07-22T07:37:49Z",
-      "repo_blob_sha": "e7dc977a000bc45ab958cf04699249525821f456",
-      "repo_hash_at_sync": "2f436621c1e22f1f9e68c0d5a2e3adb1d847f6a912a9cab33ef40f02f31a1836",
+      "op_updated_at": "2026-08-25T18:54:49Z",
+      "repo_blob_sha": "2af2361a64cfad2ea170f238aebdbb46c79c1009",
+      "repo_hash_at_sync": "2b4fc6282988f815a920120c70d3ca2303b330f1bc1498baa7101ff11c1dd275",
       "repo_path": "lore/characters/marceline.textile"
     },
     "521416db6e4648db81c7704ac1c1e72d": {
@@ -967,9 +967,9 @@
       "op_id": "6eacb1bcf1914d3ab6564eada8c4d045",
       "op_kind": "Character",
       "op_slug": "jean-de-dinteville",
-      "op_updated_at": "2026-07-22T07:37:45Z",
-      "repo_blob_sha": "36df7230726061c40893967bfad2db7f810e2ba6",
-      "repo_hash_at_sync": "f4782408c9be73289f828b5cfb983c721423c6ada921d6a5de4dca238f016dcf",
+      "op_updated_at": "2026-08-25T18:54:45Z",
+      "repo_blob_sha": "f0885258d120d87dbfc4aaaa27ce9b51d169dbdf",
+      "repo_hash_at_sync": "07d45e280e94e611025790a6b7e465ceb98a98f2d8607daf17ff40be923ba579",
       "repo_path": "lore/characters/jean-de-dinteville.textile"
     },
     "6f9dfa0ebbf147a791ed50efe8aceb19": {
@@ -1267,9 +1267,9 @@
       "op_id": "9d238159f301494ea08cd185326fe371",
       "op_kind": "Character",
       "op_slug": "arouraios",
-      "op_updated_at": "2026-07-22T07:37:35Z",
-      "repo_blob_sha": "4c6ec426011e4fb48592d70eb1683aed555534d4",
-      "repo_hash_at_sync": "303523a76447c587e90823fa6f7da2d692311d55fe06283af719d9c9eca64657",
+      "op_updated_at": "2026-08-25T18:54:33Z",
+      "repo_blob_sha": "17045ee44710f3a719ed90cd9bdc4023aaa81a0b",
+      "repo_hash_at_sync": "c48faa61b482bc113d018688271e4143f7e2de2090718e0fa208e106d574eaee",
       "repo_path": "lore/characters/arouraios.textile"
     },
     "9ded0d990e7843c0aba38af113a1435d": {
@@ -1477,9 +1477,9 @@
       "op_id": "b98a65653b164125a107c0b7e65305a6",
       "op_kind": "Character",
       "op_slug": "georges-de-selve",
-      "op_updated_at": "2026-07-22T07:37:42Z",
-      "repo_blob_sha": "ecf83a5e870e01ffc99904b73f05e7b17b96bf7b",
-      "repo_hash_at_sync": "4b80022bf9c64325e4400fce77e6bd2dc4cf672553d699e8b1a279817d3d0bc7",
+      "op_updated_at": "2026-08-25T18:54:42Z",
+      "repo_blob_sha": "2d5412d37b961c7a45b8b5cd85c59d644408a50a",
+      "repo_hash_at_sync": "ace474c8b97dc5cde4829c31c96dd5d96843ce6debb79bf9b7b32a44a5b11e3f",
       "repo_path": "lore/characters/georges-de-selve.textile"
     },
     "b9f6f920b1ca4174a771aa4a2c753b9e": {
@@ -1837,8 +1837,8 @@
       "op_id": "e29c0674519f48e68f931ab80cac0f3a",
       "op_kind": "Wiki",
       "op_slug": "session-x-planning",
-      "op_updated_at": "2026-08-08T15:24:09Z",
-      "repo_blob_sha": "ac3e922d80c40fd36aa47f6a8b56ed1ab8dbe769",
+      "op_updated_at": "2026-08-25T18:55:07Z",
+      "repo_blob_sha": "56aaf1579bdc18d7fa7ed0fd21365c014ad7c53d",
       "repo_hash_at_sync": "744c652126231561ab020562c605cf731a02268b813d3b9b6f7fb649868c9935",
       "repo_path": "lore/wiki/adventure-log/session-x-planning.textile"
     },
