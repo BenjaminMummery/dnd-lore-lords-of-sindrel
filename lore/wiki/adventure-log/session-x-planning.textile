@@ -81,21 +81,85 @@ h4. Once everyone is awake
 
 h3. Things to find
 
-* *Charcoal receipts / orders* 
-** d'Log signed, Marceline managed.
-** Genuine signatures. d'Log really thought the house was freezing. Supports gunpowder logistics without him understanding scale.
-* *Kelferria armour commission*
-** Marceline via d'Log's name
-** Forged signature on the armour order — d'Log has no memory of it. 
-** Samples = Sacrum kit + crude false Oestra crest plates
-* *Household ledgers / messages in d'Log's name*
-** Irregularities, errands, appointments he d'Log doesn't recognise or understand.
-* *Partially burned Oestra folder*
-** Marceline tried to destroy evidence
-** Behind the fire grate — Oestran crest visible; contents already gone (smuggled out with Georges/Jean). 
-** Shell proves Oestra theft happened; not the full Kosmios/Dockward intel.
-* *Aurorious's route book*
-** Easy navigation through the catacombs / other paths around the city.
+h4. Charcoal receipts / orders
+
+* Signed by d'Log, but masterminded by Marceline.
+* Genuine signatures. d'Log really thought the house was freezing. Supports gunpowder logistics without him understanding scale.
+* enough charcoal purchased to heat Greysheath House for a year. The fireplaces contain little ash and the flues are clean.
+
+h4. Kelferria armour commission
+
+* Marceline via d'Log's name
+* Forged signature on the armour order — d'Log has no memory of it.
+* Samples = Sacrum kit + crude false Oestra crest plates
+
+h4. Household ledgers / messages in d'Log's name
+
+* Irregularities, errands, appointments he d'Log doesn't recognise or understand.
+
+h4. Partially burned Oestra folder
+
+* Marceline tried to destroy evidence
+* Behind the fire grate — Oestran crest visible; contents already gone (smuggled out with Georges/Jean).
+* Shell proves Oestra theft happened
+
+h4. Aurorious's route book
+
+* Easy navigation through the catacombs / other paths around the city.
+
+h4. Powder on the cart cloths
+
+* Folded sacking and a waxed cart-cloth have yellow sulphur in their seams, pale nitre crystals in the weave, and black charcoal dust over both. One cloth bears a faded Beltan inventory stamp; another has a green Amalthean silo tally.
+
+h4. Marceline's correction slips
+
+* Short notes instruct suppliers to divide large charcoal orders among several invoices and deliver them under different merchant names. Each is phrased as an instruction from d'Log.
+* The invoices reconcile to genuine payments authorised by d'Log; the concealment instructions do not. This points to Marceline using a negligent master rather than d'Log directing the plot.
+
+h4. A servant's calendar
+
+* Harsa records linen days, formal dinners, and the nights on which Marceline or Arouraios told the staff not to wait up. The unexplained absences fall on the dates of the Grimbolg flood, Nielsenn's disappearance, the Beltus summoning, Isius's scandal, and the later Goela, Mabon, and Meness incidents.
+
+h4. Practice lock
+
+* A high-quality magical lock purchased from Nielsenn
+* Arouraios was using it to practice, but was ultimately unsuccessful - there are broken picks and signs of frustration.
+
+h4. Marceline's appointment book.
+
+* The Ditchquer closing ceremony is meticulously planned down to d'Log's gloves and coach time. In the margin: "A. receives the package. G/J carry it home.". There's a mark that could be accidental or could be intentional at the time of the explosion.
+
+h4. The Dockward Maps
+
+* The page never says Dockward, but the mile-wide ring around the Fulcrum is unmistakable to any Sindrel resident.
+* Tourist maps of Dockward, annotated with infrastructure particularly the levitation systems.
+* Three maintenance galleries are circled where the control conduits converge.
+* Notes in Arouraios's hand give guard changes, freight-lift capacities, and how long each gallery is empty.
+* Survives the burn plan if stored in its metal map tube.
+
+h4. Mabon maintenance passes
+
+* Four partly completed work permits authorise a night crew to inspect "annular suspension relays 4, 7, and 9." The seals are good copies but the names belong to dead or retired Mabon Factors.
+* Beside them is a Dockward labourer's silver bracelet and a scrap listing the colours worn by three cargo crews.
+* Shows that the cell plans to enter Dockward disguised as workers, not attack openly.
+
+h4. Explosives Calculation
+
+* Calculations of quantities for explosives, although the ingrediants are disguised.
+* Two separate tracks, one ending in 12, the other in 48.
+
+h4. Marceline's prayer book.
+
+* The book contains a severe but otherwise ordinary sermon against magical pride.
+* The inside cover lists only the imperative names *Bear Ye the Burden of Fire and Judgement*, *Lay Bare Every Path the Wicked Built*, and *Hold Fast the Covenant in Shadow*
+
+h3. Testimonies
+
+h4. Wahibe
+
+* Marceline repeatedly forbade him from filling the scuttles from the new deliveries: "That fuel was for the master's commercial business."
+
+
 
 h3. The burn plan
 
@@ -196,7 +260,7 @@ The walk up is all polished steps and iron lamps, ceremonial gutters, and carved
 <br>
 Incense reaches you before the name does - amber, musk, something sweet enough to make you forget what quarter you are in. Then the sign: modest on purpose, gilt on black lacquer. The Bound Garden. Beneath it, in smaller script: Private Repose. By Introduction.
 <br>
-No painted nymphs. No winking cherubs. Only a pierced bronze screen set into the facade, and lamplight falling through arabesque cutouts to spill across the Terrace walk in patterns too pretty to be innocent. Black marble steps. Gold-threaded tiles glimpsed through smoke-coloured veils. 
+No painted nymphs. No winking cherubs. Only a pierced bronze screen set into the facade, and lamplight falling through arabesque cutouts to spill across the Terrace walk in patterns too pretty to be innocent. Black marble steps. Gold-threaded tiles glimpsed through smoke-coloured veils.
 
 At the door: if they have no introduction, an attendant may appear behind the screen — flawless, unhurried, attentive in a way that feels less like service and more like being seen through. Discreet admission is introduction, House credit, or a vouched name.
 
