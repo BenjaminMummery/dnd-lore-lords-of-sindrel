@@ -69,4 +69,46 @@ h3. Timeline
 h3. Investigative footprint
 
 Evidence pointing to Marceline may include household account irregularities, messages sent in d'Log's name, servant testimony, the Kelferria armour order, charcoal purchases, unexplained knowledge of [[:silas-oestra | Silas Oestra]]'s movements, and any clue showing that d'Log's authority was used without d'Log's understanding.
+
+h2. Stat block
+
+<p>Marceline is the cell's coordinator, not its front-line bruiser. In Greysheath House she uses <strong>Direct the Withdrawal</strong> every round she can, spending the cell's actions on movement rather than damage. If escape is cut off, her full offensive routine makes her considerably more dangerous.</p>
+
+<div class="stat-block">
+<h3>Marceline, Covenant in Shadow</h3>
+<p><em>Medium humanoid (human), lawful evil</em></p>
+<p><strong>Armor Class</strong> 16 (concealed brigandine)<br>
+<strong>Hit Points</strong> 102 (12d8 + 48)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +4</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>10 (+0)</td><td>18 (+4)</td><td>18 (+4)</td><td>15 (+2)</td><td>16 (+3)</td><td>17 (+3)</td></tr>
+</table>
+<hr>
+<p><strong>Saving Throws</strong> Dex +7, Wis +6, Cha +6<br>
+<strong>Skills</strong> Deception +9, Insight +6, Perception +6, Sleight of Hand +7, Stealth +7<br>
+<strong>Senses</strong> passive Perception 16<br>
+<strong>Languages</strong> Common, two others<br>
+<strong>Challenge</strong> 5 (1,800 XP)<br>
+<strong>Proficiency Bonus</strong> +3</p>
+<hr>
+<p><strong>Anathema's Fury.</strong> When a creature Marceline can see within 60 feet casts a spell, Marceline has advantage on attack rolls against that creature until the end of Marceline's next turn.</p>
+<p><strong>Cunning Action.</strong> On each of her turns, Marceline can take the Dash, Disengage, or Hide action as a bonus action.</p>
+<p><strong>Hold Fast (1/Day).</strong> If Marceline fails a saving throw, she can choose to succeed instead.</p>
+<p><strong>Exploit Distraction (1/Turn).</strong> Marceline deals an extra 10 (3d6) damage when she hits with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of one of Marceline's allies and Marceline doesn't have disadvantage on the roll.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> Marceline makes two attacks with her stiletto or hand crossbow.</p>
+<p><strong>Stiletto.</strong> <em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage.</p>
+<p><strong>Hand Crossbow.</strong> <em>Ranged Weapon Attack:</em> +7 to hit, range 30/120 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage.</p>
+<p><strong>Smoke Bolt (Recharge 5–6).</strong> Marceline makes one hand crossbow attack. Hit or miss, the bolt releases smoke in a 10-foot-radius sphere centred on the target or point of impact. The sphere is heavily obscured until the end of Marceline's next turn. A strong wind disperses it.</p>
+<hr>
+<h4>Bonus Actions</h4>
+<p><strong>Direct the Withdrawal.</strong> One ally who can see or hear Marceline within 30 feet can use its reaction to move up to half its speed without provoking opportunity attacks.</p>
+<hr>
+<h4>Reactions</h4>
+<p><strong>Slip the Knife.</strong> When a creature Marceline can see misses her with a melee attack, she can move up to half her speed without provoking opportunity attacks from that creature.</p>
+</div>
 <!-- GM_INFO_END -->

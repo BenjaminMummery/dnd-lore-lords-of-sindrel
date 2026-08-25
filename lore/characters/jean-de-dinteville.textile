@@ -86,4 +86,43 @@ h3. Timeline
 h3. Investigative footprint
 
 Evidence pointing to Jean may include guest lists, polite correspondence, servants' recollections, seating charts, introductions to House officials, and his presence at gatherings that later become relevant to sabotage timings. Jean should feel like someone who never forced a door because he was always invited through one.
+
+h2. Stat block
+
+<p>Jean disrupts the party's coordination long enough for the others to leave. He uses <strong>Flash-Powder Courtesy</strong> and <strong>After You</strong> before committing to attacks. If cornered beside an ally, <strong>Social Predator</strong> makes his full routine dangerous.</p>
+
+<div class="stat-block">
+<h3>Jean de Dinteville, Pride's Stumbling Block</h3>
+<p><em>Medium humanoid (human), lawful evil</em></p>
+<p><strong>Armor Class</strong> 16 (studded leather beneath fine clothes)<br>
+<strong>Hit Points</strong> 68 (8d8 + 32)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +3</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>10 (+0)</td><td>17 (+3)</td><td>18 (+4)</td><td>14 (+2)</td><td>14 (+2)</td><td>18 (+4)</td></tr>
+</table>
+<hr>
+<p><strong>Saving Throws</strong> Dex +6, Wis +5, Cha +7<br>
+<strong>Skills</strong> Deception +10, Insight +5, Perception +5, Persuasion +10, Sleight of Hand +6<br>
+<strong>Senses</strong> passive Perception 15<br>
+<strong>Languages</strong> Common, two others<br>
+<strong>Challenge</strong> 4 (1,100 XP)<br>
+<strong>Proficiency Bonus</strong> +3</p>
+<hr>
+<p><strong>Anathema's Fury.</strong> When a creature Jean can see within 60 feet casts a spell, Jean has advantage on attack rolls against that creature until the end of Jean's next turn.</p>
+<p><strong>Cunning Action.</strong> On each of his turns, Jean can take the Dash, Disengage, or Hide action as a bonus action.</p>
+<p><strong>Social Predator (1/Turn).</strong> Jean deals an extra 7 (2d6) damage when he hits with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of one of Jean's allies and Jean doesn't have disadvantage on the roll.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> Jean makes two rapier or hand crossbow attacks.</p>
+<p><strong>Rapier.</strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (1d8 + 3) piercing damage.</p>
+<p><strong>Hand Crossbow.</strong> <em>Ranged Weapon Attack:</em> +6 to hit, range 30/120 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
+<p><strong>Flash-Powder Courtesy (2/Day).</strong> Jean scatters flash powder at a point within 20 feet. Each creature other than an Anathemist in a 10-foot-radius sphere centred on that point must succeed on a DC 14 Constitution saving throw or be blinded and unable to take reactions until the end of Jean's next turn. On a success, a creature is not blinded but still cannot take reactions until the start of its next turn.</p>
+<p><strong>Cutting Appraisal (Recharge 5–6).</strong> Jean names a hesitation he has observed in a creature that can hear and understand him within 30 feet. The target must succeed on a DC 14 Wisdom saving throw or have disadvantage on attack rolls against creatures other than Jean until the end of Jean's next turn. Until then, Jean's allies have advantage on opportunity attacks against the target.</p>
+<hr>
+<h4>Reactions</h4>
+<p><strong>After You.</strong> When Jean is targeted by an attack while within 5 feet of a conscious creature, he can move 5 feet without provoking an opportunity attack. If this movement places that creature between Jean and the attacker, Jean gains +3 AC against the triggering attack, potentially causing it to miss.</p>
+</div>
 <!-- GM_INFO_END -->

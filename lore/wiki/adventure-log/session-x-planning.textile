@@ -60,8 +60,9 @@ h2. Confrontation at Ambassador Street
 h3. Inhabitants of Greysheath House
 
 * d'Log
-* Aurorious
+* Arouraios
 * Marceline
+* [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] — arrived earlier that evening, ostensibly to conclude business with d'Log; actually finalising the Dockward operation. The Wonch recognise them from the coach.
 * Harsa Nefer (she/her) (Human, forties, grey hair in a coil, Lithra grey livery, gold adjutant bracelet. Quiet, tired, professionally invisible.) Upstairs rooms, linens, fires, plate, keeping the kitchen and pantry vaguely in order.
 * Wahibre ten-Sutekh (he/him) (Dwarf, thirties, trimmed beard, same grey livery and bracelet. Polite, nervous, talks too much when frightened) Scullery, coal scuttles to the cellar hatch, boots and mud at the back stair, hauling trays when told.
 
@@ -77,7 +78,7 @@ h4. Once everyone is awake
 * If Marceline twigs that they're investigators, she'll start trying to deflect onto d'Log - "The master has been dispatching us on some strange errands lately."
 * Depending on the time of day, d'Log will entertain his guests either in the Morning Room (P), Library (V), or Drawing Room (Z). Wherever he is, the shutters will be closed.
 * d'Log will apologise for the cold, mentioning that he had the shutters installed to try and keep the house warm.
-* Marceline will take the first opportunity to alert [[:arouraios | Arauraios]] and trigger the burn plan.
+* Marceline will take the first opportunity to alert [[:arouraios | Arouraios]] and trigger the burn plan.
 
 h3. Things to find
 
@@ -103,7 +104,7 @@ h4. Partially burned Oestra folder
 * Behind the fire grate — Oestran crest visible; contents already gone (smuggled out with Georges/Jean).
 * Shell proves Oestra theft happened
 
-h4. Aurorious's route book
+h4. Arouraios's route book
 
 * Easy navigation through the catacombs / other paths around the city.
 
@@ -163,12 +164,15 @@ h4. Wahibe
 
 h3. The burn plan
 
-* Marceline draws a hand-crossbow and puts a bolt through d'Log's leg (opportunity, he's the closest target)
-* Araurious throws an incendiary. The room fills with smoke
-* They run, locking the door behind them, and seeding their path with more incendiaries.
+* Marceline draws a hand-crossbow and puts a bolt through d'Log's leg (opportunity, he's the closest target).
+* Georges throws an incendiary. The room fills with smoke.
+* Jean uses flash powder to prevent an immediate pursuit while Arouraios deploys the first prepared obstacle.
+* They run, locking the door behind them and seeding their separate paths with more incendiaries.
 * The shutters are locked, as are the ones throughout the rest of the house.
-* Aurorious grabs his route book from its hiding place in the library (or wherever) and exits via the front door.
-* Marceline goes out via the hidden path in the store, leads into the basement of the next house over.
+* Arouraios grabs his route book from its hiding place in the library (or wherever) and exits via the front door or a mapped service passage.
+* Marceline goes out via the hidden path in the store, which leads into the basement of the next house over.
+* Jean takes the back stair toward the stable lane, using the servants and neighbours as cover rather than attacking them.
+* Georges acts as rearguard, then blows an interior wall or locked exit with a powder charge when he withdraws.
 * As soon as the party get out of the room, they hear screams from elsewhere in the house - the other two servants trapped by the fire and about to burn to death.
 
 Objectives:
@@ -180,11 +184,40 @@ Objectives:
 * Protect servants, neighbours, or others endangered by the fire and structural damage.
 * Escape with their own lives
 
+h3. Greysheath House encounter
+
+This is deliberately a very dangerous fight on paper: [[:marceline | Marceline]] (CR 5), [[:georges-de-selve | Georges]] (CR 4), [[:jean-de-dinteville | Jean]] (CR 4), and [[:arouraios | Arouraios]] (CR 3) have four turns, prepared terrain, and strong coordination. If they stand together and use Multiattack every round they can overwhelm seven 3rd-level adventurers. They do not want that fight. Their objective is to burn the evidence, split pursuit, and escape.
+
+h4. Prepared-house actions
+
+On initiative count 20 (losing initiative ties), the cell triggers one of the following prepared effects. It cannot use the same effect two rounds in a row. These are mechanical lair actions, but entirely mundane: cords, counterweights, lamp oil, smoke pots, altered locks, and memorised passages. The house stops taking actions once no conscious cell member remains inside.
+
+* *Seal the route.* Up to two doors or shutters slam and lock. A creature in one of those openings must succeed on a DC 14 Dexterity saving throw or be pushed to either side of the opening (the cell chooses). A locked interior door or shutter has AC 15, 15 hit points, and immunity to poison and psychic damage. Opening its prepared lock requires an action and a successful DC 14 Dexterity check with thieves' tools or DC 16 Strength (Athletics) check.
+* *Feed the fire.* Oil runs down hidden cords and two unoccupied 5-foot squares the cell can see ignite. An ignited square is lightly obscured. A creature that enters it for the first time on a turn or starts its turn there takes 3 (1d6) fire damage. At each subsequent initiative count 20, one existing fire either spreads into one adjacent unoccupied square or becomes heavily obscuring smoke; the GM chooses. A creature adjacent to a burning square can use an action to extinguish it.
+* *Drop the room.* A bookcase, ceiling net, rolled carpet, or overloaded curtain falls into a 10-foot square the cell can see. Creatures there must succeed on a DC 14 Dexterity saving throw or take 5 (1d10) bludgeoning damage, fall prone, and become restrained. A creature can use an action to free itself or another creature with a DC 13 Strength (Athletics) or Dexterity (Acrobatics) check. The square becomes difficult terrain.
+* *Open the other way.* A concealed panel, servant's hatch, or false section of shelving opens beside one cell member. That agent can use its reaction to move up to its speed without provoking opportunity attacks. The passage remains visible and usable until the next initiative count 20, when it closes and locks (AC 15, 15 hit points; DC 15 thieves' tools to open).
+
+h4. Default tactics
+
+* *Opening:* the crossbow attack against d'Log occurs as hostilities begin rather than consuming Marceline's first combat action. Georges ignites the room; Jean uses *Flash-Powder Courtesy*; Arouraios uses *Prepared Obstacle*. The first house action is *Seal the route*.
+* *Marceline* uses *Direct the Withdrawal*, smoke, and the hidden store passage. She attacks primarily if a spellcaster blocks an exit or someone has seized the Dockward intelligence.
+* *Arouraios* retrieves the route book, obstructs the largest group of pursuers, and runs. If he cannot take the book, he tries to throw it into the fire.
+* *Jean* creates an apparently obvious pursuit route through the stable lane, drawing attention away from Marceline. He uses his attacks only when pinned down.
+* *Georges* interposes himself between the Wonch and whichever agent carries vital evidence. He is willing to be captured if doing so buys Marceline a clean escape, but uses a powder charge if the whole cell is about to be contained.
+* *Against spellcasting:* *Anathema's Fury* makes the cell dangerous when the Wonch use magic openly, but they still spend movement and control abilities on escape unless cornered.
+* *No executions:* the cell attacks to create openings. They do not spend attacks on unconscious characters, and they do not remain merely to finish a wounded foe.
+
+h4. Withdrawal and capture
+
+At half hit points, each agent abandons optional evidence destruction and takes the safest available exit. Marceline values the Dockward plan above every comrade; Georges values Marceline's escape above his own; Jean and Arouraios value the mission above one another. If an agent is isolated, restrained, and presented with an overwhelming force, capture is preferable to a pointless death.
+
+The desired result is that the party can catch one or more agents through good choices, but cannot cover every exit while also saving d'Log, Harsa, Wahibre, the neighbours, and the evidence. Do not guarantee an escape by fiat: the prepared passages, smoke, divided routes, and competing objectives should earn it. If the Wonch nevertheless contain all four, honour the victory and let Georges and Jean's outside contacts advance the Dockward plan without them.
+
 h4. Pursue Marceline
 
 If pursued, run a short chase through Ambassador Street's service passages, [[Merrylane | Merrylane]] Park, into the Merrylane Osteomantic Archive, and through the catacombs.
 
-Two pieces of enchanted armour is stashed by the Wallarch breach (the ones typically used by the Bears). Marceline and Aurorious's pieces were stashed on the catacomb route from the Merrylane Osteomantic Archive.
+Two pieces of enchanted armour are stashed by the Wallarch breach (the ones typically used by the Bears). Marceline and Arouraios's pieces were stashed on the catacomb route from the Merrylane Osteomantic Archive.
 
 At the breach, the stolen enchanted armour allows the Anathemists to enter the necromantic contamination. The Wonch can follow immediately at considerable risk or withdraw to obtain protection, information, and reinforcements. The radiation should be a dangerous, telegraphed obstacle rather than an absolute barrier.
 

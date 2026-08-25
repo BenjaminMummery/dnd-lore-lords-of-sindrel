@@ -85,4 +85,43 @@ h3. Timeline
 h3. Investigative footprint
 
 Evidence pointing to Arouraios may include sketches, partial maps, chalk dust, servant errands near archive entrances, unexplained familiarity with Wallarch routes, cartographic tools, and witnesses who remember a coachman where no coachman had reason to wait.
+
+h2. Stat block
+
+<p>Arouraios controls routes rather than holding ground. He uses <strong>Prepared Obstacle</strong> to split pursuit, retrieves his route book, and leaves by the front or service passages. He only uses both attacks when a creature physically blocks his escape.</p>
+
+<div class="stat-block">
+<h3>Arouraios, Path-Layer</h3>
+<p><em>Medium humanoid (half-elf), lawful evil</em></p>
+<p><strong>Armor Class</strong> 15 (studded leather beneath livery)<br>
+<strong>Hit Points</strong> 58 (9d8 + 18)<br>
+<strong>Speed</strong> 35 ft.<br>
+<strong>Initiative</strong> +4</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>10 (+0)</td><td>18 (+4)</td><td>14 (+2)</td><td>16 (+3)</td><td>14 (+2)</td><td>12 (+1)</td></tr>
+</table>
+<hr>
+<p><strong>Saving Throws</strong> Dex +6, Int +5<br>
+<strong>Skills</strong> Investigation +7, Perception +4, Sleight of Hand +6, Stealth +8, Survival +6<br>
+<strong>Senses</strong> passive Perception 14<br>
+<strong>Languages</strong> Common, Elvish<br>
+<strong>Challenge</strong> 3 (700 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Anathema's Fury.</strong> When a creature Arouraios can see within 60 feet casts a spell, Arouraios has advantage on attack rolls against that creature until the end of Arouraios's next turn.</p>
+<p><strong>Cunning Action.</strong> On each of his turns, Arouraios can take the Dash, Disengage, or Hide action as a bonus action.</p>
+<p><strong>Mapped Every Step.</strong> Arouraios ignores nonmagical difficult terrain and has advantage on ability checks and saving throws made to avoid being grappled, knocked prone, or moved against his will while inside Greysheath House or the mapped service passages beneath Ambassador Street.</p>
+<p><strong>Opening in the Route (1/Turn).</strong> Arouraios deals an extra 7 (2d6) damage when he hits with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of one of Arouraios's allies and Arouraios doesn't have disadvantage on the roll.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> Arouraios makes two attacks with his shortsword or hand crossbow.</p>
+<p><strong>Shortsword.</strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage.</p>
+<p><strong>Hand Crossbow.</strong> <em>Ranged Weapon Attack:</em> +6 to hit, range 30/120 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage.</p>
+<p><strong>Prepared Obstacle (3/Day).</strong> Arouraios deploys a concealed trip-line, weighted net, scattering of hooked caltrops, or collapsing shelf at a point he can see within 30 feet. Each other creature in a 10-foot square at that point must succeed on a DC 14 Dexterity saving throw or fall prone and become restrained. A restrained creature can use its action to make a DC 13 Strength (Athletics) or Dexterity (Acrobatics) check, freeing itself on a success. The area is difficult terrain until cleared as an action.</p>
+<hr>
+<h4>Reactions</h4>
+<p><strong>I Know Another Way.</strong> When a creature ends its turn within 5 feet of Arouraios, he can move up to 15 feet without provoking opportunity attacks, provided he ends this movement beside a doorway, passage, large furnishing, or other substantial cover.</p>
+</div>
 <!-- GM_INFO_END -->
