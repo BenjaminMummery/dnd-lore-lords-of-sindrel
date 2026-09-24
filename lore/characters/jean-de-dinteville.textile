@@ -3,17 +3,17 @@ op_id: 6eacb1bcf1914d3ab6564eada8c4d045
 op_slug: jean-de-dinteville
 op_kind: Character
 op_type: Character
-name: Merchant 2
-title: Merchant 2
+name: Paddington de Dinteville
+title: Paddington de Dinteville
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/jean-de-dinteville
 op_created_at: '2026-02-01T16:44:52Z'
-op_updated_at: '2026-07-04T11:21:45Z'
+op_updated_at: '2026-08-26T20:55:10Z'
 op_gm_only: false
 is_player_character: false
 tags:
 - he/him
 - Human
-avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469571/960px-Georges_de_Selve.jpg
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469575/Ambassadors-Dinteville.jpg
 ---
 
 <!-- OP_DESCRIPTION -->

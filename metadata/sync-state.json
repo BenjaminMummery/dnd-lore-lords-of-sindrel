@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-08-25T18:57:47Z",
-  "last_portal_pull": "2026-08-08T15:23:25Z",
+  "last_portal_pull": "2026-09-24T12:41:37Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -963,13 +963,13 @@
       "repo_path": "lore/wiki/adventure-log/session-5-the-investigation-begins.textile"
     },
     "6eacb1bcf1914d3ab6564eada8c4d045": {
-      "last_synced_title": "Merchant 2",
+      "last_synced_title": "Paddington de Dinteville",
       "op_id": "6eacb1bcf1914d3ab6564eada8c4d045",
       "op_kind": "Character",
       "op_slug": "jean-de-dinteville",
-      "op_updated_at": "2026-08-25T18:54:45Z",
+      "op_updated_at": "2026-08-26T20:55:10Z",
       "repo_blob_sha": "f0885258d120d87dbfc4aaaa27ce9b51d169dbdf",
-      "repo_hash_at_sync": "07d45e280e94e611025790a6b7e465ceb98a98f2d8607daf17ff40be923ba579",
+      "repo_hash_at_sync": "f8eef71becbccc91fb99101f6504fa17a2b565649ea2dbc131132c5aef319e99",
       "repo_path": "lore/characters/jean-de-dinteville.textile"
     },
     "6f9dfa0ebbf147a791ed50efe8aceb19": {
@@ -1263,13 +1263,13 @@
       "repo_path": "lore/characters/barnabus.textile"
     },
     "9d238159f301494ea08cd185326fe371": {
-      "last_synced_title": "The Coachman with the Poncy Glasses",
+      "last_synced_title": "Arouraios",
       "op_id": "9d238159f301494ea08cd185326fe371",
       "op_kind": "Character",
       "op_slug": "arouraios",
-      "op_updated_at": "2026-08-25T18:54:33Z",
+      "op_updated_at": "2026-08-26T20:24:23Z",
       "repo_blob_sha": "17045ee44710f3a719ed90cd9bdc4023aaa81a0b",
-      "repo_hash_at_sync": "c48faa61b482bc113d018688271e4143f7e2de2090718e0fa208e106d574eaee",
+      "repo_hash_at_sync": "cd2a91809dc16d2872acf7f3c25f243349731d37693be58cee7f98fd3a635d11",
       "repo_path": "lore/characters/arouraios.textile"
     },
     "9ded0d990e7843c0aba38af113a1435d": {
@@ -1473,13 +1473,13 @@
       "repo_path": "lore/characters/seer-demeletas.textile"
     },
     "b98a65653b164125a107c0b7e65305a6": {
-      "last_synced_title": "Merchant 1",
+      "last_synced_title": "Georges de Selve",
       "op_id": "b98a65653b164125a107c0b7e65305a6",
       "op_kind": "Character",
       "op_slug": "georges-de-selve",
-      "op_updated_at": "2026-08-25T18:54:42Z",
+      "op_updated_at": "2026-08-26T17:49:21Z",
       "repo_blob_sha": "2d5412d37b961c7a45b8b5cd85c59d644408a50a",
-      "repo_hash_at_sync": "ace474c8b97dc5cde4829c31c96dd5d96843ce6debb79bf9b7b32a44a5b11e3f",
+      "repo_hash_at_sync": "8257883ec52f35e8732184ae4bdb3f5f560e12ac36dfe9321b11653db03519c7",
       "repo_path": "lore/characters/georges-de-selve.textile"
     },
     "b9f6f920b1ca4174a771aa4a2c753b9e": {

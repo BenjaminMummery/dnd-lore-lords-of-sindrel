@@ -3,17 +3,17 @@ op_id: b98a65653b164125a107c0b7e65305a6
 op_slug: georges-de-selve
 op_kind: Character
 op_type: Character
-name: Merchant 1
-title: Merchant 1
+name: Georges de Selve
+title: Georges de Selve
 op_url: https://thelordsofsindrel.obsidianportal.com/characters/georges-de-selve
 op_created_at: '2026-02-01T16:45:57Z'
-op_updated_at: '2026-07-05T09:30:17Z'
+op_updated_at: '2026-08-26T17:49:21Z'
 op_gm_only: false
 is_player_character: false
 tags:
 - he/him
 - Human
-avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469575/Ambassadors-Dinteville.jpg
+avatar_url: https://db4sgowjqfwig.cloudfront.net/images/7469571/960px-Georges_de_Selve.jpg
 ---
 
 <!-- OP_DESCRIPTION -->
