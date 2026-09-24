@@ -1,0 +1,121 @@
+---
+op_id:
+op_slug: session-14-the-bound-garden
+op_kind: Wiki
+op_type: Post
+name: 'Session 14: The Bound Garden'
+title: 'Session 14: The Bound Garden'
+op_url:
+op_created_at:
+op_updated_at:
+op_gm_only: false
+tags: []
+post_title: 'Session 14: The Bound Garden'
+post_tagline: demons, desires, and a house under watch
+post_time: '2026-08-08T21:00:00Z'
+---
+
+h2. Dramatis Personae
+
+[accordion]
+    [accordion-item]
+        [title] [[The Adventurers | The Adventurers]] [end-title]
+        [content]
+            * [[:amanira | Amanira]], a drow druid.
+            * [[:ayr | Ayr]], gnome paladin.
+            * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
+            * [[:pin | Pin]], a human fighter.
+            * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
+            * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
+            * [[:wilrin-racenglade | Wilrin Ravenglade]], a halfling sorcerer.
+        [end-content]
+    [end-accordion-item]
+    [accordion-item]
+        [title] [[The Black Cats | The Black Cats]] [end-title]
+        [content]
+            * [[:sable-silvestre | Sable]]
+        [end-content]
+    [end-accordion-item]
+    [accordion-item]
+        [title] [[House Oestra | House Oestra]] [end-title]
+        [content]
+            * [[:silas-oestra | Silas Oestra]], heir apparent.
+            * [[:seer-demeletas | Seer Demeletas]], whose letter awaited a reply.
+        [end-content]
+    [end-accordion-item]
+[end-accordion]
+
+h2. Watching Greysheath
+
+_Morning and afternoon of the 32nd of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
+The Wonch returned to [[Radwasp House | Radwasp House]] exhausted. They divided the watches, keeping an eye on Greysheath House from across the street while the city went about its business.
+
+The house did little. Its stillness was almost convincing. The charcoal deliveries were not. A cart arrived with suspicious regularity, and the young dwarf who handled it wore clothing in the style of a [[House Lithra | Lithra]] servant. The quantity burned was too small for a house of Greysheath's size, but every chimney was in use. The pattern did not look like heating, but its true purpose remained unclear.
+
+Deathwalker recieved a letter from [[:seer-demeletas | Seer Demeletas]] setting up their date.
+
+His invitation was for the following night, leaving them a day in which to pursue [[:sable-silvestre | Sable]]'s last lead before answering [[:silas-oestra | Silas Oestra]]'s summons.
+
+h2. The Bound Garden
+
+Sable had said that Silas had recently been banned from [[The Bound Garden | the Bound Garden]], a discreet house of negotiable affection on the upper tiers. The Wonch decided that a place which had seen Silas at his most private might know more about him than a formal interview ever would.
+
+The Bound Garden did not look like a brothel. It looked like an expensive secret: black lacquer, gold-threaded tile, incense, veiled screens, and attendants who appeared only when needed. They were admitted on the strength of their introduction and shown into a quiet room, where the house's master of ceremonies explained the service.
+
+Each guest would be given a private experience shaped to their deepest desire. The attendants would summon the appropriate companions and leave the guests to enjoy what had been made for them.
+
+The Wonch were separated, and the Garden began to answer them.
+
+[[:silrie-aegiskiir | Silrie]] found herself sitting down to meditate with [[:raymond-quill | Raymond]] and [[:gillette-quill | Gillette Quill]]. They wore the robes of her order and performed its ceremonies perfectly. They spoke with solemn, practised wisdom about the wickedness they had done, the pain they had caused, and their desire to find a better path. Every question Silrie asked was turned back towards her. The brothers were not really offering information; they were offering the possibility that the two of them might become worthy of the people they had pretended to be.
+
+When Silrie asked to see what was beneath the illusion, the figures merged into a single pale demon. It explained that it was bound to serve the visitors of the Bound Garden, and that service was its purpose. It had not chosen that purpose. It understood its restrictions, but did not consider them different in kind from the restrictions imposed on mortals by life, magic, and the world.
+
+[[:nakoma-deathwalker-mor-got-ha | Deathwalker]] found herself dying on a battlefield. The light was golden, the enemy had fled, and old comrades gathered around her wounded body. They held her hand, rested hands on her shoulders, and welcomed her as though nothing had been lost. The scene offered not victory but permission to stop fighting: recognition, companionship, and the chance to die among people who understood what she had endured.
+
+[[:amanira | Amanira]] entered a library that seemed to contain the complete history of the world. Its shelves rose beyond the room's apparent height, and its books supplied confident, authoritative answers to every question. Yet the books told her nothing she had not already believed. The Garden had taken her existing understanding and returned it in the voice of scholarship, making familiar ideas feel proven simply because they had been printed and bound.
+
+[[:rossin-ros-greyhirst | Ros]] was offered a different kind of refuge. A woman in flowing, natural colours brought her a tray of strange drinks and invited her to explore the garden beyond the room. The drinks smelled of flowers, fungi, and growing things. The invitation was gentle, patient, and entirely free of pressure. Ros could remain with the glass, explore the garden, or return to the room whenever she wished.
+
+[[:wilrin-racenglade | Wilrin]] was presented with a crowd. They filled the room without crowding it: every age, body, and face, all beautiful, welcoming, and eager to offer him sexual gratification. The scene was not a single fantasy so much as an impossible abundance of them. It invited him to stop choosing and simply accept that everyone there wanted him.
+
+[[:pin | Pin]] found himself drinking in a tavern with his old mercenary team. The room was warm, familiar, and full of the casual physical affection of people who had survived hard work together. Old companions slapped him on the back, shared drinks, and spoke as though the years between then and now had not happened. For a while, the tavern offered Pin the simple comfort of belonging somewhere without having to explain himself.
+
+[[:ayr | Ayr]] also saw his old crew. His reunion carried the same warmth, but the room held something else for him: access to [[:sable-silvestre | Sable]]'s ledger. The book lay within reach, promising the information the Wonch needed and the chance to read the Black Cats' secrets without having to bargain for them. The fantasy combined the comfort of old comrades with the satisfaction of finally possessing the evidence he had been seeking.
+
+The party's private rooms were not merely displaying illusions. They were reading the visitors and answering them. The companions spoke with the right voices, the dead and absent appeared with the right faces, and every environment adjusted itself to the guest's unspoken wishes. The more the Wonch tested those scenes, the clearer it became that the house was not employing ordinary entertainers.
+
+At last the nature of the service became impossible to ignore. The beautiful attendants and familiar faces resolved into demons: summoned beings bound to serve the visitors of the Bound Garden. They did not claim to have chosen that purpose. They were conjured to fulfil desire, then pushed their guests towards an emotional conclusion shaped by what they had found in the guest's mind.
+
+The Wonch returned to the first room one by one, carrying very different impressions of the experience. The house's keeper confirmed what they had already concluded: the Garden summoned demons to fulfil its clients' desires. It was not simply a place where clients paid for actors to flatter them. It was a place where demons read the mind of a visitor and made the visitor's deepest want real enough to hurt.
+
+h2. Silas Oestra's Shame
+
+The keeper was willing to discuss [[:silas-oestra | Silas Oestra]] because he was no longer a client. Silas had visited frequently, and his desires had been remarkably consistent. He repeatedly asked for scenarios involving his father, in which he won his father's approval by succeeding in contests, rescuing him, or otherwise proving himself worthy.
+
+The final visit had gone differently. Silas had chosen a fencing match in which he was meant to best the image of his father. Instead, he became violent and attempted to kill the manifestation outright. The Garden had been forced to expend considerable resources rebuilding the attendant, and Silas was banned from returning.
+
+The same conversation produced one further lead. Regnif d'Log had used the Garden's services once, approximately two months earlier, but had left after only a few minutes. The keeper could offer no certainty as to why; only that the experience had evidently been more intense than d'Log expected.
+
+h2. The Outfit and the Coal Cart
+
+On the way back through the upper tiers, [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] collected the outfit she had arranged for her date with Demeletas. The Wonch returned to Radwasp House with their information, their dignity in various states of repair, and a clearer idea of what the Bound Garden actually was.
+
+They did not have long to reflect. The charcoal cart was due at Greysheath, and the party had decided to use it. [[:amanira | Amanira]] would take an animal form and slip through the open door while the delivery was made, then open an upper window. The rest of the Wonch would enter by the routes she created, with the house's attention drawn towards the front.
+
+As dusk settled, the cart arrived. The dwarf emerged from behind the house, the charcoal began to pour, and the plan moved from discussion to action.
+
+h2. Into Greysheath
+
+The infiltration began in several groups. [[:pin | Pin]], [[:ayr | Ayr]], [[:wilrin-racenglade | Wilrin]], and Deathwalker searched the basement. They found a wine cellar, a butler's pantry that doubled as a servants' sitting room, and a clerical office whose lack of personal effects was almost as suspicious as its ledgers. Wilrin found a rough map of Sindrel among the papers.
+
+Above them, Amanira and Deathwalker explored the house while Ros and [[:silrie-aegiskiir | Silrie]] reached the roof. Through the windows they saw the dwarf from the charcoal delivery and a neat, pince-glassed man matching Sable's description of the Weasel. A thrown slate and a dart made noise in the garden, but not enough to pull the newcomers away from the landing.
+
+The night ended with the Wonch divided through the house: some in the basement, some preparing to flank the arrivals from the servants' stair, and Ros and Silrie watching from above. Greysheath had noticed that it was no longer empty.
+
+<!-- GM_INFO_START -->
+h2. Prep pointers
+
+* Session 15 begins with the confrontation inside Greysheath.
+* The remaining questions are the fate of the house's servants, the identity and purpose of the documents carried by the Weasel, and the extent of the Anathemist cell's preparation.
+<!-- GM_INFO_END -->

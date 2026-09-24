@@ -1,0 +1,106 @@
+---
+op_id:
+op_slug: session-15-greysheath-burning
+op_kind: Wiki
+op_type: Post
+name: 'Session 15: Greysheath Burning'
+title: 'Session 15: Greysheath Burning'
+op_url:
+op_created_at:
+op_updated_at:
+op_gm_only: false
+tags: []
+post_title: 'Session 15: Greysheath Burning'
+post_tagline: fire, treachery, and the price of magic
+post_time: '2026-08-26T21:00:00Z'
+---
+
+h2. Dramatis Personae
+
+[accordion]
+    [accordion-item]
+        [title] [[The Adventurers | The Adventurers]] [end-title]
+        [content]
+            * [[:amanira | Amanira]], a drow druid.
+            * [[:ayr | Ayr]], gnome paladin.
+            * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
+            * [[:pin | Pin]], a human fighter.
+            * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
+            * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
+            * [[:wilrin-racenglade | Wilrin Ravenglade]], a halfling sorcerer.
+        [end-content]
+    [end-accordion-item]
+    [accordion-item]
+        [title] Associates and Companions [end-title]
+        [content]
+            * [[:kithrak-ii | Kithrak II]], an undead dragon.
+            * [[:tama | Tama]], a giant stoat.
+        [end-content]
+    [end-accordion-item]
+    [accordion-item]
+        [title] The Greysheath Household [end-title]
+        [content]
+            * [[:regnif-d-log | Regnif d'Log]], also known as Goldfinger.
+            * [[:marceline | Marceline]], the Snake.
+            * [[:arouraios | Arouraios]], the Weasel.
+            * [[:jean-de-dinteville | Paddington de Dinterville]], one of the Bears.
+            * [[:georges-de-selve | Georges de Selve]], one of the Bears.
+            * Wahibre, a servant.
+            * Harsa, a servant.
+        [end-content]
+    [end-accordion-item]
+[end-accordion]
+
+h2. The House Wakes
+
+_The night Greysheath was breached_
+
+The Wonch had divided Greysheath between them, but the house was not as unaware of their presence as they had hoped. A disturbance on the upper floors drew the attention of the household, and the careful infiltration became a confrontation almost at once.
+
+The Anathemists did not react like frightened servants or cornered smugglers. They reacted like people who had prepared the building to become a weapon. Doors, passages, obstacles, smoke, fire, and hidden routes all formed part of the same plan. Every movement through the house had been anticipated as a possible escape, and every delay was an opportunity to make pursuit harder.
+
+Their hatred of magic users was just as obvious. The Anathemists did not merely oppose the Wonch as investigators or enemies of their operation. They singled out anyone who cast a spell, treated magic as a moral contamination, and answered every working of magic with particular contempt and violence. The hostility was personal even when the spell was not directed at them. To the Anathemists, the Wonch's magic was proof of the evil they believed they had come to eradicate.
+
+h2. Goldfinger
+
+Regnif d'Log appeared in the confusion. The name from the gate records was only a cover; the man was Goldfinger, the fixer whose work had brought the Wonch into the investigation in the first place.
+
+The revelation lasted only as long as the fight. Goldfinger was incapacitated in the opening exchange, and [[:ayr | Ayr]] found himself standing over him with the old vengeance in his shield. Whatever restraint remained was not enough. Under the influence of the curse, Ayr brought the shield down in a brutal two-handed strike, cleaving through Goldfinger and into the floor. [[:pin | Pin]] was close enough that the blow nearly caught him as well.
+
+The execution was deliberate, but not wholly Ayr's. The cursed shield's vengeful influence turned the opportunity into an imperative, and Goldfinger was dead before the Wonch could question him. The party had confirmation, but no explanation of how far his criminal network reached.
+
+h2. The Burn Plan
+
+The Anathemists moved immediately to the next stage. Prepared traps went off throughout the house. Fire took hold, smoke filled the passages, and the servants' routes became hazards as doors sealed, obstructions fell, and the building's carefully arranged exits opened and closed around the intruders.
+
+Arouraios seized a case of documents and made for the basement. [[:amanira | Amanira]] pursued him, while [[:kithrak-ii | Kithrak II]], Deathwalker, and [[:tama | Tama]] followed through the house. The Weasel was no longer trying to preserve his cover or protect the household. He was trying to get the information out.
+
+[[:marceline | Marceline]] was caught near a window. The Snake fought to escape, using the burning house and the smoke as cover, but the Wonch held her in place. When her last routes failed, she was killed. The party later removed her head, leaving no doubt that Marceline would not be coordinating another Anathemist operation in Sindrel.
+
+h2. The Bears Arrive
+
+The fire and fighting brought the Bears into the house.
+
+[[:georges-de-selve | Georges de Selve]] fought [[:pin | Pin]], Wilrin, and Ayr in the stairwell. He was losing, and the outcome was becoming clear. Rather than surrender, he detonated a black-powder bomb in an attempt to take his opponents with him.
+
+The explosion killed Georges, knocked Wilrin down in the entrance hall, and set the stairwell burning around Pin and Ayr. It also gave the surviving agents the confusion they needed to keep moving through the house.
+
+In the adjoining room, [[:silrie-aegiskiir | Silrie]] fought the other Bear: [[:jean-de-dinteville | Paddington de Dinterville]], formerly known as Jean de Dinteville. The name had changed; the man had not. He was still the dangerous merchant from the road, still fighting for the Anathemist cell, and still refusing to make the party's work easy.
+
+Elsewhere, Wahibre was locked in a cupboard while the fire spread through the house. Harsa's location was not established.
+
+h2. The House in Flames
+
+By the end of the night, Greysheath had become several battles at once. Arouraios had escaped into the basement with the document case, pursued by Amanira, Kithrak, Deathwalker, and Tama. In the drawing room, Kithrak, Deathwalker, and Tama stood over Marceline's corpse. Silrie remained engaged with Paddington. Wilrin lay unconscious in the entrance hall. Pin and Ayr were trapped in a burning stairwell, with Georges de Selve dead at their feet.
+
+The Wonch had found the Anathemists' house. They had also found the cost of entering it.
+
+<!-- GM_INFO_START -->
+h2. Prep pointers
+
+* Arouraios is in the basement with the document case and is being pursued.
+* Paddington de Dinterville is still alive and fighting Silrie.
+* Wahibre is locked in the cupboard.
+* Harsa's position remains unresolved.
+* The next log should establish what happened to the documents, the surviving servants, and the fire at Greysheath.
+<!-- GM_INFO_END -->
