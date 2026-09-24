@@ -1,13 +1,13 @@
 ---
-op_id:
+op_id: 271f5cd8e5fc41f692a2b3493c2fb00a
 op_slug: session-15-greysheath-burning
 op_kind: Wiki
 op_type: Post
 name: 'Session 15: Greysheath Burning'
 title: 'Session 15: Greysheath Burning'
-op_url:
-op_created_at:
-op_updated_at:
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-15-greysheath-burning
+op_created_at: '2026-09-24T17:42:31Z'
+op_updated_at: '2026-09-24T17:42:31Z'
 op_gm_only: false
 tags: []
 post_title: 'Session 15: Greysheath Burning'

@@ -1,13 +1,13 @@
 ---
-op_id:
+op_id: eb4141902c9d4fa88ab9681dc511b367
 op_slug: session-14-the-bound-garden
 op_kind: Wiki
 op_type: Post
 name: 'Session 14: The Bound Garden'
 title: 'Session 14: The Bound Garden'
-op_url:
-op_created_at:
-op_updated_at:
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-14-the-bound-garden
+op_created_at: '2026-09-24T17:42:30Z'
+op_updated_at: '2026-09-24T17:42:30Z'
 op_gm_only: false
 tags: []
 post_title: 'Session 14: The Bound Garden'

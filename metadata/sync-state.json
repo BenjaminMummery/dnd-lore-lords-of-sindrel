@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-08-25T18:57:47Z",
+  "last_git_publish": "2026-09-24T17:43:43Z",
   "last_portal_pull": "2026-09-24T12:41:37Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -421,6 +421,16 @@
       "repo_blob_sha": "5551d7fb4bb15a7a0dd72d4194be97b534d44995",
       "repo_hash_at_sync": "985f89c21d0685ba36074fe4f79c3d5d288a8dd7d857c5bfad7e8aa644aa39b0",
       "repo_path": "lore/characters/kithrak-ii.textile"
+    },
+    "271f5cd8e5fc41f692a2b3493c2fb00a": {
+      "last_synced_title": "Session 15: Greysheath Burning",
+      "op_id": "271f5cd8e5fc41f692a2b3493c2fb00a",
+      "op_kind": "Wiki",
+      "op_slug": "session-15-greysheath-burning",
+      "op_updated_at": "2026-09-24T17:42:31Z",
+      "repo_blob_sha": "af5a6a44de79a5e42fa121c89abd0303a138b062",
+      "repo_hash_at_sync": "5ff519c6dfb4afe614f7322664ac661ff24a8af35f0b1153ef1d97399b5eeaef",
+      "repo_path": "lore/wiki/adventure-log/session-15-greysheath-burning.textile"
     },
     "296cf30dcb054a71bfcc585e8aedd604": {
       "last_synced_title": "Willow Ravenglade",
@@ -967,9 +977,9 @@
       "op_id": "6eacb1bcf1914d3ab6564eada8c4d045",
       "op_kind": "Character",
       "op_slug": "jean-de-dinteville",
-      "op_updated_at": "2026-08-26T20:55:10Z",
-      "repo_blob_sha": "f0885258d120d87dbfc4aaaa27ce9b51d169dbdf",
-      "repo_hash_at_sync": "f8eef71becbccc91fb99101f6504fa17a2b565649ea2dbc131132c5aef319e99",
+      "op_updated_at": "2026-09-24T17:42:11Z",
+      "repo_blob_sha": "0e0b91db39eb08e4d9819495d7ca1cfbb23f4fa1",
+      "repo_hash_at_sync": "75e11989bb2c065c6a8b02b9fc99fb1f22fe5ba11a192750810e3435b3fbb7a7",
       "repo_path": "lore/characters/jean-de-dinteville.textile"
     },
     "6f9dfa0ebbf147a791ed50efe8aceb19": {
@@ -1267,9 +1277,9 @@
       "op_id": "9d238159f301494ea08cd185326fe371",
       "op_kind": "Character",
       "op_slug": "arouraios",
-      "op_updated_at": "2026-08-26T20:24:23Z",
-      "repo_blob_sha": "17045ee44710f3a719ed90cd9bdc4023aaa81a0b",
-      "repo_hash_at_sync": "cd2a91809dc16d2872acf7f3c25f243349731d37693be58cee7f98fd3a635d11",
+      "op_updated_at": "2026-09-24T17:41:58Z",
+      "repo_blob_sha": "6c1d3b075e4dcc2350ecb932e34c02e1251a190f",
+      "repo_hash_at_sync": "c6e8632696b10fffad0c3ffda2b53fc43d2132f42fcff8f01a5c4106394c92a9",
       "repo_path": "lore/characters/arouraios.textile"
     },
     "9ded0d990e7843c0aba38af113a1435d": {
@@ -1477,9 +1487,9 @@
       "op_id": "b98a65653b164125a107c0b7e65305a6",
       "op_kind": "Character",
       "op_slug": "georges-de-selve",
-      "op_updated_at": "2026-08-26T17:49:21Z",
-      "repo_blob_sha": "2d5412d37b961c7a45b8b5cd85c59d644408a50a",
-      "repo_hash_at_sync": "8257883ec52f35e8732184ae4bdb3f5f560e12ac36dfe9321b11653db03519c7",
+      "op_updated_at": "2026-09-24T17:42:08Z",
+      "repo_blob_sha": "f5d1e092855e5103135f222f866c8adb7354780b",
+      "repo_hash_at_sync": "682976389a2fc787989ec38cb5e29351b6fdfb2f36624bc11df87f82d69214b2",
       "repo_path": "lore/characters/georges-de-selve.textile"
     },
     "b9f6f920b1ca4174a771aa4a2c753b9e": {
@@ -1837,8 +1847,8 @@
       "op_id": "e29c0674519f48e68f931ab80cac0f3a",
       "op_kind": "Wiki",
       "op_slug": "session-x-planning",
-      "op_updated_at": "2026-08-25T18:55:07Z",
-      "repo_blob_sha": "56aaf1579bdc18d7fa7ed0fd21365c014ad7c53d",
+      "op_updated_at": "2026-09-24T17:42:35Z",
+      "repo_blob_sha": "448909c6d0bb40143a906ed6351c3d764628bfb8",
       "repo_hash_at_sync": "744c652126231561ab020562c605cf731a02268b813d3b9b6f7fb649868c9935",
       "repo_path": "lore/wiki/adventure-log/session-x-planning.textile"
     },
@@ -1881,6 +1891,16 @@
       "repo_blob_sha": "c87c48e3d332c5b8043a2943b4db69882e585deb",
       "repo_hash_at_sync": "9f6fa55cda16ab0dda500ca58a756c85787bd8b6737111e0c7f773b2bebfe21c",
       "repo_path": "lore/wiki/wiki/map-of-fallowhurst-college.textile"
+    },
+    "eb4141902c9d4fa88ab9681dc511b367": {
+      "last_synced_title": "Session 14: The Bound Garden",
+      "op_id": "eb4141902c9d4fa88ab9681dc511b367",
+      "op_kind": "Wiki",
+      "op_slug": "session-14-the-bound-garden",
+      "op_updated_at": "2026-09-24T17:42:30Z",
+      "repo_blob_sha": "018ff44c48a0846ec71d5735b62ac0d61b8c27e1",
+      "repo_hash_at_sync": "dbefb4314b711c63bb3b2bbe7ab2e6c13cd0b8b1c62fc5a516bfdf5459707574",
+      "repo_path": "lore/wiki/adventure-log/session-14-the-bound-garden.textile"
     },
     "eee373837b7b42ae83fffb913d22290c": {
       "last_synced_title": "High Summoner Nial Beltus",
