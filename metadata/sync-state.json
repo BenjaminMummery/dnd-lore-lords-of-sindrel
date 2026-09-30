@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-09-30T16:46:10Z",
+  "last_git_publish": "2026-09-30T16:48:01Z",
   "last_portal_pull": "2026-09-30T16:44:07Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -288,7 +288,7 @@
       "op_kind": "Wiki",
       "op_slug": "session-16-the-fire-spreads",
       "op_updated_at": "2026-09-30T16:44:48Z",
-      "repo_blob_sha": "b9cb06521eb45ee19d2310ca0d9d0f74dfd7ec53",
+      "repo_blob_sha": "7904cb3ffb588b16ebf75dc2600187bde7462ef9",
       "repo_hash_at_sync": "b28ae585dd2c680fdcfc467ff1ed5a0aae94eb873ca25de591a93005a3bf849f",
       "repo_path": "lore/wiki/adventure-log/session-16-the-fire-spreads.textile"
     },
