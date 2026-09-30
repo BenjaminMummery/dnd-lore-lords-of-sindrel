@@ -1,0 +1,112 @@
+---
+op_id:
+op_slug: session-16-the-fire-spreads
+op_kind: Wiki
+op_type: Post
+name: 'Session 16: The Fire Spreads'
+title: 'Session 16: The Fire Spreads'
+op_url:
+op_created_at:
+op_updated_at:
+op_gm_only: false
+tags: []
+post_title: 'Session 16: The Fire Spreads'
+post_tagline: two chases, a burning house, and a trail to Dockward
+post_time: '2026-09-24T21:00:00Z'
+---
+
+h2. Dramatis Personae
+
+[accordion]
+    [accordion-item]
+        [title] [[The Adventurers | The Adventurers]] [end-title]
+        [content]
+            * [[:amanira | Amanira]], a drow druid.
+            * [[:ayr | Ayr]], gnome paladin.
+            * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
+            * [[:pin | Pin]], a human fighter.
+            * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
+            * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
+            * [[:wilrin-racenglade | Wilrin Ravenglade]], a halfling sorcerer.
+        [end-content]
+    [end-accordion-item]
+    [accordion-item]
+        [title] Associates and Companions [end-title]
+        [content]
+            * [[:kithrak-ii | Kithrak II]], an undead dragon.
+            * [[:tama | Tama]], a giant stoat.
+        [end-content]
+    [end-accordion-item]
+    [accordion-item]
+        [title] The Greysheath Household [end-title]
+        [content]
+            * [[:arouraios | Arouraios]], the Weasel.
+            * [[:jean-de-dinteville | Paddington de Dinterville]], one of the Bears.
+            * Wahibre, a servant.
+            * Harsa, a servant.
+        [end-content]
+    [end-accordion-item]
+[end-accordion]
+
+h2. A House on Fire
+
+_The night of the Greysheath fire, 24 September 2026_
+
+Greysheath was burning.
+
+Marceline's body lay in the drawing room, her head removed and withered by the violence done to it. Georges de Selve was dead in the stairwell, killed by his own black-powder bomb. Wilrin was down. Pin and Ayr were still surrounded by fire. Wahibre remained locked in a cupboard, and another servant was somewhere in the house.
+
+The Anathemists' contingency plan had done exactly what it was designed to do. The house was no longer a residence but a series of burning routes, collapsing opportunities, and prepared obstacles. Every moment spent fighting gave the fire another room. Every moment spent chasing an enemy risked leaving someone else behind.
+
+The Wonch had to choose.
+
+h2. The Last Escape
+
+Silrie continued to fight Paddington de Dinterville in the adjoining room. The Bear had already seen enough of the battle to understand that the household was lost. When he heard that Marceline was dead, he abandoned the fight and ran for the window.
+
+He leapt from the house, cleared the first gap, and landed badly against the coach waiting outside. The impact should have ended the pursuit. Instead, Paddington rolled to his feet, seized the carriage, and tried to get it moving before the Wonch could reach him.
+
+The pursuit party set the carriage alight. The coach lurched forward through the street, burning behind the fleeing Bear. Magic, arrows, thrown weapons, and sheer persistence gradually reduced his lead. The horse broke free. The carriage lost its wheels. Paddington was forced into the street, limping and wounded, but still moving.
+
+One final burst of Anathemist preparation bought him time. Paddington scattered flash powder into the pursuit, then tried to break away through the alleys. A javelin caught him in the back and slowed him further. At the moment when the Wonch might have taken him, a brief unicorn-shaped manifestation appeared in the chaos, restoring the wounded pursuers just enough to keep them alive.
+
+Paddington escaped. He left behind blood, a ruined carriage, and the knowledge that the Wonch had found the cell operating out of Greysheath. The Bear was no longer an unseen name from an old ambush. He was now a living enemy who knew exactly who was hunting him.
+
+h2. The Weasel's Tunnel
+
+Arouraios had been cornered in the basement. He slipped free of Amanira's magic, reached the fireplace, and pressed a concealed switch. A section of the room opened, revealing a passage descending into the earth. The Weasel vanished into it before the Wonch could stop him.
+
+The tunnel was another part of the Anathemist escape plan: hidden, prepared, and designed to turn pursuit into a choice. Following Arouraios meant leaving the burning house and its trapped servants behind. Staying meant allowing the cell's remaining evidence to burn with the building.
+
+The Wonch split their attention. Pin and Ros turned back to rescue the servants and deal with anything still recoverable inside Greysheath. Others followed Arouraios into the tunnels. The house continued to fill with smoke while the investigation became a race against both the fire and the people who had started it.
+
+Arouraios did not escape. In the tunnels he nearly killed Deathwalker, but Wilrin intervened. A manifestation of wild magic in the shape of a unicorn appeared alongside him, and together they prevented Deathwalker's death. Arouraios perished in the tunnels.
+
+h2. What the Cell Was Planning
+
+The party recovered documents from the fleeing cell and from the routes through the house.
+
+One book contained maps of Sindrel and sections of the [[Osteomantic Archives | Osteomantic Archives]]. The route markings showed that the Anathemists had been using the linked archive passages to move around the city without being seen.
+
+The document tube contained large, detailed maps of [[Dockward | Dockward]], the airship docking ring suspended above Sindrel. Several sections had been marked in red ink. The party also recovered passes for work crews with access to Dockward.
+
+These were not the papers of a group planning only to flee. They were plans, routes, access credentials, and a staging ground. The investigation had reached beyond Greysheath and into the infrastructure that kept Sindrel alive.
+
+The Wonch had identified at least one Anathemist cell, survived its attempt to burn its own house around them, and recovered enough information to locate the cell's staging ground. The fire had destroyed some evidence. It had not destroyed the investigation.
+
+h2. The Cost of the Victory
+
+By the time the survivors could breathe, Greysheath was no longer safe to occupy. Marceline, Georges, and Arouraios were dead. Paddington was wounded but free. The servants had been left in the middle of a house that had been designed to kill anyone who remained too long.
+
+The Wonch had entered Greysheath looking for the people behind the city's sabotage. They left with a dead cell leader, a trail into the Osteomantic Archives, and a new destination above the city.
+
+Dockward was next.
+
+<!-- GM_INFO_START -->
+h2. Prep pointers
+
+* Paddington de Dinterville survived the chase and remains at large.
+* Arouraios perished in the hidden tunnels after nearly killing Deathwalker; Wilrin and a wild-magic unicorn saved her.
+* The recovered documents point to Anathemist activity in Dockward and the Osteomantic Archives.
+* Confirm the final fate of Harsa and the exact condition of the servants before the next published log.
+<!-- GM_INFO_END -->
