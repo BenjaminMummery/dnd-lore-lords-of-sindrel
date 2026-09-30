@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-09-24T17:43:43Z",
+  "last_git_publish": "2026-09-30T16:46:10Z",
   "last_portal_pull": "2026-09-30T16:44:07Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -282,6 +282,16 @@
       "repo_hash_at_sync": "71275a1353fa1cb53ef229606f530d7d9dacd25690866c2d6665f9fbaa8dfad3",
       "repo_path": "lore/wiki/wiki/peaches-of-immortality.textile"
     },
+    "1c1462e4482048bd85de24cca11e32ac": {
+      "last_synced_title": "Session 16: The Fire Spreads",
+      "op_id": "1c1462e4482048bd85de24cca11e32ac",
+      "op_kind": "Wiki",
+      "op_slug": "session-16-the-fire-spreads",
+      "op_updated_at": "2026-09-30T16:44:48Z",
+      "repo_blob_sha": "b9cb06521eb45ee19d2310ca0d9d0f74dfd7ec53",
+      "repo_hash_at_sync": "b28ae585dd2c680fdcfc467ff1ed5a0aae94eb873ca25de591a93005a3bf849f",
+      "repo_path": "lore/wiki/adventure-log/session-16-the-fire-spreads.textile"
+    },
     "1cb4e852c161448fb5111f85a43e3b5d": {
       "last_synced_title": "Soulwind",
       "op_id": "1cb4e852c161448fb5111f85a43e3b5d",
@@ -427,9 +437,9 @@
       "op_id": "271f5cd8e5fc41f692a2b3493c2fb00a",
       "op_kind": "Wiki",
       "op_slug": "session-15-greysheath-burning",
-      "op_updated_at": "2026-09-30T16:08:47Z",
-      "repo_blob_sha": "47f0614fb10ba6cfe80ccf54275f4f92d84f1eff",
-      "repo_hash_at_sync": "7ee1876ccc6764da8cf2b66a4df98f70158fd1eb2ad7a9a133167a754914c0f2",
+      "op_updated_at": "2026-09-30T16:44:47Z",
+      "repo_blob_sha": "eef651f1b1fc1fd16de34f6499c805f4ff00d502",
+      "repo_hash_at_sync": "9c72e0c8becd7e22f76e0dbce93e9a0206bb841b89d2924d769b2ff5529d7b99",
       "repo_path": "lore/wiki/adventure-log/session-15-greysheath-burning.textile"
     },
     "296cf30dcb054a71bfcc585e8aedd604": {
@@ -1847,9 +1857,9 @@
       "op_id": "e29c0674519f48e68f931ab80cac0f3a",
       "op_kind": "Wiki",
       "op_slug": "session-x-planning",
-      "op_updated_at": "2026-09-24T17:57:15Z",
-      "repo_blob_sha": "448909c6d0bb40143a906ed6351c3d764628bfb8",
-      "repo_hash_at_sync": "bb35754df02de98fa4f514f8f192435e4edfe7abf1b50132e4a15d7cec92d6c6",
+      "op_updated_at": "2026-09-30T16:44:53Z",
+      "repo_blob_sha": "e08b0a7289e513ccefde55ef5704f1ec963e7a29",
+      "repo_hash_at_sync": "744c652126231561ab020562c605cf731a02268b813d3b9b6f7fb649868c9935",
       "repo_path": "lore/wiki/adventure-log/session-x-planning.textile"
     },
     "e2da37ba92ce4862a0165713a93c5a64": {
@@ -1897,9 +1907,9 @@
       "op_id": "eb4141902c9d4fa88ab9681dc511b367",
       "op_kind": "Wiki",
       "op_slug": "session-14-the-bound-garden",
-      "op_updated_at": "2026-09-30T16:08:35Z",
-      "repo_blob_sha": "1459ddbdfc866ecc6b08e62d17f35f660a2188bf",
-      "repo_hash_at_sync": "5d68439652812831cfb198e53e3a57a9b78cbe9bd58f885778e5c4fd575f9af1",
+      "op_updated_at": "2026-09-30T16:44:46Z",
+      "repo_blob_sha": "d01319682db602d553f297001122cef058848fd7",
+      "repo_hash_at_sync": "8587edc6e90bb41827ccbd35ad8b5b99271d59f75bfda6b7e676f590949c16b5",
       "repo_path": "lore/wiki/adventure-log/session-14-the-bound-garden.textile"
     },
     "eee373837b7b42ae83fffb913d22290c": {
