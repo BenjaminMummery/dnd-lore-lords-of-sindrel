@@ -7,7 +7,7 @@ name: 'Session X: Planning'
 title: 'Session X: Planning'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-x-planning
 op_created_at: '2026-07-14T17:41:44Z'
-op_updated_at: '2026-08-08T07:10:38Z'
+op_updated_at: '2026-09-24T17:57:15Z'
 op_gm_only: true
 tags: []
 post_title: 'Session X: Planning'
@@ -25,13 +25,11 @@ h3. 1. Greysheath House
 The party must:
 
 * Recover physical evidence before the fire, smoke, and structural damage destroy it:
-** charcoal receipts and orders;
-** the forged Kelferria armour commission;
-** household ledgers and messages sent in d'Log's name;
-** the partially burned Oestra folder;
-** powder-marked cart cloths;
-** the servant's calendar;
-** Marceline's appointment book;
+** charcoal receipts and orders (drawing room 2);
+** the forged Kelferria armour commission (Document Room);
+** household ledgers and messages sent in d'Log's name (Library);
+** the partially burned Oestra folder (M's room, fireplace);
+** Marceline's prayer book (M's Room);
 * Save Harsa, Wahibre, and any other servants endangered by the burn plan.
 * Capture or kill the fleeing Anathemists.
 * Recover the documents in Aourorious's possession:

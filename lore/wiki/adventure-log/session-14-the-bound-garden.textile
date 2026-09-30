@@ -7,8 +7,8 @@ name: 'Session 14: The Bound Garden'
 title: 'Session 14: The Bound Garden'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-14-the-bound-garden
 op_created_at: '2026-09-24T17:42:30Z'
-op_updated_at: '2026-09-24T17:42:30Z'
-op_gm_only: false
+op_updated_at: '2026-09-30T16:08:35Z'
+op_gm_only: true
 tags: []
 post_title: 'Session 14: The Bound Garden'
 post_tagline: demons, desires, and a house under watch

@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-09-24T17:43:43Z",
-  "last_portal_pull": "2026-09-24T12:41:37Z",
+  "last_portal_pull": "2026-09-30T16:44:07Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -427,9 +427,9 @@
       "op_id": "271f5cd8e5fc41f692a2b3493c2fb00a",
       "op_kind": "Wiki",
       "op_slug": "session-15-greysheath-burning",
-      "op_updated_at": "2026-09-24T17:42:31Z",
-      "repo_blob_sha": "af5a6a44de79a5e42fa121c89abd0303a138b062",
-      "repo_hash_at_sync": "5ff519c6dfb4afe614f7322664ac661ff24a8af35f0b1153ef1d97399b5eeaef",
+      "op_updated_at": "2026-09-30T16:08:47Z",
+      "repo_blob_sha": "47f0614fb10ba6cfe80ccf54275f4f92d84f1eff",
+      "repo_hash_at_sync": "7ee1876ccc6764da8cf2b66a4df98f70158fd1eb2ad7a9a133167a754914c0f2",
       "repo_path": "lore/wiki/adventure-log/session-15-greysheath-burning.textile"
     },
     "296cf30dcb054a71bfcc585e8aedd604": {
@@ -1847,9 +1847,9 @@
       "op_id": "e29c0674519f48e68f931ab80cac0f3a",
       "op_kind": "Wiki",
       "op_slug": "session-x-planning",
-      "op_updated_at": "2026-09-24T17:42:35Z",
+      "op_updated_at": "2026-09-24T17:57:15Z",
       "repo_blob_sha": "448909c6d0bb40143a906ed6351c3d764628bfb8",
-      "repo_hash_at_sync": "744c652126231561ab020562c605cf731a02268b813d3b9b6f7fb649868c9935",
+      "repo_hash_at_sync": "bb35754df02de98fa4f514f8f192435e4edfe7abf1b50132e4a15d7cec92d6c6",
       "repo_path": "lore/wiki/adventure-log/session-x-planning.textile"
     },
     "e2da37ba92ce4862a0165713a93c5a64": {
@@ -1897,9 +1897,9 @@
       "op_id": "eb4141902c9d4fa88ab9681dc511b367",
       "op_kind": "Wiki",
       "op_slug": "session-14-the-bound-garden",
-      "op_updated_at": "2026-09-24T17:42:30Z",
-      "repo_blob_sha": "018ff44c48a0846ec71d5735b62ac0d61b8c27e1",
-      "repo_hash_at_sync": "dbefb4314b711c63bb3b2bbe7ab2e6c13cd0b8b1c62fc5a516bfdf5459707574",
+      "op_updated_at": "2026-09-30T16:08:35Z",
+      "repo_blob_sha": "1459ddbdfc866ecc6b08e62d17f35f660a2188bf",
+      "repo_hash_at_sync": "5d68439652812831cfb198e53e3a57a9b78cbe9bd58f885778e5c4fd575f9af1",
       "repo_path": "lore/wiki/adventure-log/session-14-the-bound-garden.textile"
     },
     "eee373837b7b42ae83fffb913d22290c": {
