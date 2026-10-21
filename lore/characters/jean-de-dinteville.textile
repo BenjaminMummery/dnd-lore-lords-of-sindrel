@@ -36,25 +36,23 @@ fn2. [[Session 4: Sindrel! | Session 4: Sindrel!]]
 </div>
 
 <!-- GM_INFO_START -->
-Real name: Jean de Dinteville
-
 Zealot name: *Let the Proud Stumble at the Feast*
 
 h2. Role in the Anathemist Plot
 
-Jean de Dinteville is one of the [[Anathemists | Anathemist]] agents operating under the cover of a wealthy merchant. He entered [[Sindrel | Sindrel]] with [[:georges-de-selve | Georges de Selve]] on the **33rd of Eptan 4218 ([[The Soulwind Calendar | SC]])**, separately from [[:regnif-d-log | Regnif d'Log]], [[:marceline | Marceline]], and [[:arouraios | Arouraios]] (household **32nd Eptan**). This allowed the cell to maintain two plausible social fronts inside the city: a respectable merchant partnership and a visiting household retinue.
+Paddington de Dinteville is one of the [[Anathemists | Anathemist]] agents operating under the cover of a wealthy merchant. He entered [[Sindrel | Sindrel]] with [[:georges-de-selve | Georges de Selve]] on the **33rd of Eptan 4218 ([[The Soulwind Calendar | SC]])**, separately from [[:regnif-d-log | Regnif d'Log]], [[:marceline | Marceline]], and [[:arouraios | Arouraios]] (household **32nd Eptan**). This allowed the cell to maintain two plausible social fronts inside the city: a respectable merchant partnership and a visiting household retinue.
 
-Jean is a **senior lieutenant** to [[:marceline | Marceline]], the cell lead. Target selection and social access (e.g. the [[Ditchquer | Ditchquer]] night, the [[House Lithra | Lithra]] punchbowl scandal) serve objectives Marceline sets; Jean does not run the cell independently.
+Paddington is a **senior lieutenant** to [[:marceline | Marceline]], the cell lead. Target selection and social access (e.g. the [[Ditchquer | Ditchquer]] night, the [[House Lithra | Lithra]] punchbowl scandal) serve objectives Marceline sets; Paddington does not run the cell independently.
 
-Jean acts as the cell's social infiltrator and intelligence gatherer. Where [[:georges-de-selve | Georges]] handles goods, carts, and commercial logistics, Jean handles people, invitations, timings, and access. He uses merchant society, high-status hospitality, and polite conversation to learn where important figures will be, when they will be distracted, and which civic or House functions offer useful cover.
+Paddington acts as the cell's social infiltrator and intelligence gatherer. Where [[:georges-de-selve | Georges]] handles goods, carts, and commercial logistics, Paddington handles people, invitations, timings, and access. He uses merchant society, high-status hospitality, and polite conversation to learn where important figures will be, when they will be distracted, and which civic or House functions offer useful cover.
 
-In the sabotage campaign before the [[Ditchquer | Ditchquer]] closing ceremony, Jean helped identify opportunities where disruption will conceal theft or movement. He gathered information about patrol habits, guest access, House routines, and civic ceremonies. He also helps identify the [[Ditchquer | Ditchquer]] closing ceremony as the ideal night for the [[The Fulcrum | Fulcrum]] diversion and the intrusion into [[:silas-oestra | Silas Oestra]]'s rooms.
+In the sabotage campaign before the [[Ditchquer | Ditchquer]] closing ceremony, Paddington helped identify opportunities where disruption will conceal theft or movement. He gathered information about patrol habits, guest access, House routines, and civic ceremonies. He also helps identify the [[Ditchquer | Ditchquer]] closing ceremony as the ideal night for the [[The Fulcrum | Fulcrum]] diversion and the intrusion into [[:silas-oestra | Silas Oestra]]'s rooms.
 
-Jean also helped select the [[House Lithra | House Lithra]] diplomatic incident as a useful piece of destabilisation. By identifying a social function where an enchanted punch ladle could create scandal rather than obvious violence, he contributed to the pattern of accidents that seemed strange, embarrassing, or alarming without immediately revealing a coherent military objective.
+Paddington also helped select the [[House Lithra | House Lithra]] diplomatic incident as a useful piece of destabilisation. By identifying a social function where an enchanted punch ladle could create scandal rather than obvious violence, he contributed to the pattern of accidents that seemed strange, embarrassing, or alarming without immediately revealing a coherent military objective.
 
-During the [[Ditchquer | Ditchquer]] closing ceremony, Jean and Georges planted the explosive devices beneath [[The Fulcrum | The Fulcrum]]. After [[:marceline | Marceline]] stole [[:silas-oestra | Silas Oestra]]'s key and passed it to [[:arouraios | Arouraios]], Jean and Georges emerged from the tunnels and collected it.
+During the [[Ditchquer | Ditchquer]] closing ceremony, Paddington and Georges planted the explosive devices beneath [[The Fulcrum | The Fulcrum]]. After [[:marceline | Marceline]] stole [[:silas-oestra | Silas Oestra]]'s key and passed it to [[:arouraios | Arouraios]], Paddington and Georges emerged from the tunnels and collected it.
 
-Jean and Georges then travelled through the [[Osteomantic Archives | archives]], collected [[:nielsenn | Nielsenn]] from the [[Quarantine Zone | Sacrum]], then emerged within the [[House Oestra | Leageur]] wearing armour whose painted symbol passed as [[House Oestra | House Oestra]] in the dark. With Silas's key and Nielsenn's locksmith skills, they accessed [[:silas-oestra | Silas Oestra]]'s rooms, copied what they could, and stole what they could not. Jean and Georges then took Nielsenn back to the cell's headquarters, killed him, and left [[Sindrel | Sindrel]], returning to their merchant identities.
+Paddington and Georges then travelled through the [[Osteomantic Archives | archives]], collected [[:nielsenn | Nielsenn]] from the [[Quarantine Zone | Sacrum]], then emerged within the [[House Oestra | Leageur]] wearing armour whose painted symbol passed as [[House Oestra | House Oestra]] in the dark. With Silas's key and Nielsenn's locksmith skills, they accessed [[:silas-oestra | Silas Oestra]]'s rooms, copied what they could, and stole what they could not. Paddington and Georges then took Nielsenn back to the cell's headquarters, killed him, and left [[Sindrel | Sindrel]], returning to their merchant identities.
 
 Thirty-five days after the [[Ditchquer | Ditchquer]] heist they returned to [[Sindrel | Sindrel]] for more “merchanting”, this time in the company of [[The Adventurers | The Adventurers]] (*26th Enean 4218* — see player-facing bio).
 
@@ -85,14 +83,14 @@ h3. Timeline
 
 h3. Investigative footprint
 
-Evidence pointing to Jean may include guest lists, polite correspondence, servants' recollections, seating charts, introductions to House officials, and his presence at gatherings that later become relevant to sabotage timings. Jean should feel like someone who never forced a door because he was always invited through one.
+Evidence pointing to Paddington may include guest lists, polite correspondence, servants' recollections, seating charts, introductions to House officials, and his presence at gatherings that later become relevant to sabotage timings. Paddington should feel like someone who never forced a door because he was always invited through one.
 
 h2. Stat block
 
-<p>Jean disrupts the party's coordination long enough for the others to leave. He uses <strong>Flash-Powder Courtesy</strong> and <strong>After You</strong> before committing to attacks. If cornered beside an ally, <strong>Social Predator</strong> makes his full routine dangerous.</p>
+<p>Paddington disrupts the party's coordination long enough for the others to leave. He uses <strong>Flash-Powder Courtesy</strong> and <strong>After You</strong> before committing to attacks. If cornered beside an ally, <strong>Social Predator</strong> makes his full routine dangerous.</p>
 
 <div class="stat-block">
-<h3>Jean de Dinteville, Pride's Stumbling Block</h3>
+<h3>Paddington de Dinteville, Pride's Stumbling Block</h3>
 <p><em>Medium humanoid (human), lawful evil</em></p>
 <p><strong>Armor Class</strong> 16 (studded leather beneath fine clothes)<br>
 <strong>Hit Points</strong> 68 (8d8 + 32)<br>
@@ -111,18 +109,18 @@ h2. Stat block
 <strong>Challenge</strong> 4 (1,100 XP)<br>
 <strong>Proficiency Bonus</strong> +3</p>
 <hr>
-<p><strong>Anathema's Fury.</strong> When a creature Jean can see within 60 feet casts a spell, Jean has advantage on attack rolls against that creature until the end of Jean's next turn.</p>
-<p><strong>Cunning Action.</strong> On each of his turns, Jean can take the Dash, Disengage, or Hide action as a bonus action.</p>
-<p><strong>Social Predator (1/Turn).</strong> Jean deals an extra 7 (2d6) damage when he hits with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of one of Jean's allies and Jean doesn't have disadvantage on the roll.</p>
+<p><strong>Anathema's Fury.</strong> When a creature Paddington can see within 60 feet casts a spell, Paddington has advantage on attack rolls against that creature until the end of Paddington's next turn.</p>
+<p><strong>Cunning Action.</strong> On each of his turns, Paddington can take the Dash, Disengage, or Hide action as a bonus action.</p>
+<p><strong>Social Predator (1/Turn).</strong> Paddington deals an extra 7 (2d6) damage when he hits with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of one of Paddington's allies and Paddington doesn't have disadvantage on the roll.</p>
 <hr>
 <h4>Actions</h4>
-<p><strong>Multiattack.</strong> Jean makes two rapier or hand crossbow attacks.</p>
+<p><strong>Multiattack.</strong> Paddington makes two rapier or hand crossbow attacks.</p>
 <p><strong>Rapier.</strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (1d8 + 3) piercing damage.</p>
 <p><strong>Hand Crossbow.</strong> <em>Ranged Weapon Attack:</em> +6 to hit, range 30/120 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-<p><strong>Flash-Powder Courtesy (2/Day).</strong> Jean scatters flash powder at a point within 20 feet. Each creature other than an Anathemist in a 10-foot-radius sphere centred on that point must succeed on a DC 14 Constitution saving throw or be blinded and unable to take reactions until the end of Jean's next turn. On a success, a creature is not blinded but still cannot take reactions until the start of its next turn.</p>
-<p><strong>Cutting Appraisal (Recharge 5–6).</strong> Jean names a hesitation he has observed in a creature that can hear and understand him within 30 feet. The target must succeed on a DC 14 Wisdom saving throw or have disadvantage on attack rolls against creatures other than Jean until the end of Jean's next turn. Until then, Jean's allies have advantage on opportunity attacks against the target.</p>
+<p><strong>Flash-Powder Courtesy (2/Day).</strong> Paddington scatters flash powder at a point within 20 feet. Each creature other than an Anathemist in a 10-foot-radius sphere centred on that point must succeed on a DC 14 Constitution saving throw or be blinded and unable to take reactions until the end of Paddington's next turn. On a success, a creature is not blinded but still cannot take reactions until the start of its next turn.</p>
+<p><strong>Cutting Appraisal (Recharge 5–6).</strong> Paddington names a hesitation he has observed in a creature that can hear and understand him within 30 feet. The target must succeed on a DC 14 Wisdom saving throw or have disadvantage on attack rolls against creatures other than Paddington until the end of Paddington's next turn. Until then, Paddington's allies have advantage on opportunity attacks against the target.</p>
 <hr>
 <h4>Reactions</h4>
-<p><strong>After You.</strong> When Jean is targeted by an attack while within 5 feet of a conscious creature, he can move 5 feet without provoking an opportunity attack. If this movement places that creature between Jean and the attacker, Jean gains +3 AC against the triggering attack, potentially causing it to miss.</p>
+<p><strong>After You.</strong> When Paddington is targeted by an attack while within 5 feet of a conscious creature, he can move 5 feet without provoking an opportunity attack. If this movement places that creature between Paddington and the attacker, Paddington gains +3 AC against the triggering attack, potentially causing it to miss.</p>
 </div>
 <!-- GM_INFO_END -->

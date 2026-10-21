@@ -1,0 +1,67 @@
+---
+op_slug: harsa-nefer
+op_kind: Character
+op_type: Character
+name: Harsa Nefer
+title: Harsa Nefer
+op_gm_only: false
+is_player_character: false
+tags:
+- she/her
+- Human
+- House Lithra
+- Adjutant
+---
+
+<!-- OP_DESCRIPTION -->
+You see a human woman in her forties with warm brown skin and a slight, tired build — the posture of someone who has been on her feet since before dawn. Her grey hair is coiled at the nape in a style meant to stay neat through a long shift. She wears [[House Lithra | Lithra]] household grey: layered ash wool and linen, practical rather than theatrical, with a gold adjutant bracelet at the wrist. She presents as quiet and professionally invisible, the kind of upper-floor servant guests forget until they need fresh linens. She speaks softly, in short sentences, and does not volunteer what she was not asked.
+
+<!-- OP_BIO -->
+[[Adjutant | Adjutant]] of [[House Lithra | House Lithra]] — upstairs and pantry staff at Greysheath House on Ambassador Street.
+
+* *32nd of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
+** Named by [[:cedric | Cedric]] at [[Radwasp House | Radwasp House]] as one of Greysheath's Lithra adjutants, alongside [[:wahibre-ten-sutekh | Wahibre ten-Sutekh]]; he saw no suspicious behaviour from either, though charcoal deliveries to the house had been unusually frequent.[2]
+* *Night of the 32nd of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[3]
+** Caught somewhere in the smoke when the Anathemists burned Greysheath around the Wonch.
+** [[:pin | Pin]] and [[:rossin-ros-greyhirst | Ros]] brought her out alive with Wahibre.
+
+<div class="op-footnotes">
+
+fn1. [[Session 14: The Bound Garden | Session 14: The Bound Garden]]
+
+fn2. [[Session 14: The Bound Garden | Session 14: The Bound Garden]]
+
+fn3. [[Session 16: The Fire Spreads | Session 16: The Fire Spreads]]
+
+</div>
+
+<!-- GM_INFO_START -->
+h2. Prep
+
+* **Duties:** upstairs rooms, linens, fires, plate; keeps kitchen and pantry vaguely in order. Genuine household staff — not Anathemist cover.
+* **Household calendar (investigation clue):** Harsa records linen days, formal dinners, and nights when [[:marceline | Marceline]] or [[:arouraios | Arouraios]] told staff not to wait up. Unexplained absences align with city-wide sabotage dates (Grimbolg flood, [[:nielsenn | Nielsenn]]'s disappearance, Beltus summoning, Isius scandal, later Goela / Mabon / Meness incidents). Recoverable from Greysheath if the party searches before or despite the fire — otherwise GM discretion whether pages survived.
+* After rescue: exhausted, loyal to procedure, unlikely to lie for the cell; may not have understood what she was recording.
+
+h2. Stat block
+
+<p><em>Non-combatant.</em></p>
+
+<div class="stat-block">
+<h3>Harsa Nefer</h3>
+<p><em>Medium humanoid (human), lawful neutral</em></p>
+<p><strong>Armor Class</strong> 10<br>
+<strong>Hit Points</strong> 9 (2d8)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +0</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>10 (+0)</td><td>10 (+0)</td><td>10 (+0)</td><td>12 (+1)</td><td>13 (+1)</td><td>11 (+0)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> Insight +3, Investigation +3<br>
+<strong>Senses</strong> passive Perception 11<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 0 (10 XP)</p>
+</div>
+<!-- GM_INFO_END -->

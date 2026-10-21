@@ -1,0 +1,186 @@
+---
+op_slug: session-17-summons-and-the-archives-descent
+op_kind: Wiki
+op_type: Post
+name: 'Session 17: Summons and the Archives Descent'
+title: 'Session 17: Summons and the Archives Descent'
+op_gm_only: false
+tags: []
+post_title: 'Session 17: Summons and the Archives Descent'
+post_tagline: Oestra's heir, Mabon steel, and a bridge of brass
+post_time: '2026-09-30T18:49:00Z'
+---
+
+h2. Dramatis Personae
+
+[accordion]
+    [accordion-item]
+        [title] [[The Adventurers | The Adventurers]] [end-title]
+        [content]
+            * [[:amanira | Amanira]], a drow druid.
+            * [[:ayr | Ayr]], gnome paladin.
+            * [[:nakoma-deathwalker-mor-got-ha | Nakoma Deathwalker Mor'got'ha]], a goliath barbarian.
+            * [[:pin | Pin]], a human fighter.
+            * [[:rossin-ros-greyhirst | Rossin "Ros" Greyhirst]], a half-elf ranger.
+            * [[:silrie-aegiskiir | Silrie Aegiskiir]], an astral-elf monk.
+            * [[:wilrin-racenglade | Wilrin Ravenglade]], a halfling sorcerer.
+        [end-content]
+    [end-accordion-item]
+    [accordion-item]
+        [title] Associates and Companions [end-title]
+        [content]
+            * [[:kithrak-ii | Kithrak II]], an undead dragon.
+            * [[:tama | Tama]], a giant stoat.
+        [end-content]
+    [end-accordion-item]
+    [accordion-item]
+        [title] [[House Oestra | House Oestra]] and the [[Hexine Circle | Hexine Circle]] [end-title]
+        [content]
+            * [[:silas-oestra | Silas Oestra]], heir apparent.
+            * [[:commander-locke | Prefect Locke]], Hexine Circle factor.
+        [end-content]
+    [end-accordion-item]
+    [accordion-item]
+        [title] Allies and artisans [end-title]
+        [content]
+            * [[:cedric | Cedric]], Radwasp adjutant.
+            * [[:kelferria-the-smith | Kelferria the Smith]], [[House Mabon | House Mabon]] armourer.
+            * Dan, a six-armed Thri-kreen tattooist in the artisan quarter.
+        [end-content]
+    [end-accordion-item]
+[end-accordion]
+
+h2. After Greysheath
+
+_Morning of the 33rd of Enean, year 4218 ([[The Soulwind Calendar | SC]])_
+
+The night on [[Merrylane | Ambassador Street]] had cost the Anathemists almost everything. [[:marceline | Marceline]], [[:georges-de-selve | Georges de Selve]], [[:arouraios | Arouraios]], and [[:regnif-d-log | Regnif d'Log]] were dead. [[:jean-de-dinteville | Paddington de Dinteville]] remained at large, wounded and hunted. The Wonch had route books, forged credentials, and maps pointing at [[Dockward | Dockward]] and the undercity — but they also had a burning neighbour, a melted archway in [[Radwasp House | Radwasp House]] where [[:wilrin-racenglade | Wilrin]]'s wild magic had vitrified limestone into an accidental side door, and a household adjutant measuring repair quotes with the expression of a man who had stopped believing in architecture.
+
+[[:cedric | Cedric]] drew hot baths anyway. Everyone took a long rest. By dawn the investigation's arithmetic was grimly clear: the sabotages had been cover for bomb-making; four of five embedded saboteurs were accounted for; only Paddington still had a pulse and a grudge, but his use of a flare clearly suggested that other cells might be at work in the city.
+
+h2. Silas Oestra's Summons
+
+The thunderous knock came at first light — eight [[House Oestra | Oestra]] soldiers in battle regalia and a messenger in finery, sent on the authority of [[:silas-oestra | Silas Oestra]] to escort the Wonch to the [[House Oestra | Leageur]] at last.
+
+The party decided they had allowed Silas to stew in his own juices for long enough.
+
+h3. Approach to the Leageur
+
+bq). The Leageur occupies an entire walled district of [[Sindrel | Sindrel]]'s ground level like a declaration of intent. While the headquarters of other Great Houses might resemble temples, libraries, palaces or occasionally architectural nervous breakdowns, the Leageur looks unmistakably like a fortress.
+<br>
+At least, it does after a second glance.
+<br>
+The first glance tends to be distracted by the marble.
+<br>
+House Oestra have covered the exterior of the complex in fluted columns, soaring domes and enough crimson pennants to suggest that a very patriotic hurricane has recently passed through. White marble gleams in the sunlight. Bronze doors tower overhead. Heroic statuary adorns every approach. The entire ensemble projects the reassuring message that civilisation was grand, noble and entirely in control of events.
+<br>
+The second glance noticed the murder holes.
+<br>
+The third noticed the iron gates.
+<br>
+By the fourth, you realise that the marble is largely decorative and that nearly every attractive feature conceals something designed to repel a siege.
+<br>
+The broad ceremonial avenues narrow abruptly at strategic points. Grand staircases can be sealed by portcullises hidden within ornamental arches. The elegant colonnades stand before walls thick enough to stop artillery, constructed from magically reinforced volcanic concrete and merely pretending to be marble for social reasons.
+<br>
+Beyond the walls lie a series of vast open spaces whose scale seems almost absurd. Parade grounds stretch across acres of stone. Assembly halls large enough to accommodate entire armies stand empty beneath colossal domes. Armouries occupy wings grander than most noble palaces.
+<br>
+And yet there are remarkably few people.
+<br>
+The result is a headquarters that feels less inhabited than prepared. Every courtyard appears ready for a parade. Every hall seems moments away from hosting a senate session. Every wall gives the impression that a war could begin at any moment.
+<br>
+At the very centre of the Leageur stands the Senate Hall of Oestra, crowned by its vast dome and surrounded by enough fortifications to survive the collapse of civilisation several times over.
+
+h3. The Senate Chamber
+
+bq). The Senate chamber of the Leageur is built to make visitors feel small on purpose: White stone, bronze Oestran sunburst, ranks of empty benches climbing into shadow. House guards stand at the walls with the bored competence of men who have never needed to be imaginative. At the far end of an expanse of polished marble floor stands a grand throne of dark iron atop a tiered dais.
+<br>
+[[:commander-locke | Prefect Locke]] waits by the Triumphal door — half-plate, eyepatch, arms folded, visibly wishing to be anywhere else.
+<br>
+[[:silas-oestra | Silas Oestra]] does not wait. He paces the floor before the dais, hand clenched on the hilt of his sword, knuckles white as bone. For all his rank, the heir of House Oestra wears his authority with palpable discomfort. A human who cannot quite have reached thirty: fair-skinned, lean, restless, with dark hair worn longer than strict [[House Oestra | Oestra]] fashion permits and a clean-shaven jaw that still looks a little unfinished. He wears Oestra finery as though armour could supply what birth has not yet granted — blackened breastplate over crimson cloth, bronze at the shoulders, long sword worn openly — every piece correct, nothing quite settled. Chest out, chin high, voice slightly nasal and much too fast, as if volume and procedure might stand in for respect. He speaks before you have fully stopped moving.
+
+bq). "There you are. At last. Why am I not surprised that you exhibit such reluctance to come when invited after seeming so eager to go poking around when unwelcome? It is customary to kneel, incidentally."
+
+bq). "Very well. I am given to understand that you were commissioned by a Hexine Circle to investigate the leak of privileged information, and by extension the series of so called sabotages that have plagued the Great Houses. Instead you have abused that authority to conduct a campaign of trespass and intimidation against **mine**.
+<br>
+You were caught emerging from regions of this House you had no authority nor permission to enter, and in which your very presence was an act of desecration against the lineage of this house, my lineage. Were that not enough, you proceeded to exploit the poor judgement of one of my prefects in order to muscle your way into essential and secret military infrastructure. And in pursuit of what, precisely? [[House Grimbolg | Grimbolg]] lost a silo. [[House Beltus | Beltus]] lost a caller to his own demon. [[House Lithra | Lithra]] caused an international embarrassment. Nothing that cannot be explained by lax discipline and carelessness. Meanwhile [[House Meness | Meness]] cannot keep our core infrastructure secure. And yet for some reason you appear to be focussed on _us_.
+<br>
+We suffered **no such incidents**. None. Our security held. Our people held. That is not a mystery. That is proof that whatever you are hunting, it is **not here**.
+<br>
+So explain to me — politely, if you can manage it — why my House keeps paying for your indiscretions."
+
+The Wonch offered almost none of the politeness Silas demanded. Deathwalker flourished the sword she had taken from the archives. Others bowed when it amused them, stared when it did not, and whispered just loudly enough about daddy issues for Silas's eye to twitch.
+
+bq). "Silence! I will not be lied to in my own hall. Were you members of my house I would have you executed for such insolence. Locke may have bought into your ridiculous tale, and believe me he will be suitably disciplined when my father returns, but I am not so easily misled. Were it up to me you would have no investigatorial mandate whatsoever - Founder's teeth all of this on the back of a few accidents, a failed bombing, and one anathemist saying 'Kosmios', my father would _weep_ to see how far we have fallen."
+<br>
+You see Locke stiffen. An odd expression passes across Silas's face for a second before he continues.
+<br>
+"The [[Hexine Circle | Hexine Circle]] commissioned you to find **spies**, not to invade my House. There is a difference, and I suggest you learn it before my father's patience - and mine - is exhausted.
+<br>
+You will investigate criminals, smugglers, the sort of vermin who nest in [[The Wallarch District | Wallarch]] dives. That is useful work. Breaking archive seals and bullying armourers is not investigation. It is **harassment**, and I will not have it recorded that House Oestra tolerated it.
+<br>
+Any further transgression of your bounds will be treated as an attack against the city, is that understood?"
+
+When the heir stormed out, [[:amanira | Amanira]] answered his exit with *druidcraft* — a phantom chicken clucking at his heels — while [[:commander-locke | Locke]] fought not to smile.
+
+h2. Project Kosmos
+
+With Silas gone, [[:commander-locke | Prefect Locke]] became the adult in the room.
+
+The Wonch pressed him on what the Anathemists had actually wanted — and on the name that Silas had inadventently let slip. **Project Kosmos**, Locke admitted, was real: a highly classified inter-house endeavour whose full purpose sat above his clearance and below only the highest factors. Every Hexine Circle member likely knew the name; almost none knew the blueprint. Silas almost certainly knew more than he had said, which made the heir's tantrum both more dangerous and more predictable.
+
+Locke still believed the Wonch were the right instrument for the investigation, if an abrasive one. The party left with politics unresolved, but a clearer sense of how deep the infiltration might run.
+
+h2. Forged Steel and Sponsored Plate
+
+Back on the tiers, the recovered **gold bracelets** failed every honest test. Arcana and investigation showed them for what they were — counterfeit [[House Mabon | House Mabon]] work permits, enchanted just enough to glow convincingly when a guard was in a hurry. Their next goal was what they suspected to be the Anathemists' staging ground - the end of the _other_ marked path through the arhives. In order to get there they'd need protection from the dangerous necromantic radiation.
+
+At [[:kelferria-the-smith | Kelferria]]'s forge they found not only protection but also unexpected answers. Two months prior, fully **thirty-four** mastercrafted suits of armour had been comissioned under d'Log's authority, each warded for protection against harmful magic in general, more than enough to protect the wearer from the Quarantine Zone. In return for a down payment, four sets had been delivered almost immediately. The remaining thirty were the 'large order' that she had been working to fulfil when Ayr had visited previously. Kelferria, used to producing large batches of armour for House Oestra and with little time for variation, had barely altered the design beyond omitting the Oestran crest.
+
+Invoking their Hexine mandate, the party secured several of the finished armour sets, along with less powerful necro-warding amulets for those who couldn't or wouldn't wear plate. In a moment of surprising candou Ayr, who had initially used his signet ring to present himself as an agent of d'Log, confessed that he had slain the noble and deprived Kelferria of the possibility of being paid for her work. The displeased Genasi had a simple solution - d'Log's debt fell to Ayr. It was his responsibility to find a buyer for the armour. As part of this deal, she used one red-hot finger to emblazon her maker's mark on the breastplates where the House Oestra crest would otherwise sit. The wonch, she concluded, were about to do some thrilling heroics in service of the city, and in doing so they would advertise her craft. Any disrepute they bought would, in her eyes, increase the debt that was owed.
+
+h2. Ink, Iron, and Binding Seals
+
+Downtime split the party across the artisan quarter.
+
+[[:ayr | Ayr]] tinkered at the forge and, with a catastrophically successful roll, bound scrap armour plate into the **Book of Misspellings** — a cursed iron tome that would induce the reader to mispeak their spells for the next 24 hours.
+
+[[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and [[:wilrin-racenglade | Wilrin]] visited a six-armed Thri-kreen tattooist whose extra limbs were mostly Mabon-built machines. They commissioned matching **necromantic dragon-seals** across their forearms — wards meant to sink the [[Quarantine Zone | Quarantine Zone]]'s radiation when the forearms were held together. The process hurt, triggered Wilrin's wild magic, and left him abruptly nine years younger. It also would, when active, bind each recipient's soul to their mortal body as the archive exhibits were.
+
+[[:nakoma-deathwalker-mor-got-ha | Deathwalker]] paid a separate price in blood to draw [[:kithrak-ii | Kithrak II]] closer to her will, extending the blooc bond between her and Wilrin to include the diminutive undead dragon. Then, armoured, inked, and ill-advised, the Wonch went back to the map Arouraios had died protecting.
+
+h2. Into the Osteomantic Archives
+
+Returning to Ambassador Street they descended past [[:cedric | Cedric]] arguing with a joiner about the melted arch, through the still smouldering ruins of Greysheath House, and down into the [[Osteomantic Archives | the Osteomantic Archives]]. Deathwalker marked intersecting side paths with horizontal chalk lines — the Anathemists' own navigation trick, turned against anyone following without the Wonch's stolen route book. [[:ayr | Ayr]] mapped as they went. They passed the portcullis where Arouraios had detonated his last charge, recovered what remained of the chase, and pushed deeper until the stonework became museum-serious.
+
+h2. The Hall of the First Watch
+
+bq). The hall is built like a Meness courthouse enlarged for an army of the dead. Pale stone, black crossbeams, a central aisle flanked by ranked alcoves rather than pews. In each alcove kneels a skeleton in the remains of watch-coats and garrison armour, short swords or tower shields held with ritual stiffness. The plaques record name, rank, and dates, all over a millenia old. A lone figure moves among the dead, dark robes dragging behind measured steps as it inspects each alcove in turn. Stone free of dust and polished by countless steps marks a ring around the room - the robed figure has apparently been making their inventory ceaselessly for a long time.
+
+The party moved with great caution and very little stealth. New plate clanked, but it was not the sound but [[:pin | Pin]]'s sidearm that drew the archivist's attention. The robed figure was not alive — only puppeted, circling alcoves on a centuries-old circuit. When [[:pin | Pin]] drew parallel, its skull swivelled, its hand extended, and it recited accession numbers with the patience of eternity.
+
+bq). **Item 4317: Witness Blade of the First Watch.** Overdue by three thousand one hundred and four days.
+
+The blade on Pin's hip was the problem. The caretaker demanded its return, and followed Pin toward the exit with increasing insistence until the party shoved a stone bench against the door and fled its enraged screech into the corridor beyond.
+
+h2. The Plains of Herrman
+
+Deeper galleries gave way to necromantic weight the tattoos could feel but not yet suffer. At last the tunnel opened into familiar ground - the crossroads which the party had encountered on their last delve. This time they took the route marked with the sign of the necromantic house.
+
+bq). The passageway opens into an enormous space - the walls and ceiling almost lost in the haze of distance. The floor rises and falls in a stone simulacrum of rolling hills, you can even see the glint of the meagre light reflecting from the waves of what appears to be a river. You realise that you are surrounded by a motionless army of armed and armoured skeletons. Or rather, as you look closer, two armies frozen in the throes of a colossal conflict. A macabre diorama whose grandiose effect is spoiled only slightly by the fact that many of the skeletons are missing parts - the floor is littered with teeth and fingerbones that, presumably, were once part of the display. A clear path demarcated by bands of silver laid into the dark stone of the floor, wends its way between the posed skeletons.
+
+The Wonch stood on a reconstruction of the **Plains of Herrman** — the decisive field of the [[World History | Seven Day War]], when the [[The Magedom of Houd | Magedom of Houd]] and the [[The Thaumocracy of Tellerin | Thaumocracy of Tellerin]] tore the northern continent apart. Genuine preserved skeletons filled the floor in ranks: Houdian dead and Tellerite dead, the latter's armour and silhouettes still readable as mostly dark-elven even in bone. Archive craft had arranged the battle as a reverse timeline the party could read by walking — reinforcement, rout, and propaganda frozen in place. The more historically minded noticed another pattern - close to the path the skeletons and equipment were genuine, armour, weapons, and tactics in perfect agreement with history. Further out, the details became less precise - formations and styles that missed the mark by a few decades mixed and matched to flesh out the diorama around the more precise core.
+
+Their route led them backwards through the timeline of the battle until they met a startling tableu.
+
+bq). The uneven floor is rent by a semicircular chasm that arcs outwards from the wall. On the other side you can see the exit - a doorway identical to the one through which you entered, surrounded by thronged skeletons in Tellerite armour. Spanning the chasm is a narrow bridge, apparently made of brass, atop which stands the skeleton of a giant. A club the size of a carthorse is clasped in the colossus's hand, and it is posed with its back to you as if denying the crowded skeleton passage across the bridge. The path leads between the colossus's legs.
+
+<!-- GM_INFO_START -->
+h2. Prep pointers
+
+* Brass bridge mechanics and giant club save — see [[Osteomantic Archives | Osteomantic Archives]] (*Battle of Brassmeade Bridge*).
+* Book of Misspellings: 2d4-day single-letter spell mutations on [[:ayr | Ayr]].
+* Dragon-seal tattoos: forearms joined for necro absorption; soul bound to body while active.
+* Kelferria invoice (30 days); surplus Oestra-pattern armour buyer still open.
+* Project Kosmos — Locke knows name only; full brief remains founder-tier.
+* Paddington + Dockward routes from Greysheath papers remain live.
+<!-- GM_INFO_END -->

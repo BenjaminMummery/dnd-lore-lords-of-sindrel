@@ -1,0 +1,68 @@
+---
+op_slug: wahibre-ten-sutekh
+op_kind: Character
+op_type: Character
+name: Wahibre ten-Sutekh
+title: Wahibre ten-Sutekh
+op_gm_only: false
+is_player_character: false
+tags:
+- he/him
+- Dwarf
+- House Lithra
+- Adjutant
+---
+
+<!-- OP_DESCRIPTION -->
+You see a dwarf in his thirties with a warm, weathered complexion and a compact, work-hardened build. His beard is trimmed close; his hair is kept practical under a Lithra-grey cap when he wears one. He is turned out as a [[House Lithra | Lithra]] household [[Adjutant | adjutant]] attached to a diplomatic residence: charcoal-grey wool livery, scuffed boots, and a gold adjutant bracelet at the wrist — house patronage, not a visitor's silver guest band. He presents as polite and visibly nervous, the sort of servant who fills frightened silence with too many words. He speaks quickly when alarmed, then remembers himself and tries to bow his way back to propriety.
+
+<!-- OP_BIO -->
+[[Adjutant | Adjutant]] of [[House Lithra | House Lithra]] — scullery and back-stair staff at Greysheath House on Ambassador Street, opposite [[Radwasp House | Radwasp House]].
+
+* *32nd of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[1]
+** Seen from the street wrestling the exterior coal scuttle during a [[House Lithra | Lithra]]-styled charcoal delivery to Greysheath — work [[:cedric | Cedric]] at Radwasp associated with the household's regular fuel runs.[2]
+* *Night of the 32nd of Enean, year 4218 ([[The Soulwind Calendar | SC]])*[3]
+** Trapped in a cupboard when the Anathemists' burn plan turned Greysheath into a kiln.
+** [[:pin | Pin]] and [[:rossin-ros-greyhirst | Ros]] pulled him from the fire along with [[:harsa-nefer | Harsa Nefer]]; both servants survived, shaken but alive.
+
+<div class="op-footnotes">
+
+fn1. [[Session 14: The Bound Garden | Session 14: The Bound Garden]]
+
+fn2. [[Session 14: The Bound Garden | Session 14: The Bound Garden]] — Cedric named the Greysheath staff to the Wonch during the watch; the dwarf at the coal scuttle was Wahibre.
+
+fn3. [[Session 16: The Fire Spreads | Session 16: The Fire Spreads]]
+
+</div>
+
+<!-- GM_INFO_START -->
+h2. Prep
+
+* **Duties:** scullery, coal scuttles to the cellar hatch, boots and mud at the back stair, hauling trays when told. Genuine household staff — not Anathemist cover.
+* Greysheath's charcoal volume far exceeds heating need; Wahibre executes deliveries without understanding the cell's gunpowder logistics.
+* If questioned after the fire: frightened, talkative, no clear picture of Marceline's orders beyond "master wanted the house warm."
+
+h2. Stat block
+
+<p><em>Non-combatant.</em> Fights only if cornered; otherwise flees or obeys whoever seems in charge.</p>
+
+<div class="stat-block">
+<h3>Wahibre ten-Sutekh</h3>
+<p><em>Medium humanoid (dwarf), lawful neutral</em></p>
+<p><strong>Armor Class</strong> 10<br>
+<strong>Hit Points</strong> 11 (2d8 + 2)<br>
+<strong>Speed</strong> 25 ft.<br>
+<strong>Initiative</strong> +0</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>12 (+1)</td><td>10 (+0)</td><td>14 (+2)</td><td>10 (+0)</td><td>11 (+0)</td><td>12 (+1)</td></tr>
+</table>
+<hr>
+<p><strong>Senses</strong> darkvision 60 ft., passive Perception 10<br>
+<strong>Languages</strong> Common, Dwarvish<br>
+<strong>Challenge</strong> 0 (10 XP)</p>
+<hr>
+<p><strong>Dwarven Resilience.</strong> Advantage on saving throws against poison; resistance to poison damage.</p>
+</div>
+<!-- GM_INFO_END -->
