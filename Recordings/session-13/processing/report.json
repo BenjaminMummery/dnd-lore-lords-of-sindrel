@@ -1,0 +1,33 @@
+{
+  "name": "session-13",
+  "preset": "conservative",
+  "sources": [
+    {
+      "path": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-13/raw_inputs/recordings/The Lords of Sindrel Session 13.mp3",
+      "duration_sec": 11562.0,
+      "codec": "mp3",
+      "sample_rate": "16000",
+      "channels": 1
+    }
+  ],
+  "alignment_offsets_sec": [
+    0.0
+  ],
+  "trim_start_sec": [
+    0.0
+  ],
+  "duration_sec": 11562.0,
+  "outputs": {
+    "wav": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-13/processing/session-13.wav",
+    "mp3": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-13/processing/session-13.mp3"
+  },
+  "filter_chain": "amix=inputs=1:duration=longest:dropout_transition=2:normalize=1,highpass=f=70,lowpass=f=7600,afftdn=nr=6:nf=-50:tn=1,dynaudnorm=f=150:g=15,loudnorm=I=-16:LRA=11:TP=-1.5,asplit=2[clean_wav][clean_mp3]",
+  "primary_transcript": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-13/session-13-primary.json",
+  "plaud_comparisons": [
+    {
+      "source": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-13/raw_inputs/The Lords of Sindrel Session 13-transcript.txt",
+      "comparison": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-13/processing/The Lords of Sindrel Session 13-transcript_comparison.json",
+      "disagreements": 3915
+    }
+  ]
+}

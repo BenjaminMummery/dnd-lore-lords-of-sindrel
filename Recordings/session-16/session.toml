@@ -1,0 +1,7 @@
+name = "session-16"
+preset = "balanced"
+
+sources = [
+  "raw_inputs/recordings/2026-09-24 19_20_31.mp3",
+  "raw_inputs/recordings/2026-09-24-19-21-25.WAV",
+]

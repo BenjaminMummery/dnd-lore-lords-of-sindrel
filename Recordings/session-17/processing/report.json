@@ -1,0 +1,42 @@
+{
+  "name": "session-17",
+  "preset": "balanced",
+  "sources": [
+    {
+      "path": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-17/raw_inputs/recordings/2026-09-30 18_49_43.mp3",
+      "duration_sec": 11474.2,
+      "codec": "mp3",
+      "sample_rate": "16000",
+      "channels": 1
+    },
+    {
+      "path": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-17/raw_inputs/recordings/2026-09-30-18-49-12.WAV",
+      "duration_sec": 11482.048,
+      "codec": "pcm_s16le",
+      "sample_rate": "16000",
+      "channels": 2
+    }
+  ],
+  "alignment_offsets_sec": [
+    0.0,
+    -23.415125
+  ],
+  "trim_start_sec": [
+    0.0,
+    23.415125
+  ],
+  "duration_sec": 11458.633,
+  "outputs": {
+    "wav": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-17/processing/session-17.wav",
+    "mp3": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-17/processing/session-17.mp3"
+  },
+  "filter_chain": "amix=inputs=2:duration=longest:dropout_transition=2:normalize=1,highpass=f=70,lowpass=f=7600,afftdn=nr=10:nf=-45:tn=1,dynaudnorm=f=150:g=15,loudnorm=I=-16:LRA=11:TP=-1.5,asplit=2[clean_wav][clean_mp3]",
+  "primary_transcript": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-17/session-17-primary.json",
+  "plaud_comparisons": [
+    {
+      "source": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-17/raw_inputs/09-30 Game Session_ The Wonch Infiltration Defence and Osteomantic Archives Descent-transcript.txt",
+      "comparison": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-17/processing/09-30 Game Session_ The Wonch Infiltration Defence and Osteomantic Archives Descent-transcript_comparison.json",
+      "disagreements": 3401
+    }
+  ]
+}

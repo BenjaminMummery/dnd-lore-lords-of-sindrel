@@ -1,0 +1,36 @@
+{
+  "name": "session-16",
+  "preset": "balanced",
+  "sources": [
+    {
+      "path": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-16/raw_inputs/recordings/2026-09-24 19_20_31.mp3",
+      "duration_sec": 11299.4,
+      "codec": "mp3",
+      "sample_rate": "16000",
+      "channels": 1
+    },
+    {
+      "path": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-16/raw_inputs/recordings/2026-09-24-19-21-25.WAV",
+      "duration_sec": 11293.504,
+      "codec": "pcm_s16le",
+      "sample_rate": "16000",
+      "channels": 2
+    }
+  ],
+  "alignment_offsets_sec": [
+    0.0,
+    9.11275
+  ],
+  "trim_start_sec": [
+    9.11275,
+    0.0
+  ],
+  "duration_sec": 11290.287,
+  "outputs": {
+    "wav": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-16/processing/session-16.wav",
+    "mp3": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-16/processing/session-16.mp3"
+  },
+  "filter_chain": "amix=inputs=2:duration=longest:dropout_transition=2:normalize=1,highpass=f=70,lowpass=f=7600,afftdn=nr=10:nf=-45:tn=1,dynaudnorm=f=150:g=15,loudnorm=I=-16:LRA=11:TP=-1.5,asplit=2[clean_wav][clean_mp3]",
+  "primary_transcript": "/Users/bmummery/Projects/DnD/dnd-lore-lords-of-sindrel/Recordings/session-16/session-16-primary.json",
+  "plaud_comparisons": []
+}

@@ -1,0 +1,10 @@
+name = "session-17"
+preset = "balanced"
+
+sources = [
+  "raw_inputs/recordings/2026-09-30 18_49_43.mp3",
+  "raw_inputs/recordings/2026-09-30-18-49-12.WAV",
+]
+plaud_transcripts = [
+  "raw_inputs/09-30 Game Session_ The Wonch Infiltration Defence and Osteomantic Archives Descent-transcript.txt",
+]

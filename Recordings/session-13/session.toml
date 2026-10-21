@@ -1,0 +1,12 @@
+name = "session-13"
+preset = "conservative"
+
+sources = [
+  "raw_inputs/recordings/The Lords of Sindrel Session 13.mp3",
+]
+reference_files = [
+  "raw_inputs/recordings/The Lords of Sindrel Session 13 (1).mp3",
+]
+plaud_transcripts = [
+  "raw_inputs/The Lords of Sindrel Session 13-transcript.txt",
+]
