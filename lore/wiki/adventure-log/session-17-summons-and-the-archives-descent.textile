@@ -1,9 +1,13 @@
 ---
+op_id: 5724bd4ef4834445bdaf399565036732
 op_slug: session-17-summons-and-the-archives-descent
 op_kind: Wiki
 op_type: Post
 name: 'Session 17: Summons and the Archives Descent'
 title: 'Session 17: Summons and the Archives Descent'
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-17-summons-and-the-archives-descent
+op_created_at: '2026-10-21T12:42:20Z'
+op_updated_at: '2026-10-21T12:42:20Z'
 op_gm_only: false
 tags: []
 post_title: 'Session 17: Summons and the Archives Descent'

@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-09-30T16:48:01Z",
+  "last_git_publish": "2026-10-21T12:43:33Z",
   "last_portal_pull": "2026-10-21T12:41:29Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -141,6 +141,16 @@
       "repo_blob_sha": "2d861c797d3ae524022a4e0cf07a1c62a28b1e9d",
       "repo_hash_at_sync": "4cf9e9b98f9eb59ea93fbe6751f92b31406e37e8cabb4cd9d323d96c896474a2",
       "repo_path": "lore/characters/temperance-halke.textile"
+    },
+    "0bd11a67c0614bc090d0965389a3a946": {
+      "last_synced_title": "Wahibre ten-Sutekh",
+      "op_id": "0bd11a67c0614bc090d0965389a3a946",
+      "op_kind": "Character",
+      "op_slug": "wahibre-ten-sutekh",
+      "op_updated_at": "2026-10-21T12:42:08Z",
+      "repo_blob_sha": "453d370f4376233f74892adb88b20ca5c6091f14",
+      "repo_hash_at_sync": "bbcf1e9849fb35be0c3fd98f09113a6e60275cd75ac9344d6ec670c7bda5d6d8",
+      "repo_path": "lore/characters/wahibre-ten-sutekh.textile"
     },
     "0da3cc62455248bb8810eb5e252770ce": {
       "last_synced_title": "Zotik\u00f3",
@@ -287,9 +297,9 @@
       "op_id": "1c1462e4482048bd85de24cca11e32ac",
       "op_kind": "Wiki",
       "op_slug": "session-16-the-fire-spreads",
-      "op_updated_at": "2026-09-30T18:23:21Z",
-      "repo_blob_sha": "06ca7639a5fd330ee8eaf300bdb48941c4f7b58a",
-      "repo_hash_at_sync": "51327db4bfce3ee8038a553552143f0727aacda58152e9d250b13d1b9088240f",
+      "op_updated_at": "2026-10-21T12:42:18Z",
+      "repo_blob_sha": "8f51c5381699ca06d96d05d6a17e299fb02d6be5",
+      "repo_hash_at_sync": "857e18fb64f881d9d63b9892650428cae755e1b9b2ac3b953b4d7372a216d70c",
       "repo_path": "lore/wiki/adventure-log/session-16-the-fire-spreads.textile"
     },
     "1cb4e852c161448fb5111f85a43e3b5d": {
@@ -437,9 +447,9 @@
       "op_id": "271f5cd8e5fc41f692a2b3493c2fb00a",
       "op_kind": "Wiki",
       "op_slug": "session-15-greysheath-burning",
-      "op_updated_at": "2026-09-30T16:44:47Z",
-      "repo_blob_sha": "eef651f1b1fc1fd16de34f6499c805f4ff00d502",
-      "repo_hash_at_sync": "9c72e0c8becd7e22f76e0dbce93e9a0206bb841b89d2924d769b2ff5529d7b99",
+      "op_updated_at": "2026-10-21T12:42:17Z",
+      "repo_blob_sha": "2f70b7300ade862a242896bd4830d84486f4b2c4",
+      "repo_hash_at_sync": "286370ae7acad94010218d01891d876afebedcf16eb4145357197670b14361fd",
       "repo_path": "lore/wiki/adventure-log/session-15-greysheath-burning.textile"
     },
     "296cf30dcb054a71bfcc585e8aedd604": {
@@ -702,6 +712,16 @@
       "repo_hash_at_sync": "2b4fc6282988f815a920120c70d3ca2303b330f1bc1498baa7101ff11c1dd275",
       "repo_path": "lore/characters/marceline.textile"
     },
+    "5047064fa28e4ff3b43bfe13060480de": {
+      "last_synced_title": "Harsa Nefer",
+      "op_id": "5047064fa28e4ff3b43bfe13060480de",
+      "op_kind": "Character",
+      "op_slug": "harsa-nefer",
+      "op_updated_at": "2026-10-21T12:41:50Z",
+      "repo_blob_sha": "5d8ddd417e3d5e264bb398cd1ed7466e0486fa58",
+      "repo_hash_at_sync": "0620db31e8a4ce290c32de4dae301cbdcd451cd7e2409b82fb2cb4e10898569d",
+      "repo_path": "lore/characters/harsa-nefer.textile"
+    },
     "521416db6e4648db81c7704ac1c1e72d": {
       "last_synced_title": "Nanthelia \"Nans\" Surn",
       "op_id": "521416db6e4648db81c7704ac1c1e72d",
@@ -751,6 +771,16 @@
       "repo_blob_sha": "34cc5d69e0a843c7fa37775d3e82291207670370",
       "repo_hash_at_sync": "0f81b60dfe520f949595c30a7a982e69764b37dc1f8f799116acd66757f3ed01",
       "repo_path": "lore/characters/f-lar-mnementh.textile"
+    },
+    "5724bd4ef4834445bdaf399565036732": {
+      "last_synced_title": "Session 17: Summons and the Archives Descent",
+      "op_id": "5724bd4ef4834445bdaf399565036732",
+      "op_kind": "Wiki",
+      "op_slug": "session-17-summons-and-the-archives-descent",
+      "op_updated_at": "2026-10-21T12:42:20Z",
+      "repo_blob_sha": "a6b58d9ab0d568f0f57f2d2e9c11c899cfdcfb3b",
+      "repo_hash_at_sync": "2f5322c6f69419629db5ecac59ea7ce2ec6be4b96eb8d5947155e2452cfad54d",
+      "repo_path": "lore/wiki/adventure-log/session-17-summons-and-the-archives-descent.textile"
     },
     "5796d18c10aa41748e78215a36610a2e": {
       "last_synced_title": "The Crown of Shadows",
@@ -987,9 +1017,9 @@
       "op_id": "6eacb1bcf1914d3ab6564eada8c4d045",
       "op_kind": "Character",
       "op_slug": "jean-de-dinteville",
-      "op_updated_at": "2026-09-24T17:42:11Z",
-      "repo_blob_sha": "0e0b91db39eb08e4d9819495d7ca1cfbb23f4fa1",
-      "repo_hash_at_sync": "75e11989bb2c065c6a8b02b9fc99fb1f22fe5ba11a192750810e3435b3fbb7a7",
+      "op_updated_at": "2026-10-21T12:41:53Z",
+      "repo_blob_sha": "0a8d6d3414346278fa3c09fe66dce17b9775e151",
+      "repo_hash_at_sync": "84404d60ef76ad048569582de40a8e8ab5ac316090fa76d33d8aa57e4eba3acf",
       "repo_path": "lore/characters/jean-de-dinteville.textile"
     },
     "6f9dfa0ebbf147a791ed50efe8aceb19": {
@@ -1507,9 +1537,9 @@
       "op_id": "b9f6f920b1ca4174a771aa4a2c753b9e",
       "op_kind": "Wiki",
       "op_slug": "session-13-push-dont-knock",
-      "op_updated_at": "2026-08-07T15:59:57Z",
-      "repo_blob_sha": "feab818805ad42a1b08d5fa7da74a76d63c2ad90",
-      "repo_hash_at_sync": "fe2979d9b69279a41be8e17f0c34578a5811203f959bd3634d4886a19a9b56a7",
+      "op_updated_at": "2026-10-21T12:42:15Z",
+      "repo_blob_sha": "1875d8841f41416d0300c6bbf6757e851868e294",
+      "repo_hash_at_sync": "bf62ae61a419b18d9c50e9307e8c2d9a5dde46b57287f61978ca6b82c4851aa4",
       "repo_path": "lore/wiki/adventure-log/session-13-push-dont-knock.textile"
     },
     "ba04065d82a84b0bb7719d137b915843": {
@@ -1617,9 +1647,9 @@
       "op_id": "c25de3ca664d45faa53636a3a393b7cc",
       "op_kind": "Character",
       "op_slug": "kebi-neferu",
-      "op_updated_at": "2026-08-08T15:23:50Z",
-      "repo_blob_sha": "cf79c12afd0618f943fe058ee939d4069a8969e4",
-      "repo_hash_at_sync": "07c7597b83268a375cb42a6ee4588ae3e7efd68070232a491497b766a3408dbd",
+      "op_updated_at": "2026-10-21T12:41:55Z",
+      "repo_blob_sha": "d61e1599ac252b10056d21c98103eae74acb9ba8",
+      "repo_hash_at_sync": "1b3b84a4e2d995dc8b2411332a9349c69dbd5fac28f867267b69169fed26c17a",
       "repo_path": "lore/characters/kebi-neferu.textile"
     },
     "c2ad5441db234ff29d569bdfc08f9d8d": {
@@ -1857,9 +1887,9 @@
       "op_id": "e29c0674519f48e68f931ab80cac0f3a",
       "op_kind": "Wiki",
       "op_slug": "session-x-planning",
-      "op_updated_at": "2026-09-30T17:27:03Z",
-      "repo_blob_sha": "ac1d80713ebca628157e387489f71c444cccf914",
-      "repo_hash_at_sync": "cb64ca501b59ce9fdd92e9bf3b1662f16a3b4c47b131f4eecbad71a5cf3956af",
+      "op_updated_at": "2026-10-21T12:42:24Z",
+      "repo_blob_sha": "ed7078b1a9d663202260e2e7789a2b7e98ab34d3",
+      "repo_hash_at_sync": "744c652126231561ab020562c605cf731a02268b813d3b9b6f7fb649868c9935",
       "repo_path": "lore/wiki/adventure-log/session-x-planning.textile"
     },
     "e2da37ba92ce4862a0165713a93c5a64": {
@@ -1907,9 +1937,9 @@
       "op_id": "eb4141902c9d4fa88ab9681dc511b367",
       "op_kind": "Wiki",
       "op_slug": "session-14-the-bound-garden",
-      "op_updated_at": "2026-09-30T16:44:46Z",
-      "repo_blob_sha": "d01319682db602d553f297001122cef058848fd7",
-      "repo_hash_at_sync": "8587edc6e90bb41827ccbd35ad8b5b99271d59f75bfda6b7e676f590949c16b5",
+      "op_updated_at": "2026-10-21T12:42:16Z",
+      "repo_blob_sha": "a61d579abf71fea83e46d305e57d8aa252eee09f",
+      "repo_hash_at_sync": "69bad2c3c5973f9774687fa128b9d88a02184f1ea75196fa145de3276cca318c",
       "repo_path": "lore/wiki/adventure-log/session-14-the-bound-garden.textile"
     },
     "eee373837b7b42ae83fffb913d22290c": {

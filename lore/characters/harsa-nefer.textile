@@ -1,9 +1,13 @@
 ---
+op_id: 5047064fa28e4ff3b43bfe13060480de
 op_slug: harsa-nefer
 op_kind: Character
 op_type: Character
 name: Harsa Nefer
 title: Harsa Nefer
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/harsa-nefer
+op_created_at: '2026-10-21T12:41:50Z'
+op_updated_at: '2026-10-21T12:41:50Z'
 op_gm_only: false
 is_player_character: false
 tags:

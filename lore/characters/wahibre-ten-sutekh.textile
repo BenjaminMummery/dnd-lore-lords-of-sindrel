@@ -1,9 +1,13 @@
 ---
+op_id: 0bd11a67c0614bc090d0965389a3a946
 op_slug: wahibre-ten-sutekh
 op_kind: Character
 op_type: Character
 name: Wahibre ten-Sutekh
 title: Wahibre ten-Sutekh
+op_url: https://thelordsofsindrel.obsidianportal.com/characters/wahibre-ten-sutekh
+op_created_at: '2026-10-21T12:42:08Z'
+op_updated_at: '2026-10-21T12:42:08Z'
 op_gm_only: false
 is_player_character: false
 tags:
