@@ -22,17 +22,15 @@ Born into this world, you have lived the majority of your lives with the knowled
 
 h3. The story so far
 
-_Through Session 12 (31st Enean 4218 SC)._
+_Through Session 17 (33rd Enean 4218 SC)._
 
 Seven strangers met at [[The White Dragon Coaching Inn | the White Dragon]], bound for [[Sindrel | Sindrel]]. They survived an [[Anathemists | Anathemist]] ambush on the [[The Mage Road | Mage Road]], rode the [[Sindrel Coach | coach]] over a cliff rather than surrender, and stumbled into the drowned ruins of [[Fallowhurst | Fallowhurst]], where [[Fallowhurst College | Fallowhurst College]] tried very hard to keep them.
 
-On the plains before the city, they faced the Anathemists again. [[House Meness | House Meness]] took custody of the defeated leftenant, [[Sindrel | Sindrel]] took the travellers' names, and the [[Hexine Circle | Hexine Circle]] gave them a better offer than a short stay followed by exile: root out spies who had burrowed far deeper into the city than anyone admitted.
+The [[Hexine Circle | Hexine Circle]] hired them to find spies; calling themselves [[The Adventurers | the Wonch]], they traced gunpowder through [[The Fulcrum | Fulcrum]] tunnels, [[The Wallarch District | Wallarch]], and the [[Osteomantic Archives | Osteomantic Archives]], trading run-ins with [[The Black Cats | the Black Cats]] and [[House Oestra | House Oestra]].
 
-Calling themselves [[The Adventurers | the Wonch]], they followed the sabotage trail through [[The Wallarch District | Wallarch]], the [[Osteomantic Archives | Osteomantic Archives]], [[House Oestra | Oestra]] vaults, [[The Fulcrum | Fulcrum]] service tunnels, and the [[House Grimbolg | Cornucopia]]. Someone nearly brought down the Fulcrum not with sorcery, but with clockwork, flint, and gunpowder brewed from the city's own waste; the same hand may have drowned [[:dogara | Hydromancer D'gara]] to steal nitre and burned sulphur under cover of [[House Beltus | Beltus]]'s conjured "demons."
+On Ambassador Street they burned out a nest of Anathemists in a respectable townhouse — and learned the "noble" host was [[:ayr | Ayr]]'s old enemy Goldfinger in disguise. Maps pointed at [[Dockward | Dockward]]; forged passes and archive routes pointed deeper, toward the [[Quarantine Zone | Quarantine Zone]].
 
-By the evening of the 31st, the Wonch had kept an Oestran summons waiting while they chased [[:chuggaz | Chuggaz]] into Wallarch and the back room of [[The Cutthroat's Repose | the Cutthroat's Repose]]. There, [[:sable-silvestre | Sable]] offered answers at a price, and the party paid with a dangerous demonstration of the deathly sigil that binds [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] and [[:wilrin-racenglade | Wilrin]].
-
-The Black Cats have promised information. [[House Oestra | House Oestra]] has been kept waiting. In [[Sindrel | Sindrel]], both are the kind of debt that accrues interest.
+On the morning of the 33rd they answered [[:silas-oestra | Silas Oestra]]'s summons at last, traded insults for the name **Project Kosmos**, and marched into the catacombs in [[:kelferria-the-smith | Kelferria]]'s steel — toward a brass bridge guarded by a giant of bone, and whatever lies beyond it.
 
 * [[Main Page | Wiki]]
 * "Adventure Log":https://thelordsofsindrel.obsidianportal.com/adventure-log

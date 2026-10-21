@@ -24,7 +24,7 @@ Delivered to [[Radwasp House | Radwasp House]] on the 30th of Enean 4218 SC.[2]
 
 **Current holder:** [[:ayr | Ayr]].
 
-**Stored charges:** 2 _(as of Session 11, 31st Enean 4218 SC — 1 at delivery on 30th Enean; +1 at each dawn since)_
+**Stored charges:** 1 _(as of Session 17, 33rd Enean 4218 SC — [[:ayr | Ayr]] expended all stored charges in the Greysheath kill on the night of the 32nd; +1 at dawn on the 33rd)_
 
 <div class="stat-block">
 <h3>The Journeyman's Answer</h3>
