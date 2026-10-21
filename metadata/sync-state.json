@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-10-21T12:43:33Z",
+  "last_git_publish": "2026-10-21T13:02:39Z",
   "last_portal_pull": "2026-10-21T12:41:29Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -148,7 +148,7 @@
       "op_kind": "Character",
       "op_slug": "wahibre-ten-sutekh",
       "op_updated_at": "2026-10-21T12:42:08Z",
-      "repo_blob_sha": "453d370f4376233f74892adb88b20ca5c6091f14",
+      "repo_blob_sha": "47edb00e5bf53f083555657b0500bb2e882a9a87",
       "repo_hash_at_sync": "bbcf1e9849fb35be0c3fd98f09113a6e60275cd75ac9344d6ec670c7bda5d6d8",
       "repo_path": "lore/characters/wahibre-ten-sutekh.textile"
     },
@@ -237,8 +237,8 @@
       "op_id": "17e89067cf1744788929bebbc0c1da15",
       "op_kind": "Wiki",
       "op_slug": "home-page",
-      "op_updated_at": "2026-07-09T12:20:08Z",
-      "repo_blob_sha": "d398c930bd24827d0816dfdc3330c3d561bfe7a4",
+      "op_updated_at": "2026-10-21T13:01:44Z",
+      "repo_blob_sha": "f4f50b82a8e3860253ee608b0a10965e6d0cf098",
       "repo_hash_at_sync": "a5baaf7be84905d6cc33eec22e3af515314afe37da0b362349b9accbe261cc98",
       "repo_path": "lore/wiki/wiki/home-page.textile"
     },
@@ -717,8 +717,8 @@
       "op_id": "5047064fa28e4ff3b43bfe13060480de",
       "op_kind": "Character",
       "op_slug": "harsa-nefer",
-      "op_updated_at": "2026-10-21T12:41:50Z",
-      "repo_blob_sha": "5d8ddd417e3d5e264bb398cd1ed7466e0486fa58",
+      "op_updated_at": "2026-10-21T13:00:46Z",
+      "repo_blob_sha": "0d51ee0f1ac651afdd65a4652c79173ddbe810e6",
       "repo_hash_at_sync": "0620db31e8a4ce290c32de4dae301cbdcd451cd7e2409b82fb2cb4e10898569d",
       "repo_path": "lore/characters/harsa-nefer.textile"
     },
@@ -778,7 +778,7 @@
       "op_kind": "Wiki",
       "op_slug": "session-17-summons-and-the-archives-descent",
       "op_updated_at": "2026-10-21T12:42:20Z",
-      "repo_blob_sha": "a6b58d9ab0d568f0f57f2d2e9c11c899cfdcfb3b",
+      "repo_blob_sha": "8d4fe6b491d06706204c721680cf3175754769ac",
       "repo_hash_at_sync": "2f5322c6f69419629db5ecac59ea7ce2ec6be4b96eb8d5947155e2452cfad54d",
       "repo_path": "lore/wiki/adventure-log/session-17-summons-and-the-archives-descent.textile"
     },
@@ -1257,9 +1257,9 @@
       "op_id": "93388607d1634c4da77ab0cd6103fbf7",
       "op_kind": "Wiki",
       "op_slug": "the-adventurers",
-      "op_updated_at": "2026-07-09T12:20:22Z",
-      "repo_blob_sha": "2fb96686c52083d641ef1de76668e107b3a93a55",
-      "repo_hash_at_sync": "34fcc3a39b364d74f786ea952b8c83fc58fcb162c8a2999857db476e479fb7b2",
+      "op_updated_at": "2026-10-21T13:02:17Z",
+      "repo_blob_sha": "e37c17be6406ff56acceda23d41d809eeed69508",
+      "repo_hash_at_sync": "b28ab1ca6cdbc0271ccadc8c3c4af43d1f640c74cf44c9dc47982ec3de49fd4e",
       "repo_path": "lore/wiki/wiki/the-adventurers.textile"
     },
     "95647ec6164e450f98ffe7b168db8b6e": {
@@ -1727,8 +1727,8 @@
       "op_id": "c8478d23d0c846acbe6807329bdfff94",
       "op_kind": "Wiki",
       "op_slug": "the-gentlemans-greeting",
-      "op_updated_at": "2026-07-14T10:41:14Z",
-      "repo_blob_sha": "1dab848a388da264cbbe5e04686dcf489c0ef2c0",
+      "op_updated_at": "2026-10-21T13:02:30Z",
+      "repo_blob_sha": "02cd486117dc9ba33b1865b1db0fd08f08436f1a",
       "repo_hash_at_sync": "44e30beacd29555395e3aeec241f3a8e45fe04b6724ed1895c1c76cc741b6c9a",
       "repo_path": "lore/wiki/wiki/the-journeymans-answer.textile"
     },
