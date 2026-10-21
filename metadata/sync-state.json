@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-09-30T16:48:01Z",
-  "last_portal_pull": "2026-09-30T16:44:07Z",
+  "last_portal_pull": "2026-10-21T12:41:29Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -287,9 +287,9 @@
       "op_id": "1c1462e4482048bd85de24cca11e32ac",
       "op_kind": "Wiki",
       "op_slug": "session-16-the-fire-spreads",
-      "op_updated_at": "2026-09-30T16:44:48Z",
-      "repo_blob_sha": "7904cb3ffb588b16ebf75dc2600187bde7462ef9",
-      "repo_hash_at_sync": "b28ae585dd2c680fdcfc467ff1ed5a0aae94eb873ca25de591a93005a3bf849f",
+      "op_updated_at": "2026-09-30T18:23:21Z",
+      "repo_blob_sha": "06ca7639a5fd330ee8eaf300bdb48941c4f7b58a",
+      "repo_hash_at_sync": "51327db4bfce3ee8038a553552143f0727aacda58152e9d250b13d1b9088240f",
       "repo_path": "lore/wiki/adventure-log/session-16-the-fire-spreads.textile"
     },
     "1cb4e852c161448fb5111f85a43e3b5d": {
@@ -1857,9 +1857,9 @@
       "op_id": "e29c0674519f48e68f931ab80cac0f3a",
       "op_kind": "Wiki",
       "op_slug": "session-x-planning",
-      "op_updated_at": "2026-09-30T16:44:53Z",
-      "repo_blob_sha": "e08b0a7289e513ccefde55ef5704f1ec963e7a29",
-      "repo_hash_at_sync": "744c652126231561ab020562c605cf731a02268b813d3b9b6f7fb649868c9935",
+      "op_updated_at": "2026-09-30T17:27:03Z",
+      "repo_blob_sha": "ac1d80713ebca628157e387489f71c444cccf914",
+      "repo_hash_at_sync": "cb64ca501b59ce9fdd92e9bf3b1662f16a3b4c47b131f4eecbad71a5cf3956af",
       "repo_path": "lore/wiki/adventure-log/session-x-planning.textile"
     },
     "e2da37ba92ce4862a0165713a93c5a64": {
