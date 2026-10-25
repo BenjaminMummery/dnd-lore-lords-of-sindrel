@@ -7,7 +7,7 @@ name: 'Session X: Planning'
 title: 'Session X: Planning'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-x-planning
 op_created_at: '2026-07-14T17:41:44Z'
-op_updated_at: '2026-09-30T17:27:03Z'
+op_updated_at: '2026-10-21T13:51:08Z'
 op_gm_only: true
 tags: []
 post_title: 'Session X: Planning'
@@ -18,15 +18,11 @@ Notes: This page is for future planning and will never be published.
 
 h2. Upcoming Session Plan
 
-We pick up where we left off - the party making their way through the deep archives towards the quarantine zone.
+The session continue's the party's journey toward the anathemist staging ground at the centre of the quarantine zone.
 
-Pin and Ayr have kelferria-forged armour - they're protected from the necromantic radiation.
-Amanira, Ros and Silrie have protective amulets - it'll prevent it from killing them but they'll experience some side effects.
-DW and Wilrin are relying on their new tattoos.
+h3. Into the Deep Archives
 
-h3. 2. Into the Deep Archives
-
-The route passes through the following displays:
+Past the corssroads, the party encounter the following rooms:
 
 * The Seven-Day War diorama.
 * The Founding of the Magedom of Houd.
@@ -36,143 +32,61 @@ The route passes through the following displays:
 
 h4. Seven-Day War diorama
 
-bq). The passageway opens into an enormous space - the walls and ceiling almost lost in the haze of distance. The floor rises and falls in a stone simulacrum of rolling hills; you can even see the glint of meagre light on what appears to be a river of polished obsidian. You are surrounded by a motionless army of armed and armoured skeletons - two hosts frozen in the throes of a colossal conflict. A path of silver bands wends between the ranks. Many are missing parts; teeth and fingerbones litter the slopes like hail that never melted. The remains of brass pegs, wire through rib cages, and discreet pins at the ankles can be seen where these supports have failed. The whole battlefield has the brittle patience of a display that expects to be looked at, not walked through.
+bq). The passageway opens into an enormous space - the walls and ceiling almost lost in the haze of distance. The floor rises and falls in a stone simulacrum of rolling hills, you can even see the glint of the meagre light reflecting from the waves of what appears to be a river. You realise that you are surrounded by a motionless army of armed and armoured skeletons. Or rather, as you look closer, two armies frozen in the throes of a colossal conflict. A macabre diorama whose grandiose effect is spoiled only slightly by the fact that many of the skeletons are missing parts - the floor is littered with teeth and fingerbones that, presumably, were once part of the display. A clear path demarcated by bands of silver laid into the dark stone of the floor, wends its way between the posed skeletons.
 
-bq). The uneven floor is rent by a semicircular chasm that arcs outward from the wall. On the far side, an exit doorway stands identical to the one behind you - set back into a steep hillside and framed by the bristling spears of a tightly packed tellarite phalanx. Spanning the chasm is a narrow bridge of brass plates, each riveted separately to the next; the flickering light reveals subtle pitting and corrosion at joins. At the center of the span is a colossal skeleton posed mid-denial: the skeleton of a giant with its back to you, hips and spine joined by visible armature, a club the size of a carthorse gripped in both hands as though arrested halfway through a swing. Above the giant, almost lost in the dark, brass cables climb into darkness.
+bq). The uneven floor is rent by a semicircular chasm that arcs outwards from the wall. On the other side you can see the exit - a doorway identical to the one through which you entered, surrounded by thronged skeletons (in Tellerite armour). Spanning the chasm is a narrow bridge, apparently made of brass, atop which stands the skeleton of a giant. A club the size of a carthorse is clasped in the colossus's hand, and it is posed with its back to you as if denying the crowded skeleton passage across the bridge.
 
-bq). The path leads between the giant's legs, just wide enough for single-file.
-
-The Anathemists crossed light and fast — minimal vibration, no destabilisation. The Wonch in [[:kelferria-the-smith | Kelferria]] plate are less subtle; treat the crossing as a **fixed procession order** (one spotlight beat per party member). Allies may Help or Ready actions as noted; players may swap who takes which beat if they plan it before entering the kill zone.
-
-h5. Brassmeade Bridge — seven-beat escalation
-
-# *The club swings* — Lead PC. Passing under the colossus or the first brass footfall shears a display pin; the club sweeps in its posed arc (inertia and gravity, not a living attack). DEX save DC 15, or Acrobatics DC 15 to dive between the legs. Fail: 3d10 bludgeoning, prone; disadvantage on the next beat's first save.
-# *The club detaches and falls* — Second PC. The sweep tears the club free; it drops along the bridge approach and blocks or bounds through the lane. DEX DC 15 (Small/Tiny +2 to DC) or STR Athletics DC 14 to shove the haft aside and keep a gap open. Fail: 2d10 bludgeoning, restrained until STR DC 14 escape.
-# *Colossus collapse* — Third PC. Pelvis and ribs avalanche along the approach; cart-sized bones roll. Same checks as beat 2. Fail: 2d10 bludgeoning, restrained until STR DC 14 escape.
-# *Brassmeade gaps* — Fourth PC. Impacts crack the bridge; only staggered brass plates remain over the chasm. Acrobatics DC 15 (half speed) or STR Athletics DC 16 plate-to-plate while the span tilts. Fail: fall 30–40 ft to diorama floor below (4d6 bludgeoning; stuck among display skeletons until rescued).
-# *Counterweight cascade* — Fifth PC. The giant was rigged: brass cables run to hidden counterweights. Cables whine; a pallet of ingots and ballast drops along the chasm wall and **swings** across the bridge mouth (pendulum, two passes, then fouled on broken plate). DEX DC 15 to flatten against the giant's shin or bridge rail, or Acrobatics DC 15 to duck under between swings. Ally may shove prone (advantage) or anchor rope to a fallen rib (cover for one swing). Fail: 3d8 bludgeoning, pushed 10 ft toward the chasm edge.
-# *The Great Divide* - Sixth PC. The falling counterweights fully detach the central panels. The PCs have to either leap across the gap or try to balance on the balustrades.
-# *Rank collapse* — Seventh PC. Shockwave knocks posed armies into the silver path — skulls, spears, shields sliding. Each PC DEX DC 13 or go prone; this PC also STR Athletics DC 14 to brace a fallen Tellerite pike and keep a lane. Fail: lane blocked; lose a round clearing or repeat saves.
-# *Spear-fence slide* — All PCs. Thronged Tellerite skeletons around the exit were pegged in a rearguard wedge; rank collapse shears the pegs and the mass **slides toward the doorway**, spears forward, narrowing the exit to a 2–3 ft gap. Acrobatics DC 16 to thread the gap before it closes, or Athletics DC 15 to vault and dive (Medium or larger: use the higher DC). Gap shrinks one more round — second PC through DC 14 this round, DC 17 if they wait. Fail: 2d8 piercing, restrained; allies STR Athletics DC 14 to pry free before the wedge jams (then group STR DC 16 to shift one bundle).
-
-**Aftermath:** Catastrophic exhibit damage; caretakers prioritise containment and retrieval over a fair fight — good hook into the next deep-archive rooms. Tune DCs for party level (~5–6); plate imposes +1 DC on Stealth-only beats elsewhere, not on these structural saves.
+There is room to cross between the giant's legs. Using the bridge destabilises the skeleton and causes the club to fall - require a saving throw for whoever goes first, the following members will need to figure out an alternate path.
 
 h4. Founding of the Magedom of Houd
 
-**Exhibit type:** Automated historical presentation — not a combat arena. Kingdom panels on the magical equivalent of hydraulics rise and fall to spotlight whichever realm the narration is discussing. A **visitor lane** (inset brass strip with low rails and floor markers: *REMAIN ON GUIDED PATH*) runs from the entrance to the exit under the golden arch. The founding **tableau** on the central dais is static props (mixed-material delegates around a table); the **story is told by the map and the voice**, not by walking on kingdom borders.
+bq). The floor beneath you is carved into a relief map of northern [[Artresh | Artresh]]. It is a patchwork of various stones and metals, as if assembled from some colossal jigsaw of mismatched construction. It is positioned so that [[Soulwind | Soulwind]] would stand at the exact centre of the room, but in its place is a raised dias with a tableau - a score of statues each made of a different material stand around a table. On the opposite side of the room behind a waist-high reproduction of the [[Arkay Mountain Range | Arkay Mountains]] you can see an elaborate golden arch, its decorative ornamentation forming the silhouette of the city of [[Sindrel | Sindrel]].
 
-**Why it malfunctions:** Brassmeade damage tripped a **stress flag** in this wing; the presentation stack is old; the Anathemists **tampered with the path** on their way to the [[Quarantine Zone | Zone]]. Result: narration **desyncs** from the lifts, centuries of politics **overlap**, and the safe route is **trapped**.
+The tableau depicts the founding of the [[The Magedom of Houd | Magedom of Houd]]. The different materials represent the various kingdoms that united - history rolls to recognise their old borders.
 
-bq). The floor ahead of you is carved into a relief map of northern [[Artresh | Artresh]]. It is a patchwork of various stones and metals, each section trimmed in bronze where it abuts its neighbour. At the centre stands a raised dias with a tableau - a score of statues each made of a different material stand around a table. Ona plinth behind each, facing out into the room, is a skull. To your right, behind a waist-high reproduction of the [[Arkay Mountain Range | Arkay Mountains]] you can see an elaborate golden arch, its decorative ornamentation forming the silhouette of the city of [[Sindrel | Sindrel]]. A pathway winds its way around the room, knee-high railings wending between the borders of inlaid kingdoms as they perform almost a full circuit before terminating at the golden archway.
-
-As they step onto the path:
-
-bq). As your foot touches the surface, you feel a dull rumbling beneath you. Magical illumination stutters to weak and uncertain life behind filigreed grilles in the walls, and the patchwork of stone kingdoms grindingly lowers several feet leaving the path above them.
-<br>
-At the central dias, the skull facing you is wreathed in sickly necromantic flame. A voice echoes over the chamber - "Welcome to the unification of the northern kingdoms under the Mage Lord Council. Our story begins with the collapse of the maritime trade empire of the Venatici city state..." a section of the map to your left rises jerkily to the height of the path, while a flickering spotlight illuminates an area slighty to its right.
-
-
-h5. The presentation (erratic)
-
-Run as **six beats**, ~one round each unless the party dawdles. On each beat the **named region lifts, sinks, or tilts** (typically 3–6 ft change at edges; centre dais stays fixed). After Brassmeade + sabotage, roll **1d6** on the beat or pick **wrong kingdom** occasionally so the room feels broken.
-
-# *Origins* - With the Venatici trade empire in ruins, supplies that were once plentiful become scarce. Strife and minor local wars becomes the norm.
-# *The Initial Efforts* - The Soulwind Institute, centre of magical learning, maintains a network of magical communication with their  sister institutions throughout the continent. This allows them to coordinate efforts between regions. The success of these efforts provide the good will to build a base of political power that ultimately gives them control of Sindrel itself.
-# *The First Alliance* - Sindrel forms an alliance with the neighbouring states of [TODO]. Opposition grows from distant regions.
-# *Founding* — The first mage lords (statues at the table) formally begin the parliament of mages - a unified government ruling the founding member states of the Magedom. Narration: arguments, syncretisation [[The Gods | religion]], council charter.
-# *Expansion* — Border kingdoms pulse up and down like breathing as the narration details squables, wars, treaties, and marriages. One by one, the satellite kingdoms are absorbed into the expanding Magedom. Standardised coinage seems to play a large role.
-# *Peace* - The Magedom hits a steady state. The large Tellerite empire to the south has no interest in joining, so the governance turns inward. The endless litiny of petty disagreements continues, but the Magedom as a whole is able to resolve them peacefully.
-# *Looming threat* - On a slightly jingoistic note, the final narrator discusses fears that the expansionist tellerites will attempt to annex the southern states of the Magedom.
-
-**Optional player knowledge:** History DC 12 on any beat predicts **which kingdom the voice meant to highlight** — useful if they cross off-path (see below), not required on the visitor lane.
-
-h5. Anathemist traps (on the guided path only)
-
-The cell booby-trapped **where investigators would walk**, not the whole map — delay pursuers, maim interlopers, avoid wasting charges on the whole hall. Their own route went over the least historically important kingdoms (least likely to move) - discoverable by close inspection if they know what they're looking for.
-
-| Trap | Where | Tell | Disarm / bypass |
-|------|--------|------|------------------|
-| **Powder seam** | Lane where it crosses a seam (first third of room) | Perception DC 14: grit, smell, fresh scrape | Thieves' Tools DC 15; or **skip** by jumping the seam on a beat when that tile is **down** (timed, DEX DC 13) |
-| **Trip wire** | Mid-lane, at a curve. The wire is genuinely designed only to trip, the barrier has been carefully cut and replaced - putting weight on it shears off the top leaving sharpened uprights. | Investigation DC 15finds the wire | |
-| **False chalk** | Arrow pointing **off** lane toward “shortcut” | Investigation DC 13 vs fake marker - the anathemists don't use arrows to mark their routes | Ignore; off-lane is shifting map hazard centered on Goatheim.|
-| **Last arch charge** (optional, deadly) | Brass threshold before exit arch | Perception DC 15 if searching exit | Tools DC 16; fail = 3d6 fire + noise; **disarm strongly preferred** |
-
-Traps are **mundane** ([[Anathemists | Anathemist]] kit), keyed to **presentation motion** where noted — the powder seam fires when the adjacent kingdom **rises** on beat 2 or 4.
-
-h5. Choice: path or map
-
-**Stay on the visitor lane** — Face traps one by one (or speed-run and eat consequences). Map motion is **minor** under the brass strip (vibration, sudden 1 ft drop at a seam). Suitable for methodical play and **Silrie / Ayr** clearing while armoured PCs advance.
-
-**Leave the lane** — Avoid traps entirely, but **every presentation beat** threatens anyone on moving kingdom tiles:
-
-* When a highlighted kingdom **rises** under a PC: DEX save DC 14 or fall prone; edge of tile = DEX DC 15 or slide 10 ft (into trench between pistons, 2d6 bludgeoning).
-* When a kingdom **drops** while occupied: DEX DC 14 or fall **into the bed** (10 ft, 2d6, restrained in machinery until STR DC 14 escape; take 1d6 bludgeoning if the next beat **raises** the same tile).
-* **Predicting the beat:** History DC 12 or Perception DC 14 (watch for initial grinding against friction) grants **advantage** on the next save on the map.
-
-**Mixed column:** Allowed — e.g. two disarmers on lane, rest shortcut across **one** rising kingdom during beat 3 with a timed dash. Anathemists used the lane; **Marceline's route** may show **scuff marks off-path** only where tiles were down during their timing (Investigation DC 14 to spot the pattern — intel, not mandatory).
-
-h5. Emergency sink
-
-If the loop **resets** (beat 6) or the party **triggers two traps**, run a **maintenance sink**: all map panels except the dais and visitor lane drop **1 ft** over 6 seconds. Anyone off-path on a sinking tile: DEX DC 15. Fail: trapped in piston well until allies pull (Athletics DC 14) or next beat raises that tile (2d6 crush).
-
-**Aftermath:** Presentation aborts into **static mode** — voice dead, lights low, hydraulics ticking. Caretakers already inbound from Brassmeade; this room adds **sabotage on record** if traps detonate. Exit: through the arch to **Hall of Failed Resurrections**.
-
+The relief map begins projecting the founding ceremony across itself, ghostly figures playing fragments of speeches, arguments, and magical demonstrations. The illusion conceals a section of floor that has been removed - the entire section levered up and shifted to the side. This creates a trip hazard right next to the mountains.
 
 h4. The Hall of Failed Resurrections
 
 bq). The corridor ends at a pair of white doors, their surfaces engraved with dozens of names.
-
-bq). Beyond is a long, cold gallery of glass cases. Unlike the other halls of the archive's strange museum, there is more on display here than mere bone - the cold is a preservative measure.
 <br>
-The bodies within the cases are strange. No two are alike, and none look wholly correct. One corpse casts two shadows in the flickering light of your torch. Another has been reassembled with the bones of three different species. A woman sits upright beneath a veil, her flesh perfectly preserved on one side and reduced to clean ivory on the other.
+Beyond is a long, cold gallery of glass cases and articulated frames. The bodies within are displayed as speimins of a strange and dangerous art. One corpse casts two shadows in the flickering light of your torch. Another has been reassembled with the bones of three different species. A woman sits upright beneath a veil, her flesh perfectly preserved on one side and reduced to clean ivory on the other.
 <br>
-Every case bears a narrow brass plate: a name and three dates atop a dense block of text. Three cases stand empty. Winding between the cases you can see the characteristic worn path of an animate skeletal caretaker.
+Every case bears a narrow brass plate: a name, an injury, a date, and an outcome. *Failure. Failure. Failure.* The word repeats down the hall until it becomes less a judgement than a rhythm.
 
-h5. Examining the cases.
-
-The plaque for each case give the name of the individual (if known), the dates of their birth and death (if known) and the date of their attempted resurrection. The text below details the magics used (in a necromantic notation none of the party read) and the result, invariably a failure and often involving a bodycount.
-
-Two of the three empty cases correspond to the two teaching skeletons at Fallowhurst. These are two of the earliest examples, and the least destructive failures. Both bear an additional plaque reading *ON LOAN — FALLOWHURST COLLEGE OF MEDICINAL STUDIES.*
-
-The dragonborn was an attempt at soulbiding - the same technology that would ultimately power the archives (can be peaced together from diagrams of a binding circle - a predecessor of the mark that DW and Wilrin now bear on their forearms).
-
-The elven skeleton was a variant on the lich equation - an attempt to redirect the body's unused heat and magic into the phylactory in place of the souls it would otherwise need to consume. It resulted in a runaway reaction where the spell rapidly consumed _all_ heat and magic from the subject, killing them quickly and horribly and reducing the phylactory to dust.
-
-The final empty case is the newest. The party recognise the name- Carlos Winterborne. The dates are 3213, 3238, and 3238. The caption (following the necromantic notation) reads
-
-bq). A novel variation upon the Lich equation, substituting the mortally wounded subject themselves in place of the external phylacteric vessel. The intended outcome was to soulbind the subject unto their own corpus, whilst rendering the latter inviolable. Additional protective terms were intended to ensnare incidental magics to sustain the binding, affording both protection and freedom from the classical lich's dependence upon the consumption of external vitality.
-<br>
-Assessment: Failure of the order of operations — the corpus, having been rendered inviolable, rejected the soulbind. The rebound is understood to have consumed the entirety of Fallowhurst College.
-
-In a secondary, temporary plaque:
-
-bq). Procurement pending.
+bq). One tall case stands empty but for a metal frame that once held a body upright. Etched into the glass behind where the skull would stand is a design you recognise as a partial version of a binding sigil. A plaque reads **ON LOAN — FALLOWHURST COLLEGE OF MEDICINAL STUDIES. RETURN TO ARCHIVE PENDING.**
 
 The curators classify Wilrin's skull as an overdue exhibit. If he refuses to surrender it, a caretaker may begin the return procedure; if he presents himself as the skull's current bearer, the archive may instead demand an explanation, a loan extension, or a replacement accession.
 
+h4. The Extinct Menagerie
+
+bq). The next chamber opens with the scale and silence of a grand natural-history museum. Black stone rises into a vaulted darkness, and pale skeletons hang from the ceiling in poses of impossible motion: a six-winged predator banking through the air, a long-necked grazer bending toward an absent meadow, a serpent with plated ribs coiled around a dead tree.
+<br>
+The displays continue below: claws arranged in drawers, jaws mounted on silver frames, eggshells nested in velvet, and enormous footprints set into the floor like paving stones. Some creatures are recognisable only from illustrations on their plaques. Others have no surviving name at all. Their labels use phrases such as *last confirmed specimen*, *habitat lost*, and *extinct by the third century*.
+<br>
+The room should be lifeless. Instead, small movements keep occurring at the edge of vision. A tail settles against a plinth. A rib cage expands and contracts once. Somewhere above, something with too many joints moves carefully across the beams.
+
+The necromantic radiation has reanimated a titanoboa skeleton. It is not hunting the party; it is following the movement patterns of a living animal that no longer exists.
+
+The snake slowly moves through the chamber, pushing through displays, knocking skeletons from their suspension rigs, and crushing anything in its path. Its body is too large for the room, so every turn creates a secondary hazard: falling exhibits, collapsing platforms, swinging bones, ruptured specimen cases, and blocked routes.
+
+The party must work out how to move around it without causing it to coil or panic.
+
+Possible solutions:
+* Observe its route and move between its passes.
+* Use heat, scent, light, or a magical lure to redirect it.
+
+Attacking it should make the situation worse rather than simply solve it. Damage to the titanoboa triggers the menagerie’s specimen-recovery protocol, while damage to the displays triggers caretaker intervention. The party may eventually destroy it, but the intended challenge is navigation, prediction, and environmental manipulation.
+
 h4. The Hall of Plagues
-
-bq). The double doors at the end of the corridor stand ajar. As you approach your light glints on glass in the room beyond. Strangely, the doorframe is rimmed with frost.
-
-The door was sealed when the room detected a breach. The anathemists forced it open.
 
 bq). The air changes before the door is fully open. It smells of vinegar, old linen, and something sweet that has gone wrong. Frost rims the threshold.
 <br>
 The gallery beyond is flanked by rows of tall containers of greenish glass. Within each floats a corpse, in various stages of decay but uniformly twisted and misshapen by disease. The walls behind them are lined with glass vessels housing smaller specimens, rats and other vermin, body parts, and individual organs.
 <br>
-At the centre of the room, a black-robed skeleton is slumped behind a lecturn.
+At the centre of the room, a skeleton in physicians garb is slumped behind a lecturn. 
 
 Brass plaques identify the outbreaks by name, location, and mortality. Several list no cure. Others record cures that were discovered too late to matter. Along the walls, rows of sealed jars contain blackened lungs, pale nodules, bundles of hair, and things too small to identify. Each jar is marked with a warning in three different scripts.
-
-Disease names:
-* *Tellerin Violet* - purple rash along spell-scars; Houd blamed Tellarin “curse” — likely venereal misfiled. Spreads on contact.
-* *Ivory Creep* - Flesh to bone from extremities inward; rare negative reaction to bone-mending healing spells.
-* *The Last Count / Bleenactun* - patients are compelled to count aloud until they cannot. No known cure. All patients, regardless of language or education, include 'bleen' between 6 and 7.
-* *Dimming Pox* - Fever resulting from spellcasting draining the caster's magic. Extreme cases draw on life energy itself, causing atrophy of the organs. Thought to be a plague due to its gradual spread from the south, actually an early sign of the death of magic.
-* *Second Breath* - A nasty combination of a healing spell trying to help with breathing with a strain of viral pneumonia. The spell bound to the virus, causing all those infected to increasingly inflate their lungs, ultimately suffocating as the cannot expell dead air. Cure: forced exhilation to clear the corrupted air from the lungs.
-* *Venatici Rot* - Venatici naval yards; gangrene of the limb from contaminated ballast water
-
-The anathemists didn't stop here - they passed through as quickly as possible hoping that their armour would shield them from any risk. The party can find places where the reliquaries have been recently moved to clear a path.
 
 The skeleton is a caretaker, but at some stage it fell against the lectern damaging the inscription on its sternum. Restoring it activates the skeleton, who will immediately identify a containment breach and trigger containment.
 
@@ -182,6 +96,7 @@ Possible escalating procedures:
 * Frost seals the doors.
 * Green glass partitions slide into place, dividing the party.
 * Preservative vapour begins filling one section of the room.
+* A caretaker starts moving a contaminated specimen toward the party for comparison.
 * The physician prepares to open a secondary reliquary because it believes the first diagnosis is incomplete.
 
 The party needs to identify the failing exhibit and restore containment. They could:
@@ -193,32 +108,15 @@ The party needs to identify the failing exhibit and restore containment. They co
 
 If they fail, the disease should escape as a developing crisis rather than an immediate combat encounter: perhaps a localised cloud, contaminated clothing, or an infected specimen escaping into the archive. The party then has to decide whether to seal themselves in, risk spreading it, or trigger a wider quarantine.
 
-
-h4. The Extinct Menagerie
-
-bq). The chamber opens into a space of cathedral scale. Rows of columns march in orderly fashion toward distant walls, above you the ceiling is lost in shadows. Staircases wind around them, granting access to walkways and galleries high above. The base of each column is ringed with display cases. You can just make out the nearest - beneath the glass serrated teeth longer than a man's arm are neatly arrayed on black velvet.
-<br>
-Between the columns, towering above you are colossal forms - the skeletons of creatures of immense size. To your left a 40-foot long biped has been posed as if rounding the column towards you. The jaw of its massive skull is hinged open, rows of predator teeth on full display as if the beast were an instant away from bringing those dagger-like points down upon you. Opposite it, the body of a quadruped is largely hidden behind a column but you can follow the curve of its spine from the tip of a tail next to the door as it rises in a sinuous curve past the walkways above you. It's surprisingly small skull is almost lost in the darkness easily 80 feet from the floor below. Other forms of similar scale can be seen extending out into the shadows of the room.
-<br>
-The shifting light as you enter the room almost makes the skeletons look as though they're moving. Is there a shift in the air? The distant sound of bone grinding against stone at the edge of your hearing? Or is it just your imagination.
-
-One of the 'staircases' is actually a titanoboa skeleton resurrected by the necromantic fallout and coiled around the pillar. The anathemists had one near miss, then charted a route that avoided it (chalk marks are findable if the party are looking). It'll mostly just be curious, but will defend itself if they attack.
-
-The party can navigate the walkways, restricting the snake's movement but also their own.
-
-
-
 h3. 5. The Quarantine Zone and the Sacrum
-
-bq). The route makes its way up a grand and winding staircase. As you climb, you pass alcoves containing [TODO]. Finally you find yourselves once again in the familiar surroundings of the public hall of an osteomantic archive - astringed rows of pews around a central dias inlaid with what you now know to be an excarnation spell. The room is deserted and eerily silent - the gentle creek as the open doors shift in the breeze is the only sound.
 
 The party emerges from the deep archives into the Quarantine Zone. The Zone should feel like a dead city preserved at the instant of catastrophe, with no bodies despite every other detail remaining in place.
 
-bq). You emerge into a silent street, the sun obscured by a wall of low, dense cloud that makes the afternoon feel like the depths of evening. The street looks like any other in sindrel, but completely deserted. The silence hangs oppressively over everything.
-
-Any houses they search are untouched, and deserted. Food remains on plates where it left - desiccated rather than rotted, not even bacteria live in this dead place. There are no bodies.
-
-bq). The further you go, the more the schizophrenic architecture of Sindrel gives way to an unfamiliar pattern. Dark stone and pointed arches, gargoyles worn smooth by centuries of rain, skull motifs appearing with greater and greater regularity. Residential streets give way to more formal ceremonial patterns - plazas, audatoria, and mausoleums dominate.
+bq). The further you go, the more the schizophrenic architecture of Sindrel gives way to an unfamiliar pattern. Dark stone and pointed arches, gargoyles worn smooth by centuries of bad weather and worse magic, skull motifs chosen with the restraint of people who thought they were being tasteful. Streets lie where they fell: courts, ossuary gates, memory-archives with their doors hanging open, hospitals and academies and civic halls all arranged with the terrible patience of a civilisation that believed death was a transition, not an ending.
+<br>
+That belief lingers in the stones. The Zone feels less abandoned than unresolved — as though someone left in the middle of a sentence and the punctuation never arrived. In places the necromantic residue is visible: a faint glow on lintels, frost that is not cold, dust that arranges itself into ridges no wind could have made.
+<br>
+Somewhere ahead — at the heart of the wound, where the public story says the [[The Eighth House | Eighth House]] died — the architecture grows denser, more deliberate, more official. If the Zone is a scar, that is the place the blade went deepest.
 
 At the Sacrum:
 
@@ -229,16 +127,437 @@ At the Sacrum:
 * Reinforcements or surviving merchants may still be present and prepared to fight.
 * The Anathemists can deliver their speech about Sindrel's rot and House Oestra's machinations before attempting to escape, bargain, or force a confrontation.
 
-bq). You know the building before anyone names it. It sits at the centre of the Quarantine Zone like a verdict - flying buttresses of black stone, pointed arches stacked upon pointed arches, gargoyles festoon the lintels.
+bq). You know the building before anyone names it. The Sacrum.
 <br>
-The doors are grand. The windows are narrow.. No lamp burns at the entrance. The heart of the eighth house is dark, and cold, and hungry.
-
-Interior:
+It sits at the centre of the Quarantine Zone like a verdict - flying buttresses of black stone, pointed arches stacked upon pointed arches, gargoyles festoon the lintels. Skull motifs here are not decoration; they are punctuation. A grand sprawling mass of halls, archives, and spires.
+<br>
+The doors are grand. The windows are narrow.. No lamp burns at the entrance. The Sacrum is dark, and cold, and hungry.
 
 bq). The air is dry and colder than the Zone outside — preserved, not fresh. Corridors branch into memorial galleries where niches wait in ranks, not the compact alcoves of the catacombs but spaces in which a full skeleton could stand. Floors are black polished stone. Vaulting draws the eye upward into shadow, then denies it a resting place. Every room feels like the antechamber to a larger grief.
 <br>
 There is no bustle of a living headquarters — no clerks, no petitioners, no polite necromantic commerce. What remains is worse than emptiness: the sense of duties half-finished. The necromantic pressure is strongest here — not the diffuse wrongness of the streets, but a focused weight, as though the building itself were still trying to complete a ritual interrupted a thousand years ago.
-<br>
-For the first time in this place of death you find actual evidence of the dead - a dessicated corpse sits slumped against one wall.
 
-The corpse is Nielsenn, the House [TODO] locksmith whom the anathemists kidnapped, used, and murdered. Approaching him will cause his ghost, trapped in this place by the necromantic radiation, to manifest and entreat the adventurers to violence.
+h3. 6. Audience with Silas Oestra
+
+This can happen before the Greysheath operation, between the archive pursuit and the return to the Quarantine Zone, or after the party returns from the Sacrum, depending on their order of operations.
+
+h4. Approach to the Leageur
+
+bq). The Leageur occupies an entire walled district of Sindrel’s ground level like a declaration of intent. While the headquarters of other Great Houses might resemble temples, libraries, palaces or occasionally architectural nervous breakdowns, the Leageur looks unmistakably like a fortress.
+<br>
+At least, it does after a second glance.
+<br>
+The first glance tends to be distracted by the marble.
+<br>
+House Oestra have covered the exterior of the complex in fluted columns, soaring domes and enough crimson pennants to suggest that a very patriotic hurricane has recently passed through. White marble gleams in the sunlight. Bronze doors tower overhead. Heroic statuary adorns every approach. The entire ensemble projects the reassuring message that civilisation was grand, noble and entirely in control of events.
+<br>
+The second glance noticed the murder holes.
+<br>
+The third noticed the iron gates.
+<br>
+By the fourth, you realise that the marble is largely decorative and that nearly every attractive feature conceals something designed to repel a siege.
+<br>
+The broad ceremonial avenues narrow abruptly at strategic points. Grand staircases can be sealed by portcullises hidden within ornamental arches. The elegant colonnades stand before walls thick enough to stop artillery, constructed from magically reinforced volcanic concrete and merely pretending to be marble for social reasons.
+<br>
+Beyond the walls lie a series of vast open spaces whose scale seems almost absurd. Parade grounds stretch across acres of stone. Assembly halls large enough to accommodate entire armies stand empty beneath colossal domes. Armouries occupy wings grander than most noble palaces.
+<br>
+And yet there are remarkably few people.
+<br>
+The result is a headquarters that feels less inhabited than prepared. Every courtyard appears ready for a parade. Every hall seems moments away from hosting a senate session. Every wall gives the impression that a war could begin at any moment.
+<br>
+At the very centre of the Leageur stands the Senate Hall of Oestra, crowned by its vast dome and surrounded by enough fortifications to survive the collapse of civilisation several times over.
+
+h4. The Senate Chamber
+
+bq). The Senate chamber of the Leageur is built to make visitors feel small on purpose: White stone, bronze Oestran sunburst, ranks of empty benches climbing into shadow. House guards stand at the walls with the bored competence of men who have never needed to be imaginative. At the far end of an expanse of polished marble floor stands a grand throne of dark iron atop a tiered dais.
+<br>
+[[:commander-locke | Prefect Locke]] waits by the Triumphal door — half-plate, eyepatch, arms folded, visibly wishing to be anywhere else.
+<br>
+[[:silas-oestra | Silas Oestra]] does not wait. He paces the floor before the dais, hand clenched on the hilt of his sword, knuckles white as bone. For all his rank, the heir of House Oestra wears his authority with palpable discomfort. A human who cannot quite have reached thirty: fair-skinned, lean, restless, with dark hair worn longer than strict [[House Oestra | Oestra]] fashion permits and a clean-shaven jaw that still looks a little unfinished. He wears Oestra finery as though armour could supply what birth has not yet granted — blackened breastplate over crimson cloth, bronze at the shoulders, long sword worn openly — every piece correct, nothing quite settled. Chest out, chin high, voice slightly nasal and much too fast, as if volume and procedure might stand in for respect. He speaks before you have fully stopped moving.
+
+h4. Silas
+
+bq). "There you are. At last. Why am I not surprised that you exhibit such reluctance to come when invited after seeming so eager to go poking around when unwelcome? It is customary to kneel, incidentally."
+
+bq). "Very well. I am given to understand that you were commissioned by a Hexine Circle to investigate the leak of privileged information, and by extension the series of so called sabotages that have plagued the Great HOuses. Instead you have abused that authority to conduct a campaign of trespass and intimidation against **mine**.
+<br>
+You were caught emerging from regions of this House you had no authority nor permission to enter, and in which your very presence was an act of desecration against the lineage of this house, my lineage. Were that not enough, you proceeded to exploit the poor judgement of one of my prefects in order to muscle your way into essential and secret military infrastructure. And in pursuit of what, precisely? [[House Grimbolg | Grimbolg]] lost a silo. [[House Beltus | Beltus]] lost a caller to his own demon. [[House Lithra | Lithra]] caused an international embarrassment. Nothing that cannot be explained by lax discipline and carelessness. Meanwhile [[House Meness | Meness]] cannot keep our core infrastructure secure. And yet for some reason you appear to be focussed on _us_.
+<br>
+We suffered **no such incidents**. None. Our security held. Our people held. That is not a mystery. That is proof that whatever you are hunting, it is **not here**.
+<br>
+So explain to me — politely, if you can manage it — why my House keeps paying for your indiscretions.
+
+h4. Culmination
+
+bq). "Silence! I will not be lied to in my own hall. Were you members of my house I would have you executed for such insolence. Locke may have bought into your ridiculous tale, and believe me he will be suitably disciplined when may father returns, but I am not so easily misled. Were it up to me you would have no investigatorial mandate whatsoever - Founder's teeth all of this on the back of a few accidents, a failed bombing, and one anathemist saying 'Kosmios', my father would _weep_ to see how far we have fallen."
+<br>
+You see Locke stiffen. An odd expression passes across Silas's face for a second before he continues.
+<br>
+"The [[Hexine Circle | Hexine Circle]] commissioned you to find **spies**, not to invade my House. There is a difference, and I suggest you learn it before my father's patience - and mine - is exhausted.
+<br>
+You will investigate criminals, smugglers, the sort of vermin who nest in  [[The Wallarch District | Wallarch]] dives. That is useful work. Breaking archive seals and bullying armourers is not investigation. It is **harassment**, and I will not have it recorded that House Oestra tolerated it.
+<br>
+Any further transgression of your bounds will be treated as an attack against the city, is that understood?"
+
+
+---
+old notes - retain for reference.
+
+h2. Structure
+
+Events (ordering depends on party decisions)
+
+* *Letter from Seer Demeletas* Setting up a date with Deathwalker.
+* *The Summons* Showdown with Silas
+* *Confrontation at Ambassador Street* Marceline (or whoever) escapes, makes their way to the Sacrum.
+* *Acquiring Protection* Kelferiia (or another route) provides the magical protection necessary to enter the quarantine zone
+* *Journey to the Sacrum* Either via the Wallarch Breach, or through the catacombs. Marceline took the catacombs route.
+* *The Bonded Garden* If the party want even more leverage before they go to Silas
+
+h2. A Letter from Demeletas
+
+bq(in-world-document). You smiled as though the future were foreseen —<br>
+Not mine to give, and yet I did not mind.<br>
+I am not won by courtly art, but lean<br>
+Toward candour, and a wit that does not hide.
+<br>
+On thirty-third Enean, when dusk has passed its prime,<br>
+Come to the Pythiol, by the upper stair;<br>
+A private chamber I have, dim lamps lamps and bread and wine,<br>
+And no one else required to witness there.
+<br>
+No one shall meet you at the seers door;<br>
+Within, all waits — the wine, the bread, the light.<br>
+It seems a closed door never long keeps more<br>
+Than passing trouble for you — push tonight.<br>
+<br>
+I shall be hungry for your company,<br>
+And pleased to find you difficult to ignore.
+<br>
+Demeletas
+
+
+
+
+h2. Confrontation at Ambassador Street
+
+[[File:1580321  | class=media-item-align-right | 800px | Town-House-in-Charles-Street.jpg]]
+[[File:1580322  | class=media-item-align-right | 800px | exec-d23bf9c5-dc83-44ed-9af3-be9f8ac93e4d.png]]
+
+h3. Inhabitants of Greysheath House
+
+* d'Log
+* Arouraios
+* Marceline
+* [[:georges-de-selve | Georges de Selve]] and [[:jean-de-dinteville | Jean de Dinteville]] — arrived earlier that evening, ostensibly to conclude business with d'Log; actually finalising the Dockward operation. The Wonch recognise them from the coach.
+* Harsa Nefer (she/her) (Human, forties, grey hair in a coil, Lithra grey livery, gold adjutant bracelet. Quiet, tired, professionally invisible.) Upstairs rooms, linens, fires, plate, keeping the kitchen and pantry vaguely in order.
+* Wahibre ten-Sutekh (he/him) (Dwarf, thirties, trimmed beard, same grey livery and bracelet. Polite, nervous, talks too much when frightened) Scullery, coal scuttles to the cellar hatch, boots and mud at the back stair, hauling trays when told.
+
+h3. Social stage
+
+h4. Assuming a midnight entry
+
+* [[:regnif-d-log | D'log]] is asleep in the Boudoir (X)
+* [[:marceline | Marceline]] will answer the door, clearly tired but in control. If the Wonch present a sufficiently unarguable case, she will ultimately wake d'Log.
+
+h4. Once everyone is awake
+
+* If Marceline twigs that they're investigators, she'll start trying to deflect onto d'Log - "The master has been dispatching us on some strange errands lately."
+* Depending on the time of day, d'Log will entertain his guests either in the Morning Room (P), Library (V), or Drawing Room (Z). Wherever he is, the shutters will be closed.
+* d'Log will apologise for the cold, mentioning that he had the shutters installed to try and keep the house warm.
+* Marceline will take the first opportunity to alert [[:arouraios | Arouraios]] and trigger the burn plan.
+
+h3. Things to find
+
+h4. Charcoal receipts / orders
+
+* Signed by d'Log, but masterminded by Marceline.
+* Genuine signatures. d'Log really thought the house was freezing. Supports gunpowder logistics without him understanding scale.
+* enough charcoal purchased to heat Greysheath House for a year. The fireplaces contain little ash and the flues are clean.
+
+h4. Kelferria armour commission
+
+* Marceline via d'Log's name
+* Forged signature on the armour order — d'Log has no memory of it.
+* Samples = Sacrum kit + crude false Oestra crest plates
+
+h4. Household ledgers / messages in d'Log's name
+
+* Irregularities, errands, appointments he d'Log doesn't recognise or understand.
+
+h4. Partially burned Oestra folder
+
+* Marceline tried to destroy evidence
+* Behind the fire grate — Oestran crest visible; contents already gone (smuggled out with Georges/Jean).
+* Shell proves Oestra theft happened
+
+h4. Arouraios's route book
+
+* Easy navigation through the catacombs / other paths around the city.
+
+h4. Powder on the cart cloths
+
+* Folded sacking and a waxed cart-cloth have yellow sulphur in their seams, pale nitre crystals in the weave, and black charcoal dust over both. One cloth bears a faded Beltan inventory stamp; another has a green Amalthean silo tally.
+
+h4. Marceline's correction slips
+
+* Short notes instruct suppliers to divide large charcoal orders among several invoices and deliver them under different merchant names. Each is phrased as an instruction from d'Log.
+* The invoices reconcile to genuine payments authorised by d'Log; the concealment instructions do not. This points to Marceline using a negligent master rather than d'Log directing the plot.
+
+h4. A servant's calendar
+
+* Harsa records linen days, formal dinners, and the nights on which Marceline or Arouraios told the staff not to wait up. The unexplained absences fall on the dates of the Grimbolg flood, Nielsenn's disappearance, the Beltus summoning, Isius's scandal, and the later Goela, Mabon, and Meness incidents.
+
+h4. Practice lock
+
+* A high-quality magical lock purchased from Nielsenn
+* Arouraios was using it to practice, but was ultimately unsuccessful - there are broken picks and signs of frustration.
+
+h4. Marceline's appointment book.
+
+* The Ditchquer closing ceremony is meticulously planned down to d'Log's gloves and coach time. In the margin: "A. receives the package. G/J carry it home.". There's a mark that could be accidental or could be intentional at the time of the explosion.
+
+h4. The Dockward Maps
+
+* The page never says Dockward, but the mile-wide ring around the Fulcrum is unmistakable to any Sindrel resident.
+* Tourist maps of Dockward, annotated with infrastructure particularly the levitation systems.
+* Three maintenance galleries are circled where the control conduits converge.
+* Notes in Arouraios's hand give guard changes, freight-lift capacities, and how long each gallery is empty.
+* Survives the burn plan if stored in its metal map tube.
+
+h4. Mabon maintenance passes
+
+* Four partly completed work permits authorise a night crew to inspect "annular suspension relays 4, 7, and 9." The seals are good copies but the names belong to dead or retired Mabon Factors.
+* Beside them is a Dockward labourer's silver bracelet and a scrap listing the colours worn by three cargo crews.
+* Shows that the cell plans to enter Dockward disguised as workers, not attack openly.
+
+h4. Explosives Calculation
+
+* Calculations of quantities for explosives, although the ingrediants are disguised.
+* Two separate tracks, one ending in 12, the other in 48.
+
+h4. Marceline's prayer book.
+
+* The book contains a severe but otherwise ordinary sermon against magical pride.
+* The inside cover lists only the imperative names *Bear Ye the Burden of Fire and Judgement*, *Lay Bare Every Path the Wicked Built*, and *Hold Fast the Covenant in Shadow*
+
+h3. Testimonies
+
+h4. Wahibe
+
+* Marceline repeatedly forbade him from filling the scuttles from the new deliveries: "That fuel was for the master's commercial business."
+
+
+
+h3. The burn plan
+
+* Marceline draws a hand-crossbow and puts a bolt through d'Log's leg (opportunity, he's the closest target).
+* Georges throws an incendiary. The room fills with smoke.
+* Jean uses flash powder to prevent an immediate pursuit while Arouraios deploys the first prepared obstacle.
+* They run, locking the door behind them and seeding their separate paths with more incendiaries.
+* The shutters are locked, as are the ones throughout the rest of the house.
+* Arouraios grabs his route book from its hiding place in the library (or wherever) and exits via the front door or a mapped service passage.
+* Marceline goes out via the hidden path in the store, which leads into the basement of the next house over.
+* Jean takes the back stair toward the stable lane, using the servants and neighbours as cover rather than attacking them.
+* Georges acts as rearguard, then blows an interior wall or locked exit with a powder charge when he withdraws.
+* As soon as the party get out of the room, they hear screams from elsewhere in the house - the other two servants trapped by the fire and about to burn to death.
+
+Objectives:
+
+* Save d'Log, whom Marceline intends to leave as the dead mastermind.
+* Preserve the household ledgers, Kelferria commission, charcoal receipts, Silas's stolen papers, or evidence of the Dockward plan.
+* Capture Arouraios and his route book.
+* Pursue Marceline (see below).
+* Protect servants, neighbours, or others endangered by the fire and structural damage.
+* Escape with their own lives
+
+h3. Greysheath House encounter
+
+This is deliberately a very dangerous fight on paper: [[:marceline | Marceline]] (CR 5), [[:georges-de-selve | Georges]] (CR 4), [[:jean-de-dinteville | Jean]] (CR 4), and [[:arouraios | Arouraios]] (CR 3) have four turns, prepared terrain, and strong coordination. If they stand together and use Multiattack every round they can overwhelm seven 3rd-level adventurers. They do not want that fight. Their objective is to burn the evidence, split pursuit, and escape.
+
+h4. Prepared-house actions
+
+On initiative count 20 (losing initiative ties), the cell triggers one of the following prepared effects. It cannot use the same effect two rounds in a row. These are mechanical lair actions, but entirely mundane: cords, counterweights, lamp oil, smoke pots, altered locks, and memorised passages. The house stops taking actions once no conscious cell member remains inside.
+
+* *Seal the route.* Up to two doors or shutters slam and lock. A creature in one of those openings must succeed on a DC 14 Dexterity saving throw or be pushed to either side of the opening (the cell chooses). A locked interior door or shutter has AC 15, 15 hit points, and immunity to poison and psychic damage. Opening its prepared lock requires an action and a successful DC 14 Dexterity check with thieves' tools or DC 16 Strength (Athletics) check.
+* *Feed the fire.* Oil runs down hidden cords and two unoccupied 5-foot squares the cell can see ignite. An ignited square is lightly obscured. A creature that enters it for the first time on a turn or starts its turn there takes 3 (1d6) fire damage. At each subsequent initiative count 20, one existing fire either spreads into one adjacent unoccupied square or becomes heavily obscuring smoke; the GM chooses. A creature adjacent to a burning square can use an action to extinguish it.
+* *Drop the room.* A bookcase, ceiling net, rolled carpet, or overloaded curtain falls into a 10-foot square the cell can see. Creatures there must succeed on a DC 14 Dexterity saving throw or take 5 (1d10) bludgeoning damage, fall prone, and become restrained. A creature can use an action to free itself or another creature with a DC 13 Strength (Athletics) or Dexterity (Acrobatics) check. The square becomes difficult terrain.
+* *Open the other way.* A concealed panel, servant's hatch, or false section of shelving opens beside one cell member. That agent can use its reaction to move up to its speed without provoking opportunity attacks. The passage remains visible and usable until the next initiative count 20, when it closes and locks (AC 15, 15 hit points; DC 15 thieves' tools to open).
+
+h4. Default tactics
+
+* *Opening:* the crossbow attack against d'Log occurs as hostilities begin rather than consuming Marceline's first combat action. Georges ignites the room; Jean uses *Flash-Powder Courtesy*; Arouraios uses *Prepared Obstacle*. The first house action is *Seal the route*.
+* *Marceline* uses *Direct the Withdrawal*, smoke, and the hidden store passage. She attacks primarily if a spellcaster blocks an exit or someone has seized the Dockward intelligence.
+* *Arouraios* retrieves the route book, obstructs the largest group of pursuers, and runs. If he cannot take the book, he tries to throw it into the fire.
+* *Jean* creates an apparently obvious pursuit route through the stable lane, drawing attention away from Marceline. He uses his attacks only when pinned down.
+* *Georges* interposes himself between the Wonch and whichever agent carries vital evidence. He is willing to be captured if doing so buys Marceline a clean escape, but uses a powder charge if the whole cell is about to be contained.
+* *Against spellcasting:* *Anathema's Fury* makes the cell dangerous when the Wonch use magic openly, but they still spend movement and control abilities on escape unless cornered.
+* *No executions:* the cell attacks to create openings. They do not spend attacks on unconscious characters, and they do not remain merely to finish a wounded foe.
+
+h4. Withdrawal and capture
+
+At half hit points, each agent abandons optional evidence destruction and takes the safest available exit. Marceline values the Dockward plan above every comrade; Georges values Marceline's escape above his own; Jean and Arouraios value the mission above one another. If an agent is isolated, restrained, and presented with an overwhelming force, capture is preferable to a pointless death.
+
+The desired result is that the party can catch one or more agents through good choices, but cannot cover every exit while also saving d'Log, Harsa, Wahibre, the neighbours, and the evidence. Do not guarantee an escape by fiat: the prepared passages, smoke, divided routes, and competing objectives should earn it. If the Wonch nevertheless contain all four, honour the victory and let Georges and Jean's outside contacts advance the Dockward plan without them.
+
+h4. Pursue Marceline
+
+If pursued, run a short chase through Ambassador Street's service passages, [[Merrylane | Merrylane]] Park, into the Merrylane Osteomantic Archive, and through the catacombs.
+
+Two pieces of enchanted armour are stashed by the Wallarch breach (the ones typically used by the Bears). Marceline and Arouraios's pieces were stashed on the catacomb route from the Merrylane Osteomantic Archive.
+
+At the breach, the stolen enchanted armour allows the Anathemists to enter the necromantic contamination. The Wonch can follow immediately at considerable risk or withdraw to obtain protection, information, and reinforcements. The radiation should be a dangerous, telegraphed obstacle rather than an absolute barrier.
+
+Preferred default outcome: d'Log survives and is exposed as Goldfinger; the Wonch prove Marceline leads the cell; Arouraios is captured or loses his route book; Marceline escapes in false Oestra armour; the party sees her enter the Quarantine Zone and knows where the investigation ends. If Marceline is captured, honour that victory — Georges and Jean remain at large with the gunpowder, stolen intelligence, and Dockward operation.
+
+h2. The Quarantine Zone
+
+h3. Entrance from the Wallarch Breach
+
+bq). The iron boundary rises in a line too straight to be natural: black metal banded with bronze, ward-glyphs repeating at intervals no craftsman would choose without instruction, maintenance scaffolds clinging to the face like lichen on a wound that refuses to close.
+<br>
+Down a side street, around the back of a warehouse, through a gap between buildings that was never meant to be a path, gradually the crowded bustle of Wallarch fades into the background and you find your way to the  breach. A break in the wall, a narrow crack that runs vertically, a hair's breadth at the top, barely wider enough for a person at the base. It's a squeeze. Deathwalker needs to turn sideways.
+<br>
+On the other side, the Quarantine Zone stretches away. Deserted streets. Houses whose blank windows regard you like empty eye sockets. All shrouded in deathly silence. Nothing moves, not a bird, not a rat, not a single sign of life can be seen.
+<br>
+Standing within it, you understand why the Quarantine Zone is the stuff of horror stories and childish nightmares. The air has a weight to it - not heat, not cold, but pressure at the temples, as though the district ahead were watching you from directions geometry does not admit. Your skin registers it before your mind names it: a wrong place. A dead place.
+
+h3. Within
+
+bq). The further you go, the more the schizophrenic architecture of Sindrel gives way to an unfamiliar pattern. Dark stone and pointed arches, gargoyles worn smooth by centuries of bad weather and worse magic, skull motifs chosen with the restraint of people who thought they were being tasteful. Streets lie where they fell: courts, ossuary gates, memory-archives with their doors hanging open, hospitals and academies and civic halls all arranged with the terrible patience of a civilisation that believed death was a transition, not an ending.
+<br>
+That belief lingers in the stones. The Zone feels less abandoned than unresolved — as though someone left in the middle of a sentence and the punctuation never arrived. In places the necromantic residue is visible: a faint glow on lintels, frost that is not cold, dust that arranges itself into ridges no wind could have made.
+<br>
+Somewhere ahead — at the heart of the wound, where the public story says the [[The Eighth House | Eighth House]] died — the architecture grows denser, more deliberate, more official. If the Zone is a scar, that is the place the blade went deepest.
+
+Wisdom check - the thing you _should_ be seeing but aren't. Every detail of the quarantine zone remains as it was left in a single instant (the food has desiccated rather than rotting - not even bacteria lives here). But there are no bodies.
+
+h2. The Sacrum
+
+
+bq). You know the building before anyone names it. The Sacrum.
+<br>
+It sits at the centre of the Quarantine Zone like a verdict - flying buttresses of black stone, pointed arches stacked upon pointed arches, gargoyles festoon the lintels. Skull motifs here are not decoration; they are punctuation. A grand sprawling mass of halls, archives, and spires.
+<br>
+The doors are grand. The windows are narrow.. No lamp burns at the entrance. The Sacrum is dark, and cold, and hungry.
+
+
+h3. Interior
+
+bq). The air is dry and colder than the Zone outside — preserved, not fresh. Corridors branch into memorial galleries where niches wait in ranks, not the compact alcoves of the catacombs but spaces in which a full skeleton could stand. Floors are black polished stone. Vaulting draws the eye upward into shadow, then denies it a resting place. Every room feels like the antechamber to a larger grief.
+<br>
+There is no bustle of a living headquarters — no clerks, no petitioners, no polite necromantic commerce. What remains is worse than emptiness: the sense of duties half-finished. The necromantic pressure is strongest here — not the diffuse wrongness of the streets, but a focused weight, as though the building itself were still trying to complete a ritual interrupted a thousand years ago.
+
+The party will need magical protection to get here. Luckily, Kelferria has plenty to hand.
+
+TODO: description of the Sacrum
+TODO: the rest of the tunnels to reach it (if the party go that way).
+
+Things to find:
+* The Anathemists have been busy, constructing a lot of explosives. The 12 at the fulcrum were merely an opening salvo, they're planning to bring down dockward.
+* Nielsenn's corpse, casually tossed aside. His spirit will be nearby, and can share his side of the story.
+* Whoever got here will have called in reinforcements - the merchants will be here, armed and ready for a fight.
+* The anathemists will get some villain monologueing, decrying the rot of sindrel and the eveil machinations of house Oestra.
+
+h2. Wrap up
+
+The anathemists are captured, but we still don't know exactly what went down. Luckily we're pretty sure it involves house Oestra, and probably Silas.
+
+
+h2. Consequences of Handing the Sigil to The Black Cats
+
+Nothing immediate, the cats will beginning attempting to utilise it leading to an increase in reports of hauntings and other spookies.
+
+h2. Dulcinia
+
+What's going on with her off-screen? What does getting help from the houses of healing actually entail? Probably not a one-and-done, magical sustain of life - she's tied to sindrel.
+
+h2. The Bonded Garden
+
+bq). The Canted Terrace does not announce itself. It sidesteps.
+<br>
+The walk up is all polished steps and iron lamps, ceremonial gutters, and carved stonework. The district sits high enough to be respectable and at an angle to everything fashionable - walled, screened, and spoken of in the careful tones people use for places they are not supposed to enjoy looking at. Coachmen know the routes. Factors mention addresses without blushing. Merrylane, somewhere beyond the sightline tricks, pretends not to know which way you turned.
+<br>
+Incense reaches you before the name does - amber, musk, something sweet enough to make you forget what quarter you are in. Then the sign: modest on purpose, gilt on black lacquer. The Bound Garden. Beneath it, in smaller script: Private Repose. By Introduction.
+<br>
+No painted nymphs. No winking cherubs. Only a pierced bronze screen set into the facade, and lamplight falling through arabesque cutouts to spill across the Terrace walk in patterns too pretty to be innocent. Black marble steps. Gold-threaded tiles glimpsed through smoke-coloured veils.
+
+At the door: if they have no introduction, an attendant may appear behind the screen — flawless, unhurried, attentive in a way that feels less like service and more like being seen through. Discreet admission is introduction, House credit, or a vouched name.
+
+Optional one-liner if someone asks what kind of place it is: "The sort of club respectable people call a club, and everyone else calls none of their business."
+
+bq). The door admits you into warmth that has been arranged, not accumulated.
+<br>
+Incense first - amber, musk, sweetness. Pierced screens throw latticed shadow across black polished floors. Through them you can see a suggestion of bodies moving in a smoky haze - never glimpsed clearly, always tantalisingly vague. Lamplight is low and deliberate. Gold filigree catches on every latch, every hinge, every frame — nothing shabby, nothing hurried, nothing that looks as though it has ever been surprised by a guest.
+<br>
+Attendants appear when needed and never when they are not: flawless, unhurried, attentive in a way that feels less like service and more like being seen through. Their smiles are perfect. Their silence is professional.
+<br>
+The rooms open off the corridor like small palaces - cushions piled in calculated disorder, low lamps, reflecting pools no larger than a washbasin, veils of smoke-coloured silk drawn against walls. Somewhere deeper in the building, very faintly, you catch the suggestion of music, as if someone had remembered that pleasure ought to have a soundtrack.
+<br>
+If you ever saw a price list, it would be written in the same calm hand as a summoning contract. The Bound Garden sells discretion the way other houses sell wine: expensively, and with the unspoken understanding that you are not to ask what happens in the cellar when the last lamp goes out.
+
+Potential lead the party might follow before talking to Silas. The Bonded Garden summons Succubi to fulfil its clients' desires.
+
+If the party decide to go this way, they can get some embarrassing information on Silas. Rather than any sexual proclivities, it's even more embarrassing. He exclusively requested the demon to appear in the form of his father, playing out a series of scenarios where he succeeds in winning his father's admiration. His final visit turned violent - a fencing match he was scripted to win became heated and he ended up attempting to kill the image of Lord Oestra.
+
+
+h2. The Summons
+
+When the party finally answer the summons, they get to approach the Leageur from without rather than within.
+
+bq). The Leageur occupies an entire walled district of Sindrel’s ground level like a declaration of intent. While the headquarters of other Great Houses might resemble temples, libraries, palaces or occasionally architectural nervous breakdowns, the Leageur looks unmistakably like a fortress.
+<br>
+At least, it does after a second glance.
+<br>
+The first glance tends to be distracted by the marble.
+<br>
+House Oestra have covered the exterior of the complex in fluted columns, soaring domes and enough crimson pennants to suggest that a very patriotic hurricane has recently passed through. White marble gleams in the sunlight. Bronze doors tower overhead. Heroic statuary adorns every approach. The entire ensemble projects the reassuring message that civilisation was grand, noble and entirely in control of events.
+<br>
+The second glance noticed the murder holes.
+<br>
+The third noticed the iron gates.
+<br>
+By the fourth, you realise that the marble is largely decorative and that nearly every attractive feature concels something designed to repel a siege.
+<br>
+The broad ceremonial avenues narrow abruptly at strategic points. Grand staircases can be sealed by portcullises hidden within ornamental arches. The elegant colonnades stand before walls thick enough to stop artillery, constructed from magically reinforced volcanic concrete and merely pretending to be marble for social reasons.
+<br>
+Beyond the walls lie a series of vast open spaces whose scale seems almost absurd. Parade grounds stretch across acres of stone. Assembly halls large enough to accommodate entire armies stand empty beneath colossal domes. Armouries occupy wings grander than most noble palaces.
+<br>
+And yet there are remarkably few people.
+<br>
+The result is a headquarters that feels less inhabited than prepared. Every courtyard appears ready for a parade. Every hall seems moments away from hosting a senate session. Every wall gives the impression that a war could begin at any moment.
+<br>
+At the very centre of the Leageur stands the Senate Hall of Oestra, crowned by its vast dome and surrounded by enough fortifications to survive the collapse of civilisation several times over.
+
+h3. The Senate Chamber
+
+bq). The Senate chamber of the Leageur is built to make visitors feel small on purpose: White stone, bronze Oestran sunburst, ranks of empty benches climbing into shadow. House guards stand at the walls with the bored competence of men who have never needed to be imaginative. At the far end of an expanse of polished marble floor stands a grand throne of dark iron atop a tiered dais.
+<br>
+[[:commander-locke | Prefect Locke]] waits by the Triumphal door — half-plate, eyepatch, arms folded, visibly wishing to be anywhere else.
+<br>
+[[:silas-oestra | Silas Oestra]] does not wait. He paces the floor before the dais, hand clenched on the hilt of his sword, knuckles white as bone. For all his rank, the heir of House Oestra wears his authority with palpable discomfort. A human who cannot quite have reached thirty: fair-skinned, lean, restless, with dark hair worn longer than strict [[House Oestra | Oestra]] fashion permits and a clean-shaven jaw that still looks a little unfinished. He wears Oestra finery as though armour could supply what birth has not yet granted — blackened breastplate over crimson cloth, bronze at the shoulders, long sword worn openly — every piece correct, nothing quite settled. Chest out, chin high, voice slightly nasal and much too fast, as if volume and procedure might stand in for respect. He speaks before you have fully stopped moving.
+
+h3. Silas
+
+bq). "There you are. At last. Why am I not surprised that you exhibit such reluctance to come when invited after seeming so eager to go poking around when unwelcome? It is customary to kneel, incidentally."
+
+
+bq). "Very well. I am given to understand that you were commissioned by a Hexine Circle to investigate the leak of privileged information, and by extension the series of so called sabotages that have plagued the Great HOuses. Instead you have abused that authority to conduct a campaign of trespass and intimidation against **mine**.
+<br>
+You were caught emerging from regions of this House you had no authority nor permission to enter, and in which your very presence was an act of desecration against the lineage of this house, my lineage. Were that not enough, you proceeded to exploit the poor judgement of one of my prefects in order to muscle your way into essential and secret military infrastructure. And in pursuit of what, precisely? [[House Grimbolg | Grimbolg]] lost a silo. [[House Beltus | Beltus]] lost a caller to his own demon. [[House Lithra | Lithra]] caused an international embarrassment. Nothing that cannot be explained by lax discipline and carelessness. Meanwhile [[House Meness | Meness]] cannot keep our core infrastructure secure. And yet for some reason you appear to be focussed on _us_.
+<br>
+We suffered **no such incidents**. None. Our security held. Our people held. That is not a mystery. That is proof that whatever you are hunting, it is **not here**.
+<br>
+So explain to me — politely, if you can manage it — why my House keeps paying for your indiscretions.
+
+h4. Culmination
+
+bq). "Silence! I will not be lied to in my own hall. Were you members of my house I would have you executed for such insolence. Locke may have bought into your ridiculous tale, and believe me he will be suitably disciplined when may father returns, but I am not so easily misled. Were it up to me you would have no investigatorial mandate whatsoever - Founder's teeth all of this on the back of a few accidents, a failed bombing, and one anathemist saying 'Kosmios', my father would _weep_ to see how far we have fallen."
+<br>
+You see Locke stiffen. An odd expression passes across Silas's face for a second before he continues.
+<br>
+"The [[Hexine Circle | Hexine Circle]] commissioned you to find **spies**, not to invade my House. There is a difference, and I suggest you learn it before my father's patience - and mine - is exhausted.
+<br>
+You will investigate criminals, smugglers, the sort of vermin who nest in  [[The Wallarch District | Wallarch]] dives. That is useful work. Breaking archive seals and bullying armourers is not investigation. It is **harassment**, and I will not have it recorded that House Oestra tolerated it.
+<br>
+Any further transgression of your bounds will be treated as an attack against the city, is that understood?"
