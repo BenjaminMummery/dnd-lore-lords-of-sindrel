@@ -9,12 +9,14 @@ op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-x-planni
 op_created_at: '2026-07-14T17:41:44Z'
 op_updated_at: '2026-10-25T16:28:55Z'
 op_gm_only: true
-tags: []
+tags:
+- gm-prep
 post_title: 'Session X: Planning'
-post_time: '2036-12-31T17:30:00Z'
+post_tagline: GM prep — upcoming sessions (not a player recap).
+post_time: '2026-10-28T18:00:00Z'
 ---
 
-Notes: This page is for future planning and will never be published.
+Notes: GM-only planning. Find under *Adventure Log* (enable GM content) or direct link in frontmatter `op_url`. Do not use a far-future `post_time` — Obsidian Portal may hide the post from the log index.
 
 h2. Upcoming Session Plan (Session 19)
 
