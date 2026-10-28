@@ -1,5 +1,5 @@
 {
-  "last_git_publish": "2026-10-28T18:28:46Z",
+  "last_git_publish": "2026-10-28T18:40:29Z",
   "last_portal_pull": "2026-10-28T15:04:00Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
@@ -1887,9 +1887,9 @@
       "op_id": "e29c0674519f48e68f931ab80cac0f3a",
       "op_kind": "Wiki",
       "op_slug": "session-x-planning",
-      "op_updated_at": "2026-10-28T18:27:34Z",
-      "repo_blob_sha": "4c429afd54cf128f8bc6bfeec864c6138f77c31c",
-      "repo_hash_at_sync": "744c652126231561ab020562c605cf731a02268b813d3b9b6f7fb649868c9935",
+      "op_updated_at": "2026-10-28T18:39:12Z",
+      "repo_blob_sha": "a817b2371aa6757695824eadffad5408111b8e08",
+      "repo_hash_at_sync": "1ba8e1d64650454b0bf2f0e2606ac70a24237ef8d5ad828141ee2cbd0ebc635b",
       "repo_path": "lore/wiki/adventure-log/session-x-planning.textile"
     },
     "e2da37ba92ce4862a0165713a93c5a64": {
