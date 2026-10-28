@@ -16,7 +16,312 @@ post_time: '2036-12-31T17:30:00Z'
 
 Notes: This page is for future planning and will never be published.
 
-h2. Upcoming Session Plan
+h2. Upcoming Session Plan (Session 19)
+
+h3. Overview
+
+Last time we got through the archives, so we begin just after the extinct menagerie.
+
+The next room is actually a side room off the main path — light and movement behind an ajar door will attract them. Behind is a research office: a much more advanced curator (spells inscribed into the entire skeleton like scrimshaw) has been actively researching the archives' next expansion — the **Hall of Successful Resurrection**. In particular, it has collated records on [[:nakoma-deathwalker-mor-got-ha | Deathwalker]] — reports and accounts meant to reconstruct her life between **Brassmeade Bridge** and the present. The Anathemists **disabled** it (too observant to dodge reliably). Beats: **[[:amanira | Amanira]]** learns DW fought on the **opposite** side of the [[World History | Seven Day War]] (she need not reveal herself as Tellarite); **[[:pin | Pin]]** finds evidence DW was involved in the destruction of mercenaries he knew (Black Bloods / **Corvus** thread — see curator files).
+
+From there we emerge into the Quarantine Zone. A bit of exploration, discovering that the zone is deserted, dead, and devoid of bodies. As we head toward the sacrum we find more traces of the anathemists - there's a trail between the wall breach and the sacrum where they've moved materials.
+
+Entering the sacrum we find Nielsenn's corpse and ghost. This can fill in the full story of the anathemist heist, and urge vengeance on his killers.
+
+We also get some hints towards House Samhain's fate as the party explore.
+
+Finally we meet Paddington. He's waiting for the party with a few Anathemist allies. Boss fight — details under *Grand Hall* below.
+
+Lastly, the defeated Paddington mocks them with his final words - he was just the distraction; the bombs are almost in place by now and there's nothing the adventurers can do to stop them. Dockward will fall. We end on a cliffhanger as a bomb detonates far overhead.
+
+Following session: the adventurers race against time to disable the bombs. Having been pressured into action, the anathemists are less prepared and the bombs are not syncronised - the detonation at the end of the last session was early. The wonch save the day!
+
+h3. The Research Office
+
+**Placement:** Side door off the **Extinct Menagerie** exit corridor — flicker of **working light** attracts the eye.
+
+bq). The room is too small to be a hall and too tidy to be storage. The walls are lined with shelves stuffed with documents. A chalkboard bears what you recognize as a map of this section of the archives, one section has been labeled in mechanically perfect copperplate: "Phase XIV Expansion - The Hall of Resurrection". Low tables around the room are home to ordered stacks of documents and notes.
+<br>
+At the centre, a curator-skeleton sprawls in a high backed chair, its entire surface scrimshawed with necromantic script. The sternum plate has been **cracked** — deliberate, recent — and the light in its eye sockets is out. In familiar chalk on the floor at its feet are the words "Do not reactivate".
+
+**The curator (disabled):** **Preparator-tier** — scrimshaw inscriptions from crown to metatarsals. Anathemists **struck the sternum inscription** (too observant; tracked their chalk and rerouted patrol logic). **Reactivate:** clean fracture + Arcana or Religion DC 15 → speaks with greater precision and complexity than the other curators; treats party as **visiting scholars** until cases are touched; will attempt to **file** Deathwalker as exhibit candidate if she stands still too long in the light.
+
+The table next to the curator holds the Deathwalker dossier
+
+bq(in-world-document). Dossier on provisional accession target D-NR-1701. Compiled for consideration as central exhibit for The Hall of Resurrection.
+<br>
+Pre-3958 information is fragmentary. Descriptions of the subject's tattoos indicate membership of one of the mountain goliath clans, likely clan Mor'got'ha. As goliaths are typically poor record keepers, it is necessary to compile information primarily from the accounts of their foes. These are often laden with expletives and self justification. During this period, accounts of a series of skirmishes with Tellerite Expiditionary Forces provide the majority of our data. Earlier research concluded that the reported chants of *Deathbringer* from the goliaths was a simple warcry, and that accounts of a general of unusual skill and daring were either propoganda or the excuses of the ignominiously defeated. The few more lucid reports, however, are consistent in describing a single Mor'got'ha warrior at the head of the goliath battalions.
+<br>
+Of more concrete provenance is the membership of the Combined Interspecies Defence Batallion formed in 3958 to oppose the Tellarite invasion. The rosters include a small band of goliaths under the command of a 'Deathbringer'. It was this band that, vastly outnumbered, held the Brassmeade Bridge against the bulk of Tellerite reinforcements for a full 10 days, undoubtably swaying the decisive battle on the plains of Hermann in favour of the Houdians.
+<br>
+Tellarite accounts make reference to an "undying giant" who refused to yield even when standing alone against their massed armies. _Note - this is likely the source of the later narrative placing a single giant on the bridge. Curators should be retasked to update the Brassmeade diorama_. The death of this final warrior is attributed to the disgraced Tellerate battle-necromancer Nitherfang Gilfrarrin.
+<br>
+During the Tellerite retreat, multiple corroborated reports describe Gilfarrin, hardly a reliable part of the Tellerite force at the best of times, separating from his retreating regiment and cutting a bloody swath across southern Houd with the help of his bodyguard/executioner. Descriptions of his companion indicate a heavily scarred goliath with an apparently preternatural immunity to harm. This apparently ended with the necromancer's death - a headless body reliably identified as Gilfarrin was discovered in the woods of Goatheim in 3965. Of his companion there was no sign.
+<br>
+Fragmentary accounts from within the withdrawing Tellerite empire indicate that in the years following Nitherfang's death an unknown entity began hunting and killing Tellerite necromancers. Whether this was the action of a single individual or a network remains unclear, although the few survivor's accounts available indicate an unstoppable force that shrugged off everything up to and including siege weaponry.
+<br>
+Post 4000 the figure of an undying goliath warrior carrying a desiccated head begins to appear in accounts of battles across Artresh. While many of these can be ascribed to simple rumour an folk tails, some, such as the warrior who fought alongside the forces of the Mad King of Corvus in 4217 and single-handedly dispatched the Black Blood mercinaries, are well attested and corroborated. Many of these attach the epithet 'Deathwalker'.
+<br>
+Our inference is that these events describe a singular individual, a goliath of unusual martial prowess somehow resurrected by a Tellarite necromancer with her knowledge and will intact. That the spell has apparently outlived its caster's death by several centuries is equally intreating. This individual should be procured for study at the earliest opportunity.
+
+**Character beats at table:**
+
+* **[[:amanira | Amanira]]** — Tellarite war framing; optional Insight: curator mis-tags her reactions as *scholarly distress*.
+* **[[:pin | Pin]]** — Black Bloods + staves; **not** DW's name until he connects the goliath rebel line to Hesh's vision (GM: same battle, opposite banners).
+* **[[:nakoma-deathwalker-mor-got-ha | Deathwalker]]** — player may react to being **catalogued**; curator draft label: *Specimen candidate — binding persistence, post-mortem locomotion.*
+
+**Exit:** Main route → **grand stair** to Zone.
+
+h3. The Grand Stair
+
+bq). The route makes its way up a grand and winding staircase. As you climb, you pass alcoves containing Samhain-era props (evacuation bell, empty Red Mourning reliquary, processional skull-mask — see *Grand stair alcoves* above). Finally you find yourselves once again in the familiar surroundings of the public hall of an osteomantic archive — austere rows of pews around a central dias inlaid with what you now know to be an excarnation spell. The room is deserted and eerily silent; the gentle creak as the open doors shift in the breeze is the only sound.
+
+
+h3. The Quarantine Zone
+
+
+bq). You emerge into a silent street, the sun obscured by a wall of low, dense cloud that makes the afternoon feel like the depths of evening. The street looks like any other in sindrel, but completely deserted. The silence hangs oppressively over everything.
+
+Any houses they search are untouched, and deserted. Food remains on plates where it left - desiccated rather than rotted, not even bacteria live in this dead place. There are no bodies.
+
+bq). The further you go, the more the schizophrenic architecture of Sindrel gives way to an unfamiliar pattern. Dark stone and pointed arches, gargoyles worn smooth by centuries of rain, skull motifs appearing with greater and greater regularity. Residential streets give way to more formal ceremonial patterns - plazas, audatoria, and mausoleums dominate.
+
+**Necromantic pressure** (escalate toward the [[Quarantine Zone | Sacrum]] — see Session 18 protection notes below):
+
+| Tier | Who feels it | Effect (suggested) |
+|------|----------------|---------------------|
+| Streets | Amulets | CON DC 12 at each milestone → fail **1 exhaustion** (cumulative); amulet chain **warm**, links **dull** |
+| Streets | Plate | Maker's mark **hum**; no exhaustion |
+| Streets | Joined **dragon-seal** tattoos | Sink radiation; souls feel **pinned** (display-still); dropping join for combat → shared **1d6 necrotic** + tether pull |
+| Mid-Zone (Samhain layout) | All | Perception: geometry **off**; History DC 12 — public story vs **layered wound** ([[Quarantine Zone | quarantine-zone]] GM) |
+| Sacrum approach | All | See Sacrum section |
+
+**Exploration beats:**
+
+* Houses **untouched**, **unoccupied** — personal effects, no corpses (party knows the public lie; GM truth: Samhain severing + Seven's **purge** made the scar — see wiki GM block).
+* **Material trail** — Investigation DC 13: wheel ruts, **charcoal dust**, **saltpetre** grit, scraped **false Oestra** armour scuffs from [[The Wallarch District | Wallarch]] **breach** toward the Sacrum (Anathemist supply line; matches Greysheath papers).
+* Optional **custodian** undead — librarians/witnesses on fixed routes; **ignore** party in plate or with accession chit bluff; escalate if exhibits damaged.
+* **Samhain hints** — Religion DC 13 on a mausoleum lintel: excarnation rites **older** than the Seven Houses' public founding story; Perception DC 14 in a plaza — **no bird calls**, no insects (severed ecology, not mere quarantine).
+
+
+h3. The Sacrum Entrance (Nielsenn)
+
+**Building:** The [[Quarantine Zone | Sacrum]] — [[The Eighth House | House Samhain]] headquarters ([[Quarantine Zone | quarantine-zone]]). Anathemist **staging ground**: charcoal, nitre, sulphur traces, **armour prep**, copied routes, **disguised** traffic (not lived-in).
+
+bq). You know the building before anyone names it. It sits at the centre of the Quarantine Zone like a verdict — flying buttresses of black stone, pointed arches stacked upon pointed arches, gargoyles on the lintels. The doors are grand; the windows are narrow. No lamp burns at the entrance. The heart of the Eighth House is dark, cold, and hungry.
+
+**Interior (approach):**
+
+bq). The air is dry and colder than the Zone outside — preserved, not fresh. Corridors branch into memorial galleries where niches wait in ranks, spaces in which a full skeleton could stand. Floors are black polished stone. Vaulting draws the eye upward into shadow, then denies it a resting place. Every room feels like the antechamber to a larger grief. Duties half-finished — not emptiness, but **interrupted ritual**.
+
+**First corpse:** [[:nielsenn | Nielsenn]] — [[House Mabon | House Mabon]] **[[Adjutant | adjutant]]**, master locksmith (public record: vaporised in his shop; **true fate** GM-only until ghost speaks).
+
+* **Body:** Desiccated, slumped against wall.
+* **Ghost:** Manifests on approach — spirit **trapped** by Zone radiation ([[:nielsenn | Nielsenn]] character GM block). Wants **violence** against his killers (Georges dead; **[[:jean-de-dinteville | Paddington de Dinteville]]** still live at this point in Session 19 plan).
+
+**Story the ghost can tell** (party-facing — [[The Investigation | investigation]] timeline; Nielsenn speaks in **broken time**, clutching at the last night):
+
+* *1st Ostory 4218* - Aourorious posed as a concerned lock buyer - asked what the great and good of the city used to be sure he was getting the best. Bought a very fancy lock.
+* *8th Ostory 4218* — Taken from his [[House Mabon | Mabon]] shop after dusk; **staged explosion** (public record: vaporisation). Woke in the Sacrum; **[[:marceline | Marceline]]** never showed her face — only merchants and a **gnome-sized** iron collar he could not pick from the inside.
+* *8th–24th Ostory* — Held in a **memorial side-chapel** (sleep on stone, meals pushed under the door). Heard the anathemists moving heavy things; counted **seventeen days** by scratches on the wall.
+* *25th Ostory — heist night*:
+** just before midnight — **[[:georges-de-selve | Georges]]** and **[[:jean-de-dinteville | Paddington]]** took him through the [[The Wallarch District | Wallarch]] breach in painted chest-plates; catacombs → [[Osteomantic Archives | archives]] → **[[House Oestra | Leageur]]** emergence.
+** Deep night — **[[:silas-oestra | Silas Oestra]]'s** rooms via stolen key; hours copying; Nielsenn heard them whisper a name — **Kosmios** — and did not understand it.
+** Before dawn — Catacombs back to Sacrum; Georges held his arms; Paddington cut his throat here against this wall. Georges is dead (Greysheath); Jean still in the city (Paddington).
+* *Aftermath* — Body abandoned; spirit **pinned** by Zone weight. He has watched **merchant traffic** come and go; knows **bombs** remain in the stockpile and **Dockward** is named on route scraps.
+
+
+**Clues:** remaining **explosives** stockpile (not all deployed — Dockward climax still live); Nielsenn's **prosthetic finger** mechanism (loot as evidence for Kelferria/Mabon).
+
+h3. The Grand Hall (showdown with Paddington)
+
+**Setup:** **[[:jean-de-dinteville | Paddington de Dinteville]]** waits with **Anathemist allies** (stay-behind **merchant muscle** — **not** Georges, Marceline, or Arouraios). **Fight to the death** unless the table wants a captured lieutenant.
+
+bq). The grand hall opens like a cathedral of death. Black stone columns rise into vaults where no choir ever sang; niches stand in ranks, each sized for a standing skeleton that never arrived. Wide steps rise to a grand throne sillhouetted against a window of blood-red glass.
+<br>
+Crates and bags are piled haphazardly, you can smell the sulfur from here - the raw materials of the bombmaker.
+<br>
+The dark shape of the throne shifts as the person sitting in it rises. As they step into the light you recognise Paddington de Interville. He wears Kelferria's plate over his merchant garb - the remains of a painted Oestra crest still visible on the chest.Similarly garbed spearmen step from behind pillars. Paddington spreads his hands. "Ah. The investigators. Just in time."
+
+**Arena:** Columns, niches, crates (half cover). Necromantic pressure **maximum** — joined **dragon-seal** tattoos strongly urged; somatic casting costs as Session 18.
+
+h4. Encounter — six level 4 PCs
+
+**Target difficulty:** **Medium**, shading **Hard** if the party is fresh and casters open with big spells (environment + **Anathema's Fury** tax). **Not** a long-rest slugfest after the deep archives.
+
+Lair hazards and **Zone pressure** below add threat without XP.
+
+**Paddington tweaks for this fight:**
+
+* **HP 58** (Greysheath wounds; was 68) — still dangerous, less slog.
+* **Opens round 1:** bonus **Hide** behind crates if he won initiative, else **Flash-Powder Courtesy** centred on the **crate gap** (blind spreaders; soldiers shut eyes).
+* **Priority targets:** concentration casters → whoever reached Nielsenn's corpse (Cutting Appraisal on the "hesitant" PC).
+* **After You** only when a **soldier** is adjacent — never waste it on the Lieutenant unless desperate.
+* **No flight** — side doors barred; win by killing the Wonch or dying loud enough that Dockward hears.
+
+**Goon roles:**
+
+| Name (optional) | Stat | Position | Job |
+|-----------------|------|----------|-----|
+| **Lieutenant "Steady Tread"** | Lieutenant | **Crate gap** (centre choke) | **Zealous Command** when casters slip up; longsword; does not chase past charcoal spill |
+| **Soldier A** | Soldier | Left flank, niche doorway | Spear reach; **brace** gap with Lieutenant |
+| **Soldier B** | Soldier | Right flank, stacked crates | Hand-thrown spears at casters behind front line |
+| **Soldier C** | Soldier | Rear with Paddington | Body shield; **Dash** to flank if one PC tries to climb crates |
+
+**Map (rough — 40 ft × 50 ft hall):**
+
+```
+[SOUTH — party enters, rubble difficult 10 ft]
+        |    charcoal spill (difficult)     |
+   niche|  crate|crate| GAP |crate|crate  |niche
+   door |  half cover line (Paddington)   | door
+        |    nitre cask · sulphur sacks   |
+[NORTH — barred service doors, Dockward crates marked]
+```
+
+* **Half cover:** painted **Oestra** crates (3-high wall). Investigation DC 12: **Mabon** plate underneath — same kit from Nielsenn's room.
+* **Difficult terrain:** **Charcoal spill** (15 ft patch west); **rubble** at entry.
+* **Hazards (one-shot each unless noted):**
+# *Nitre cask / sulphur* (east): first fire or spark (flash powder counts) within 5 ft → each creature in 10 ft radius DEX DC 12 or 2d6 fire; area lightly obscured 1 round.
+# *Hanging iron lamp* (15 ft up, mid-room): one action, Athletics DC 14 or attack AC 12 → drops on 5 ft square, DEX DC 13 or 2d6 bludgeoning and prone.
+# *Trip line + caltrops* in crate gap (Paddington prep): Perception DC 14 to spot; first creature crossing without disarming (Thieves' Tools DC 13) → DEX DC 13 or 1d6 piercing, prone, speed 0 until stand.
+
+**Zone pressure (everyone in hall, start of each round):**
+
+* **Plate (Pin/Ayr):** no effect.
+* **Amulets (Amanira/Ros/Silrie):** CON DC 11 or **speed −10 ft** until end of turn (pressure, not exhaustion).
+* **Joined tattoos (DW/Wilrin):** if **not** joined, CON DC 12 or **1d6 necrotic**; somatic spells while split cost **1 exhaustion** as Session 18.
+
+**Lair actions (initiative count 20, 1/round, Paddington still alive):**
+
+# **Smoke pot** — 20-ft-radius **lightly obscured** centred on crate fort (2 rounds).
+# **Kicked keg** — charcoal keg rolls 20 ft toward largest PC cluster; DEX DC 12 or **1d8 bludgeoning** + 10-ft patch becomes difficult terrain.
+# **Set spears** — until next lair action, first creature moving through **crate gap** from south: attacked as **+4 to hit, 2d6+2 piercing**; on hit, movement ends (brace).
+# **Echo of the hall** — necromantic reverberation; one random PC WIS DC 11 or **disadvantage on next attack** (whispers of unfinished excarnation rites).
+
+Rotate in order; skip if redundant (don't stack smoke).
+
+**Round-by-round AI:**
+
+# Lieutenant + soldiers **hold the gap**; spears at anyone in 10 ft. Paddington **Hand Crossbow** or **Flash-Powder** through crate slats.
+# If two+ PCs flank: Soldier C **Dash** to intercept; Paddington **Cutting Appraisal** on healer or wizard.
+# Bloodied Paddington: **Cunning Action Disengage** back, second **Flash-Powder**, monologue beat *Wonch* while Lieutenant **Zealous Command** punishes last spellcaster.
+# Last goon dying: Paddington goes **melee** only if cornered; otherwise crossbow and insults until dropped.
+
+**Scaling:**
+
+* **Too easy** (party unhurt round 3): Lieutenant calls **Smoke pot** early + Soldier B closes to melee; or add **1 soldier** (raw +200, adjusted +400 — still Medium).
+* **Too hard** (two down): Paddington offers false parley one round (no action) — use only if table needs breather; he lies about Dockward timer.
+* **Short on time:** Drop to Paddington + **2 soldiers** (raw 1,500 ×2 = **3,000** adjusted — lower Medium); keep lair actions.
+
+h4. Stat blocks
+
+<div class="stat-block">
+<h3>Paddington de Dinteville, Pride's Stumbling Block</h3>
+<p><em>Medium humanoid (human), lawful evil</em></p>
+<p><strong>Armor Class</strong> 16 (studded leather beneath fine clothes)<br>
+<strong>Hit Points</strong> 58 (8d8 + 32; Greysheath — full 68 on character page)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +3</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>10 (+0)</td><td>17 (+3)</td><td>18 (+4)</td><td>14 (+2)</td><td>14 (+2)</td><td>18 (+4)</td></tr>
+</table>
+<hr>
+<p><strong>Saving Throws</strong> Dex +6, Wis +5, Cha +7<br>
+<strong>Skills</strong> Deception +10, Insight +5, Perception +5, Persuasion +10, Sleight of Hand +6<br>
+<strong>Senses</strong> passive Perception 15<br>
+<strong>Languages</strong> Common, two others<br>
+<strong>Challenge</strong> 4 (1,100 XP)<br>
+<strong>Proficiency Bonus</strong> +3</p>
+<hr>
+<p><strong>Anathema's Fury.</strong> When a creature Paddington can see within 60 feet casts a spell, Paddington has advantage on attack rolls against that creature until the end of Paddington's next turn.</p>
+<p><strong>Cunning Action.</strong> On each of his turns, Paddington can take the Dash, Disengage, or Hide action as a bonus action.</p>
+<p><strong>Social Predator (1/Turn).</strong> Paddington deals an extra 7 (2d6) damage when he hits with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of one of Paddington's allies and Paddington doesn't have disadvantage on the roll.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> Paddington makes two rapier or hand crossbow attacks.</p>
+<p><strong>Rapier.</strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (1d8 + 3) piercing damage.</p>
+<p><strong>Hand Crossbow.</strong> <em>Ranged Weapon Attack:</em> +6 to hit, range 30/120 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
+<p><strong>Flash-Powder Courtesy (2/Day).</strong> Paddington scatters flash powder at a point within 20 feet. Each creature other than an Anathemist in a 10-foot-radius sphere centred on that point must succeed on a DC 14 Constitution saving throw or be blinded and unable to take reactions until the end of Paddington's next turn. On a success, a creature is not blinded but still cannot take reactions until the start of its next turn.</p>
+<p><strong>Cutting Appraisal (Recharge 5–6).</strong> Paddington names a hesitation he has observed in a creature that can hear and understand him within 30 feet. The target must succeed on a DC 14 Wisdom saving throw or have disadvantage on attack rolls against creatures other than Paddington until the end of Paddington's next turn. Until then, Paddington's allies have advantage on opportunity attacks against the target.</p>
+<hr>
+<h4>Reactions</h4>
+<p><strong>After You.</strong> When Paddington is targeted by an attack while within 5 feet of a conscious creature, he can move 5 feet without provoking an opportunity attack. If this movement places that creature between Paddington and the attacker, Paddington gains +3 AC against the triggering attack, potentially causing it to miss.</p>
+</div>
+
+<div class="stat-block">
+<h3>Anathemist Lieutenant</h3>
+<p><em>Medium humanoid (any race), lawful neutral</em></p>
+<p><strong>Armor Class</strong> 16 (breastplate, shield)<br>
+<strong>Hit Points</strong> 39 (6d8 + 12)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +1</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>16 (+3)</td><td>12 (+1)</td><td>14 (+2)</td><td>11 (+0)</td><td>14 (+2)</td><td>13 (+1)</td></tr>
+</table>
+<hr>
+<p><strong>Saving Throws</strong> WIS +4, CHA +3<br>
+<strong>Skills</strong> Athletics +5, Intimidation +3, Perception +4, Religion +4<br>
+<strong>Senses</strong> passive Perception 14<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 2 (450 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Anathema's Fury.</strong> When a creature the lieutenant can see within 60 feet casts a spell, the lieutenant has advantage on all attack rolls against that creature until the end of the lieutenant's next turn.</p>
+<p><strong>Zealous Command.</strong> When the lieutenant hits a creature that has cast a spell since the start of the lieutenant's last turn, one Anathemist soldier within 30 feet of the lieutenant can use its reaction to move up to half its speed and make one spear attack against that creature.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> The lieutenant makes two melee attacks.</p>
+<p><strong>Longsword.</strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.</p>
+</div>
+
+<div class="stat-block">
+<h3>Anathemist Soldier</h3>
+<p><em>Medium humanoid (any race), lawful neutral</em></p>
+<p><strong>Armor Class</strong> 15 (studded leather, shield)<br>
+<strong>Hit Points</strong> 27 (5d8 + 5)<br>
+<strong>Speed</strong> 30 ft.<br>
+<strong>Initiative</strong> +1</p>
+<hr>
+<table>
+    <tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr>
+    <tr><td>14 (+2)</td><td>12 (+1)</td><td>12 (+1)</td><td>10 (+0)</td><td>13 (+1)</td><td>10 (+0)</td></tr>
+</table>
+<hr>
+<p><strong>Skills</strong> Athletics +4, Perception +3, Religion +2<br>
+<strong>Senses</strong> passive Perception 13<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 1 (200 XP)<br>
+<strong>Proficiency Bonus</strong> +2</p>
+<hr>
+<p><strong>Anathema's Fury.</strong> When a creature the soldier can see within 60 feet casts a spell, the soldier has advantage on all attack rolls against that creature until the end of the soldier's next turn.</p>
+<hr>
+<h4>Actions</h4>
+<p><strong>Multiattack.</strong> The soldier makes two melee attacks.</p>
+<p><strong>Spear.</strong> <em>Melee or Ranged Weapon Attack:</em> +4 to hit, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.</p>
+</div>
+
+_Canon copies: [[:jean-de-dinteville | Paddington]], [[Anathemists | Anathemist Soldier / Lieutenant]] wiki._
+
+**Monologue beats** (between rounds or at bloodied):
+
+# *Sindrel rot* — "You live in a mausoleum that pretends to be a city. Magic dies; the Houses **perform** immortality while the gutters fill with powder and spite."
+# *Oestra machinations* — "Your Factor's rooms were **gift-wrapped**. We did not invent the lock — only the **evening** when no one was home. The Houses would burn each other for a footnote in the Kosmios files."
+# *Project Kosmos* — Name only (same tier as [[:commander-locke | Locke]]): "There is a **project** the council pretends is history. We read enough to know it is **policy**." No operational detail.
+# *Wonch* — "The Hexine Circle sent you to **tidy**. You are brooms in a burning library — useful, disposable, and late."
+
+**Aftermath — cliffhanger:**
+
+* Defeated Paddington's **last words:** he was **distraction**; **bombs** nearly placed; **[[Dockward | Dockward]]** will fall; party **too late**.
+* **Far overhead** — muffled **detonation** (early trigger — next session: bombs **not** synchronised; Wonch race to disarm).
+
+**Next session hook (Overview):** Forced early detonation; Anathemists **less prepared**; party saves Dockward.
+
+h2. Previous Session Plan (Session 18)
 
 We pick up where we left off - the party making their way through the deep archives towards the quarantine zone.
 
@@ -223,7 +528,7 @@ The party can navigate the walkways, restricting the snake's movement but also t
 
 h3. The Quarantine Zone and the Sacrum
 
-bq). The route makes its way up a grand and winding staircase. As you climb, you pass alcoves containing [TODO]. Finally you find yourselves once again in the familiar surroundings of the public hall of an osteomantic archive - astringed rows of pews around a central dias inlaid with what you now know to be an excarnation spell. The room is deserted and eerily silent - the gentle creek as the open doors shift in the breeze is the only sound.
+bq). The route makes its way up a grand and winding staircase. As you climb, you pass alcoves containing Samhain-era props (evacuation bell, empty Red Mourning reliquary, processional skull-mask — see *Grand stair alcoves* above). Finally you find yourselves once again in the familiar surroundings of the public hall of an osteomantic archive — austere rows of pews around a central dias inlaid with what you now know to be an excarnation spell. The room is deserted and eerily silent; the gentle creak as the open doors shift in the breeze is the only sound.
 
 The party emerges from the deep archives into the Quarantine Zone. The Zone should feel like a dead city preserved at the instant of catastrophe, with no bodies despite every other detail remaining in place.
 
@@ -254,4 +559,4 @@ There is no bustle of a living headquarters — no clerks, no petitioners, no po
 <br>
 For the first time in this place of death you find actual evidence of the dead - a dessicated corpse sits slumped against one wall.
 
-The corpse is Nielsenn, the House [TODO] locksmith whom the anathemists kidnapped, used, and murdered. Approaching him will cause his ghost, trapped in this place by the necromantic radiation, to manifest and entreat the adventurers to violence.
+The corpse is [[:nielsenn | Nielsenn]], [[House Mabon | House Mabon]] adjutant locksmith whom the Anathemists kidnapped, used, and murdered. Approaching him causes his ghost to manifest — see *The Sacrum Entrance* (Session 19 plan) for dated narration and asks.
