@@ -1,6 +1,6 @@
 {
   "last_git_publish": "2026-10-25T15:23:24Z",
-  "last_portal_pull": "2026-10-25T14:59:08Z",
+  "last_portal_pull": "2026-10-28T15:04:00Z",
   "pages": {
     "000ab2d4ade64971a47d72bbdb8c265d": {
       "last_synced_title": "Pthul",
@@ -1737,9 +1737,9 @@
       "op_id": "c86f013976e7444682e3b40e86194b63",
       "op_kind": "Wiki",
       "op_slug": "the-fallowhurst-sigil",
-      "op_updated_at": "2026-07-02T15:57:23Z",
+      "op_updated_at": "2026-10-25T16:25:45Z",
       "repo_blob_sha": "86619f28e8a38e31b0e8c7ab33e671bc0e2707fb",
-      "repo_hash_at_sync": "d4266dc4762f7d8d950f6db725fece9c6e665bce7c0dead834e6390942f50f6d",
+      "repo_hash_at_sync": "308dcfed54ad7ebd780f1590146aae1d01df171a54b300fe7ede226925ab2ce9",
       "repo_path": "lore/wiki/wiki/the-fallowhurst-sigil.textile"
     },
     "cb55235bcbf04834b96d24d21921e0db": {
@@ -1887,9 +1887,9 @@
       "op_id": "e29c0674519f48e68f931ab80cac0f3a",
       "op_kind": "Wiki",
       "op_slug": "session-x-planning",
-      "op_updated_at": "2026-10-25T15:22:11Z",
+      "op_updated_at": "2026-10-25T16:28:55Z",
       "repo_blob_sha": "1aedc0ea686a5a0fc828c592d653f0e2f55238fd",
-      "repo_hash_at_sync": "744c652126231561ab020562c605cf731a02268b813d3b9b6f7fb649868c9935",
+      "repo_hash_at_sync": "95d699ab423412fc917ee1a60e4c79011d945256b84d6e70383d7318e7fd8cee",
       "repo_path": "lore/wiki/adventure-log/session-x-planning.textile"
     },
     "e2da37ba92ce4862a0165713a93c5a64": {

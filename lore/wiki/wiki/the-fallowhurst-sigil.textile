@@ -7,7 +7,7 @@ name: The Fallowhurst Sigil
 title: The Fallowhurst Sigil
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/the-fallowhurst-sigil
 op_created_at: '2026-01-14T11:06:05Z'
-op_updated_at: '2026-01-14T18:17:09Z'
+op_updated_at: '2026-10-25T16:25:45Z'
 op_gm_only: false
 tags:
 - item
@@ -25,9 +25,15 @@ A magic circle forming part of a binding spell. An incomplete version was found 
 <!-- GM_INFO_START -->
 h2. The Binding
 
+The original spell was a variation of Lichdom - the intent was to bind carlos winterborne's soul to his still living body, using the latter as a phylactory and channelling ambient or incoming magic into maintaining the spell. If successful he would have been immortal, ageless, and immune to all forms of magical attack.
+
+The spell was only partially successsful - having converted carlos's body into a phylactory it became inviolable - the subsequent step of binding his soul to it rebounded, consuming the vitality of the entire population of the college and binding the souls of the dying scholars and patients to the college itself.
+
 Wilrin's blood-magic attempt linked him and Deathwalker to the centuries-old binding spell. Both bear permanent sigil scars. The link has one known mechanical consequence:
 
-Whenever Deathwalker takes damage, Wilrin rolls a d8. On a 1, Deathwalker takes half damage and Wilrin takes the rest.
+*Whenever Deathwalker takes damage, Wilrin rolls a d8. On a 1, Deathwalker takes half damage and Wilrin takes the rest.*
 
-Further effects are unknown - the spell outlasted the death of magic itself.
+Further effects are unknown and likely unpredictable - Wilrin's reconsutriction from the partial equation found on the blackboard was guesswork - the gaps are filled with nonsense. Each time he draws it, Wilrin's wild magic bridges the gaps, linking back to the spell. Having now connected it to DW's undead binding, kithrak's seal, and the archive tattoos, the result is an unstable mish-mash of sindrel, tellerite, and wild magic containing at least 3 separate undead systems.
+
+This also means they effectively conned the black cats - the sigil as drawn by Wilrin is useless to anyone else, without his wild magic there's nothing to bridge the gap.
 <!-- GM_INFO_END -->

@@ -7,7 +7,7 @@ name: 'Session X: Planning'
 title: 'Session X: Planning'
 op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-x-planning
 op_created_at: '2026-07-14T17:41:44Z'
-op_updated_at: '2026-09-30T17:27:03Z'
+op_updated_at: '2026-10-25T16:28:55Z'
 op_gm_only: true
 tags: []
 post_title: 'Session X: Planning'
@@ -21,20 +21,18 @@ h2. Upcoming Session Plan
 We pick up where we left off - the party making their way through the deep archives towards the quarantine zone.
 
 Pin and Ayr have kelferria-forged armour - they're protected from the necromantic radiation.
-Amanira, Ros and Silrie have protective amulets - it'll prevent it from killing them but they'll experience some side effects.
-DW and Wilrin are relying on their new tattoos.
-
-h3. 2. Into the Deep Archives
+Amanira, Ros and Silrie have protective amulets - it'll prevent it from killing them but they'll experience some side effects. Con saves at the major milestones, physical discomfort and signs of wear and tear on the amulets.
+DW and Wilrin are relying on their new tattoos. When they have it up they are bound to their bodies - this bypasses normal meat and sinew - the soul has direct control over the body. When they drop it (for example, to attack or cast any spell with a somatic component), they start taking exhaustion.
 
 The route passes through the following displays:
 
 * The Seven-Day War diorama.
 * The Founding of the Magedom of Houd.
 * The Hall of Failed Resurrections.
-* The Extinct Menagerie.
 * The Hall of Plagues.
+* The Extinct Menagerie.
 
-h4. Seven-Day War diorama
+h3. Seven-Day War diorama
 
 bq). The passageway opens into an enormous space - the walls and ceiling almost lost in the haze of distance. The floor rises and falls in a stone simulacrum of rolling hills; you can even see the glint of meagre light on what appears to be a river of polished obsidian. You are surrounded by a motionless army of armed and armoured skeletons - two hosts frozen in the throes of a colossal conflict. A path of silver bands wends between the ranks. Many are missing parts; teeth and fingerbones litter the slopes like hail that never melted. The remains of brass pegs, wire through rib cages, and discreet pins at the ankles can be seen where these supports have failed. The whole battlefield has the brittle patience of a display that expects to be looked at, not walked through.
 
@@ -44,7 +42,7 @@ bq). The path leads between the giant's legs, just wide enough for single-file.
 
 The Anathemists crossed light and fast — minimal vibration, no destabilisation. The Wonch in [[:kelferria-the-smith | Kelferria]] plate are less subtle; treat the crossing as a **fixed procession order** (one spotlight beat per party member). Allies may Help or Ready actions as noted; players may swap who takes which beat if they plan it before entering the kill zone.
 
-h5. Brassmeade Bridge — seven-beat escalation
+h4. Brassmeade Bridge — seven-beat escalation
 
 # *The club swings* — Lead PC. Passing under the colossus or the first brass footfall shears a display pin; the club sweeps in its posed arc (inertia and gravity, not a living attack). DEX save DC 15, or Acrobatics DC 15 to dive between the legs. Fail: 3d10 bludgeoning, prone; disadvantage on the next beat's first save.
 # *The club detaches and falls* — Second PC. The sweep tears the club free; it drops along the bridge approach and blocks or bounds through the lane. DEX DC 15 (Small/Tiny +2 to DC) or STR Athletics DC 14 to shove the haft aside and keep a gap open. Fail: 2d10 bludgeoning, restrained until STR DC 14 escape.
@@ -57,7 +55,7 @@ h5. Brassmeade Bridge — seven-beat escalation
 
 **Aftermath:** Catastrophic exhibit damage; caretakers prioritise containment and retrieval over a fair fight — good hook into the next deep-archive rooms. Tune DCs for party level (~5–6); plate imposes +1 DC on Stealth-only beats elsewhere, not on these structural saves.
 
-h4. Founding of the Magedom of Houd
+h3. Founding of the Magedom of Houd
 
 **Exhibit type:** Automated historical presentation — not a combat arena. Kingdom panels on the magical equivalent of hydraulics rise and fall to spotlight whichever realm the narration is discussing. A **visitor lane** (inset brass strip with low rails and floor markers: *REMAIN ON GUIDED PATH*) runs from the entrance to the exit under the golden arch. The founding **tableau** on the central dais is static props (mixed-material delegates around a table); the **story is told by the map and the voice**, not by walking on kingdom borders.
 
@@ -72,7 +70,7 @@ bq). As your foot touches the surface, you feel a dull rumbling beneath you. Mag
 At the central dias, the skull facing you is wreathed in sickly necromantic flame. A voice echoes over the chamber - "Welcome to the unification of the northern kingdoms under the Mage Lord Council. Our story begins with the collapse of the maritime trade empire of the Venatici city state..." a section of the map to your left rises jerkily to the height of the path, while a flickering spotlight illuminates an area slighty to its right.
 
 
-h5. The presentation (erratic)
+h4. The presentation (erratic)
 
 Run as **six beats**, ~one round each unless the party dawdles. On each beat the **named region lifts, sinks, or tilts** (typically 3–6 ft change at edges; centre dais stays fixed). After Brassmeade + sabotage, roll **1d6** on the beat or pick **wrong kingdom** occasionally so the room feels broken.
 
@@ -86,7 +84,7 @@ Run as **six beats**, ~one round each unless the party dawdles. On each beat the
 
 **Optional player knowledge:** History DC 12 on any beat predicts **which kingdom the voice meant to highlight** — useful if they cross off-path (see below), not required on the visitor lane.
 
-h5. Anathemist traps (on the guided path only)
+h4. Anathemist traps (on the guided path only)
 
 The cell booby-trapped **where investigators would walk**, not the whole map — delay pursuers, maim interlopers, avoid wasting charges on the whole hall. Their own route went over the least historically important kingdoms (least likely to move) - discoverable by close inspection if they know what they're looking for.
 
@@ -99,7 +97,7 @@ The cell booby-trapped **where investigators would walk**, not the whole map —
 
 Traps are **mundane** ([[Anathemists | Anathemist]] kit), keyed to **presentation motion** where noted — the powder seam fires when the adjacent kingdom **rises** on beat 2 or 4.
 
-h5. Choice: path or map
+h4. Choice: path or map
 
 **Stay on the visitor lane** — Face traps one by one (or speed-run and eat consequences). Map motion is **minor** under the brass strip (vibration, sudden 1 ft drop at a seam). Suitable for methodical play and **Silrie / Ayr** clearing while armoured PCs advance.
 
@@ -111,14 +109,14 @@ h5. Choice: path or map
 
 **Mixed column:** Allowed — e.g. two disarmers on lane, rest shortcut across **one** rising kingdom during beat 3 with a timed dash. Anathemists used the lane; **Marceline's route** may show **scuff marks off-path** only where tiles were down during their timing (Investigation DC 14 to spot the pattern — intel, not mandatory).
 
-h5. Emergency sink
+h4. Emergency sink
 
 If the loop **resets** (beat 6) or the party **triggers two traps**, run a **maintenance sink**: all map panels except the dais and visitor lane drop **1 ft** over 6 seconds. Anyone off-path on a sinking tile: DEX DC 15. Fail: trapped in piston well until allies pull (Athletics DC 14) or next beat raises that tile (2d6 crush).
 
 **Aftermath:** Presentation aborts into **static mode** — voice dead, lights low, hydraulics ticking. Caretakers already inbound from Brassmeade; this room adds **sabotage on record** if traps detonate. Exit: through the arch to **Hall of Failed Resurrections**.
 
 
-h4. The Hall of Failed Resurrections
+h3. The Hall of Failed Resurrections
 
 bq). The corridor ends at a pair of white doors, their surfaces engraved with dozens of names.
 
@@ -128,21 +126,36 @@ The bodies within the cases are strange. No two are alike, and none look wholly 
 <br>
 Every case bears a narrow brass plate: a name and three dates atop a dense block of text. Three cases stand empty. Winding between the cases you can see the characteristic worn path of an animate skeletal caretaker.
 
-h5. Examining the cases.
+h4. Examining the cases.
 
 The plaque for each case give the name of the individual (if known), the dates of their birth and death (if known) and the date of their attempted resurrection. The text below details the magics used (in a necromantic notation none of the party read) and the result, invariably a failure and often involving a bodycount.
 
 Two of the three empty cases correspond to the two teaching skeletons at Fallowhurst. These are two of the earliest examples, and the least destructive failures. Both bear an additional plaque reading *ON LOAN — FALLOWHURST COLLEGE OF MEDICINAL STUDIES.*
 
-The dragonborn was an attempt at soulbiding - the same technology that would ultimately power the archives (can be peaced together from diagrams of a binding circle - a predecessor of the mark that DW and Wilrin now bear on their forearms).
+The dragonborn was an attempt at soulbinding - the same technology that would ultimately power the archives (can be peaced together from diagrams of a binding circle - a predecessor of the mark that DW and Wilrin now bear on their forearms).
+
+bq(in-world-document). Specimin A-FR-0881 Personal Name Unkown <br>?–?–3221
+<br>
+An early experiment in Soulbinding.
+<br>
+Assessment: Binding persisted for 14.3s before decaying. Note the lack of stabilising reciprocal terms in the containment heuristic.
 
 The elven skeleton was a variant on the lich equation - an attempt to redirect the body's unused heat and magic into the phylactory in place of the souls it would otherwise need to consume. It resulted in a runaway reaction where the spell rapidly consumed _all_ heat and magic from the subject, killing them quickly and horribly and reducing the phylactory to dust.
 
+bq(in-world-document). Andronyx Zrovkas <br>3018–3231–3231
+<br>
+Attempted lichdom variant using entropic bodily thaumic and thermal byproducts to empower the phylactoric vessil in place of soul consumption.
+<br>
+Assessment: An unbalanced remainder in the modified Lichdom Equation resulted in endothaumic runaway - unchecked draw from the phylactoric vessel drained the subject's vitality leading to bodily expiration after 3.14s and complete soul dissolution after 6.12s.
+
 The final empty case is the newest. The party recognise the name- Carlos Winterborne. The dates are 3213, 3238, and 3238. The caption (following the necromantic notation) reads
 
-bq). A novel variation upon the Lich equation, substituting the mortally wounded subject themselves in place of the external phylacteric vessel. The intended outcome was to soulbind the subject unto their own corpus, whilst rendering the latter inviolable. Additional protective terms were intended to ensnare incidental magics to sustain the binding, affording both protection and freedom from the classical lich's dependence upon the consumption of external vitality.
+bq(in-world-document). Carlos Winterborne<br>3213-3238-3238
+<br>
+A novel and extreme variation upon the Lichdom Equation, substituting the mortally wounded subject themselves in place of the external phylacteric vessel. The intended outcome was to soulbind the subject unto their own corpus, whilst rendering the latter inviolable. Additional protective terms were intended to ensnare incidental magics to sustain the binding, affording both protection and freedom from the classical lich's dependence upon the consumption of external vitality.
 <br>
 Assessment: Failure of the order of operations — the corpus, having been rendered inviolable, rejected the soulbind. The rebound is understood to have consumed the entirety of Fallowhurst College.
+
 
 In a secondary, temporary plaque:
 
@@ -150,7 +163,7 @@ bq). Procurement pending.
 
 The curators classify Wilrin's skull as an overdue exhibit. If he refuses to surrender it, a caretaker may begin the return procedure; if he presents himself as the skull's current bearer, the archive may instead demand an explanation, a loan extension, or a replacement accession.
 
-h4. The Hall of Plagues
+h3. The Hall of Plagues
 
 bq). The double doors at the end of the corridor stand ajar. As you approach your light glints on glass in the room beyond. Strangely, the doorframe is rimmed with frost.
 
@@ -194,7 +207,7 @@ The party needs to identify the failing exhibit and restore containment. They co
 If they fail, the disease should escape as a developing crisis rather than an immediate combat encounter: perhaps a localised cloud, contaminated clothing, or an infected specimen escaping into the archive. The party then has to decide whether to seal themselves in, risk spreading it, or trigger a wider quarantine.
 
 
-h4. The Extinct Menagerie
+h3. The Extinct Menagerie
 
 bq). The chamber opens into a space of cathedral scale. Rows of columns march in orderly fashion toward distant walls, above you the ceiling is lost in shadows. Staircases wind around them, granting access to walkways and galleries high above. The base of each column is ringed with display cases. You can just make out the nearest - beneath the glass serrated teeth longer than a man's arm are neatly arrayed on black velvet.
 <br>
@@ -208,7 +221,7 @@ The party can navigate the walkways, restricting the snake's movement but also t
 
 
 
-h3. 5. The Quarantine Zone and the Sacrum
+h3. The Quarantine Zone and the Sacrum
 
 bq). The route makes its way up a grand and winding staircase. As you climb, you pass alcoves containing [TODO]. Finally you find yourselves once again in the familiar surroundings of the public hall of an osteomantic archive - astringed rows of pews around a central dias inlaid with what you now know to be an excarnation spell. The room is deserted and eerily silent - the gentle creek as the open doors shift in the breeze is the only sound.
 
