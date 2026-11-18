@@ -1,0 +1,78 @@
+---
+op_id: 25b1b149999942a3b39ac7bc6d5f3d01
+op_slug: session-18-dockward-falls
+op_kind: Wiki
+op_type: Post
+name: 'Session 18: Dockward Falls'
+title: 'Session 18: Dockward Falls'
+op_url: https://thelordsofsindrel.obsidianportal.com/wiki_pages/session-18-dockward-falls
+op_created_at: '2026-11-17T21:44:56Z'
+op_updated_at: '2026-11-18T08:14:51Z'
+op_gm_only: true
+tags: []
+post_title: 'Session 18: Dockward Falls'
+post_time: '2026-11-18T18:30:00Z'
+---
+
+h3. Session Overview
+
+Paddington and Ursus argue, giving away that there are three more bombs, that the Anathemists the party killed should have taken care of setting them, and that Paddington's own agents will now move on to setting the remaining bombs. Amanira has a map of the bombing sites, so they know where to go.
+
+The party activate an ancient portal gate, getting them to the Airport.
+
+They find and disarm the bomb, as well as learning that the rude people who set it were heading next to the Prow.
+
+At the prow, an anathemist rearguard provides a complication. They disarm the second bomb, but learn that Galoras has been kidnapped by the saboteurs. There's no time to make it to the final location on foot, Mabon leadership lends them The Audacity - an experimental interceptor class airship.
+
+Finally at the warehouse they show down the remaining anathemists. 
+
+In their moment of triumph, Galoras reveals themselves to be a traitor and activates Ayr's sword. The party have a tiny window of time to contain a highly dangerous magical explosion.
+
+h3. 1: The Confrontation
+
+bq). The explosion rings in your ears as you look at the Anathemist warrior, his arms raised and face turned upward in rapturous expectation. There's a moment of stillness as the echoes of the blast die away - a moment that seems to stretch for ever. After what seems an eternity, you see the warrior lower his arms slightly and glance awkwardly around the room.
+
+TODO: script the confrontation.
+
+h3. 2: The Portal
+
+bq). In the main atrium stands what you recognise as a portal - a free-standing stone archway inscribed with myriad magical symbols. A dozen feet above you at the capstone you can see a large blood-red crystal canted over to one side where the fittings have come away from the stone.
+
+The portal must be reactivated. It links to the Anchorage. 
+
+TODO: notes on this from the train. Funny outcomes.
+
+h3. 3: Bomb 1 - The Anchorage
+
+bq). The Anchorage is the entrance to Sindrel for all those rich and powerful enough to warrant an airship. It's designed to be immensely grand - domes of stained glass are supported by the slender marble pillars, themselves supported by absolutely nothing as their bases stand proudly in open air 20 feet from the tiled floor. Grand statues of the seven founders rise between them, sculpted in aspects of welcome and beneficence. The space is not crowded, the great and good of the continent would not tolerate being jostled, but there is a steady flow of people.
+
+TODO: add a description that points towards increased security around the luggage area.
+
+The bomb is hidden in the luggage sorting room. There's increased security since some people complained about their luggage being tampered with (maybe resurface Steg or Tryke here?). They can learn from the guards that some workers were seen tampering with luggage, and departed on foot heading spinwards. From Amanira's map they can figure that they're heading toward the Prow. 
+
+TODO: Bomb disarming puzzle. 
+
+The bomb stops with a decent amount of time left.
+
+h3. 4: Bomb 2 - The Prow
+
+bq). On the seaward side of the ring stands the building known as The Prow. Its name is well earned: the walls sweep steeply outwards, creating a structure resembling nothing more than the bow of a colossal ship jutting out over the waves far below. From this high seat, House Mabon oversees a trade empire that covers much of the continent.
+
+TODO: prow interior.
+
+The main offices are in uproar - Galoras is missing and their workshop has been ransacked.
+
+TODO: galoras' workshop description. Should include a workperson in Mabon clothes making a minimal attempt to clean up broken glass. Part of the workshop extends out onto a drydock where they've been building an airship.
+
+Amidst the chaos, the party recognise the now familiar shape of a bomb. If they start to tamper with it, the workperson reveals themselves to be an Anathemist rearguard and attacks. 
+
+With the rearguard defeated and the bomb disarmed, the party now need to get to the final location. They know where it is, but they also know that there was not a lot of time left on that bomb. House mabon will, however, lend them The Audacity, Galoras's experimental ship.
+
+Vehicle handling check to navigate the crowded skies of Sindrel.
+
+h3. 5: Bomb 3 - The Warehouse
+
+TODO: warehouse read-aloud
+
+
+h3. 6: Galoras's Betrayal
